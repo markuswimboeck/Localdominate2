@@ -40,7 +40,8 @@ const LOCALE = "en-US";
 // URLs but are not part of the baseline, so seo-check does not compare them.
 const PILLAR_IDS = ["diagnose", "position", "create", "build", "launch", "grow", "scale"]; // keep in sync with src/data/v4PillarIndex.ts
 const EXTRA_PATHS = ["/services", "/work", "/approach", ...PILLAR_IDS.map((id) => `/approach/${id}`),
-  "/industries", "/creators", "/insights", "/about", "/start-a-project", "/de"];
+  "/industries", "/creators", "/insights", "/about", "/start-a-project", "/de",
+  "/ar", "/ar/services", "/ar/work", "/ar/approach", "/ar/industries", "/ar/creators", "/ar/start-a-project"];
 
 const TYPES = { ".html": "text/html; charset=utf-8", ".js": "text/javascript", ".css": "text/css", ".json": "application/json",
   ".svg": "image/svg+xml", ".png": "image/png", ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".webp": "image/webp",
@@ -95,6 +96,8 @@ function capture(hydratedPaths) {
       return "<!--$-->" + clone.innerHTML + "<!--/$-->";
     })(),
     lang: document.documentElement.lang,
+    // Only the Arabic pages are right-to-left; the others keep whatever the shell has.
+    dir: location.pathname === "/ar" || location.pathname.startsWith("/ar/") ? "rtl" : "",
     finalPath: location.pathname,
   };
 }
@@ -178,6 +181,7 @@ async function main() {
     let html = shell.slice(0, headStart) + "\n    " + head + "\n  " + shell.slice(headEnd);
     html = html.replace(rootRe, `<div id="root">${r.root}</div>`);
     if (r.lang) html = html.replace(/<html([^>]*)\slang="[^"]*"/, `<html$1 lang="${r.lang}"`);
+    if (r.dir) html = html.replace(/<html([^>]*?)(\sdir="[^"]*")?>/, `<html$1 dir="${r.dir}">`);
     const out = toFile(r.path);
     fs.mkdirSync(path.dirname(out), { recursive: true });
     fs.writeFileSync(out, html);

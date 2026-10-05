@@ -19,6 +19,14 @@ const LOADERS: Record<string, PageLoader> = {
   "/about": () => import("@/pages/v4/AboutV4"),
   "/start-a-project": () => import("@/pages/v4/StartProjectV4"),
   "/de": () => import("@/pages/v4/DeV4"),
+  // Arabic (right-to-left) versions of the seven main pages.
+  "/ar": () => import("@/pages/v4/ar/HomeAr"),
+  "/ar/services": () => import("@/pages/v4/ar/ServicesAr"),
+  "/ar/work": () => import("@/pages/v4/ar/WorkAr"),
+  "/ar/approach": () => import("@/pages/v4/ar/ApproachAr"),
+  "/ar/industries": () => import("@/pages/v4/ar/IndustriesAr"),
+  "/ar/creators": () => import("@/pages/v4/ar/CreatorsAr"),
+  "/ar/start-a-project": () => import("@/pages/v4/ar/StartProjectAr"),
   ...Object.fromEntries(PILLAR_INDEX.map((p) => [pillarPath(p.id), loadPillar])),
 };
 

@@ -237,6 +237,14 @@ const InsightsV4 = lazyV4Page("/insights");
 const AboutV4 = lazyV4Page("/about");
 const StartProjectV4 = lazyV4Page("/start-a-project");
 const DeV4 = lazyV4Page("/de");
+// Arabic (right-to-left) versions of the seven main pages.
+const HomeAr = lazyV4Page("/ar");
+const ServicesAr = lazyV4Page("/ar/services");
+const WorkAr = lazyV4Page("/ar/work");
+const ApproachAr = lazyV4Page("/ar/approach");
+const IndustriesAr = lazyV4Page("/ar/industries");
+const CreatorsAr = lazyV4Page("/ar/creators");
+const StartProjectAr = lazyV4Page("/ar/start-a-project");
 const DesignSystemPreview = lazy(() => import("./pages/v4/DesignSystemPreview"));
 
 // Lazy load CoreWebVitalsTracker - not needed for initial render
@@ -278,6 +286,13 @@ const App = () => (
                 <Route path="/about" element={<AboutV4 />} />
                 <Route path="/start-a-project" element={<StartProjectV4 />} />
                 <Route path="/de" element={<DeV4 />} />
+                <Route path="/ar" element={<HomeAr />} />
+                <Route path="/ar/services" element={<ServicesAr />} />
+                <Route path="/ar/work" element={<WorkAr />} />
+                <Route path="/ar/approach" element={<ApproachAr />} />
+                <Route path="/ar/industries" element={<IndustriesAr />} />
+                <Route path="/ar/creators" element={<CreatorsAr />} />
+                <Route path="/ar/start-a-project" element={<StartProjectAr />} />
                 <Route path={PILLAR_BASE} element={<ApproachV4 />} />
                 {PILLAR_INDEX.map((p) => (
                   <Route key={p.id} path={pillarPath(p.id)} element={<PillarV4 />} />

@@ -1,0 +1,110 @@
+/**
+ * LocalDominate V4, Arabic (right-to-left). Scoped under `.v4-ar`, which V4Page puts on the
+ * wrapper of every /ar page, so nothing on the English pages changes.
+ * Fonts are self-hosted (public/fonts/ar): IBM Plex Sans Arabic for text, Noto Naskh Arabic for
+ * display headings (the counterpart of the Latin serif). Latin names and numerals fall back to Geist.
+ */
+@font-face {
+  font-family: "LD Plex Arabic";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/ar/ibm-plex-sans-arabic-arabic-400-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "LD Plex Arabic";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/ar/ibm-plex-sans-arabic-arabic-500-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "LD Plex Arabic";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/ar/ibm-plex-sans-arabic-arabic-600-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "LD Plex Arabic";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/ar/ibm-plex-sans-arabic-arabic-700-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "LD Naskh";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/ar/noto-naskh-arabic-arabic-400-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "LD Naskh";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/ar/noto-naskh-arabic-arabic-500-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "LD Naskh";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/ar/noto-naskh-arabic-arabic-700-normal.woff2") format("woff2");
+}
+
+.v4-ar {
+  --v4-font-sans: "LD Plex Arabic", "Geist", "Inter", system-ui, sans-serif;
+  --v4-font-serif: "LD Naskh", "LD Plex Arabic", "Geist", serif;
+  --v4-font-mono: "LD Plex Arabic", "IBM Plex Mono", monospace;
+  font-family: var(--v4-font-sans);
+}
+
+/* The Tailwind font utilities used all over the V4 components, pointed at Arabic faces. */
+.v4-ar .font-v4-sans,
+.v4-ar .font-v4-mono {
+  font-family: "LD Plex Arabic", "Geist", "Inter", system-ui, sans-serif;
+}
+.v4-ar .font-v4-serif {
+  font-family: "LD Naskh", "LD Plex Arabic", "Geist", serif;
+}
+
+/* Arabic letters join. Letter-spacing and capitals break or distort them, so both are switched
+   off everywhere. Italic is not used in Arabic either. */
+.v4-ar,
+.v4-ar * {
+  letter-spacing: normal !important;
+  text-transform: none !important;
+  font-style: normal;
+}
+
+/* Arabic needs more line height than the tight Latin display settings. The `leading-*` classes
+   on headings are far below what Arabic ascenders and diacritics need. */
+.v4-ar h1,
+.v4-ar h2,
+.v4-ar h3,
+.v4-ar h4 {
+  line-height: 1.35 !important;
+}
+.v4-ar p,
+.v4-ar li,
+.v4-ar dd,
+.v4-ar dt,
+.v4-ar figcaption,
+.v4-ar blockquote {
+  line-height: 1.85;
+}
+
+/* Directional glyphs: the Latin arrow "→" points the wrong way in right-to-left text. */
+.v4-ar [data-arrow] {
+  display: inline-block;
+  transform: scaleX(-1);
+}
+
+/* Lines that must stay left-to-right inside Arabic text: emails, URLs, prices, code. */
+.v4-ar .ltr-run {
+  direction: ltr;
+  unicode-bidi: isolate;
+  display: inline-block;
+}

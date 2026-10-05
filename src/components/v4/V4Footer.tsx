@@ -1,8 +1,9 @@
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import { SystemLabel } from "./SystemLabel";
 import { PILLAR_INDEX, pillarPath } from "@/data/v4PillarIndex";
 import { v4NavLinks } from "@/lib/v4Routes";
 import { CHECK_LABEL, CHECK_PATH } from "@/lib/check";
+import { arabicEquivalent } from "@/lib/v4Locale";
 
 /**
  * V4 footer for the live V4 pages. Carries the legal pages (Impressum, Datenschutz, AGB) that must
@@ -80,6 +81,9 @@ function LinkGroup({ title, links }: { title: string; links: readonly { to: stri
 }
 
 export function V4Footer() {
+  // The path is the same in the prerender and in the browser, so this is hydration-safe.
+  const { pathname } = useLocation();
+  const arabicHref = arabicEquivalent(pathname.replace(/\/+$/, "") || "/");
   return (
     <footer className="v4 border-t border-v4-ivory/10 bg-v4-ink text-v4-ivory">
       <div className="mx-auto grid max-w-[1400px] gap-10 px-6 py-14 md:grid-cols-3 lg:grid-cols-5 md:px-10">
@@ -123,7 +127,18 @@ export function V4Footer() {
       </div>
       <div className="mx-auto flex max-w-[1400px] flex-wrap items-center justify-between gap-4 border-t border-v4-ivory/10 px-6 py-6 md:px-10">
         <p className="font-v4-sans text-xs text-v4-ivory/50">© {new Date().getFullYear()} LocalDominate</p>
-        <V4CookieSettingsButton />
+        <div className="flex items-center gap-6">
+          <Link
+            to={arabicHref}
+            lang="ar"
+            hrefLang="ar"
+            aria-label="قراءة هذه الصفحة بالعربية (Read this page in Arabic)"
+            className="font-v4-sans text-xs text-v4-ivory/60 underline-offset-4 transition-colors hover:text-v4-ivory hover:underline focus-visible:outline focus-visible:outline-2 focus-visible:outline-v4-signal"
+          >
+            العربية
+          </Link>
+          <V4CookieSettingsButton />
+        </div>
       </div>
     </footer>
   );
