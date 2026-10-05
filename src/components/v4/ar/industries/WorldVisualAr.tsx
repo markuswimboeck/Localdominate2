@@ -37,7 +37,7 @@ function Photo({ src, srcSmall, alt }: { src: string; srcSmall: string; alt: str
 const PROFILE_FIELDS = [
   { field: "الاسم", against: "كما هو في فاتورتك وعلى سيارتك" },
   { field: "الفئة", against: "المهنة التي تريد أن يُعثر عليك بها" },
-  { field: "منطقة الخدمة", against: "الأماكن التي تصل إليها فعلاً" },
+  { field: "منطقة الخدمة", against: "الأماكن التي تصل إليها فعلًا" },
   { field: "مواعيد العمل", against: "شاملةً ساعات الطوارئ، إن كنت تقدّمها" },
   { field: "الهاتف", against: "الرقم الذي يُجاب عليه" },
   { field: "الخدمات", against: "بند واحد لكل نوع من الأعمال" },
@@ -72,7 +72,7 @@ function ProfileFields() {
         ))}
       </dl>
       <figcaption className="sr-only">
-        مخطط توضيحي لملف النشاط التجاري على Google: الحقول السبعة التي نراجعها وما يُقارَن به كل حقل.
+        مخطط توضيحي للملف التجاري على Google: الحقول السبعة التي نراجعها وما يُقارَن به كل حقل.
       </figcaption>
     </figure>
   );
@@ -88,7 +88,7 @@ function Locations() {
       <svg
         viewBox="0 0 300 220"
         role="img"
-        aria-label="مخطط توضيحي: ثلاثة فروع، يرتبط كل منها بمعيار مشترك واحد للاسم والعنوان والهاتف ومواعيد العمل والفئات."
+        aria-label="مخطط توضيحي: ثلاثة فروع، يرتبط كل منها بمعيار موحّد واحد للاسم والعنوان والهاتف ومواعيد العمل والفئات."
         className="block h-auto w-full"
         fill="none"
       >

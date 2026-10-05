@@ -34,7 +34,7 @@ const FIELDS: readonly FieldConfig[] = [
     label: "عدد الغرف أو العقارات",
     placeholder: "24",
     inputMode: "numeric",
-    error: "أدخل عدداً صحيحاً من 1 فأكثر، أرقاماً فقط.",
+    error: "أدخل عددًا صحيحًا من 1 فأكثر، أرقامًا فقط.",
   },
   {
     id: "rate",
@@ -42,7 +42,7 @@ const FIELDS: readonly FieldConfig[] = [
     placeholder: "140",
     unit: "€",
     inputMode: "decimal",
-    error: "أدخل مبلغاً أكبر من 0، أرقاماً فقط، مثل 140 أو 139.50.",
+    error: "أدخل مبلغًا أكبر من 0، أرقامًا فقط، مثل 140 أو 139.50.",
   },
   {
     id: "occupancy",
@@ -140,7 +140,7 @@ export function CommissionCalculatorAr({ id, className }: { id: string; classNam
   const status = result
     ? "محسوبة من أرقامك الخمسة."
     : hasError
-      ? "أحد الحقول يحتوي على قيمة ليست رقماً صالحاً. صحّحه لتظهر النتيجة."
+      ? "أحد الحقول يحتوي على قيمة ليست رقمًا صالحًا. صحّحه لتظهر النتيجة."
       : filled === 0
         ? "املأ الحقول الخمسة كلها. تظهر النتيجة هنا."
         : `${filled} من ${FIELDS.length} حقول مملوءة. تظهر النتيجة عندما تكون الحقول الخمسة كلها صالحة.`;
@@ -159,7 +159,7 @@ export function CommissionCalculatorAr({ id, className }: { id: string; classNam
       <div className="mx-auto grid max-w-[1300px] gap-12 px-6 py-20 md:px-10 md:py-28 lg:grid-cols-[0.8fr_1.2fr] lg:gap-20">
         <div>
           <SystemLabel as="p" className="mb-6 block leading-relaxed text-v4-ivory/60">
-            حاسبة العمولة · للفنادق والمضيفين
+            حاسبة عمولة المنصات · للفنادق والمضيفين
           </SystemLabel>
           <h3
             id={`${id}-title`}
@@ -183,7 +183,7 @@ export function CommissionCalculatorAr({ id, className }: { id: string; classNam
             ))}
           </dl>
           <p className="mt-6 max-w-md font-v4-sans text-sm leading-relaxed text-v4-ivory/70">
-            هذه عملية حسابية بأرقامك أنت فقط، وليست توقعاً. وهي تفترض أن كل ليلة تُباع بالسعر المتوسط، ولا
+            هذه عملية حسابية بأرقامك أنت فقط، وليست توقعًا. وهي تفترض أن كل ليلة تُباع بالسعر المتوسط، ولا
             تشمل ما يكلّفك الحجز المباشر، كرسوم الدفع أو الإعلانات.
           </p>
         </div>

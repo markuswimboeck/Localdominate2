@@ -18,9 +18,9 @@ import { faqPageJsonLd } from "@/lib/seoFaq";
 const SITE = "https://localdominate.org";
 const PAGE_URL = `${SITE}/ar/industries`;
 const EN_URL = `${SITE}/industries`;
-const TITLE = "مواقع وSEO محلي للفنادق والإيجارات والحرف | LocalDominate";
+const TITLE = "SEO محلي ومواقع للفنادق والإيجارات والحرف | LocalDominate";
 const DESCRIPTION =
-  "للفنادق والإيجارات السياحية والحرف والخدمات المحلية الراقية: ما تفحصه LocalDominate أولاً، وما نبنيه، والعرض بسعر ثابت الذي نبدأ به كأول خطوة معك.";
+  "للفنادق والإيجارات السياحية والحرف والخدمات المحلية الراقية: ما نفحصه في LocalDominate أولًا، وما نبنيه، والعرض ذو السعر الثابت المناسب للبداية.";
 
 const JSON_LD = {
   "@context": "https://schema.org",

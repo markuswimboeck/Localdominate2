@@ -27,7 +27,7 @@ export const AR_BOOKING_LABEL = "احجز مكالمة لمدة 15 دقيقة";
 export const AR_NAV: readonly { to: string; label: string }[] = [
   { to: "/ar/approach", label: "المنهج" },
   { to: "/ar/services", label: "الخدمات" },
-  { to: "/ar/work", label: "الأعمال" },
+  { to: "/ar/work", label: "أعمالنا" },
   { to: "/ar/industries", label: "القطاعات" },
   { to: "/ar/creators", label: "المبدعون" },
 ];
@@ -45,10 +45,10 @@ export const AR_STEP_NAMES: Record<string, string> = {
 export const AR_FOOTER = {
   tagline: "الاستراتيجية والعلامة التجارية والموقع والنمو، في نظام واحد مترابط.",
   address:
-    "تُدير LocalDominate شركة Explore Saudi Arabia Ltd، 128 City Road، لندن EC1V 2NX، المملكة المتحدة (رقم Companies House: 16902019).",
-  exploreSaudiBefore: "هي منصة السفر الخاصة بالمؤسس إلى المملكة العربية السعودية، وهي مدرجة في صفحة",
-  exploreSaudiLink: "الأعمال",
-  exploreSaudiOpensNewTab: " (تفتح في تبويب جديد)",
+    "تتولى شركة ⁦Explore Saudi Arabia Ltd⁩ تشغيل LocalDominate، وعنوانها: ⁦128 City Road, London EC1V 2NX⁩، المملكة المتحدة (رقم التسجيل لدى ⁦Companies House⁩: ⁦16902019⁩).",
+  exploreSaudiBefore: "هي منصة المؤسس الخاصة للسفر إلى المملكة العربية السعودية، وهي مدرجة في صفحة",
+  exploreSaudiLink: "أعمالنا",
+  exploreSaudiOpensNewTab: " (تُفتح في تبويب جديد)",
   groups: {
     explore: "استكشف",
     steps: "الخطوات السبع",
@@ -62,7 +62,7 @@ export const AR_FOOTER = {
     { to: "/ar", label: "الرئيسية" },
     { to: "/ar/approach", label: "المنهج" },
     { to: "/ar/services", label: "الخدمات" },
-    { to: "/ar/work", label: "الأعمال" },
+    { to: "/ar/work", label: "أعمالنا" },
     { to: "/ar/industries", label: "القطاعات" },
     { to: "/ar/creators", label: "المبدعون" },
   ] as readonly { to: string; label: string }[],
