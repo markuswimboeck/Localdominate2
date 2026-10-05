@@ -1,0 +1,118 @@
+From 90aefe74f6c451d38c328f7eabd358d91da46376 Mon Sep 17 00:00:00 2001
+From: Claude <noreply@anthropic.com>
+Date: Mon, 5 Oct 2026 15:54:37 +0200
+Subject: [PATCH 3/5] Add the seven Arabic pages to sitemap.xml and its
+ baseline snapshot
+
+Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_013qKWzT3y1LvpKd1t1rnFkB
+---
+ docs/baseline/sitemap.xml.snapshot | 42 ++++++++++++++++++++++++++++++
+ public/sitemap.xml                 | 42 ++++++++++++++++++++++++++++++
+ 2 files changed, 84 insertions(+)
+
+diff --git a/docs/baseline/sitemap.xml.snapshot b/docs/baseline/sitemap.xml.snapshot
+index 819dd8e..4f4a036 100644
+--- a/docs/baseline/sitemap.xml.snapshot
++++ b/docs/baseline/sitemap.xml.snapshot
+@@ -969,4 +969,46 @@
+     <changefreq>yearly</changefreq>
+     <priority>0.3</priority>
+   </url>
++  <url>
++    <loc>https://localdominate.org/ar</loc>
++    <lastmod>2026-10-05</lastmod>
++    <changefreq>monthly</changefreq>
++    <priority>1.0</priority>
++  </url>
++  <url>
++    <loc>https://localdominate.org/ar/services</loc>
++    <lastmod>2026-10-05</lastmod>
++    <changefreq>monthly</changefreq>
++    <priority>0.8</priority>
++  </url>
++  <url>
++    <loc>https://localdominate.org/ar/work</loc>
++    <lastmod>2026-10-05</lastmod>
++    <changefreq>monthly</changefreq>
++    <priority>0.8</priority>
++  </url>
++  <url>
++    <loc>https://localdominate.org/ar/approach</loc>
++    <lastmod>2026-10-05</lastmod>
++    <changefreq>monthly</changefreq>
++    <priority>0.8</priority>
++  </url>
++  <url>
++    <loc>https://localdominate.org/ar/industries</loc>
++    <lastmod>2026-10-05</lastmod>
++    <changefreq>monthly</changefreq>
++    <priority>0.8</priority>
++  </url>
++  <url>
++    <loc>https://localdominate.org/ar/creators</loc>
++    <lastmod>2026-10-05</lastmod>
++    <changefreq>monthly</changefreq>
++    <priority>0.8</priority>
++  </url>
++  <url>
++    <loc>https://localdominate.org/ar/start-a-project</loc>
++    <lastmod>2026-10-05</lastmod>
++    <changefreq>monthly</changefreq>
++    <priority>0.8</priority>
++  </url>
+ </urlset>
+diff --git a/public/sitemap.xml b/public/sitemap.xml
+index 819dd8e..4f4a036 100644
+--- a/public/sitemap.xml
++++ b/public/sitemap.xml
+@@ -969,4 +969,46 @@
+     <changefreq>yearly</changefreq>
+     <priority>0.3</priority>
+   </url>
++  <url>
++    <loc>https://localdominate.org/ar</loc>
++    <lastmod>2026-10-05</lastmod>
++    <changefreq>monthly</changefreq>
++    <priority>1.0</priority>
++  </url>
++  <url>
++    <loc>https://localdominate.org/ar/services</loc>
++    <lastmod>2026-10-05</lastmod>
++    <changefreq>monthly</changefreq>
++    <priority>0.8</priority>
++  </url>
++  <url>
++    <loc>https://localdominate.org/ar/work</loc>
++    <lastmod>2026-10-05</lastmod>
++    <changefreq>monthly</changefreq>
++    <priority>0.8</priority>
++  </url>
++  <url>
++    <loc>https://localdominate.org/ar/approach</loc>
++    <lastmod>2026-10-05</lastmod>
++    <changefreq>monthly</changefreq>
++    <priority>0.8</priority>
++  </url>
++  <url>
++    <loc>https://localdominate.org/ar/industries</loc>
++    <lastmod>2026-10-05</lastmod>
++    <changefreq>monthly</changefreq>
++    <priority>0.8</priority>
++  </url>
++  <url>
++    <loc>https://localdominate.org/ar/creators</loc>
++    <lastmod>2026-10-05</lastmod>
++    <changefreq>monthly</changefreq>
++    <priority>0.8</priority>
++  </url>
++  <url>
++    <loc>https://localdominate.org/ar/start-a-project</loc>
++    <lastmod>2026-10-05</lastmod>
++    <changefreq>monthly</changefreq>
++    <priority>0.8</priority>
++  </url>
+ </urlset>
+-- 
+2.43.0
+

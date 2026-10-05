@@ -1,0 +1,29 @@
+From f76818126491b3057e75427cbcef11cf7ae28d6f Mon Sep 17 00:00:00 2001
+From: Claude <noreply@anthropic.com>
+Date: Mon, 5 Oct 2026 16:23:51 +0200
+Subject: [PATCH 4/5] Arabic home: link the seven steps to /ar/approach
+
+Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_013qKWzT3y1LvpKd1t1rnFkB
+---
+ src/pages/v4/ar/HomeAr.tsx | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/src/pages/v4/ar/HomeAr.tsx b/src/pages/v4/ar/HomeAr.tsx
+index de62e56..36b9754 100644
+--- a/src/pages/v4/ar/HomeAr.tsx
++++ b/src/pages/v4/ar/HomeAr.tsx
+@@ -182,8 +182,8 @@ export default function HomeAr() {
+             <p className="mt-6 max-w-md font-v4-sans text-[length:var(--v4-text-body)] leading-relaxed text-v4-ivory/70">
+               {t.system.body}
+             </p>
+-            <Link to={PILLAR_BASE} className={`${textLink} mt-8 text-v4-ivory/80`}>
+-              {t.system.link} (EN)
++            <Link to={arPath(PILLAR_BASE)} className={`${textLink} mt-8 text-v4-ivory/80`}>
++              {t.system.link}
+               <Arrow />
+             </Link>
+           </div>
+-- 
+2.43.0
+
