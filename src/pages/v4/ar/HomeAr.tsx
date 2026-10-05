@@ -182,8 +182,8 @@ export default function HomeAr() {
             <p className="mt-6 max-w-md font-v4-sans text-[length:var(--v4-text-body)] leading-relaxed text-v4-ivory/70">
               {t.system.body}
             </p>
-            <Link to={PILLAR_BASE} className={`${textLink} mt-8 text-v4-ivory/80`}>
-              {t.system.link} (EN)
+            <Link to={arPath(PILLAR_BASE)} className={`${textLink} mt-8 text-v4-ivory/80`}>
+              {t.system.link}
               <Arrow />
             </Link>
           </div>
