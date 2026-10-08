@@ -9,6 +9,7 @@ import { ABTestProvider } from "@/hooks/useABTest";
 import ErrorBoundary from "@/components/ErrorBoundary";
 import { AfterMount } from "@/components/v4/AfterMount";
 import { lazyV4Page } from "@/lib/v4Pages";
+import { arPath } from "@/lib/v4Locale";
 import { PILLAR_BASE, PILLAR_INDEX, pillarPath } from "@/data/v4PillarIndex";
 
 // Critical pages loaded immediately
@@ -231,6 +232,7 @@ const ServicesV4 = lazyV4Page("/services");
 const WorkV4 = lazyV4Page("/work");
 const ApproachV4 = lazyV4Page(PILLAR_BASE);
 const PillarV4 = lazyV4Page(pillarPath("diagnose")); // one module serves all seven step pages
+const PillarAr = lazyV4Page(arPath(pillarPath("diagnose"))); // Arabic step pages, one module as well
 const IndustriesV4 = lazyV4Page("/industries");
 const CreatorsV4 = lazyV4Page("/creators");
 const InsightsV4 = lazyV4Page("/insights");
@@ -296,6 +298,9 @@ const App = () => (
                 <Route path={PILLAR_BASE} element={<ApproachV4 />} />
                 {PILLAR_INDEX.map((p) => (
                   <Route key={p.id} path={pillarPath(p.id)} element={<PillarV4 />} />
+                ))}
+                {PILLAR_INDEX.map((p) => (
+                  <Route key={`ar-${p.id}`} path={arPath(pillarPath(p.id))} element={<PillarAr />} />
                 ))}
                 <Route path="/analytics" element={<Analytics />} />
                 <Route path="/ab-test" element={<ABTestDashboard />} />
