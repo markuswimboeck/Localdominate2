@@ -50,7 +50,7 @@ const JSON_LD = {
         "@type": "ListItem",
         position: i + 1,
         name: AR_STEP_NAMES[p.id],
-        url: `${SITE}${pillarPath(p.id)}`,
+        url: `${SITE}${arPath(pillarPath(p.id))}`,
       })),
     },
   ],
@@ -61,16 +61,6 @@ const focusRing = "focus-visible:outline focus-visible:outline-2 focus-visible:o
 
 const caseLabelAr = (c: WorkCase): string =>
   [AR_CASE_KIND[c.kind], c.kind === c.status ? undefined : AR_CASE_STATUS[c.status]].filter(Boolean).join(" · ");
-
-/** Marks a link target that exists only in English. */
-function EnMark({ className }: { className?: string }) {
-  return (
-    <span className={className} lang="en" dir="ltr">
-      <span aria-hidden="true">{AR_APPROACH.enMarker}</span>
-      <span className="sr-only">{AR_APPROACH.enMarkerLabel}</span>
-    </span>
-  );
-}
 
 /** Which published project touched which step. Same data as the English matrix, Arabic text. */
 function CaseMatrixAr() {
@@ -90,12 +80,11 @@ function CaseMatrixAr() {
                 {covered.map((p) => (
                   <li key={p.id}>
                     <Link
-                      to={pillarPath(p.id)}
+                      to={arPath(pillarPath(p.id))}
                       className={`inline-flex min-h-[2.75rem] items-center gap-2 rounded-full border border-v4-ink/20 px-4 font-v4-sans text-sm text-v4-ink hover:border-v4-ink/60 ${focusRing}`}
                     >
                       <span className="font-v4-mono text-xs tabular-nums text-v4-ink/60">{p.n}</span>
                       {AR_STEP_NAMES[p.id]}
-                      <EnMark className="text-xs text-v4-ink/60" />
                     </Link>
                   </li>
                 ))}
@@ -115,11 +104,11 @@ function CaseMatrixAr() {
               {PILLAR_INDEX.map((p) => (
                 <th key={p.id} scope="col" className="px-2 py-4 text-center">
                   <Link
-                    to={pillarPath(p.id)}
+                    to={arPath(pillarPath(p.id))}
                     className={`font-v4-sans text-sm font-medium text-v4-ink/70 hover:text-v4-ink ${focusRing}`}
                   >
                     <span className="block font-v4-mono text-xs tabular-nums">{p.n}</span>
-                    {AR_STEP_NAMES[p.id]} <EnMark className="text-xs text-v4-ink/60" />
+                    {AR_STEP_NAMES[p.id]}
                   </Link>
                 </th>
               ))}
@@ -223,7 +212,7 @@ export default function ApproachAr() {
               return (
                 <li key={p.id} className="border-t border-v4-ink/10 first:border-t-0">
                   <Link
-                    to={pillarPath(p.id)}
+                    to={arPath(pillarPath(p.id))}
                     className={`group grid gap-4 py-8 md:grid-cols-[6rem_1fr_1.2fr] md:gap-8 ${focusRing}`}
                   >
                     <span className="font-v4-serif text-5xl leading-none text-v4-ink/60 group-hover:text-v4-ink">
@@ -231,7 +220,7 @@ export default function ApproachAr() {
                     </span>
                     <span>
                       <span className="block font-v4-sans text-2xl font-semibold leading-snug text-v4-ink group-hover:underline">
-                        {AR_STEP_NAMES[p.id]} <EnMark className="text-sm font-normal text-v4-ink/60" />
+                        {AR_STEP_NAMES[p.id]}
                       </span>
                       <span className="mt-2 block font-v4-sans text-sm text-v4-ink/70">{copy.question}</span>
                     </span>

@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { SystemLabel } from "@/components/v4/SystemLabel";
 import { PILLAR_INDEX, pillarPath } from "@/data/v4PillarIndex";
+import { arPath } from "@/lib/v4Locale";
 import { AR_STEP_NAMES } from "@/data/ar/chrome.ar";
 import { HOME_AR, STEP_AR } from "@/data/ar/home.ar";
 
@@ -26,14 +27,13 @@ export function SystemStepsAr() {
               <span className="relative h-1.5 w-1.5 rounded-full bg-v4-ink" />
             </span>
             <Link
-              to={pillarPath(p.id)}
+              to={arPath(pillarPath(p.id))}
               className="group block rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-8 focus-visible:outline-v4-signal"
             >
               <span className="flex items-baseline gap-4">
                 <SystemLabel className="text-v4-signal">{p.n}</SystemLabel>
                 <span className="font-v4-sans text-2xl font-semibold text-v4-ivory md:text-3xl">
                   {AR_STEP_NAMES[p.id]}
-                  <span className="ms-2 font-v4-sans text-xs font-normal text-v4-ivory/40">(EN)</span>
                 </span>
                 <span
                   aria-hidden="true"

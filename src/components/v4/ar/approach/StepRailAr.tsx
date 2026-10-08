@@ -1,14 +1,16 @@
 import { Link } from "react-router-dom";
 import { PILLAR_INDEX, pillarPath } from "@/data/v4PillarIndex";
+import type { PillarId } from "@/data/v4PillarIndex";
 import { AR_STEP_NAMES } from "@/data/ar/chrome.ar";
 import { AR_APPROACH } from "@/data/ar/approach.ar";
+import { arPath } from "@/lib/v4Locale";
 
 /**
  * Arabic copy of StepRail. The list runs right-to-left (step 01 on the right, inherited from
  * dir="rtl" on the page), the connector lines sit after each dot in reading direction. The step
- * pages are English, so each link is marked "(EN)" for screen readers and in the visible name.
+ * pages are Arabic too (/ar/approach/<step>), so every link points there.
  */
-export function StepRailAr() {
+export function StepRailAr({ current }: { current?: PillarId }) {
   return (
     <nav aria-label={AR_APPROACH.railLabel} className="v4">
       <div className="mx-auto max-w-[1400px] px-6 pb-3 pt-4 md:px-10 md:pb-6 md:pt-6">
@@ -16,7 +18,8 @@ export function StepRailAr() {
           {PILLAR_INDEX.map((p, i) => (
             <li key={p.id} className="flex min-w-0 flex-1 items-start">
               <Link
-                to={pillarPath(p.id)}
+                to={arPath(pillarPath(p.id))}
+                aria-current={p.id === current ? "step" : undefined}
                 className="group flex min-h-[3.5rem] w-full flex-col gap-3 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-v4-signal"
               >
                 <span className="flex items-center">
@@ -33,7 +36,6 @@ export function StepRailAr() {
                 </span>
                 <span className="sr-only font-v4-sans text-sm text-v4-ivory/70 group-hover:text-v4-ivory md:not-sr-only">
                   {AR_STEP_NAMES[p.id]}
-                  <span className="sr-only">{` ${AR_APPROACH.enMarkerLabel}`}</span>
                 </span>
               </Link>
             </li>

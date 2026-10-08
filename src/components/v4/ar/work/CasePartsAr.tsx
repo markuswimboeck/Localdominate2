@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { cn } from "@/lib/utils";
 import { SystemLabel } from "@/components/v4/SystemLabel";
 import { PILLAR_INDEX, pillarPath } from "@/data/v4PillarIndex";
+import { arPath } from "@/lib/v4Locale";
 import { stepsOfCase } from "@/components/v4/work/caseSteps";
 import { AR_STEP_NAMES } from "@/data/ar/chrome.ar";
 import { AR_WORK } from "@/data/ar/work.ar";
@@ -75,7 +76,7 @@ export function StepLinks({ c, tone }: { c: ArCase; tone: Tone }) {
         {steps.map((p) => (
           <li key={p.id}>
             <Link
-              to={pillarPath(p.id)}
+              to={arPath(pillarPath(p.id))}
               className={cn(
                 "inline-flex min-h-[44px] items-center gap-2 rounded-full border px-4 font-v4-sans text-sm transition-colors",
                 "focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2",
@@ -87,7 +88,6 @@ export function StepLinks({ c, tone }: { c: ArCase; tone: Tone }) {
               <span className="sr-only">{AR_WORK.facts.step}</span>
               <SystemLabel className={muted(tone)}>{p.n}</SystemLabel>
               {AR_STEP_NAMES[p.id] ?? p.name}
-              <span className={muted(tone)}>{AR_WORK.enMarker}</span>
             </Link>
           </li>
         ))}

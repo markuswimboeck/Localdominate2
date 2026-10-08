@@ -56,9 +56,8 @@ function V4CookieSettingsButtonAr() {
 export function V4FooterAr() {
   const { pathname } = useLocation();
   const steps: FooterLink[] = PILLAR_INDEX.map((p) => ({
-    to: pillarPath(p.id),
+    to: arPath(pillarPath(p.id)),
     label: `${p.n} ${AR_STEP_NAMES[p.id] ?? p.name}`,
-    marker: AR_FOOTER.englishMarker,
   }));
   const explore: FooterLink[] = [
     ...AR_FOOTER.explore,

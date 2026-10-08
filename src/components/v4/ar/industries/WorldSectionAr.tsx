@@ -160,13 +160,10 @@ export function WorldSectionAr({ world, children }: { world: ArWorld; children?:
                     {world.step.why}
                   </p>
                   <Link
-                    to={pillarPath(step.id)}
+                    to={arPath(pillarPath(step.id))}
                     className={`${textLink} mt-auto self-start pt-6 text-v4-ivory focus-visible:outline-v4-signal`}
                   >
                     {WORLD_AR.readStep} <span dir="ltr">{step.n}</span>: {stepName}
-                    <span lang="en" dir="ltr" className="text-v4-ivory/60">
-                      {WORLD_AR.englishMarker}
-                    </span>
                   </Link>
                 </article>
               )}
