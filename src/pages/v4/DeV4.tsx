@@ -13,7 +13,7 @@ import { ANCHORS, DEFAULT_SEGMENT, FAQ, SEO_DE } from "@/data/v4De";
 import type { SegmentId } from "@/data/v4De";
 
 const SITE = "https://localdominate.org";
-const PAGE_URL = `${SITE}/de`;
+const PAGE_URL = `${SITE}/de/direktbuchung`;
 
 const JSON_LD = {
   "@context": "https://schema.org",
@@ -33,7 +33,7 @@ const JSON_LD = {
       "@type": "BreadcrumbList",
       "@id": `${PAGE_URL}#breadcrumb`,
       itemListElement: [
-        { "@type": "ListItem", position: 1, name: "Home", item: `${SITE}/` },
+        { "@type": "ListItem", position: 1, name: "Startseite", item: `${SITE}/de` },
         { "@type": "ListItem", position: 2, name: SEO_DE.breadcrumb, item: PAGE_URL },
       ],
     },
@@ -52,8 +52,9 @@ const JSON_LD = {
 };
 
 /**
- * LocalDominate V4: deutsche Seite /de (Sie-Form, Ich-Form des Inhabers) für Hotels,
- * Ferienvermieter und Handwerk. Aufbau nach Copy-Deck: Weiche und Einstieg, Bedingungen, drei
+ * LocalDominate V4: deutsche Seite /de/direktbuchung (Sie-Form, Ich-Form des Inhabers) für Hotels,
+ * Ferienvermieter und Handwerk. Bis 05.10.2026 lag sie auf /de, dort steht jetzt die deutsche
+ * Fassung der Home (HomeDe leitet alte Anker wie /de#check hierher weiter). Aufbau nach Copy-Deck: Weiche und Einstieg, Bedingungen, drei
  * Angebote, Person, Fragen, Formular.
  *
  * Das Segment startet immer auf Variante A, damit Vorrendern und Hydration übereinstimmen. Es

@@ -238,7 +238,15 @@ const CreatorsV4 = lazyV4Page("/creators");
 const InsightsV4 = lazyV4Page("/insights");
 const AboutV4 = lazyV4Page("/about");
 const StartProjectV4 = lazyV4Page("/start-a-project");
-const DeV4 = lazyV4Page("/de");
+// German versions of the seven main pages. DeV4 is the German landing page (hotels, hosts, trades).
+const HomeDe = lazyV4Page("/de");
+const ServicesDe = lazyV4Page("/de/services");
+const WorkDe = lazyV4Page("/de/work");
+const ApproachDe = lazyV4Page("/de/approach");
+const IndustriesDe = lazyV4Page("/de/industries");
+const CreatorsDe = lazyV4Page("/de/creators");
+const StartProjectDe = lazyV4Page("/de/start-a-project");
+const DeV4 = lazyV4Page("/de/direktbuchung");
 // Arabic (right-to-left) versions of the seven main pages.
 const HomeAr = lazyV4Page("/ar");
 const ServicesAr = lazyV4Page("/ar/services");
@@ -287,7 +295,14 @@ const App = () => (
                 <Route path="/insights" element={<InsightsV4 />} />
                 <Route path="/about" element={<AboutV4 />} />
                 <Route path="/start-a-project" element={<StartProjectV4 />} />
-                <Route path="/de" element={<DeV4 />} />
+                <Route path="/de" element={<HomeDe />} />
+                <Route path="/de/services" element={<ServicesDe />} />
+                <Route path="/de/work" element={<WorkDe />} />
+                <Route path="/de/approach" element={<ApproachDe />} />
+                <Route path="/de/industries" element={<IndustriesDe />} />
+                <Route path="/de/creators" element={<CreatorsDe />} />
+                <Route path="/de/start-a-project" element={<StartProjectDe />} />
+                <Route path="/de/direktbuchung" element={<DeV4 />} />
                 <Route path="/ar" element={<HomeAr />} />
                 <Route path="/ar/services" element={<ServicesAr />} />
                 <Route path="/ar/work" element={<WorkAr />} />

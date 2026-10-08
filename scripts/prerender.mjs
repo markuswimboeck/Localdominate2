@@ -40,7 +40,8 @@ const LOCALE = "en-US";
 // URLs but are not part of the baseline, so seo-check does not compare them.
 const PILLAR_IDS = ["diagnose", "position", "create", "build", "launch", "grow", "scale"]; // keep in sync with src/data/v4PillarIndex.ts
 const EXTRA_PATHS = ["/services", "/work", "/approach", ...PILLAR_IDS.map((id) => `/approach/${id}`),
-  "/industries", "/creators", "/insights", "/about", "/start-a-project", "/de",
+  "/industries", "/creators", "/insights", "/about", "/start-a-project",
+  "/de", "/de/services", "/de/work", "/de/approach", "/de/industries", "/de/creators", "/de/start-a-project", "/de/direktbuchung",
   "/ar", "/ar/services", "/ar/work", "/ar/approach", "/ar/industries", "/ar/creators", "/ar/start-a-project",
   ...PILLAR_IDS.map((id) => `/ar/approach/${id}`)];
 

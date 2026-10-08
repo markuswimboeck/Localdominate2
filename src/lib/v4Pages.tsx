@@ -20,7 +20,15 @@ const LOADERS: Record<string, PageLoader> = {
   "/insights": () => import("@/pages/v4/InsightsV4"),
   "/about": () => import("@/pages/v4/AboutV4"),
   "/start-a-project": () => import("@/pages/v4/StartProjectV4"),
-  "/de": () => import("@/pages/v4/DeV4"),
+  // German versions of the seven main pages, plus the German landing page for hotels, hosts and trades.
+  "/de": () => import("@/pages/v4/de/HomeDe"),
+  "/de/services": () => import("@/pages/v4/de/ServicesDe"),
+  "/de/work": () => import("@/pages/v4/de/WorkDe"),
+  "/de/approach": () => import("@/pages/v4/de/ApproachDe"),
+  "/de/industries": () => import("@/pages/v4/de/IndustriesDe"),
+  "/de/creators": () => import("@/pages/v4/de/CreatorsDe"),
+  "/de/start-a-project": () => import("@/pages/v4/de/StartProjectDe"),
+  "/de/direktbuchung": () => import("@/pages/v4/DeV4"),
   // Arabic (right-to-left) versions of the seven main pages.
   "/ar": () => import("@/pages/v4/ar/HomeAr"),
   "/ar/services": () => import("@/pages/v4/ar/ServicesAr"),

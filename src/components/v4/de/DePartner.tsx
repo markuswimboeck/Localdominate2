@@ -23,7 +23,7 @@ export function DePartner() {
             {CASE_PARTNER.title}
           </h2>
           <p className="mt-4 font-v4-sans text-base leading-relaxed text-v4-ink/75">{CASE_PARTNER.body}</p>
-          <CheckButton label={HERO.checkLabel} to={`/de#${ANCHORS.check}`} className="mt-6 min-h-12 focus-visible:outline-v4-ink" />
+          <CheckButton label={HERO.checkLabel} to={`/de/direktbuchung#${ANCHORS.check}`} className="mt-6 min-h-12 focus-visible:outline-v4-ink" />
         </div>
       </div>
     </StateField>

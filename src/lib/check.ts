@@ -7,8 +7,8 @@ export const CHECK_PATH = "/start-a-project";
 export const CHECK_LABEL = "Get a free check";
 export const CHECK_LABEL_SHORT = "Free check";
 
-/** On the German page the navigation's primary action leads to the German form on that page. */
-export const CHECK_DE = { prefix: "/de", path: "/de#check", label: "Kostenlosen Check anfordern", short: "Check" } as const;
+/** The German landing page (/de/direktbuchung) has its own German form on that page. */
+export const CHECK_DE = { prefix: "/de", path: "/de/direktbuchung#check", label: "Kostenlosen Check anfordern", short: "Check" } as const;
 /** Reply time promised for the free check (owner decision, 2026-10-02). Change it here only. */
 export const CHECK_REPLY_TIME = "two working days";
 

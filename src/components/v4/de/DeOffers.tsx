@@ -75,7 +75,7 @@ export function DeOffers({ segment }: { segment: SegmentId }) {
                 </p>
                 <CheckButton
                   label={HERO.checkLabel}
-                  to={`/de#${ANCHORS.check}`}
+                  to={`/de/direktbuchung#${ANCHORS.check}`}
                   className={cn(
                     "min-h-12 w-full lg:self-end focus-visible:outline-v4-ink",
                     !isMatch && "border border-v4-ink/25 bg-transparent hover:border-v4-ink/60 hover:opacity-100"

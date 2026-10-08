@@ -1,6 +1,7 @@
 import { cn } from "@/lib/utils";
 import { BOOKING_IS_EXTERNAL, BOOKING_LABEL, BOOKING_URL } from "@/lib/booking";
 import { AR_BOOKING_LABEL } from "@/data/ar/chrome.ar";
+import { DE_BOOKING_LABEL } from "@/data/de/chrome.de";
 import { useV4Locale } from "@/lib/v4Locale";
 
 /** The second action of the V4 pages: "Book a 15-min call". The primary one is CheckButton. */
@@ -12,7 +13,7 @@ export function BookCallButton({
   /** "signal" = filled Signal Green; "outline" = ivory outline for dark fields; "ink" = ink outline for light fields. */
   tone?: "signal" | "outline" | "ink";
 }) {
-  const ar = useV4Locale() === "ar";
+  const locale = useV4Locale();
   return (
     <a
       href={BOOKING_URL}
@@ -25,7 +26,7 @@ export function BookCallButton({
         className
       )}
     >
-      {ar ? AR_BOOKING_LABEL : BOOKING_LABEL}
+      {locale === "ar" ? AR_BOOKING_LABEL : locale === "de" ? DE_BOOKING_LABEL : BOOKING_LABEL}
     </a>
   );
 }

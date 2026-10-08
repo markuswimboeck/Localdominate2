@@ -98,7 +98,7 @@ export function DeHero({ segment, onSegmentChange }: { segment: SegmentId; onSeg
 
           <div className="flex flex-col gap-4 lg:col-start-1 lg:row-start-2">
             <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:gap-4">
-              <CheckButton label={HERO.checkLabel} to={`/de#${ANCHORS.check}`} className="min-h-12" />
+              <CheckButton label={HERO.checkLabel} to={`/de/direktbuchung#${ANCHORS.check}`} className="min-h-12" />
               <DeBookCallButton label={HERO.callLabel} className="min-h-12" />
             </div>
             <p className="flex items-center gap-2 font-v4-sans text-sm text-v4-ivory/60">

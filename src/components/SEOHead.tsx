@@ -18,6 +18,8 @@ interface SEOHeadProps {
     de?: string;
     en?: string;
     ar?: string;
+    /** Overrides the x-default choice (default: de, else en, else ar). */
+    xDefault?: string;
   };
   exactTitle?: boolean;
 }
@@ -162,7 +164,7 @@ const SEOHead = forwardRef<HTMLDivElement, SEOHeadProps>(({
       if (alternateUrls.de) updateHreflang("de", alternateUrls.de);
       if (alternateUrls.en) updateHreflang("en", alternateUrls.en);
       if (alternateUrls.ar) updateHreflang("ar", alternateUrls.ar);
-      const defaultUrl = alternateUrls.de || alternateUrls.en || alternateUrls.ar;
+      const defaultUrl = alternateUrls.xDefault || alternateUrls.de || alternateUrls.en || alternateUrls.ar;
       if (defaultUrl) updateHreflang("x-default", defaultUrl);
     }
 
