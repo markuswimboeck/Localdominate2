@@ -1,12 +1,14 @@
 import { lazy } from "react";
 import type { ComponentType } from "react";
 import { PILLAR_BASE, PILLAR_INDEX, pillarPath } from "@/data/v4PillarIndex";
+import { arPath } from "@/lib/v4Locale";
 
 type PageProps = { preview?: boolean };
 type PageLoader = () => Promise<{ default: ComponentType<PageProps> }>;
 
 /** The V4 pages that are prerendered at build time and hydrated in the browser (see main.tsx). */
 const loadPillar: PageLoader = () => import("@/pages/v4/PillarV4"); // one module serves all seven step pages
+const loadArPillar: PageLoader = () => import("@/pages/v4/ar/PillarAr"); // Arabic step pages, one module as well
 
 const LOADERS: Record<string, PageLoader> = {
   "/": () => import("@/pages/v4/HomeV4"),
@@ -19,7 +21,16 @@ const LOADERS: Record<string, PageLoader> = {
   "/about": () => import("@/pages/v4/AboutV4"),
   "/start-a-project": () => import("@/pages/v4/StartProjectV4"),
   "/de": () => import("@/pages/v4/DeV4"),
+  // Arabic (right-to-left) versions of the seven main pages.
+  "/ar": () => import("@/pages/v4/ar/HomeAr"),
+  "/ar/services": () => import("@/pages/v4/ar/ServicesAr"),
+  "/ar/work": () => import("@/pages/v4/ar/WorkAr"),
+  "/ar/approach": () => import("@/pages/v4/ar/ApproachAr"),
+  "/ar/industries": () => import("@/pages/v4/ar/IndustriesAr"),
+  "/ar/creators": () => import("@/pages/v4/ar/CreatorsAr"),
+  "/ar/start-a-project": () => import("@/pages/v4/ar/StartProjectAr"),
   ...Object.fromEntries(PILLAR_INDEX.map((p) => [pillarPath(p.id), loadPillar])),
+  ...Object.fromEntries(PILLAR_INDEX.map((p) => [arPath(pillarPath(p.id)), loadArPillar])),
 };
 
 // Keyed by loader, so pages that share a module (the seven step pages) share one entry.

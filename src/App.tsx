@@ -9,6 +9,7 @@ import { ABTestProvider } from "@/hooks/useABTest";
 import ErrorBoundary from "@/components/ErrorBoundary";
 import { AfterMount } from "@/components/v4/AfterMount";
 import { lazyV4Page } from "@/lib/v4Pages";
+import { arPath } from "@/lib/v4Locale";
 import { PILLAR_BASE, PILLAR_INDEX, pillarPath } from "@/data/v4PillarIndex";
 
 // Critical pages loaded immediately
@@ -231,12 +232,21 @@ const ServicesV4 = lazyV4Page("/services");
 const WorkV4 = lazyV4Page("/work");
 const ApproachV4 = lazyV4Page(PILLAR_BASE);
 const PillarV4 = lazyV4Page(pillarPath("diagnose")); // one module serves all seven step pages
+const PillarAr = lazyV4Page(arPath(pillarPath("diagnose"))); // Arabic step pages, one module as well
 const IndustriesV4 = lazyV4Page("/industries");
 const CreatorsV4 = lazyV4Page("/creators");
 const InsightsV4 = lazyV4Page("/insights");
 const AboutV4 = lazyV4Page("/about");
 const StartProjectV4 = lazyV4Page("/start-a-project");
 const DeV4 = lazyV4Page("/de");
+// Arabic (right-to-left) versions of the seven main pages.
+const HomeAr = lazyV4Page("/ar");
+const ServicesAr = lazyV4Page("/ar/services");
+const WorkAr = lazyV4Page("/ar/work");
+const ApproachAr = lazyV4Page("/ar/approach");
+const IndustriesAr = lazyV4Page("/ar/industries");
+const CreatorsAr = lazyV4Page("/ar/creators");
+const StartProjectAr = lazyV4Page("/ar/start-a-project");
 const DesignSystemPreview = lazy(() => import("./pages/v4/DesignSystemPreview"));
 
 // Lazy load CoreWebVitalsTracker - not needed for initial render
@@ -278,9 +288,19 @@ const App = () => (
                 <Route path="/about" element={<AboutV4 />} />
                 <Route path="/start-a-project" element={<StartProjectV4 />} />
                 <Route path="/de" element={<DeV4 />} />
+                <Route path="/ar" element={<HomeAr />} />
+                <Route path="/ar/services" element={<ServicesAr />} />
+                <Route path="/ar/work" element={<WorkAr />} />
+                <Route path="/ar/approach" element={<ApproachAr />} />
+                <Route path="/ar/industries" element={<IndustriesAr />} />
+                <Route path="/ar/creators" element={<CreatorsAr />} />
+                <Route path="/ar/start-a-project" element={<StartProjectAr />} />
                 <Route path={PILLAR_BASE} element={<ApproachV4 />} />
                 {PILLAR_INDEX.map((p) => (
                   <Route key={p.id} path={pillarPath(p.id)} element={<PillarV4 />} />
+                ))}
+                {PILLAR_INDEX.map((p) => (
+                  <Route key={`ar-${p.id}`} path={arPath(pillarPath(p.id))} element={<PillarAr />} />
                 ))}
                 <Route path="/analytics" element={<Analytics />} />
                 <Route path="/ab-test" element={<ABTestDashboard />} />
