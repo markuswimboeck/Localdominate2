@@ -1,12 +1,25 @@
 import { lazy } from "react";
 import type { ComponentType } from "react";
 import { PILLAR_BASE, PILLAR_INDEX, pillarPath } from "@/data/v4PillarIndex";
+import { V4_ARTICLE_LOADERS, V4_ARTICLE_SLUGS, v4ArticlePath } from "@/content/articles";
 
 type PageProps = { preview?: boolean };
 type PageLoader = () => Promise<{ default: ComponentType<PageProps> }>;
 
 /** The V4 pages that are prerendered at build time and hydrated in the browser (see main.tsx). */
 const loadPillar: PageLoader = () => import("@/pages/v4/PillarV4"); // one module serves all seven step pages
+
+/** A migrated blog article: the shared page module plus the article's own data file. */
+const loadArticle =
+  (slug: string): PageLoader =>
+  async () => {
+    const [{ default: ArticleV4 }, article] = await Promise.all([
+      import("@/pages/v4/ArticleV4"),
+      V4_ARTICLE_LOADERS[slug](),
+    ]);
+    const Page = () => <ArticleV4 article={article} />;
+    return { default: Page };
+  };
 
 const LOADERS: Record<string, PageLoader> = {
   "/": () => import("@/pages/v4/HomeV4"),
@@ -20,6 +33,7 @@ const LOADERS: Record<string, PageLoader> = {
   "/start-a-project": () => import("@/pages/v4/StartProjectV4"),
   "/de": () => import("@/pages/v4/DeV4"),
   ...Object.fromEntries(PILLAR_INDEX.map((p) => [pillarPath(p.id), loadPillar])),
+  ...Object.fromEntries(V4_ARTICLE_SLUGS.map((slug) => [v4ArticlePath(slug), loadArticle(slug)])),
 };
 
 // Keyed by loader, so pages that share a module (the seven step pages) share one entry.
