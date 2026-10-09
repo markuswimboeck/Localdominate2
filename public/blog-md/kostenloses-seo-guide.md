@@ -1,114 +1,228 @@
 ---
-title: "Kostenloses SEO: Der ultimative Guide für Einsteiger 2026"
+title: "Kostenloses SEO: Was Sie ohne Budget selbst erledigen können"
 slug: kostenloses-seo-guide
 url: https://localdominate.org/blog/kostenloses-seo-guide
 canonical: https://localdominate.org/blog/kostenloses-seo-guide
 markdown_url: https://localdominate.org/blog-md/kostenloses-seo-guide.md
 language: de-DE
 published: 2026-01-09
-updated: 2026-01-09
-reading_time_minutes: 28
-category: "Strategie"
-author: Local Dominator
-publisher: Local Dominator
-license: https://creativecommons.org/licenses/by/4.0/
-citation: "Local Dominator (2026-01-09). Kostenloses SEO: Der ultimative Guide für Einsteiger 2026. https://localdominate.org/blog/kostenloses-seo-guide"
-keywords: ["kostenloses seo", "seo kostenlos", "gratis seo tools", "seo für anfänger", "local seo kostenlos", "seo lernen"]
-area_served: [Deutschland, Österreich, Schweiz]
-ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
+updated: 2026-10-09
+reading_time_minutes: 13
+category: "Grundlagen"
+author: LocalDominate Redaktion
+accountable: Markus Wimböck
+publisher: LocalDominate
+description: "SEO ohne Budget: welche kostenlosen Google-Werkzeuge genügen, was Sie selbst erledigen können und welche alten Tipps Sie sich sparen. Mit Plan in 8 Schritten."
 ---
 
-<!--
-JSON-LD (Schema.org Article):
+# Kostenloses SEO: Was Sie ohne Budget selbst erledigen können
 
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "@id": "https://localdominate.org/blog/kostenloses-seo-guide#article",
-  "headline": "Kostenloses SEO: Der ultimative Guide für Einsteiger 2026",
-  "description": "Lerne SEO komplett kostenlos! 50+ Gratis-Tools, Schritt-für-Schritt Anleitungen und bewährte Strategien. Der umfassendste kostenlose SEO-Guide im deutschsprachigen Raum.",
-  "url": "https://localdominate.org/blog/kostenloses-seo-guide",
-  "inLanguage": "de-DE",
-  "datePublished": "2026-01-09",
-  "dateModified": "2026-01-09",
-  "timeRequired": "PT28M",
-  "keywords": "kostenloses seo, seo kostenlos, gratis seo tools, seo für anfänger, local seo kostenlos, seo lernen",
-  "author": {
-    "@type": "Organization",
-    "name": "Local Dominator",
-    "url": "https://localdominate.org"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Local Dominator",
-    "url": "https://localdominate.org",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://localdominate.org/logo.png"
-    }
-  },
-  "isAccessibleForFree": true,
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: Local Dominator (localdominate.org)",
-  "encoding": {
-    "@type": "MediaObject",
-    "encodingFormat": "text/markdown",
-    "contentUrl": "https://localdominate.org/blog-md/kostenloses-seo-guide.md"
-  },
-  "about": {
-    "@type": "Thing",
-    "name": "Strategie"
-  },
-  "areaServed": [
-    {
-      "@type": "Country",
-      "name": "Deutschland",
-      "sameAs": "https://www.wikidata.org/wiki/Q183"
-    },
-    {
-      "@type": "Country",
-      "name": "Österreich",
-      "sameAs": "https://www.wikidata.org/wiki/Q40"
-    },
-    {
-      "@type": "Country",
-      "name": "Schweiz",
-      "sameAs": "https://www.wikidata.org/wiki/Q39"
-    }
-  ]
-}
-```
--->
+Für Inhaber von Hotels, Praxen, Handwerksbetrieben und Geschäften in Deutschland, Österreich und der Schweiz, die ihre Sichtbarkeit bei Google zuerst selbst verbessern wollen. Sie erfahren, welche kostenlosen Werkzeuge genügen, in welcher Reihenfolge Sie vorgehen und wo der eigene Aufwand an Grenzen stößt.
 
-# Kostenloses SEO: Der ultimative Guide für Einsteiger 2026
+## Die kurze Antwort
 
-> Kanonische URL: https://localdominate.org/blog/kostenloses-seo-guide
-> Aktualisiert: 2026-01-09 · Lesezeit: 28 Min · Kategorie: Strategie
-> Lizenz: CC-BY 4.0 — Zitate mit Quellenangabe erlaubt.
+Ja, die Grundlagen von SEO kosten kein Geld, nur Zeit. Mit dem Google-Unternehmensprofil, der Google Search Console und PageSpeed Insights haben Sie die wichtigsten Werkzeuge kostenlos. Entscheidend ist die Reihenfolge: zuerst Profil und Firmendaten, dann Technik und klare Leistungsseiten, danach Bewertungen, Erwähnungen und regelmäßiges Messen.
 
-## Kurzbeschreibung
+## Das Wichtigste in Kürze
 
-Lerne SEO komplett kostenlos! 50+ Gratis-Tools, Schritt-für-Schritt Anleitungen und bewährte Strategien. Der umfassendste kostenlose SEO-Guide im deutschsprachigen Raum.
+- Die wichtigsten Werkzeuge sind kostenlos und stammen von Google selbst: Unternehmensprofil, Search Console und PageSpeed Insights.
+- Für lokale Betriebe ist das Unternehmensprofil der größte Einzelhebel. Ein besseres lokales Ranking lässt sich laut Google nicht kaufen.
+- Viele verbreitete Tipps sind veraltet, etwa das Keywords-Meta-Tag, der Test auf Optimierung für Mobilgeräte oder FAQ-Markup für mehr Platz in der Suche.
+- Gekaufte Links, gekaufte Bewertungen und Orte im Firmennamen verstoßen gegen Googles Richtlinien. Sie kosten am Ende mehr, als sie sparen.
+- Kostenloses SEO braucht vor allem regelmäßige Zeit. Planen Sie feste Termine ein, statt alles an einem Wochenende zu erledigen.
 
-## Zusammenfassung
+## Was kostenloses SEO leisten kann und was nicht
 
-Alles was du über SEO wissen musst - ohne einen Cent auszugeben. Von Google Business bis Technical SEO, mit 50+ kostenlosen Tools.
+Kostenlos heißt bei SEO: kein Geld für Werkzeuge oder Dienstleister, aber eigene Zeit. Für die meisten lokalen Betriebe reicht das, um das Fundament sauber zu legen.
 
-## Schlüsselbegriffe
+SEO (Suchmaschinenoptimierung) umfasst alles, was dazu beiträgt, dass Google Ihre Website und Ihr Unternehmensprofil versteht und bei passenden Suchen zeigt. Für einen lokalen Betrieb heißt das konkret: bei Suchen wie „Physiotherapie Linz“, „Pension am Ammersee“ oder „Schlüsseldienst in der Nähe“ auftauchen und dann angerufen oder gebucht werden.
 
-- kostenloses seo
-- seo kostenlos
-- gratis seo tools
-- seo für anfänger
-- local seo kostenlos
-- seo lernen
+Google verkauft keine besseren Plätze in den normalen Suchergebnissen und im Kartenblock. Bezahlte Anzeigen erscheinen getrennt und gekennzeichnet. Deshalb können Sie mit eigener Arbeit grundsätzlich dasselbe erreichen wie mit einem Dienstleister. Der Unterschied liegt in Zeit, Erfahrung und darin, Fehler früher zu erkennen.
 
-## Quelle und Autor
+*Was Sie selbst schaffen und wo es aufwendiger wird*
 
-Verfasst und veröffentlicht von **Local Dominator** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+| Gut selbst machbar | Aufwendiger ohne Erfahrung |
+| --- | --- |
+| Unternehmensprofil vollständig ausfüllen und pflegen | Gesperrte oder doppelte Profile wiederherstellen |
+| Search Console einrichten und Berichte lesen | Indexierungsprobleme auf großen oder alten Websites lösen |
+| Titel, Beschreibungen und Texte der eigenen Seiten verbessern | Ladezeit-Probleme beheben, die im Theme oder Baukasten stecken |
+| Kunden um Bewertungen bitten und antworten | Strukturierte Daten fehlerfrei einbauen und pflegen |
 
-- Webseite: https://localdominate.org
-- Vollständiger Artikel (HTML): https://localdominate.org/blog/kostenloses-seo-guide
-- Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/kostenloses-seo-guide.md
-- Zitiervorlage: Local Dominator (2026-01-09). Kostenloses SEO: Der ultimative Guide für Einsteiger 2026. https://localdominate.org/blog/kostenloses-seo-guide
+> **Realistische Erwartung:** Google schreibt in seinem SEO-Startleitfaden, dass manche Änderungen innerhalb weniger Stunden wirken, andere erst nach mehreren Monaten. Planen Sie deshalb in Monaten, nicht in Tagen.
+
+## Die kostenlosen Werkzeuge, die Sie wirklich brauchen
+
+Sie brauchen keine fünfzig Tools. Drei kostenlose Google-Werkzeuge decken das Wichtigste ab, dazu kommt die Google-Suche selbst als Ideenquelle.
+
+*Kostenlose Werkzeuge für den Anfang*
+
+| Werkzeug | Wofür Sie es nutzen |
+| --- | --- |
+| Google-Unternehmensprofil | Ihr Eintrag in Google Maps und im Kartenblock: Daten, Fotos, Bewertungen, Leistungsdaten wie Anrufe und Routen |
+| Google Search Console | Welche Suchanfragen zu Klicks führen, welche Seiten indexiert sind, Fehlermeldungen, Core-Web-Vitals-Bericht |
+| PageSpeed Insights | Ladezeit und Bedienbarkeit einer Seite, mit Daten echter Nutzer, sofern genug vorhanden sind |
+| Test für Rich-Suchergebnisse | Ob Ihre strukturierten Daten (etwa LocalBusiness) fehlerfrei gelesen werden |
+| Die Google-Suche selbst | Autovervollständigung und „Ähnliche Fragen“ zeigen, wie Menschen nach Ihrer Leistung suchen |
+
+Die Search Console ist laut Google ein **kostenloser Dienst**. Sie müssen sich nicht anmelden, um in der Suche zu erscheinen, aber ohne sie sehen Sie nicht, wie Google Ihre Website wahrnimmt. Richten Sie sie als Erstes ein, damit Daten gesammelt werden, während Sie an anderen Punkten arbeiten.
+
+> **Nicht mehr verfügbar:** Den „Test auf Optimierung für Mobilgeräte“ und den gleichnamigen Search-Console-Bericht hat Google im Dezember 2023 eingestellt. Für die Prüfung der mobilen Darstellung nutzen Sie heute Lighthouse in Chrome oder PageSpeed Insights.
+
+Einen Vergleich weiterer kostenloser Prüfwerkzeuge finden Sie im Artikel [Kostenlose Local SEO Audit-Tools](https://localdominate.org/blog/kostenlose-local-seo-audit-tools).
+
+## Das Google-Unternehmensprofil: der größte kostenlose Hebel
+
+Für Betriebe mit Kunden vor Ort entscheidet das Unternehmensprofil, ob Sie im Kartenblock und in Google Maps erscheinen. Es ist kostenlos und lässt sich ohne Vorkenntnisse pflegen.
+
+Google sortiert lokale Ergebnisse nach drei Faktoren: **Relevanz, Entfernung und Bekanntheit**. Die Entfernung können Sie nicht ändern. Relevanz und Bekanntheit beeinflussen Sie mit einem vollständigen Profil, einer passenden Website und echten Bewertungen.
+
+1. **Vorhandenes Profil übernehmen.** Suchen Sie zuerst, ob es bereits einen Eintrag gibt, und beanspruchen Sie ihn. Ein zweites Profil für denselben Standort führt zu Duplikaten.
+2. **Name wie auf dem Schild.** Keine Orte, Leistungen oder Slogans im Namen. „Malerei Huber“, nicht „Malerei Huber Maler München günstig“. Zusätze verstoßen gegen Googles Richtlinien und können zur Sperrung führen.
+3. **Wenige, genaue Kategorien.** Google empfiehlt so wenige Kategorien wie möglich, und zwar danach, was der Betrieb ist, nicht was er hat. „Zahnarzt“ statt „Gesundheit“.
+4. **Adresse oder Einzugsgebiet.** Mit Kundenverkehr vor Ort: echte Adresse. Ohne Kundenverkehr, etwa im Handwerk: Adresse ausblenden und Einzugsgebiet angeben. Eine angemietete Postadresse ohne Betrieb ist nicht zulässig.
+5. **Zeiten, Leistungen, Fotos.** Öffnungszeiten inklusive Feiertagen, jede Leistung einzeln, eigene Fotos von außen, innen, Team und Arbeit.
+
+Eine ausführliche Anleitung Feld für Feld steht im Artikel [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren).
+
+## Technische Grundlagen prüfen, ohne Spezialsoftware
+
+Die technische Prüfung für eine typische Betriebswebsite gelingt mit Search Console und PageSpeed Insights. Wichtig ist, dass Google Ihre Seiten finden, lesen und auf dem Handy gut darstellen kann.
+
+- **HTTPS:** Die Adresse beginnt mit https und der Browser zeigt keine Warnung. Bei den meisten Hostern ist ein Zertifikat inklusive.
+- **Indexierung:** Im Bericht „Seiten“ der Search Console sehen Sie, welche Seiten im Index sind und warum andere fehlen. Mit der URL-Prüfung testen Sie einzelne Seiten.
+- **Sitemap:** Reichen Sie die XML-Sitemap Ihrer Website in der Search Console ein. Die meisten Baukästen und Systeme wie WordPress erzeugen sie automatisch.
+- **robots.txt:** Prüfen Sie, dass wichtige Seiten nicht gesperrt sind. Ein vergessenes „Disallow: /“ aus der Entwicklungsphase blockiert die ganze Website.
+- **Mobil bedienbar:** Telefonnummer, Route und Buchung müssen auf dem Handy mit einem Tipp erreichbar sein, ohne seitliches Scrollen.
+
+*Core Web Vitals: die Zielwerte nach Google*
+
+| Messwert | Was er misst | Guter Wert |
+| --- | --- | --- |
+| Largest Contentful Paint (LCP) | Wie schnell der größte sichtbare Inhalt geladen ist | höchstens 2,5 Sekunden |
+| Interaction to Next Paint (INP) | Wie schnell die Seite auf Tippen und Klicken reagiert | unter 200 Millisekunden |
+| Cumulative Layout Shift (CLS) | Ob Inhalte beim Laden verrutschen | unter 0,1 |
+
+INP hat 2024 den früheren Messwert First Input Delay (FID) abgelöst. Wenn eine Anleitung noch FID nennt, ist sie veraltet. Was bei lokalen Websites meist bremst, etwa große Bilder oder eingebettete Buchungs-Widgets, beschreibt der Artikel [Core Web Vitals für lokale Websites](https://localdominate.org/blog/core-web-vitals-local-seo).
+
+## Seiten so schreiben, dass Google sie versteht
+
+Jede wichtige Leistung braucht eine eigene Seite mit klarem Titel, verständlicher Überschrift und Text, der die Fragen Ihrer Kunden beantwortet. Das kostet nur Zeit und bringt oft am meisten.
+
+1. **Eine Seite je Leistung.** „Zahnreinigung“, „Implantate“ und „Angstpatienten“ sind drei verschiedene Suchen. Eine Sammelseite „Leistungen“ deckt keine davon gut ab.
+2. **Eindeutiger Titel.** Google rät zu einem Titel, der für jede Seite einzigartig ist, klar und knapp beschreibt, was auf der Seite steht. Zum Beispiel „Badsanierung in Salzburg | Installateur Muster“. Lange Titel kürzt Google in der Anzeige.
+3. **Beschreibung als Einladung.** Die Meta-Beschreibung kann als Textausschnitt unter dem Titel erscheinen, Google nimmt aber oft auch Text aus der Seite selbst. Schreiben Sie in zwei Sätzen, was der Suchende auf der Seite findet.
+4. **Überschriften und Text.** Eine Hauptüberschrift, die sagt, worum es geht, darunter Abschnitte zu Ablauf, Preisrahmen, Einzugsgebiet und häufigen Fragen. Die Länge allein spielt laut Google keine Rolle.
+5. **Bilder beschreiben.** Dateinamen und Alt-Texte, die das Bild beschreiben („Doppelzimmer mit Seeblick, Hotel Muster“), helfen Google und Menschen mit Screenreader.
+6. **Interne Links mit klarem Text.** Verlinken Sie verwandte Seiten mit beschreibendem Linktext statt „hier klicken“. Google nutzt den Linktext, um das Ziel zu verstehen.
+
+> **Das können Sie sich sparen:** Das Keywords-Meta-Tag nutzt Google laut eigenem Startleitfaden nicht. Und FAQ-Markup bringt seit August 2023 nur noch Behörden- und Gesundheitswebsites zusätzliche Fragen in der Suche, Anleitungs-Ergebnisse (HowTo) zeigt Google gar nicht mehr. Strukturierte Daten vom Typ LocalBusiness bleiben dagegen sinnvoll, siehe [Schema Markup für Local SEO](https://localdominate.org/blog/schema-markup-local-seo).
+
+## Suchbegriffe finden ohne bezahlte Tools
+
+Die besten Suchbegriffe für einen lokalen Betrieb kennen Sie oft schon: Es sind die Fragen am Telefon. Ergänzen Sie sie mit der Google-Suche und den Daten aus Search Console und Unternehmensprofil.
+
+1. **Kundenfragen sammeln.** Notieren Sie zwei Wochen lang, wonach Kunden am Telefon und am Empfang fragen, in deren Worten.
+2. **Autovervollständigung nutzen.** Geben Sie Ihre Leistung und Ihren Ort in die Google-Suche ein und notieren Sie die Vorschläge. Achten Sie auch auf „Ähnliche Fragen“ und verwandte Suchen am Seitenende.
+3. **Search Console auswerten.** Im Leistungsbericht sehen Sie, bei welchen Suchanfragen Ihre Seiten bereits erscheinen, auch solche mit vielen Einblendungen und wenigen Klicks.
+4. **Profil-Leistungsdaten lesen.** Das Unternehmensprofil zeigt die Suchbegriffe, über die Menschen Ihren Eintrag gefunden haben.
+5. **Suchabsicht prüfen.** Schauen Sie, was Google für einen Begriff heute zeigt: Kartenblock, Ratgeber oder Shops. Daran erkennen Sie, welche Art von Seite dafür passt.
+
+Spezifische Begriffe wie „Notdienst Heizung Graz Wochenende“ werden seltener gesucht als „Heizung“, passen aber genau zu dem, was Sie anbieten. Für einen lokalen Betrieb sind sie meist wertvoller. Die ausführliche Methode steht in [Local SEO Keywords finden](https://localdominate.org/blog/local-seo-keywords-finden).
+
+## Bewertungen und Erwähnungen ohne Budget
+
+Bewertungen und Erwähnungen von anderen Websites tragen zur Bekanntheit bei, die Google für das lokale Ranking nennt. Beides können Sie kostenlos aufbauen, solange Sie sich an die Regeln halten.
+
+*Kostenlos und erlaubt, oder gegen Googles Richtlinien*
+
+| Erlaubt | Verstößt gegen Googles Richtlinien |
+| --- | --- |
+| Alle Kunden nach dem Termin um eine Bewertung bitten, mit direktem Link oder QR-Code | Rabatte, Geschenke oder Geld für eine Bewertung anbieten |
+| Auf jede Bewertung sachlich antworten, auch auf kritische | Nur zufriedene Kunden fragen oder negative Bewertungen verhindern |
+| Eintrag und Link bei Kammer, Innung, Tourismusverband oder Verein | Links kaufen oder verkaufen, die das Ranking verbessern sollen |
+| Lokale Presse bei einem echten Anlass informieren | Exzessiver Linktausch oder Gastbeiträge mit optimiertem Linktext |
+
+Achten Sie außerdem darauf, dass Name, Adresse und Telefonnummer überall gleich geschrieben sind: im Profil, auf der Website, im Impressum und in Verzeichnissen wie Das Örtliche, Herold oder local.ch. Wie Sie Abweichungen finden, zeigt der Artikel [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo). Einen Ablauf für mehr Bewertungen finden Sie in [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
+
+## Ein Plan in acht Schritten
+
+Beginnen Sie mit den Schritten, die Daten sammeln und Fehler aufdecken, dann folgen Inhalte und Bewertungen. Mit einem festen Termin pro Woche kommen Sie in einigen Wochen durch die Liste.
+
+1. **Search Console einrichten.** Website bestätigen und Sitemap einreichen, damit ab sofort Daten gesammelt werden.
+2. **Unternehmensprofil übernehmen.** Beanspruchen, bestätigen und alle Grunddaten korrigieren.
+3. **Firmendaten abgleichen.** Profil, Website, Impressum und die zwei, drei wichtigsten Verzeichnisse auf denselben Stand bringen.
+4. **Technik prüfen.** HTTPS, Indexierung, robots.txt und PageSpeed Insights für Startseite und wichtigste Leistungsseite.
+5. **Suchbegriffe sammeln.** Kundenfragen, Autovervollständigung und Search-Console-Daten in einer einfachen Liste.
+6. **Leistungsseiten verbessern.** Je Woche eine Seite: Titel, Überschrift, Text, Bilder, interne Links.
+7. **Bewertungen als Ablauf.** Eine feste Stelle im Kundenkontakt, an der Sie um eine Bewertung bitten.
+8. **Monatlich messen.** Einmal im Monat dieselben Zahlen vergleichen und den nächsten Schritt festlegen.
+
+Zum Abhaken eignet sich die [Local-SEO-Audit-Checkliste](https://localdominate.org/blog/local-seo-audit-checkliste). Den Gesamtzusammenhang erklärt der [Local SEO Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo).
+
+## Erfolg messen mit kostenlosen Daten
+
+Messen Sie, was zu Kunden führt: Anrufe, Routenanfragen, Klicks auf die Website und Anfragen. Positionen allein sagen wenig, weil Google lokal je nach Standort des Suchenden anders sortiert.
+
+*Kennzahlen und woher sie kommen*
+
+| Kennzahl | Quelle | Was sie Ihnen sagt |
+| --- | --- | --- |
+| Anrufe, Routen, Website-Klicks | Leistungsdaten im Unternehmensprofil | Wie oft aus dem Eintrag ein Kontakt wird |
+| Klicks und Einblendungen | Search Console, Leistungsbericht | Ob Ihre Seiten bei den richtigen Suchen erscheinen und angeklickt werden |
+| Klickrate je Seite | Search Console | Ob Titel und Beschreibung zum Klicken einladen |
+| Indexierte Seiten und Fehler | Search Console, Bericht „Seiten“ | Ob Google alle wichtigen Seiten kennt |
+| Anfragen und Buchungen | Ihr Posteingang, Kalender oder Buchungssystem | Ob aus Sichtbarkeit Umsatz wird |
+
+Notieren Sie die Werte jeden Monat am selben Tag in einer Tabelle. Vergleichen Sie Monate miteinander und nicht einzelne Tage, besonders in Saisonbetrieben wie Hotels oder Gartenbau.
+
+## Wo kostenloses SEO an Grenzen stößt
+
+Eigene Arbeit reicht, solange Profil und Website grundsätzlich in Ordnung sind. Externe Hilfe lohnt sich, wenn ein Profil gesperrt ist, die Technik blockiert oder Ihnen schlicht die Zeit fehlt.
+
+- **Gesperrtes oder doppeltes Profil:** Die Wiederherstellung verlangt genaue Nachweise. Fehler im Antrag verlängern das Verfahren.
+- **Technik im Baukasten:** Wenn die Ladezeit am Theme, an Plugins oder am Hosting liegt, helfen Texte und Fotos nicht weiter.
+- **Starker Wettbewerb im Ort:** In Städten mit vielen gleichartigen Betrieben braucht es mehr Inhalte und Erwähnungen, bis sich etwas bewegt.
+- **Keine Zeit:** SEO wirkt nur, wenn es regelmäßig passiert. Ein Plan, der liegen bleibt, bringt nichts.
+
+Misstrauen Sie Angeboten mit „Platz 1 garantiert“. Google schreibt selbst, dass ein besseres lokales Ranking nicht eingefordert werden kann, auch nicht gegen Bezahlung. Wenn Sie nur das Profil sauber aufsetzen lassen wollen: Bei LocalDominate kostet der Profil Quick-Fix 79 € und die vollständige Profil-Optimierung 390 €. Alle Leistungen stehen unter [Leistungen](https://localdominate.org/services).
+
+## Häufige Fragen
+
+### Kann man SEO wirklich kostenlos machen?
+
+Ja. Die wichtigsten Werkzeuge, also Unternehmensprofil, Search Console und PageSpeed Insights, sind kostenlos. Sie investieren Zeit statt Geld. Bezahlte Tools sparen vor allem Zeit bei der Recherche, sie sind für einen einzelnen lokalen Betrieb aber kein Muss.
+
+### Womit sollte ich anfangen?
+
+Mit der Search Console, damit Daten gesammelt werden, und mit dem Unternehmensprofil, weil es für lokale Suchen am meisten bewirkt. Danach prüfen Sie die Technik und verbessern Ihre wichtigsten Leistungsseiten.
+
+### Wie lange dauert es, bis kostenloses SEO wirkt?
+
+Google schreibt, dass manche Änderungen innerhalb von Stunden wirken und andere Monate brauchen. Korrekturen im Profil sind oft nach Googles Prüfung sichtbar. Für stabile Veränderungen bei Anfragen sollten Sie mit Monaten rechnen, je nach Wettbewerb im Ort.
+
+### Brauche ich Programmierkenntnisse?
+
+Für die Grundlagen nicht. Titel, Beschreibungen, Texte und Bilder ändern Sie in den meisten Website-Systemen ohne Code. Bei strukturierten Daten oder Ladezeit-Problemen im Theme kann technische Hilfe nötig werden.
+
+### Wie viel Zeit sollte ich einplanen?
+
+Dafür gibt es keine feste Regel. Bewährt hat sich ein fester Termin pro Woche, an dem Sie einen Schritt des Plans erledigen, und ein Termin pro Monat zum Messen. Regelmäßigkeit bringt mehr als ein einzelner großer Einsatz.
+
+### Lohnt sich ein Google-Unternehmensprofil auch ohne Ladengeschäft?
+
+Ja. Handwerker und mobile Dienste blenden ihre Adresse aus und geben ein Einzugsgebiet an. Sie erscheinen dann bei Suchen in diesem Gebiet. Eine reine Postadresse ohne Betrieb ist dafür nicht zulässig.
+
+## Quellen
+
+- [Startleitfaden zur Suchmaschinenoptimierung (SEO)](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=de), Google Search Central
+- [Informationen zur Search Console](https://support.google.com/webmasters/answer/9128668?hl=de), Search Console-Hilfe
+- [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Verbotene und eingeschränkt zulässige Inhalte (Rezensionen)](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe
+- [Spamrichtlinien für die Google Websuche](https://developers.google.com/search/docs/essentials/spam-policies?hl=de), Google Search Central
+- [Core Web Vitals und Google-Suchergebnisse](https://developers.google.com/search/docs/appearance/core-web-vitals?hl=de), Google Search Central
+- [Änderungen an Rich-Suchergebnissen für Anleitungen und FAQs (August 2023)](https://developers.google.com/search/blog/2023/08/howto-faq-changes?hl=de), Google Search Central Blog
+
+---
+
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-09. Fehler gefunden? info@localdominate.org

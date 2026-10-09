@@ -4,6 +4,10 @@
  * (src/content/articles/data/*.ts). The mirror is the full article text for AI crawlers
  * (linked from llms.txt), generated from the same data as the page, so the two never drift.
  *
+ * It also copies title, meta title, meta description, reading time and update date of each V4
+ * article into its entry in src/data/blogArticles.ts (German block), so lists, Insights and
+ * related-article boxes show the same values as the page.
+ *
  * Usage: npm run blog:md            all V4 articles
  *        npm run blog:md -- --only=ultimate-guide-local-seo
  */
@@ -105,6 +109,28 @@ function render(a) {
   return parts.join("\n");
 }
 
+const REGISTRY = path.join(ROOT, "src/data/blogArticles.ts");
+function syncRegistry(a) {
+  let src = fs.readFileSync(REGISTRY, "utf8");
+  const start = src.indexOf(`slug: "${a.slug}"`);
+  if (start < 0) throw new Error(`${a.slug}: no entry in src/data/blogArticles.ts`);
+  const next = src.indexOf("slug:", start + 6);
+  const end = next < 0 ? src.length : next;
+  let entry = src.slice(start, end);
+  const deStart = entry.indexOf("de: {");
+  const deEnd = entry.indexOf("}", deStart);
+  let de = entry.slice(deStart, deEnd);
+  const set = (key, value) => { de = de.replace(new RegExp(`${key}: "(?:[^"\\\\]|\\\\.)*"`), `${key}: ${JSON.stringify(value)}`); };
+  set("title", a.h1);
+  set("metaTitle", a.seoTitle);
+  set("metaDescription", a.seoDescription);
+  set("excerpt", a.seoDescription);
+  entry = entry.slice(0, deStart) + de + entry.slice(deEnd);
+  entry = entry.replace(/readingTime: \d+/, `readingTime: ${a.readingTime}`).replace(/updatedAt: "[^"]*"/, `updatedAt: "${a.updatedAt}"`);
+  src = src.slice(0, start) + entry + src.slice(end);
+  fs.writeFileSync(REGISTRY, src);
+}
+
 const files = fs.readdirSync(DATA).filter((f) => f.endsWith(".ts") && (!only || only.includes(f.replace(/\.ts$/, ""))));
 const tmp = fs.mkdtempSync(path.join(os.tmpdir(), "blog-md-"));
 for (const f of files) {
@@ -113,6 +139,7 @@ for (const f of files) {
   const { default: article } = await import(pathToFileURL(outfile).href);
   if (article.slug !== f.replace(/\.ts$/, "")) throw new Error(`${f}: slug "${article.slug}" does not match the file name`);
   fs.writeFileSync(path.join(OUT, `${article.slug}.md`), render(article));
+  syncRegistry(article);
   console.log(`blog-md/${article.slug}.md`);
 }
 fs.rmSync(tmp, { recursive: true, force: true });

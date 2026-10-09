@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import SEOHead from "@/components/SEOHead";
+import SEOHead, { getOgCard } from "@/components/SEOHead";
 import { V4Page } from "@/components/v4/V4Page";
 import { CheckButton } from "@/components/v4/CheckButton";
 import { StateField } from "@/components/v4/StateField";
@@ -29,6 +29,7 @@ function jsonLd(a: V4Article) {
           headline: a.h1,
           description: a.seoDescription,
           abstract: plain(a.answer),
+          image: getOgCard(`/blog/${a.slug}`) ?? `${SITE}/og-image.png`,
           inLanguage: "de-DE",
           datePublished: a.publishedAt,
           dateModified: a.updatedAt,
