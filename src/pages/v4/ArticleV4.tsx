@@ -165,7 +165,7 @@ function BlockView({ block }: { block: Block }) {
       return (
         <ol className="grid max-w-[80ch] gap-px overflow-hidden rounded-2xl border border-v4-ink/10 bg-v4-ink/10 md:grid-cols-2">
           {block.items.map((s, i) => (
-            <li key={s.title} className="bg-v4-ivory p-6">
+            <li key={s.title} className="bg-v4-ivory p-6 md:[&:last-child:nth-child(odd)]:col-span-2">
               <SystemLabel as="p" className="text-v4-ink/50">{`Schritt ${String(i + 1).padStart(2, "0")}`}</SystemLabel>
               <p className="mt-3 font-v4-sans text-lg font-semibold tracking-tight text-v4-ink">{s.title}</p>
               <p className="mt-2 text-pretty font-v4-sans text-sm leading-relaxed text-v4-ink/75">
