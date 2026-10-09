@@ -4,6 +4,33 @@
   "installCommand": "npm ci --no-audit --no-fund",
   "buildCommand": "npm i --no-save --no-audit --no-fund playwright@1.56.0 @sparticuz/chromium@141.0.0 && node scripts/vercel-build.mjs",
   "outputDirectory": "dist",
+  "redirects": [
+    {
+      "source": "/seo-lexikon/proximity",
+      "destination": "/seo-lexikon#proximity-entfernung",
+      "permanent": true
+    },
+    {
+      "source": "/seo-lexikon/user-experience",
+      "destination": "/seo-lexikon#user-experience-ux",
+      "permanent": true
+    },
+    {
+      "source": "/seo-lexikon/webmaster-tools",
+      "destination": "/seo-lexikon#webmaster-tools--search-console",
+      "permanent": true
+    },
+    {
+      "source": "/seo-lexikon/robots-txt",
+      "destination": "/seo-lexikon#robotstxt",
+      "permanent": true
+    },
+    {
+      "source": "/seo-lexikon/:term",
+      "destination": "/seo-lexikon#:term",
+      "permanent": true
+    }
+  ],
   "rewrites": [
     {
       "source": "/((?!.*\\.).*)",
@@ -13,8 +40,18 @@
   "headers": [
     {
       "source": "/(.*)",
-      "has": [{ "type": "host", "value": ".*\\.vercel\\.app" }],
-      "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }]
+      "has": [
+        {
+          "type": "host",
+          "value": ".*\\.vercel\\.app"
+        }
+      ],
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
     }
   ]
 }

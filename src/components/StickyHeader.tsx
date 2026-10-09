@@ -144,7 +144,7 @@ const StickyHeader = () => {
 
               {/* Logo */}
               <Link to="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
-                <img src="/favicon.png" alt="Local Dominator" className="w-8 h-8" width={32} height={32} />
+                <img src="/favicon.png" alt="LocalDominate" className="w-8 h-8" width={32} height={32} />
                 <span className="font-bold text-foreground text-lg hidden sm:block">
                   {t.brand}
                 </span>

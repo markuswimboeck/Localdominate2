@@ -68,7 +68,7 @@ const HubCaseStudies = () => {
   return (
     <>
       <SEOHead
-        title="Local SEO Fallstudien Hub – Praxisbeispiele aus 22+ Branchen | 2026"
+        title="Local SEO Fallstudien – Praxisbeispiele aus 22+ Branchen"
         description="Entdecke hypothetische Fallstudien aus Gastronomie, Gesundheit, Handwerk und mehr. Lerne, wie lokale Unternehmen durch SEO wachsen."
         canonicalUrl="https://localdominate.org/blog/case-studies-hub"
         jsonLd={jsonLd}

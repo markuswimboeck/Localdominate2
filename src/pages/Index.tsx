@@ -175,11 +175,6 @@ const Index = () => {
         description={language === "en" ? "Local SEO and AI visibility for local businesses: Google Business Profile optimisation, structured data and practical guidance." : language === "ar" ? "تحسين الظهور المحلي للشركات عبر Google Business Profile والبيانات المنظمة والبحث المدعوم بالذكاء الاصطناعي." : "Local SEO und AI-Sichtbarkeit für lokale Unternehmen: Google Business Profile, strukturierte Daten und praxisnahe Fachbeiträge."}
         canonicalUrl="https://localdominate.org/"
         lang={language}
-        alternateUrls={{
-          de: "https://localdominate.org/",
-          en: "https://localdominate.org/?lang=en",
-          ar: "https://localdominate.org/?lang=ar",
-        }}
         jsonLd={{
           "@context": "https://schema.org",
           "@type": "WebPage",

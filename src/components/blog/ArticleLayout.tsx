@@ -1,7 +1,7 @@
 import { ReactNode, useEffect, useRef, useState } from "react";
 import { Link } from "react-router-dom";
 import { ChevronRight, Clock, Calendar } from "lucide-react";
-import SEOHead from "@/components/SEOHead";
+import SEOHead, { getOgCard } from "@/components/SEOHead";
 import Footer from "@/components/Footer";
 import LanguageSwitch from "@/components/LanguageSwitch";
 import AuthorBox from "./AuthorBox";
@@ -277,14 +277,9 @@ const ArticleLayout = ({
     });
   }, [article.slug, article.title]);
   
-  // Dynamic OG Image - auto-generate from slug, fallback to default
-  const getOgImage = (slug: string): string => {
-    // Try the slug directly as image filename
-    const possibleImage = `https://localdominate.org/images/blog/${slug}.jpg`;
-    return possibleImage;
-  };
-
-  const articleOgImage = getOgImage(article.slug);
+  // Branded social card per article (scripts/og/generate-og-cards.mjs); the old
+  // /images/blog/<slug>.jpg guess 404'd for most articles.
+  const articleOgImage = getOgCard(`/blog/${article.slug}`) ?? "https://localdominate.org/og-image.png";
   
   // Author Profile & Schema
   const articleAuthor = getArticleAuthor(article.slug);
@@ -721,7 +716,6 @@ const ArticleLayout = ({
         articleModifiedTime={article.updatedAt}
         articleSection={article.category}
         lang={language}
-        alternateUrls={{ de: `https://localdominate.org/blog/${article.slug}` }}
       />
       
       {/* Header */}
