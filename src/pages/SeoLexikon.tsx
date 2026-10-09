@@ -606,7 +606,7 @@ const SeoLexikon = () => {
     <>
       <SEOHead
         title="SEO Lexikon A-Z | Alle wichtigen SEO-Begriffe erklärt | Local Dominator"
-        description="Das umfassende SEO-Lexikon mit allen wichtigen Begriffen von A-Z. Alt-Text, Backlinks, Citations, Keywords, Local Pack und mehr - verständlich erklärt mit Statistiken und Tipps."
+        description="Das SEO-Lexikon von A bis Z: Alt-Text, Backlinks, Citations, Keywords, Local Pack und mehr – verständlich erklärt, mit Statistiken und Tipps."
         keywords="SEO Lexikon, SEO Glossar, SEO Begriffe, SEO Wörterbuch, Local SEO Begriffe, SEO Definition, Backlinks erklärt, Keywords erklärt"
         canonicalUrl="https://localdominate.org/seo-lexikon"
         jsonLd={seoSchema}

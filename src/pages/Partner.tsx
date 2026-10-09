@@ -11,6 +11,7 @@ import {
 } from "lucide-react";
 import { motion } from "framer-motion";
 import { useLanguage } from "@/i18n/LanguageContext";
+import SEOHead from "@/components/SEOHead";
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 30 },
@@ -387,6 +388,14 @@ const Partner = () => {
 
   return (
     <div className="min-h-screen bg-background text-foreground">
+      <SEOHead
+        title={language === "de" ? "Partnerprogramm: bis zu 120 € pro Verkauf" : "Partner Programme: Earn up to €120 per Sale"}
+        description={language === "de"
+          ? "Empfiehl LocalDominate an lokale Unternehmen und verdiene bis zu 120 € pro Verkauf – mit Skripten, Vorlagen und Training für den Start."
+          : "Sell LocalDominate's Google Maps and local SEO service to local businesses and earn up to €120 per sale. Scripts, templates and training included."}
+        canonicalUrl="https://localdominate.org/partner"
+        lang={language === "de" ? "de" : "en"}
+      />
       {/* HERO */}
       <section className="relative overflow-hidden bg-gradient-to-br from-[hsl(var(--primary)/0.03)] via-background to-[hsl(var(--primary)/0.06)] min-h-[90vh] flex items-center">
         <div className="absolute inset-0 opacity-[0.03]" style={{

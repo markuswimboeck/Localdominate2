@@ -70,7 +70,7 @@ export const blogArticles: BlogArticle[] = [
     de: {
       title: "Kostenloses SEO: Der ultimative Guide für Einsteiger 2026",
       metaTitle: "Kostenloses SEO: 50+ Gratis-Strategien & Tools | Guide 2026",
-      metaDescription: "Lerne SEO komplett kostenlos! 50+ Gratis-Tools, Schritt-für-Schritt Anleitungen und bewährte Strategien. Der umfassendste kostenlose SEO-Guide im deutschsprachigen Raum.",
+      metaDescription: "Lerne SEO kostenlos: 50+ Gratis-Tools, Schritt-für-Schritt-Anleitungen und bewährte Strategien – der umfassende Gratis-Guide für den DACH-Raum.",
       excerpt: "Alles was du über SEO wissen musst - ohne einen Cent auszugeben. Von Google Business bis Technical SEO, mit 50+ kostenlosen Tools.",
       category: "Strategie"
     },
@@ -3660,7 +3660,7 @@ export const blogArticles: BlogArticle[] = [
     },
     en: {
       title: "Google Maps Algorithm Explained: Proximity, Relevance & Prominence in Detail",
-      metaTitle: "Google Maps Algorithm Explained | Proximity, Relevance, Prominence",
+      metaTitle: "Google Maps Algorithm: Proximity, Relevance, Prominence",
       metaDescription: "How the Google Maps algorithm works: The 3 pillars proximity, relevance and prominence with practical examples and influence factor diagrams.",
       excerpt: "The Google Maps algorithm is based on 3 pillars: proximity, relevance and prominence. How they interact — with diagrams and industry examples.",
       category: "Google Maps"
@@ -3804,7 +3804,7 @@ export const blogArticles: BlogArticle[] = [
     },
     en: {
       title: "ChatGPT Search for Local Businesses 2026 — The Complete Optimization Guide",
-      metaTitle: "ChatGPT Search Local SEO 2026: Optimization Guide & Checklist",
+      metaTitle: "ChatGPT Search Local SEO 2026: Guide & Checklist",
       metaDescription: "How to get cited in ChatGPT Search 2026 as a local business: 7 ranking signals, 7-step plan, Bing setup, schema, llms.txt. With checklist.",
       excerpt: "ChatGPT Search recommends millions of local businesses daily. Here is the 7-step plan to land in its answers — from robots.txt to Bing Places, schema and answer blocks.",
       category: "AI & Future",
@@ -3867,7 +3867,7 @@ export const blogArticles: BlogArticle[] = [
     en: {
       title: "Reddit for Local SEO 2026: How to Get Cited in ChatGPT & Perplexity",
       metaTitle: "Reddit Local SEO 2026: Strategic AI Citation Building",
-      metaDescription: "Reddit is the second-most cited source in AI answers after Wikipedia. Here is how to use DACH subreddits legally for ChatGPT, Perplexity and Google AI visibility.",
+      metaDescription: "Reddit is the second-most cited source in AI answers after Wikipedia. How to use DACH subreddits legally for ChatGPT, Perplexity and Google AI visibility.",
       excerpt: "Why Reddit threads appear in ChatGPT answers — and how local DACH businesses can build visibility transparently and within EU consumer law.",
       category: "AI & Future",
     },
@@ -3960,7 +3960,7 @@ export const blogArticles: BlogArticle[] = [
     en: {
       title: "TikTok Search for Local SEO 2026: Get Found by Gen Z",
       metaTitle: "TikTok Local Search 2026: Ranking Signals & 7-Step Plan",
-      metaDescription: "40% of Gen Z searches local recommendations on TikTok instead of Google. Here is how to optimize videos, hashtags and location tags for TikTok Local Search — with 7-step plan.",
+      metaDescription: "40% of Gen Z search for local recommendations on TikTok instead of Google. How to optimize videos, hashtags and location tags for TikTok local search.",
       excerpt: "Why TikTok became a search engine — and how local DACH businesses can systematically get visible in TikTok Search. With ranking signals, content formats and 7-step plan.",
       category: "AI & Future",
     },
@@ -3991,7 +3991,7 @@ export const blogArticles: BlogArticle[] = [
     en: {
       title: "Voice Search 2026: Local SEO for Alexa, Siri & Google Assistant",
       metaTitle: "Voice Search Local SEO 2026: Alexa, Siri & Google Assistant",
-      metaDescription: "Voice Search is back in 2026 — and finally working. Here is how to optimize for Alexa, Siri and Google Assistant. With 7-step plan and comparison table for DACH.",
+      metaDescription: "Voice search is back in 2026 – and finally works. How to optimize for Alexa, Siri and Google Assistant, with a 7-step plan and a DACH comparison table.",
       excerpt: "How LLM-powered voice assistants answer local queries — and how to systematically land in voice recommendations. With platform comparison, ranking signals and 7-step plan.",
       category: "AI & Future",
     },
@@ -4022,7 +4022,7 @@ export const blogArticles: BlogArticle[] = [
     en: {
       title: "AI Agents 2026: How Operator, ChatGPT Agent & Gemini Book Local Services Autonomously",
       metaTitle: "AI Agents Local SEO 2026: Operator, Gemini & Comet Setup",
-      metaDescription: "OpenAI Operator, ChatGPT Agent, Google Gemini Agents and Perplexity Comet book locally on their own in 2026. Become agent-ready — with schema, ARIA and a 7-step plan.",
+      metaDescription: "OpenAI Operator, ChatGPT Agent, Gemini Agents and Perplexity Comet now book local services on their own. Get agent-ready with schema, ARIA and a 7-step plan.",
       excerpt: "How autonomous AI agents handle local bookings — and how to systematically make your website, schema and booking path agent-ready. With platform comparison, ranking signals and 7-step plan.",
       category: "AI & Future",
     },
