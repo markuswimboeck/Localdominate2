@@ -42,7 +42,8 @@ import journeyImgSmall from "@/assets/v4/ld-home-4-5-800.webp";
  * rendered unless they pass `verifiedProof()`.
  *
  * SEO: title and description follow the studio positioning (HOME_SEO in v4HomeData.ts, owner
- * approval of 2026-10-03); canonical and hreflang are unchanged. The same component also serves
+ * approval of 2026-10-03); canonical unchanged. No hreflang: there are no per-language URLs
+ * (?lang= is not read by the app; /de is a separate offer page). The same component also serves
  * the noindex preview route (`preview`).
  */
 // Teaser: the non-video published cases, first three (the video case has its own block).
@@ -78,11 +79,6 @@ export default function HomeV4({ preview = false }: { preview?: boolean }) {
           description={seo.description}
           canonicalUrl="https://localdominate.org/"
           lang={language}
-          alternateUrls={{
-            de: "https://localdominate.org/",
-            en: "https://localdominate.org/?lang=en",
-            ar: "https://localdominate.org/?lang=ar",
-          }}
           jsonLd={[
             {
               "@context": "https://schema.org",

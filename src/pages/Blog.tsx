@@ -82,7 +82,6 @@ const Blog = () => {
         description={t.pageDescription}
         canonicalUrl="https://localdominate.org/blog"
         lang={language}
-        alternateUrls={{ de: "https://localdominate.org/blog" }}
         keywords="local seo blog, google maps tips, local seo strategies"
         jsonLd={blogSchema}
       />

@@ -716,7 +716,6 @@ const ArticleLayout = ({
         articleModifiedTime={article.updatedAt}
         articleSection={article.category}
         lang={language}
-        alternateUrls={{ de: `https://localdominate.org/blog/${article.slug}` }}
       />
       
       {/* Header */}
