@@ -574,10 +574,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-fitness",
     de: {
-      title: "Local SEO für Fitnessstudios & Personal Trainer",
-      metaTitle: "Local SEO für Fitness | Studio-Marketing 2026",
-      metaDescription: "Wie Fitnessstudios und Personal Trainer durch Local SEO mehr Mitglieder gewinnen. Saisonale Keywords, Vorher-Nachher-Content und Google Business.",
-      excerpt: "Der Fitness-Branchenguide: So füllst du dein Studio mit neuen Mitgliedern.",
+      title: "Local SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche",
+      metaTitle: "Local SEO für Fitnessstudios und Personal Trainer",
+      metaDescription: "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
+      excerpt: "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
       category: "Branchen"
     },
     en: {
@@ -587,9 +587,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The fitness industry guide: How to fill your studio with new members.",
       category: "Industries"
     },
-    readingTime: 12,
+    readingTime: 13,
     publishedAt: "2026-02-04",
-    updatedAt: "2026-02-04",
+    updatedAt: "2026-10-10",
     icon: "💪",
     keywords: ["fitnessstudio seo", "personal trainer marketing", "local seo fitness", "mitgliedergewinnung"],
     featured: false
@@ -599,10 +599,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "schema-markup-local-seo",
     de: {
-      title: "Schema Markup für Local SEO: Der Implementierungsguide",
-      metaTitle: "Schema Markup Local SEO | Technik-Guide 2026",
-      metaDescription: "Kompletter Guide zur Schema Markup Implementierung für lokale Unternehmen. LocalBusiness, FAQ, Reviews und mehr mit Code-Beispielen.",
-      excerpt: "Wie du mit strukturierten Daten deine lokale Sichtbarkeit in den Suchergebnissen steigerst.",
+      title: "Schema Markup für lokale Unternehmen: was Google 2026 nutzt und was Sie weglassen können",
+      metaTitle: "Schema Markup für Local SEO: was 2026 noch wirkt",
+      metaDescription: "Welche strukturierten Daten lokale Unternehmen 2026 brauchen, welche Google nicht mehr anzeigt und warum Sterne für das eigene Unternehmen nicht erscheinen.",
+      excerpt: "Welche strukturierten Daten lokale Unternehmen 2026 brauchen, welche Google nicht mehr anzeigt und warum Sterne für das eigene Unternehmen nicht erscheinen.",
       category: "Technik"
     },
     en: {
@@ -612,9 +612,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How to increase your local visibility in search results with structured data.",
       category: "Technical"
     },
-    readingTime: 20,
+    readingTime: 11,
     publishedAt: "2026-01-16",
-    updatedAt: "2026-01-16",
+    updatedAt: "2026-10-10",
     icon: "🏗️",
     keywords: ["schema markup", "strukturierte daten", "local business schema", "rich snippets", "json-ld"],
     featured: false
@@ -622,10 +622,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "mobile-local-seo",
     de: {
-      title: "Mobile Local SEO: Warum 80% der lokalen Suchen mobil sind",
-      metaTitle: "Mobile Local SEO | Optimierung 2026",
-      metaDescription: "Warum Mobile-First für lokale Unternehmen entscheidend ist. Page Speed, Click-to-Call, Maps-Integration und mobile UX optimieren.",
-      excerpt: "So optimierst du deine lokale Präsenz für die mobile Suche – wo die meisten deiner Kunden suchen.",
+      title: "Mobile Local SEO: der Weg vom Suchtreffer zum Anruf auf dem Smartphone",
+      metaTitle: "Mobile Local SEO: die Website am Handy prüfen",
+      metaDescription: "Wie lokale Betriebe ihre Website für Smartphone-Nutzer prüfen: mobile Indexierung, Anruf- und Routenlink, Ladezeit, Pop-ups und Formulare nach Googles Vorgaben.",
+      excerpt: "Wie lokale Betriebe ihre Website für Smartphone-Nutzer prüfen: mobile Indexierung, Anruf- und Routenlink, Ladezeit, Pop-ups und Formulare nach Googles Vorgaben.",
       category: "Technik"
     },
     en: {
@@ -635,9 +635,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How to optimize your local presence for mobile search – where most of your customers are searching.",
       category: "Technical"
     },
-    readingTime: 14,
+    readingTime: 10,
     publishedAt: "2026-01-26",
-    updatedAt: "2026-01-26",
+    updatedAt: "2026-10-10",
     icon: "📱",
     keywords: ["mobile seo", "mobile first", "local seo mobile", "page speed", "mobile ux"],
     featured: false
@@ -645,10 +645,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-seo-ranking-faktoren",
     de: {
-      title: "Google Maps SEO 2026: Alle 20 Ranking-Signale mit Gewichtung",
-      metaTitle: "Google Maps 20 Ranking-Signale & Gewichtung | 2026",
-      metaDescription: "Alle 20 Google Maps Ranking-Signale mit Gewichtung: GBP-Signale (32 %), Bewertungen (16 %), Citations (11 %) und mehr. Vollständige Signal-Tabelle.",
-      excerpt: "Die vollständige Übersicht aller 20 Google Maps Ranking-Signale mit prozentualer Gewichtung und Optimierungspriorität.",
+      title: "Google-Maps-Ranking-Faktoren: was Google bestätigt, was Fachleute vermuten und was verboten ist",
+      metaTitle: "Google-Maps-Ranking-Faktoren: belegt oder vermutet?",
+      metaDescription: "Welche Google-Maps-Ranking-Faktoren Google selbst bestätigt, welche nur aus Expertenumfragen stammen und warum Prozent-Gewichtungen keine Messwerte sind.",
+      excerpt: "Welche Google-Maps-Ranking-Faktoren Google selbst bestätigt, welche nur aus Expertenumfragen stammen und warum Prozent-Gewichtungen keine Messwerte sind.",
       category: "Local SEO"
     },
     en: {
@@ -658,9 +658,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete overview of all 20 Google Maps ranking signals with percentage weighting and optimization priority.",
       category: "Local SEO"
     },
-    readingTime: 18,
+    readingTime: 10,
     publishedAt: "2026-01-28",
-    updatedAt: "2026-01-28",
+    updatedAt: "2026-10-10",
     icon: "🗺️",
     keywords: ["google maps ranking signale", "ranking faktoren gewichtung", "local pack signale", "maps seo 2026", "proximity relevance prominence gewichtung"],
     featured: true
@@ -668,10 +668,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-spam-erkennen",
     de: {
-      title: "Google Maps Spam erkennen & melden: Der komplette Guide",
-      metaTitle: "Google Maps Spam erkennen & melden | Anleitung 2026",
-      metaDescription: "Lerne die 8 häufigsten Spam-Arten auf Google Maps zu erkennen und effektiv zu melden. Mit Checklisten, Beispielen und Schritt-für-Schritt Anleitungen.",
-      excerpt: "Gefälschte Einträge, Keyword-Stuffing, Fake-Bewertungen: So erkennst und meldest du Google Maps Spam und schützt dein eigenes Profil.",
+      title: "Google-Maps-Spam erkennen und melden: so schützen Sie Ihren Markt und Ihr eigenes Profil",
+      metaTitle: "Google-Maps-Spam erkennen und melden: Anleitung",
+      metaDescription: "So erkennen Sie gefälschte Einträge, Keyword-Namen und gekaufte Bewertungen in Google Maps, melden sie auf dem richtigen Weg und schützen Ihr eigenes Profil.",
+      excerpt: "So erkennen Sie gefälschte Einträge, Keyword-Namen und gekaufte Bewertungen in Google Maps, melden sie auf dem richtigen Weg und schützen Ihr eigenes Profil.",
       category: "Google Maps"
     },
     en: {
@@ -681,9 +681,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Fake listings, keyword stuffing, fake reviews: How to detect and report Google Maps spam and protect your own profile.",
       category: "Google Maps"
     },
-    readingTime: 14,
+    readingTime: 10,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🛡️",
     keywords: ["google maps spam", "spam melden", "fake bewertungen", "keyword stuffing", "google business spam", "spam erkennen"],
     featured: false

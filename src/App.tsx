@@ -91,10 +91,6 @@ const GbpKiFunktionen2026 = lazy(() => import("./pages/blog/GbpKiFunktionen2026"
 const GeoContentBriefing2026 = lazy(() => import("./pages/blog/GeoContentBriefing2026"));
 const WhatsappBusinessLocalSeo2026 = lazy(() => import("./pages/blog/WhatsappBusinessLocalSeo2026"));
 
-const LocalSeoFitness = lazy(() => import("./pages/blog/LocalSeoFitness"));
-const SchemaMarkupLocalSeo = lazy(() => import("./pages/blog/SchemaMarkupLocalSeo"));
-const MobileLocalSeo = lazy(() => import("./pages/blog/MobileLocalSeo"));
-const GoogleMapsRankingFaktoren = lazy(() => import("./pages/blog/GoogleMapsRankingFaktoren"));
 const LocalLinkBuilding = lazy(() => import("./pages/blog/LocalLinkBuilding"));
 const NegativeGoogleBewertungen = lazy(() => import("./pages/blog/NegativeGoogleBewertungen"));
 const LocalContentMarketing = lazy(() => import("./pages/blog/LocalContentMarketing"));
@@ -187,7 +183,6 @@ const LocalLinkBuildingBlueprint = lazy(() => import("./pages/blog/LocalLinkBuil
 const LocalSeoChecklisteKomplett = lazy(() => import("./pages/blog/LocalSeoChecklisteKomplett"));
 const HubGoogleMapsSeo = lazy(() => import("./pages/blog/HubGoogleMapsSeo"));
 const WieGoogleMapsRankingFunktioniert = lazy(() => import("./pages/blog/WieGoogleMapsRankingFunktioniert"));
-const GoogleMapsSpamErkennen = lazy(() => import("./pages/blog/GoogleMapsSpamErkennen"));
 const GoogleMapsKonkurrenzanalyse = lazy(() => import("./pages/blog/GoogleMapsKonkurrenzanalyse"));
 const GoogleMapsRankingCaseStudies = lazy(() => import("./pages/blog/GoogleMapsRankingCaseStudies"));
 const EntitySeoGuide = lazy(() => import("./pages/blog/EntitySeoGuide"));
@@ -353,10 +348,6 @@ const App = () => (
                 <Route path="/ueber-uns" element={<UeberUns />} />
                 <Route path="/seo-lexikon" element={<SeoLexikon />} />
                 <Route path="/blog" element={<Blog />} />
-                <Route path="/blog/local-seo-fitness" element={<LocalSeoFitness />} />
-                <Route path="/blog/schema-markup-local-seo" element={<SchemaMarkupLocalSeo />} />
-                <Route path="/blog/mobile-local-seo" element={<MobileLocalSeo />} />
-                <Route path="/blog/google-maps-seo-ranking-faktoren" element={<GoogleMapsRankingFaktoren />} />
                 <Route path="/blog/local-link-building" element={<LocalLinkBuilding />} />
                 <Route path="/blog/negative-google-bewertungen" element={<NegativeGoogleBewertungen />} />
                 <Route path="/blog/local-content-marketing" element={<LocalContentMarketing />} />
@@ -445,7 +436,6 @@ const App = () => (
                 <Route path="/blog/local-seo-checkliste-komplett" element={<LocalSeoChecklisteKomplett />} />
                 <Route path="/blog/google-maps-seo-hub" element={<HubGoogleMapsSeo />} />
                 <Route path="/blog/wie-google-maps-ranking-funktioniert" element={<WieGoogleMapsRankingFunktioniert />} />
-                <Route path="/blog/google-maps-spam-erkennen" element={<GoogleMapsSpamErkennen />} />
                 <Route path="/blog/google-maps-konkurrenzanalyse" element={<GoogleMapsKonkurrenzanalyse />} />
                 <Route path="/blog/google-maps-ranking-case-studies" element={<GoogleMapsRankingCaseStudies />} />
                 <Route path="/blog/google-maps-audit-template" element={<GoogleMapsAuditTemplate />} />
