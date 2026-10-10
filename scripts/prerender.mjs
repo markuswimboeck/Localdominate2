@@ -41,7 +41,7 @@ const LOCALE = "en-US";
 const AUDIENCE_SLUGS = ["hotels", "holiday-rentals", "trades", "restaurants", "practices", "online-stores"]; // keep in sync with src/data/v4AudienceSlugs.ts
 const PILLAR_IDS = ["diagnose", "position", "create", "build", "launch", "grow", "scale"]; // keep in sync with src/data/v4PillarIndex.ts
 const EXTRA_PATHS = ["/services", "/work", "/approach", ...PILLAR_IDS.map((id) => `/approach/${id}`),
-  "/industries", "/creators", "/insights", "/about", "/start-a-project", "/de",
+  "/industries", "/creators", "/insights", "/about", "/start-a-project", "/de", "/ai", "/de/ki",
   ...AUDIENCE_SLUGS.map((slug) => `/industries/${slug}`)];
 // Blog articles migrated to the V4 layout are hydrated too (see src/lib/v4Pages.tsx). Their URLs are
 // already in the baseline; here they only need the hydration markers.

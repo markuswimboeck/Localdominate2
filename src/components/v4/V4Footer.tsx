@@ -12,6 +12,7 @@ import { CHECK_LABEL, CHECK_PATH } from "@/lib/check";
 // Finished V4 pages come from the route registry; the rest are existing indexed sections.
 const EXPLORE = [
   ...v4NavLinks().filter((l) => l.to !== "/blog"),
+  { to: "/de/ki", label: "KI-Beratung (Deutsch)" },
   { to: "/creators", label: "Creators" },
   { to: "/blog", label: "Blog" },
   { to: "/seo-lexikon", label: "SEO Lexicon A–Z" },

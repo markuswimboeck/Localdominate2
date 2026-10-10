@@ -16,4 +16,16 @@ export const CHECK_REPLY_TIME = "two working days";
  * On the creators landing page the primary action is "Get my page", an anchor to the request form
  * on that page (owner's instruction of 2026-10-02). The navigation follows it there.
  */
+/**
+ * On the AI landing pages (/ai and /de/ki) the primary action is the free AI task check, an anchor
+ * to the form on the same page (owner's brief of 2026-10-10).
+ */
+export const CHECK_AI = {
+  anchor: "ai-check",
+  pages: {
+    "/ai": { label: "Free AI check", short: "AI check" },
+    "/de/ki": { label: "KI-Check anfordern", short: "KI-Check" },
+  },
+} as const;
+
 export const CHECK_CREATORS = { prefix: "/creators", anchor: "get-yours", label: "Get my page", short: "Get my page" } as const;

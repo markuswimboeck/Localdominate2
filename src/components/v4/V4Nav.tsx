@@ -2,7 +2,7 @@ import { Link, NavLink, useLocation } from "react-router-dom";
 import { useState } from "react";
 import { cn } from "@/lib/utils";
 import { BOOKING_IS_EXTERNAL, BOOKING_LABEL, BOOKING_URL } from "@/lib/booking";
-import { CHECK_CREATORS, CHECK_DE, CHECK_LABEL, CHECK_LABEL_SHORT, CHECK_PATH } from "@/lib/check";
+import { CHECK_AI, CHECK_CREATORS, CHECK_DE, CHECK_LABEL, CHECK_LABEL_SHORT, CHECK_PATH } from "@/lib/check";
 import { v4NavLinks } from "@/lib/v4Routes";
 
 /**
@@ -25,7 +25,10 @@ export function V4Nav() {
   const german = pathname === CHECK_DE.prefix || pathname.startsWith(`${CHECK_DE.prefix}/`);
   const creators = pathname === CHECK_CREATORS.prefix;
   // On /creators the action is an anchor on the same page: a plain link, the browser scrolls.
-  const check = creators
+  const aiPage = pathname in CHECK_AI.pages ? CHECK_AI.pages[pathname as keyof typeof CHECK_AI.pages] : undefined;
+  const check = aiPage
+    ? { to: `#${CHECK_AI.anchor}`, label: aiPage.label, short: aiPage.short, anchor: true }
+    : creators
     ? { to: `#${CHECK_CREATORS.anchor}`, label: CHECK_CREATORS.label, short: CHECK_CREATORS.short, anchor: true }
     : german
       ? { to: CHECK_DE.path, label: CHECK_DE.label, short: CHECK_DE.short, anchor: false }
