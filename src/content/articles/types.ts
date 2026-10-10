@@ -62,6 +62,9 @@ export type V4Article = {
   sources: readonly Source[];
   /** Up to four further articles (must exist in src/data/blogArticles.ts). */
   related: readonly { slug: string; title: string }[];
-  /** Where the article hands over to the offer. */
-  cta: { title: string; text: string };
+  /**
+   * Where the article hands over to the offer. Without `to`, the button leads to the German free
+   * check (/de#check). Articles about AI consulting point to /de/ki#ai-check instead.
+   */
+  cta: { title: string; text: string; kicker?: string; label?: string; to?: string };
 };

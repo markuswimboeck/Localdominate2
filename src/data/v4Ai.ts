@@ -23,7 +23,8 @@ export const AI_PATH_EN = "/ai";
 export const AI_PATH_DE = "/de/ki";
 export const AI_URL_EN = `${SITE}${AI_PATH_EN}`;
 export const AI_URL_DE = `${SITE}${AI_PATH_DE}`;
-const AI_ACT_URL = "https://eur-lex.europa.eu/eli/reg/2024/1689/oj";
+/** Commission Q&A on Art. 4, updated after the Digital Omnibus on AI (Regulation (EU) 2026/1744). */
+const AI_ACT_URL = "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers";
 
 /* ------------------------------------------------------------------ prices */
 
@@ -666,8 +667,8 @@ export const AI_EN: AiTexts = {
       { title: "You own everything", body: "Accounts, prompts, skills and documentation stay yours, whether you keep working with us or not." },
     ],
     law: {
-      text: "Since 2 February 2025 the EU AI Act asks companies that use AI to ensure their staff have sufficient AI literacy (Article 4). Our onboarding includes a training record you can keep on file.",
-      link: "Read Article 4 (EUR-Lex)",
+      text: "Article 4 of the EU AI Act asks companies that use AI to take measures for their staff's AI literacy. It has applied since 2 February 2025, in the wording amended in July 2026, and national authorities supervise it. Our onboarding includes a training record you can keep on file.",
+      link: "EU Commission: AI literacy Q&A",
       url: AI_ACT_URL,
     },
   },
@@ -1092,8 +1093,8 @@ export const AI_DE: AiTexts = {
       { title: "Alles gehört Ihnen", body: "Konten, Prompts, Skills und Dokumentation bleiben Ihre, ob Sie mit uns weiterarbeiten oder nicht." },
     ],
     law: {
-      text: "Seit dem 2. Februar 2025 verlangt die EU-KI-Verordnung von Unternehmen, die KI einsetzen, dass ihr Personal über ausreichende KI-Kompetenz verfügt (Artikel 4). Unser Onboarding enthält einen Schulungsnachweis für Ihre Unterlagen.",
-      link: "Artikel 4 lesen (EUR-Lex)",
+      text: "Artikel 4 der EU-KI-Verordnung verlangt von Unternehmen, die KI einsetzen, Maßnahmen für die KI-Kompetenz ihres Personals. Die Pflicht gilt seit dem 2. Februar 2025, in der im Juli 2026 geänderten Fassung, und wird von nationalen Behörden beaufsichtigt. Unser Onboarding enthält einen Schulungsnachweis für Ihre Unterlagen.",
+      link: "EU-Kommission: Fragen und Antworten zur KI-Kompetenz",
       url: AI_ACT_URL,
     },
   },

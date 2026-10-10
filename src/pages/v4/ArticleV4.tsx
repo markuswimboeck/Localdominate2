@@ -222,19 +222,19 @@ function Contents({ sections, faq }: { sections: readonly Section[]; faq: boolea
   );
 }
 
-function Cta({ title, text }: { title: string; text: string }) {
+function Cta({ title, text, kicker = "Kostenloser Check", label = CHECK_DE.label, to = CHECK_DE.path }: V4Article["cta"]) {
   return (
     <StateField field="dark" as="section" aria-labelledby="article-cta">
       <div className="mx-auto max-w-[1200px] px-6 py-16 md:px-10 md:py-20">
         <SystemLabel as="p" className="text-v4-signal">
-          Kostenloser Check
+          {kicker}
         </SystemLabel>
         <h2 id="article-cta" className="mt-5 max-w-[22ch] text-balance font-v4-serif text-[length:var(--v4-text-heading)] font-normal leading-[1.08] text-v4-ivory">
           {title}
         </h2>
         <p className="mt-5 max-w-xl text-pretty font-v4-sans text-base text-v4-ivory/70">{text}</p>
         <div className="mt-8">
-          <CheckButton label={CHECK_DE.label} to={CHECK_DE.path} />
+          <CheckButton label={label} to={to} />
         </div>
       </div>
     </StateField>
@@ -356,7 +356,7 @@ export default function ArticleV4({ article: a }: { article: V4Article }) {
 
         {a.sections.length > half && (
           <>
-            <Cta title={a.cta.title} text={a.cta.text} />
+            <Cta {...a.cta} />
             <StateField field="light" as="div">
               <div className="mx-auto grid max-w-[1200px] gap-12 px-6 py-14 md:px-10 md:py-20 lg:grid-cols-[240px_1fr] lg:gap-20">
                 <div aria-hidden="true" className="hidden lg:block" />
@@ -440,7 +440,7 @@ export default function ArticleV4({ article: a }: { article: V4Article }) {
           </div>
         </StateField>
 
-        {a.sections.length <= half && <Cta title={a.cta.title} text={a.cta.text} />}
+        {a.sections.length <= half && <Cta {...a.cta} />}
       </div>
     </V4Page>
   );
