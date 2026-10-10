@@ -122,7 +122,7 @@ Beginnen Sie mit den Diensten, die Karten und Suche speisen, dann die großen Br
 
 Apple hat Apple Business Connect 2026 in das neue Angebot **Apple Business** überführt. Laut Apple lassen sich dort Ortskarten mit Fotos, Öffnungszeiten und Standortdetails pflegen, die in Apple Karten, Safari und Spotlight erscheinen. Mehr dazu im Artikel [Apple Business für Local SEO](https://localdominate.org/blog/apple-business-connect-local-seo-2026).
 
-Welche Branchenportale für Sie zählen, sehen Sie am schnellsten bei der Suche nach Ihrer Leistung und Ihrem Ort: Welche Portale erscheinen auf der ersten Seite, und wo stehen Ihre Wettbewerber? Hinweise zur Auswahl gibt der Artikel [Citation-Strategie](https://localdominate.org/blog/citation-strategie-verzeichnisse).
+Welche Branchenportale für Sie zählen, sehen Sie am schnellsten bei der Suche nach Ihrer Leistung und Ihrem Ort: Welche Portale erscheinen auf der ersten Seite, und wo stehen Ihre Wettbewerber? Verbreitete Verzeichnisse je Land nennt der [Local SEO Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo#firmendaten-verzeichnisse).
 
 ## Die Liste zum ersten Mal füllen
 

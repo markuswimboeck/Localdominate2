@@ -188,7 +188,7 @@ Google berücksichtigt die Entfernung zwischen Suchendem und Betrieb. Sie suchen
 
 ### Kann ich in mehreren Städten in Maps erscheinen?
 
-Mit Kundenverkehr nur dort, wo Sie einen echten Standort haben, mit je einem Profil. Betriebe ohne Kundenverkehr können ein Einzugsgebiet angeben. Virtuelle Büros sind nicht zulässig. Mehr im Artikel [Multi-Location SEO](https://localdominate.org/blog/multi-location-seo).
+Mit Kundenverkehr nur dort, wo Sie einen echten Standort haben, mit je einem Profil. Betriebe ohne Kundenverkehr können ein Einzugsgebiet angeben. Virtuelle Büros sind nicht zulässig. Mehr im Artikel [Mehrere Standorte bei Google verwalten](https://localdominate.org/blog/gbp-mehrere-standorte).
 
 ### Bringen Google-Anzeigen ein besseres Maps-Ranking?
 

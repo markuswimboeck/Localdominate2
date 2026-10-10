@@ -52,7 +52,7 @@ Bevor Sie Ziele setzen, halten Sie fest, wie Profil, Website, Firmendaten und Be
 5. **Suchen und Mitbewerber notieren.** Schreiben Sie fünf bis zehn Suchen auf, mit denen Kunden Sie finden sollen, etwa „Zahnarzt Innsbruck“. Notieren Sie, welche Betriebe dort im Kartenblock stehen und was deren Profile besser machen.
 6. **Messwerte festhalten.** Notieren Sie aus den Leistungsdaten des Profils Anrufe, Wegbeschreibungen und Websiteklicks der letzten Monate, aus der Search Console Klicks und Impressionen. Das ist Ihr Vergleichswert.
 
-> **Ranking-Stichproben richtig lesen:** Weil Google die Entfernung zum Suchenden berücksichtigt, sieht jemand am anderen Ende der Stadt andere Ergebnisse als Sie im Büro. Eine einzelne Stichprobe ist deshalb nur ein Anhaltspunkt. Wie Sie Mitbewerber systematisch vergleichen, zeigt die [Wettbewerbsanalyse](https://localdominate.org/blog/wettbewerbsanalyse-local-seo), die vollständige Prüfliste steht in der [Local-SEO-Audit-Checkliste](https://localdominate.org/blog/local-seo-audit-checkliste).
+> **Ranking-Stichproben richtig lesen:** Weil Google die Entfernung zum Suchenden berücksichtigt, sieht jemand am anderen Ende der Stadt andere Ergebnisse als Sie im Büro. Eine einzelne Stichprobe ist deshalb nur ein Anhaltspunkt. Wie Sie Mitbewerber systematisch vergleichen, zeigt die [Google-Maps-Konkurrenzanalyse](https://localdominate.org/blog/google-maps-konkurrenzanalyse), die vollständige Prüfliste steht in der [Local-SEO-Audit-Checkliste](https://localdominate.org/blog/local-seo-audit-checkliste).
 
 ## Schritt 2: Ziele setzen, die Sie selbst messen können
 
@@ -122,7 +122,7 @@ Schätzen Sie den Aufwand je Aufgabe in Stunden, legen Sie fest, wer sie erledig
 4. **Externe Kosten berechnen.** Externe Stunden mal Stundensatz, plus einmalige Kosten wie Fotos oder Website-Anpassungen, plus Werkzeuge, falls nötig.
 5. **Gegenrechnen.** Was ist eine zusätzliche Anfrage für Ihren Betrieb wert? Damit sehen Sie, ab wann sich der Aufwand lohnt.
 
-Google schreibt in seiner Hilfe zur Wahl eines SEO-Dienstleisters, dass Betreiber kleiner lokaler Unternehmen die meiste Arbeit wahrscheinlich selbst erledigen können. Das Unternehmensprofil, die Leistungsdaten und die Search Console sind kostenlos. Bezahlte Werkzeuge sind eine Erleichterung, keine Voraussetzung. Mehr dazu in den Artikeln [Local-SEO-Budget planen](https://localdominate.org/blog/local-seo-budget-planen) und [Local SEO selbst machen](https://localdominate.org/blog/diy-local-seo).
+Google schreibt in seiner Hilfe zur Wahl eines SEO-Dienstleisters, dass Betreiber kleiner lokaler Unternehmen die meiste Arbeit wahrscheinlich selbst erledigen können. Das Unternehmensprofil, die Leistungsdaten und die Search Console sind kostenlos. Bezahlte Werkzeuge sind eine Erleichterung, keine Voraussetzung. Was Sie ohne Budget selbst erledigen können, zeigt [Kostenloses SEO](https://localdominate.org/blog/kostenloses-seo-guide).
 
 > **Wenn Sie das Profil abgeben möchten:** Unser Google Profile Quick-Fix prüft und korrigiert Ihr Unternehmensprofil für 79 €. Die vollständige Optimierung kostet 390 €. Was genau dazugehört, klären wir vorher im Gespräch. Eine Übersicht steht auf der Seite [Leistungen](https://localdominate.org/services).
 

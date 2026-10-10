@@ -200,7 +200,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Dazu kommen übergreifende Plattformen wie Apple Business Connect und Bing Places sowie Portale Ihrer Branche. Wie Sie Abweichungen systematisch finden, zeigt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo). Eine Auswahl weiterer Verzeichnisse finden Sie in [Citation-Strategie und Verzeichnisse](/blog/citation-strategie-verzeichnisse).",
+          text: "Dazu kommen übergreifende Plattformen wie Apple Business Connect und Bing Places sowie Portale Ihrer Branche. Wie Sie Abweichungen systematisch finden, zeigt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo). Wie Sie alle Einträge in einer Liste führen und prüfen, zeigt die [Citation-Tracking-Vorlage](/blog/citation-tracking-template).",
         },
       ],
     },

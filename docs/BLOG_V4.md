@@ -15,7 +15,8 @@ Duplicates are not skipped: they get a distinct angle (owner decision 3 Oct 2026
    Leave the old component file in place.
 3. `npm run blog:md` writes `public/blog-md/<slug>.md` and copies title, meta, reading time and
    update date into the German block of the registry entry.
-4. Check: `npx tsc --noEmit -p tsconfig.app.json`, `npm run build:static -- --only=/blog/<slug>,…`,
+4. Check: `node scripts/check-article-links.mjs`, `npx tsc --noEmit -p tsconfig.app.json`,
+   `npm run build:static -- --only=/blog/<slug>,…`,
    then load each page with browser locale de-DE and en-US through a server that maps `/path` to
    `dist/path/index.html` (not `vite preview`): no console errors, no React #418/#423, no horizontal
    overflow at 390 px, exactly one H1.
@@ -31,4 +32,7 @@ Duplicates are not skipped: they get a distinct angle (owner decision 3 Oct 2026
 - German, "Sie", short concrete sentences, no dashes as punctuation, no exclamation marks.
 - `answer` 40–70 words; every section starts with a one- or two-sentence `answer`.
 - Prices only from `src/data/v4Offers.ts`. CTA goes to the German free check (`/de#check`).
-- Internal links only to slugs that exist in the registry, plus `/de#check`, `/services`, `/insights`.
+- Internal links only to blog pages that exist (a V4 data file or a `/blog/<slug>` route in
+  `src/App.tsx`), plus `/de#check`, `/services`, `/insights`. A registry entry alone is not enough:
+  about thirty entries in `src/data/blogArticles.ts` have no page. `node scripts/check-article-links.mjs`
+  checks links, `#anchors` and `related` entries of all V4 articles; run it before every PR.

@@ -225,7 +225,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Feste Termine im Jahr wie Saisonbeginn, Feiertage, Schulferien und örtliche Feste tragen Sie einmal jährlich ein. Hilfe dabei geben die Artikel [Saisonales Local SEO](/blog/saisonales-local-seo) und [Local-SEO-Jahresplanung](/blog/local-seo-jahresplanung).",
+          text: "Feste Termine im Jahr wie Saisonbeginn, Feiertage, Schulferien und örtliche Feste tragen Sie einmal jährlich ein. Feiertage und Sonderzeiten im Profil behandelt [Öffnungszeiten und Sondertage](/blog/gbp-oeffnungszeiten-sondertage), die laufende Pflege die [monatliche Local-SEO-Checkliste](/blog/local-seo-monthly-checklist).",
         },
       ],
     },
@@ -290,7 +290,7 @@ const article: V4Article = {
   related: [
     { slug: "lokale-landing-pages", title: "Lokale Landingpages" },
     { slug: "google-posts-ranking-faktor", title: "Google Posts als Rankingfaktor" },
-    { slug: "saisonales-local-seo", title: "Saisonales Local SEO" },
+    { slug: "local-seo-monthly-checklist", title: "Local SEO jeden Monat: die Routine-Checkliste" },
     { slug: "local-link-building", title: "Local Link Building" },
   ],
   cta: {

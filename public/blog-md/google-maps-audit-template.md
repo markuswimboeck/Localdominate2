@@ -126,7 +126,7 @@ Laut Google können mehr Rezensionen und positive Bewertungen das lokale Ranking
 | Anreize | Intern | Keine Rabatte, Geschenke oder Zahlungen für Rezensionen |
 | Rezensionen von Mitarbeitenden oder Angehörigen | Profil | Keine. Inhalte mit Interessenkonflikt sind laut Google nicht zulässig |
 
-Wie Sie den Ablauf aufbauen, zeigen [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen) und [Bewertungs-QR-Codes](https://localdominate.org/blog/bewertungs-qr-codes).
+Wie Sie den Ablauf aufbauen, zeigt [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen#ablauf), dort auch Link und QR-Code.
 
 ## Bogen 6: Sichtbarkeit im Einzugsgebiet
 

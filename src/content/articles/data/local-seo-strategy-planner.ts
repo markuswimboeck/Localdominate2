@@ -64,7 +64,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Ranking-Stichproben richtig lesen",
-          text: "Weil Google die Entfernung zum Suchenden berücksichtigt, sieht jemand am anderen Ende der Stadt andere Ergebnisse als Sie im Büro. Eine einzelne Stichprobe ist deshalb nur ein Anhaltspunkt. Wie Sie Mitbewerber systematisch vergleichen, zeigt die [Wettbewerbsanalyse](/blog/wettbewerbsanalyse-local-seo), die vollständige Prüfliste steht in der [Local-SEO-Audit-Checkliste](/blog/local-seo-audit-checkliste).",
+          text: "Weil Google die Entfernung zum Suchenden berücksichtigt, sieht jemand am anderen Ende der Stadt andere Ergebnisse als Sie im Büro. Eine einzelne Stichprobe ist deshalb nur ein Anhaltspunkt. Wie Sie Mitbewerber systematisch vergleichen, zeigt die [Google-Maps-Konkurrenzanalyse](/blog/google-maps-konkurrenzanalyse), die vollständige Prüfliste steht in der [Local-SEO-Audit-Checkliste](/blog/local-seo-audit-checkliste).",
         },
       ],
     },
@@ -176,7 +176,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Google schreibt in seiner Hilfe zur Wahl eines SEO-Dienstleisters, dass Betreiber kleiner lokaler Unternehmen die meiste Arbeit wahrscheinlich selbst erledigen können. Das Unternehmensprofil, die Leistungsdaten und die Search Console sind kostenlos. Bezahlte Werkzeuge sind eine Erleichterung, keine Voraussetzung. Mehr dazu in den Artikeln [Local-SEO-Budget planen](/blog/local-seo-budget-planen) und [Local SEO selbst machen](/blog/diy-local-seo).",
+          text: "Google schreibt in seiner Hilfe zur Wahl eines SEO-Dienstleisters, dass Betreiber kleiner lokaler Unternehmen die meiste Arbeit wahrscheinlich selbst erledigen können. Das Unternehmensprofil, die Leistungsdaten und die Search Console sind kostenlos. Bezahlte Werkzeuge sind eine Erleichterung, keine Voraussetzung. Was Sie ohne Budget selbst erledigen können, zeigt [Kostenloses SEO](/blog/kostenloses-seo-guide).",
         },
         {
           t: "note",
@@ -288,7 +288,7 @@ const article: V4Article = {
   related: [
     { slug: "local-seo-roadmap-90-tage", title: "Local SEO in 12 Wochen: der Wochenplan" },
     { slug: "local-seo-audit-checkliste", title: "Local-SEO-Audit-Checkliste" },
-    { slug: "local-seo-budget-planen", title: "Local-SEO-Budget planen" },
+    { slug: "kostenloses-seo-guide", title: "Kostenloses SEO: was Sie selbst erledigen können" },
     { slug: "ultimate-guide-local-seo", title: "Local SEO: Der Leitfaden für lokale Unternehmen" },
   ],
   cta: {

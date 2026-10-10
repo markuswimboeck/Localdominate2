@@ -76,7 +76,7 @@ Jetzt korrigieren Sie, was Sie gefunden haben: zuerst das Unternehmensprofil, da
 2. **Dubletten melden.** Doppelte Einträge auf Google oder in Verzeichnissen melden oder zusammenführen lassen.
 3. **Social-Media-Profile.** Dieselben Daten auf Facebook, Instagram und anderen Kanälen, die Sie nutzen.
 
-> **Prüfpunkt nach Woche 4:** Das Profil ist vollständig und korrekt, die wichtigsten Einträge sind angeglichen. Details zu Verzeichnissen stehen in den Artikeln [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo) und [Citation-Strategie](https://localdominate.org/blog/citation-strategie-verzeichnisse), zum Profil in [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren).
+> **Prüfpunkt nach Woche 4:** Das Profil ist vollständig und korrekt, die wichtigsten Einträge sind angeglichen. Details zu Verzeichnissen stehen im Artikel [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo) und in der [Citation-Tracking-Vorlage](https://localdominate.org/blog/citation-tracking-template), zum Profil in [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren).
 
 ## Woche 5 und 6: Website
 
@@ -125,7 +125,7 @@ Inhalte machen Ihr Angebot für mehr Suchen relevant. Beginnen Sie mit den Frage
 
 ### Woche 10
 
-1. **Themen für drei Monate.** Planen Sie Saison, Feiertage, Veranstaltungen in Ihrem Ort und neue Leistungen. Hilfe gibt der Artikel [Saisonales Local SEO](https://localdominate.org/blog/saisonales-local-seo).
+1. **Themen für drei Monate.** Planen Sie Saison, Feiertage, Veranstaltungen in Ihrem Ort und neue Leistungen. Hilfe gibt der Redaktionsplan in [Local Content Marketing](https://localdominate.org/blog/local-content-marketing#redaktionsplan).
 2. **Fotos ergänzen.** Neue Bilder von aktuellen Arbeiten, saisonalen Angeboten oder Umbauten ins Profil und auf die Website.
 
 > **Prüfpunkt nach Woche 10:** Die häufigsten Kundenfragen sind beantwortet, ein Themenplan für die nächsten drei Monate steht. Wie Sie Inhalte mit Ortsbezug planen, zeigt der Artikel [Local Content Marketing](https://localdominate.org/blog/local-content-marketing).
@@ -171,7 +171,7 @@ Die Suchanfragen-Werte im Profil werden laut Google zu Beginn jedes Monats aktua
 Zwölf Wochen sind ein Vorschlag: Mit wenig Zeit strecken Sie den Plan auf ein halbes Jahr. Ist Ihr Profil schon gepflegt, beginnen Sie direkt mit Woche 5.
 
 - **Wenig Zeit:** Jede Phase auf vier Wochen strecken. Woche 1 bis 4 nicht kürzen, sie sind die Grundlage.
-- **Mehrere Standorte:** Woche 3 und 4 für jeden Standort einzeln, Leistungsseiten je Standort. Siehe [Multi-Location-SEO](https://localdominate.org/blog/multi-location-seo).
+- **Mehrere Standorte:** Woche 3 und 4 für jeden Standort einzeln, Leistungsseiten je Standort. Siehe [Mehrere Standorte bei Google verwalten](https://localdominate.org/blog/gbp-mehrere-standorte).
 - **Handwerk und Dienste beim Kunden:** Google verlangt in diesem Fall ein Profil für den Unternehmensstandort und ein festgelegtes Einzugsgebiet. Ein virtuelles Büro ist nur zulässig, wenn es während der Öffnungszeiten besetzt ist.
 - **Nach Woche 12:** Die laufenden Aufgaben aus Woche 7 bis 11 gehen in eine monatliche Routine über, etwa mit der [monatlichen Checkliste](https://localdominate.org/blog/local-seo-monthly-checklist).
 

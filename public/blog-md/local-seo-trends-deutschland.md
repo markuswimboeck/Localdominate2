@@ -130,7 +130,7 @@ Gelbe Seiten wird laut eigener Auskunft von Deutsche Tele Medien (DTM) und 17 Ge
 3. **Eintrag direkt ändern.** Korrigieren Sie den Eintrag zusätzlich über die Änderungsfunktion des Verzeichnisses.
 4. **Nach Umzug oder Nummernwechsel wiederholen.** Alte Daten tauchen sonst in Verzeichnissen wieder auf, die sie aus dem Anschluss übernommen haben.
 
-Kostenpflichtige Zusatzpakete der Verzeichnisse sind keine Voraussetzung für korrekte Grunddaten. Welche Verzeichnisse sich darüber hinaus lohnen, beschreibt [Citation-Strategie für Verzeichnisse](https://localdominate.org/blog/citation-strategie-verzeichnisse).
+Kostenpflichtige Zusatzpakete der Verzeichnisse sind keine Voraussetzung für korrekte Grunddaten. Verbreitete Verzeichnisse in Deutschland nennt der [Local SEO Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo#firmendaten-verzeichnisse).
 
 ## KI-Übersichten auf Deutsch seit März 2025
 

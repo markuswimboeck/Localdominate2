@@ -68,7 +68,7 @@ Die Search Console ist laut Google ein **kostenloser Dienst**. Sie müssen sich 
 
 > **Nicht mehr verfügbar:** Den „Test auf Optimierung für Mobilgeräte“ und den gleichnamigen Search-Console-Bericht hat Google im Dezember 2023 eingestellt. Für die Prüfung der mobilen Darstellung nutzen Sie heute Lighthouse in Chrome oder PageSpeed Insights.
 
-Einen Vergleich weiterer kostenloser Prüfwerkzeuge finden Sie im Artikel [Kostenlose Local SEO Audit-Tools](https://localdominate.org/blog/kostenlose-local-seo-audit-tools).
+Wie Sie diese Werkzeuge in einer vollständigen Prüfung einsetzen, zeigt die [Local-SEO-Audit-Checkliste](https://localdominate.org/blog/local-seo-audit-checkliste).
 
 ## Das Google-Unternehmensprofil: der größte kostenlose Hebel
 

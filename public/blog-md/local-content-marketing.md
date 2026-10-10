@@ -151,7 +151,7 @@ Für einen kleinen Betrieb reicht ein Plan, der pro Monat eine neue oder überar
 | 3 | Saisonthema vorbereiten | Angebot oder Veranstaltung, falls vorhanden | Social-Media-Beitrag zum Thema aus Woche 1 |
 | 4 | Zahlen in der Search Console ansehen | Öffnungszeiten für den nächsten Monat prüfen | Themen für den nächsten Monat sammeln |
 
-Feste Termine im Jahr wie Saisonbeginn, Feiertage, Schulferien und örtliche Feste tragen Sie einmal jährlich ein. Hilfe dabei geben die Artikel [Saisonales Local SEO](https://localdominate.org/blog/saisonales-local-seo) und [Local-SEO-Jahresplanung](https://localdominate.org/blog/local-seo-jahresplanung).
+Feste Termine im Jahr wie Saisonbeginn, Feiertage, Schulferien und örtliche Feste tragen Sie einmal jährlich ein. Feiertage und Sonderzeiten im Profil behandelt [Öffnungszeiten und Sondertage](https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage), die laufende Pflege die [monatliche Local-SEO-Checkliste](https://localdominate.org/blog/local-seo-monthly-checklist).
 
 ## Den Erfolg messen
 

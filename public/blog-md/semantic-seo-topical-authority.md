@@ -76,7 +76,7 @@ Ein Themenplan ordnet Ihre Inhalte in drei Ebenen: Leistungen, Detailseiten und 
 3. **Zuordnen.** Jede Frage gehört entweder auf eine Leistungsseite oder bekommt einen eigenen Artikel, wenn sie ausführlich beantwortet werden muss.
 4. **Lücken schließen.** Fehlen Leistungsseiten, legen Sie diese zuerst an. Fragen-Artikel kommen danach.
 
-Achten Sie darauf, dass zwei Seiten nicht dieselbe Frage beantworten. Wie Sie solche Überschneidungen finden, zeigt der Artikel [Keyword-Kannibalisierung](https://localdominate.org/blog/lokale-keyword-kannibalisierung).
+Achten Sie darauf, dass zwei Seiten nicht dieselbe Frage beantworten. Wie Sie jedem Suchbegriff genau eine Seite zuordnen, zeigt die [Vorlage für die Keyword-Recherche](https://localdominate.org/blog/local-keyword-research-template#seitenzuordnung).
 
 ## Inhalte so schreiben, dass Bedeutung klar wird
 

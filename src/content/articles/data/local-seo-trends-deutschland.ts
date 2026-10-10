@@ -200,7 +200,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Kostenpflichtige Zusatzpakete der Verzeichnisse sind keine Voraussetzung für korrekte Grunddaten. Welche Verzeichnisse sich darüber hinaus lohnen, beschreibt [Citation-Strategie für Verzeichnisse](/blog/citation-strategie-verzeichnisse).",
+          text: "Kostenpflichtige Zusatzpakete der Verzeichnisse sind keine Voraussetzung für korrekte Grunddaten. Verbreitete Verzeichnisse in Deutschland nennt der [Local SEO Leitfaden](/blog/ultimate-guide-local-seo#firmendaten-verzeichnisse).",
         },
       ],
     },

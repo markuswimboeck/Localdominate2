@@ -106,7 +106,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Begriffe mit Dringlichkeit verdienen bei Handwerk, Schlüsseldiensten und Praxen eine eigene Prüfung. Mehr dazu im Artikel [Notdienst-Keywords](/blog/local-seo-notdienst-keywords). Saisonbegriffe planen Sie früh genug vor dem Anlass, wie im Artikel [Saisonales Local SEO](/blog/saisonales-local-seo) beschrieben.",
+          text: "Begriffe mit Dringlichkeit verdienen bei Handwerk, Schlüsseldiensten und Praxen eine eigene Prüfung. Mehr dazu im Artikel [Notdienst-Keywords](/blog/local-seo-notdienst-keywords). Saisonbegriffe tragen Sie früh genug vor dem Anlass in Ihren [Redaktionsplan](/blog/local-content-marketing#redaktionsplan) ein.",
         },
       ],
     },
@@ -179,7 +179,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Seiten für weitere Orte lohnen sich nur, wenn Sie dort tatsächlich arbeiten und für den Ort etwas Eigenes zu sagen haben: Anfahrt, Einsätze, Ansprechpartner, Besonderheiten. Google zählt fast gleiche Seiten, die nur für ähnliche Suchanfragen angelegt werden, zum Missbrauch von Brückenseiten. Wie gute Ortsseiten aussehen, zeigt der Artikel [Lokale Landingpages](/blog/lokale-landing-pages). Wenn zwei Seiten um denselben Begriff konkurrieren, hilft [Keyword-Kannibalisierung lösen](/blog/lokale-keyword-kannibalisierung).",
+          text: "Seiten für weitere Orte lohnen sich nur, wenn Sie dort tatsächlich arbeiten und für den Ort etwas Eigenes zu sagen haben: Anfahrt, Einsätze, Ansprechpartner, Besonderheiten. Google zählt fast gleiche Seiten, die nur für ähnliche Suchanfragen angelegt werden, zum Missbrauch von Brückenseiten. Wie gute Ortsseiten aussehen, zeigt der Artikel [Lokale Landingpages](/blog/lokale-landing-pages). Wie Sie Themen so aufteilen, dass zwei Seiten nicht dieselbe Frage beantworten, zeigt [Semantic SEO und Themenautorität](/blog/semantic-seo-topical-authority#themenplan).",
         },
         {
           t: "ul",
@@ -285,7 +285,7 @@ const article: V4Article = {
   related: [
     { slug: "local-seo-keywords-finden", title: "Local SEO Keywords finden" },
     { slug: "lokale-landing-pages", title: "Lokale Landingpages, die funktionieren" },
-    { slug: "lokale-keyword-kannibalisierung", title: "Keyword-Kannibalisierung lösen" },
+    { slug: "semantic-seo-topical-authority", title: "Semantic SEO und Themenautorität" },
     { slug: "google-maps-ranking-tracker", title: "Google-Maps-Ranking-Tracker" },
   ],
   cta: {

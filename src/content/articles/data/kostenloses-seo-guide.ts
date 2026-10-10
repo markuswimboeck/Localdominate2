@@ -84,7 +84,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Einen Vergleich weiterer kostenloser Prüfwerkzeuge finden Sie im Artikel [Kostenlose Local SEO Audit-Tools](/blog/kostenlose-local-seo-audit-tools).",
+          text: "Wie Sie diese Werkzeuge in einer vollständigen Prüfung einsetzen, zeigt die [Local-SEO-Audit-Checkliste](/blog/local-seo-audit-checkliste).",
         },
       ],
     },
@@ -359,7 +359,7 @@ const article: V4Article = {
     { slug: "ultimate-guide-local-seo", title: "Local SEO: Der Leitfaden für lokale Unternehmen" },
     { slug: "google-my-business-optimieren", title: "Google Unternehmensprofil optimieren" },
     { slug: "local-seo-keywords-finden", title: "Local SEO Keywords finden" },
-    { slug: "kostenlose-local-seo-audit-tools", title: "Kostenlose Local SEO Audit-Tools im Vergleich" },
+    { slug: "local-seo-audit-checkliste", title: "Local-SEO-Audit: die Checkliste zum Selbstprüfen" },
   ],
   cta: {
     title: "Sie wollen wissen, wo Sie anfangen sollen?",

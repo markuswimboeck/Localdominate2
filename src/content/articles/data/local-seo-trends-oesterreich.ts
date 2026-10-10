@@ -194,7 +194,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Wie Sie Verzeichnisse auswählen und überwachen, beschreibt [Citation-Strategie und Verzeichnisse](/blog/citation-strategie-verzeichnisse). Weitere Verzeichnisse für Deutschland und die Schweiz stehen im [Local SEO Leitfaden](/blog/ultimate-guide-local-seo#firmendaten-verzeichnisse).",
+          text: "Wie Sie Ihre Einträge in einer Liste führen und überwachen, beschreibt die [Citation-Tracking-Vorlage](/blog/citation-tracking-template). Weitere Verzeichnisse für Deutschland und die Schweiz stehen im [Local SEO Leitfaden](/blog/ultimate-guide-local-seo#firmendaten-verzeichnisse).",
         },
       ],
     },
@@ -224,7 +224,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Wie Sie Inhalte über das Jahr planen, zeigt [Saisonales Local SEO](/blog/saisonales-local-seo). Einzelheiten zu Feiertagen stehen in [Öffnungszeiten und Sondertage](/blog/gbp-oeffnungszeiten-sondertage), alles zu Unterkünften in [Local SEO für Hotels](/blog/local-seo-hotels) und [SEO für Ferienwohnungen](/blog/seo-ferienwohnungen).",
+          text: "Wie Sie Inhalte über das Jahr planen, zeigt [Local Content Marketing](/blog/local-content-marketing#redaktionsplan). Einzelheiten zu Feiertagen stehen in [Öffnungszeiten und Sondertage](/blog/gbp-oeffnungszeiten-sondertage), alles zu Unterkünften in [Local SEO für Hotels](/blog/local-seo-hotels) und [SEO für Ferienwohnungen](/blog/seo-ferienwohnungen).",
         },
       ],
     },

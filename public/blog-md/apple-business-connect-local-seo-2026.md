@@ -162,7 +162,7 @@ Apple Business und das Google-Unternehmensprofil sind getrennte Systeme. Keines 
 | Anzeigen in der Karte | In DACH vorerst nicht | Über Google Ads |
 | Veröffentlichte Ranking-Faktoren | Keine | Relevanz, Entfernung, Bekanntheit |
 
-Nehmen Sie Ihre Angaben im Google-Profil als Referenz, weil Sie diese am häufigsten pflegen, und übertragen Sie jede Änderung am selben Tag zu Apple, auf die Website und in die Verzeichnisse. Wie Sie Abweichungen systematisch finden, beschreibt [NAP-Konsistenz im Local SEO](https://localdominate.org/blog/nap-konsistenz-local-seo). Das Google-Profil selbst behandelt [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren), weitere Verzeichnisse [Citation-Strategie und Verzeichnisse](https://localdominate.org/blog/citation-strategie-verzeichnisse).
+Nehmen Sie Ihre Angaben im Google-Profil als Referenz, weil Sie diese am häufigsten pflegen, und übertragen Sie jede Änderung am selben Tag zu Apple, auf die Website und in die Verzeichnisse. Wie Sie Abweichungen systematisch finden, beschreibt [NAP-Konsistenz im Local SEO](https://localdominate.org/blog/nap-konsistenz-local-seo). Das Google-Profil selbst behandelt [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren), verbreitete Verzeichnisse je Land der [Local SEO Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo#firmendaten-verzeichnisse).
 
 Dieselbe Logik gilt für Microsoft. Wie Sie Bing Places pflegen, steht in [Bing, Copilot und Local SEO](https://localdominate.org/blog/bing-copilot-local-seo-2026).
 

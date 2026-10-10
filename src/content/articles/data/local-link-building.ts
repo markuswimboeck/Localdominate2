@@ -117,7 +117,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Verzeichnisse und Branchenbücher sind vor allem für einheitliche Firmendaten wichtig. Wie Sie dort vorgehen, beschreibt die [Citation-Strategie](/blog/citation-strategie-verzeichnisse).",
+          text: "Verzeichnisse und Branchenbücher sind vor allem für einheitliche Firmendaten wichtig. Wie Sie dort vorgehen, beschreibt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo#verzeichnisse-korrigieren).",
         },
       ],
     },
@@ -154,7 +154,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Keine Keyword-Links in Pressemitteilungen",
-          text: "Google nennt optimierte Ankertexte in Pressemitteilungen, die auf anderen Websites verbreitet werden, als Beispiel für Linkspam. Nennen Sie Ihren Firmennamen und Ihre Website-Adresse. Links über bezahlte Verteilerdienste sind keine redaktionellen Links. Mehr zur Pressearbeit im Artikel [Lokale PR und Pressearbeit](/blog/lokale-pr-pressearbeit).",
+          text: "Google nennt optimierte Ankertexte in Pressemitteilungen, die auf anderen Websites verbreitet werden, als Beispiel für Linkspam. Nennen Sie Ihren Firmennamen und Ihre Website-Adresse. Links über bezahlte Verteilerdienste sind keine redaktionellen Links.",
         },
       ],
     },
@@ -263,8 +263,8 @@ const article: V4Article = {
   ],
   related: [
     { slug: "local-link-building-blueprint", title: "Local Link Building Blueprint" },
-    { slug: "lokale-pr-pressearbeit", title: "Lokale PR und Pressearbeit" },
-    { slug: "citation-strategie-verzeichnisse", title: "Citation-Strategie für Verzeichnisse" },
+    { slug: "nap-konsistenz-local-seo", title: "NAP-Konsistenz: Firmendaten überall auf einem Stand" },
+    { slug: "citation-tracking-template", title: "Citation-Tracking-Vorlage" },
     { slug: "local-content-marketing", title: "Local Content Marketing" },
   ],
   cta: {

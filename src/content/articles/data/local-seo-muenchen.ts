@@ -142,7 +142,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Die Faustregel: Würde ein Kunde aus diesem Bezirk auf der Seite etwas erfahren, das auf der allgemeinen Leistungsseite fehlt? Wenn nein, gehört der Bezirk als Satz auf die Leistungsseite und nicht auf eine eigene URL. Wie gute Standort- und Leistungsseiten aufgebaut sind, zeigt [Lokale Landing Pages](/blog/lokale-landing-pages). Bei mehreren echten Standorten hilft [Multi-Location-SEO](/blog/multi-location-seo).",
+          text: "Die Faustregel: Würde ein Kunde aus diesem Bezirk auf der Seite etwas erfahren, das auf der allgemeinen Leistungsseite fehlt? Wenn nein, gehört der Bezirk als Satz auf die Leistungsseite und nicht auf eine eigene URL. Wie gute Standort- und Leistungsseiten aufgebaut sind, zeigt [Lokale Landing Pages](/blog/lokale-landing-pages). Bei mehreren echten Standorten hilft [Mehrere Standorte bei Google verwalten](/blog/gbp-mehrere-standorte).",
         },
       ],
     },
@@ -203,7 +203,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Das Oktoberfest findet nach Angaben der Stadt jedes Jahr auf der Theresienwiese statt, ab dem Samstag nach dem 15. September bis zum ersten Sonntag im Oktober. Für Hotels, Gastronomie und manche Dienstleister in der Nähe ändert das Anfragen, Öffnungszeiten und Anfahrt. Pflegen Sie in dieser Zeit Sonderöffnungszeiten und aktuelle Hinweise. Eine Wiesn-Seite lohnt sich nur, wenn Sie dazu etwas Eigenes anbieten. Wie Sie Saisonthemen planen, steht in [Saisonales Local SEO](/blog/saisonales-local-seo).",
+          text: "Das Oktoberfest findet nach Angaben der Stadt jedes Jahr auf der Theresienwiese statt, ab dem Samstag nach dem 15. September bis zum ersten Sonntag im Oktober. Für Hotels, Gastronomie und manche Dienstleister in der Nähe ändert das Anfragen, Öffnungszeiten und Anfahrt. Pflegen Sie in dieser Zeit Sonderöffnungszeiten und aktuelle Hinweise. Eine Wiesn-Seite lohnt sich nur, wenn Sie dazu etwas Eigenes anbieten. Wie Sie Sonderöffnungszeiten eintragen, steht in [Öffnungszeiten und Sondertage](/blog/gbp-oeffnungszeiten-sondertage).",
         },
       ],
     },
@@ -227,7 +227,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Achten Sie darauf, dass Name, Adresse und Telefonnummer in diesen Einträgen genauso lauten wie im Profil. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo). Gekaufte Linkpakete von Seiten ohne Münchenbezug bringen lokal wenig. Mehr Ideen für echte Erwähnungen finden Sie in [Local Link Building](/blog/local-link-building) und [Lokale PR und Pressearbeit](/blog/lokale-pr-pressearbeit).",
+          text: "Achten Sie darauf, dass Name, Adresse und Telefonnummer in diesen Einträgen genauso lauten wie im Profil. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo). Gekaufte Linkpakete von Seiten ohne Münchenbezug bringen lokal wenig. Mehr Ideen für echte Erwähnungen finden Sie in [Local Link Building](/blog/local-link-building), auch zur Pressearbeit.",
         },
       ],
     },

@@ -167,7 +167,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Wie Sie den Ablauf aufbauen, zeigen [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen) und [Bewertungs-QR-Codes](/blog/bewertungs-qr-codes).",
+          text: "Wie Sie den Ablauf aufbauen, zeigt [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen#ablauf), dort auch Link und QR-Code.",
         },
       ],
     },

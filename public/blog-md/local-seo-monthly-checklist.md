@@ -136,7 +136,7 @@ Manche Aufgaben brauchen Sie nicht jeden Monat. Planen Sie sie fest in den letzt
 | Quartal | Alle Verzeichniseinträge einmal vollständig prüfen |
 | Quartal | Keyword-Liste mit neuen Suchanfragen ergänzen, siehe [Keyword-Recherche-Vorlage](https://localdominate.org/blog/local-keyword-research-template) |
 | Quartal | Zugänge prüfen: Wer hat Zugriff auf Profil, Search Console und Website? Ausgeschiedene Personen entfernen |
-| Jahr | Saisonkalender für das nächste Jahr anlegen, siehe [Jahresplanung](https://localdominate.org/blog/local-seo-jahresplanung) |
+| Jahr | Saisonkalender für das nächste Jahr anlegen, siehe [Redaktionsplan](https://localdominate.org/blog/local-content-marketing#redaktionsplan) |
 | Jahr | Vollständiges Audit wiederholen |
 
 ## Was nicht mehr auf die Liste gehört

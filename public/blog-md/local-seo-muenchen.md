@@ -105,7 +105,7 @@ Eine Seite je Stadtbezirk mit demselben Text und ausgetauschtem Ortsnamen ist ei
 | Eine Seite zu Altbausanierung, weil Sie in Haidhausen und Schwabing viele Altbauten betreuen, mit eigenen Fotos und Fragen | Liste aller Viertel in der Fußzeile, jedes mit eigener Unterseite ohne Inhalt |
 | Eine Anfahrtsseite mit Parkmöglichkeiten und Haltestellen für Ihren Standort | Ortsnamen, die Sie nie bedient haben, nur wegen möglicher Suchen |
 
-Die Faustregel: Würde ein Kunde aus diesem Bezirk auf der Seite etwas erfahren, das auf der allgemeinen Leistungsseite fehlt? Wenn nein, gehört der Bezirk als Satz auf die Leistungsseite und nicht auf eine eigene URL. Wie gute Standort- und Leistungsseiten aufgebaut sind, zeigt [Lokale Landing Pages](https://localdominate.org/blog/lokale-landing-pages). Bei mehreren echten Standorten hilft [Multi-Location-SEO](https://localdominate.org/blog/multi-location-seo).
+Die Faustregel: Würde ein Kunde aus diesem Bezirk auf der Seite etwas erfahren, das auf der allgemeinen Leistungsseite fehlt? Wenn nein, gehört der Bezirk als Satz auf die Leistungsseite und nicht auf eine eigene URL. Wie gute Standort- und Leistungsseiten aufgebaut sind, zeigt [Lokale Landing Pages](https://localdominate.org/blog/lokale-landing-pages). Bei mehreren echten Standorten hilft [Mehrere Standorte bei Google verwalten](https://localdominate.org/blog/gbp-mehrere-standorte).
 
 ## Das Unternehmensprofil in München
 
@@ -130,7 +130,7 @@ Wer sich in München nicht auf Deutsch zurechtfindet, sucht oft auf Englisch, et
 
 ### Oktoberfest und Saison nur als Kontext
 
-Das Oktoberfest findet nach Angaben der Stadt jedes Jahr auf der Theresienwiese statt, ab dem Samstag nach dem 15. September bis zum ersten Sonntag im Oktober. Für Hotels, Gastronomie und manche Dienstleister in der Nähe ändert das Anfragen, Öffnungszeiten und Anfahrt. Pflegen Sie in dieser Zeit Sonderöffnungszeiten und aktuelle Hinweise. Eine Wiesn-Seite lohnt sich nur, wenn Sie dazu etwas Eigenes anbieten. Wie Sie Saisonthemen planen, steht in [Saisonales Local SEO](https://localdominate.org/blog/saisonales-local-seo).
+Das Oktoberfest findet nach Angaben der Stadt jedes Jahr auf der Theresienwiese statt, ab dem Samstag nach dem 15. September bis zum ersten Sonntag im Oktober. Für Hotels, Gastronomie und manche Dienstleister in der Nähe ändert das Anfragen, Öffnungszeiten und Anfahrt. Pflegen Sie in dieser Zeit Sonderöffnungszeiten und aktuelle Hinweise. Eine Wiesn-Seite lohnt sich nur, wenn Sie dazu etwas Eigenes anbieten. Wie Sie Sonderöffnungszeiten eintragen, steht in [Öffnungszeiten und Sondertage](https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage).
 
 ## Erwähnungen von Münchner Institutionen
 
@@ -146,7 +146,7 @@ Bekanntheit entsteht auch über Erwähnungen bei Institutionen, in denen Sie ohn
 | Berufskammern | Ärzte, Anwälte, Steuerberater und weitere freie Berufe | Ob es ein öffentliches Verzeichnis gibt und Ihre Daten dort stimmen |
 | Vereine, Stadtteilinitiativen, lokale Medien | Alle Betriebe mit echtem Engagement im Viertel | Sponsoring, Veranstaltungen, Berichte über echte Anlässe |
 
-Achten Sie darauf, dass Name, Adresse und Telefonnummer in diesen Einträgen genauso lauten wie im Profil. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo). Gekaufte Linkpakete von Seiten ohne Münchenbezug bringen lokal wenig. Mehr Ideen für echte Erwähnungen finden Sie in [Local Link Building](https://localdominate.org/blog/local-link-building) und [Lokale PR und Pressearbeit](https://localdominate.org/blog/lokale-pr-pressearbeit).
+Achten Sie darauf, dass Name, Adresse und Telefonnummer in diesen Einträgen genauso lauten wie im Profil. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo). Gekaufte Linkpakete von Seiten ohne Münchenbezug bringen lokal wenig. Mehr Ideen für echte Erwähnungen finden Sie in [Local Link Building](https://localdominate.org/blog/local-link-building), auch zur Pressearbeit.
 
 ## Rechtliches kurz: Impressum und Bewertungen
 
