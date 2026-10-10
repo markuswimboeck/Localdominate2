@@ -193,13 +193,8 @@ const GoogleMapsRankingCaseStudies = lazy(() => import("./pages/blog/GoogleMapsR
 const EntitySeoGuide = lazy(() => import("./pages/blog/EntitySeoGuide"));
 const SemanticSeoGuide = lazy(() => import("./pages/blog/SemanticSeoGuide"));
 const GoogleMapsAuditTemplate = lazy(() => import("./pages/blog/GoogleMapsAuditTemplate"));
-const CitationTrackingTemplate = lazy(() => import("./pages/blog/CitationTrackingTemplate"));
-const LocalKeywordResearchTemplate = lazy(() => import("./pages/blog/LocalKeywordResearchTemplate"));
-const LocalSeoMonthlyChecklist = lazy(() => import("./pages/blog/LocalSeoMonthlyChecklist"));
-const GoogleMapsRankingTracker = lazy(() => import("./pages/blog/GoogleMapsRankingTracker"));
 const LocalSeoStrategyPlanner = lazy(() => import("./pages/blog/LocalSeoStrategyPlanner"));
 const LocalSeoRoadmap = lazy(() => import("./pages/blog/LocalSeoRoadmap"));
-const AiVisibilityChecklist = lazy(() => import("./pages/blog/AiVisibilityChecklist"));
 const SchemaStrategieDokument = lazy(() => import("./pages/blog/SchemaStrategieDokument"));
 const LocalSeoStatistiken = lazy(() => import("./pages/blog/LocalSeoStatistiken"));
 const CitationVerzeichnisse = lazy(() => import("./pages/CitationVerzeichnisse"));
@@ -449,13 +444,8 @@ const App = () => (
                 <Route path="/blog/google-maps-konkurrenzanalyse" element={<GoogleMapsKonkurrenzanalyse />} />
                 <Route path="/blog/google-maps-ranking-case-studies" element={<GoogleMapsRankingCaseStudies />} />
                 <Route path="/blog/google-maps-audit-template" element={<GoogleMapsAuditTemplate />} />
-                <Route path="/blog/citation-tracking-template" element={<CitationTrackingTemplate />} />
-                <Route path="/blog/local-keyword-research-template" element={<LocalKeywordResearchTemplate />} />
-                <Route path="/blog/local-seo-monthly-checklist" element={<LocalSeoMonthlyChecklist />} />
-                <Route path="/blog/google-maps-ranking-tracker" element={<GoogleMapsRankingTracker />} />
                 <Route path="/blog/local-seo-strategy-planner" element={<LocalSeoStrategyPlanner />} />
                 <Route path="/blog/local-seo-roadmap-90-tage" element={<LocalSeoRoadmap />} />
-                <Route path="/blog/ai-visibility-checklist" element={<AiVisibilityChecklist />} />
                 <Route path="/blog/schema-strategie-dokument" element={<SchemaStrategieDokument />} />
                 <Route path="/blog/local-seo-statistiken-daten" element={<LocalSeoStatistiken />} />
                 <Route path="/blog/faq-hub" element={<FaqHub />} />

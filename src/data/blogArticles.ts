@@ -808,10 +808,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "citation-tracking-template",
     de: {
-      title: "Citation Tracking Spreadsheet Template: Alle Verzeichnisse im Griff",
-      metaTitle: "Citation Tracking Template | DACH Spreadsheet 2026",
-      metaDescription: "Kostenloses Citation Tracking Template mit 22+ Verzeichnissen für DACH. Interaktive Checkliste, Copy-ready Spreadsheet und Quartals-Audit Workflow.",
-      excerpt: "Systematisches Citation-Tracking mit interaktiver Checkliste, kopierbarer Spreadsheet-Vorlage und Quartals-Audit-Workflow für den DACH-Markt.",
+      title: "Citation-Tracking-Vorlage: Ihre Firmeneinträge in einer Tabelle führen",
+      metaTitle: "Citation-Tracking-Vorlage: alle Firmeneinträge im Blick",
+      metaDescription: "Vorlage für Ihre Verzeichniseinträge: Stammdaten, Eintragsliste, Statuscodes und Änderungsprotokoll als Tabelle, dazu ein Ablauf für die Prüfung je Quartal.",
+      excerpt: "Vorlage für Ihre Verzeichniseinträge: Stammdaten, Eintragsliste, Statuscodes und Änderungsprotokoll als Tabelle, dazu ein Ablauf für die Prüfung je Quartal.",
       category: "Tools & Ressourcen"
     },
     en: {
@@ -821,9 +821,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Systematic citation tracking with interactive checklist, copyable spreadsheet template and quarterly audit workflow for the DACH market.",
       category: "Tools & Resources"
     },
-    readingTime: 10,
+    readingTime: 9,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "📊",
     keywords: ["citation tracking", "citation spreadsheet", "nap tracking", "verzeichnis tracking", "citation audit", "local citations template"],
     featured: false
@@ -832,10 +832,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-keyword-research-template",
     de: {
-      title: "Local Keyword Research Template: Systematische Keyword-Recherche für lokale Unternehmen",
-      metaTitle: "Local Keyword Research Template | Vorlage & Workflow 2026",
-      metaDescription: "Kostenloses Keyword Research Template für Local SEO. 6 Keyword-Typen, 5-Schritte-Workflow, Copy-ready Spreadsheet mit Keyword Mapping und Ranking-Tracker.",
-      excerpt: "Systematische lokale Keyword-Recherche mit 6 Keyword-Typen, interaktivem 5-Schritte-Workflow und kopierbarer Spreadsheet-Vorlage für den DACH-Markt.",
+      title: "Vorlage für die lokale Keyword-Recherche: Liste, Bewertung und Seitenzuordnung",
+      metaTitle: "Vorlage: lokale Keyword-Recherche als Tabelle",
+      metaDescription: "Tabellenvorlage für lokale Suchbegriffe: Spalten, Quellen, Bewertung und Seitenzuordnung. So halten Sie Ihre Keyword-Liste mit wenig Aufwand aktuell.",
+      excerpt: "Tabellenvorlage für lokale Suchbegriffe: Spalten, Quellen, Bewertung und Seitenzuordnung. So halten Sie Ihre Keyword-Liste mit wenig Aufwand aktuell.",
       category: "Tools & Ressourcen"
     },
     en: {
@@ -845,9 +845,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Systematic local keyword research with 6 keyword types, interactive 5-step workflow and copyable spreadsheet template for the DACH market.",
       category: "Tools & Resources"
     },
-    readingTime: 11,
+    readingTime: 9,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🔍",
     keywords: ["keyword recherche", "keyword research template", "lokale keywords", "keyword mapping", "keyword spreadsheet", "local seo keywords"],
     featured: false
@@ -856,10 +856,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-monthly-checklist",
     de: {
-      title: "Local SEO Monthly Checklist: Die monatliche Routine für Top-Rankings",
-      metaTitle: "Local SEO Monthly Checklist | Monatliche Routine 2026",
-      metaDescription: "Monatliche Local SEO Checkliste mit 45+ Aufgaben in 8 Bereichen. Interaktiv mit Zeitschätzung, Priorisierung und kopierbarer Vorlage.",
-      excerpt: "Die komplette monatliche Local-SEO-Routine: 45+ Aufgaben in 8 Bereichen mit Zeitschätzung, Priorisierung und Wochenplan für nachhaltige Rankings.",
+      title: "Local SEO jeden Monat: die Routine-Checkliste mit Wochenplan",
+      metaTitle: "Local SEO jeden Monat: die Checkliste mit Wochenplan",
+      metaDescription: "Die monatliche Local-SEO-Routine zum Abhaken: Profil, Bewertungen, Website, Einträge und Messung in vier Wochen, mit Vorlage für Ihren Monatsbericht.",
+      excerpt: "Die monatliche Local-SEO-Routine zum Abhaken: Profil, Bewertungen, Website, Einträge und Messung in vier Wochen, mit Vorlage für Ihren Monatsbericht.",
       category: "Tools & Ressourcen"
     },
     en: {
@@ -869,9 +869,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete monthly local SEO routine: 45+ tasks in 8 areas with time estimates, prioritization and weekly plan for sustainable rankings.",
       category: "Tools & Resources"
     },
-    readingTime: 10,
+    readingTime: 9,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "📅",
     keywords: ["monthly checklist", "monatliche checkliste", "local seo routine", "local seo pflege", "seo maintenance", "monatliches seo"],
     featured: false
@@ -880,10 +880,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "ai-visibility-checklist",
     de: {
-      title: "AI Visibility Checklist: Ist deine Website bereit für AI-Suche?",
-      metaTitle: "AI Visibility Checklist | AI-Sichtbarkeit prüfen 2026",
-      metaDescription: "Interaktive AI-Sichtbarkeits-Checkliste mit 57+ Prüfpunkten. Schema Markup, Voice Search, LLM-Optimierung, AI Overviews — mit Score und Vorlage.",
-      excerpt: "Prüfe deine Website auf AI-Sichtbarkeit: 57+ Punkte in 8 Bereichen mit AI-Impact-Score, Fortschrittsspeicherung und kopierbarer Audit-Vorlage.",
+      title: "KI-Sichtbarkeit prüfen: die Checkliste für Website und Unternehmensprofil",
+      metaTitle: "KI-Sichtbarkeit prüfen: Checkliste für lokale Betriebe",
+      metaDescription: "Checkliste für KI-Suche: Crawler-Zugang, lesbare Inhalte, klare Fakten, Profile und Messung, belegt mit Angaben von Google, OpenAI, Anthropic und Perplexity.",
+      excerpt: "Checkliste für KI-Suche: Crawler-Zugang, lesbare Inhalte, klare Fakten, Profile und Messung, belegt mit Angaben von Google, OpenAI, Anthropic und Perplexity.",
       category: "AI & Zukunft"
     },
     en: {
@@ -893,9 +893,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Check your website for AI visibility: 57+ points across 8 areas with AI impact score, progress saving and copyable audit template.",
       category: "AI & Future"
     },
-    readingTime: 12,
+    readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🤖",
     keywords: ["ai visibility", "ai sichtbarkeit", "ai checklist", "ai overviews optimierung", "llm optimierung", "voice search checklist", "ai search optimization"],
     featured: false
@@ -904,10 +904,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-ranking-tracker",
     de: {
-      title: "Google Maps Ranking Tracker: So trackst du deine lokalen Rankings",
-      metaTitle: "Google Maps Ranking Tracker | Grid-Tracking & Tools 2026",
-      metaDescription: "Wie du Google Maps Rankings systematisch trackst. Grid-Tracking erklärt, 7 Tools im Vergleich, kostenlose Tracker-Vorlage und Aktionsplan bei Ranking-Verlust.",
-      excerpt: "Konzept-Guide zum Maps Ranking Tracking: Grid-Tracking, Tool-Vergleich, Interpretation und kostenlose Vorlage für systematisches lokales Ranking-Monitoring.",
+      title: "Google-Maps-Ranking-Tracker: Positionen über Monate protokollieren und auswerten",
+      metaTitle: "Google-Maps-Ranking-Tracker: Vorlage und Auswertung",
+      metaDescription: "Maps-Positionen dauerhaft protokollieren: Einstellungen, Messprotokoll, Monatsübersicht und Wettbewerber als Tabellen, dazu Kennzahlen und ein Plan bei Verlust.",
+      excerpt: "Maps-Positionen dauerhaft protokollieren: Einstellungen, Messprotokoll, Monatsübersicht und Wettbewerber als Tabellen, dazu Kennzahlen und ein Plan bei Verlust.",
       category: "Google Maps"
     },
     en: {
@@ -917,9 +917,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Concept guide for Maps ranking tracking: grid tracking, tool comparison, interpretation and free template for systematic local ranking monitoring.",
       category: "Google Maps"
     },
-    readingTime: 13,
+    readingTime: 10,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "📈",
     keywords: ["ranking tracker", "google maps ranking", "local rank tracking", "grid tracking", "geo grid", "maps position tracken"],
     featured: false
