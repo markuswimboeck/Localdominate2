@@ -41,6 +41,10 @@ const LOCALE = "en-US";
 const PILLAR_IDS = ["diagnose", "position", "create", "build", "launch", "grow", "scale"]; // keep in sync with src/data/v4PillarIndex.ts
 const EXTRA_PATHS = ["/services", "/work", "/approach", ...PILLAR_IDS.map((id) => `/approach/${id}`),
   "/industries", "/creators", "/insights", "/about", "/start-a-project", "/de"];
+// Blog articles migrated to the V4 layout are hydrated too (see src/lib/v4Pages.tsx). Their URLs are
+// already in the baseline; here they only need the hydration markers.
+const V4_ARTICLE_PATHS = fs.readdirSync(path.join(ROOT, "src", "content", "articles", "data"))
+  .filter((f) => f.endsWith(".ts")).map((f) => `/blog/${f.replace(/\.ts$/, "")}`);
 
 const TYPES = { ".html": "text/html; charset=utf-8", ".js": "text/javascript", ".css": "text/css", ".json": "application/json",
   ".svg": "image/svg+xml", ".png": "image/png", ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".webp": "image/webp",
@@ -145,7 +149,7 @@ async function main() {
           window.scrollTo(0, 0);
         });
         await page.waitForTimeout(1500);
-        const cap = await page.evaluate(capture, ["/", ...EXTRA_PATHS]);
+        const cap = await page.evaluate(capture, ["/", ...EXTRA_PATHS, ...V4_ARTICLE_PATHS]);
         if (cap.finalPath !== p) { errors.push(`${p}: client redirected to ${cap.finalPath}, not prerendered`); continue; }
         results.push({ path: p, ...cap });
       } catch (e) {

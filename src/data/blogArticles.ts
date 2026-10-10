@@ -44,10 +44,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "ultimate-guide-local-seo",
     de: {
-      title: "Local SEO: Der ultimative Leitfaden für lokale Unternehmen 2026",
-      metaTitle: "Local SEO Guide 2026: Komplett-Anleitung für Top-Rankings",
-      metaDescription: "Der umfassendste Local-SEO-Guide im DACH-Raum: Ranking-Faktoren, Google Business Profil, Bewertungen, NAP & Schema Markup. 10-Schritte-Strategie.",
-      excerpt: "Alles über Local SEO in einem Guide: Von Google Business über Ranking-Faktoren bis zur 10-Schritte-Strategie — mit Praxisbeispielen aus Deutschland, Österreich und der Schweiz.",
+      title: "Local SEO: Der Leitfaden für lokale Unternehmen",
+      metaTitle: "Local SEO Leitfaden 2026: So werden Sie lokal gefunden",
+      metaDescription: "Local SEO für Betriebe in Deutschland, Österreich und der Schweiz: wie Google lokal sortiert, was im Unternehmensprofil zählt und ein Plan in zehn Schritten.",
+      excerpt: "Local SEO für Betriebe in Deutschland, Österreich und der Schweiz: wie Google lokal sortiert, was im Unternehmensprofil zählt und ein Plan in zehn Schritten.",
       category: "Strategie"
     },
     en: {
@@ -57,9 +57,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Everything about Local SEO in one guide: From Google Business to ranking factors and a 10-step strategy — with examples from Germany, Austria and Switzerland.",
       category: "Strategy"
     },
-    readingTime: 25,
+    readingTime: 14,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-09",
     icon: "🏆",
     keywords: ["local seo", "local seo guide", "lokale suchmaschinenoptimierung", "local seo strategie", "google business profil", "local seo ranking faktoren", "local seo dach"],
     featured: true
@@ -68,10 +68,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "kostenloses-seo-guide",
     de: {
-      title: "Kostenloses SEO: Der ultimative Guide für Einsteiger 2026",
-      metaTitle: "Kostenloses SEO: 50+ Gratis-Strategien & Tools | Guide 2026",
-      metaDescription: "Lerne SEO kostenlos: 50+ Gratis-Tools, Schritt-für-Schritt-Anleitungen und bewährte Strategien – der umfassende Gratis-Guide für den DACH-Raum.",
-      excerpt: "Alles was du über SEO wissen musst - ohne einen Cent auszugeben. Von Google Business bis Technical SEO, mit 50+ kostenlosen Tools.",
+      title: "Kostenloses SEO: Was Sie ohne Budget selbst erledigen können",
+      metaTitle: "Kostenloses SEO: Anleitung für lokale Betriebe 2026",
+      metaDescription: "SEO ohne Budget: welche kostenlosen Google-Werkzeuge genügen, was Sie selbst erledigen können und welche alten Tipps Sie sich sparen. Mit Plan in 8 Schritten.",
+      excerpt: "SEO ohne Budget: welche kostenlosen Google-Werkzeuge genügen, was Sie selbst erledigen können und welche alten Tipps Sie sich sparen. Mit Plan in 8 Schritten.",
       category: "Strategie"
     },
     en: {
@@ -81,9 +81,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Everything you need to know about SEO - without spending a cent. From Google Business to Technical SEO.",
       category: "Strategy"
     },
-    readingTime: 28,
+    readingTime: 13,
     publishedAt: "2026-01-09",
-    updatedAt: "2026-01-09",
+    updatedAt: "2026-10-09",
     icon: "💡",
     keywords: ["kostenloses seo", "seo kostenlos", "gratis seo tools", "seo für anfänger", "local seo kostenlos", "seo lernen"],
     featured: true
@@ -92,10 +92,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-keywords-finden",
     de: {
-      title: "Local SEO Keywords finden: Der komplette Keyword-Recherche Guide 2026",
-      metaTitle: "Local SEO Keywords finden: Keyword-Recherche Guide 2026",
-      metaDescription: "Finde die perfekten lokalen Keywords für dein Unternehmen. Kostenlose Tools, Schritt-für-Schritt Anleitung und 10 Fehler die du vermeiden musst.",
-      excerpt: "Der komplette Guide zur lokalen Keyword-Recherche. Lerne welche Keywords Kunden bringen und wie du sie findest.",
+      title: "Local SEO Keywords finden: So suchen Ihre Kunden wirklich",
+      metaTitle: "Local SEO Keywords finden: Anleitung für Betriebe",
+      metaDescription: "Lokale Keywords finden ohne teure Tools: Kundensprache, Google-Vorschläge, Search Console und Profildaten nutzen und jedem Begriff die richtige Seite zuordnen.",
+      excerpt: "Lokale Keywords finden ohne teure Tools: Kundensprache, Google-Vorschläge, Search Console und Profildaten nutzen und jedem Begriff die richtige Seite zuordnen.",
       category: "Strategie",
     },
     en: {
@@ -105,9 +105,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide to local keyword research. Learn which keywords bring customers and how to find them.",
       category: "Strategy",
     },
-    readingTime: 18,
+    readingTime: 12,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-01-07",
+    updatedAt: "2026-10-09",
     icon: "🔍",
     keywords: ["local seo keywords", "keyword research", "local keywords"],
     featured: true
@@ -115,10 +115,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-ranking-verbessern",
     de: {
-      title: "Google Maps Ranking verbessern: 7-Schritte-Aktionsplan 2026",
-      metaTitle: "Google Maps Ranking verbessern: 7-Schritte-Plan 2026",
-      metaDescription: "Verbessere dein Google Maps Ranking in 7 konkreten Schritten. Praxis-Aktionsplan mit GBP-Optimierung, Bewertungen und Citations.",
-      excerpt: "Der konkrete 7-Schritte-Aktionsplan zur Verbesserung deines Google Maps Rankings — mit Praxisbeispielen und Checkliste.",
+      title: "Google-Maps-Ranking verbessern: messen, verstehen, gezielt handeln",
+      metaTitle: "Google-Maps-Ranking verbessern: Leitfaden für Betriebe",
+      metaDescription: "Wie Google Maps lokale Treffer sortiert, wie Sie Ihr Ranking mit einem Messraster prüfen und welche Schritte im Profil, bei Bewertungen und Website wirken.",
+      excerpt: "Wie Google Maps lokale Treffer sortiert, wie Sie Ihr Ranking mit einem Messraster prüfen und welche Schritte im Profil, bei Bewertungen und Website wirken.",
       category: "Local SEO",
     },
     en: {
@@ -128,9 +128,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The concrete 7-step action plan to improve your Google Maps ranking — with practical examples and checklist.",
       category: "Local SEO",
     },
-    readingTime: 8,
+    readingTime: 12,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-01-07",
+    updatedAt: "2026-10-09",
     icon: "📍",
     keywords: ["google maps ranking verbessern", "maps ranking steigern", "google maps optimierung anleitung"],
     featured: true
@@ -138,10 +138,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-bewertungen-bekommen",
     de: {
-      title: "Google Bewertungen bekommen: 7 bewährte Strategien",
-      metaTitle: "Google Bewertungen bekommen: 7 Strategien für 2026",
-      metaDescription: "So bekommst du mehr Google Bewertungen! 7 ethische Strategien für mehr Rezensionen. Mit Vorlagen und QR-Code Tipps.",
-      excerpt: "Lerne 7 bewährte Methoden, um mehr authentische Google Bewertungen von zufriedenen Kunden zu erhalten.",
+      title: "Google-Bewertungen bekommen: So fragen Sie richtig",
+      metaTitle: "Google-Bewertungen bekommen: fair und regelkonform",
+      metaDescription: "Mehr Google-Bewertungen ohne Regelverstoß: Link und QR-Code, der richtige Moment zum Fragen, Antworten mit Datenschutz und Melden falscher Rezensionen.",
+      excerpt: "Mehr Google-Bewertungen ohne Regelverstoß: Link und QR-Code, der richtige Moment zum Fragen, Antworten mit Datenschutz und Melden falscher Rezensionen.",
       category: "Bewertungen",
     },
     en: {
@@ -151,9 +151,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Learn 7 proven methods to get more authentic Google reviews from satisfied customers.",
       category: "Reviews",
     },
-    readingTime: 6,
+    readingTime: 11,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-01-07",
+    updatedAt: "2026-10-09",
     icon: "⭐",
     keywords: ["google reviews", "get reviews", "customer reviews"]
   },
