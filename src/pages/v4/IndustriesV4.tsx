@@ -10,6 +10,8 @@ import { WorldSection } from "@/components/v4/industries/WorldSection";
 import { CommissionCalculator } from "@/components/v4/industries/CommissionCalculator";
 import { CALCULATOR_ANCHOR, INDUSTRY_ANCHORS, INDUSTRY_WORLDS } from "@/data/v4Industries";
 import { PageFaqSection } from "@/components/v4/PageFaq";
+import { Link } from "react-router-dom";
+import { AUDIENCE_PAGES } from "@/data/v4AudienceNav";
 import { INDUSTRIES_FAQ, faqEntries } from "@/data/v4Faq";
 import { CHECK_REPLY_TIME } from "@/lib/check";
 import { SEO_DATE_MODIFIED } from "@/lib/seo-dates";
@@ -125,6 +127,35 @@ export default function IndustriesV4() {
           )}
         </WorldSection>
       ))}
+
+      <StateField field="light" as="section" className="border-t border-v4-ink/10" aria-labelledby="industries-pages">
+        <div className="mx-auto max-w-[1300px] px-6 py-16 md:px-10 md:py-20">
+          <SystemLabel as="p" className="text-v4-ink/60">
+            One page per kind of business
+          </SystemLabel>
+          <h2 id="industries-pages" className="mt-5 max-w-2xl font-v4-serif text-[length:var(--v4-text-heading)] font-normal leading-[1.08] text-v4-ink">
+            The full picture for your business.
+          </h2>
+          <ul className="mt-10 grid gap-px overflow-hidden rounded-2xl border border-v4-ink/10 bg-v4-ink/10 sm:grid-cols-2 lg:grid-cols-3">
+            {AUDIENCE_PAGES.map((p) => (
+              <li key={p.path} className="bg-v4-ivory">
+                <Link
+                  to={p.path}
+                  className="group flex h-full flex-col justify-between gap-6 p-6 transition-colors hover:bg-v4-white focus-visible:outline focus-visible:outline-2 focus-visible:-outline-offset-2 focus-visible:outline-v4-ink"
+                >
+                  <span>
+                    <span className="block font-v4-sans text-lg font-semibold tracking-tight text-v4-ink">{p.name}</span>
+                    <span className="mt-1 block font-v4-sans text-sm text-v4-ink/60">{p.note}</span>
+                  </span>
+                  <span aria-hidden="true" className="font-v4-sans text-v4-ink/50 transition-transform group-hover:translate-x-1">
+                    →
+                  </span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </StateField>
 
       <PageFaqSection id="industries-faq" title="Short answers for your kind of business." items={INDUSTRIES_FAQ} />
 

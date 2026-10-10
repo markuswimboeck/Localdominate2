@@ -19,6 +19,12 @@ The canonical website is https://localdominate.org. The main pages are in Britis
 - [Services](https://localdominate.org/services): Four fixed-price offers and the full growth project (prices below).
 - [Work](https://localdominate.org/work): Selected projects, each labelled for what it is.
 - [Industries](https://localdominate.org/industries): Hotels and guesthouses, holiday rentals, trades, premium local services.
+- [Hotels and guesthouses](https://localdominate.org/industries/hotels): Direct-booking websites and Google hotel profiles for owner-run hotels.
+- [Holiday rentals](https://localdominate.org/industries/holiday-rentals): One direct-booking website for hosts with several properties.
+- [Trades](https://localdominate.org/industries/trades): Google profiles with service area and one page per high-value job.
+- [Restaurants and cafés](https://localdominate.org/industries/restaurants): Google profile with menu, hours and reservation links; menu as text.
+- [Practices and firms](https://localdominate.org/industries/practices): Profiles per location and pages for medical, dental, law and tax practices.
+- [Online stores](https://localdominate.org/industries/online-stores): Shopify stores, product pages, checkout and purchase tracking.
 - [Creators](https://localdominate.org/creators): Portfolio and media kit pages for creators.
 - [About](https://localdominate.org/about): Founder Markus Wimböck, career and working principles.
 - [Insights](https://localdominate.org/insights): Guides on local SEO, Google Business Profile, reviews and AI search (mostly German).
