@@ -220,7 +220,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-10-09",
+    updatedAt: "2026-10-10",
     icon: "⭐",
     keywords: ["google reviews", "get reviews", "customer reviews"]
   },
@@ -574,10 +574,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-fitness",
     de: {
-      title: "Local SEO für Fitnessstudios & Personal Trainer",
-      metaTitle: "Local SEO für Fitness | Studio-Marketing 2026",
-      metaDescription: "Wie Fitnessstudios und Personal Trainer durch Local SEO mehr Mitglieder gewinnen. Saisonale Keywords, Vorher-Nachher-Content und Google Business.",
-      excerpt: "Der Fitness-Branchenguide: So füllst du dein Studio mit neuen Mitgliedern.",
+      title: "Local SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche",
+      metaTitle: "Local SEO für Fitnessstudios und Personal Trainer",
+      metaDescription: "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
+      excerpt: "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
       category: "Branchen"
     },
     en: {
@@ -587,9 +587,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The fitness industry guide: How to fill your studio with new members.",
       category: "Industries"
     },
-    readingTime: 12,
+    readingTime: 13,
     publishedAt: "2026-02-04",
-    updatedAt: "2026-02-04",
+    updatedAt: "2026-10-10",
     icon: "💪",
     keywords: ["fitnessstudio seo", "personal trainer marketing", "local seo fitness", "mitgliedergewinnung"],
     featured: false
@@ -599,10 +599,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "schema-markup-local-seo",
     de: {
-      title: "Schema Markup für Local SEO: Der Implementierungsguide",
-      metaTitle: "Schema Markup Local SEO | Technik-Guide 2026",
-      metaDescription: "Kompletter Guide zur Schema Markup Implementierung für lokale Unternehmen. LocalBusiness, FAQ, Reviews und mehr mit Code-Beispielen.",
-      excerpt: "Wie du mit strukturierten Daten deine lokale Sichtbarkeit in den Suchergebnissen steigerst.",
+      title: "Schema Markup für lokale Unternehmen: was Google 2026 nutzt und was Sie weglassen können",
+      metaTitle: "Schema Markup für Local SEO: was 2026 noch wirkt",
+      metaDescription: "Welche strukturierten Daten lokale Unternehmen 2026 brauchen, welche Google nicht mehr anzeigt und warum Sterne für das eigene Unternehmen nicht erscheinen.",
+      excerpt: "Welche strukturierten Daten lokale Unternehmen 2026 brauchen, welche Google nicht mehr anzeigt und warum Sterne für das eigene Unternehmen nicht erscheinen.",
       category: "Technik"
     },
     en: {
@@ -612,9 +612,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How to increase your local visibility in search results with structured data.",
       category: "Technical"
     },
-    readingTime: 20,
+    readingTime: 11,
     publishedAt: "2026-01-16",
-    updatedAt: "2026-01-16",
+    updatedAt: "2026-10-10",
     icon: "🏗️",
     keywords: ["schema markup", "strukturierte daten", "local business schema", "rich snippets", "json-ld"],
     featured: false
@@ -622,10 +622,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "mobile-local-seo",
     de: {
-      title: "Mobile Local SEO: Warum 80% der lokalen Suchen mobil sind",
-      metaTitle: "Mobile Local SEO | Optimierung 2026",
-      metaDescription: "Warum Mobile-First für lokale Unternehmen entscheidend ist. Page Speed, Click-to-Call, Maps-Integration und mobile UX optimieren.",
-      excerpt: "So optimierst du deine lokale Präsenz für die mobile Suche – wo die meisten deiner Kunden suchen.",
+      title: "Mobile Local SEO: der Weg vom Suchtreffer zum Anruf auf dem Smartphone",
+      metaTitle: "Mobile Local SEO: die Website am Handy prüfen",
+      metaDescription: "Wie lokale Betriebe ihre Website für Smartphone-Nutzer prüfen: mobile Indexierung, Anruf- und Routenlink, Ladezeit, Pop-ups und Formulare nach Googles Vorgaben.",
+      excerpt: "Wie lokale Betriebe ihre Website für Smartphone-Nutzer prüfen: mobile Indexierung, Anruf- und Routenlink, Ladezeit, Pop-ups und Formulare nach Googles Vorgaben.",
       category: "Technik"
     },
     en: {
@@ -635,9 +635,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How to optimize your local presence for mobile search – where most of your customers are searching.",
       category: "Technical"
     },
-    readingTime: 14,
+    readingTime: 10,
     publishedAt: "2026-01-26",
-    updatedAt: "2026-01-26",
+    updatedAt: "2026-10-10",
     icon: "📱",
     keywords: ["mobile seo", "mobile first", "local seo mobile", "page speed", "mobile ux"],
     featured: false
@@ -645,10 +645,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-seo-ranking-faktoren",
     de: {
-      title: "Google Maps SEO 2026: Alle 20 Ranking-Signale mit Gewichtung",
-      metaTitle: "Google Maps 20 Ranking-Signale & Gewichtung | 2026",
-      metaDescription: "Alle 20 Google Maps Ranking-Signale mit Gewichtung: GBP-Signale (32 %), Bewertungen (16 %), Citations (11 %) und mehr. Vollständige Signal-Tabelle.",
-      excerpt: "Die vollständige Übersicht aller 20 Google Maps Ranking-Signale mit prozentualer Gewichtung und Optimierungspriorität.",
+      title: "Google-Maps-Ranking-Faktoren: was Google bestätigt, was Fachleute vermuten und was verboten ist",
+      metaTitle: "Google-Maps-Ranking-Faktoren: belegt oder vermutet?",
+      metaDescription: "Welche Google-Maps-Ranking-Faktoren Google selbst bestätigt, welche nur aus Expertenumfragen stammen und warum Prozent-Gewichtungen keine Messwerte sind.",
+      excerpt: "Welche Google-Maps-Ranking-Faktoren Google selbst bestätigt, welche nur aus Expertenumfragen stammen und warum Prozent-Gewichtungen keine Messwerte sind.",
       category: "Local SEO"
     },
     en: {
@@ -658,9 +658,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete overview of all 20 Google Maps ranking signals with percentage weighting and optimization priority.",
       category: "Local SEO"
     },
-    readingTime: 18,
+    readingTime: 10,
     publishedAt: "2026-01-28",
-    updatedAt: "2026-01-28",
+    updatedAt: "2026-10-10",
     icon: "🗺️",
     keywords: ["google maps ranking signale", "ranking faktoren gewichtung", "local pack signale", "maps seo 2026", "proximity relevance prominence gewichtung"],
     featured: true
@@ -668,10 +668,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-spam-erkennen",
     de: {
-      title: "Google Maps Spam erkennen & melden: Der komplette Guide",
-      metaTitle: "Google Maps Spam erkennen & melden | Anleitung 2026",
-      metaDescription: "Lerne die 8 häufigsten Spam-Arten auf Google Maps zu erkennen und effektiv zu melden. Mit Checklisten, Beispielen und Schritt-für-Schritt Anleitungen.",
-      excerpt: "Gefälschte Einträge, Keyword-Stuffing, Fake-Bewertungen: So erkennst und meldest du Google Maps Spam und schützt dein eigenes Profil.",
+      title: "Google-Maps-Spam erkennen und melden: so schützen Sie Ihren Markt und Ihr eigenes Profil",
+      metaTitle: "Google-Maps-Spam erkennen und melden: Anleitung",
+      metaDescription: "So erkennen Sie gefälschte Einträge, Keyword-Namen und gekaufte Bewertungen in Google Maps, melden sie auf dem richtigen Weg und schützen Ihr eigenes Profil.",
+      excerpt: "So erkennen Sie gefälschte Einträge, Keyword-Namen und gekaufte Bewertungen in Google Maps, melden sie auf dem richtigen Weg und schützen Ihr eigenes Profil.",
       category: "Google Maps"
     },
     en: {
@@ -681,9 +681,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Fake listings, keyword stuffing, fake reviews: How to detect and report Google Maps spam and protect your own profile.",
       category: "Google Maps"
     },
-    readingTime: 14,
+    readingTime: 10,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🛡️",
     keywords: ["google maps spam", "spam melden", "fake bewertungen", "keyword stuffing", "google business spam", "spam erkennen"],
     featured: false
@@ -691,22 +691,22 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-konkurrenzanalyse",
     de: {
-      title: "Google Maps Konkurrenzanalyse: So analysierst du Top-Rankings",
-      metaTitle: "Google Maps Konkurrenzanalyse | Framework & Tools 2026",
-      metaDescription: "Systematische Google Maps Konkurrenzanalyse in 5 Schritten. Mit gewichtetem Vergleichs-Template, kostenlosen Tools und konkretem Aktionsplan.",
-      excerpt: "Lerne, wie du die Google Maps Rankings deiner Konkurrenten systematisch analysierst und gezielte Maßnahmen ableitest, um sie zu überholen.",
+      title: "Google-Maps-Konkurrenzanalyse: Wettbewerber vergleichen und eigene Lücken finden",
+      metaTitle: "Google-Maps-Konkurrenzanalyse: Profile vergleichen",
+      metaDescription: "Wer steht in Google Maps vor Ihnen und warum? Mit Vergleichsbogen: Wettbewerber finden, Profile, Rezensionen und Websites prüfen, Lücken in Maßnahmen umsetzen.",
+      excerpt: "Wer steht in Google Maps vor Ihnen und warum? Mit Vergleichsbogen: Wettbewerber finden, Profile, Rezensionen und Websites prüfen, Lücken in Maßnahmen umsetzen.",
       category: "Google Maps"
     },
     en: {
       title: "Google Maps Competitor Analysis: How to Analyze Top Rankings",
       metaTitle: "Google Maps Competitor Analysis | Framework & Tools 2026",
-      metaDescription: "Systematic Google Maps competitor analysis in 5 steps. With weighted comparison template, free tools, and concrete action plan.",
+      metaDescription: "Systematic Google Maps competitor analysis in 5 steps: find the businesses ahead of you, compare profiles, reviews and websites, turn gaps into actions.",
       excerpt: "Learn how to systematically analyze your competitors' Google Maps rankings and derive targeted actions to outrank them.",
       category: "Google Maps"
     },
-    readingTime: 16,
+    readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🔍",
     keywords: ["konkurrenzanalyse", "competitor analysis", "google maps", "local pack", "ranking analyse", "wettbewerber"],
     featured: false
@@ -714,22 +714,22 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-ranking-case-studies",
     de: {
-      title: "Google Maps Ranking Case Studies: 6 Branchen, 6 Erfolge",
-      metaTitle: "Google Maps Case Studies | 6 Branchen-Erfolge 2026",
-      metaDescription: "6 echte Google Maps Ranking Case Studies aus Gastronomie, Handwerk, Gesundheit, Recht, Beauty und Automotive. Mit konkreten Zahlen und Maßnahmen.",
-      excerpt: "Von unsichtbar zu Platz 1: Wie Unternehmen aus 6 verschiedenen Branchen ihr Google Maps Ranking dramatisch verbessert haben.",
+      title: "Google-Maps-Ranking-Fallstudien: Ergebnisse prüfen und selbst sauber dokumentieren",
+      metaTitle: "Google-Maps-Fallstudien prüfen und selbst erstellen",
+      metaDescription: "Woran Sie belastbare Google-Maps-Fallstudien erkennen und wie Sie selbst eine führen: Ausgangslage, Messgrößen, Änderungsprotokoll, Störfaktoren, Auswertung.",
+      excerpt: "Woran Sie belastbare Google-Maps-Fallstudien erkennen und wie Sie selbst eine führen: Ausgangslage, Messgrößen, Änderungsprotokoll, Störfaktoren, Auswertung.",
       category: "Google Maps"
     },
     en: {
-      title: "Google Maps Ranking Case Studies: 6 Industries, 6 Success Stories",
-      metaTitle: "Google Maps Case Studies | 6 Industry Success Stories 2026",
-      metaDescription: "6 real Google Maps ranking case studies from gastronomy, trades, healthcare, legal, beauty, and automotive. With concrete numbers and measures.",
-      excerpt: "From invisible to #1: How businesses from 6 different industries dramatically improved their Google Maps ranking.",
+      title: "Google Maps Ranking Case Studies: How to Check Them and Run Your Own",
+      metaTitle: "Google Maps Case Studies: Check Them, Run Your Own",
+      metaDescription: "How to tell a solid Google Maps ranking case study from a sales story, and how to document your own: baseline, metrics, change log, confounders, evaluation.",
+      excerpt: "How to tell a solid Google Maps ranking case study from a sales story, and how to document your own before and after.",
       category: "Google Maps"
     },
-    readingTime: 18,
+    readingTime: 12,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🏆",
     keywords: ["case study", "google maps ranking", "local seo erfolg", "ranking verbessern", "fallstudie", "branchenvergleich"],
     featured: true
@@ -737,10 +737,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "entity-seo-guide",
     de: {
-      title: "Entity SEO: Wie Suchmaschinen Entitäten verstehen & nutzen",
-      metaTitle: "Entity SEO Guide | Knowledge Graph optimieren 2026",
-      metaDescription: "Was ist Entity SEO? Wie Google Entitäten erkennt. Knowledge-Graph-Strategien, Schema Markup, sameAs & Praxis-Checkliste.",
-      excerpt: "Von Keyword-SEO zu Entity SEO: Wie du dein Unternehmen als Entität im Knowledge Graph etablierst und deine Sichtbarkeit in Google und AI-Suche maximierst.",
+      title: "Entity SEO für lokale Unternehmen: so erkennt Google Ihren Betrieb eindeutig",
+      metaTitle: "Entity SEO für lokale Unternehmen: der Leitfaden",
+      metaDescription: "Entity SEO verständlich erklärt: wie Google Ihren Betrieb als eindeutige Entität erkennt, welche Rolle Profil, Website und sameAs spielen und wie Sie es prüfen.",
+      excerpt: "Entity SEO verständlich erklärt: wie Google Ihren Betrieb als eindeutige Entität erkennt, welche Rolle Profil, Website und sameAs spielen und wie Sie es prüfen.",
       category: "AI & Zukunft"
     },
     en: {
@@ -750,9 +750,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "From keyword SEO to entity SEO: How to establish your business as an entity in the Knowledge Graph and maximize visibility in Google and AI search.",
       category: "AI & Future"
     },
-    readingTime: 15,
+    readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🧠",
     keywords: ["entity seo", "knowledge graph", "schema markup", "sameAs", "structured data", "ai seo", "entität"],
     featured: true
@@ -760,10 +760,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "semantic-seo-topical-authority",
     de: {
-      title: "Semantic SEO & Topical Authority: Der Komplettguide",
-      metaTitle: "Semantic SEO Guide | Topical Authority aufbauen 2026",
-      metaDescription: "Was ist Semantic SEO? Wie du mit Topic Clusters Themenautorität aufbaust, semantische Signale für Google setzt und von AI-Suchmaschinen zitiert wirst.",
-      excerpt: "Von Keyword-SEO zu Semantic SEO: Wie du mit Topic Clusters, internen Links und semantischen Signalen Themenautorität aufbaust.",
+      title: "Semantic SEO und Themenautorität: wie lokale Betriebe ihr Fachgebiet vollständig abdecken",
+      metaTitle: "Semantic SEO und Themenautorität für lokale Websites",
+      metaDescription: "Semantic SEO für lokale Betriebe: wie Google Bedeutung statt Wörter erkennt, wie Sie Ihr Thema mit Themenplan und internen Links abdecken und was Sie vermeiden.",
+      excerpt: "Semantic SEO für lokale Betriebe: wie Google Bedeutung statt Wörter erkennt, wie Sie Ihr Thema mit Themenplan und internen Links abdecken und was Sie vermeiden.",
       category: "AI & Zukunft"
     },
     en: {
@@ -773,9 +773,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "From keyword SEO to semantic SEO: How to build topical authority with topic clusters, internal links and semantic signals.",
       category: "AI & Future"
     },
-    readingTime: 16,
+    readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🔗",
     keywords: ["semantic seo", "topical authority", "topic cluster", "pillar page", "themenautorität", "interne verlinkung"],
     featured: true
@@ -784,22 +784,22 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-audit-template",
     de: {
-      title: "Google Maps Audit Template: Vollständige Checkliste mit 75+ Punkten",
-      metaTitle: "Google Maps Audit Template | 75+ Prüfpunkte Checkliste 2026",
-      metaDescription: "Kostenloses Google Maps Audit Template mit 75+ Prüfpunkten in 10 Kategorien. Interaktive Checkliste mit Fortschrittsspeicherung und Priorisierung.",
-      excerpt: "Systematisches Google Maps Audit mit 75+ Prüfpunkten: GBP-Profil, Bewertungen, Citations, Schema Markup und mehr — interaktiv mit Fortschritt.",
+      title: "Google-Maps-Audit: die Vorlage zum Ausfüllen für Ihr Unternehmensprofil",
+      metaTitle: "Google-Maps-Audit: Vorlage mit Prüfpunkten",
+      metaDescription: "Vorlage für Ihr Google-Maps-Audit: sieben Prüfbögen zu Inhaberschaft, Stammdaten, Kategorien, Fotos, Rezensionen, Sichtbarkeit und Website, mit Auswertung.",
+      excerpt: "Vorlage für Ihr Google-Maps-Audit: sieben Prüfbögen zu Inhaberschaft, Stammdaten, Kategorien, Fotos, Rezensionen, Sichtbarkeit und Website, mit Auswertung.",
       category: "Google Maps"
     },
     en: {
-      title: "Google Maps Audit Template: Complete Checklist with 75+ Points",
-      metaTitle: "Google Maps Audit Template | 75+ Checkpoint Checklist 2026",
-      metaDescription: "Free Google Maps audit template with 75+ checkpoints in 10 categories. Interactive checklist with progress saving and prioritization.",
-      excerpt: "Systematic Google Maps audit with 75+ checkpoints: GBP profile, reviews, citations, schema markup and more — interactive with progress tracking.",
+      title: "Google Maps Audit Template: Seven Worksheets for Your Business Profile",
+      metaTitle: "Google Maps Audit Template: Seven Worksheets",
+      metaDescription: "Google Maps audit template with seven worksheets: ownership, core data, categories, photos, reviews, visibility and website, plus how to prioritise the results.",
+      excerpt: "Seven worksheets to audit your Google Business Profile and Maps visibility, with a clear order for fixing what you find.",
       category: "Google Maps"
     },
     readingTime: 12,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🗺️",
     keywords: ["google maps audit", "maps audit template", "local seo audit", "gbp audit", "google maps checkliste", "maps ranking audit"],
     featured: false
@@ -808,10 +808,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "citation-tracking-template",
     de: {
-      title: "Citation Tracking Spreadsheet Template: Alle Verzeichnisse im Griff",
-      metaTitle: "Citation Tracking Template | DACH Spreadsheet 2026",
-      metaDescription: "Kostenloses Citation Tracking Template mit 22+ Verzeichnissen für DACH. Interaktive Checkliste, Copy-ready Spreadsheet und Quartals-Audit Workflow.",
-      excerpt: "Systematisches Citation-Tracking mit interaktiver Checkliste, kopierbarer Spreadsheet-Vorlage und Quartals-Audit-Workflow für den DACH-Markt.",
+      title: "Citation-Tracking-Vorlage: Ihre Firmeneinträge in einer Tabelle führen",
+      metaTitle: "Citation-Tracking-Vorlage: alle Firmeneinträge im Blick",
+      metaDescription: "Vorlage für Ihre Verzeichniseinträge: Stammdaten, Eintragsliste, Statuscodes und Änderungsprotokoll als Tabelle, dazu ein Ablauf für die Prüfung je Quartal.",
+      excerpt: "Vorlage für Ihre Verzeichniseinträge: Stammdaten, Eintragsliste, Statuscodes und Änderungsprotokoll als Tabelle, dazu ein Ablauf für die Prüfung je Quartal.",
       category: "Tools & Ressourcen"
     },
     en: {
@@ -821,9 +821,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Systematic citation tracking with interactive checklist, copyable spreadsheet template and quarterly audit workflow for the DACH market.",
       category: "Tools & Resources"
     },
-    readingTime: 10,
+    readingTime: 9,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "📊",
     keywords: ["citation tracking", "citation spreadsheet", "nap tracking", "verzeichnis tracking", "citation audit", "local citations template"],
     featured: false
@@ -832,10 +832,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-keyword-research-template",
     de: {
-      title: "Local Keyword Research Template: Systematische Keyword-Recherche für lokale Unternehmen",
-      metaTitle: "Local Keyword Research Template | Vorlage & Workflow 2026",
-      metaDescription: "Kostenloses Keyword Research Template für Local SEO. 6 Keyword-Typen, 5-Schritte-Workflow, Copy-ready Spreadsheet mit Keyword Mapping und Ranking-Tracker.",
-      excerpt: "Systematische lokale Keyword-Recherche mit 6 Keyword-Typen, interaktivem 5-Schritte-Workflow und kopierbarer Spreadsheet-Vorlage für den DACH-Markt.",
+      title: "Vorlage für die lokale Keyword-Recherche: Liste, Bewertung und Seitenzuordnung",
+      metaTitle: "Vorlage: lokale Keyword-Recherche als Tabelle",
+      metaDescription: "Tabellenvorlage für lokale Suchbegriffe: Spalten, Quellen, Bewertung und Seitenzuordnung. So halten Sie Ihre Keyword-Liste mit wenig Aufwand aktuell.",
+      excerpt: "Tabellenvorlage für lokale Suchbegriffe: Spalten, Quellen, Bewertung und Seitenzuordnung. So halten Sie Ihre Keyword-Liste mit wenig Aufwand aktuell.",
       category: "Tools & Ressourcen"
     },
     en: {
@@ -845,9 +845,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Systematic local keyword research with 6 keyword types, interactive 5-step workflow and copyable spreadsheet template for the DACH market.",
       category: "Tools & Resources"
     },
-    readingTime: 11,
+    readingTime: 9,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🔍",
     keywords: ["keyword recherche", "keyword research template", "lokale keywords", "keyword mapping", "keyword spreadsheet", "local seo keywords"],
     featured: false
@@ -856,10 +856,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-monthly-checklist",
     de: {
-      title: "Local SEO Monthly Checklist: Die monatliche Routine für Top-Rankings",
-      metaTitle: "Local SEO Monthly Checklist | Monatliche Routine 2026",
-      metaDescription: "Monatliche Local SEO Checkliste mit 45+ Aufgaben in 8 Bereichen. Interaktiv mit Zeitschätzung, Priorisierung und kopierbarer Vorlage.",
-      excerpt: "Die komplette monatliche Local-SEO-Routine: 45+ Aufgaben in 8 Bereichen mit Zeitschätzung, Priorisierung und Wochenplan für nachhaltige Rankings.",
+      title: "Local SEO jeden Monat: die Routine-Checkliste mit Wochenplan",
+      metaTitle: "Local SEO jeden Monat: die Checkliste mit Wochenplan",
+      metaDescription: "Die monatliche Local-SEO-Routine zum Abhaken: Profil, Bewertungen, Website, Einträge und Messung in vier Wochen, mit Vorlage für Ihren Monatsbericht.",
+      excerpt: "Die monatliche Local-SEO-Routine zum Abhaken: Profil, Bewertungen, Website, Einträge und Messung in vier Wochen, mit Vorlage für Ihren Monatsbericht.",
       category: "Tools & Ressourcen"
     },
     en: {
@@ -869,9 +869,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete monthly local SEO routine: 45+ tasks in 8 areas with time estimates, prioritization and weekly plan for sustainable rankings.",
       category: "Tools & Resources"
     },
-    readingTime: 10,
+    readingTime: 9,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "📅",
     keywords: ["monthly checklist", "monatliche checkliste", "local seo routine", "local seo pflege", "seo maintenance", "monatliches seo"],
     featured: false
@@ -880,10 +880,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "ai-visibility-checklist",
     de: {
-      title: "AI Visibility Checklist: Ist deine Website bereit für AI-Suche?",
-      metaTitle: "AI Visibility Checklist | AI-Sichtbarkeit prüfen 2026",
-      metaDescription: "Interaktive AI-Sichtbarkeits-Checkliste mit 57+ Prüfpunkten. Schema Markup, Voice Search, LLM-Optimierung, AI Overviews — mit Score und Vorlage.",
-      excerpt: "Prüfe deine Website auf AI-Sichtbarkeit: 57+ Punkte in 8 Bereichen mit AI-Impact-Score, Fortschrittsspeicherung und kopierbarer Audit-Vorlage.",
+      title: "KI-Sichtbarkeit prüfen: die Checkliste für Website und Unternehmensprofil",
+      metaTitle: "KI-Sichtbarkeit prüfen: Checkliste für lokale Betriebe",
+      metaDescription: "Checkliste für KI-Suche: Crawler-Zugang, lesbare Inhalte, klare Fakten, Profile und Messung, belegt mit Angaben von Google, OpenAI, Anthropic und Perplexity.",
+      excerpt: "Checkliste für KI-Suche: Crawler-Zugang, lesbare Inhalte, klare Fakten, Profile und Messung, belegt mit Angaben von Google, OpenAI, Anthropic und Perplexity.",
       category: "AI & Zukunft"
     },
     en: {
@@ -893,9 +893,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Check your website for AI visibility: 57+ points across 8 areas with AI impact score, progress saving and copyable audit template.",
       category: "AI & Future"
     },
-    readingTime: 12,
+    readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🤖",
     keywords: ["ai visibility", "ai sichtbarkeit", "ai checklist", "ai overviews optimierung", "llm optimierung", "voice search checklist", "ai search optimization"],
     featured: false
@@ -904,10 +904,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-ranking-tracker",
     de: {
-      title: "Google Maps Ranking Tracker: So trackst du deine lokalen Rankings",
-      metaTitle: "Google Maps Ranking Tracker | Grid-Tracking & Tools 2026",
-      metaDescription: "Wie du Google Maps Rankings systematisch trackst. Grid-Tracking erklärt, 7 Tools im Vergleich, kostenlose Tracker-Vorlage und Aktionsplan bei Ranking-Verlust.",
-      excerpt: "Konzept-Guide zum Maps Ranking Tracking: Grid-Tracking, Tool-Vergleich, Interpretation und kostenlose Vorlage für systematisches lokales Ranking-Monitoring.",
+      title: "Google-Maps-Ranking-Tracker: Positionen über Monate protokollieren und auswerten",
+      metaTitle: "Google-Maps-Ranking-Tracker: Vorlage und Auswertung",
+      metaDescription: "Maps-Positionen dauerhaft protokollieren: Einstellungen, Messprotokoll, Monatsübersicht und Wettbewerber als Tabellen, dazu Kennzahlen und ein Plan bei Verlust.",
+      excerpt: "Maps-Positionen dauerhaft protokollieren: Einstellungen, Messprotokoll, Monatsübersicht und Wettbewerber als Tabellen, dazu Kennzahlen und ein Plan bei Verlust.",
       category: "Google Maps"
     },
     en: {
@@ -917,9 +917,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Concept guide for Maps ranking tracking: grid tracking, tool comparison, interpretation and free template for systematic local ranking monitoring.",
       category: "Google Maps"
     },
-    readingTime: 13,
+    readingTime: 10,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "📈",
     keywords: ["ranking tracker", "google maps ranking", "local rank tracking", "grid tracking", "geo grid", "maps position tracken"],
     featured: false
@@ -928,10 +928,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-strategy-planner",
     de: {
-      title: "Local SEO Strategy Planner: 7-Phasen-Aufgabenplan mit Budget & Checkliste",
-      metaTitle: "Local SEO Strategy Planner | 7-Phasen Aufgabenplan 2026",
-      metaDescription: "Kostenloser Local SEO Strategieplan mit 49 Aufgaben in 7 Phasen. Interaktive Aufgaben-Checkliste, Budget-Planung und kopierbares Template.",
-      excerpt: "Systematischer 7-Phasen-Aufgabenplan für Local SEO: 49 konkrete Aufgaben mit Budget-Schätzung und Priorität — als interaktive Checkliste.",
+      title: "Local-SEO-Strategie planen: Ein Plan, der zu Ihrem Betrieb passt",
+      metaTitle: "Local-SEO-Strategie planen: Ziele, Reihenfolge, Aufwand",
+      metaDescription: "Local-SEO-Strategie für kleine Betriebe: Ausgangslage erfassen, messbare Ziele setzen, Aufgaben nach Wirkung ordnen und den Aufwand ehrlich schätzen.",
+      excerpt: "Local-SEO-Strategie für kleine Betriebe: Ausgangslage erfassen, messbare Ziele setzen, Aufgaben nach Wirkung ordnen und den Aufwand ehrlich schätzen.",
       category: "Tools & Ressourcen"
     },
     en: {
@@ -941,9 +941,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Systematic 7-phase task plan for local SEO: 49 concrete tasks with budget estimates and priorities — as interactive checklist.",
       category: "Tools & Resources"
     },
-    readingTime: 14,
+    readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🎯",
     keywords: ["local seo aufgabenplan", "seo strategy planner", "seo aufgaben checkliste", "local seo budget planung", "seo phasen plan"],
     featured: false
@@ -952,10 +952,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-roadmap-90-tage",
     de: {
-      title: "Local SEO Wochenplan: 12-Wochen-Timeline mit Gantt-Diagramm & KPI-Meilensteinen",
-      metaTitle: "Local SEO 12-Wochen-Timeline | Gantt & KPIs 2026",
-      metaDescription: "Visueller 12-Wochen-Wochenplan für Local SEO: Gantt-Timeline, wöchentliche Meilensteine und KPI-Checkpoints für messbaren Fortschritt.",
-      excerpt: "Woche für Woche zum Ziel: Visueller 12-Wochen-Wochenplan mit Gantt-Diagramm und messbaren KPI-Meilensteinen.",
+      title: "Local SEO in 12 Wochen: Der Wochenplan zum Abarbeiten",
+      metaTitle: "Local SEO in 12 Wochen: Wochenplan mit Prüfpunkten",
+      metaDescription: "Local SEO in 12 Wochen: ein Wochenplan von der Bestandsaufnahme über Profil, Website und Bewertungen bis zur Auswertung, mit Prüfpunkten und Messtabelle.",
+      excerpt: "Local SEO in 12 Wochen: ein Wochenplan von der Bestandsaufnahme über Profil, Website und Bewertungen bis zur Auswertung, mit Prüfpunkten und Messtabelle.",
       category: "Tools & Ressourcen"
     },
     en: {
@@ -965,9 +965,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Week by week to the goal: Visual 12-week plan with Gantt chart and measurable KPI milestones.",
       category: "Tools & Resources"
     },
-    readingTime: 12,
+    readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🗺️",
     keywords: ["local seo wochenplan", "12 wochen timeline", "seo gantt diagramm", "local seo meilensteine", "seo kpi tracking"],
     featured: false
@@ -977,10 +977,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-link-building",
     de: {
-      title: "Local Link Building: Backlinks für lokale Unternehmen aufbauen",
-      metaTitle: "Local Link Building | Backlinks 2026",
-      metaDescription: "Wie lokale Unternehmen qualitative Backlinks aufbauen. Sponsoring, Vereine, lokale Presse und kreative Strategien für mehr Authority.",
-      excerpt: "Die besten Strategien, um als lokales Unternehmen wertvolle Backlinks zu gewinnen.",
+      title: "Local Link Building: Lokale Links ohne Regelverstoß aufbauen",
+      metaTitle: "Lokale Backlinks aufbauen: Wege, die Google erlaubt",
+      metaDescription: "Lokale Backlinks für Betriebe in DACH: Kammer, Verband, Partner, Vereine und Presse richtig nutzen, Sponsoring korrekt kennzeichnen, Linkspam vermeiden.",
+      excerpt: "Lokale Backlinks für Betriebe in DACH: Kammer, Verband, Partner, Vereine und Presse richtig nutzen, Sponsoring korrekt kennzeichnen, Linkspam vermeiden.",
       category: "Strategie"
     },
     en: {
@@ -990,9 +990,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The best strategies for local businesses to gain valuable backlinks.",
       category: "Strategy"
     },
-    readingTime: 16,
+    readingTime: 10,
     publishedAt: "2026-01-22",
-    updatedAt: "2026-01-22",
+    updatedAt: "2026-10-10",
     icon: "🔗",
     keywords: ["local link building", "lokale backlinks", "linkaufbau", "backlink strategie", "local authority"],
     featured: false
@@ -1000,10 +1000,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "negative-google-bewertungen",
     de: {
-      title: "Negative Google Bewertungen: So reagierst du professionell",
-      metaTitle: "Negative Bewertungen beantworten | Guide 2026",
-      metaDescription: "Wie du auf negative Google Bewertungen professionell reagierst. Antwort-Strategien, Löschung beantragen und Prävention für dein Unternehmen.",
-      excerpt: "Die Kunst, aus negativen Bewertungen positive Kundenerlebnisse zu machen.",
+      title: "Negative Google-Bewertungen: Richtig antworten, richtig melden",
+      metaTitle: "Negative Google-Bewertungen: antworten, melden, handeln",
+      metaDescription: "Negative Google-Bewertung erhalten? So antworten Sie sachlich, melden Richtlinienverstöße, reagieren auf Erpressung und erkennen rechtswidrige Inhalte.",
+      excerpt: "Negative Google-Bewertung erhalten? So antworten Sie sachlich, melden Richtlinienverstöße, reagieren auf Erpressung und erkennen rechtswidrige Inhalte.",
       category: "Bewertungen"
     },
     en: {
@@ -1015,7 +1015,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-01-20",
-    updatedAt: "2026-01-20",
+    updatedAt: "2026-10-10",
     icon: "😤",
     keywords: ["negative bewertungen", "bewertungen beantworten", "reputation management", "schlechte bewertung", "bewertung löschen"],
     featured: false
@@ -1023,10 +1023,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-content-marketing",
     de: {
-      title: "Local Content Marketing: Content-Strategie für lokale Unternehmen",
-      metaTitle: "Local Content Marketing | Strategie 2026",
-      metaDescription: "Wie lokale Unternehmen durch gezieltes Content Marketing mehr Kunden gewinnen. Lokale Guides, Stadtteil-Seiten und Community-Content.",
-      excerpt: "Content-Ideen speziell für lokale Unternehmen, die wirklich Kunden bringen.",
+      title: "Local Content Marketing: Inhalte, die Kunden vor Ort wirklich helfen",
+      metaTitle: "Local Content Marketing: Inhalte mit echtem Ortsbezug",
+      metaDescription: "Local Content Marketing für kleine Betriebe: Themen aus Kundenfragen finden, Leistungs- und Ortsseiten ohne Brückenseiten, Beiträge im Profil, Erfolg messen.",
+      excerpt: "Local Content Marketing für kleine Betriebe: Themen aus Kundenfragen finden, Leistungs- und Ortsseiten ohne Brückenseiten, Beiträge im Profil, Erfolg messen.",
       category: "Strategie"
     },
     en: {
@@ -1036,9 +1036,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Content ideas specifically for local businesses that actually bring customers.",
       category: "Strategy"
     },
-    readingTime: 17,
+    readingTime: 11,
     publishedAt: "2026-01-26",
-    updatedAt: "2026-01-26",
+    updatedAt: "2026-10-10",
     icon: "✍️",
     keywords: ["local content", "content marketing", "lokaler content", "stadtteil seiten", "lokale guides"],
     featured: false

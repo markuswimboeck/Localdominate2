@@ -91,13 +91,6 @@ const GbpKiFunktionen2026 = lazy(() => import("./pages/blog/GbpKiFunktionen2026"
 const GeoContentBriefing2026 = lazy(() => import("./pages/blog/GeoContentBriefing2026"));
 const WhatsappBusinessLocalSeo2026 = lazy(() => import("./pages/blog/WhatsappBusinessLocalSeo2026"));
 
-const LocalSeoFitness = lazy(() => import("./pages/blog/LocalSeoFitness"));
-const SchemaMarkupLocalSeo = lazy(() => import("./pages/blog/SchemaMarkupLocalSeo"));
-const MobileLocalSeo = lazy(() => import("./pages/blog/MobileLocalSeo"));
-const GoogleMapsRankingFaktoren = lazy(() => import("./pages/blog/GoogleMapsRankingFaktoren"));
-const LocalLinkBuilding = lazy(() => import("./pages/blog/LocalLinkBuilding"));
-const NegativeGoogleBewertungen = lazy(() => import("./pages/blog/NegativeGoogleBewertungen"));
-const LocalContentMarketing = lazy(() => import("./pages/blog/LocalContentMarketing"));
 const LocalSeoCaseStudy = lazy(() => import("./pages/blog/LocalSeoCaseStudy"));
 const LocalSeoFehler = lazy(() => import("./pages/blog/LocalSeoFehler"));
 const LocalSeoDoenerladen = lazy(() => import("./pages/blog/LocalSeoDoenerladen"));
@@ -187,19 +180,6 @@ const LocalLinkBuildingBlueprint = lazy(() => import("./pages/blog/LocalLinkBuil
 const LocalSeoChecklisteKomplett = lazy(() => import("./pages/blog/LocalSeoChecklisteKomplett"));
 const HubGoogleMapsSeo = lazy(() => import("./pages/blog/HubGoogleMapsSeo"));
 const WieGoogleMapsRankingFunktioniert = lazy(() => import("./pages/blog/WieGoogleMapsRankingFunktioniert"));
-const GoogleMapsSpamErkennen = lazy(() => import("./pages/blog/GoogleMapsSpamErkennen"));
-const GoogleMapsKonkurrenzanalyse = lazy(() => import("./pages/blog/GoogleMapsKonkurrenzanalyse"));
-const GoogleMapsRankingCaseStudies = lazy(() => import("./pages/blog/GoogleMapsRankingCaseStudies"));
-const EntitySeoGuide = lazy(() => import("./pages/blog/EntitySeoGuide"));
-const SemanticSeoGuide = lazy(() => import("./pages/blog/SemanticSeoGuide"));
-const GoogleMapsAuditTemplate = lazy(() => import("./pages/blog/GoogleMapsAuditTemplate"));
-const CitationTrackingTemplate = lazy(() => import("./pages/blog/CitationTrackingTemplate"));
-const LocalKeywordResearchTemplate = lazy(() => import("./pages/blog/LocalKeywordResearchTemplate"));
-const LocalSeoMonthlyChecklist = lazy(() => import("./pages/blog/LocalSeoMonthlyChecklist"));
-const GoogleMapsRankingTracker = lazy(() => import("./pages/blog/GoogleMapsRankingTracker"));
-const LocalSeoStrategyPlanner = lazy(() => import("./pages/blog/LocalSeoStrategyPlanner"));
-const LocalSeoRoadmap = lazy(() => import("./pages/blog/LocalSeoRoadmap"));
-const AiVisibilityChecklist = lazy(() => import("./pages/blog/AiVisibilityChecklist"));
 const SchemaStrategieDokument = lazy(() => import("./pages/blog/SchemaStrategieDokument"));
 const LocalSeoStatistiken = lazy(() => import("./pages/blog/LocalSeoStatistiken"));
 const CitationVerzeichnisse = lazy(() => import("./pages/CitationVerzeichnisse"));
@@ -353,13 +333,6 @@ const App = () => (
                 <Route path="/ueber-uns" element={<UeberUns />} />
                 <Route path="/seo-lexikon" element={<SeoLexikon />} />
                 <Route path="/blog" element={<Blog />} />
-                <Route path="/blog/local-seo-fitness" element={<LocalSeoFitness />} />
-                <Route path="/blog/schema-markup-local-seo" element={<SchemaMarkupLocalSeo />} />
-                <Route path="/blog/mobile-local-seo" element={<MobileLocalSeo />} />
-                <Route path="/blog/google-maps-seo-ranking-faktoren" element={<GoogleMapsRankingFaktoren />} />
-                <Route path="/blog/local-link-building" element={<LocalLinkBuilding />} />
-                <Route path="/blog/negative-google-bewertungen" element={<NegativeGoogleBewertungen />} />
-                <Route path="/blog/local-content-marketing" element={<LocalContentMarketing />} />
                 <Route path="/blog/local-seo-case-study-baecker" element={<LocalSeoCaseStudy />} />
                 <Route path="/blog/local-seo-fehler" element={<LocalSeoFehler />} />
                 <Route path="/blog/local-seo-doener-kebab-imbiss" element={<LocalSeoDoenerladen />} />
@@ -435,8 +408,6 @@ const App = () => (
                 <Route path="/blog/ai-zukunft-hub" element={<HubAiZukunft />} />
                 <Route path="/blog/troubleshooting-hub" element={<HubTroubleshooting />} />
                 <Route path="/blog/case-studies-hub" element={<HubCaseStudies />} />
-                <Route path="/blog/entity-seo-guide" element={<EntitySeoGuide />} />
-                <Route path="/blog/semantic-seo-topical-authority" element={<SemanticSeoGuide />} />
                 <Route path="/blog/website-content-ai-suchmaschinen" element={<WebsiteContentAiSuchmaschinen />} />
                 <Route path="/blog/local-seo-strategie-kleine-unternehmen" element={<LocalSeoStrategieKleineUnternehmen />} />
                 <Route path="/blog/local-seo-ranking-faktoren-erklaert" element={<LocalSeoRankingFaktorenErklaert />} />
@@ -445,17 +416,6 @@ const App = () => (
                 <Route path="/blog/local-seo-checkliste-komplett" element={<LocalSeoChecklisteKomplett />} />
                 <Route path="/blog/google-maps-seo-hub" element={<HubGoogleMapsSeo />} />
                 <Route path="/blog/wie-google-maps-ranking-funktioniert" element={<WieGoogleMapsRankingFunktioniert />} />
-                <Route path="/blog/google-maps-spam-erkennen" element={<GoogleMapsSpamErkennen />} />
-                <Route path="/blog/google-maps-konkurrenzanalyse" element={<GoogleMapsKonkurrenzanalyse />} />
-                <Route path="/blog/google-maps-ranking-case-studies" element={<GoogleMapsRankingCaseStudies />} />
-                <Route path="/blog/google-maps-audit-template" element={<GoogleMapsAuditTemplate />} />
-                <Route path="/blog/citation-tracking-template" element={<CitationTrackingTemplate />} />
-                <Route path="/blog/local-keyword-research-template" element={<LocalKeywordResearchTemplate />} />
-                <Route path="/blog/local-seo-monthly-checklist" element={<LocalSeoMonthlyChecklist />} />
-                <Route path="/blog/google-maps-ranking-tracker" element={<GoogleMapsRankingTracker />} />
-                <Route path="/blog/local-seo-strategy-planner" element={<LocalSeoStrategyPlanner />} />
-                <Route path="/blog/local-seo-roadmap-90-tage" element={<LocalSeoRoadmap />} />
-                <Route path="/blog/ai-visibility-checklist" element={<AiVisibilityChecklist />} />
                 <Route path="/blog/schema-strategie-dokument" element={<SchemaStrategieDokument />} />
                 <Route path="/blog/local-seo-statistiken-daten" element={<LocalSeoStatistiken />} />
                 <Route path="/blog/faq-hub" element={<FaqHub />} />
