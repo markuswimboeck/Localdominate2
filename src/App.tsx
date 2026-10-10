@@ -183,11 +183,6 @@ const LocalLinkBuildingBlueprint = lazy(() => import("./pages/blog/LocalLinkBuil
 const LocalSeoChecklisteKomplett = lazy(() => import("./pages/blog/LocalSeoChecklisteKomplett"));
 const HubGoogleMapsSeo = lazy(() => import("./pages/blog/HubGoogleMapsSeo"));
 const WieGoogleMapsRankingFunktioniert = lazy(() => import("./pages/blog/WieGoogleMapsRankingFunktioniert"));
-const GoogleMapsKonkurrenzanalyse = lazy(() => import("./pages/blog/GoogleMapsKonkurrenzanalyse"));
-const GoogleMapsRankingCaseStudies = lazy(() => import("./pages/blog/GoogleMapsRankingCaseStudies"));
-const EntitySeoGuide = lazy(() => import("./pages/blog/EntitySeoGuide"));
-const SemanticSeoGuide = lazy(() => import("./pages/blog/SemanticSeoGuide"));
-const GoogleMapsAuditTemplate = lazy(() => import("./pages/blog/GoogleMapsAuditTemplate"));
 const CitationTrackingTemplate = lazy(() => import("./pages/blog/CitationTrackingTemplate"));
 const LocalKeywordResearchTemplate = lazy(() => import("./pages/blog/LocalKeywordResearchTemplate"));
 const LocalSeoMonthlyChecklist = lazy(() => import("./pages/blog/LocalSeoMonthlyChecklist"));
@@ -426,8 +421,6 @@ const App = () => (
                 <Route path="/blog/ai-zukunft-hub" element={<HubAiZukunft />} />
                 <Route path="/blog/troubleshooting-hub" element={<HubTroubleshooting />} />
                 <Route path="/blog/case-studies-hub" element={<HubCaseStudies />} />
-                <Route path="/blog/entity-seo-guide" element={<EntitySeoGuide />} />
-                <Route path="/blog/semantic-seo-topical-authority" element={<SemanticSeoGuide />} />
                 <Route path="/blog/website-content-ai-suchmaschinen" element={<WebsiteContentAiSuchmaschinen />} />
                 <Route path="/blog/local-seo-strategie-kleine-unternehmen" element={<LocalSeoStrategieKleineUnternehmen />} />
                 <Route path="/blog/local-seo-ranking-faktoren-erklaert" element={<LocalSeoRankingFaktorenErklaert />} />
@@ -436,9 +429,6 @@ const App = () => (
                 <Route path="/blog/local-seo-checkliste-komplett" element={<LocalSeoChecklisteKomplett />} />
                 <Route path="/blog/google-maps-seo-hub" element={<HubGoogleMapsSeo />} />
                 <Route path="/blog/wie-google-maps-ranking-funktioniert" element={<WieGoogleMapsRankingFunktioniert />} />
-                <Route path="/blog/google-maps-konkurrenzanalyse" element={<GoogleMapsKonkurrenzanalyse />} />
-                <Route path="/blog/google-maps-ranking-case-studies" element={<GoogleMapsRankingCaseStudies />} />
-                <Route path="/blog/google-maps-audit-template" element={<GoogleMapsAuditTemplate />} />
                 <Route path="/blog/citation-tracking-template" element={<CitationTrackingTemplate />} />
                 <Route path="/blog/local-keyword-research-template" element={<LocalKeywordResearchTemplate />} />
                 <Route path="/blog/local-seo-monthly-checklist" element={<LocalSeoMonthlyChecklist />} />

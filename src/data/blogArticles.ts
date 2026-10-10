@@ -691,22 +691,22 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-konkurrenzanalyse",
     de: {
-      title: "Google Maps Konkurrenzanalyse: So analysierst du Top-Rankings",
-      metaTitle: "Google Maps Konkurrenzanalyse | Framework & Tools 2026",
-      metaDescription: "Systematische Google Maps Konkurrenzanalyse in 5 Schritten. Mit gewichtetem Vergleichs-Template, kostenlosen Tools und konkretem Aktionsplan.",
-      excerpt: "Lerne, wie du die Google Maps Rankings deiner Konkurrenten systematisch analysierst und gezielte Maßnahmen ableitest, um sie zu überholen.",
+      title: "Google-Maps-Konkurrenzanalyse: Wettbewerber vergleichen und eigene Lücken finden",
+      metaTitle: "Google-Maps-Konkurrenzanalyse: Profile vergleichen",
+      metaDescription: "Wer steht in Google Maps vor Ihnen und warum? Mit Vergleichsbogen: Wettbewerber finden, Profile, Rezensionen und Websites prüfen, Lücken in Maßnahmen umsetzen.",
+      excerpt: "Wer steht in Google Maps vor Ihnen und warum? Mit Vergleichsbogen: Wettbewerber finden, Profile, Rezensionen und Websites prüfen, Lücken in Maßnahmen umsetzen.",
       category: "Google Maps"
     },
     en: {
       title: "Google Maps Competitor Analysis: How to Analyze Top Rankings",
       metaTitle: "Google Maps Competitor Analysis | Framework & Tools 2026",
-      metaDescription: "Systematic Google Maps competitor analysis in 5 steps. With weighted comparison template, free tools, and concrete action plan.",
+      metaDescription: "Systematic Google Maps competitor analysis in 5 steps: find the businesses ahead of you, compare profiles, reviews and websites, turn gaps into actions.",
       excerpt: "Learn how to systematically analyze your competitors' Google Maps rankings and derive targeted actions to outrank them.",
       category: "Google Maps"
     },
-    readingTime: 16,
+    readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🔍",
     keywords: ["konkurrenzanalyse", "competitor analysis", "google maps", "local pack", "ranking analyse", "wettbewerber"],
     featured: false
@@ -714,22 +714,22 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-ranking-case-studies",
     de: {
-      title: "Google Maps Ranking Case Studies: 6 Branchen, 6 Erfolge",
-      metaTitle: "Google Maps Case Studies | 6 Branchen-Erfolge 2026",
-      metaDescription: "6 echte Google Maps Ranking Case Studies aus Gastronomie, Handwerk, Gesundheit, Recht, Beauty und Automotive. Mit konkreten Zahlen und Maßnahmen.",
-      excerpt: "Von unsichtbar zu Platz 1: Wie Unternehmen aus 6 verschiedenen Branchen ihr Google Maps Ranking dramatisch verbessert haben.",
+      title: "Google-Maps-Ranking-Fallstudien: Ergebnisse prüfen und selbst sauber dokumentieren",
+      metaTitle: "Google-Maps-Fallstudien prüfen und selbst erstellen",
+      metaDescription: "Woran Sie belastbare Google-Maps-Fallstudien erkennen und wie Sie selbst eine führen: Ausgangslage, Messgrößen, Änderungsprotokoll, Störfaktoren, Auswertung.",
+      excerpt: "Woran Sie belastbare Google-Maps-Fallstudien erkennen und wie Sie selbst eine führen: Ausgangslage, Messgrößen, Änderungsprotokoll, Störfaktoren, Auswertung.",
       category: "Google Maps"
     },
     en: {
-      title: "Google Maps Ranking Case Studies: 6 Industries, 6 Success Stories",
-      metaTitle: "Google Maps Case Studies | 6 Industry Success Stories 2026",
-      metaDescription: "6 real Google Maps ranking case studies from gastronomy, trades, healthcare, legal, beauty, and automotive. With concrete numbers and measures.",
-      excerpt: "From invisible to #1: How businesses from 6 different industries dramatically improved their Google Maps ranking.",
+      title: "Google Maps Ranking Case Studies: How to Check Them and Run Your Own",
+      metaTitle: "Google Maps Case Studies: Check Them, Run Your Own",
+      metaDescription: "How to tell a solid Google Maps ranking case study from a sales story, and how to document your own: baseline, metrics, change log, confounders, evaluation.",
+      excerpt: "How to tell a solid Google Maps ranking case study from a sales story, and how to document your own before and after.",
       category: "Google Maps"
     },
-    readingTime: 18,
+    readingTime: 12,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🏆",
     keywords: ["case study", "google maps ranking", "local seo erfolg", "ranking verbessern", "fallstudie", "branchenvergleich"],
     featured: true
@@ -737,10 +737,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "entity-seo-guide",
     de: {
-      title: "Entity SEO: Wie Suchmaschinen Entitäten verstehen & nutzen",
-      metaTitle: "Entity SEO Guide | Knowledge Graph optimieren 2026",
-      metaDescription: "Was ist Entity SEO? Wie Google Entitäten erkennt. Knowledge-Graph-Strategien, Schema Markup, sameAs & Praxis-Checkliste.",
-      excerpt: "Von Keyword-SEO zu Entity SEO: Wie du dein Unternehmen als Entität im Knowledge Graph etablierst und deine Sichtbarkeit in Google und AI-Suche maximierst.",
+      title: "Entity SEO für lokale Unternehmen: so erkennt Google Ihren Betrieb eindeutig",
+      metaTitle: "Entity SEO für lokale Unternehmen: der Leitfaden",
+      metaDescription: "Entity SEO verständlich erklärt: wie Google Ihren Betrieb als eindeutige Entität erkennt, welche Rolle Profil, Website und sameAs spielen und wie Sie es prüfen.",
+      excerpt: "Entity SEO verständlich erklärt: wie Google Ihren Betrieb als eindeutige Entität erkennt, welche Rolle Profil, Website und sameAs spielen und wie Sie es prüfen.",
       category: "AI & Zukunft"
     },
     en: {
@@ -750,9 +750,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "From keyword SEO to entity SEO: How to establish your business as an entity in the Knowledge Graph and maximize visibility in Google and AI search.",
       category: "AI & Future"
     },
-    readingTime: 15,
+    readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🧠",
     keywords: ["entity seo", "knowledge graph", "schema markup", "sameAs", "structured data", "ai seo", "entität"],
     featured: true
@@ -760,10 +760,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "semantic-seo-topical-authority",
     de: {
-      title: "Semantic SEO & Topical Authority: Der Komplettguide",
-      metaTitle: "Semantic SEO Guide | Topical Authority aufbauen 2026",
-      metaDescription: "Was ist Semantic SEO? Wie du mit Topic Clusters Themenautorität aufbaust, semantische Signale für Google setzt und von AI-Suchmaschinen zitiert wirst.",
-      excerpt: "Von Keyword-SEO zu Semantic SEO: Wie du mit Topic Clusters, internen Links und semantischen Signalen Themenautorität aufbaust.",
+      title: "Semantic SEO und Themenautorität: wie lokale Betriebe ihr Fachgebiet vollständig abdecken",
+      metaTitle: "Semantic SEO und Themenautorität für lokale Websites",
+      metaDescription: "Semantic SEO für lokale Betriebe: wie Google Bedeutung statt Wörter erkennt, wie Sie Ihr Thema mit Themenplan und internen Links abdecken und was Sie vermeiden.",
+      excerpt: "Semantic SEO für lokale Betriebe: wie Google Bedeutung statt Wörter erkennt, wie Sie Ihr Thema mit Themenplan und internen Links abdecken und was Sie vermeiden.",
       category: "AI & Zukunft"
     },
     en: {
@@ -773,9 +773,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "From keyword SEO to semantic SEO: How to build topical authority with topic clusters, internal links and semantic signals.",
       category: "AI & Future"
     },
-    readingTime: 16,
+    readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🔗",
     keywords: ["semantic seo", "topical authority", "topic cluster", "pillar page", "themenautorität", "interne verlinkung"],
     featured: true
@@ -784,22 +784,22 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-audit-template",
     de: {
-      title: "Google Maps Audit Template: Vollständige Checkliste mit 75+ Punkten",
-      metaTitle: "Google Maps Audit Template | 75+ Prüfpunkte Checkliste 2026",
-      metaDescription: "Kostenloses Google Maps Audit Template mit 75+ Prüfpunkten in 10 Kategorien. Interaktive Checkliste mit Fortschrittsspeicherung und Priorisierung.",
-      excerpt: "Systematisches Google Maps Audit mit 75+ Prüfpunkten: GBP-Profil, Bewertungen, Citations, Schema Markup und mehr — interaktiv mit Fortschritt.",
+      title: "Google-Maps-Audit: die Vorlage zum Ausfüllen für Ihr Unternehmensprofil",
+      metaTitle: "Google-Maps-Audit: Vorlage mit Prüfpunkten",
+      metaDescription: "Vorlage für Ihr Google-Maps-Audit: sieben Prüfbögen zu Inhaberschaft, Stammdaten, Kategorien, Fotos, Rezensionen, Sichtbarkeit und Website, mit Auswertung.",
+      excerpt: "Vorlage für Ihr Google-Maps-Audit: sieben Prüfbögen zu Inhaberschaft, Stammdaten, Kategorien, Fotos, Rezensionen, Sichtbarkeit und Website, mit Auswertung.",
       category: "Google Maps"
     },
     en: {
-      title: "Google Maps Audit Template: Complete Checklist with 75+ Points",
-      metaTitle: "Google Maps Audit Template | 75+ Checkpoint Checklist 2026",
-      metaDescription: "Free Google Maps audit template with 75+ checkpoints in 10 categories. Interactive checklist with progress saving and prioritization.",
-      excerpt: "Systematic Google Maps audit with 75+ checkpoints: GBP profile, reviews, citations, schema markup and more — interactive with progress tracking.",
+      title: "Google Maps Audit Template: Seven Worksheets for Your Business Profile",
+      metaTitle: "Google Maps Audit Template: Seven Worksheets",
+      metaDescription: "Google Maps audit template with seven worksheets: ownership, core data, categories, photos, reviews, visibility and website, plus how to prioritise the results.",
+      excerpt: "Seven worksheets to audit your Google Business Profile and Maps visibility, with a clear order for fixing what you find.",
       category: "Google Maps"
     },
     readingTime: 12,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🗺️",
     keywords: ["google maps audit", "maps audit template", "local seo audit", "gbp audit", "google maps checkliste", "maps ranking audit"],
     featured: false
