@@ -150,7 +150,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-01-09",
-    updatedAt: "2026-10-09",
+    updatedAt: "2026-10-10",
     icon: "💡",
     keywords: ["kostenloses seo", "seo kostenlos", "gratis seo tools", "seo für anfänger", "local seo kostenlos", "seo lernen"],
     featured: true
@@ -1169,10 +1169,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-steuerberater",
     de: {
-      title: "Local SEO für Steuerberater & Buchhalter: Mandanten gewinnen",
-      metaTitle: "Local SEO für Steuerberater | Mandantengewinnung 2026",
-      metaDescription: "Wie Steuerberater und Buchhalter durch Local SEO neue Mandanten gewinnen. Steuer-Keywords, Branchenportale und E-E-A-T für Finanzexperten.",
-      excerpt: "Der Branchenguide für Steuerberater: So finden potenzielle Mandanten Ihre Kanzlei.",
+      title: "Local SEO für Steuerberater: Mandanten gewinnen im Rahmen von StBerG und BOStB",
+      metaTitle: "Local SEO für Steuerberater: Profil, Berufsrecht, Anfragen",
+      metaDescription: "Local SEO für Steuerkanzleien: Werbung nach § 57a StBerG und § 9 BOStB, Fachberater, Google-Profil je Standort, Leistungsseiten und sichere Dokumenten-Uploads.",
+      excerpt: "Local SEO für Steuerkanzleien: Werbung nach § 57a StBerG und § 9 BOStB, Fachberater, Google-Profil je Standort, Leistungsseiten und sichere Dokumenten-Uploads.",
       category: "Branchen"
     },
     en: {
@@ -1182,9 +1182,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The industry guide for tax consultants: How potential clients find your practice.",
       category: "Industries"
     },
-    readingTime: 15,
+    readingTime: 13,
     publishedAt: "2026-01-15",
-    updatedAt: "2026-01-15",
+    updatedAt: "2026-10-10",
     icon: "📊",
     keywords: ["steuerberater seo", "buchhalter marketing", "local seo steuerberater", "mandantengewinnung"],
     featured: false
@@ -1734,10 +1734,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "review-schema-implementierung",
     de: {
-      title: "Review Schema implementieren: Bewertungssterne in Google bekommen",
-      metaTitle: "Review Schema Markup | Sterne in Google Suche 2026",
-      metaDescription: "Review & AggregateRating Schema richtig implementieren: JSON-LD Code-Beispiele, Google-Richtlinien und Branchenbeispiele. Sterne in den SERPs!",
-      excerpt: "So implementieren Sie Review Schema korrekt und bekommen Bewertungssterne in den Google-Suchergebnissen – mit kopierfertigen Code-Beispielen.",
+      title: "Review Schema richtig einsetzen: Wann Google Bewertungssterne zeigt",
+      metaTitle: "Review Schema: Wann Google Sterne zeigt und wann nicht",
+      metaDescription: "Review- und AggregateRating-Markup ehrlich erklärt: warum eigene Bewertungen lokaler Betriebe keine Sterne bringen, wo Markup erlaubt ist und wie Sie es testen.",
+      excerpt: "Review- und AggregateRating-Markup ehrlich erklärt: warum eigene Bewertungen lokaler Betriebe keine Sterne bringen, wo Markup erlaubt ist und wie Sie es testen.",
       category: "Technik"
     },
     en: {
@@ -1747,9 +1747,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How to implement Review Schema correctly and get star ratings in Google search results – with copy-ready code examples.",
       category: "Technical"
     },
-    readingTime: 20,
+    readingTime: 11,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-03-05",
+    updatedAt: "2026-10-10",
     icon: "⭐",
     keywords: ["review schema", "aggregaterating", "sterne google", "rich snippets bewertungen", "schema markup bewertungen", "json-ld review"],
     featured: false
@@ -2717,10 +2717,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-business-messaging",
     de: {
-      title: "Google Business Messaging: Kundenkommunikation optimal nutzen",
-      metaTitle: "Google Business Messaging | Chat-Guide 2026",
-      metaDescription: "So nutzt du Google Business Messaging für bessere Kundenkommunikation. Einrichtung, Best Practices und Automatisierung.",
-      excerpt: "Der komplette Guide zur Nutzung von Google Business Messaging für mehr Kundeninteraktion.",
+      title: "Google Business Messaging eingestellt: So erreichen Kunden Sie heute",
+      metaTitle: "Google Business Chat eingestellt: Was jetzt funktioniert",
+      metaDescription: "Google hat den Chat im Unternehmensprofil am 31. Juli 2024 beendet. Was Kunden heute sehen und welche Kontaktwege Anfragen bringen: Telefon, WhatsApp, Formular.",
+      excerpt: "Google hat den Chat im Unternehmensprofil am 31. Juli 2024 beendet. Was Kunden heute sehen und welche Kontaktwege Anfragen bringen: Telefon, WhatsApp, Formular.",
       category: "Google Business"
     },
     en: {
@@ -2730,9 +2730,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide to using Google Business Messaging for more customer interaction.",
       category: "Google Business"
     },
-    readingTime: 12,
+    readingTime: 9,
     publishedAt: "2026-01-30",
-    updatedAt: "2026-01-30",
+    updatedAt: "2026-10-10",
     icon: "💬",
     keywords: ["google business messaging", "gbp chat", "kundenkommunikation", "google chat", "messaging einrichten"],
     featured: false
@@ -3085,10 +3085,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "gbp-verifizierung-fehlgeschlagen",
     de: {
-      title: "Google Business Verifizierung schlägt fehl – 8 Lösungen für alle Probleme (2026)",
-      metaTitle: "GBP Verifizierung fehlgeschlagen? 8 Lösungen | Guide 2026",
-      metaDescription: "Google Business Verifizierung klappt nicht? Postkarte, Code oder Video abgelehnt? 8 Lösungen mit interaktivem Problemlöser-Wizard.",
-      excerpt: "Der komplette Troubleshooting-Guide für alle Google Business Verifizierungsprobleme mit interaktivem Problemlöser.",
+      title: "Google-Profil lässt sich nicht bestätigen: Ursachen und Lösungen",
+      metaTitle: "Google-Profil Bestätigung fehlgeschlagen: was jetzt hilft",
+      metaDescription: "Bestätigung des Google Unternehmensprofils abgelehnt oder hängt fest? Ursachen, Anforderungen an das Video, Prüfzeiten, Support und was Sie lassen sollten.",
+      excerpt: "Bestätigung des Google Unternehmensprofils abgelehnt oder hängt fest? Ursachen, Anforderungen an das Video, Prüfzeiten, Support und was Sie lassen sollten.",
       category: "Troubleshooting"
     },
     en: {
@@ -3098,9 +3098,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete troubleshooting guide for all Google Business verification problems with interactive problem solver.",
       category: "Troubleshooting"
     },
-    readingTime: 12,
+    readingTime: 11,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-02-08",
+    updatedAt: "2026-10-10",
     icon: "✅",
     keywords: ["gbp verifizierung", "google verifizierung fehlgeschlagen", "postkarte nicht erhalten", "verifizierungscode", "video verifizierung"]
   },
@@ -3396,10 +3396,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "ai-search-vs-traditional-search",
     de: {
-      title: "AI-Suche vs. Traditionelle Suche: Der komplette Vergleich für lokale Unternehmen",
-      metaTitle: "AI-Suche vs Traditionelle Suche | Vergleich 2026",
-      metaDescription: "AI-Suche vs. traditionelle Google-Suche: Zero-Click, GEO-Strategien, Ranking-Faktoren und was lokale Unternehmen jetzt tun müssen. Mit Vergleichstabelle.",
-      excerpt: "ChatGPT, AI Overviews und Perplexity vs. 10 blaue Links: Wie sich die Suche verändert und was lokale Unternehmen tun sollten.",
+      title: "KI-Suche oder klassische Suche: Was lokale Betriebe anders machen sollten",
+      metaTitle: "KI-Suche vs. klassische Suche: Was lokal anders ist",
+      metaDescription: "KI-Suche und klassische Google-Suche im Vergleich: wie Antworten entstehen, wie Quellen verlinkt werden, was Sie beeinflussen und messen können. Mit Tabelle.",
+      excerpt: "KI-Suche und klassische Google-Suche im Vergleich: wie Antworten entstehen, wie Quellen verlinkt werden, was Sie beeinflussen und messen können. Mit Tabelle.",
       category: "AI & Zukunft"
     },
     en: {
@@ -3409,9 +3409,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "ChatGPT, AI Overviews and Perplexity vs. 10 blue links: How search is changing and what local businesses should do.",
       category: "AI & Future"
     },
-    readingTime: 16,
+    readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🤖",
     keywords: ["ai suche vs traditionelle suche", "ai search vs traditional search", "google ai overviews", "zero click search", "geo optimierung", "chatgpt local seo", "ai suchmaschinen vergleich"],
     featured: false
@@ -3419,10 +3419,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "seo-ferienwohnungen",
     de: {
-      title: "SEO für Ferienwohnungen: Schweiz, Bayern & Österreich – Raus aus der OTA-Falle",
-      metaTitle: "SEO Ferienwohnungen | Direktbuchungen DACH 2026",
-      metaDescription: "Wie Ferienwohnungen durch SEO bis zu 13.500 CHF OTA-Provisionen sparen. Google My Business, AI Search & regionale Strategien für St. Moritz, Zermatt, Bayern.",
-      excerpt: "15 % OTA-Provision bei jeder Buchung? SEO für Ferienwohnungen bringt Direktbuchungen, reduziert Abhängigkeit und steigert die Marge.",
+      title: "SEO für Ferienwohnungen: so kommen Gäste direkt zu Ihnen",
+      metaTitle: "SEO für Ferienwohnungen: mehr Direktbuchungen",
+      metaDescription: "SEO für Ferienwohnungen in DE, AT und CH: warum es meist kein Google-Profil gibt, wie die eigene Website Direktbuchungen bringt und was Portale leisten.",
+      excerpt: "SEO für Ferienwohnungen in DE, AT und CH: warum es meist kein Google-Profil gibt, wie die eigene Website Direktbuchungen bringt und was Portale leisten.",
       category: "Branche"
     },
     en: {
@@ -3432,9 +3432,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "15% OTA commission per booking? SEO for vacation rentals drives direct bookings, reduces dependency and boosts margins.",
       category: "Industry"
     },
-    readingTime: 14,
+    readingTime: 12,
     publishedAt: "2026-02-25",
-    updatedAt: "2026-02-25",
+    updatedAt: "2026-10-10",
     icon: "🏔️",
     keywords: ["seo ferienwohnungen", "ferienwohnung seo schweiz", "vacation rental seo", "direktbuchungen seo", "google my business ferienwohnung", "local seo tourismus"]
   },
@@ -3863,10 +3863,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "chatgpt-search-lokale-unternehmen-2026",
     de: {
-      title: "ChatGPT Search für lokale Unternehmen 2026 — der komplette Optimierungs-Guide",
-      metaTitle: "ChatGPT Search Local SEO 2026: Optimierungs-Guide & Checkliste",
-      metaDescription: "So wirst du in ChatGPT Search 2026 als lokales Unternehmen zitiert: 7 Ranking-Signale, 7-Schritte-Plan, Bing-Setup, Schema, llms.txt. Mit Checkliste.",
-      excerpt: "ChatGPT Search empfiehlt täglich Millionen lokaler Unternehmen. Hier ist der 7-Schritte-Plan, mit dem du in den Antworten landest — von robots.txt über Bing Places bis Schema und AnswerBlocks.",
+      title: "ChatGPT Search für lokale Unternehmen: Was OpenAI dokumentiert und was Sie tun können",
+      metaTitle: "ChatGPT Search für lokale Unternehmen: Was belegt ist",
+      metaDescription: "Wie lokale Betriebe in der ChatGPT-Suche erscheinen: was OpenAI dokumentiert, welche Crawler zählen, was offen ist und wie Sie Ihre Sichtbarkeit selbst prüfen.",
+      excerpt: "Wie lokale Betriebe in der ChatGPT-Suche erscheinen: was OpenAI dokumentiert, welche Crawler zählen, was offen ist und wie Sie Ihre Sichtbarkeit selbst prüfen.",
       category: "AI & Zukunft",
     },
     en: {
@@ -3876,9 +3876,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "ChatGPT Search recommends millions of local businesses daily. Here is the 7-step plan to land in its answers — from robots.txt to Bing Places, schema and answer blocks.",
       category: "AI & Future",
     },
-    readingTime: 11,
+    readingTime: 10,
     publishedAt: "2026-05-22",
-    updatedAt: "2026-05-22",
+    updatedAt: "2026-10-10",
     icon: "💬",
     keywords: [
       "chatgpt search",
@@ -3894,10 +3894,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "apple-business-connect-local-seo-2026",
     de: {
-      title: "Apple Business Connect: Local SEO für Apple Maps & Siri 2026",
-      metaTitle: "Apple Business Connect 2026: Local SEO für Apple Maps & Siri",
-      metaDescription: "Kompletter Guide zu Apple Business Connect: Einrichtung, Showcases, Siri-Optimierung und Apple-Intelligence-Vorbereitung. Für DACH-Unternehmen.",
-      excerpt: "Ein Drittel der DACH-Smartphone-Nutzer hat ein iPhone — und Apple Maps ist Standard. So richtest du Apple Business Connect ein und optimierst für Siri, Spotlight und Apple Intelligence.",
+      title: "Apple Business Connect 2026: Ihr Eintrag in Apple Karten mit Apple Business",
+      metaTitle: "Apple Business Connect 2026: Eintrag in Apple Karten",
+      metaDescription: "Apple Business Connect heißt seit April 2026 Apple Business. So beanspruchen Sie Ihren Standort in Apple Karten, pflegen Daten und nutzen Showcases in DACH.",
+      excerpt: "Apple Business Connect heißt seit April 2026 Apple Business. So beanspruchen Sie Ihren Standort in Apple Karten, pflegen Daten und nutzen Showcases in DACH.",
       category: "AI & Zukunft",
     },
     en: {
@@ -3907,9 +3907,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "A third of DACH smartphone users hold an iPhone — and Apple Maps is the default. Here is how to set up Apple Business Connect and optimize for Siri, Spotlight and Apple Intelligence.",
       category: "AI & Future",
     },
-    readingTime: 12,
+    readingTime: 10,
     publishedAt: "2026-05-22",
-    updatedAt: "2026-05-22",
+    updatedAt: "2026-10-10",
     icon: "🍎",
     keywords: [
       "apple business connect",

@@ -63,8 +63,6 @@ const ChatgptZitiertLokaleUnternehmen = lazy(() => import("./pages/blog/ChatgptZ
 const AiVisibilityIndexLocalSeoMetrik = lazy(() => import("./pages/blog/AiVisibilityIndexLocalSeoMetrik"));
 const SchemaStrategieAiRetrieval = lazy(() => import("./pages/blog/SchemaStrategieAiRetrieval"));
 const PerplexityClaudeLokaleSichtbarkeit = lazy(() => import("./pages/blog/PerplexityClaudeLokaleSichtbarkeit"));
-const ChatgptSearchLokaleUnternehmen2026 = lazy(() => import("./pages/blog/ChatgptSearchLokaleUnternehmen2026"));
-const AppleBusinessConnectLocalSeo2026 = lazy(() => import("./pages/blog/AppleBusinessConnectLocalSeo2026"));
 const RedditLocalSeoAiZitate2026 = lazy(() => import("./pages/blog/RedditLocalSeoAiZitate2026"));
 const GoogleAiModeLocalSeo2026 = lazy(() => import("./pages/blog/GoogleAiModeLocalSeo2026"));
 const BingCopilotLocalSeo2026 = lazy(() => import("./pages/blog/BingCopilotLocalSeo2026"));
@@ -97,7 +95,6 @@ const LocalSeoDoenerladen = lazy(() => import("./pages/blog/LocalSeoDoenerladen"
 const LocalSeoFriseur = lazy(() => import("./pages/blog/LocalSeoFriseur"));
 const LocalSeoImmobilienmakler = lazy(() => import("./pages/blog/LocalSeoImmobilienmakler"));
 const LocalSeoHamburg = lazy(() => import("./pages/blog/LocalSeoHamburg"));
-const LocalSeoSteuerberater = lazy(() => import("./pages/blog/LocalSeoSteuerberater"));
 const LocalSeoAutowerkstatt = lazy(() => import("./pages/blog/LocalSeoAutowerkstatt"));
 const LocalSeoFrankfurt = lazy(() => import("./pages/blog/LocalSeoFrankfurt"));
 const CoreWebVitalsLocalSeo = lazy(() => import("./pages/blog/CoreWebVitalsLocalSeo"));
@@ -118,7 +115,6 @@ const GbpFotosOptimieren = lazy(() => import("./pages/blog/GbpFotosOptimieren"))
 const LocalSeoMehrstufigUnternehmen = lazy(() => import("./pages/blog/LocalSeoMehrstufigUnternehmen"));
 const EEATLokaleUnternehmen = lazy(() => import("./pages/blog/EEATLokaleUnternehmen"));
 const LocalSeoNeugruender = lazy(() => import("./pages/blog/LocalSeoNeugruender"));
-const GoogleBusinessMessaging = lazy(() => import("./pages/blog/GoogleBusinessMessaging"));
 const LocalSeoPhysiotherapie = lazy(() => import("./pages/blog/LocalSeoPhysiotherapie"));
 const LocalSeoNotdienstKeywords = lazy(() => import("./pages/blog/LocalSeoNotdienstKeywords"));
 const GoogleBusinessKategorienGuide = lazy(() => import("./pages/blog/GoogleBusinessKategorienGuide"));
@@ -137,7 +133,6 @@ const GooglePostsRankingFaktor = lazy(() => import("./pages/blog/GooglePostsRank
 
 // Troubleshooting & neue Artikel
 const GbpSuspendiertReaktivieren = lazy(() => import("./pages/blog/GbpSuspendiertReaktivieren"));
-const GbpVerifizierungFehlgeschlagen = lazy(() => import("./pages/blog/GbpVerifizierungFehlgeschlagen"));
 const DuplicateListingEntfernen = lazy(() => import("./pages/blog/DuplicateListingEntfernen"));
 const GbpBewertungLoeschenAnleitung = lazy(() => import("./pages/blog/GbpBewertungLoeschenAnleitung"));
 const RankingPloetzlichVerschwunden = lazy(() => import("./pages/blog/RankingPloetzlichVerschwunden"));
@@ -152,11 +147,8 @@ const LocalCitations2025 = lazy(() => import("./pages/blog/LocalCitations2025"))
 const LocalSeoBackerei = lazy(() => import("./pages/blog/LocalSeoBackerei"));
 const LocalSeoHannover = lazy(() => import("./pages/blog/LocalSeoHannover"));
 const AiSearchOptimization2026 = lazy(() => import("./pages/blog/AiSearchOptimization2026"));
-const AiSearchVsTraditionalSearch = lazy(() => import("./pages/blog/AiSearchVsTraditionalSearch"));
-const SeoFerienwohnungen = lazy(() => import("./pages/blog/SeoFerienwohnungen"));
 const TechnischesLocalSeoGuide = lazy(() => import("./pages/blog/TechnischesLocalSeoGuide"));
 const LocalBusinessSchemaImplementierung = lazy(() => import("./pages/blog/LocalBusinessSchemaImplementierung"));
-const ReviewSchemaImplementierung = lazy(() => import("./pages/blog/ReviewSchemaImplementierung"));
 const LocalSeoReportingTemplate = lazy(() => import("./pages/blog/LocalSeoReportingTemplate"));
 const HubGoogleBusinessProfil = lazy(() => import("./pages/blog/HubGoogleBusinessProfil"));
 const HubBranchen = lazy(() => import("./pages/blog/HubBranchen"));
@@ -292,8 +284,6 @@ const App = () => (
                 <Route path="/blog/ai-visibility-index-local-seo-metrik" element={<AiVisibilityIndexLocalSeoMetrik />} />
                 <Route path="/blog/schema-strategie-ai-retrieval" element={<SchemaStrategieAiRetrieval />} />
                 <Route path="/blog/perplexity-claude-lokale-sichtbarkeit" element={<PerplexityClaudeLokaleSichtbarkeit />} />
-                <Route path="/blog/chatgpt-search-lokale-unternehmen-2026" element={<ChatgptSearchLokaleUnternehmen2026 />} />
-                <Route path="/blog/apple-business-connect-local-seo-2026" element={<AppleBusinessConnectLocalSeo2026 />} />
                 <Route path="/blog/reddit-local-seo-ai-zitate-2026" element={<RedditLocalSeoAiZitate2026 />} />
                 <Route path="/blog/google-ai-mode-local-seo-2026" element={<GoogleAiModeLocalSeo2026 />} />
                 <Route path="/blog/bing-copilot-local-seo-2026" element={<BingCopilotLocalSeo2026 />} />
@@ -339,7 +329,6 @@ const App = () => (
                 <Route path="/blog/local-seo-friseursalon-beauty" element={<LocalSeoFriseur />} />
                 <Route path="/blog/local-seo-immobilienmakler" element={<LocalSeoImmobilienmakler />} />
                 <Route path="/blog/local-seo-hamburg" element={<LocalSeoHamburg />} />
-                <Route path="/blog/local-seo-steuerberater" element={<LocalSeoSteuerberater />} />
                 <Route path="/blog/local-seo-autowerkstatt" element={<LocalSeoAutowerkstatt />} />
                 <Route path="/blog/local-seo-frankfurt" element={<LocalSeoFrankfurt />} />
                 <Route path="/blog/core-web-vitals-local-seo" element={<CoreWebVitalsLocalSeo />} />
@@ -360,7 +349,6 @@ const App = () => (
                 <Route path="/blog/local-seo-mehrstufig-unternehmen" element={<LocalSeoMehrstufigUnternehmen />} />
                 <Route path="/blog/e-e-a-t-lokale-unternehmen" element={<EEATLokaleUnternehmen />} />
                 <Route path="/blog/lokale-seo-fuer-neugruender" element={<LocalSeoNeugruender />} />
-                <Route path="/blog/google-business-messaging" element={<GoogleBusinessMessaging />} />
                 <Route path="/blog/local-seo-physiotherapie" element={<LocalSeoPhysiotherapie />} />
                 <Route path="/blog/local-seo-notdienst-keywords" element={<LocalSeoNotdienstKeywords />} />
                 <Route path="/blog/google-business-kategorien-guide" element={<GoogleBusinessKategorienGuide />} />
@@ -377,7 +365,6 @@ const App = () => (
                 <Route path="/blog/local-seo-voice-search" element={<LocalSeoVoiceSearch />} />
                 <Route path="/blog/google-posts-ranking-faktor" element={<GooglePostsRankingFaktor />} />
                 <Route path="/blog/gbp-suspendiert-reaktivieren" element={<GbpSuspendiertReaktivieren />} />
-                <Route path="/blog/gbp-verifizierung-fehlgeschlagen" element={<GbpVerifizierungFehlgeschlagen />} />
                 <Route path="/blog/duplicate-listing-entfernen" element={<DuplicateListingEntfernen />} />
                 <Route path="/blog/gbp-bewertung-loeschen-anleitung" element={<GbpBewertungLoeschenAnleitung />} />
                 <Route path="/blog/ranking-ploetzlich-verschwunden" element={<RankingPloetzlichVerschwunden />} />
@@ -392,11 +379,8 @@ const App = () => (
                 <Route path="/blog/local-seo-baeckerei" element={<LocalSeoBackerei />} />
                 <Route path="/blog/local-seo-hannover" element={<LocalSeoHannover />} />
                 <Route path="/blog/ai-search-optimization-2026" element={<AiSearchOptimization2026 />} />
-                <Route path="/blog/ai-search-vs-traditional-search" element={<AiSearchVsTraditionalSearch />} />
-                <Route path="/blog/seo-ferienwohnungen" element={<SeoFerienwohnungen />} />
                 <Route path="/blog/technisches-local-seo-guide" element={<TechnischesLocalSeoGuide />} />
                 <Route path="/blog/localbusiness-schema-implementierung" element={<LocalBusinessSchemaImplementierung />} />
-                <Route path="/blog/review-schema-implementierung" element={<ReviewSchemaImplementierung />} />
                 <Route path="/blog/local-seo-reporting-template" element={<LocalSeoReportingTemplate />} />
                 <Route path="/blog/google-business-profil-hub" element={<HubGoogleBusinessProfil />} />
                 <Route path="/blog/local-seo-branchen-hub" element={<HubBranchen />} />

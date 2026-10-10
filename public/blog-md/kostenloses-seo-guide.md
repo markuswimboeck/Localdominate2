@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/kostenloses-seo-guide
 markdown_url: https://localdominate.org/blog-md/kostenloses-seo-guide.md
 language: de-DE
 published: 2026-01-09
-updated: 2026-10-09
+updated: 2026-10-10
 reading_time_minutes: 13
 category: "Grundlagen"
 author: LocalDominate Redaktion
@@ -115,7 +115,7 @@ Jede wichtige Leistung braucht eine eigene Seite mit klarem Titel, verständlich
 5. **Bilder beschreiben.** Dateinamen und Alt-Texte, die das Bild beschreiben („Doppelzimmer mit Seeblick, Hotel Muster“), helfen Google und Menschen mit Screenreader.
 6. **Interne Links mit klarem Text.** Verlinken Sie verwandte Seiten mit beschreibendem Linktext statt „hier klicken“. Google nutzt den Linktext, um das Ziel zu verstehen.
 
-> **Das können Sie sich sparen:** Das Keywords-Meta-Tag nutzt Google laut eigenem Startleitfaden nicht. Und FAQ-Markup bringt seit August 2023 nur noch Behörden- und Gesundheitswebsites zusätzliche Fragen in der Suche, Anleitungs-Ergebnisse (HowTo) zeigt Google gar nicht mehr. Strukturierte Daten vom Typ LocalBusiness bleiben dagegen sinnvoll, siehe [Schema Markup für Local SEO](https://localdominate.org/blog/schema-markup-local-seo).
+> **Das können Sie sich sparen:** Das Keywords-Meta-Tag nutzt Google laut eigenem Startleitfaden nicht. FAQ-Ergebnisse zeigt Google seit dem 7. Mai 2026 gar nicht mehr in der Suche, Anleitungs-Ergebnisse (HowTo) schon seit 2023 nicht mehr. Strukturierte Daten vom Typ LocalBusiness bleiben dagegen sinnvoll, siehe [Schema Markup für Local SEO](https://localdominate.org/blog/schema-markup-local-seo).
 
 ## Suchbegriffe finden ohne bezahlte Tools
 
@@ -225,4 +225,4 @@ Ja. Handwerker und mobile Dienste blenden ihre Adresse aus und geben ein Einzugs
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-09. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org

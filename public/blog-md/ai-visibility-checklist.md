@@ -108,7 +108,7 @@ Strukturierte Daten vom Typ LocalBusiness helfen Suchmaschinen beim Zuordnen von
 - **LocalBusiness** oder ein passender Untertyp auf der Startseite oder Kontaktseite, mit Name, Adresse, Telefon und Öffnungszeiten. Anleitung im Artikel [LocalBusiness-Schema](https://localdominate.org/blog/localbusiness-schema-implementierung).
 - **Sichtbar und gleich:** Die Angaben im Markup müssen laut Google dem sichtbaren Text der Seite entsprechen.
 - **Testen:** nach jeder Änderung mit dem Test für Rich-Suchergebnisse prüfen.
-- **Keine Wunderwirkung erwarten:** FAQ-Ergebnisse zeigt Google seit 2023 nur noch für bekannte Behörden- und Gesundheitswebsites. Anleitungs-Ergebnisse (HowTo) hat Google im September 2023 ganz eingestellt. Fragen und Antworten auf der Seite sind trotzdem nützlich, als normaler Text.
+- **Keine Wunderwirkung erwarten:** FAQ-Ergebnisse zeigt Google seit dem 7. Mai 2026 gar nicht mehr, vorher seit 2023 nur für bekannte Behörden- und Gesundheitswebsites. Anleitungs-Ergebnisse (HowTo) hat Google im September 2023 ganz eingestellt. Fragen und Antworten auf der Seite sind trotzdem nützlich, als normaler Text.
 
 ## Bereich 5: Profile, Bewertungen und Erwähnungen
 

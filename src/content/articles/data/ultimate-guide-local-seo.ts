@@ -142,7 +142,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Was strukturierte Daten nicht leisten",
-          text: "Sternebewertungen aus eigenem Review-Markup zeigt Google für lokale Unternehmen auf deren eigener Website nicht an. FAQ-Ergebnisse in der Suche gibt es seit 2023 fast nur noch für Behörden- und Gesundheitsseiten. Strukturierte Daten helfen beim Verstehen, sie sind kein Trick für mehr Platz in der Suche.",
+          text: "Sternebewertungen aus eigenem Review-Markup zeigt Google für lokale Unternehmen auf deren eigener Website nicht an. FAQ-Ergebnisse zeigt Google seit dem 7. Mai 2026 gar nicht mehr in der Suche. Strukturierte Daten helfen beim Verstehen, sie sind kein Trick für mehr Platz in der Suche.",
         },
         {
           t: "p",
@@ -355,7 +355,7 @@ const article: V4Article = {
     { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
     { title: "Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
     { title: "Strukturierte Daten für lokale Unternehmen (LocalBusiness)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/local-business?hl=de" },
-    { title: "Änderungen an Rich-Suchergebnissen für Anleitungen und FAQs (August 2023)", publisher: "Google Search Central Blog", url: "https://developers.google.com/search/blog/2023/08/howto-faq-changes?hl=de" },
+    { title: "Updates zur Google-Suchdokumentation (FAQ-Rich-Results eingestellt, Mai 2026)", publisher: "Google Search Central", url: "https://developers.google.com/search/updates" },
     { title: "With Google Q&A gone, you need a Maps “Ask a question” strategy", publisher: "Whitespark", url: "https://whitespark.ca/blog/with-google-qa-gone-you-need-a-maps-ask-a-question-strategy/" },
     { title: "Local Search Ranking Factors (Expertenumfrage)", publisher: "Whitespark", url: "https://whitespark.ca/local-search-ranking-factors/" },
     { title: "Digitale-Dienste-Gesetz (DDG), § 5 Allgemeine Informationspflichten", publisher: "Bundesministerium der Justiz, gesetze-im-internet.de", url: "https://www.gesetze-im-internet.de/ddg/__5.html" },
