@@ -91,11 +91,6 @@ const GeoContentBriefing2026 = lazy(() => import("./pages/blog/GeoContentBriefin
 const WhatsappBusinessLocalSeo2026 = lazy(() => import("./pages/blog/WhatsappBusinessLocalSeo2026"));
 
 const LocalSeoAnwaelteKanzleien = lazy(() => import("./pages/blog/LocalSeoAnwaelteKanzleien"));
-const LocalSeoAuditCheckliste = lazy(() => import("./pages/blog/LocalSeoAuditCheckliste"));
-const LocalSeoSchweiz = lazy(() => import("./pages/blog/LocalSeoSchweiz"));
-const LocalSeoZuerich = lazy(() => import("./pages/blog/LocalSeoZuerich"));
-const LocalSeoMuenchen = lazy(() => import("./pages/blog/LocalSeoMuenchen"));
-const LocalSeoAerzte = lazy(() => import("./pages/blog/LocalSeoAerzte"));
 const LocalSeoHotels = lazy(() => import("./pages/blog/LocalSeoHotels"));
 const LocalSeoFitness = lazy(() => import("./pages/blog/LocalSeoFitness"));
 const SchemaMarkupLocalSeo = lazy(() => import("./pages/blog/SchemaMarkupLocalSeo"));
@@ -355,11 +350,6 @@ const App = () => (
                 <Route path="/seo-lexikon" element={<SeoLexikon />} />
                 <Route path="/blog" element={<Blog />} />
                 <Route path="/blog/local-seo-anwaelte-kanzleien" element={<LocalSeoAnwaelteKanzleien />} />
-                <Route path="/blog/local-seo-audit-checkliste" element={<LocalSeoAuditCheckliste />} />
-                <Route path="/blog/local-seo-schweiz" element={<LocalSeoSchweiz />} />
-                <Route path="/blog/local-seo-zuerich" element={<LocalSeoZuerich />} />
-                <Route path="/blog/local-seo-muenchen" element={<LocalSeoMuenchen />} />
-                <Route path="/blog/local-seo-aerzte-praxen" element={<LocalSeoAerzte />} />
                 <Route path="/blog/local-seo-hotels" element={<LocalSeoHotels />} />
                 <Route path="/blog/local-seo-fitness" element={<LocalSeoFitness />} />
                 <Route path="/blog/schema-markup-local-seo" element={<SchemaMarkupLocalSeo />} />
