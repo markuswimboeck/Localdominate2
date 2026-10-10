@@ -90,7 +90,7 @@ Das Profil zeigt, dass es Sie gibt. Die Website erklärt, was Sie genau anbieten
 - **Schnell und mobil bedienbar.** Lokale Suchen passieren oft unterwegs. Telefonnummer und Route müssen mit einem Tipp erreichbar sein.
 - **Impressum und Kontakt.** In Deutschland verlangt § 5 Digitale-Dienste-Gesetz (seit Mai 2024, früher Telemediengesetz) ein vollständiges Impressum. Es ist zugleich eine Quelle für einheitliche Firmendaten.
 
-> **Was strukturierte Daten nicht leisten:** Sternebewertungen aus eigenem Review-Markup zeigt Google für lokale Unternehmen auf deren eigener Website nicht an. FAQ-Ergebnisse in der Suche gibt es seit 2023 fast nur noch für Behörden- und Gesundheitsseiten. Strukturierte Daten helfen beim Verstehen, sie sind kein Trick für mehr Platz in der Suche.
+> **Was strukturierte Daten nicht leisten:** Sternebewertungen aus eigenem Review-Markup zeigt Google für lokale Unternehmen auf deren eigener Website nicht an. FAQ-Ergebnisse zeigt Google seit dem 7. Mai 2026 gar nicht mehr in der Suche. Strukturierte Daten helfen beim Verstehen, sie sind kein Trick für mehr Platz in der Suche.
 
 Welche Begriffe Ihre Kunden tatsächlich suchen, finden Sie mit der Methode aus [Local SEO Keywords finden](https://localdominate.org/blog/local-seo-keywords-finden). Wie das für einzelne Branchen aussieht, zeigen [Local SEO für Handwerker](https://localdominate.org/blog/local-seo-handwerker) und [Local SEO für Restaurants](https://localdominate.org/blog/local-seo-fuer-restaurants).
 
@@ -233,7 +233,7 @@ Jeder Standort mit Kundenverkehr bekommt ein eigenes Profil und eine eigene Stan
 - [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
 - [Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe
 - [Strukturierte Daten für lokale Unternehmen (LocalBusiness)](https://developers.google.com/search/docs/appearance/structured-data/local-business?hl=de), Google Search Central
-- [Änderungen an Rich-Suchergebnissen für Anleitungen und FAQs (August 2023)](https://developers.google.com/search/blog/2023/08/howto-faq-changes?hl=de), Google Search Central Blog
+- [Updates zur Google-Suchdokumentation (FAQ-Rich-Results eingestellt, Mai 2026)](https://developers.google.com/search/updates), Google Search Central
 - [With Google Q&A gone, you need a Maps “Ask a question” strategy](https://whitespark.ca/blog/with-google-qa-gone-you-need-a-maps-ask-a-question-strategy/), Whitespark
 - [Local Search Ranking Factors (Expertenumfrage)](https://whitespark.ca/local-search-ranking-factors/), Whitespark
 - [Digitale-Dienste-Gesetz (DDG), § 5 Allgemeine Informationspflichten](https://www.gesetze-im-internet.de/ddg/__5.html), Bundesministerium der Justiz, gesetze-im-internet.de

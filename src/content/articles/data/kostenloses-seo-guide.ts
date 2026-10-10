@@ -20,7 +20,7 @@ const article: V4Article = {
     "Kostenloses SEO braucht vor allem regelmäßige Zeit. Planen Sie feste Termine ein, statt alles an einem Wochenende zu erledigen.",
   ],
   publishedAt: "2026-01-09",
-  updatedAt: "2026-10-09",
+  updatedAt: "2026-10-10",
   readingTime: 13,
   sections: [
     {
@@ -199,7 +199,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Das können Sie sich sparen",
-          text: "Das Keywords-Meta-Tag nutzt Google laut eigenem Startleitfaden nicht. Und FAQ-Markup bringt seit August 2023 nur noch Behörden- und Gesundheitswebsites zusätzliche Fragen in der Suche, Anleitungs-Ergebnisse (HowTo) zeigt Google gar nicht mehr. Strukturierte Daten vom Typ LocalBusiness bleiben dagegen sinnvoll, siehe [Schema Markup für Local SEO](/blog/schema-markup-local-seo).",
+          text: "Das Keywords-Meta-Tag nutzt Google laut eigenem Startleitfaden nicht. FAQ-Ergebnisse zeigt Google seit dem 7. Mai 2026 gar nicht mehr in der Suche, Anleitungs-Ergebnisse (HowTo) schon seit 2023 nicht mehr. Strukturierte Daten vom Typ LocalBusiness bleiben dagegen sinnvoll, siehe [Schema Markup für Local SEO](/blog/schema-markup-local-seo).",
         },
       ],
     },

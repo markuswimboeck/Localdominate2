@@ -224,7 +224,7 @@ const article: V4Article = {
             ["Feste Zahl an Beiträgen und Fotos pro Monat", "Google nennt keine solche Zahl und bestätigt keinen Ranking-Effekt"],
             ["Fotos mit GPS-Daten versehen", "Google nennt das in seiner Hilfe nicht als Faktor"],
             ["Keywords in Antworten auf Bewertungen einbauen", "Kein Beleg für einen Nutzen. Antworten sollen für Menschen geschrieben sein"],
-            ["FAQ-Markup für Suchergebnisse pflegen", "FAQ-Ergebnisse zeigt Google seit 2023 nur noch für bekannte Behörden- und Gesundheitswebsites"],
+            ["FAQ-Markup für Suchergebnisse pflegen", "FAQ-Ergebnisse zeigt Google seit dem 7. Mai 2026 gar nicht mehr"],
           ],
         },
       ],
