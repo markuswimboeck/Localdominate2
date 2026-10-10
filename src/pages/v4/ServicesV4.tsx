@@ -10,6 +10,7 @@ import { FullProject } from "@/components/v4/services/FullProject";
 import { OfferCard } from "@/components/v4/services/OfferCard";
 import { OfferIndex } from "@/components/v4/services/OfferIndex";
 import { ServicesFaq } from "@/components/v4/services/ServicesFaq";
+import { AiTeaser } from "@/components/v4/ai/AiTeaser";
 import { HERO_OFFER_ORDER, HERO_TERMS } from "@/data/v4HomeData";
 import { SERVICES_FAQ, faqEntries } from "@/data/v4Faq";
 import { OFFERS } from "@/data/v4Offers";
@@ -164,6 +165,9 @@ export default function ServicesV4() {
           <FullProject />
         </div>
       </StateField>
+
+      {/* 03b AI CONSULTING: link to the AI landing page */}
+      <AiTeaser lang="en" />
 
       {/* 04 HOW WE WORK: the terms, once */}
       <StateField field="light" as="section" className="border-t border-v4-ink/10" aria-labelledby="services-how">
