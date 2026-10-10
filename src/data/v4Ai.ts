@@ -48,8 +48,8 @@ const P = AI_PRICES;
 /** 1490 -> "1,490" (en) or "1.490" (de). Written by hand so it never depends on locale data. */
 const amount = (value: number, sep: string): string => String(value).replace(/\B(?=(\d{3})+(?!\d))/g, sep);
 /** On screen the figure and the euro sign stay on one line (no-break space). */
-const eurEn = (value: number): string => `${amount(value, ",")} €`;
-const eurDe = (value: number): string => `${amount(value, ".")} €`;
+const eurEn = (value: number): string => `${amount(value, ",")}\u00A0€`;
+const eurDe = (value: number): string => `${amount(value, ".")}\u00A0€`;
 const plainEn = (value: number): string => `${amount(value, ",")} €`;
 const plainDe = (value: number): string => `${amount(value, ".")} €`;
 
