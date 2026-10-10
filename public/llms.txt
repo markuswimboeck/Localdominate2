@@ -19,6 +19,7 @@ The canonical website is https://localdominate.org. The main pages are in Britis
 - [Services](https://localdominate.org/services): Four fixed-price offers and the full growth project (prices below).
 - [Work](https://localdominate.org/work): Selected projects, each labelled for what it is.
 - [Industries](https://localdominate.org/industries): Hotels and guesthouses, holiday rentals, trades, premium local services.
+- [AI consulting](https://localdominate.org/ai): Which tasks AI can take off a team, and the workflows built for it. Free AI task check; AI Potential Audit 1,490 EUR (credited in full against a Sprint or the System booked within 60 days); Claude Team Onboarding 2,900 EUR for up to 10 people; Workflow Sprint from 4,900 EUR; AI Operating System from 9,900 EUR; AI Care from 690 EUR per month. Net prices. LocalDominate is independent, not an Anthropic partner. German version: https://localdominate.org/de/ki
 - [Creators](https://localdominate.org/creators): Portfolio and media kit pages for creators.
 - [About](https://localdominate.org/about): Founder Markus Wimböck, career and working principles.
 - [Insights](https://localdominate.org/insights): Guides on local SEO, Google Business Profile, reviews and AI search (mostly German).

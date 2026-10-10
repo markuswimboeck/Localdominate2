@@ -9,6 +9,8 @@
     { "path": "/approach/launch", "kicker": "Approach · Step 5 of 7", "headline": "Launch with campaigns, SEO and PR that reach the right people.", "meta": "Launch" },
     { "path": "/approach/grow", "kicker": "Approach · Step 6 of 7", "headline": "Grow by fixing what happens after the visit.", "meta": "Grow" },
     { "path": "/approach/scale", "kicker": "Approach · Step 7 of 7", "headline": "Scale into new markets and new revenue without starting over.", "meta": "Scale" },
+    { "path": "/ai", "kicker": "AI consulting · Claude onboarding", "headline": "Find the work AI can take off your team.", "meta": "Free AI task check" },
+    { "path": "/de/ki", "kicker": "KI-Beratung · Claude-Onboarding", "headline": "Welche Arbeit kann KI Ihrem Team abnehmen?", "meta": "Kostenloser KI-Check" },
     { "path": "/de", "kicker": "DACH · Direktbuchung", "headline": "Ihre eigene Buchungsseite für Hotel und Pension.", "meta": "Festpreis · in 5 Tagen" },
     { "path": "/blog", "kicker": "Insights", "headline": "Local SEO, Google Maps and AI visibility, explained.", "meta": "Blog" },
     { "path": "/restaurant-marketing", "kicker": "Restaurants", "headline": "Mehr Gäste durch digitale Präsenz.", "meta": "Restaurant Marketing" },

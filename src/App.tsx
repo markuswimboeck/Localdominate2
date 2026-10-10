@@ -228,6 +228,8 @@ const InsightsV4 = lazyV4Page("/insights");
 const AboutV4 = lazyV4Page("/about");
 const StartProjectV4 = lazyV4Page("/start-a-project");
 const DeV4 = lazyV4Page("/de");
+const AiV4 = lazyV4Page("/ai");
+const AiDeV4 = lazyV4Page("/de/ki");
 // Blog articles already migrated to the V4 layout (src/content/articles/data). Their routes come
 // before the old blog routes below.
 const V4_ARTICLE_PAGES = V4_ARTICLE_SLUGS.map((slug) => [slug, lazyV4Page(v4ArticlePath(slug))] as const);
@@ -272,6 +274,8 @@ const App = () => (
                 <Route path="/about" element={<AboutV4 />} />
                 <Route path="/start-a-project" element={<StartProjectV4 />} />
                 <Route path="/de" element={<DeV4 />} />
+                <Route path="/ai" element={<AiV4 />} />
+                <Route path="/de/ki" element={<AiDeV4 />} />
                 <Route path={PILLAR_BASE} element={<ApproachV4 />} />
                 {PILLAR_INDEX.map((p) => (
                   <Route key={p.id} path={pillarPath(p.id)} element={<PillarV4 />} />

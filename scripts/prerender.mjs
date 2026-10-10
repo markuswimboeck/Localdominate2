@@ -40,7 +40,7 @@ const LOCALE = "en-US";
 // URLs but are not part of the baseline, so seo-check does not compare them.
 const PILLAR_IDS = ["diagnose", "position", "create", "build", "launch", "grow", "scale"]; // keep in sync with src/data/v4PillarIndex.ts
 const EXTRA_PATHS = ["/services", "/work", "/approach", ...PILLAR_IDS.map((id) => `/approach/${id}`),
-  "/industries", "/creators", "/insights", "/about", "/start-a-project", "/de"];
+  "/industries", "/creators", "/insights", "/about", "/start-a-project", "/de", "/ai", "/de/ki"];
 // Blog articles migrated to the V4 layout are hydrated too (see src/lib/v4Pages.tsx). Their URLs are
 // already in the baseline; here they only need the hydration markers.
 const V4_ARTICLE_PATHS = fs.readdirSync(path.join(ROOT, "src", "content", "articles", "data"))

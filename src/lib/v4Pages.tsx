@@ -32,6 +32,8 @@ const LOADERS: Record<string, PageLoader> = {
   "/about": () => import("@/pages/v4/AboutV4"),
   "/start-a-project": () => import("@/pages/v4/StartProjectV4"),
   "/de": () => import("@/pages/v4/DeV4"),
+  "/ai": () => import("@/pages/v4/AiV4"),
+  "/de/ki": () => import("@/pages/v4/AiDeV4"),
   ...Object.fromEntries(PILLAR_INDEX.map((p) => [pillarPath(p.id), loadPillar])),
   ...Object.fromEntries(V4_ARTICLE_SLUGS.map((slug) => [v4ArticlePath(slug), loadArticle(slug)])),
 };

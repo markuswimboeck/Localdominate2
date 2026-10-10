@@ -45,6 +45,7 @@ LocalDominate is a growth studio run by Markus Wimböck. It plans, builds and ma
 - Services: https://localdominate.org/services
 - Work: https://localdominate.org/work
 - Industries: https://localdominate.org/industries
+- AI consulting: https://localdominate.org/ai (German: https://localdominate.org/de/ki)
 - Creators: https://localdominate.org/creators
 - About: https://localdominate.org/about
 - Insights: https://localdominate.org/insights
@@ -61,7 +62,7 @@ LocalDominate is a growth studio run by Markus Wimböck. It plans, builds and ma
 6. Grow: https://localdominate.org/approach/grow (What turns visits into customers, and customers into repeat business?)
 7. Scale: https://localdominate.org/approach/scale (What can be repeated in a new market or a new revenue line?)
 
-### Offers and prices (as published on /services and /creators)
+### Offers and prices (as published on /services, /ai and /creators)
 
 | Offer | Price | Delivery | What it is |
 |---|---|---|---|
@@ -70,6 +71,12 @@ LocalDominate is a growth studio run by Markus Wimböck. It plans, builds and ma
 | AI Automation Starter | 250 EUR | 3 days | One workflow (one trigger, up to three steps), written down and approved first |
 | Google Profile Quick-Fix | 79 EUR (full optimisation: 390 EUR) | n/a | Review and correction of a Google Business Profile |
 | Full growth project | no list price | n/a | Strategy, brand, website and marketing, scope and price in writing |
+| Free AI task check | 0 EUR | reply within two working days | Written task map for one role: which tasks AI can do, draft or should stay human |
+| AI Potential Audit | 1,490 EUR | 10 working days | Task map for the whole team, roadmap, tool and data check; credited in full against a Workflow Sprint or the AI Operating System booked within 60 days |
+| Claude Team Onboarding | 2,900 EUR for up to 10 people, 190 EUR per further person | 2 weeks | Workspace, projects per department, templates, half-day live training, data rules; licences paid to Anthropic directly |
+| Workflow Sprint | from 4,900 EUR | 3 weeks | One AI workflow end to end, time measured before and after |
+| AI Operating System | from 9,900 EUR | 8 weeks | Processes as skills, knowledge base, multi-agent set-up, at least three workflows |
+| AI Care | from 690 EUR per month, 3 months minimum | ongoing | Workflows watched and adjusted, monthly session |
 | Creator page, one-page | 300 EUR once | 5 working days after complete material | Creator portfolio and media kit as a live page |
 | Creator page, care plan | 0 EUR set-up, 29 EUR per month, 12 months minimum | n/a | The same page with monthly updates |
 | Creator page, studio system | from 2,000 EUR (typical range 2,000 to 3,000 EUR) | n/a | Multi-page creator site, scope and fixed price after a short call |
