@@ -10,6 +10,7 @@ import ErrorBoundary from "@/components/ErrorBoundary";
 import { AfterMount } from "@/components/v4/AfterMount";
 import { lazyV4Page } from "@/lib/v4Pages";
 import { V4_ARTICLE_SLUGS, v4ArticlePath } from "@/content/articles";
+import { AUDIENCE_SLUGS, audiencePath } from "@/data/v4AudienceSlugs";
 import { PILLAR_BASE, PILLAR_INDEX, pillarPath } from "@/data/v4PillarIndex";
 
 // Critical pages loaded immediately
@@ -213,6 +214,7 @@ const WorkV4 = lazyV4Page("/work");
 const ApproachV4 = lazyV4Page(PILLAR_BASE);
 const PillarV4 = lazyV4Page(pillarPath("diagnose")); // one module serves all seven step pages
 const IndustriesV4 = lazyV4Page("/industries");
+const AudienceV4 = lazyV4Page(audiencePath("hotels")); // one module serves all audience pages
 const CreatorsV4 = lazyV4Page("/creators");
 const InsightsV4 = lazyV4Page("/insights");
 const AboutV4 = lazyV4Page("/about");
@@ -259,6 +261,9 @@ const App = () => (
                 <Route path="/services" element={<ServicesV4 />} />
                 <Route path="/work" element={<WorkV4 />} />
                 <Route path="/industries" element={<IndustriesV4 />} />
+                {AUDIENCE_SLUGS.map((slug) => (
+                  <Route key={slug} path={audiencePath(slug)} element={<AudienceV4 />} />
+                ))}
                 <Route path="/creators" element={<CreatorsV4 />} />
                 <Route path="/insights" element={<InsightsV4 />} />
                 <Route path="/about" element={<AboutV4 />} />
