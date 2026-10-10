@@ -928,10 +928,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-strategy-planner",
     de: {
-      title: "Local SEO Strategy Planner: 7-Phasen-Aufgabenplan mit Budget & Checkliste",
-      metaTitle: "Local SEO Strategy Planner | 7-Phasen Aufgabenplan 2026",
-      metaDescription: "Kostenloser Local SEO Strategieplan mit 49 Aufgaben in 7 Phasen. Interaktive Aufgaben-Checkliste, Budget-Planung und kopierbares Template.",
-      excerpt: "Systematischer 7-Phasen-Aufgabenplan für Local SEO: 49 konkrete Aufgaben mit Budget-Schätzung und Priorität — als interaktive Checkliste.",
+      title: "Local-SEO-Strategie planen: Ein Plan, der zu Ihrem Betrieb passt",
+      metaTitle: "Local-SEO-Strategie planen: Ziele, Reihenfolge, Aufwand",
+      metaDescription: "Local-SEO-Strategie für kleine Betriebe: Ausgangslage erfassen, messbare Ziele setzen, Aufgaben nach Wirkung ordnen und den Aufwand ehrlich schätzen.",
+      excerpt: "Local-SEO-Strategie für kleine Betriebe: Ausgangslage erfassen, messbare Ziele setzen, Aufgaben nach Wirkung ordnen und den Aufwand ehrlich schätzen.",
       category: "Tools & Ressourcen"
     },
     en: {
@@ -941,9 +941,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Systematic 7-phase task plan for local SEO: 49 concrete tasks with budget estimates and priorities — as interactive checklist.",
       category: "Tools & Resources"
     },
-    readingTime: 14,
+    readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🎯",
     keywords: ["local seo aufgabenplan", "seo strategy planner", "seo aufgaben checkliste", "local seo budget planung", "seo phasen plan"],
     featured: false
@@ -952,10 +952,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-roadmap-90-tage",
     de: {
-      title: "Local SEO Wochenplan: 12-Wochen-Timeline mit Gantt-Diagramm & KPI-Meilensteinen",
-      metaTitle: "Local SEO 12-Wochen-Timeline | Gantt & KPIs 2026",
-      metaDescription: "Visueller 12-Wochen-Wochenplan für Local SEO: Gantt-Timeline, wöchentliche Meilensteine und KPI-Checkpoints für messbaren Fortschritt.",
-      excerpt: "Woche für Woche zum Ziel: Visueller 12-Wochen-Wochenplan mit Gantt-Diagramm und messbaren KPI-Meilensteinen.",
+      title: "Local SEO in 12 Wochen: Der Wochenplan zum Abarbeiten",
+      metaTitle: "Local SEO in 12 Wochen: Wochenplan mit Prüfpunkten",
+      metaDescription: "Local SEO in 12 Wochen: ein Wochenplan von der Bestandsaufnahme über Profil, Website und Bewertungen bis zur Auswertung, mit Prüfpunkten und Messtabelle.",
+      excerpt: "Local SEO in 12 Wochen: ein Wochenplan von der Bestandsaufnahme über Profil, Website und Bewertungen bis zur Auswertung, mit Prüfpunkten und Messtabelle.",
       category: "Tools & Ressourcen"
     },
     en: {
@@ -965,9 +965,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Week by week to the goal: Visual 12-week plan with Gantt chart and measurable KPI milestones.",
       category: "Tools & Resources"
     },
-    readingTime: 12,
+    readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-10",
     icon: "🗺️",
     keywords: ["local seo wochenplan", "12 wochen timeline", "seo gantt diagramm", "local seo meilensteine", "seo kpi tracking"],
     featured: false
@@ -977,10 +977,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-link-building",
     de: {
-      title: "Local Link Building: Backlinks für lokale Unternehmen aufbauen",
-      metaTitle: "Local Link Building | Backlinks 2026",
-      metaDescription: "Wie lokale Unternehmen qualitative Backlinks aufbauen. Sponsoring, Vereine, lokale Presse und kreative Strategien für mehr Authority.",
-      excerpt: "Die besten Strategien, um als lokales Unternehmen wertvolle Backlinks zu gewinnen.",
+      title: "Local Link Building: Lokale Links ohne Regelverstoß aufbauen",
+      metaTitle: "Lokale Backlinks aufbauen: Wege, die Google erlaubt",
+      metaDescription: "Lokale Backlinks für Betriebe in DACH: Kammer, Verband, Partner, Vereine und Presse richtig nutzen, Sponsoring korrekt kennzeichnen, Linkspam vermeiden.",
+      excerpt: "Lokale Backlinks für Betriebe in DACH: Kammer, Verband, Partner, Vereine und Presse richtig nutzen, Sponsoring korrekt kennzeichnen, Linkspam vermeiden.",
       category: "Strategie"
     },
     en: {
@@ -990,9 +990,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The best strategies for local businesses to gain valuable backlinks.",
       category: "Strategy"
     },
-    readingTime: 16,
+    readingTime: 10,
     publishedAt: "2026-01-22",
-    updatedAt: "2026-01-22",
+    updatedAt: "2026-10-10",
     icon: "🔗",
     keywords: ["local link building", "lokale backlinks", "linkaufbau", "backlink strategie", "local authority"],
     featured: false
@@ -1000,10 +1000,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "negative-google-bewertungen",
     de: {
-      title: "Negative Google Bewertungen: So reagierst du professionell",
-      metaTitle: "Negative Bewertungen beantworten | Guide 2026",
-      metaDescription: "Wie du auf negative Google Bewertungen professionell reagierst. Antwort-Strategien, Löschung beantragen und Prävention für dein Unternehmen.",
-      excerpt: "Die Kunst, aus negativen Bewertungen positive Kundenerlebnisse zu machen.",
+      title: "Negative Google-Bewertungen: Richtig antworten, richtig melden",
+      metaTitle: "Negative Google-Bewertungen: antworten, melden, handeln",
+      metaDescription: "Negative Google-Bewertung erhalten? So antworten Sie sachlich, melden Richtlinienverstöße, reagieren auf Erpressung und erkennen rechtswidrige Inhalte.",
+      excerpt: "Negative Google-Bewertung erhalten? So antworten Sie sachlich, melden Richtlinienverstöße, reagieren auf Erpressung und erkennen rechtswidrige Inhalte.",
       category: "Bewertungen"
     },
     en: {
@@ -1015,7 +1015,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-01-20",
-    updatedAt: "2026-01-20",
+    updatedAt: "2026-10-10",
     icon: "😤",
     keywords: ["negative bewertungen", "bewertungen beantworten", "reputation management", "schlechte bewertung", "bewertung löschen"],
     featured: false
@@ -1023,10 +1023,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-content-marketing",
     de: {
-      title: "Local Content Marketing: Content-Strategie für lokale Unternehmen",
-      metaTitle: "Local Content Marketing | Strategie 2026",
-      metaDescription: "Wie lokale Unternehmen durch gezieltes Content Marketing mehr Kunden gewinnen. Lokale Guides, Stadtteil-Seiten und Community-Content.",
-      excerpt: "Content-Ideen speziell für lokale Unternehmen, die wirklich Kunden bringen.",
+      title: "Local Content Marketing: Inhalte, die Kunden vor Ort wirklich helfen",
+      metaTitle: "Local Content Marketing: Inhalte mit echtem Ortsbezug",
+      metaDescription: "Local Content Marketing für kleine Betriebe: Themen aus Kundenfragen finden, Leistungs- und Ortsseiten ohne Brückenseiten, Beiträge im Profil, Erfolg messen.",
+      excerpt: "Local Content Marketing für kleine Betriebe: Themen aus Kundenfragen finden, Leistungs- und Ortsseiten ohne Brückenseiten, Beiträge im Profil, Erfolg messen.",
       category: "Strategie"
     },
     en: {
@@ -1036,9 +1036,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Content ideas specifically for local businesses that actually bring customers.",
       category: "Strategy"
     },
-    readingTime: 17,
+    readingTime: 11,
     publishedAt: "2026-01-26",
-    updatedAt: "2026-01-26",
+    updatedAt: "2026-10-10",
     icon: "✍️",
     keywords: ["local content", "content marketing", "lokaler content", "stadtteil seiten", "lokale guides"],
     featured: false
