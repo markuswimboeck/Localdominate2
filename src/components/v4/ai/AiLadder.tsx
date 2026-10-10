@@ -73,12 +73,20 @@ function TierCard({ tier, t }: { tier: LadderTier; t: AiTexts }) {
       <div className="border-t border-v4-ivory/12 pt-6">
         <Price tier={tier} />
       </div>
-      <p className="font-v4-sans text-sm leading-relaxed text-v4-ivory/70">
-        {tier.terms}{" "}
-        <span className="whitespace-nowrap text-v4-ivory/50">
-          · {t.ladder.durationLabel}: {tier.duration}
-        </span>
-      </p>
+      <div className="flex flex-col gap-3">
+        <p className="font-v4-sans text-sm leading-relaxed text-v4-ivory/70">
+          {tier.terms}{" "}
+          <span className="whitespace-nowrap text-v4-ivory/50">
+            · {t.ladder.durationLabel}: {tier.duration}
+          </span>
+        </p>
+        {tier.guarantee && (
+          <p className="flex gap-2.5 rounded-xl border border-v4-signal/40 bg-v4-signal/10 px-3.5 py-3 font-v4-sans text-sm font-medium leading-snug text-v4-ivory">
+            <span aria-hidden="true" className="text-v4-signal">✓</span>
+            {tier.guarantee}
+          </p>
+        )}
+      </div>
       <Includes tier={tier} label={t.ladder.includesLabel} featured={featured} />
       <AnchorButton
         href={`#${AI_ANCHORS.form}`}

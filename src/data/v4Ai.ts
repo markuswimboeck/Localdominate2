@@ -31,6 +31,8 @@ const AI_ACT_URL = "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-qu
 export const AI_PRICES = {
   audit: 1490,
   auditCreditDays: 60,
+  /** Audit guarantee: below this many hours a week of work AI can do or draft, the audit is free. */
+  guaranteeHours: 10,
   onboarding: 2900,
   onboardingSeats: 10,
   onboardingExtraSeat: 190,
@@ -46,8 +48,8 @@ const P = AI_PRICES;
 /** 1490 -> "1,490" (en) or "1.490" (de). Written by hand so it never depends on locale data. */
 const amount = (value: number, sep: string): string => String(value).replace(/\B(?=(\d{3})+(?!\d))/g, sep);
 /** On screen the figure and the euro sign stay on one line (no-break space). */
-const eurEn = (value: number): string => `${amount(value, ",")} €`;
-const eurDe = (value: number): string => `${amount(value, ".")} €`;
+const eurEn = (value: number): string => `${amount(value, ",")}\u00A0€`;
+const eurDe = (value: number): string => `${amount(value, ".")}\u00A0€`;
 const plainEn = (value: number): string => `${amount(value, ",")} €`;
 const plainDe = (value: number): string => `${amount(value, ".")} €`;
 
@@ -174,6 +176,8 @@ export type LadderTier = {
   /** Text of the form option this card preselects. */
   option: string;
   badge?: string;
+  /** Shown as a highlighted line on the card (owner decision of 10 Oct 2026: audit guarantee). */
+  guarantee?: string;
 };
 
 export type AiTexts = {
@@ -334,7 +338,7 @@ export const AI_EN: AiTexts = {
     text: "We split every role into its tasks and mark each one: AI does it, AI drafts it, or it stays human. You see the hours with your own numbers, and we build the workflows your team will actually use.",
     primary: "Get a free AI task check",
     secondary: "Try the task map",
-    terms: ["Fixed prices, written scope first", `Audit credited in full`, "Tasks, not people"],
+    terms: ["Fixed prices, written scope first", "Audit with a money-back guarantee", "Tasks, not people"],
     card: {
       label: "Task map · Example",
       role: "Marketing manager",
@@ -537,6 +541,7 @@ export const AI_EN: AiTexts = {
         cta: "Book the audit",
         option: OPTIONS_EN.audit,
         badge: "Start here",
+        guarantee: `Guarantee: if the audit finds less than ${P.guaranteeHours} hours a week of work AI can do or draft for your team, you pay nothing.`,
       },
       {
         id: "onboarding",
@@ -697,6 +702,10 @@ export const AI_EN: AiTexts = {
         a: "Before we build anything we agree in writing which data may go into which tool and who has access. Personal customer data only goes into a workflow when the legal basis and the tool's settings allow it.",
       },
       {
+        q: "What if the audit finds little potential?",
+        a: `Then it costs you nothing. If the audit finds less than ${P.guaranteeHours} hours a week of work that AI can do or draft for your team, estimated with your figures, you pay nothing for it and keep the written result.`,
+      },
+      {
         q: "Is the audit really credited?",
         a: `Yes. If you book a Workflow Sprint or the AI Operating System within ${P.auditCreditDays} days of the audit presentation, the full ${plainEn(P.audit)} are deducted from that price.`,
       },
@@ -760,7 +769,7 @@ export const AI_DE: AiTexts = {
     text: "Wir zerlegen jede Rolle in ihre Aufgaben und markieren jede einzelne: KI erledigt es, KI bereitet es vor, oder es bleibt menschlich. Sie sehen die Stunden mit Ihren eigenen Zahlen, und wir bauen die Abläufe, die Ihr Team wirklich nutzt.",
     primary: "Kostenlosen KI-Check anfordern",
     secondary: "Aufgaben-Landkarte ausprobieren",
-    terms: ["Festpreise, Umfang vorher schriftlich", "Audit voll angerechnet", "Aufgaben, nicht Menschen"],
+    terms: ["Festpreise, Umfang vorher schriftlich", "Audit mit Geld-zurück-Garantie", "Aufgaben, nicht Menschen"],
     card: {
       label: "Aufgaben-Landkarte · Beispiel",
       role: "Marketing-Managerin",
@@ -963,6 +972,7 @@ export const AI_DE: AiTexts = {
         cta: "Audit buchen",
         option: OPTIONS_DE.audit,
         badge: "Hier starten",
+        guarantee: `Garantie: Findet das Audit weniger als ${P.guaranteeHours} Stunden pro Woche, die KI in Ihrem Team erledigen oder vorbereiten kann, zahlen Sie nichts.`,
       },
       {
         id: "onboarding",
@@ -1121,6 +1131,10 @@ export const AI_DE: AiTexts = {
       {
         q: "Wie steht es um den Datenschutz?",
         a: "Bevor wir etwas bauen, vereinbaren wir schriftlich, welche Daten in welches Tool dürfen und wer Zugriff hat. Personenbezogene Kundendaten kommen nur in einen Ablauf, wenn Rechtsgrundlage und Einstellungen des Tools es erlauben.",
+      },
+      {
+        q: "Was, wenn das Audit wenig Potenzial findet?",
+        a: `Dann kostet es Sie nichts. Findet das Audit weniger als ${P.guaranteeHours} Stunden pro Woche, die KI in Ihrem Team erledigen oder vorbereiten kann, geschätzt mit Ihren Zahlen, zahlen Sie es nicht und behalten das schriftliche Ergebnis.`,
       },
       {
         q: "Wird das Audit wirklich angerechnet?",
