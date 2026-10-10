@@ -271,10 +271,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-audit-checkliste",
     de: {
-      title: "Local SEO Audit: Ist-Analyse mit 50+ Diagnose-Punkten & Scoring",
-      metaTitle: "Local SEO Audit: Ist-Analyse & Diagnose | 2026",
-      metaDescription: "Local SEO Audit durchführen: 50+ Diagnose-Punkte mit Scoring-System. GBP, Website, Citations und Bewertungen systematisch analysieren.",
-      excerpt: "Führe eine professionelle Local SEO Ist-Analyse durch: 50+ Diagnose-Punkte mit Scoring und Handlungsempfehlungen.",
+      title: "Local SEO Audit: Die Checkliste zum Selbstprüfen",
+      metaTitle: "Local SEO Audit: Die Checkliste für lokale Betriebe",
+      metaDescription: "Local SEO Audit in ein bis zwei Stunden: Google-Profil, Website, Verzeichnisse, Bewertungen, KI-Sichtbarkeit und Messung prüfen, mit klaren nächsten Schritten.",
+      excerpt: "Local SEO Audit in ein bis zwei Stunden: Google-Profil, Website, Verzeichnisse, Bewertungen, KI-Sichtbarkeit und Messung prüfen, mit klaren nächsten Schritten.",
       category: "Strategie",
     },
     en: {
@@ -284,9 +284,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Conduct a professional Local SEO status analysis: 50+ diagnostic points with scoring and action recommendations.",
       category: "Strategy",
     },
-    readingTime: 15,
+    readingTime: 11,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-01-07",
+    updatedAt: "2026-10-10",
     icon: "✅",
     keywords: ["local seo audit", "seo diagnose", "local seo analyse", "seo scoring"],
     featured: true
@@ -296,10 +296,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-schweiz",
     de: {
-      title: "Local SEO Schweiz: Der komplette Leitfaden für KMUs",
-      metaTitle: "Local SEO Schweiz | KMU-Leitfaden 2026",
-      metaDescription: "Der nationale Local SEO Guide für Schweizer Unternehmen. Mehrsprachigkeit, Schweizer Verzeichnisse und Google Business für alle Kantone.",
-      excerpt: "Wie Schweizer KMUs durch lokale Suchmaschinenoptimierung mehr Kunden in ihrer Region gewinnen.",
+      title: "Local SEO in der Schweiz: Sprachen, Verzeichnisse und Recht",
+      metaTitle: "Local SEO Schweiz: Sprachen, Verzeichnisse und Recht",
+      metaDescription: "Local SEO für Schweizer KMU: Sprachversionen mit hreflang de-CH, fr-CH und it-CH, local.ch und search.ch, Preise in CHF, revDSG und Impressum nach UWG.",
+      excerpt: "Local SEO für Schweizer KMU: Sprachversionen mit hreflang de-CH, fr-CH und it-CH, local.ch und search.ch, Preise in CHF, revDSG und Impressum nach UWG.",
       category: "Regionen"
     },
     en: {
@@ -309,9 +309,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How Swiss SMEs can attract more customers in their region through local search engine optimization.",
       category: "Regions"
     },
-    readingTime: 22,
+    readingTime: 13,
     publishedAt: "2026-01-10",
-    updatedAt: "2026-01-10",
+    updatedAt: "2026-10-10",
     icon: "🇨🇭",
     keywords: ["local seo schweiz", "schweizer seo", "kmu marketing", "google business schweiz", "lokales marketing schweiz"],
     featured: true
@@ -319,10 +319,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-zuerich",
     de: {
-      title: "Local SEO Zürich: So dominierst du den Zürcher Markt",
-      metaTitle: "Local SEO Zürich | Kompletter Guide 2026",
-      metaDescription: "Der ultimative Local SEO Guide für Zürcher Unternehmen. Stadtteile, Keywords, Verzeichnisse und Strategien für die größte Schweizer Stadt.",
-      excerpt: "Wie du als Zürcher Unternehmen bei lokalen Google-Suchen auf Platz 1 kommst.",
+      title: "Local SEO in Zürich: gefunden werden, wo Ihre Kunden sind",
+      metaTitle: "Local SEO Zürich: sichtbar in Ihrem Kreis und Quartier",
+      metaDescription: "Local SEO in Zürich: warum die Entfernung in der dichten Stadt so stark zählt, wie Sie Quartiere ohne Brückenseiten nutzen und wie Sie über die Stadt messen.",
+      excerpt: "Local SEO in Zürich: warum die Entfernung in der dichten Stadt so stark zählt, wie Sie Quartiere ohne Brückenseiten nutzen und wie Sie über die Stadt messen.",
       category: "Regionen"
     },
     en: {
@@ -332,9 +332,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How to reach position 1 in local Google searches as a Zurich business.",
       category: "Regions"
     },
-    readingTime: 18,
+    readingTime: 12,
     publishedAt: "2026-01-12",
-    updatedAt: "2026-01-12",
+    updatedAt: "2026-10-10",
     icon: "🏔️",
     keywords: ["local seo zürich", "seo zürich", "google ranking zürich", "marketing zürich", "unternehmen zürich"],
     featured: true
@@ -342,10 +342,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-muenchen",
     de: {
-      title: "Local SEO München: Der Guide für bayerische Unternehmen",
-      metaTitle: "Local SEO München | Bayern-Guide 2026",
-      metaDescription: "Local SEO speziell für München und Bayern. Stadtteil-Keywords, lokale Verzeichnisse und Strategien für die bayerische Landeshauptstadt.",
-      excerpt: "Von Schwabing bis Giesing: So wirst du in ganz München bei Google gefunden.",
+      title: "Local SEO in München: sichtbar in den Vierteln, die Sie wirklich bedienen",
+      metaTitle: "Local SEO München: gefunden werden, wo Sie arbeiten",
+      metaDescription: "Local SEO für Betriebe in München: wie Entfernung in der Großstadt wirkt, wie Sie Stadtbezirke ohne Brückenseiten nutzen und Ihr Ranking im Raster messen.",
+      excerpt: "Local SEO für Betriebe in München: wie Entfernung in der Großstadt wirkt, wie Sie Stadtbezirke ohne Brückenseiten nutzen und Ihr Ranking im Raster messen.",
       category: "Regionen"
     },
     en: {
@@ -355,9 +355,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "From Schwabing to Giesing: How to be found throughout Munich on Google.",
       category: "Regions"
     },
-    readingTime: 16,
+    readingTime: 12,
     publishedAt: "2026-01-14",
-    updatedAt: "2026-01-14",
+    updatedAt: "2026-10-10",
     icon: "🥨",
     keywords: ["local seo münchen", "seo münchen", "google ranking münchen", "marketing münchen", "bayerische unternehmen"],
     featured: true
@@ -438,10 +438,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-aerzte-praxen",
     de: {
-      title: "Local SEO für Ärzte & Praxen: Patientengewinnung durch Google",
-      metaTitle: "Local SEO für Ärzte | Praxis-Marketing 2026",
-      metaDescription: "Wie Arztpraxen durch Local SEO mehr Patienten gewinnen. Arzt-Portale, YMYL-Anforderungen und Google Business für medizinische Praxen.",
-      excerpt: "Der komplette Guide für Ärzte, Zahnärzte und medizinische Praxen zur lokalen Patientengewinnung.",
+      title: "Local SEO für Arztpraxen: sichtbar werden, ohne Berufsrecht und Schweigepflicht zu verletzen",
+      metaTitle: "Local SEO für Arztpraxen: Google-Profil, Recht, Bewertungen",
+      metaDescription: "Local SEO für Ärzte, Zahnärzte und Therapeuten in DACH: Praxis- oder Arztprofil bei Google, Bewertungen mit Schweigepflicht, Werberecht und Leistungsseiten.",
+      excerpt: "Local SEO für Ärzte, Zahnärzte und Therapeuten in DACH: Praxis- oder Arztprofil bei Google, Bewertungen mit Schweigepflicht, Werberecht und Leistungsseiten.",
       category: "Branchen"
     },
     en: {
@@ -451,9 +451,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide for doctors, dentists and medical practices for local patient acquisition.",
       category: "Industries"
     },
-    readingTime: 15,
+    readingTime: 13,
     publishedAt: "2026-01-18",
-    updatedAt: "2026-01-18",
+    updatedAt: "2026-10-10",
     icon: "🏥",
     keywords: ["arzt seo", "praxis marketing", "local seo ärzte", "patientengewinnung", "jameda"],
     featured: false
