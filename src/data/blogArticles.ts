@@ -40,6 +40,73 @@ export interface ResolvedBlogArticle {
 }
 
 export const blogArticles: BlogArticle[] = [
+  // === KI IM UNTERNEHMEN (AI consulting, /de/ki) ===
+  {
+    slug: "claude-im-team-einfuehren",
+    de: {
+      title: "Claude im Team einführen: Schritt für Schritt",
+      metaTitle: "Claude im Team einführen: Schritt für Schritt",
+      metaDescription: "So führen Sie Claude in Firmen mit 5 bis 200 Mitarbeitenden ein: Plan wählen, Projekte je Abteilung, Datenregeln, Schulung nach Art. 4 KI-VO und Zeit messen.",
+      excerpt: "So führen Sie Claude in Firmen mit 5 bis 200 Mitarbeitenden ein: Plan wählen, Projekte je Abteilung, Datenregeln, Schulung nach Art. 4 KI-VO und Zeit messen.",
+      category: "KI im Unternehmen"
+    },
+    en: {
+      title: "Rolling out Claude to your team, step by step",
+      metaTitle: "Rolling out Claude to your team, step by step",
+      metaDescription: "How a company with 5 to 200 people introduces Claude: plan, workspace, projects per department, data rules, training under Art. 4 AI Act and measuring time.",
+      excerpt: "How a company with 5 to 200 people introduces Claude: plan, workspace, projects per department, data rules, training under Art. 4 AI Act and measuring time.",
+      category: "AI at work"
+    },
+    readingTime: 13,
+    publishedAt: "2026-10-10",
+    updatedAt: "2026-10-10",
+    icon: "🤖",
+    keywords: ["claude team", "claude einführen", "claude im unternehmen", "ki einführung kmu", "claude projekte"]
+  },
+  {
+    slug: "ki-kompetenzpflicht-art-4-ki-verordnung",
+    de: {
+      title: "KI-Kompetenzpflicht nach Art. 4 KI-Verordnung: Was KMU jetzt tun müssen",
+      metaTitle: "KI-Kompetenz nach Art. 4 KI-Verordnung: Pflichten für KMU",
+      metaDescription: "Art. 4 KI-Verordnung gilt seit Februar 2025 für jedes Unternehmen, das ChatGPT, Claude oder Copilot nutzt. Was seit Juli 2026 gilt, plus Plan in fünf Schritten.",
+      excerpt: "Art. 4 KI-Verordnung gilt seit Februar 2025 für jedes Unternehmen, das ChatGPT, Claude oder Copilot nutzt. Was seit Juli 2026 gilt, plus Plan in fünf Schritten.",
+      category: "KI im Unternehmen"
+    },
+    en: {
+      title: "AI literacy under Article 4 of the AI Act: what SMEs must do",
+      metaTitle: "AI literacy under Article 4 of the AI Act: what SMEs must do",
+      metaDescription: "Article 4 of the EU AI Act applies to every company using AI tools. What the amended duty means for SMEs, who supervises it and a plan in five steps.",
+      excerpt: "Article 4 of the EU AI Act applies to every company using AI tools. What the amended duty means for SMEs, who supervises it and a plan in five steps.",
+      category: "AI at work"
+    },
+    readingTime: 12,
+    publishedAt: "2026-10-10",
+    updatedAt: "2026-10-10",
+    icon: "⚖️",
+    keywords: ["ki kompetenz", "art 4 ki verordnung", "ki-kompetenzpflicht", "ai literacy", "ki schulung mitarbeiter"]
+  },
+  {
+    slug: "ki-aufgaben-hotel-rezeption",
+    de: {
+      title: "Welche Aufgaben KI an der Hotel-Rezeption übernehmen kann",
+      metaTitle: "KI an der Hotel-Rezeption: Welche Aufgaben sie übernimmt",
+      metaDescription: "Welche Aufgaben KI an der Hotel-Rezeption übernehmen kann: Anfragen, Angebote, Bewertungen, Berichte. Mit Aufgaben-Landkarte, Datenschutz und KI-Kompetenz.",
+      excerpt: "Welche Aufgaben KI an der Hotel-Rezeption übernehmen kann: Anfragen, Angebote, Bewertungen, Berichte. Mit Aufgaben-Landkarte, Datenschutz und KI-Kompetenz.",
+      category: "KI in der Hotellerie"
+    },
+    en: {
+      title: "Which front-office tasks AI can take over in a hotel",
+      metaTitle: "Which front-office tasks AI can take over in a hotel",
+      metaDescription: "Which hotel front-office tasks AI can do, draft or should leave to people: enquiries, offers, reviews, reports. With a task map, data protection and AI literacy.",
+      excerpt: "Which hotel front-office tasks AI can do, draft or should leave to people: enquiries, offers, reviews, reports. With a task map, data protection and AI literacy.",
+      category: "AI in hospitality"
+    },
+    readingTime: 12,
+    publishedAt: "2026-10-10",
+    updatedAt: "2026-10-10",
+    icon: "🛎️",
+    keywords: ["ki hotel", "ki rezeption", "ki hotellerie", "hotel automatisierung", "ki gästeanfragen"]
+  },
   // === PILLAR PAGE: ULTIMATE GUIDE LOCAL SEO ===
   {
     slug: "ultimate-guide-local-seo",

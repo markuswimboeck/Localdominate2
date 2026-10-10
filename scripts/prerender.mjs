@@ -42,7 +42,7 @@ const PILLAR_IDS = ["diagnose", "position", "create", "build", "launch", "grow",
 const EXTRA_PATHS = ["/services", "/work", "/approach", ...PILLAR_IDS.map((id) => `/approach/${id}`),
   "/industries", "/creators", "/insights", "/about", "/start-a-project", "/de", "/ai", "/de/ki"];
 // Blog articles migrated to the V4 layout are hydrated too (see src/lib/v4Pages.tsx). Their URLs are
-// already in the baseline; here they only need the hydration markers.
+// mostly in the baseline already; new articles (not in the baseline) are prerendered from this list.
 const V4_ARTICLE_PATHS = fs.readdirSync(path.join(ROOT, "src", "content", "articles", "data"))
   .filter((f) => f.endsWith(".ts")).map((f) => `/blog/${f.replace(/\.ts$/, "")}`);
 
@@ -124,7 +124,7 @@ async function main() {
 
   const baseline = JSON.parse(fs.readFileSync(path.join(ROOT, "docs", "baseline", "rendered-en-US.json"), "utf8"));
   const only = args.only ? new Set(String(args.only).split(",")) : null;
-  const paths = [...new Set([...baseline.map((r) => r.path), ...EXTRA_PATHS])].filter((p) => !only || only.has(p));
+  const paths = [...new Set([...baseline.map((r) => r.path), ...EXTRA_PATHS, ...V4_ARTICLE_PATHS])].filter((p) => !only || only.has(p));
 
   const server = serve(markedShell);
   const launchOpts = process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {};
