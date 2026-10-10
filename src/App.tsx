@@ -90,12 +90,7 @@ const GbpKiFunktionen2026 = lazy(() => import("./pages/blog/GbpKiFunktionen2026"
 const GeoContentBriefing2026 = lazy(() => import("./pages/blog/GeoContentBriefing2026"));
 const WhatsappBusinessLocalSeo2026 = lazy(() => import("./pages/blog/WhatsappBusinessLocalSeo2026"));
 
-const LocalSeoRestaurant = lazy(() => import("./pages/blog/LocalSeoRestaurant"));
 const LocalSeoAnwaelteKanzleien = lazy(() => import("./pages/blog/LocalSeoAnwaelteKanzleien"));
-const GoogleMyBusiness = lazy(() => import("./pages/blog/GoogleMyBusiness"));
-const LokaleSeo2026 = lazy(() => import("./pages/blog/LokaleSeo2026"));
-const NapKonsistenz = lazy(() => import("./pages/blog/NapKonsistenz"));
-const LocalSeoHandwerker = lazy(() => import("./pages/blog/LocalSeoHandwerker"));
 const LocalSeoAuditCheckliste = lazy(() => import("./pages/blog/LocalSeoAuditCheckliste"));
 const LocalSeoSchweiz = lazy(() => import("./pages/blog/LocalSeoSchweiz"));
 const LocalSeoZuerich = lazy(() => import("./pages/blog/LocalSeoZuerich"));
@@ -359,12 +354,7 @@ const App = () => (
                 <Route path="/ueber-uns" element={<UeberUns />} />
                 <Route path="/seo-lexikon" element={<SeoLexikon />} />
                 <Route path="/blog" element={<Blog />} />
-                <Route path="/blog/local-seo-fuer-restaurants" element={<LocalSeoRestaurant />} />
                 <Route path="/blog/local-seo-anwaelte-kanzleien" element={<LocalSeoAnwaelteKanzleien />} />
-                <Route path="/blog/google-my-business-optimieren" element={<GoogleMyBusiness />} />
-                <Route path="/blog/lokale-suchmaschinenoptimierung-2026" element={<LokaleSeo2026 />} />
-                <Route path="/blog/nap-konsistenz-local-seo" element={<NapKonsistenz />} />
-                <Route path="/blog/local-seo-handwerker" element={<LocalSeoHandwerker />} />
                 <Route path="/blog/local-seo-audit-checkliste" element={<LocalSeoAuditCheckliste />} />
                 <Route path="/blog/local-seo-schweiz" element={<LocalSeoSchweiz />} />
                 <Route path="/blog/local-seo-zuerich" element={<LocalSeoZuerich />} />

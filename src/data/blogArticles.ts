@@ -59,7 +59,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 14,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-10-09",
+    updatedAt: "2026-10-10",
     icon: "🏆",
     keywords: ["local seo", "local seo guide", "lokale suchmaschinenoptimierung", "local seo strategie", "google business profil", "local seo ranking faktoren", "local seo dach"],
     featured: true
@@ -160,10 +160,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-fuer-restaurants",
     de: {
-      title: "Local SEO für Restaurants: Mehr Gäste durch Google",
-      metaTitle: "Local SEO für Restaurants: Mehr Gäste 2026",
-      metaDescription: "Local SEO speziell für Restaurants erklärt. Von Speisekarten-Optimierung bis Bilder-Strategie. Jetzt mehr Reservierungen!",
-      excerpt: "Speziell für Gastronomen: So optimierst du dein Restaurant für lokale Suchanfragen und füllst mehr Tische.",
+      title: "Local SEO für Restaurants: So finden Gäste Ihren Tisch",
+      metaTitle: "Local SEO für Restaurants: mehr Gäste über Google",
+      metaDescription: "Local SEO für Restaurants, Cafés und Bars: Speisekarte, Öffnungszeiten, Reservierungslinks, Fotos und Bewertungen im Google-Profil richtig pflegen.",
+      excerpt: "Local SEO für Restaurants, Cafés und Bars: Speisekarte, Öffnungszeiten, Reservierungslinks, Fotos und Bewertungen im Google-Profil richtig pflegen.",
       category: "Gastronomie",
     },
     en: {
@@ -173,19 +173,19 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Specifically for restaurateurs: How to optimize your restaurant for local searches and fill more tables.",
       category: "Restaurants",
     },
-    readingTime: 7,
+    readingTime: 12,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-01-07",
+    updatedAt: "2026-10-10",
     icon: "🍽️",
     keywords: ["restaurant seo", "local seo restaurant", "gastro marketing"]
   },
   {
     slug: "google-my-business-optimieren",
     de: {
-      title: "Google My Business optimieren: Schritt-für-Schritt Anleitung",
-      metaTitle: "Google My Business optimieren: Anleitung 2026",
-      metaDescription: "Google My Business Profil optimieren in 10 Schritten. Vollständige Anleitung mit Screenshots. Mehr Sichtbarkeit garantiert!",
-      excerpt: "Die komplette Anleitung zur Optimierung deines Google Business Profils für maximale lokale Sichtbarkeit.",
+      title: "Google Unternehmensprofil optimieren: die praktische Anleitung",
+      metaTitle: "Google Unternehmensprofil optimieren: Anleitung 2026",
+      metaDescription: "Google Unternehmensprofil (früher Google My Business) Feld für Feld einrichten: Bestätigung, Name, Kategorien, Zeiten, Fotos, Beiträge, Zugriff und Sperrungen.",
+      excerpt: "Google Unternehmensprofil (früher Google My Business) Feld für Feld einrichten: Bestätigung, Name, Kategorien, Zeiten, Fotos, Beiträge, Zugriff und Sperrungen.",
       category: "Google Business",
     },
     en: {
@@ -195,19 +195,19 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide to optimizing your Google Business Profile for maximum local visibility.",
       category: "Google Business",
     },
-    readingTime: 9,
+    readingTime: 13,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-01-07",
+    updatedAt: "2026-10-10",
     icon: "📊",
     keywords: ["google my business", "gmb optimize", "google business profile"]
   },
   {
     slug: "lokale-suchmaschinenoptimierung-2026",
     de: {
-      title: "Lokale Suchmaschinenoptimierung 2026: Was wirklich funktioniert",
-      metaTitle: "Lokale SEO 2026: Trends & Strategien die funktionieren",
-      metaDescription: "Lokale Suchmaschinenoptimierung 2026: Die neuesten Trends, KI-Einfluss und Voice Search. Bleib der Konkurrenz voraus!",
-      excerpt: "Die wichtigsten Trends und Strategien für lokale SEO im Jahr 2026. Bleibe deiner Konkurrenz einen Schritt voraus.",
+      title: "Lokale Suchmaschinenoptimierung 2026: Was sich geändert hat und was Sie jetzt tun sollten",
+      metaTitle: "Lokale Suchmaschinenoptimierung 2026: Was sich ändert",
+      metaDescription: "Lokale Suchmaschinenoptimierung 2026: KI-Übersichten, KI-Modus, ChatGPT, Apple Business und strengere Bewertungsregeln. Was neu ist und was Betriebe jetzt tun.",
+      excerpt: "Lokale Suchmaschinenoptimierung 2026: KI-Übersichten, KI-Modus, ChatGPT, Apple Business und strengere Bewertungsregeln. Was neu ist und was Betriebe jetzt tun.",
       category: "Trends",
     },
     en: {
@@ -217,9 +217,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The most important trends and strategies for local SEO in 2026. Stay one step ahead of your competition.",
       category: "Trends",
     },
-    readingTime: 10,
+    readingTime: 11,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-01-07",
+    updatedAt: "2026-10-10",
     icon: "🚀",
     keywords: ["local seo", "search engine optimization", "local seo 2026"],
     featured: true
@@ -227,10 +227,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "nap-konsistenz-local-seo",
     de: {
-      title: "NAP-Konsistenz: Warum einheitliche Daten dein Ranking boosten",
-      metaTitle: "NAP-Konsistenz für Local SEO: Der ultimative Guide 2026",
-      metaDescription: "NAP (Name, Adresse, Telefon) konsistent halten für bessere Rankings. Kompletter Guide mit Checkliste und 15+ FAQ.",
-      excerpt: "Erfahre, warum einheitliche Unternehmensdaten (NAP) für dein lokales Ranking entscheidend sind.",
+      title: "NAP-Konsistenz: So bringen Sie Ihre Firmendaten überall auf einen Stand",
+      metaTitle: "NAP-Konsistenz: Firmendaten finden, prüfen, korrigieren",
+      metaDescription: "NAP-Konsistenz für Betriebe in DACH: wie Sie widersprüchliche Firmendaten finden, Verzeichnisse und Google-Profil korrigieren und nach Umzug sauber bleiben.",
+      excerpt: "NAP-Konsistenz für Betriebe in DACH: wie Sie widersprüchliche Firmendaten finden, Verzeichnisse und Google-Profil korrigieren und nach Umzug sauber bleiben.",
       category: "Local SEO",
     },
     en: {
@@ -240,19 +240,19 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Learn why consistent business data (NAP) is crucial for your local ranking.",
       category: "Local SEO",
     },
-    readingTime: 12,
+    readingTime: 11,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-01-07",
+    updatedAt: "2026-10-10",
     icon: "📋",
     keywords: ["nap consistency", "citations", "business directories", "local seo"]
   },
   {
     slug: "local-seo-handwerker",
     de: {
-      title: "Local SEO für Handwerker: Mehr Aufträge durch Google",
-      metaTitle: "Local SEO für Handwerker: Komplette Anleitung 2026",
-      metaDescription: "Local SEO speziell für Handwerksbetriebe. Von Elektriker bis Maler - so gewinnst du mehr lokale Aufträge durch Google.",
-      excerpt: "Speziell für Handwerksbetriebe: So optimierst du deine Online-Präsenz für mehr lokale Kundenanfragen.",
+      title: "Local SEO für Handwerker: So finden Kunden Ihren Betrieb",
+      metaTitle: "Local SEO für Handwerker: Mehr Anfragen aus der Region",
+      metaDescription: "Local SEO für Handwerksbetriebe in DACH: Einzugsgebiet im Google-Profil, eine Seite je Leistung, ehrlicher Notdienst, echte Fotos und Bewertungen nach Abnahme.",
+      excerpt: "Local SEO für Handwerksbetriebe in DACH: Einzugsgebiet im Google-Profil, eine Seite je Leistung, ehrlicher Notdienst, echte Fotos und Bewertungen nach Abnahme.",
       category: "Branchen",
     },
     en: {
@@ -262,9 +262,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Specifically for contractors: How to optimize your online presence for more local customer inquiries.",
       category: "Industries",
     },
-    readingTime: 14,
+    readingTime: 12,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-01-07",
+    updatedAt: "2026-10-10",
     icon: "🔧",
     keywords: ["contractor seo", "local seo contractors", "contractor marketing"]
   },

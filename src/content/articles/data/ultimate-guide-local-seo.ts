@@ -20,7 +20,7 @@ const article: V4Article = {
     "Messen Sie mit den Leistungsdaten des Profils, der Search Console und markierten Links, nicht mit dem Gefühl, „oben“ zu stehen.",
   ],
   publishedAt: "2026-03-08",
-  updatedAt: "2026-10-09",
+  updatedAt: "2026-10-10",
   readingTime: 14,
   sections: [
     {
@@ -146,7 +146,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Welche Begriffe Ihre Kunden tatsächlich suchen, finden Sie mit der Methode aus [Local SEO Keywords finden](/blog/local-seo-keywords-finden).",
+          text: "Welche Begriffe Ihre Kunden tatsächlich suchen, finden Sie mit der Methode aus [Local SEO Keywords finden](/blog/local-seo-keywords-finden). Wie das für einzelne Branchen aussieht, zeigen [Local SEO für Handwerker](/blog/local-seo-handwerker) und [Local SEO für Restaurants](/blog/local-seo-fuer-restaurants).",
         },
       ],
     },
@@ -244,7 +244,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Was KI-Übersichten konkret für lokale Betriebe bedeuten, beschreibt der Artikel [Google AI Overviews und Local SEO](/blog/google-ai-overviews-local-seo).",
+          text: "Was KI-Übersichten konkret für lokale Betriebe bedeuten, beschreibt der Artikel [Google AI Overviews und Local SEO](/blog/google-ai-overviews-local-seo). Einen Überblick, was sich seit 2024 in der lokalen Suche geändert hat, finden Sie in [Lokale Suchmaschinenoptimierung 2026](/blog/lokale-suchmaschinenoptimierung-2026).",
         },
       ],
     },

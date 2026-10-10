@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/ultimate-guide-local-seo
 markdown_url: https://localdominate.org/blog-md/ultimate-guide-local-seo.md
 language: de-DE
 published: 2026-03-08
-updated: 2026-10-09
+updated: 2026-10-10
 reading_time_minutes: 14
 category: "Grundlagen"
 author: LocalDominate Redaktion
@@ -92,7 +92,7 @@ Das Profil zeigt, dass es Sie gibt. Die Website erklärt, was Sie genau anbieten
 
 > **Was strukturierte Daten nicht leisten:** Sternebewertungen aus eigenem Review-Markup zeigt Google für lokale Unternehmen auf deren eigener Website nicht an. FAQ-Ergebnisse in der Suche gibt es seit 2023 fast nur noch für Behörden- und Gesundheitsseiten. Strukturierte Daten helfen beim Verstehen, sie sind kein Trick für mehr Platz in der Suche.
 
-Welche Begriffe Ihre Kunden tatsächlich suchen, finden Sie mit der Methode aus [Local SEO Keywords finden](https://localdominate.org/blog/local-seo-keywords-finden).
+Welche Begriffe Ihre Kunden tatsächlich suchen, finden Sie mit der Methode aus [Local SEO Keywords finden](https://localdominate.org/blog/local-seo-keywords-finden). Wie das für einzelne Branchen aussieht, zeigen [Local SEO für Handwerker](https://localdominate.org/blog/local-seo-handwerker) und [Local SEO für Restaurants](https://localdominate.org/blog/local-seo-fuer-restaurants).
 
 ## Einheitliche Firmendaten und Verzeichnisse in DACH
 
@@ -148,7 +148,7 @@ Für KI-Antworten zählt, ob Ihre Angaben eindeutig und überall gleich sind. Ei
 3. Halten Sie Profil, Website und wichtige Verzeichnisse auf demselben Stand.
 4. Lassen Sie KI-Crawler zu, wenn Sie in KI-Antworten erscheinen wollen (robots.txt prüfen).
 
-Was KI-Übersichten konkret für lokale Betriebe bedeuten, beschreibt der Artikel [Google AI Overviews und Local SEO](https://localdominate.org/blog/google-ai-overviews-local-seo).
+Was KI-Übersichten konkret für lokale Betriebe bedeuten, beschreibt der Artikel [Google AI Overviews und Local SEO](https://localdominate.org/blog/google-ai-overviews-local-seo). Einen Überblick, was sich seit 2024 in der lokalen Suche geändert hat, finden Sie in [Lokale Suchmaschinenoptimierung 2026](https://localdominate.org/blog/lokale-suchmaschinenoptimierung-2026).
 
 ## Abkürzungen, die Ihnen schaden
 
@@ -240,4 +240,4 @@ Jeder Standort mit Kundenverkehr bekommt ein eigenes Profil und eine eigene Stan
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-09. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
