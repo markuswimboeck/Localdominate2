@@ -1,113 +1,227 @@
 ---
-title: "Google Bewertung löschen lassen – Schritt-für-Schritt Anleitung (2026)"
+title: "Google-Bewertung löschen lassen: die Anleitung Schritt für Schritt"
 slug: gbp-bewertung-loeschen-anleitung
 url: https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung
 canonical: https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung
 markdown_url: https://localdominate.org/blog-md/gbp-bewertung-loeschen-anleitung.md
 language: de-DE
 published: 2025-01-10
-updated: 2026-02-08
-reading_time_minutes: 13
-category: "Troubleshooting"
-author: Local Dominator
-publisher: Local Dominator
-license: https://creativecommons.org/licenses/by/4.0/
-citation: "Local Dominator (2026-02-08). Google Bewertung löschen lassen – Schritt-für-Schritt Anleitung (2026). https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung"
-keywords: ["google bewertung löschen", "fake bewertung melden", "bewertung entfernen", "negative bewertung löschen", "google review löschen"]
-area_served: [Deutschland, Österreich, Schweiz]
-ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
+updated: 2026-10-10
+reading_time_minutes: 11
+category: "Bewertungen"
+author: LocalDominate Redaktion
+accountable: Markus Wimböck
+publisher: LocalDominate
+description: "Google-Bewertung löschen lassen: welcher Grund zu welchem Weg passt, wie Sie im Profil, im Bewertungstool und in Maps melden und wann der rechtliche Weg greift."
 ---
 
-<!--
-JSON-LD (Schema.org Article):
+# Google-Bewertung löschen lassen: die Anleitung Schritt für Schritt
 
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "@id": "https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung#article",
-  "headline": "Google Bewertung löschen lassen – Schritt-für-Schritt Anleitung (2026)",
-  "description": "Fake-Bewertung oder Verleumdung auf Google? Lerne welche Bewertungen entfernt werden können und wie du erfolgreich gegen unfaire Reviews vorgehst.",
-  "url": "https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung",
-  "inLanguage": "de-DE",
-  "datePublished": "2025-01-10",
-  "dateModified": "2026-02-08",
-  "timeRequired": "PT13M",
-  "keywords": "google bewertung löschen, fake bewertung melden, bewertung entfernen, negative bewertung löschen, google review löschen",
-  "author": {
-    "@type": "Organization",
-    "name": "Local Dominator",
-    "url": "https://localdominate.org"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Local Dominator",
-    "url": "https://localdominate.org",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://localdominate.org/logo.png"
-    }
-  },
-  "isAccessibleForFree": true,
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: Local Dominator (localdominate.org)",
-  "encoding": {
-    "@type": "MediaObject",
-    "encodingFormat": "text/markdown",
-    "contentUrl": "https://localdominate.org/blog-md/gbp-bewertung-loeschen-anleitung.md"
-  },
-  "about": {
-    "@type": "Thing",
-    "name": "Troubleshooting"
-  },
-  "areaServed": [
-    {
-      "@type": "Country",
-      "name": "Deutschland",
-      "sameAs": "https://www.wikidata.org/wiki/Q183"
-    },
-    {
-      "@type": "Country",
-      "name": "Österreich",
-      "sameAs": "https://www.wikidata.org/wiki/Q40"
-    },
-    {
-      "@type": "Country",
-      "name": "Schweiz",
-      "sameAs": "https://www.wikidata.org/wiki/Q39"
-    }
-  ]
-}
-```
--->
+Für Inhaber und Teams, die eine bestimmte Rezension auf Google entfernen lassen wollen. Sie erfahren, welcher Meldeweg zu welchem Grund passt, was Sie auf jedem Bildschirm auswählen, wie Sie den Status verfolgen und was nach einer Ablehnung noch möglich ist.
 
-# Google Bewertung löschen lassen – Schritt-für-Schritt Anleitung (2026)
+## Die kurze Antwort
 
-> Kanonische URL: https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung
-> Aktualisiert: 2026-02-08 · Lesezeit: 13 Min · Kategorie: Troubleshooting
-> Lizenz: CC-BY 4.0 — Zitate mit Quellenangabe erlaubt.
+Selbst löschen können Sie eine Rezension als Unternehmen nicht. Löschen kann sie nur der Verfasser, entfernen kann sie Google. Verstößt sie gegen Googles Richtlinien, melden Sie sie im Unternehmensprofil oder im Tool zum Verwalten von Bewertungen und legen bei Ablehnung einmal Einspruch ein. Ist sie rechtswidrig, etwa eine unwahre Tatsachenbehauptung, nutzen Sie zusätzlich Googles Formular für rechtliche Meldungen.
 
-## Kurzbeschreibung
+## Das Wichtigste in Kürze
 
-Fake-Bewertung oder Verleumdung auf Google? Lerne welche Bewertungen entfernt werden können und wie du erfolgreich gegen unfaire Reviews vorgehst.
+- Unternehmen können Rezensionen nicht selbst löschen. Google entfernt nur, was gegen die Richtlinien verstößt oder rechtswidrig ist.
+- Für Richtlinienverstöße gibt es drei Meldewege: das Unternehmensprofil, das Tool zum Verwalten von Bewertungen und Google Maps.
+- Den Status sehen Sie im Tool. Nach einer Ablehnung können Sie einmal Einspruch einlegen, für bis zu zehn Rezensionen auf einmal.
+- Rechtswidrige Inhalte melden Sie über Googles Formular für rechtliche Meldungen, nachdem Sie sie im Produkt gemeldet haben.
+- In Deutschland zeigt Google im Profil einen Hinweis, wenn Rezensionen nach Beschwerden wegen Diffamierung entfernt wurden.
 
-## Zusammenfassung
+## Wer eine Google-Bewertung löschen kann
 
-Der komplette Guide zum Entfernen von unangemessenen Google Bewertungen mit Erfolgsstrategien und rechtlichen Optionen.
+Eine Rezension löschen oder ändern kann nur ihr Verfasser. Google entfernt eine Rezension, wenn sie gegen die Inhaltsrichtlinien verstößt oder aus rechtlichen Gründen entfernt werden muss. Als Unternehmen können Sie melden, antworten und um eine Klärung bitten, aber nicht selbst löschen.
 
-## Schlüsselbegriffe
+Google schreibt in seiner Hilfe: Sie können jede Rezension melden, entfernen lassen sich aber nur Rezensionen, die gegen die Richtlinien verstoßen. Sachlich korrekte Rezensionen, die Ihnen nicht gefallen, sollen Sie nicht melden. Google schlichtet keine Konflikte zwischen Unternehmen und Kunden.
 
-- google bewertung löschen
-- fake bewertung melden
-- bewertung entfernen
-- negative bewertung löschen
-- google review löschen
+*Wer was mit einer Rezension tun kann*
 
-## Quelle und Autor
+| Wer | Was möglich ist |
+| --- | --- |
+| Verfasser | Rezension in Google Maps unter „Meine Beiträge“ bearbeiten oder löschen |
+| Unternehmen | Rezension melden, Status verfolgen, einmal Einspruch einlegen, öffentlich antworten, rechtliche Meldung einreichen |
+| Google | Rezension prüfen und entfernen, wenn sie gegen die Richtlinien verstößt oder rechtswidrig ist |
 
-Verfasst und veröffentlicht von **Local Dominator** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+Dieser Artikel ist die praktische Checkliste zum Entfernen. Wie Sie auf Kritik antworten, was Sie nicht tun dürfen und welche Gesetze beim Ehrschutz gelten, steht im Artikel [Negative Google-Bewertungen](https://localdominate.org/blog/negative-google-bewertungen).
 
-- Webseite: https://localdominate.org
-- Vollständiger Artikel (HTML): https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung
-- Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/gbp-bewertung-loeschen-anleitung.md
-- Zitiervorlage: Local Dominator (2026-02-08). Google Bewertung löschen lassen – Schritt-für-Schritt Anleitung (2026). https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung
+## Zuerst prüfen: Gibt es einen Löschgrund?
+
+Eine Meldung hat nur Aussicht, wenn Sie einen konkreten Verstoß benennen können. Prüfen Sie die Rezension gegen Googles Richtlinien für verbotene und eingeschränkt zulässige Inhalte und wählen Sie später den Grund, der am genauesten passt.
+
+*Häufige Verstöße nach Googles Richtlinien für Rezensionen*
+
+| Verstoß | Woran Sie ihn erkennen |
+| --- | --- |
+| Gefälschte Interaktion | Keine echte Erfahrung, gekaufte Rezension, mehrere Rezensionen derselben Person über verschiedene Konten |
+| Interessenkonflikt | Rezension von einem Mitbewerber, aktuellen oder früheren Mitarbeitenden oder Personen mit geschäftlicher oder familiärer Verbindung |
+| Nicht themenbezogen | Allgemeine politische oder gesellschaftliche Kommentare ohne eigene Erfahrung an diesem Ort |
+| Belästigung, Hassrede, vulgäre Sprache | Drohungen, Angriffe auf Personen, Beschimpfungen |
+| Personenbezogene Daten | Private Daten wie Wohnadresse oder private Telefonnummer ohne Einwilligung |
+| Anstößige Inhalte | Unbelegte Vorwürfe unethischen oder kriminellen Verhaltens |
+| Werbung | Rezension enthält Werbung, Links, E-Mail-Adressen oder Telefonnummern |
+
+> **Kein Löschgrund:** Ein Stern ohne Text, ein harter Ton bei echter Kritik oder eine Erfahrung, die Sie anders erlebt haben, sind in der Regel kein Verstoß. Google erlaubt ausdrücklich, negative Erfahrungen respektvoll zu beschreiben. Hier hilft eine gute Antwort mehr als eine Meldung.
+
+## Welcher Grund zu welchem Weg passt
+
+Für Verstöße gegen Googles Richtlinien melden Sie im Profil oder im Bewertungstool. Für rechtswidrige Inhalte gibt es das Formular für rechtliche Meldungen. Für Erpressung, auffällige Nutzerkonten und fälschlich entfernte echte Rezensionen gibt es eigene Wege.
+
+*Grund und passender Meldeweg*
+
+| Ihr Fall | Passender Weg | Hinweis |
+| --- | --- | --- |
+| Spam, Fake, Interessenkonflikt, Beleidigung, themenfremd | Melden im Unternehmensprofil oder im Tool zum Verwalten von Bewertungen | Status im Tool, einmal Einspruch möglich |
+| Sie verwalten das Profil nicht selbst oder sehen die Rezension nur in Maps | „Rezension melden“ in Google Maps | Status in der Maps-App unter „Meldungen“ |
+| Ein Nutzerkonto schreibt auffällig viele unpassende Rezensionen | Nutzerprofil in der Google-Maps-App melden | Google prüft Aktivitäten und Beiträge des Kontos |
+| Unwahre Tatsachenbehauptung, Beleidigung, Verletzung Ihrer Rechte | Zuerst im Produkt melden, dann Formular „Inhalte aus rechtlichen Gründen melden“ | Kein Rechtsrat: Einzelfall anwaltlich prüfen lassen |
+| Plötzlich viele 1- und 2-Sterne-Rezensionen mit Geldforderung | Eigenes Formular für Erpressungsversuche | Ablauf im Artikel [Negative Google-Bewertungen](https://localdominate.org/blog/negative-google-bewertungen#erpressung) |
+| Rezension eines Drittanbieters im Profil (Unternehmen im EWR) | Tool zum Verwalten von Bewertungen | Laut Google können Händler im EWR solche Rezensionen direkt melden |
+| Eine echte Rezension Ihres Kunden ist verschwunden | Google-Support kontaktieren | Googles Spamfilter entfernt gelegentlich auch echte Rezensionen |
+
+Stammt die Rezension aus einem gefälschten Konkurrenzprofil oder gehört sie zu einem größeren Spam-Muster in Ihrer Branche, finden Sie die Meldewege für Profile im Artikel [Google-Maps-Spam erkennen](https://localdominate.org/blog/google-maps-spam-erkennen).
+
+## Belege sichern, bevor Sie melden
+
+Sichern Sie die Rezension, bevor Sie etwas unternehmen. Ein Screenshot mit Name, Datum und vollständigem Text dokumentiert den Stand, falls der Verfasser die Rezension ändert oder Sie später einen Einspruch oder eine rechtliche Meldung begründen müssen.
+
+1. Screenshot der Rezension mit Profilnamen des Verfassers, Sternen, Datum und vollständigem Text. Bei langen Texten vorher „Mehr“ antippen.
+2. Den Link zu Ihrem Profil in Google Maps notieren, damit Sie die Rezension in einem Formular eindeutig angeben können.
+3. Interne Prüfung festhalten: In welchem Zeitraum haben Sie Termine, Aufträge oder Buchungen durchsucht, und mit welchem Ergebnis?
+4. Bei einem vermuteten Interessenkonflikt notieren, woran Sie ihn erkennen, zum Beispiel ein früheres Arbeitsverhältnis oder ein Konto mit Rezensionen nur bei Mitbewerbern.
+
+> **Datenschutz beachten:** Ihre internen Belege sind für Ihre Unterlagen und eine mögliche Prüfung bestimmt. Veröffentlichen Sie keine Kundendaten in Ihrer Antwort auf Google, auch nicht, um eine Behauptung zu widerlegen.
+
+## Weg 1: Im Unternehmensprofil melden
+
+Der schnellste Weg für Inhaber: Unternehmensprofil aufrufen, „Rezensionen lesen“ wählen, bei der Rezension „Melden“ wählen, einen Grund wie „Spam“ angeben und den Bericht senden. Die Prüfung dauert laut Google in der Regel mehrere Tage.
+
+1. **Profil aufrufen.** Melden Sie sich mit dem Google-Konto an, das Ihr Profil verwaltet, und rufen Sie Ihr Unternehmensprofil auf, etwa über die Google-Suche nach Ihrem Firmennamen. Angemeldet sehen Sie dort die Optionen zur Verwaltung des Profils.
+2. **Rezensionen öffnen.** Wählen Sie „Rezensionen lesen“. Es öffnet sich die Liste Ihrer Rezensionen.
+3. **Melden wählen.** Neben jeder Rezension gibt es die Option „Melden“, je nach Ansicht als Symbol oder im Dreipunkt-Menü. Wählen Sie sie bei der Rezension, um die es geht.
+4. **Grund auswählen.** Google zeigt eine Liste von Gründen, zum Beispiel „Spam“ oder „Vulgäre Sprache“. Wählen Sie den Grund, der den Verstoß am genauesten beschreibt.
+5. **Bericht senden.** Wählen Sie „Bericht senden“. Damit ist die Meldung bei Google eingegangen.
+
+Melden Sie dieselbe Rezension nicht mehrmals hintereinander. Den Stand Ihrer Meldung sehen Sie im Tool zum Verwalten von Bewertungen, das wir im nächsten Abschnitt beschreiben.
+
+## Weg 2: Im Tool zum Verwalten von Bewertungen
+
+Im Tool zum Verwalten von Bewertungen melden Sie Rezensionen, sehen den Status jeder Meldung und legen Einspruch ein. Es ist der zentrale Ort für alles, was Sie gemeldet haben, auch für Meldungen aus dem Profil.
+
+1. **Tool öffnen.** Rufen Sie das [Tool zum Verwalten von Bewertungen](https://support.google.com/business/workflow/9945796?hl=de) auf. Oben sehen Sie die E-Mail-Adresse, mit der Sie angemeldet sind.
+2. **Konto bestätigen.** Gehört die angezeigte Adresse zu Ihrem Unternehmensprofil, wählen Sie „Bestätigen“. Sonst wählen Sie „Konto wechseln“.
+3. **Unternehmen auswählen.** Bei mehreren Profilen wählen Sie den betroffenen Standort und dann „Weiter“.
+4. **Neue Meldung starten.** Wählen Sie „Neue Rezension zum Entfernen melden“ und „Weiter“. Es erscheint eine Liste Ihrer Rezensionen.
+5. **Melden und begründen.** Wählen Sie neben der Rezension „Melden“. In einem neuen Tab wählen Sie den Grund aus und dann „Senden“.
+
+*Status im Tool und was er bedeutet*
+
+| Status | Bedeutung | Ihr nächster Schritt |
+| --- | --- | --- |
+| Entscheidung steht aus | Gemeldet, aber noch nicht geprüft | Abwarten, nicht erneut melden |
+| Meldung überprüft, kein Richtlinienverstoß | Google hat keinen Verstoß festgestellt | Einmal Einspruch einlegen, wenn Sie anderer Meinung sind |
+| Eskaliert, prüfen Sie Ihre E-Mails | Ihr Einspruch wird abschließend geprüft | Entscheidung per E-Mail abwarten |
+
+## Weg 3: In Google Maps melden
+
+Jeder Nutzer kann eine Rezension direkt in Google Maps melden, am Computer und in der App. Das ist sinnvoll, wenn Sie das Profil nicht selbst verwalten oder ein Nutzerkonto melden wollen, das mehrere unpassende Rezensionen geschrieben hat.
+
+### Eine Rezension melden
+
+1. Google Maps öffnen und nach dem Unternehmen suchen.
+2. Den Eintrag öffnen und zum Bereich „Rezensionen“ wechseln, in der App per Wischen.
+3. Bei der Rezension das Dreipunkt-Menü öffnen und „Rezension melden“ wählen.
+4. Das Formular ausfüllen und senden.
+
+In der Maps-App finden Sie Ihre Meldungen im Bereich „Meldungen“. Dort steht, ob eine Meldung noch bearbeitet wird oder ob der Inhalt entfernt, nicht entfernt oder wiederhergestellt wurde.
+
+### Ein Nutzerprofil melden
+
+1. In der Google-Maps-App rechts unten auf „Unternehmen“ tippen, dann auf „Rezensionen“.
+2. Auf den Namen des Verfassers tippen.
+3. Im Profil rechts oben das Dreipunkt-Menü öffnen und „Melden“ wählen.
+4. Einen Grund auswählen, zum Beispiel „Rechtliches Problem“ oder „Bedenken im Hinblick auf den Datenschutz“.
+
+## Nach einer Ablehnung: einmal Einspruch einlegen
+
+Steht im Tool „Meldung überprüft, kein Richtlinienverstoß“, können Sie einmalig Einspruch einlegen, für bis zu zehn Rezensionen gleichzeitig. Das Ergebnis kommt per E-Mail. Verstößt die Rezension gegen die Richtlinien, wird sie entfernt, sonst bleibt sie online.
+
+1. **Tool öffnen und bestätigen.** Wie beim Melden: Tool aufrufen, E-Mail-Adresse bestätigen, Unternehmen wählen, „Weiter“.
+2. **Frühere Meldungen anzeigen.** „Status einer zuvor gemeldeten Rezension prüfen und Einspruchsmöglichkeiten anzeigen“ wählen, dann „Weiter“.
+3. **Rezensionen auswählen.** Unten „Rezensionen, bei denen ein Einspruch möglich ist“ wählen und bis zu zehn Rezensionen markieren.
+4. **Formular ausfüllen.** „Weiter“ und „Einspruch einlegen“ wählen. Im neuen Tab das Formular ausfüllen und senden. Begründen Sie kurz und sachlich, welche Richtlinie verletzt ist.
+
+Einen zweiten Einspruch zur selben Meldung sieht das Tool nicht vor. Neue Fakten, etwa ein späteres Geständnis des Verfassers oder ein Gerichtsbeschluss, gehören deshalb in den rechtlichen Weg oder in eine Anfrage an den Support.
+
+> **EU: weitere Wege nach dem Digital Services Act:** Google nennt für die EU zusätzliche Möglichkeiten, wenn gemeldete Inhalte nicht entfernt wurden: eine zertifizierte außergerichtliche Streitbeilegungsstelle, deren Entscheidung für Google nicht bindend ist, und den Weg vor Gericht. Ob und wie das für Ihren Fall infrage kommt, hängt vom Einzelfall ab. Das ist kein Rechtsrat.
+
+## Der rechtliche Weg: Formular für rechtliche Meldungen
+
+Verstößt eine Rezension Ihrer Meinung nach gegen das Gesetz oder Ihre Rechte, melden Sie sie zuerst im Produkt und beantragen dann über Googles Formular „Inhalte aus rechtlichen Gründen melden“ die Entfernung. Google prüft und sperrt, beschränkt oder entfernt den Inhalt gegebenenfalls. Das ist kein Rechtsrat.
+
+1. **Zuerst im Produkt melden.** Google bittet ausdrücklich darum, Inhalte vor einem rechtlichen Antrag über die Meldefunktion im jeweiligen Produkt zu melden, also mit Weg 1, 2 oder 3.
+2. **Formular aufrufen.** Auf der Seite [Inhalte aus rechtlichen Gründen melden](https://support.google.com/legal/answer/3110420?hl=de) „Antrag stellen“ wählen. Ein Fragebogen führt Sie zum passenden Formular für Google Maps.
+3. **Genau angeben und begründen.** Nennen Sie, wo der Inhalt steht, also den Link zur Rezension, und erklären Sie, warum er rechtswidrig ist, zum Beispiel welche Behauptung unwahr ist.
+4. **Veröffentlichung bedenken.** Google kann Kopien rechtlicher Hinweise an das Projekt Lumen weitergeben, das sie ohne persönliche Kontaktdaten des Absenders veröffentlicht.
+
+### Besonderheit in Deutschland
+
+Google schreibt, dass Unternehmen in Deutschland vor Gericht Rezensionen relativ leicht anfechten können, etwa mit dem Hinweis, dass sich der Verfasser nicht als Kunde zuordnen lässt. Der Verfasser wird über die Entfernung informiert und kann mit Nachweisen wie Rechnungen, Terminbestätigungen oder Fotos Einspruch einlegen.
+
+Gleichzeitig zeigt Google in Deutschland bei Unternehmensprofilen einen Hinweis an, wenn Rezensionen nach Beschwerden wegen Diffamierung entfernt wurden. Angezeigt wird eine Spanne, zum Beispiel „11 bis 20 Bewertungen aufgrund von Beschwerden wegen Diffamierung entfernt“. Gezählt werden Entfernungen der letzten 365 Tage, die nicht rückgängig gemacht wurden. Auf das Ranking hat der Hinweis laut Google keinen Einfluss.
+
+> **Kein Rechtsrat:** Ob eine Aussage eine geschützte Meinung oder eine unwahre Tatsachenbehauptung ist, entscheidet der Einzelfall. Lassen Sie das anwaltlich prüfen, bevor Sie eine rechtliche Meldung einreichen. Für Österreich und die Schweiz gelten eigene Regeln. Den Digital Services Act gibt es in der EU, also in Österreich, nicht aber in der Schweiz.
+
+## Wenn die Rezension online bleibt
+
+Bleibt eine Rezension nach Meldung und Einspruch stehen, ist eine sachliche Antwort Ihr wichtigstes Werkzeug. Künftige Kunden lesen Rezension und Antwort zusammen. Zusätzlich hilft ein fairer, laufender Ablauf, mit dem echte Kunden regelmäßig Rezensionen schreiben.
+
+- **Antworten:** kurz, sachlich, ohne Kundendaten, mit einem direkten Kontakt. Formulierungen finden Sie in den [Vorlagen für Bewertungs-Antworten](https://localdominate.org/blog/bewertungs-antworten-vorlagen).
+- **Klären statt kaufen:** Nach einer echten Klärung dürfen Sie darauf hinweisen, dass der Kunde seine Rezension aktualisieren kann. Eine Gegenleistung dafür verbietet Google.
+- **Neue echte Rezensionen:** Ein fester Moment im Kundenkontakt, an dem Sie alle Kunden gleich fragen. Wie das regelkonform geht, steht in [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
+- **Vorsicht bei Löschdiensten:** Über das Entfernen nach Richtlinien entscheidet Google. Wer Ihnen eine sichere Löschung gegen Geld verspricht, kann das nicht zusagen.
+
+Praxen, Kanzleien und Steuerberater sollten in Antworten besonders zurückhaltend sein, weil schon die Bestätigung eines Patienten- oder Mandatsverhältnisses heikel sein kann. Mehr dazu in [Local SEO für Arztpraxen](https://localdominate.org/blog/local-seo-aerzte-praxen) und auf unserer englischen Seite für [Praxen](https://localdominate.org/industries/practices). Wie Rezensionen insgesamt in Ihr Profil einzahlen, zeigt [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren), welche Rolle sie im lokalen Ranking spielen, der [Local SEO Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo).
+
+## Häufige Fragen
+
+### Kann ich eine Google-Bewertung selbst löschen?
+
+Nein. Als Unternehmen können Sie Rezensionen melden und beantworten, aber nicht löschen. Löschen kann sie nur der Verfasser selbst. Google entfernt Rezensionen, die gegen die Richtlinien verstoßen oder aus rechtlichen Gründen nicht online bleiben dürfen.
+
+### Wie lange dauert die Prüfung einer gemeldeten Bewertung?
+
+Laut Google dauert die Überprüfung in der Regel mehrere Tage. Den Stand sehen Sie im Tool zum Verwalten von Bewertungen. Das Ergebnis eines Einspruchs bekommen Sie per E-Mail. Feste Fristen nennt Google nicht.
+
+### Wie oft kann ich Einspruch einlegen?
+
+Einmal je Rezension, und nur wenn die Meldung mit „kein Richtlinienverstoß“ abgeschlossen wurde. Im Tool können Sie dafür bis zu zehn Rezensionen gleichzeitig auswählen.
+
+### Was tun, wenn der Verfasser nie Kunde war?
+
+Prüfen Sie Ihre Unterlagen und sichern Sie Belege. Gibt es Hinweise auf Spam oder einen Interessenkonflikt, melden Sie die Rezension. Sonst bleibt der rechtliche Weg. Legt der Verfasser in Deutschland Einspruch gegen eine Entfernung ein, bittet Google ihn um Nachweise seiner Erfahrung. Lassen Sie das anwaltlich prüfen.
+
+### Hilft es, eine Bewertung mehrmals zu melden?
+
+Google beschreibt keinen Vorteil durch wiederholte Meldungen. Sinnvoller ist eine Meldung mit dem genau passenden Grund, danach der Status im Tool und bei Ablehnung ein begründeter Einspruch.
+
+### Was ist, wenn eine echte positive Bewertung verschwunden ist?
+
+Google entfernt mit automatischer Spamerkennung manchmal auch echte Rezensionen. Für diesen Fall verweist Google auf den Support. Prüfen Sie vorher, ob die Rezension vielleicht nur verzögert angezeigt wird.
+
+## Quellen
+
+- [Unangemessene Rezensionen in Ihrem Unternehmensprofil melden](https://support.google.com/business/answer/4596773?hl=de), Google Unternehmensprofil-Hilfe
+- [Inhalte melden oder korrigieren](https://support.google.com/contributionpolicy/answer/7445749?hl=de), Google Maps-Hilfe
+- [Verbotene und eingeschränkt zulässige Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe
+- [Rezensionen schreiben, bearbeiten oder löschen](https://support.google.com/maps/answer/6230175?hl=de), Google Maps-Hilfe
+- [Inhalte aus rechtlichen Gründen melden](https://support.google.com/legal/answer/3110420?hl=de), Google Rechtshilfe
+- [Hinweise zur Entfernung von Bewertungen wegen Diffamierungen in Deutschland](https://support.google.com/contributionpolicy/answer/16997273?hl=de), Google Maps-Hilfe
+- [Einspruch gegen Entfernung einer Bewertung in Deutschland einlegen](https://support.google.com/legal-help-center/answer/16796690?hl=de), Google Rechtshilfe
+- [Lösungsmöglichkeiten nach dem Gesetz über digitale Dienste der EU](https://support.google.com/european-union-digital-services-act-redress-options/answer/13535501?hl=de), Google Hilfe
+
+---
+
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org

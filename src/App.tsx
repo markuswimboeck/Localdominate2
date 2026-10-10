@@ -111,13 +111,11 @@ const LocalSeoBasel = lazy(() => import("./pages/blog/LocalSeoBasel"));
 const LocalSeoYoga = lazy(() => import("./pages/blog/LocalSeoYoga"));
 const LocalSeoTattoo = lazy(() => import("./pages/blog/LocalSeoTattoo"));
 const LocalSeoApotheke = lazy(() => import("./pages/blog/LocalSeoApotheke"));
-const GbpFotosOptimieren = lazy(() => import("./pages/blog/GbpFotosOptimieren"));
 const LocalSeoMehrstufigUnternehmen = lazy(() => import("./pages/blog/LocalSeoMehrstufigUnternehmen"));
 const EEATLokaleUnternehmen = lazy(() => import("./pages/blog/EEATLokaleUnternehmen"));
 const LocalSeoNeugruender = lazy(() => import("./pages/blog/LocalSeoNeugruender"));
 const LocalSeoPhysiotherapie = lazy(() => import("./pages/blog/LocalSeoPhysiotherapie"));
 const LocalSeoNotdienstKeywords = lazy(() => import("./pages/blog/LocalSeoNotdienstKeywords"));
-const GoogleBusinessKategorienGuide = lazy(() => import("./pages/blog/GoogleBusinessKategorienGuide"));
 const LocalSeoZahnarzt = lazy(() => import("./pages/blog/LocalSeoZahnarzt"));
 const LocalSeoSanitaerHeizung = lazy(() => import("./pages/blog/LocalSeoSanitaerHeizung"));
 const LokaleEventsMarketing = lazy(() => import("./pages/blog/LokaleEventsMarketing"));
@@ -132,14 +130,6 @@ const LocalSeoVoiceSearch = lazy(() => import("./pages/blog/LocalSeoVoiceSearch"
 const GooglePostsRankingFaktor = lazy(() => import("./pages/blog/GooglePostsRankingFaktor"));
 
 // Troubleshooting & neue Artikel
-const GbpSuspendiertReaktivieren = lazy(() => import("./pages/blog/GbpSuspendiertReaktivieren"));
-const DuplicateListingEntfernen = lazy(() => import("./pages/blog/DuplicateListingEntfernen"));
-const GbpBewertungLoeschenAnleitung = lazy(() => import("./pages/blog/GbpBewertungLoeschenAnleitung"));
-const RankingPloetzlichVerschwunden = lazy(() => import("./pages/blog/RankingPloetzlichVerschwunden"));
-const GbpNichtInSucheSichtbar = lazy(() => import("./pages/blog/GbpNichtInSucheSichtbar"));
-const GbpMehrereStandorte = lazy(() => import("./pages/blog/GbpMehrereStandorte"));
-const GbpOeffnungszeitenSondertage = lazy(() => import("./pages/blog/GbpOeffnungszeitenSondertage"));
-const GbpAttributeRichtigNutzen = lazy(() => import("./pages/blog/GbpAttributeRichtigNutzen"));
 const LocalSeoVsMaps = lazy(() => import("./pages/blog/LocalSeoVsMaps"));
 const LocalSeoVsOrganisch = lazy(() => import("./pages/blog/LocalSeoVsOrganisch"));
 const GoogleMapsSeoVsOrganicSeo = lazy(() => import("./pages/blog/GoogleMapsSeoVsOrganicSeo"));
@@ -345,13 +335,11 @@ const App = () => (
                 <Route path="/blog/local-seo-yoga-studios" element={<LocalSeoYoga />} />
                 <Route path="/blog/local-seo-tattoo-studios" element={<LocalSeoTattoo />} />
                 <Route path="/blog/local-seo-apotheken" element={<LocalSeoApotheke />} />
-                <Route path="/blog/gbp-fotos-optimieren" element={<GbpFotosOptimieren />} />
                 <Route path="/blog/local-seo-mehrstufig-unternehmen" element={<LocalSeoMehrstufigUnternehmen />} />
                 <Route path="/blog/e-e-a-t-lokale-unternehmen" element={<EEATLokaleUnternehmen />} />
                 <Route path="/blog/lokale-seo-fuer-neugruender" element={<LocalSeoNeugruender />} />
                 <Route path="/blog/local-seo-physiotherapie" element={<LocalSeoPhysiotherapie />} />
                 <Route path="/blog/local-seo-notdienst-keywords" element={<LocalSeoNotdienstKeywords />} />
-                <Route path="/blog/google-business-kategorien-guide" element={<GoogleBusinessKategorienGuide />} />
                 <Route path="/blog/local-seo-zahnarzt" element={<LocalSeoZahnarzt />} />
                 <Route path="/blog/local-seo-sanitaer-heizung" element={<LocalSeoSanitaerHeizung />} />
                 <Route path="/blog/lokale-events-marketing" element={<LokaleEventsMarketing />} />
@@ -364,14 +352,6 @@ const App = () => (
                 <Route path="/blog/local-seo-fotograf" element={<LocalSeoFotograf />} />
                 <Route path="/blog/local-seo-voice-search" element={<LocalSeoVoiceSearch />} />
                 <Route path="/blog/google-posts-ranking-faktor" element={<GooglePostsRankingFaktor />} />
-                <Route path="/blog/gbp-suspendiert-reaktivieren" element={<GbpSuspendiertReaktivieren />} />
-                <Route path="/blog/duplicate-listing-entfernen" element={<DuplicateListingEntfernen />} />
-                <Route path="/blog/gbp-bewertung-loeschen-anleitung" element={<GbpBewertungLoeschenAnleitung />} />
-                <Route path="/blog/ranking-ploetzlich-verschwunden" element={<RankingPloetzlichVerschwunden />} />
-                <Route path="/blog/gbp-nicht-in-suche-sichtbar" element={<GbpNichtInSucheSichtbar />} />
-                <Route path="/blog/gbp-mehrere-standorte" element={<GbpMehrereStandorte />} />
-                <Route path="/blog/gbp-oeffnungszeiten-sondertage" element={<GbpOeffnungszeitenSondertage />} />
-                <Route path="/blog/gbp-attribute-richtig-nutzen" element={<GbpAttributeRichtigNutzen />} />
                 <Route path="/blog/local-seo-vs-maps-seo" element={<LocalSeoVsMaps />} />
                 <Route path="/blog/local-seo-vs-organisch" element={<LocalSeoVsOrganisch />} />
                 <Route path="/blog/google-maps-seo-vs-organic-seo" element={<GoogleMapsSeoVsOrganicSeo />} />

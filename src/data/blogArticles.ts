@@ -2625,10 +2625,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "gbp-fotos-optimieren",
     de: {
-      title: "Google Business Fotos optimieren: Der komplette Bilder-Guide",
-      metaTitle: "Google Business Fotos optimieren | Bilder-Guide 2026",
-      metaDescription: "So optimierst du Fotos für dein Google Business Profil. Bildgrößen, Kategorien, Alt-Texte und Best Practices für mehr Klicks.",
-      excerpt: "Der ultimative Guide zur Foto-Optimierung für Google Business Profile.",
+      title: "Fotos und Videos im Google-Unternehmensprofil richtig einsetzen",
+      metaTitle: "Google Business Fotos: Vorgaben, Motive und Routine",
+      metaDescription: "Fotos und Videos im Google-Unternehmensprofil: Googles Vorgaben zu Format und Größe, passende Motive je Branche, Kundenfotos melden, Datenschutz und Routine.",
+      excerpt: "Fotos und Videos im Google-Unternehmensprofil: Googles Vorgaben zu Format und Größe, passende Motive je Branche, Kundenfotos melden, Datenschutz und Routine.",
       category: "Google Business"
     },
     en: {
@@ -2638,9 +2638,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The ultimate guide to photo optimization for Google Business Profiles.",
       category: "Google Business"
     },
-    readingTime: 14,
+    readingTime: 11,
     publishedAt: "2026-01-12",
-    updatedAt: "2026-01-12",
+    updatedAt: "2026-10-10",
     icon: "📸",
     keywords: ["google business fotos", "gbp bilder", "google maps bilder", "unternehmensfotos", "foto optimierung"],
     featured: false
@@ -2786,10 +2786,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-business-kategorien-guide",
     de: {
-      title: "Google Business Kategorien: Welche passt zu deinem Unternehmen?",
-      metaTitle: "Google Business Kategorien | Vollständiger Guide 2026",
-      metaDescription: "Die richtige Google Business Kategorie wählen. Haupt- und Nebenkategorien, Branchenübersicht und Optimierungstipps.",
-      excerpt: "Der komplette Guide zur Auswahl der richtigen Google Business Kategorien.",
+      title: "Google Business Kategorien: So wählen Sie die richtige",
+      metaTitle: "Google Business Kategorien richtig wählen: Leitfaden",
+      metaDescription: "Google-Unternehmensprofil: Haupt- und weitere Kategorien nach Googles Regeln wählen, passende Kategorie finden, Funktionen verstehen und Änderungen umsetzen.",
+      excerpt: "Google-Unternehmensprofil: Haupt- und weitere Kategorien nach Googles Regeln wählen, passende Kategorie finden, Funktionen verstehen und Änderungen umsetzen.",
       category: "Google Business"
     },
     en: {
@@ -2799,9 +2799,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide to choosing the right Google Business categories.",
       category: "Google Business"
     },
-    readingTime: 15,
+    readingTime: 11,
     publishedAt: "2026-02-05",
-    updatedAt: "2026-02-05",
+    updatedAt: "2026-10-10",
     icon: "📁",
     keywords: ["google business kategorien", "gbp category", "branchenkategorie", "kategorie wählen", "unternehmenskategorie"],
     featured: false
@@ -3063,10 +3063,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "gbp-suspendiert-reaktivieren",
     de: {
-      title: "Google Business Profil suspendiert – So stellst du es wieder her (2026 Anleitung)",
-      metaTitle: "GBP Suspendiert? Profil reaktivieren | 2026",
-      metaDescription: "Google Business Profil suspendiert? So erkennst du Soft oder Hard Suspension und reaktivierst dein Profil erfolgreich.",
-      excerpt: "Der komplette Guide zur Reaktivierung eines suspendierten Google Business Profils mit Diagnose-Tool und Appeal-Vorlagen.",
+      title: "Google Unternehmensprofil gesperrt: Status verstehen und Einspruch einlegen",
+      metaTitle: "Google-Profil gesperrt: Einspruch Schritt für Schritt",
+      metaDescription: "Google Unternehmensprofil gesperrt, deaktiviert oder eingeschränkt? Was der Status bedeutet, welche Nachweise Google annimmt und wie der Einspruch abläuft.",
+      excerpt: "Google Unternehmensprofil gesperrt, deaktiviert oder eingeschränkt? Was der Status bedeutet, welche Nachweise Google annimmt und wie der Einspruch abläuft.",
       category: "Troubleshooting"
     },
     en: {
@@ -3076,9 +3076,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide to reactivating a suspended Google Business Profile with diagnostic tool and appeal templates.",
       category: "Troubleshooting"
     },
-    readingTime: 14,
+    readingTime: 12,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-02-08",
+    updatedAt: "2026-10-10",
     icon: "🚫",
     keywords: ["gbp suspendiert", "google business suspendiert", "profil reaktivieren", "suspension beheben", "google appeal"]
   },
@@ -3107,10 +3107,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "duplicate-listing-entfernen",
     de: {
-      title: "Doppelte Google-Einträge löschen – Duplicate Listing Anleitung (2026)",
-      metaTitle: "Duplicate Listing entfernen | Google-Einträge 2026",
-      metaDescription: "Hast du mehrere Google Business Einträge für denselben Standort? Lerne wie du Duplicates findest, richtig entfernst und zukünftige Dopplungen verhinderst.",
-      excerpt: "Der komplette Guide zum Finden und Entfernen von doppelten Google Business Einträgen mit interaktiver Checkliste.",
+      title: "Doppelte Google-Einträge finden und entfernen: alle offiziellen Wege",
+      metaTitle: "Doppelte Google-Einträge entfernen: die Anleitung",
+      metaDescription: "Doppelte Google-Profile finden und bereinigen: entfernen, Zugriff anfordern oder in Maps melden. Mit Sonderfällen wie Praxis, Umzug, neuer Name und Abteilung.",
+      excerpt: "Doppelte Google-Profile finden und bereinigen: entfernen, Zugriff anfordern oder in Maps melden. Mit Sonderfällen wie Praxis, Umzug, neuer Name und Abteilung.",
       category: "Troubleshooting"
     },
     en: {
@@ -3122,17 +3122,17 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-02-08",
+    updatedAt: "2026-10-10",
     icon: "📋",
     keywords: ["duplicate listing", "doppelte einträge", "google business duplicate", "duplicate entfernen", "mehrere google einträge"]
   },
   {
     slug: "gbp-bewertung-loeschen-anleitung",
     de: {
-      title: "Google Bewertung löschen lassen – Schritt-für-Schritt Anleitung (2026)",
-      metaTitle: "Google Bewertung löschen: Anleitung zum Melden & Entfernen | 2026",
-      metaDescription: "Fake-Bewertung oder Verleumdung auf Google? Lerne welche Bewertungen entfernt werden können und wie du erfolgreich gegen unfaire Reviews vorgehst.",
-      excerpt: "Der komplette Guide zum Entfernen von unangemessenen Google Bewertungen mit Erfolgsstrategien und rechtlichen Optionen.",
+      title: "Google-Bewertung löschen lassen: die Anleitung Schritt für Schritt",
+      metaTitle: "Google-Bewertung löschen lassen: Anleitung in 3 Wegen",
+      metaDescription: "Google-Bewertung löschen lassen: welcher Grund zu welchem Weg passt, wie Sie im Profil, im Bewertungstool und in Maps melden und wann der rechtliche Weg greift.",
+      excerpt: "Google-Bewertung löschen lassen: welcher Grund zu welchem Weg passt, wie Sie im Profil, im Bewertungstool und in Maps melden und wann der rechtliche Weg greift.",
       category: "Troubleshooting"
     },
     en: {
@@ -3142,19 +3142,19 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide to removing inappropriate Google reviews with success strategies and legal options.",
       category: "Troubleshooting"
     },
-    readingTime: 13,
+    readingTime: 11,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-02-08",
+    updatedAt: "2026-10-10",
     icon: "🗑️",
     keywords: ["google bewertung löschen", "fake bewertung melden", "bewertung entfernen", "negative bewertung löschen", "google review löschen"]
   },
   {
     slug: "ranking-ploetzlich-verschwunden",
     de: {
-      title: "Google Ranking plötzlich verschwunden – Ursachen & Soforthilfe (2026)",
-      metaTitle: "Ranking verschwunden? Diagnose & Soforthilfe | Guide 2026",
-      metaDescription: "Dein Google Ranking ist plötzlich weg? Finde heraus ob es an einem Update, einer Penalty oder technischen Problemen liegt. Mit Diagnose-Flowchart.",
-      excerpt: "Schnelle Diagnose und Lösungen wenn dein lokales Google Ranking plötzlich einbricht oder verschwindet.",
+      title: "Plötzlich nicht mehr in Google Maps: Ursachen finden und richtig handeln",
+      metaTitle: "Aus Google Maps verschwunden? Ursachen prüfen",
+      metaDescription: "Ihr Betrieb ist plötzlich nicht mehr in Google Maps oder im Kartenblock? So prüfen Sie Profilstatus, Änderungen, Duplikate, Kategorie und Google-Updates.",
+      excerpt: "Ihr Betrieb ist plötzlich nicht mehr in Google Maps oder im Kartenblock? So prüfen Sie Profilstatus, Änderungen, Duplikate, Kategorie und Google-Updates.",
       category: "Troubleshooting"
     },
     en: {
@@ -3164,19 +3164,19 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Quick diagnosis and solutions when your local Google ranking suddenly drops or disappears.",
       category: "Troubleshooting"
     },
-    readingTime: 10,
+    readingTime: 11,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-02-08",
+    updatedAt: "2026-10-10",
     icon: "📉",
     keywords: ["ranking verschwunden", "google ranking weg", "ranking einbruch", "google penalty", "ranking verloren"]
   },
   {
     slug: "gbp-nicht-in-suche-sichtbar",
     de: {
-      title: "Google Business Profil nicht in Suche sichtbar – 12 Lösungen (2026)",
-      metaTitle: "GBP nicht sichtbar in Google? 12 Lösungen | Guide 2026",
-      metaDescription: "Dein Google Business Profil taucht nicht in der Suche auf? Finde heraus warum und wie du wieder sichtbar wirst. Mit Diagnose-Tool.",
-      excerpt: "Alle Gründe warum dein GBP in Google nicht angezeigt wird und wie du das Problem behebst.",
+      title: "Google-Unternehmensprofil nicht in der Suche sichtbar: Ursachen finden und beheben",
+      metaTitle: "Google-Profil nicht sichtbar? Ursachen und Lösungen",
+      metaDescription: "Ihr Unternehmensprofil erscheint nicht bei Google? So klären Sie, ob es um Status, Bestätigung, Sperrung oder Duplikat geht oder nur um das lokale Ranking.",
+      excerpt: "Ihr Unternehmensprofil erscheint nicht bei Google? So klären Sie, ob es um Status, Bestätigung, Sperrung oder Duplikat geht oder nur um das lokale Ranking.",
       category: "Troubleshooting"
     },
     en: {
@@ -3188,17 +3188,17 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-02-08",
+    updatedAt: "2026-10-10",
     icon: "👁️",
     keywords: ["gbp nicht sichtbar", "google business nicht gefunden", "profil nicht angezeigt", "maps eintrag fehlt", "gbp indexierung"]
   },
   {
     slug: "gbp-mehrere-standorte",
     de: {
-      title: "Google Business für mehrere Standorte verwalten – Der Multi-Location Guide (2026)",
-      metaTitle: "GBP mehrere Standorte verwalten | Multi-Location Guide 2026",
-      metaDescription: "Wie du mehrere Google Business Profile effizient verwaltest. Bulk-Uploads, Standortgruppen und Best Practices für Filialisten.",
-      excerpt: "Der komplette Guide zur Verwaltung mehrerer Google Business Standorte mit Bulk-Tools und Organisationstipps.",
+      title: "Mehrere Standorte bei Google verwalten: ein Leitfaden für 2 bis 50 Filialen",
+      metaTitle: "Mehrere Standorte im Google-Unternehmensprofil verwalten",
+      metaDescription: "Mehrere Filialen bei Google: ein Profil je Standort, einheitlicher Name, Unternehmensgruppen, Rollen, Sammelbestätigung ab zehn Standorten und Standortseiten.",
+      excerpt: "Mehrere Filialen bei Google: ein Profil je Standort, einheitlicher Name, Unternehmensgruppen, Rollen, Sammelbestätigung ab zehn Standorten und Standortseiten.",
       category: "Google Business"
     },
     en: {
@@ -3208,19 +3208,19 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide to managing multiple Google Business locations with bulk tools and organization tips.",
       category: "Google Business"
     },
-    readingTime: 15,
+    readingTime: 12,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-02-08",
+    updatedAt: "2026-10-10",
     icon: "🏢",
     keywords: ["gbp mehrere standorte", "multi location seo", "standortgruppen", "bulk upload", "filialisten google"]
   },
   {
     slug: "gbp-oeffnungszeiten-sondertage",
     de: {
-      title: "Google Business Öffnungszeiten & Sondertage richtig einstellen (2026)",
-      metaTitle: "GBP Öffnungszeiten & Feiertage einstellen | Guide 2026",
-      metaDescription: "Wie du Öffnungszeiten, Feiertage und Sonderöffnungszeiten in Google Business korrekt einstellst. Mit saisonalen Tipps.",
-      excerpt: "Der komplette Guide zu Öffnungszeiten in Google Business inkl. Feiertage, Betriebsferien und Sonderöffnungen.",
+      title: "Öffnungszeiten, Feiertage und Sonderzeiten im Google-Unternehmensprofil",
+      metaTitle: "Google Öffnungszeiten, Feiertage und Sonderzeiten pflegen",
+      metaDescription: "Öffnungszeiten im Google-Unternehmensprofil pflegen: Feiertage, spezielle und weitere Zeiten, Saisonbetriebe, vorübergehend geschlossen und Website-Markup.",
+      excerpt: "Öffnungszeiten im Google-Unternehmensprofil pflegen: Feiertage, spezielle und weitere Zeiten, Saisonbetriebe, vorübergehend geschlossen und Website-Markup.",
       category: "Google Business"
     },
     en: {
@@ -3230,19 +3230,19 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide to opening hours in Google Business incl. holidays, vacation periods and special hours.",
       category: "Google Business"
     },
-    readingTime: 9,
+    readingTime: 11,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-02-08",
+    updatedAt: "2026-10-10",
     icon: "🕐",
     keywords: ["gbp öffnungszeiten", "google business feiertage", "sonderöffnungszeiten", "betriebsferien eintragen", "öffnungszeiten ändern"]
   },
   {
     slug: "gbp-attribute-richtig-nutzen",
     de: {
-      title: "Google Business Attribute richtig nutzen – Alle Optionen erklärt (2026)",
-      metaTitle: "GBP Attribute richtig nutzen | Alle Optionen erklärt 2026",
-      metaDescription: "Von LGBTQ+-freundlich bis Rollstuhlzugang: Welche Google Business Attribute es gibt und wie du sie für mehr Sichtbarkeit nutzt.",
-      excerpt: "Der komplette Überblick über alle Google Business Attribute und wie sie dein Ranking und deine Kundenansprache verbessern.",
+      title: "Attribute im Google-Unternehmensprofil richtig nutzen",
+      metaTitle: "Google-Attribute im Unternehmensprofil richtig nutzen",
+      metaDescription: "Welche Attribute Sie im Google-Unternehmensprofil selbst setzen, was von Kunden kommt, wann ein Eingang als rollstuhlgerecht gilt und welche Angaben schaden.",
+      excerpt: "Welche Attribute Sie im Google-Unternehmensprofil selbst setzen, was von Kunden kommt, wann ein Eingang als rollstuhlgerecht gilt und welche Angaben schaden.",
       category: "Google Business"
     },
     en: {
@@ -3252,9 +3252,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete overview of all Google Business attributes and how they improve your ranking and customer appeal.",
       category: "Google Business"
     },
-    readingTime: 10,
+    readingTime: 9,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-02-08",
+    updatedAt: "2026-10-10",
     icon: "🏷️",
     keywords: ["gbp attribute", "google business attribute", "barrierefreiheit", "lgbtq freundlich", "ausstattungsmerkmale"]
   },
