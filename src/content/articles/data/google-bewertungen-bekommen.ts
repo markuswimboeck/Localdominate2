@@ -20,7 +20,7 @@ const article: V4Article = {
     "Regelwidrige Rezensionen melden Sie über Googles offizielles Verfahren. Echte, aber unangenehme Kritik entfernt Google nicht.",
   ],
   publishedAt: "2026-01-07",
-  updatedAt: "2026-10-09",
+  updatedAt: "2026-10-10",
   readingTime: 11,
   sections: [
     {
@@ -133,7 +133,7 @@ const article: V4Article = {
             ["Hotel und Ferienwohnung", "Beim Check-out oder am Tag nach der Abreise", "QR-Code an der Rezeption, Link in der Abreisemail"],
             ["Arzt- und Zahnarztpraxis", "Nach Abschluss einer Behandlung, nicht mitten in der Therapie", "QR-Code am Empfang, Link im Recall-Schreiben, sofern der Patient dem zugestimmt hat"],
             ["Handwerk", "Bei der Abnahme oder mit der Schlussrechnung", "Link und QR-Code auf der Rechnung, kurze Nachricht nach Abschluss"],
-            ["Geschäft und Gastronomie", "An der Kasse oder beim Bezahlen", "Aufsteller mit QR-Code, Link auf dem Kassenbon oder in der Bestellbestätigung"],
+            ["Geschäft und Gastronomie", "Nach dem Bezahlen, als Hinweis ohne Nachfragen", "Aufsteller mit QR-Code, Link auf dem Kassenbon oder in der Bestellbestätigung"],
           ],
         },
         {
@@ -143,6 +143,11 @@ const article: V4Article = {
             "**E-Mail und Nachrichten nur mit Erlaubnis.** Werbliche E-Mails und Messenger-Nachrichten brauchen in der Regel eine Einwilligung. Eine Bewertungsbitte kann als Werbung gelten. Klären Sie das im Zweifel mit Ihrer Datenschutzberatung.",
             "**Alle fragen, nicht nur die Stammkunden.** Das ist Googles Regel und macht Ihr Profil glaubwürdiger.",
           ],
+        },
+        {
+          t: "note",
+          label: "Vor Ort: anbieten, nicht drängen",
+          text: "Googles Richtlinien verbieten, Kunden vor Ort zu einer Bewertung zu drängen oder sie dazu zu verpflichten. Ebenso verboten sind feste Quoten für Mitarbeitende und Bitten um Rezensionen, die eine bestimmte Person nennen. Ein QR-Code am Empfang oder auf dem Beleg ist ein Angebot. Wer ihn nicht nutzt, wird nicht darauf angesprochen.",
         },
       ],
     },

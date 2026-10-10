@@ -220,7 +220,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-10-09",
+    updatedAt: "2026-10-10",
     icon: "⭐",
     keywords: ["google reviews", "get reviews", "customer reviews"]
   },

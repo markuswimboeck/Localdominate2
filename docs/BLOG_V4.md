@@ -27,7 +27,7 @@ Duplicates are not skipped: they get a distinct angle (owner decision 3 Oct 2026
   Where no number exists, describe the method.
 - Never recommend what Google's guidelines forbid (keywords in the business name, incentivised or
   gated reviews, virtual offices, doorway city pages). Do not recommend retired features
-  (GBP Q&A and chat, HowTo rich results, FAQ rich results outside gov/health, FID, Mobile-Friendly Test).
+  (GBP Q&A and chat, HowTo rich results, FAQ rich results (no longer shown at all since 7 May 2026, see Search Central documentation updates), FID, Mobile-Friendly Test). Google forbids pressuring customers to review while on the premises, staff review quotas and reviews that must name a staff member.
 - German, "Sie", short concrete sentences, no dashes as punctuation, no exclamation marks.
 - `answer` 40–70 words; every section starts with a one- or two-sentence `answer`.
 - Prices only from `src/data/v4Offers.ts`. CTA goes to the German free check (`/de#check`).

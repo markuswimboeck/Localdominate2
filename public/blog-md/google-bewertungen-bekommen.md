@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/google-bewertungen-bekommen
 markdown_url: https://localdominate.org/blog-md/google-bewertungen-bekommen.md
 language: de-DE
 published: 2026-01-07
-updated: 2026-10-09
+updated: 2026-10-10
 reading_time_minutes: 11
 category: "Bewertungen"
 author: LocalDominate Redaktion
@@ -94,11 +94,13 @@ Eine Bitte, die vom Zufall abhängt, wird selten gestellt. Legen Sie deshalb ein
 | Hotel und Ferienwohnung | Beim Check-out oder am Tag nach der Abreise | QR-Code an der Rezeption, Link in der Abreisemail |
 | Arzt- und Zahnarztpraxis | Nach Abschluss einer Behandlung, nicht mitten in der Therapie | QR-Code am Empfang, Link im Recall-Schreiben, sofern der Patient dem zugestimmt hat |
 | Handwerk | Bei der Abnahme oder mit der Schlussrechnung | Link und QR-Code auf der Rechnung, kurze Nachricht nach Abschluss |
-| Geschäft und Gastronomie | An der Kasse oder beim Bezahlen | Aufsteller mit QR-Code, Link auf dem Kassenbon oder in der Bestellbestätigung |
+| Geschäft und Gastronomie | Nach dem Bezahlen, als Hinweis ohne Nachfragen | Aufsteller mit QR-Code, Link auf dem Kassenbon oder in der Bestellbestätigung |
 
 - **Einmal fragen, einmal erinnern.** Wer nach einer Erinnerung nicht reagiert, möchte vermutlich nicht.
 - **E-Mail und Nachrichten nur mit Erlaubnis.** Werbliche E-Mails und Messenger-Nachrichten brauchen in der Regel eine Einwilligung. Eine Bewertungsbitte kann als Werbung gelten. Klären Sie das im Zweifel mit Ihrer Datenschutzberatung.
 - **Alle fragen, nicht nur die Stammkunden.** Das ist Googles Regel und macht Ihr Profil glaubwürdiger.
+
+> **Vor Ort: anbieten, nicht drängen:** Googles Richtlinien verbieten, Kunden vor Ort zu einer Bewertung zu drängen oder sie dazu zu verpflichten. Ebenso verboten sind feste Quoten für Mitarbeitende und Bitten um Rezensionen, die eine bestimmte Person nennen. Ein QR-Code am Empfang oder auf dem Beleg ist ein Angebot. Wer ihn nicht nutzt, wird nicht darauf angesprochen.
 
 ## Formulierungen für die Bitte
 
@@ -209,4 +211,4 @@ Eine Mindestzahl nennt Google nicht. Google schreibt nur, dass mehr Rezensionen 
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-09. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
