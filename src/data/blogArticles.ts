@@ -1048,22 +1048,22 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-case-study-baecker",
     de: {
-      title: "Local SEO Case Study: Wie ein Bäcker 200% mehr Kunden gewann",
-      metaTitle: "Local SEO Case Study Bäcker | Erfolgsgeschichte",
-      metaDescription: "Echte Case Study: Wie eine traditionelle Bäckerei durch Local SEO ihre Kundenfrequenz verdreifachte. Mit Zahlen, Maßnahmen und Learnings.",
-      excerpt: "Eine authentische Erfolgsgeschichte: Von unsichtbar bei Google zu Platz 1 im Local Pack.",
+      title: "Bäckerei-Profil prüfen: der Check in sechs Schritten",
+      metaTitle: "Bäckerei-Profil bei Google prüfen: Schritt für Schritt",
+      metaDescription: "Profil-Check für Bäckereien in sechs Schritten: Name, Kategorien, Fotos, Öffnungszeiten, Leistungen und Bewertungen prüfen, mit den Regeln aus Googles Hilfe.",
+      excerpt: "Profil-Check für Bäckereien in sechs Schritten: Name, Kategorien, Fotos, Öffnungszeiten, Leistungen und Bewertungen prüfen, mit den Regeln aus Googles Hilfe.",
       category: "Case Study"
     },
     en: {
-      title: "Local SEO Case Study: How a Bakery Gained 200% More Customers",
-      metaTitle: "Local SEO Case Study Bakery | Success Story",
-      metaDescription: "Real case study: How a traditional bakery tripled its customer frequency through Local SEO. With numbers, measures and learnings.",
-      excerpt: "An authentic success story: From invisible on Google to position 1 in the Local Pack.",
-      category: "Case Study"
+      title: "Bakery Google Profile Check: Six Steps",
+      metaTitle: "Bakery Profile Check: Six Steps | Local SEO",
+      metaDescription: "Check a bakery Google profile in six steps: name, categories, photos, opening hours, services and reviews, based on Google help pages.",
+      excerpt: "A step-by-step profile check for bakeries, based on Google help pages.",
+      category: "Google Business"
     },
     readingTime: 10,
     publishedAt: "2026-02-02",
-    updatedAt: "2026-02-02",
+    updatedAt: "2026-10-10",
     icon: "🥐",
     keywords: ["local seo case study", "erfolgsgeschichte", "bäckerei marketing", "local seo beispiel", "kundengewinnung"],
     featured: true
@@ -1071,10 +1071,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-fehler",
     de: {
-      title: "Local SEO Fehler: 15 Gründe warum du nicht gefunden wirst",
-      metaTitle: "Local SEO Fehler vermeiden | 15 Probleme 2026",
-      metaDescription: "Die 15 häufigsten Local SEO Fehler und wie du sie vermeidest. Mit interaktivem Diagnose-Quiz und Lösungen für jedes Problem.",
-      excerpt: "Finde heraus, welche Fehler dich unsichtbar machen – und wie du sie sofort behebst.",
+      title: "Local SEO Fehler: Warum Ihr Betrieb lokal nicht gefunden wird",
+      metaTitle: "Local SEO Fehler: Warum Sie lokal nicht gefunden werden",
+      metaDescription: "Die häufigsten Local SEO Fehler bei Profil, Website und Bewertungen, mit den Regeln von Google und einer Reihenfolge zur Korrektur für Ihren Betrieb.",
+      excerpt: "Die häufigsten Local SEO Fehler bei Profil, Website und Bewertungen, mit den Regeln von Google und einer Reihenfolge zur Korrektur für Ihren Betrieb.",
       category: "Strategie"
     },
     en: {
@@ -1084,9 +1084,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Find out which mistakes are making you invisible – and how to fix them immediately.",
       category: "Strategy"
     },
-    readingTime: 14,
+    readingTime: 8,
     publishedAt: "2026-02-06",
-    updatedAt: "2026-02-06",
+    updatedAt: "2026-10-10",
     icon: "🚫",
     keywords: ["local seo fehler", "seo probleme", "nicht gefunden werden", "seo diagnose", "ranking probleme"],
     featured: true
@@ -1096,10 +1096,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-doener-kebab-imbiss",
     de: {
-      title: "Local SEO für Döner & Kebab-Imbisse: Der ultimative Marketing-Guide 2026",
-      metaTitle: "Local SEO für Döner-Läden | Kebab-Marketing 2026",
-      metaDescription: "Der komplette SEO-Guide für Döner-Läden: Keywords, Google Business, Bewertungen, Lieferportale & Social Media. Mit 3 interaktiven Tools!",
-      excerpt: "Von Keywords über Bewertungen bis Lieferportale: Alles was Döner-Imbisse brauchen, um bei Google gefunden zu werden.",
+      title: "Local SEO für Döner- und Kebab-Imbisse: So finden Kunden Ihren Laden",
+      metaTitle: "Local SEO für Döner-Imbisse: Google-Profil richtig nutzen",
+      metaDescription: "Local SEO für Döner- und Kebab-Imbisse: Unternehmensprofil, Speisekarte, Fotos und Bewertungen. Was Google erlaubt, was es verbietet und wo Sie anfangen.",
+      excerpt: "Local SEO für Döner- und Kebab-Imbisse: Unternehmensprofil, Speisekarte, Fotos und Bewertungen. Was Google erlaubt, was es verbietet und wo Sie anfangen.",
       category: "Gastronomie"
     },
     en: {
@@ -1109,9 +1109,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "From keywords to reviews to delivery platforms: Everything Döner shops need to be found on Google.",
       category: "Restaurants"
     },
-    readingTime: 25,
+    readingTime: 8,
     publishedAt: "2026-01-08",
-    updatedAt: "2026-01-08",
+    updatedAt: "2026-10-10",
     icon: "🥙",
     keywords: ["döner seo", "kebab marketing", "imbiss google", "döner laden mehr kunden", "döner bewertungen", "döner lieferando", "türkisches restaurant seo"],
     featured: true
@@ -1119,10 +1119,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-friseursalon-beauty",
     de: {
-      title: "Local SEO für Friseursalons & Beauty-Studios: Der ultimative Guide mit Buchungsintegration 2026",
-      metaTitle: "Local SEO Friseure & Beauty-Studios | Guide 2026",
-      metaDescription: "Der längste SEO-Guide für Friseursalons, Kosmetikstudios & Barbershops. Mit Buchungsintegration, Keyword-Generator und Portfolio-Tipps. 6.000+ Worte!",
-      excerpt: "Von Keywords über Buchungssysteme bis Social Media: Alles was Friseure und Beauty-Studios brauchen, um bei Google gefunden zu werden.",
+      title: "Local SEO für Friseursalons und Beauty-Studios: So finden Kunden Ihren Salon",
+      metaTitle: "Local SEO für Friseure und Beauty-Studios: Leitfaden 2026",
+      metaDescription: "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
+      excerpt: "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
       category: "Beauty & Wellness"
     },
     en: {
@@ -1132,9 +1132,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "From keywords to booking systems to social media: Everything hair salons and beauty studios need to be found on Google.",
       category: "Beauty & Wellness"
     },
-    readingTime: 25,
+    readingTime: 11,
     publishedAt: "2026-01-08",
-    updatedAt: "2026-01-08",
+    updatedAt: "2026-10-10",
     icon: "💇",
     keywords: ["friseur seo", "beauty marketing", "friseursalon google", "kosmetikstudio marketing", "friseur mehr kunden", "buchungssystem friseur"],
     featured: true
@@ -1146,10 +1146,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-immobilienmakler",
     de: {
-      title: "Local SEO für Immobilienmakler: Objektanfragen durch Google",
-      metaTitle: "Local SEO für Immobilienmakler | Mehr Anfragen 2026",
-      metaDescription: "Wie Immobilienmakler durch Local SEO mehr Objektanfragen generieren. Stadtteil-Keywords, Immobilienportale und Google Business für Makler.",
-      excerpt: "So werden Immobilienkäufer und Verkäufer auf Ihr Maklerbüro aufmerksam.",
+      title: "Local SEO für Immobilienmakler: So kommen Verkäufer und Käufer über Google zu Ihnen",
+      metaTitle: "Local SEO für Immobilienmakler: Objektanfragen durch Google",
+      metaDescription: "Wie Makler mit Local SEO mehr Anfragen über Google bekommen: Unternehmensprofil, Objekt- und Stadtteilseiten, Firmendaten, Bewertungen und die richtige Messung.",
+      excerpt: "Wie Makler mit Local SEO mehr Anfragen über Google bekommen: Unternehmensprofil, Objekt- und Stadtteilseiten, Firmendaten, Bewertungen und die richtige Messung.",
       category: "Branchen"
     },
     en: {
@@ -1159,9 +1159,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How property buyers and sellers discover your real estate office.",
       category: "Industries"
     },
-    readingTime: 14,
+    readingTime: 10,
     publishedAt: "2026-01-11",
-    updatedAt: "2026-01-11",
+    updatedAt: "2026-10-10",
     icon: "🏠",
     keywords: ["immobilienmakler seo", "makler marketing", "local seo immobilien", "objektanfragen"],
     featured: false
@@ -1192,10 +1192,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-autowerkstatt",
     de: {
-      title: "Local SEO für Autowerkstätten & KFZ-Betriebe",
-      metaTitle: "Local SEO für Autowerkstätten | KFZ Marketing 2026",
-      metaDescription: "Wie Autowerkstätten durch Local SEO mehr Kunden gewinnen. Notfall-Keywords, Google Business für KFZ-Betriebe und Bewertungsstrategien.",
-      excerpt: "So wird Ihre Werkstatt zur ersten Wahl bei Autoproblemen in der Region.",
+      title: "Local SEO für Autowerkstätten: so werden Sie in Ihrer Region gefunden",
+      metaTitle: "Local SEO für Autowerkstätten: so werden Sie gefunden",
+      metaDescription: "Local SEO für Autowerkstätten: Profil, Leistungsseiten und Bewertungen richtig einrichten. Was Google erlaubt, was verboten ist und wie Sie Erfolg messen.",
+      excerpt: "Local SEO für Autowerkstätten: Profil, Leistungsseiten und Bewertungen richtig einrichten. Was Google erlaubt, was verboten ist und wie Sie Erfolg messen.",
       category: "Branchen"
     },
     en: {
@@ -1205,9 +1205,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How your workshop becomes the first choice for car problems in the region.",
       category: "Industries"
     },
-    readingTime: 13,
+    readingTime: 9,
     publishedAt: "2026-01-19",
-    updatedAt: "2026-01-19",
+    updatedAt: "2026-10-10",
     icon: "🚗",
     keywords: ["autowerkstatt seo", "kfz marketing", "local seo werkstatt", "autohaus seo"],
     featured: false
@@ -1215,10 +1215,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-tierarzt",
     de: {
-      title: "Local SEO für Tierärzte & Tierpraxen",
-      metaTitle: "Local SEO für Tierärzte | Praxis-Marketing 2026",
-      metaDescription: "Wie Tierarztpraxen durch Local SEO mehr Patienten gewinnen. Notfall-Keywords, Tier-Portale und emotionales Content-Marketing.",
-      excerpt: "Der komplette Guide für Tierärzte zur lokalen Patientengewinnung.",
+      title: "Local SEO für Tierärzte und Tierpraxen",
+      metaTitle: "Local SEO für Tierärzte: So finden Tierbesitzer Ihre Praxis",
+      metaDescription: "Local SEO für Tierarztpraxen: Unternehmensprofil, Notdienst-Angaben und Bewertungen nach Googles Regeln, dazu eine Website, die Tierbesitzer schnell überzeugt.",
+      excerpt: "Local SEO für Tierarztpraxen: Unternehmensprofil, Notdienst-Angaben und Bewertungen nach Googles Regeln, dazu eine Website, die Tierbesitzer schnell überzeugt.",
       category: "Branchen"
     },
     en: {
@@ -1228,9 +1228,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide for veterinarians for local patient acquisition.",
       category: "Industries"
     },
-    readingTime: 14,
+    readingTime: 9,
     publishedAt: "2026-01-23",
-    updatedAt: "2026-01-23",
+    updatedAt: "2026-10-10",
     icon: "🐕",
     keywords: ["tierarzt seo", "tierpraxis marketing", "local seo tierarzt", "veterinär marketing"],
     featured: false
@@ -1238,10 +1238,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-fotograf",
     de: {
-      title: "Local SEO für Fotografen: Mehr Buchungen durch Google",
-      metaTitle: "Local SEO für Fotografen | Mehr Buchungen 2026",
-      metaDescription: "Wie Fotografen durch Local SEO mehr Buchungen generieren. Portfolio-SEO, Hochzeits-Keywords und Google Business für Fotografen.",
-      excerpt: "So werden Sie der gefragteste Fotograf in Ihrer Region.",
+      title: "Local SEO für Fotografen: Gefunden werden, wenn Kunden in der Region suchen",
+      metaTitle: "Local SEO für Fotografen: So finden Kunden Sie bei Google",
+      metaDescription: "Local SEO für Fotografen: So richten Sie Profil, Website, Portfolio und Bewertungen ein, damit Kunden in Ihrer Region Sie bei Google finden und kontaktieren.",
+      excerpt: "Local SEO für Fotografen: So richten Sie Profil, Website, Portfolio und Bewertungen ein, damit Kunden in Ihrer Region Sie bei Google finden und kontaktieren.",
       category: "Branchen"
     },
     en: {
@@ -1251,9 +1251,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How to become the most sought-after photographer in your region.",
       category: "Industries"
     },
-    readingTime: 13,
+    readingTime: 9,
     publishedAt: "2026-01-29",
-    updatedAt: "2026-01-29",
+    updatedAt: "2026-10-10",
     icon: "📸",
     keywords: ["fotograf seo", "fotografen marketing", "local seo fotograf", "hochzeitsfotograf seo"],
     featured: false
@@ -1261,10 +1261,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-yoga-studios",
     de: {
-      title: "Local SEO für Yoga-Studios & Pilates",
-      metaTitle: "Local SEO für Yoga-Studios | Mehr Teilnehmer 2026",
-      metaDescription: "Wie Yoga- und Pilates-Studios durch Local SEO mehr Teilnehmer gewinnen. Kurs-Keywords, Wellness-Content und Community-Building.",
-      excerpt: "Der Guide für Yoga-Studios: So füllen Sie Ihre Kurse mit lokalen Suchenden.",
+      title: "Local SEO für Yoga- und Pilates-Studios: So finden Interessierte Ihr Studio",
+      metaTitle: "Local SEO für Yoga- und Pilates-Studios: Leitfaden",
+      metaDescription: "Wie Yoga- und Pilates-Studios bei lokalen Suchen gefunden werden: Profil einrichten, Kursseiten bauen, Bewertungen regelkonform sammeln und Erfolge messen.",
+      excerpt: "Wie Yoga- und Pilates-Studios bei lokalen Suchen gefunden werden: Profil einrichten, Kursseiten bauen, Bewertungen regelkonform sammeln und Erfolge messen.",
       category: "Branchen"
     },
     en: {
@@ -1274,9 +1274,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The guide for yoga studios: How to fill your classes with local searchers.",
       category: "Industries"
     },
-    readingTime: 12,
+    readingTime: 8,
     publishedAt: "2026-02-02",
-    updatedAt: "2026-02-02",
+    updatedAt: "2026-10-10",
     icon: "🧘",
     keywords: ["yoga studio seo", "pilates marketing", "local seo yoga", "wellness studio seo"],
     featured: false
@@ -1284,10 +1284,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-tattoo-studios",
     de: {
-      title: "Local SEO für Tattoo-Studios & Piercing",
-      metaTitle: "Local SEO für Tattoo-Studios | Mehr Kunden 2026",
-      metaDescription: "Wie Tattoo- und Piercing-Studios durch Local SEO mehr Kunden gewinnen. Portfolio-Optimierung, Style-Keywords und Instagram-Integration.",
-      excerpt: "Der ultimative Guide für Tattoo-Künstler zur lokalen Kundengewinnung.",
+      title: "Local SEO für Tattoo-Studios und Piercing: so finden Kunden Ihr Studio",
+      metaTitle: "Local SEO für Tattoo- und Piercing-Studios 2026",
+      metaDescription: "Local SEO für Tattoo- und Piercing-Studios: Google-Profil, Stil-Seiten, Fotos und Bewertungen. Was Google zählt, was verboten ist und wo Sie anfangen.",
+      excerpt: "Local SEO für Tattoo- und Piercing-Studios: Google-Profil, Stil-Seiten, Fotos und Bewertungen. Was Google zählt, was verboten ist und wo Sie anfangen.",
       category: "Branchen"
     },
     en: {
@@ -1297,9 +1297,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The ultimate guide for tattoo artists for local customer acquisition.",
       category: "Industries"
     },
-    readingTime: 13,
+    readingTime: 8,
     publishedAt: "2026-02-08",
-    updatedAt: "2026-02-08",
+    updatedAt: "2026-10-10",
     icon: "🎨",
     keywords: ["tattoo studio seo", "piercing marketing", "local seo tattoo", "tattoo künstler seo"],
     featured: false
