@@ -58,21 +58,13 @@ const PhysiotherapyVienna = lazy(() => import("./pages/PhysiotherapyVienna"));
 const DentistsZurich = lazy(() => import("./pages/DentistsZurich"));
 const BakeriesCologne = lazy(() => import("./pages/BakeriesCologne"));
 const Campsites = lazy(() => import("./pages/Campsites"));
-const WasIstGeo = lazy(() => import("./pages/blog/WasIstGeo"));
-const ChatgptZitiertLokaleUnternehmen = lazy(() => import("./pages/blog/ChatgptZitiertLokaleUnternehmen"));
 const AiVisibilityIndexLocalSeoMetrik = lazy(() => import("./pages/blog/AiVisibilityIndexLocalSeoMetrik"));
 const SchemaStrategieAiRetrieval = lazy(() => import("./pages/blog/SchemaStrategieAiRetrieval"));
-const PerplexityClaudeLokaleSichtbarkeit = lazy(() => import("./pages/blog/PerplexityClaudeLokaleSichtbarkeit"));
 const RedditLocalSeoAiZitate2026 = lazy(() => import("./pages/blog/RedditLocalSeoAiZitate2026"));
-const GoogleAiModeLocalSeo2026 = lazy(() => import("./pages/blog/GoogleAiModeLocalSeo2026"));
-const BingCopilotLocalSeo2026 = lazy(() => import("./pages/blog/BingCopilotLocalSeo2026"));
 const TiktokSearchLocalSeo2026 = lazy(() => import("./pages/blog/TiktokSearchLocalSeo2026"));
 const VoiceSearchSprachassistenten2026 = lazy(() => import("./pages/blog/VoiceSearchSprachassistenten2026"));
 const AiAgentsLokaleBuchungen2026 = lazy(() => import("./pages/blog/AiAgentsLokaleBuchungen2026"));
-const LlmsTxtLokaleUnternehmen2026 = lazy(() => import("./pages/blog/LlmsTxtLokaleUnternehmen2026"));
-const AiCrawlerSteuern2026 = lazy(() => import("./pages/blog/AiCrawlerSteuern2026"));
 const AiZitatMonitoring2026 = lazy(() => import("./pages/blog/AiZitatMonitoring2026"));
-const AiFalschangabenKorrigieren2026 = lazy(() => import("./pages/blog/AiFalschangabenKorrigieren2026"));
 const LocalSeoHeizungSanitaer = lazy(() => import("./pages/blog/LocalSeoHeizungSanitaer"));
 const LocalSeoGebaeudereinigung = lazy(() => import("./pages/blog/LocalSeoGebaeudereinigung"));
 const LocalSeoGartenLandschaftsbau = lazy(() => import("./pages/blog/LocalSeoGartenLandschaftsbau"));
@@ -85,7 +77,6 @@ const LocalSeoBaeckereiKonditorei = lazy(() => import("./pages/blog/LocalSeoBaec
 const LocalSeoHochzeitsdienstleister = lazy(() => import("./pages/blog/LocalSeoHochzeitsdienstleister"));
 const LokaleLandingPages = lazy(() => import("./pages/blog/LokaleLandingPages"));
 const LocalSeoTrackingKpis = lazy(() => import("./pages/blog/LocalSeoTrackingKpis"));
-const GbpKiFunktionen2026 = lazy(() => import("./pages/blog/GbpKiFunktionen2026"));
 const GeoContentBriefing2026 = lazy(() => import("./pages/blog/GeoContentBriefing2026"));
 const WhatsappBusinessLocalSeo2026 = lazy(() => import("./pages/blog/WhatsappBusinessLocalSeo2026"));
 
@@ -96,7 +87,6 @@ const LocalSeoBerlin = lazy(() => import("./pages/blog/LocalSeoBerlin"));
 const LocalSeoKoeln = lazy(() => import("./pages/blog/LocalSeoKoeln"));
 const LocalSeoWien = lazy(() => import("./pages/blog/LocalSeoWien"));
 const KiToolsLocalSeo = lazy(() => import("./pages/blog/KiToolsLocalSeo"));
-const GoogleAiOverviews = lazy(() => import("./pages/blog/GoogleAiOverviews"));
 const SeoToolbox = lazy(() => import("./pages/blog/SeoToolbox"));
 const LocalSeoStuttgart = lazy(() => import("./pages/blog/LocalSeoStuttgart"));
 const LocalSeoDuesseldorf = lazy(() => import("./pages/blog/LocalSeoDuesseldorf"));
@@ -259,24 +249,15 @@ const App = () => (
                 {V4_ARTICLE_PAGES.map(([slug, Page]) => (
                   <Route key={slug} path={v4ArticlePath(slug)} element={<Page />} />
                 ))}
-                <Route path="/blog/was-ist-geo-generative-engine-optimization" element={<WasIstGeo />} />
-                <Route path="/blog/chatgpt-zitiert-lokale-unternehmen" element={<ChatgptZitiertLokaleUnternehmen />} />
                 <Route path="/blog/ai-visibility-index-local-seo-metrik" element={<AiVisibilityIndexLocalSeoMetrik />} />
                 <Route path="/blog/schema-strategie-ai-retrieval" element={<SchemaStrategieAiRetrieval />} />
-                <Route path="/blog/perplexity-claude-lokale-sichtbarkeit" element={<PerplexityClaudeLokaleSichtbarkeit />} />
                 <Route path="/blog/reddit-local-seo-ai-zitate-2026" element={<RedditLocalSeoAiZitate2026 />} />
-                <Route path="/blog/google-ai-mode-local-seo-2026" element={<GoogleAiModeLocalSeo2026 />} />
-                <Route path="/blog/bing-copilot-local-seo-2026" element={<BingCopilotLocalSeo2026 />} />
                 <Route path="/blog/tiktok-search-local-seo-2026" element={<TiktokSearchLocalSeo2026 />} />
                 <Route path="/blog/voice-search-sprachassistenten-local-seo-2026" element={<VoiceSearchSprachassistenten2026 />} />
                 <Route path="/blog/ai-agents-lokale-buchungen-2026" element={<AiAgentsLokaleBuchungen2026 />} />
-                <Route path="/blog/llms-txt-lokale-unternehmen-2026" element={<LlmsTxtLokaleUnternehmen2026 />} />
-                <Route path="/blog/ai-crawler-steuern-gptbot-claudebot-2026" element={<AiCrawlerSteuern2026 />} />
                 <Route path="/blog/ai-zitat-monitoring-local-seo-2026" element={<AiZitatMonitoring2026 />} />
                 <Route path="/blog/geo-content-briefing-vorlage-2026" element={<GeoContentBriefing2026 />} />
                 <Route path="/blog/whatsapp-business-local-seo-2026" element={<WhatsappBusinessLocalSeo2026 />} />
-                <Route path="/blog/ai-falschangaben-korrigieren-2026" element={<AiFalschangabenKorrigieren2026 />} />
-                <Route path="/blog/unternehmensprofil-ki-funktionen-2026" element={<GbpKiFunktionen2026 />} />
                 <Route path="/blog/local-seo-heizung-sanitaer" element={<LocalSeoHeizungSanitaer />} />
                 <Route path="/blog/local-seo-gebaeudereinigung" element={<LocalSeoGebaeudereinigung />} />
                 <Route path="/blog/local-seo-garten-landschaftsbau" element={<LocalSeoGartenLandschaftsbau />} />
@@ -310,7 +291,6 @@ const App = () => (
                 <Route path="/blog/local-seo-koeln" element={<LocalSeoKoeln />} />
                 <Route path="/blog/local-seo-wien" element={<LocalSeoWien />} />
                 <Route path="/blog/ki-tools-local-seo" element={<KiToolsLocalSeo />} />
-                <Route path="/blog/google-ai-overviews-local-seo" element={<GoogleAiOverviews />} />
                 <Route path="/blog/seo-toolbox-kostenlose-ressourcen" element={<SeoToolbox />} />
                 <Route path="/blog/local-seo-stuttgart" element={<LocalSeoStuttgart />} />
                 <Route path="/blog/local-seo-duesseldorf" element={<LocalSeoDuesseldorf />} />
