@@ -1119,10 +1119,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-friseursalon-beauty",
     de: {
-      title: "Local SEO für Friseursalons und Beauty-Studios: So finden Kunden Ihren Salon",
-      metaTitle: "Local SEO für Friseure und Beauty-Studios: Leitfaden 2026",
-      metaDescription: "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
-      excerpt: "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
+      title: "SEO für Friseure und Beauty-Studios: So finden Kunden Ihren Salon",
+      metaTitle: "SEO für Friseure und Beauty-Studios: lokal gefunden werden",
+      metaDescription: "SEO für Friseure und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln, damit Kunden Sie finden.",
+      excerpt: "SEO für Friseure und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln, damit Kunden Sie finden.",
       category: "Beauty & Wellness"
     },
     en: {

@@ -45,7 +45,7 @@ export const SEARCH_INDEX: SearchIndex = {
   "local-content-marketing": { titleDe: "Local Content Marketing: Content-Strategie für lokale Unternehmen", terms: "local content, content marketing, lokaler content, stadtteil seiten, lokale guides" },
   "local-seo-fehler": { titleDe: "Local SEO Fehler: 15 Gründe warum du nicht gefunden wirst", terms: "local seo fehler, seo probleme, nicht gefunden werden, seo diagnose, ranking probleme" },
   "local-seo-doener-kebab-imbiss": { titleDe: "Local SEO für Döner & Kebab-Imbisse: Der ultimative Marketing-Guide 2026", terms: "döner seo, kebab marketing, imbiss google, döner laden mehr kunden, döner bewertungen" },
-  "local-seo-friseursalon-beauty": { titleDe: "Local SEO für Friseursalons & Beauty-Studios: Der ultimative Guide mit Buchungsintegration 2026", terms: "friseur seo, beauty marketing, friseursalon google, kosmetikstudio marketing, friseur mehr kunden" },
+  "local-seo-friseursalon-beauty": { titleDe: "SEO für Friseure und Beauty-Studios: So finden Kunden Ihren Salon", terms: "friseur seo, beauty marketing, friseursalon google, kosmetikstudio marketing, friseur mehr kunden" },
   "local-seo-immobilienmakler": { titleDe: "Local SEO für Immobilienmakler: Objektanfragen durch Google", terms: "immobilienmakler seo, makler marketing, local seo immobilien, objektanfragen" },
   "local-seo-steuerberater": { titleDe: "Local SEO für Steuerberater & Buchhalter: Mandanten gewinnen", terms: "steuerberater seo, buchhalter marketing, local seo steuerberater, mandantengewinnung" },
   "local-seo-autowerkstatt": { titleDe: "Local SEO für Autowerkstätten & KFZ-Betriebe", terms: "autowerkstatt seo, kfz marketing, local seo werkstatt, autohaus seo" },
