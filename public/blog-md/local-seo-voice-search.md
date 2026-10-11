@@ -1,112 +1,198 @@
 ---
-title: "Local SEO & Voice Search: Hey Google, wo ist..."
+title: "Local SEO und Sprachsuche: Wie Google, Siri und Alexa lokale Betriebe finden"
 slug: local-seo-voice-search
 url: https://localdominate.org/blog/local-seo-voice-search
 canonical: https://localdominate.org/blog/local-seo-voice-search
 markdown_url: https://localdominate.org/blog-md/local-seo-voice-search.md
 language: de-DE
 published: 2026-01-25
-updated: 2026-01-25
-reading_time_minutes: 14
-category: "Technik"
-author: Local Dominator
-publisher: Local Dominator
-license: https://creativecommons.org/licenses/by/4.0/
-citation: "Local Dominator (2026-01-25). Local SEO & Voice Search: Hey Google, wo ist.... https://localdominate.org/blog/local-seo-voice-search"
-keywords: ["voice search", "sprachsuche", "local seo voice", "alexa siri google"]
-area_served: [Deutschland, Österreich, Schweiz]
-ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
+updated: 2026-10-11
+reading_time_minutes: 11
+category: "Sprachsuche"
+author: LocalDominate Redaktion
+accountable: Markus Wimböck
+publisher: LocalDominate
+description: "Woher Google, Siri und Alexa Angaben zu lokalen Betrieben nehmen, was Sie pflegen sollten, welche Faustregeln zur Sprachsuche nicht stimmen und wie Sie messen."
 ---
 
-<!--
-JSON-LD (Schema.org Article):
+# Local SEO und Sprachsuche: Wie Google, Siri und Alexa lokale Betriebe finden
 
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "@id": "https://localdominate.org/blog/local-seo-voice-search#article",
-  "headline": "Local SEO & Voice Search: Hey Google, wo ist...",
-  "description": "Wie lokale Unternehmen für Sprachsuche optimieren. Conversational Keywords, Featured Snippets und Voice-First-Strategien.",
-  "url": "https://localdominate.org/blog/local-seo-voice-search",
-  "inLanguage": "de-DE",
-  "datePublished": "2026-01-25",
-  "dateModified": "2026-01-25",
-  "timeRequired": "PT14M",
-  "keywords": "voice search, sprachsuche, local seo voice, alexa siri google",
-  "author": {
-    "@type": "Organization",
-    "name": "Local Dominator",
-    "url": "https://localdominate.org"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Local Dominator",
-    "url": "https://localdominate.org",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://localdominate.org/logo.png"
-    }
-  },
-  "isAccessibleForFree": true,
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: Local Dominator (localdominate.org)",
-  "encoding": {
-    "@type": "MediaObject",
-    "encodingFormat": "text/markdown",
-    "contentUrl": "https://localdominate.org/blog-md/local-seo-voice-search.md"
-  },
-  "about": {
-    "@type": "Thing",
-    "name": "Technik"
-  },
-  "areaServed": [
-    {
-      "@type": "Country",
-      "name": "Deutschland",
-      "sameAs": "https://www.wikidata.org/wiki/Q183"
-    },
-    {
-      "@type": "Country",
-      "name": "Österreich",
-      "sameAs": "https://www.wikidata.org/wiki/Q40"
-    },
-    {
-      "@type": "Country",
-      "name": "Schweiz",
-      "sameAs": "https://www.wikidata.org/wiki/Q39"
-    }
-  ]
-}
-```
--->
+Für Inhaber lokaler Betriebe, die wissen wollen, woher ein Sprachassistent die Antwort auf „Wo ist der nächste Schlüsseldienst?“ nimmt. Dieser Grundlagenartikel erklärt die Datenquellen von Google, Apple und Amazon, was Sie pflegen sollten und welche alten Faustregeln nicht stimmen. Was sich 2026 durch Gemini, Siri AI und Alexa+ ändert, steht in [Sprachassistenten 2026](https://localdominate.org/blog/voice-search-sprachassistenten-local-seo-2026).
 
-# Local SEO & Voice Search: Hey Google, wo ist...
+## Die kurze Antwort
 
-> Kanonische URL: https://localdominate.org/blog/local-seo-voice-search
-> Aktualisiert: 2026-01-25 · Lesezeit: 14 Min · Kategorie: Technik
-> Lizenz: CC-BY 4.0 — Zitate mit Quellenangabe erlaubt.
+Google beantwortet lokale Sprachanfragen mit der Google-Suche und Google Maps. Apple nennt Siri als einen der Wege, über die Einträge aus Apple Business Kunden erreichen. Woher die klassische Alexa in Deutschland lokale Angaben nimmt, legt Amazon nicht offen. Für die Sprachsuche optimieren heißt deshalb vor allem, Unternehmensprofil, Apple-Eintrag und Website vollständig und übereinstimmend zu halten.
 
-## Kurzbeschreibung
+## Das Wichtigste in Kürze
 
-Wie lokale Unternehmen für Sprachsuche optimieren. Conversational Keywords, Featured Snippets und Voice-First-Strategien.
+- Google beantwortet lokale Fragen mit Google-Suche und Google Maps, Apple nennt Siri als Kanal für Einträge aus Apple Business. Eine eigene Liste nur für Sprachanfragen, in die man sich eintragen kann, haben wir bei keinem Anbieter gefunden.
+- Für lokale Ergebnisse nennt Google drei Faktoren: Relevanz, Entfernung und Bekanntheit. Einen eigenen Faktor für Sprachsuche nennt Google nicht.
+- Bei Apple pflegen Sie Ihren Eintrag seit dem 14. April 2026 kostenlos über Apple Business, das Apple Business Connect ersetzt hat. Apple nennt Siri als einen der Wege, über die Betriebe damit Kunden erreichen.
+- Amazon legt für die klassische Alexa in Deutschland nicht offen, woher Angaben zu lokalen Betrieben stammen. Prüfen Sie deshalb selbst, was Alexa über Ihren Betrieb sagt.
+- Sprachsuche lässt sich nicht direkt messen: Die Search Console hat keine Auswertung für gesprochene Anfragen. Anrufe und Routenanfragen im Unternehmensprofil sind nach unserer Einschätzung die besten Hinweise.
+- Speakable-Markup ist laut Google eine Betafunktion für Nachrichten auf Englisch in den USA, und FAQ-Rich-Results zeigt Google seit dem 7. Mai 2026 nicht mehr an. Beides hilft lokalen Betrieben bei der Sprachsuche nicht.
 
-## Zusammenfassung
+## Woher Sprachassistenten lokale Antworten nehmen
 
-So werden Sie gefunden, wenn Kunden Alexa, Siri oder Google fragen.
+Google sucht in der Google-Suche und in Google Maps, und Apple nennt Siri als einen der Wege, über die Einträge aus Apple Business Kunden erreichen. Amazon nennt für Deutschland keine Datenquelle für lokale Antworten der klassischen Alexa.
 
-## Schlüsselbegriffe
+*Sprachassistenten und ihre Datenquellen für lokale Fragen*
 
-- voice search
-- sprachsuche
-- local seo voice
-- alexa siri google
+| Assistent | Woher lokale Angaben kommen | Was Sie pflegen |
+| --- | --- | --- |
+| Google: Sprachsuche in der Google-App, KI-Modus, Assistant und Gemini | Google-Suche und Google Maps; Gemini sucht Orte laut Google mit öffentlichen Informationen aus Google Maps | Unternehmensprofil und Website |
+| Apple: Siri | Apple nennt Siri neben Apple Karten, Mail und Wallet als Weg, über den Betriebe mit Apple Business Kunden erreichen | Ortskarte in Apple Business, früher Apple Business Connect |
+| Amazon: Alexa | Für die klassische Alexa in Deutschland nicht offengelegt; für Alexa+ nennt Amazon Partner je Land | Einheitliche Daten in allen Verzeichnissen; eigene Stichprobe |
+| Microsoft: Cortana | Als eigene App unter Windows seit Frühjahr 2023 eingestellt | Nichts mehr. Für die Bing-Suche und Bing Maps pflegen Sie Bing Places |
 
-## Quelle und Autor
+Daraus folgt der wichtigste Grundsatz dieses Artikels: Eine eigene Liste nur für Sprachanfragen, in die man sich eintragen kann, haben wir bei keinem Anbieter gefunden. Wer in den Karten- und Suchdiensten richtig und vollständig steht, hat die Grundlage für Sprachanfragen gelegt. Wie Bing und Copilot lokale Daten nutzen, steht in [Bing, Copilot und Local SEO](https://localdominate.org/blog/bing-copilot-local-seo-2026).
 
-Verfasst und veröffentlicht von **Local Dominator** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+## Google: Sprachsuche, KI-Modus und Gemini
 
-- Webseite: https://localdominate.org
-- Vollständiger Artikel (HTML): https://localdominate.org/blog/local-seo-voice-search
-- Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/local-seo-voice-search.md
-- Zitiervorlage: Local Dominator (2026-01-25). Local SEO & Voice Search: Hey Google, wo ist.... https://localdominate.org/blog/local-seo-voice-search
+Bei Google landet eine gesprochene Frage in denselben Systemen wie eine getippte: in der Google-Suche, in Google Maps oder im KI-Modus. Für lokale Ergebnisse nennt Google drei Faktoren, nämlich Relevanz, Entfernung und Bekanntheit; einen eigenen Faktor für Sprachsuche nennt Google nicht.
+
+In der Google-App tippen Nutzer auf das Mikrofon und sprechen ihre Frage. Ob und welche Sprachbefehle funktionieren, hängt laut Google von Sprache, Land und Region ab. Im KI-Modus, den es seit dem 8. Oktober 2025 auf Deutsch in Deutschland, Österreich und der Schweiz gibt, lässt sich eine Frage ebenfalls über das Mikrofon stellen.
+
+*Die drei Faktoren für lokale Ergebnisse (laut Google)*
+
+| Faktor | Was Google darunter versteht | Ihr Hebel |
+| --- | --- | --- |
+| Relevanz | Wie gut ein Unternehmensprofil zur Suche passt | Richtige Kategorie, Leistungen, vollständige Angaben |
+| Entfernung | Wie weit der Betrieb vom Suchenden entfernt ist | Richtige Adresse oder richtiges Einzugsgebiet |
+| Bekanntheit | Wie bekannt der Betrieb ist, unter anderem an verweisenden Websites und Rezensionen erkennbar | Echte Bewertungen, Erwähnungen in der Region |
+
+Gemini, das den Assistant auf Smartphones ablöst, sucht Orte laut Google mit öffentlichen Informationen aus Google Maps und zeigt Adresse, Website, Bewertungen, Öffnungszeiten und eine KI-Zusammenfassung. Die Hilfeseite nennt als Voraussetzung im Oktober 2026 noch Fragen auf Englisch. Eine bessere Platzierung in den lokalen Ergebnissen kann man laut Google nicht kaufen.
+
+> **Einschätzung:** Für Google gilt: Sprachsuche optimieren heißt Unternehmensprofil und Website optimieren. Wie Sie das Profil vollständig pflegen, steht in [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren).
+
+## Apple: Siri und Apple Karten
+
+Apple nennt Siri neben Apple Karten, Mail und Wallet als einen der Kanäle, über die Einträge aus Apple Business Kunden erreichen. Ihren Eintrag pflegen Sie seit dem 14. April 2026 kostenlos über Apple Business.
+
+Apple Business hat Apple Business Connect ersetzt; bestehende Einträge hat Apple laut eigener Ankündigung übernommen. Für die Ortskarte pflegen Sie Fotos, genaue Standortangaben, Öffnungszeiten und weitere Angaben. Sie erscheint laut Apple in Apple Karten, Safari und Spotlight. Die Schritte stehen in [Apple Business Connect 2026](https://localdominate.org/blog/apple-business-connect-local-seo-2026).
+
+Welche Datenlieferanten Apple für Karten nutzt, sagt Apple nur teilweise: Auf der Rechtsseite zu Apple Karten stehen TomTom, OpenStreetMap und „andere Datenanbieter“. Die oft gelesene Aussage, Siri beziehe ihre Angaben von Yelp, findet sich dort nicht.
+
+> **Einschätzung:** Weil Apple nicht offenlegt, wie Siri Betriebe auswählt, ist der beanspruchte und gepflegte Eintrag in Apple Karten der wichtigste Hebel, den Sie selbst in der Hand haben. Gleichen Sie ihn mit Ihrem Google-Profil ab, siehe [Daten mit Google und Website abgleichen](https://localdominate.org/blog/apple-business-connect-local-seo-2026#abgleich-mit-google).
+
+## Amazon: Alexa
+
+Amazon legt nicht offen, woher die klassische Alexa in Deutschland Angaben zu lokalen Betrieben bezieht. Für die neue Alexa+ nennt Amazon Partner je Land, für Deutschland bisher als angekündigte Dienste Kinoheld, GMX und Web.de, aber keinen Anbieter für Restaurants oder Termine.
+
+Alexa+ gibt es seit dem 7. Mai 2026 in Deutschland und Österreich im Vorabzugang. In anderen Ländern nennt Amazon Partner: OpenTable in Großbritannien und TheFork in Spanien. In einer Mitteilung vom Dezember 2025 nennt Amazon außerdem Thumbtack und Vagaro und kündigt für 2026 Yelp, Angi, Square und Expedia an, ohne Länder zu nennen. Mehr dazu in [Sprachassistenten 2026](https://localdominate.org/blog/voice-search-sprachassistenten-local-seo-2026#amazon-alexa).
+
+> **So prüfen Sie Alexa:** Ohne dokumentierte Quelle bleibt nur die Stichprobe: Fragen Sie Alexa nach Ihrer Leistung in Ihrem Ort und nach Ihrem Betrieb mit Namen. Notieren Sie, was sie sagt. Stimmen Angaben nicht, lässt sich die Quelle nicht nachvollziehen, weil Amazon sie nicht nennt; einheitliche Daten in allen Verzeichnissen sind dann nach unserer Einschätzung der sicherste Weg.
+
+## Wie Kunden fragen und welche Daten antworten
+
+Wer einen Assistenten nach einem Betrieb fragt, will meist etwas tun: anrufen, hinfahren oder wissen, ob offen ist. Jede dieser Absichten beantwortet ein bestimmtes Feld in Profil oder Website, und dieses Feld muss stimmen.
+
+*Typische Sprachanfragen und die Angabe, die sie beantwortet (Beispiele)*
+
+| Frage | Antwort kommt aus | Möglicher Fehler |
+| --- | --- | --- |
+| „Hat die Apotheke am Marktplatz jetzt offen?“ | Öffnungszeiten und spezielle Öffnungszeiten im Unternehmensprofil | Feiertage nicht eingetragen |
+| „Ruf den Schlüsseldienst in Bregenz an.“ | Telefonnummer im Profil | Alte Nummer oder Zentrale statt Standort |
+| „Navigiere zum Fahrradladen Huber.“ | Adresse und Markierung auf der Karte | Markierung am falschen Eingang |
+| „Welcher Italiener in Bern hat eine Terrasse?“ | Merkmale im Profil, Angaben auf der Website | Terrasse nur auf Fotos, nicht als Text |
+| „Was kostet ein Herrenhaarschnitt in Kassel?“ | Leistungen und Preise im Profil und auf der Website | Preise nur in einem PDF |
+
+Die Formulierungen Ihrer Kunden kennen Sie aus Anrufen und Gesprächen am Tresen. Wie Sie daraus Suchbegriffe machen, zeigt [Local SEO Keywords finden](https://localdominate.org/blog/local-seo-keywords-finden). Wie Sie Feiertage und Sonderzeiten eintragen, steht in [Öffnungszeiten und Sondertage](https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage#spezielle-zeiten).
+
+## Hervorgehobene Snippets und die eigene Website
+
+Google schreibt, dass hervorgehobene Snippets hilfreich sind, wenn man ein Smartphone nutzt oder mit seinem Gerät spricht. Auswählen kann man sie nicht: Google entscheidet automatisch, und ein Markup dafür gibt es nicht.
+
+Für Ihre Website heißt das: Schreiben Sie Antworten so, dass ein einzelner Satz die Frage beantwortet. Unter einer Zwischenüberschrift wie „Machen Sie Hausbesuche?“ steht zuerst „Ja, in Graz und im Umkreis von 20 Kilometern“ und danach die Einzelheiten. Wer keine Snippets will, kann sie laut Google mit nosnippet verhindern; für einen lokalen Betrieb ist das selten sinnvoll.
+
+> **Einschätzung:** Dieselbe Schreibweise hilft Lesern, hervorgehobenen Snippets und KI-Antworten. Ein eigenes Textformat nur für Sprachsuche ist nicht nötig. Wie Sie Seiten für KI-Antworten aufbauen, steht in [Was ist GEO?](https://localdominate.org/blog/was-ist-geo-generative-engine-optimization#lokale-betriebe).
+
+## Die Grundausstattung für Sprachanfragen
+
+Vier Einträge bilden die Grundlage: das Unternehmensprofil bei Google, die Ortskarte bei Apple, der Eintrag bei Bing und die eigene Website. Dazu kommen übereinstimmende Daten in den wichtigen Verzeichnissen und echte Bewertungen.
+
+1. **Unternehmensprofil vervollständigen.** Kategorie, Leistungen, Adresse oder Einzugsgebiet, Telefonnummer, Öffnungszeiten, spezielle Öffnungszeiten und Merkmale wie Parkplätze. Laut Google werden Betriebe mit vollständigen und korrekten Angaben mit größerer Wahrscheinlichkeit angezeigt.
+2. **Apple Business einrichten.** Organisation verifizieren, Standort beanspruchen, Ortskarte füllen. Anleitung: [Apple Business Connect 2026](https://localdominate.org/blog/apple-business-connect-local-seo-2026#standort-beanspruchen).
+3. **Bing Places prüfen.** Für die Bing-Suche und Bing Maps. Was Microsoft zur Rolle von Bing Places für Copilot sagt, steht in [Bing, Copilot und Local SEO](https://localdominate.org/blog/bing-copilot-local-seo-2026#bing-places-2026).
+4. **Website mit Antworten.** Eine Seite je Leistung, Preise oder Preisrahmen, Einzugsgebiet, Anfahrt und Parken als Text.
+5. **Daten abgleichen.** Name, Adresse, Telefon und Öffnungszeiten überall gleich. Anleitung: [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo).
+6. **Bewertungen sammeln.** Alle Kunden um eine Bewertung bitten und Bewertungen beantworten. Wie das nach Googles Regeln geht, steht in [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
+
+## Faustregeln, die nicht stimmen oder nicht belegt sind
+
+Viele Ratschläge zur Sprachsuche stammen aus der Zeit, als smarte Lautsprecher neu waren. Einige beziehen sich auf Funktionen, die es nicht mehr gibt, andere auf Zahlen oder Datenquellen, für die wir keinen Beleg gefunden haben.
+
+*Alte Faustregeln im Faktencheck*
+
+| Faustregel | Was belegt ist |
+| --- | --- |
+| „40 Prozent aller lokalen Suchen sind Sprachsuchen“ | Dafür haben wir keine aktuelle Quelle gefunden. Google weist Sprachsuchen in der Search Console nicht gesondert aus. |
+| „Sprachsuchen sind im Schnitt 29 Wörter lang“ | Keine belastbare Quelle gefunden. |
+| „Speakable-Markup bringt Ihren Betrieb in Sprachantworten“ | Speakable ist laut Google eine Betafunktion für Nachrichteninhalte. Sie funktioniert für Nutzer in den USA mit Google-Home-Geräten auf Englisch. |
+| „FAQ-Markup ist der wichtigste Hebel für Sprachsuche“ | FAQ-Rich-Results zeigt Google seit dem 7. Mai 2026 nicht mehr an. Fragen und Antworten als sichtbarer Text auf der Website bleiben sinnvoll. |
+| „Legen Sie Fragen und Antworten im Unternehmensprofil selbst an“ | Google hat im September 2025 angekündigt, diese Funktion zu überarbeiten, und die zugehörige Schnittstelle am 3. November 2025 eingestellt. Mehr in [Unternehmensprofil und KI-Funktionen](https://localdominate.org/blog/unternehmensprofil-ki-funktionen-2026#fragen-und-antworten). |
+| „Siri nutzt Yelp, Alexa nutzt Bing“ | Nicht belegt. Apple nennt auf seiner Rechtsseite zu Apple Karten TomTom, OpenStreetMap und andere Datenanbieter, Yelp nicht. Amazon nennt für die klassische Alexa in Deutschland keine Quelle. |
+| „Optimieren Sie auch für Cortana“ | Cortana ist als eigene App unter Windows seit dem Frühjahr 2023 eingestellt. |
+| „Sprachergebnisse laden 52 Prozent schneller, 70 Prozent sind HTTPS“ | Dafür haben wir keine Google-Quelle gefunden. Einen eigenen Rankingfaktor für Sprachsuche nennt Google nicht. |
+
+> **Korrektur zur früheren Fassung:** Die frühere Fassung dieses Artikels enthielt mehrere dieser Zahlen und empfahl FAQ-Markup, HowTo-Markup und selbst angelegte Fragen im Profil. Wir haben die Zahlen entfernt und die Empfehlungen an den Stand vom Oktober 2026 angepasst.
+
+## Sprachsuche messen
+
+Direkt messen lässt sich Sprachsuche nicht: Die Search Console gliedert nach Suchanfragen, Seiten, Ländern, Geräten, Darstellungsformen und Datum, aber nicht nach gesprochenen Anfragen. Hinweise liefern die Leistungsdaten im Unternehmensprofil und eigene Stichproben.
+
+1. **Profildaten beobachten.** Das Unternehmensprofil zählt Klicks auf die Anruftaste, Routenanfragen, Website-Klicks und Buchungen. Steigen Anrufe und Routen, ohne dass sich die Website-Besuche ändern, kann das auch an Sprachanfragen liegen; beweisen lässt es sich nicht.
+2. **Stichproben je Assistent.** Einmal im Monat dieselben fünf Fragen an Google, Siri und, wenn vorhanden, Alexa. Notieren Sie, ob Ihr Betrieb genannt wird und ob Zeiten, Nummer und Adresse stimmen.
+3. **Kunden fragen.** Bei Anrufen kurz nachfragen, wie der Kunde auf Sie gekommen ist.
+
+Wie sich die Assistenten 2026 verändern und worauf Sie bei der Stichprobe achten, steht in [Sprachassistenten 2026](https://localdominate.org/blog/voice-search-sprachassistenten-local-seo-2026#testen-und-messen).
+
+## Häufige Fragen
+
+### Muss ich meine Website extra für Sprachsuche umbauen?
+
+Nein. Google nennt keinen eigenen Faktor für Sprachsuche. Was hilft, ist dasselbe wie für jede lokale Suche: vollständige Profile, eine Website, die Fragen im ersten Satz beantwortet, und übereinstimmende Daten.
+
+### Welcher Sprachassistent ist in Deutschland, Österreich und der Schweiz am wichtigsten?
+
+Belastbare Marktanteile für Sprachanfragen in DACH haben wir nicht gefunden. Gemini greift für Orte auf Google Maps zurück, und Apple nennt Siri als einen der Wege, über die Einträge aus Apple Business Kunden erreichen. Deshalb sind diese beiden Einträge die Grundlage.
+
+### Hilft es, Dialektwörter auf die Website zu schreiben?
+
+Dazu gibt es keine Aussage der Anbieter. Unsere Einschätzung: Schreiben Sie die Begriffe, die Ihre Kunden tatsächlich verwenden. Wenn in Ihrer Region „Semmel“ gesagt wird, gehört das Wort auch auf die Seite.
+
+### Wie bringe ich Alexa dazu, meinen Betrieb zu nennen?
+
+Einen dokumentierten Weg für die klassische Alexa in Deutschland haben wir nicht gefunden. Halten Sie Ihre Daten in allen Verzeichnissen einheitlich und prüfen Sie per Stichprobe, was Alexa sagt. Für Alexa+ nennt Amazon für Deutschland bisher keine Partner für Restaurants oder Termine.
+
+### Bringt Speakable-Markup etwas für meinen Betrieb?
+
+Nein. Google beschreibt Speakable als Betafunktion für Nachrichteninhalte, die nur für Nutzer in den USA mit Google-Home-Geräten auf Englisch funktioniert.
+
+### Was ist mit Sprachsuche im Auto?
+
+Laut einer E-Mail von Google an Nutzer, über die 9to5Google berichtete, ersetzt Gemini ab dem 4. September 2026 schrittweise den Google Assistant auch in Android Auto, wenn es vom Smartphone aus läuft; Autos mit Google built-in behalten ihn vorerst. Für Orte nutzt Gemini laut Google Informationen aus Google Maps. Einzelheiten stehen in [Sprachassistenten 2026](https://localdominate.org/blog/voice-search-sprachassistenten-local-seo-2026#google-gemini).
+
+## Quellen
+
+- [Use Google Voice Search](https://support.google.com/websearch/answer/2940021?hl=en), Google Suche Hilfe
+- [Der KI-Modus startet in Deutschland, Österreich und der Schweiz (8. Oktober 2025)](https://blog.google/intl/de-de/produkte/suchen-entdecken/ki-modus-startet-in-dach/), Google Blog Deutschland
+- [Find places & get directions in Gemini Apps](https://support.google.com/gemini/answer/16622866?hl=en&co=GENIE.Platform%3DAndroid), Gemini Apps Hilfe
+- [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Understand your Business Profile performance and insights](https://support.google.com/business/answer/9918094?hl=en), Google Unternehmensprofil-Hilfe
+- [Performance report (Search results): Dimensions and data groupings](https://support.google.com/webmasters/answer/17011259?hl=en), Search Console Hilfe
+- [How Google’s featured snippets work](https://support.google.com/websearch/answer/9351707?hl=en), Google Suche Hilfe
+- [Featured snippets and your website](https://developers.google.com/search/docs/appearance/featured-snippets?hl=en), Google Search Central
+- [Speakable (Article, WebPage) structured data (BETA)](https://developers.google.com/search/docs/data-types/speakable?hl=en), Google Search Central
+- [Latest Google Search Documentation Updates (Einträge vom 8. Mai und 15. Juni 2026)](https://developers.google.com/search/updates), Google Search Central
+- [My Business Q&A API: Change log](https://developers.google.com/my-business/content/qanda/change-log?hl=en), Google for Developers
+- [Introducing Apple Business, a new all-in-one platform for businesses of all sizes (24. März 2026)](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/), Apple Newsroom
+- [Apple Maps: Legal (Datenanbieter)](https://www.apple.com/legal/internet-services/maps/legal-en.html), Apple
+- [Alexa+ arrives in India as Amazon’s next-generation AI assistant expands internationally (mit Abschnitten zu Deutschland und Österreich, Stand 16. September 2026)](https://aboutamazon.com/news/devices/alexa-plus-international-launch), Amazon
+- [Expedia, Yelp, Angi, and Square to build new agentic experiences for Alexa+ (23. Dezember 2025)](https://www.aboutamazon.com/news/devices/alexa-plus-voice-booking-integrations), Amazon
+- [End of support for Cortana](https://support.microsoft.com/cortana), Microsoft Support
+- [Google Assistant shutting down on Android and Wear OS in September (4. August 2026)](https://9to5google.com/2026-08-04/google-assistant-september-2026-shutdown/), 9to5Google
+
+---
+
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org

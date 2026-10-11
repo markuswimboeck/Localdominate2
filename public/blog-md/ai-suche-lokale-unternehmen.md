@@ -1,116 +1,229 @@
 ---
-title: "AI Search Optimization für lokale Unternehmen: Der komplette Guide 2026"
+title: "KI-Suche für lokale Unternehmen: Welche Systeme es in Deutschland, Österreich und der Schweiz gibt und was Sie zuerst tun"
 slug: ai-suche-lokale-unternehmen
 url: https://localdominate.org/blog/ai-suche-lokale-unternehmen
 canonical: https://localdominate.org/blog/ai-suche-lokale-unternehmen
 markdown_url: https://localdominate.org/blog-md/ai-suche-lokale-unternehmen.md
 language: de-DE
 published: 2026-03-08
-updated: 2026-03-08
-reading_time_minutes: 24
-category: "AI & Zukunft"
-author: Local Dominator
-publisher: Local Dominator
-license: https://creativecommons.org/licenses/by/4.0/
-citation: "Local Dominator (2026-03-08). AI Search Optimization für lokale Unternehmen: Der komplette Guide 2026. https://localdominate.org/blog/ai-suche-lokale-unternehmen"
-keywords: ["ai search optimization", "geo optimierung", "ai suche lokale unternehmen", "chatgpt local seo", "google ai overviews local", "llms.txt", "ai suchmaschinenoptimierung", "generative engine optimization"]
-area_served: [Deutschland, Österreich, Schweiz]
-ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
+updated: 2026-10-11
+reading_time_minutes: 13
+category: "KI-Suche"
+author: LocalDominate Redaktion
+accountable: Markus Wimböck
+publisher: LocalDominate
+description: "Welche KI-Suchen es in Deutschland, Österreich und der Schweiz gibt, woher sie Angaben über Betriebe nehmen und was Inhaber zuerst tun sollten. Mit Belegen."
 ---
 
-<!--
-JSON-LD (Schema.org Article):
+# KI-Suche für lokale Unternehmen: Welche Systeme es in Deutschland, Österreich und der Schweiz gibt und was Sie zuerst tun
 
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "@id": "https://localdominate.org/blog/ai-suche-lokale-unternehmen#article",
-  "headline": "AI Search Optimization für lokale Unternehmen: Der komplette Guide 2026",
-  "description": "Wie AI-Suchmaschinen Quellen auswählen und lokale Unternehmen in AI-Empfehlungen erscheinen. GEO-Strategien, Schema Markup & llms.txt.",
-  "url": "https://localdominate.org/blog/ai-suche-lokale-unternehmen",
-  "inLanguage": "de-DE",
-  "datePublished": "2026-03-08",
-  "dateModified": "2026-03-08",
-  "timeRequired": "PT24M",
-  "keywords": "ai search optimization, geo optimierung, ai suche lokale unternehmen, chatgpt local seo, google ai overviews local, llms.txt, ai suchmaschinenoptimierung, generative engine optimization",
-  "author": {
-    "@type": "Organization",
-    "name": "Local Dominator",
-    "url": "https://localdominate.org"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Local Dominator",
-    "url": "https://localdominate.org",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://localdominate.org/logo.png"
-    }
-  },
-  "isAccessibleForFree": true,
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: Local Dominator (localdominate.org)",
-  "encoding": {
-    "@type": "MediaObject",
-    "encodingFormat": "text/markdown",
-    "contentUrl": "https://localdominate.org/blog-md/ai-suche-lokale-unternehmen.md"
-  },
-  "about": {
-    "@type": "Thing",
-    "name": "AI & Zukunft"
-  },
-  "areaServed": [
-    {
-      "@type": "Country",
-      "name": "Deutschland",
-      "sameAs": "https://www.wikidata.org/wiki/Q183"
-    },
-    {
-      "@type": "Country",
-      "name": "Österreich",
-      "sameAs": "https://www.wikidata.org/wiki/Q40"
-    },
-    {
-      "@type": "Country",
-      "name": "Schweiz",
-      "sameAs": "https://www.wikidata.org/wiki/Q39"
-    }
-  ]
-}
-```
--->
+Für Inhaber von Handwerksbetrieben, Praxen, Hotels und Restaurants, die einen Überblick wollen, bevor sie in die Einzelheiten gehen. Sie erfahren, welche KI-Suchen es hier gibt, woher diese ihre Angaben über Betriebe nehmen und in welcher Reihenfolge Sie handeln. Was „KI-Suchoptimierung“ als Dienstleistung ehrlich bedeutet, steht in [AI Search Optimization 2026](https://localdominate.org/blog/ai-search-optimization-2026), wie Sie die Texte Ihrer Website schreiben, in [Website-Content für KI-Suchmaschinen](https://localdominate.org/blog/website-content-ai-suchmaschinen).
 
-# AI Search Optimization für lokale Unternehmen: Der komplette Guide 2026
+## Die kurze Antwort
 
-> Kanonische URL: https://localdominate.org/blog/ai-suche-lokale-unternehmen
-> Aktualisiert: 2026-03-08 · Lesezeit: 24 Min · Kategorie: AI & Zukunft
-> Lizenz: CC-BY 4.0 — Zitate mit Quellenangabe erlaubt.
+Belegt verfügbar sind in Deutschland, Österreich und der Schweiz die Übersicht mit KI und der KI-Modus in der Google-Suche sowie ChatGPT und Claude, beide mit Websuche. Weitere KI-Suchen sind Microsoft Copilot und Perplexity. Angaben über Betriebe können aus Websites, Unternehmensprofilen und anderen Karteneinträgen, Rezensionen und Verzeichnissen stammen. Wer die Such-Crawler zulässt und überall gleiche, richtige Angaben pflegt, hat die Grundlage gelegt. Eine Nennung garantiert niemand.
 
-## Kurzbeschreibung
+## Das Wichtigste in Kürze
 
-Wie AI-Suchmaschinen Quellen auswählen und lokale Unternehmen in AI-Empfehlungen erscheinen. GEO-Strategien, Schema Markup & llms.txt.
+- Die Übersicht mit KI zeigt Google in Deutschland, Österreich und der Schweiz seit März 2025, den KI-Modus seit Oktober 2025. ChatGPT mit Websuche ist laut OpenAI in allen drei Ländern und in Liechtenstein nutzbar, auch ohne Anmeldung. Claude steht laut Anthropic in denselben vier Ländern zur Verfügung.
+- Für lokale Einträge bezieht Google Angaben laut eigener Hilfe unter anderem von Websites, aus lizenzierten Daten von Drittanbietern, von Nutzern und von Inhabern über das Unternehmensprofil.
+- Welche Quelle bei einer bestimmten KI-Antwort den Ausschlag gibt, legt kein Anbieter offen. Sicher ist nur: Widersprüche zwischen Website, Profil und Verzeichnissen können in Antworten landen.
+- Die Reihenfolge: Zugang für Crawler, Indexierung, Unternehmensprofil, Fakten auf der Website, gleiche Daten in allen Einträgen, echte Bewertungen, monatliche Messung.
+- Spezielle KI-Dateien oder besonderes Schema brauchen Sie für Googles KI-Funktionen laut Google nicht. Garantierte Nennungen kann niemand seriös versprechen.
 
-## Zusammenfassung
+## Welche KI-Suchen es in Deutschland, Österreich und der Schweiz gibt
 
-Alles über AI Search Optimization für lokale Unternehmen: Wie ChatGPT, Google AI Overviews und Perplexity Quellen auswählen — und wie du dein Business dort sichtbar machst.
+Belegt verfügbar sind hier die Übersicht mit KI und der KI-Modus in der Google-Suche sowie ChatGPT und Claude mit Websuche. Microsoft Copilot und Perplexity nutzen ebenfalls Inhalte aus dem Web, eine offizielle Länderliste haben wir für beide nicht gefunden. Zahlen dazu, wie viele Menschen hier welches System für lokale Fragen nutzen, haben wir bei den Anbietern nicht gefunden.
 
-## Schlüsselbegriffe
+Mit **KI-Suche** meinen wir Systeme, die eine Frage nicht mit einer Liste von Treffern beantworten, sondern mit einem geschriebenen Text, und dafür im Web nach Quellen suchen. Für einen lokalen Betrieb heißt das: Sie wollen nicht nur gefunden, sondern in der Antwort richtig beschrieben und möglichst verlinkt werden. Wie sich das von der klassischen Suche unterscheidet, erklärt [KI-Suche und klassische Suche im Vergleich](https://localdominate.org/blog/ai-search-vs-traditional-search).
 
-- ai search optimization
-- geo optimierung
-- ai suche lokale unternehmen
-- chatgpt local seo
-- google ai overviews local
-- llms.txt
-- ai suchmaschinenoptimierung
-- generative engine optimization
+*KI-Suchen im deutschsprachigen Raum (Stand 11. Oktober 2026)*
 
-## Quelle und Autor
+| System | Anbieter | Was zur Verfügbarkeit belegt ist | Vertiefung |
+| --- | --- | --- | --- |
+| Übersicht mit KI | Google | Start in Deutschland, Österreich und der Schweiz im März 2025. Die Google-Hilfe führt heute alle drei Länder und Liechtenstein auf, Deutsch gehört zu den Sprachen | [Google AI Overviews und Local SEO](https://localdominate.org/blog/google-ai-overviews-local-seo) |
+| KI-Modus | Google | Start am 8. Oktober 2025 in Deutschland, Österreich und der Schweiz, in der Schweiz auf Deutsch, Französisch und Italienisch | [Google AI Mode und Local SEO](https://localdominate.org/blog/google-ai-mode-local-seo-2026) |
+| Websuche in ChatGPT | OpenAI | ChatGPT ist laut OpenAI in Deutschland, Österreich, der Schweiz und Liechtenstein verfügbar. Die Websuche gibt es in allen Tarifen und auch ohne Anmeldung | [ChatGPT Search für lokale Unternehmen](https://localdominate.org/blog/chatgpt-search-lokale-unternehmen-2026) |
+| Microsoft Copilot | Microsoft | Eine Länderliste nennt Microsoft im Transparenzhinweis zu Copilot nicht. Laut diesem Hinweis stützt sich Copilot bei manchen Fragen auf Ergebnisse einer Websuche und nennt die Quellen. Zitierungen in Copilot zählt Microsoft in den Bing Webmaster Tools | [Bing, Copilot und Local SEO](https://localdominate.org/blog/bing-copilot-local-seo-2026) |
+| Perplexity | Perplexity | Eine offizielle Länderliste von Perplexity haben wir nicht gefunden. Was zur Nutzung in Deutschland bekannt ist, steht im Einzelartikel | [Perplexity und Claude](https://localdominate.org/blog/perplexity-claude-lokale-sichtbarkeit#verfuegbarkeit-dach) |
+| Claude | Anthropic | Laut Anthropic in Deutschland, Österreich, der Schweiz und Liechtenstein verfügbar. Eine Ländereinschränkung für die Websuche nennt die Claude-Hilfe nicht | [Perplexity und Claude](https://localdominate.org/blog/perplexity-claude-lokale-sichtbarkeit#verfuegbarkeit-dach) |
+| Apple Intelligence | Apple | Seit dem 31. März 2025 auch auf Deutsch und erstmals für iPhone-Nutzer in der EU. Eine Websuche beschreibt Apple in dieser Ankündigung nicht | [Apple Business Connect 2026](https://localdominate.org/blog/apple-business-connect-local-seo-2026) |
 
-Verfasst und veröffentlicht von **Local Dominator** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+> **Einschätzung:** Für die meisten lokalen Betriebe beginnt die Arbeit bei Google. Übersicht mit KI und KI-Modus sind Teil der Suche, die Ihre Kunden ohnehin nutzen, und Google nennt für diese Funktionen ausdrücklich das Unternehmensprofil. Die anderen Systeme profitieren von denselben Grundlagen. Eine Rangliste der Systeme nach Bedeutung für Ihren Ort können wir mangels Daten nicht seriös aufstellen.
 
-- Webseite: https://localdominate.org
-- Vollständiger Artikel (HTML): https://localdominate.org/blog/ai-suche-lokale-unternehmen
-- Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/ai-suche-lokale-unternehmen.md
-- Zitiervorlage: Local Dominator (2026-03-08). AI Search Optimization für lokale Unternehmen: Der komplette Guide 2026. https://localdominate.org/blog/ai-suche-lokale-unternehmen
+## Woher KI-Suchen ihre Angaben über Betriebe nehmen
+
+Infrage kommen Ihre eigene Website, Ihr Unternehmensprofil und andere Karteneinträge, Rezensionen sowie Verzeichnisse und Portale, bei Google laut Hilfe auch lizenzierte Daten von Drittanbietern. Welche Quelle bei einer bestimmten Antwort den Ausschlag gibt, legt kein Anbieter offen.
+
+Am genauesten beschreibt Google, woher die Angaben in lokalen Einträgen stammen, unter anderem aus öffentlich verfügbaren Informationen, etwa von Unternehmenswebsites, aus lizenzierten Daten von Drittanbietern, aus Fakten, Fotos und Rezensionen von Nutzern und aus den Angaben von Inhabern, die ihren Eintrag über das Unternehmensprofil beanspruchen. Für die KI-Funktionen der Suche schreibt Google, dass generative Antworten Informationen über lokale Unternehmen enthalten können und dass Unternehmensprofile helfen können, Produkte und Leistungen in KI-Antworten sichtbar zu machen.
+
+*Quellen für Angaben über Ihren Betrieb und was dazu belegt ist*
+
+| Quelle | Was die Anbieter dokumentieren | Was Sie tun |
+| --- | --- | --- |
+| Eigene Website | Google: Die Seite muss indexiert sein und mit Snippet erscheinen dürfen. OpenAI: Jede öffentliche Website kann in der ChatGPT-Suche erscheinen, wenn sie OAI-SearchBot nicht sperrt | Fakten als Text, eine Seite je Leistung, siehe [Website-Content für KI-Suchmaschinen](https://localdominate.org/blog/website-content-ai-suchmaschinen) |
+| Google-Unternehmensprofil | Google nennt es in seinen Hinweisen zu den KI-Funktionen und als Quelle lokaler Einträge | Vollständig und aktuell halten, siehe [Unternehmensprofil und KI-Funktionen](https://localdominate.org/blog/unternehmensprofil-ki-funktionen-2026) |
+| Apple Business | Ortskarten erscheinen laut Apple in Apple Karten, Safari und Spotlight; Siri nennt Apple als weiteren Kanal zu Kunden | Eintrag beanspruchen und mit Google abgleichen, siehe [Apple Business Connect 2026](https://localdominate.org/blog/apple-business-connect-local-seo-2026#abgleich-mit-google) |
+| Rezensionen | Google fasst Rezensionen der letzten zwölf Monate mit KI zusammen, nicht bei allen Orten | Alle Kunden um eine Bewertung bitten, siehe [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen) |
+| Verzeichnisse und Portale | Google nutzt öffentlich verfügbare Informationen und lizenzierte Daten Dritter, nennt aber keine Anbieter. OpenAI nennt für Restaurantreservierungen OpenTable als weltweit verfügbaren Partner | Einträge prüfen und angleichen, siehe [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo) |
+
+Welche Seiten bei Fragen nach Ihrer Branche in Ihrem Ort tatsächlich verlinkt werden, können Sie selbst ermitteln. Die Methode beschreibt [Wie ChatGPT lokale Unternehmen zitiert](https://localdominate.org/blog/chatgpt-zitiert-lokale-unternehmen#quellenkarte); nach unserer Einschätzung lässt sie sich auf den KI-Modus, Copilot und Perplexity übertragen.
+
+> **Einschätzung:** Weil niemand offenlegt, welche Quelle bei welcher Antwort zählt, ist die sicherste Strategie, dass alle Quellen dasselbe sagen. Eine alte Telefonnummer in einem einzigen Verzeichnis kann in einer Antwort landen. Wie Sie solche Fehler finden und an der Quelle beheben, steht in [KI-Falschangaben korrigieren](https://localdominate.org/blog/ai-falschangaben-korrigieren-2026).
+
+## Google: Übersicht mit KI, KI-Modus und Unternehmensprofil
+
+Für die Übersicht mit KI und den KI-Modus gibt es laut Google keine zusätzlichen Anforderungen: Eine Seite muss indexiert sein und mit Snippet erscheinen dürfen. Google empfiehlt die üblichen Grundlagen der Suchmaschinenoptimierung und nennt dabei ausdrücklich ein aktuelles Unternehmensprofil.
+
+In seiner Dokumentation „AI features and your website“ zählt Google auf, was für die KI-Funktionen der Suche wie für die normale Suche gilt:
+
+- Crawling in der robots.txt erlauben, auch bei CDN und Hosting.
+- Inhalte über interne Links auffindbar machen.
+- Eine gute Nutzererfahrung auf der Seite bieten.
+- Wichtige Inhalte als Text bereitstellen, unterstützt durch gute Bilder und Videos.
+- Strukturierte Daten nur passend zum sichtbaren Text einsetzen.
+- Die Angaben in Merchant Center und **Unternehmensprofil** aktuell halten.
+
+Seit Mai 2026 stellt Google klar, dass seine Spam-Richtlinien auch für generative KI-Antworten in der Suche gelten. Als Spam zählt ausdrücklich der Versuch, solche Antworten zu manipulieren. Zugleich warnt Google vor Werkzeugen von Drittanbietern, die Erfolg versprechen: Keines hat laut Google Zugang zu Googles internen Ranking- oder KI-Systemen.
+
+Messen können Sie das in der Search Console. Seit dem 31. August 2026 zeigt ein eigener Bericht allen Websites weltweit, wie oft Links zu ihnen in Übersicht mit KI und KI-Modus angezeigt wurden, nach Seite, Land, Gerät und Datum. Klicks aus diesen Funktionen stecken im Leistungsbericht unter dem Suchtyp „Web“, zusammen mit den normalen Treffern. Einzelheiten stehen in [Google AI Overviews und Local SEO](https://localdominate.org/blog/google-ai-overviews-local-seo#search-console).
+
+## ChatGPT: Websuche mit Standortbezug
+
+ChatGPT sucht laut OpenAI automatisch im Web, wenn eine Frage von aktuellen Informationen profitiert, und kann für lokale Ergebnisse einen ungefähren Standort aus der IP-Adresse nutzen. Websites, die den Crawler OAI-SearchBot sperren, zeigt ChatGPT laut OpenAI nicht in Suchantworten; eine Platzierung ist aber auch sonst nicht garantiert.
+
+*Was OpenAI zur Websuche in ChatGPT dokumentiert*
+
+| Punkt | Laut OpenAI |
+| --- | --- |
+| Wer suchen kann | Alle Tarife von Free bis Enterprise und Edu, außerdem Nutzer ohne Anmeldung |
+| Standort | Ein ungefährer Standort aus der IP-Adresse; die Freigabe des Gerätestandorts ist freiwillig und standardmäßig aus |
+| Karte | In den Apps für iOS und Android können relevante Ergebnisse eine Karte enthalten |
+| Quellen | Antworten mit Websuche können Quellenangaben enthalten, die Schaltfläche „Quellen“ zeigt, falls verfügbar, weitere Links |
+| Suchanbieter | ChatGPT arbeitet manchmal mit anderen Suchanbietern zusammen und schreibt die Frage dafür in gezielte Suchanfragen um |
+| Rangfolge | Mehrere Faktoren für relevante, verlässliche Informationen; eine Platzierung ist nicht garantiert |
+| Reservierungen | OpenTable weltweit, Resy in den USA, Yelp in den USA und Kanada |
+| Ihre Website | Jede öffentliche Website kann erscheinen; dafür OAI-SearchBot nicht sperren |
+
+Lokale Fragen sind für OpenAI ausdrücklich ein Thema. In den Versionshinweisen vom 24. Juni 2026 heißt es, Fragen nach lokalen Betrieben sollten nützlicher werden und das Modell nutze den Standortkontext besser. Besuche aus ChatGPT erkennen Sie in Ihrer Web-Analyse am Parameter utm_source=chatgpt.com, den ChatGPT laut OpenAI automatisch an Links anhängt.
+
+Vertiefung: [ChatGPT Search für lokale Unternehmen](https://localdominate.org/blog/chatgpt-search-lokale-unternehmen-2026) zu Crawlern und Stichproben, [Wie ChatGPT lokale Unternehmen zitiert](https://localdominate.org/blog/chatgpt-zitiert-lokale-unternehmen) zu den Quellen.
+
+## Microsoft Copilot, Perplexity und Claude
+
+Alle drei greifen auf Inhalte aus dem Web zurück, jeder mit eigenem Zugang: Perplexity und Anthropic betreiben eigene Such-Crawler, die Ihre Website lesen dürfen sollten. Für Copilot zählt Microsoft in den Bing Webmaster Tools, wie oft Ihre Seiten als Quelle erscheinen.
+
+### Microsoft Copilot
+
+Im Februar 2026 hat Microsoft in den Bing Webmaster Tools den Bericht „AI Performance“ als öffentliche Vorschau eingeführt. Er zeigt, wie oft Ihre Inhalte in Copilot, in KI-Zusammenfassungen von Bing und bei ausgewählten Partnern als Quelle erscheinen und welche Seiten zitiert werden. Die Position innerhalb einer Antwort zeigt er ausdrücklich nicht. Ein Produktmanager von Microsoft Bing schreibt, Inhalte sollten aktuell, fundiert, gut gegliedert und eindeutig sein, und fügt hinzu, dass nichts eine Auswahl garantiert. Mehr in [Bing, Copilot und Local SEO](https://localdominate.org/blog/bing-copilot-local-seo-2026).
+
+### Perplexity und Claude
+
+Laut Perplexity soll **PerplexityBot** Websites in den Suchergebnissen von Perplexity anzeigen und verlinken, für das Training von Modellen wird er nicht genutzt. Bei Anthropic verbessert **Claude-SearchBot** die Suchergebnisse; wer ihn sperrt, kann laut Anthropic an Sichtbarkeit und Genauigkeit in den Suchergebnissen verlieren. Wie beide Dienste Quellen zeigen und was zu lokalen Funktionen bekannt ist, beschreibt [Perplexity und Claude](https://localdominate.org/blog/perplexity-claude-lokale-sichtbarkeit).
+
+## Apple: Apple Karten, Siri und Apple Intelligence
+
+Ihre Angaben bei Apple pflegen Sie über Apple Business, dessen Ortskarten laut Apple in Apple Karten, Safari und Spotlight erscheinen; Siri nennt Apple als weiteren Kanal. Apple Intelligence gibt es seit dem 31. März 2025 auch auf Deutsch, wie Siri lokale Antworten zusammenstellt, beschreibt Apple in den geprüften Quellen aber nicht.
+
+Apple Business gibt es seit dem 14. April 2026, es ersetzt laut Apple das bisherige Apple Business Connect. Bestehende Daten wie beanspruchte Standorte, Angaben der Ortskarte und Fotos übernimmt Apple laut seiner Ankündigung vom 24. März 2026 automatisch. Die Verwaltung von Marke und Standorten führt Apple für Deutschland, Österreich und die Schweiz als verfügbar. Auf der Ortskarte stehen unter anderem Fotos, Öffnungszeiten und weitere Angaben zum Standort. Anzeigen in Apple Karten hat Apple zunächst für die USA und Kanada angekündigt.
+
+Apple Business und das Google-Unternehmensprofil sind getrennte Systeme. Ändert sich etwas, pflegen Sie beide. Wie Sie den Eintrag beanspruchen und abgleichen, steht in [Apple Business Connect 2026](https://localdominate.org/blog/apple-business-connect-local-seo-2026).
+
+## Die Reihenfolge: was Sie zuerst tun
+
+Beginnen Sie mit dem, ohne das nichts anderes wirkt: Zugang für die Crawler und Indexierung. Danach folgen Unternehmensprofil, Fakten auf der Website, gleiche Daten in allen Einträgen, echte Bewertungen und zum Schluss eine monatliche Messung.
+
+1. **Zugang für Crawler prüfen.** In der robots.txt und in den Einstellungen von Firewall, Hoster oder CDN nachsehen, ob Googlebot, OAI-SearchBot, PerplexityBot und Claude-SearchBot Ihre Seiten lesen dürfen. Alle Namen und fertige Beispiele stehen in [KI-Crawler steuern](https://localdominate.org/blog/ai-crawler-steuern-gptbot-claudebot-2026#crawler-tabelle). Einmalig, danach nach jeder Änderung am Hosting.
+2. **Indexierung und Search Console.** Startseite, Leistungsseiten und Kontaktseite müssen indexiert sein und mit Snippet erscheinen dürfen. In den Einstellungen der Search Console prüfen, dass Ihre Website nicht von den generativen KI-Funktionen der Suche ausgeschlossen ist; diese Einstellung gibt es laut Google seit dem 31. August 2026 für alle Websites.
+3. **Unternehmensprofil vervollständigen.** Laut Google werden Unternehmen mit vollständigen und korrekten Angaben eher in lokalen Ergebnissen gezeigt. Kategorie, Leistungen, Öffnungszeiten mit Sonderzeiten, Fotos und Website-Link pflegen, siehe [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren).
+4. **Fakten auf die Website.** Eine Seite je Hauptleistung mit Ort, Ablauf, Preisrahmen und Bedingungen als Text, dazu eine Kontaktseite mit allen Zeiten. Wie, steht in [Website-Content für KI-Suchmaschinen](https://localdominate.org/blog/website-content-ai-suchmaschinen).
+5. **Einträge angleichen.** Name, Adresse, Telefon, Website und Öffnungszeiten in Apple Business, Bing Places und den Verzeichnissen Ihrer Branche gleich halten wie im Unternehmensprofil.
+6. **Echte Bewertungen.** Laut Google können positive Rezensionen und hilfreiche Antworten helfen, dass sich Ihr Betrieb abhebt. Bitten Sie alle Kunden, ohne Gegenleistung und ohne Vorauswahl, und beantworten Sie Rezensionen sachlich.
+7. **Monatlich messen.** Search Console (Bericht für generative KI-Funktionen), Bing Webmaster Tools (AI Performance), Web-Analyse (utm_source=chatgpt.com) und eine feste Stichprobe mit fünf bis zehn Fragen. Vorlage: [KI-Zitate überwachen](https://localdominate.org/blog/ai-zitat-monitoring-local-seo-2026).
+
+> **Einschätzung:** Die Reihenfolge folgt der Logik der Anbieter: Was ein Crawler nicht lesen darf, kann weder in der Suche noch in einer KI-Antwort erscheinen. Wie stark die Schritte 3 bis 6 einzelne KI-Antworten beeinflussen, legt keiner der Anbieter offen; Google nennt immerhin ein aktuelles Unternehmensprofil. Die Schritte sorgen aber dafür, dass jedes System, das über Ihren Betrieb schreibt, richtige Angaben findet. Ein ausführlicher Arbeitsplan über zwölf Monate steht in [AI Search Optimization 2026](https://localdominate.org/blog/ai-search-optimization-2026#arbeitsplan).
+
+## Was Sie für KI-Suchen nicht brauchen
+
+Für die KI-Funktionen der Google-Suche brauchen Sie laut Google keine KI-Textdateien wie llms.txt, kein spezielles Schema, keine in Häppchen zerlegten Texte und keine eigens für KI geschriebenen Seiten. Garantierte Nennungen kann niemand seriös verkaufen.
+
+- **KI-Dateien:** Google schreibt, Sie müssten keine neuen maschinenlesbaren Dateien, KI-Textdateien, Markups oder Markdown-Fassungen anlegen. Seit Juni 2026 steht in der Dokumentation, dass llms.txt-Dateien für die Google-Suche nicht nötig sind und die Sichtbarkeit weder verbessern noch verschlechtern. Mehr in [llms.txt für lokale Unternehmen](https://localdominate.org/blog/llms-txt-lokale-unternehmen-2026).
+- **Spezielles Schema:** Für die generative Suche ist laut Google kein besonderes schema.org-Markup nötig. Strukturierte Daten bleiben für Rich-Suchergebnisse sinnvoll.
+- **Texte für KI:** Laut Google müssen Sie weder Inhalte zerstückeln noch eigens für KI schreiben, und es gibt keine ideale Seitenlänge.
+- **Seiten je Nachbarort:** Seiten für einzelne Städte oder Regionen, die alle zu derselben Seite führen, nennt Google als Beispiel für Brückenseiten, die gegen die Spam-Richtlinien verstoßen.
+- **Garantien:** OpenAI schreibt, eine Platzierung sei nicht garantiert. Microsoft schreibt, nichts garantiere eine Auswahl.
+
+Welche Angebote rund um KI-Suche Sie noch prüfen sollten und womit Sie aufhören können, steht in [AI Search Optimization 2026](https://localdominate.org/blog/ai-search-optimization-2026#aufhoeren).
+
+## Wegweiser: welcher Artikel welche Frage beantwortet
+
+Dieser Überblick verweist für jede typische Frage auf den Artikel, der sie mit Belegen vertieft. Alle Artikel der Reihe folgen denselben Regeln: Angaben der Anbieter zuerst, Vermutungen als Einschätzung gekennzeichnet.
+
+*Ihre Frage und wo Sie die Antwort finden*
+
+| Ihre Frage | Artikel |
+| --- | --- |
+| Was ist GEO, und woher kommt der Begriff? | [Was ist GEO?](https://localdominate.org/blog/was-ist-geo-generative-engine-optimization) |
+| Was bringt eine Agentur für KI-Suchoptimierung wirklich? | [AI Search Optimization 2026](https://localdominate.org/blog/ai-search-optimization-2026) |
+| Wie schreibe ich Leistungsseiten, Kontakt und Preise? | [Website-Content für KI-Suchmaschinen](https://localdominate.org/blog/website-content-ai-suchmaschinen) |
+| Erscheint mein Betrieb in Googles KI-Antworten? | [Google AI Overviews und Local SEO](https://localdominate.org/blog/google-ai-overviews-local-seo) und [Google AI Mode und Local SEO](https://localdominate.org/blog/google-ai-mode-local-seo-2026) |
+| Welche Profilangaben nutzt Google für KI-Funktionen? | [Unternehmensprofil und KI-Funktionen](https://localdominate.org/blog/unternehmensprofil-ki-funktionen-2026) |
+| Welche Crawler muss ich zulassen? | [KI-Crawler steuern](https://localdominate.org/blog/ai-crawler-steuern-gptbot-claudebot-2026) |
+| Brauche ich eine llms.txt? | [llms.txt für lokale Unternehmen](https://localdominate.org/blog/llms-txt-lokale-unternehmen-2026) |
+| Eine KI behauptet etwas Falsches über mich | [KI-Falschangaben korrigieren](https://localdominate.org/blog/ai-falschangaben-korrigieren-2026) |
+| Wie prüfe ich alles auf einmal? | [KI-Sichtbarkeit prüfen: Checkliste](https://localdominate.org/blog/ai-visibility-checklist) |
+
+## Häufige Fragen
+
+### Welche KI-Suche ist für meinen Betrieb am wichtigsten?
+
+Belastbare Zahlen dazu, welches System Ihre Kunden für lokale Fragen nutzen, haben wir bei den Anbietern nicht gefunden. Unsere Einschätzung: Beginnen Sie bei Google, weil Übersicht mit KI und KI-Modus Teil der Google-Suche sind und Google dafür ausdrücklich das Unternehmensprofil nennt. ChatGPT, Copilot, Perplexity und Claude profitieren von denselben Grundlagen.
+
+### Kann ich meinen Betrieb bei ChatGPT eintragen wie bei Google?
+
+Ein Formular für Betriebe nennt OpenAI in den von uns geprüften Hilfeseiten nicht. Laut OpenAI kann jede öffentliche Website in der ChatGPT-Suche erscheinen, solange OAI-SearchBot sie lesen darf. Ihre Angaben gelangen also über Ihre Website und andere öffentliche Quellen in die Antworten.
+
+### Woher weiß ChatGPT, welche Betriebe in der Nähe sind?
+
+Laut OpenAI kann ChatGPT einen ungefähren Standort aus der IP-Adresse nutzen, um passende lokale Ergebnisse zu liefern. Die Freigabe des Gerätestandorts ist freiwillig und standardmäßig aus; mit genaueren Angaben kann ChatGPT Fragen zu Betrieben in der Nähe gezielter beantworten. Für die Suche arbeitet ChatGPT laut OpenAI manchmal mit anderen Suchanbietern zusammen.
+
+### Brauche ich für jede KI-Suche eigene Maßnahmen?
+
+Kaum. Unterschiedlich sind vor allem die Crawler, die Sie je Anbieter zulassen müssen, die Bing Webmaster Tools zum Messen der Zitierungen in Copilot und Apple Business für Ihren Eintrag in Apple Karten. Alles andere ist dieselbe Arbeit wie für Google: lesbare Website, gepflegte Profile, gleiche Daten, echte Bewertungen.
+
+### Kann mir eine Agentur eine Nennung in KI-Antworten garantieren?
+
+Nein. OpenAI schreibt, eine Platzierung sei nicht garantiert, Microsoft, nichts garantiere eine Auswahl. Google warnt vor Werkzeugen, die Erfolg versprechen, und schreibt, kein Drittanbieter habe Zugang zu Googles internen Ranking- oder KI-Systemen.
+
+## Quellen
+
+- [AI features and your website (Stand 10. Dezember 2025)](https://developers.google.com/search/docs/appearance/ai-features), Google Search Central
+- [Google’s Guide to Optimizing for Generative AI Features on Google Search (Stand 10. Juli 2026)](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide), Google Search Central
+- [Google Search Central: Documentation updates (Einträge vom 15. Mai und 15. Juni 2026)](https://developers.google.com/search/updates), Google Search Central
+- [Spam policies for Google web search (Stand 28. August 2026)](https://developers.google.com/search/docs/essentials/spam-policies), Google Search Central
+- [Übersicht mit KI: Informationen in der Google Suche schneller und einfacher finden](https://support.google.com/websearch/answer/14901683?hl=de), Google Suche-Hilfe
+- [Übersicht mit KI startet in Deutschland und weiteren Ländern (26. März 2025)](https://blog.google/intl/de-de/produkte/suchen-entdecken/uebersicht-mit-ki-start/), Google Blog Deutschland
+- [Der KI-Modus startet in Deutschland, Österreich und der Schweiz (8. Oktober 2025)](https://blog.google/intl/de-de/produkte/suchen-entdecken/ki-modus-startet-in-dach/), Google Blog Deutschland
+- [So bezieht und verwendet Google Informationen aus lokalen Einträgen](https://support.google.com/local-listings/answer/9851099?hl=de), Lokale Brancheneinträge-Hilfe (Google)
+- [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Generative AI performance report (Search)](https://support.google.com/webmasters/answer/16984139), Search Console-Hilfe
+- [Search generative AI control](https://support.google.com/webmasters/answer/16908024), Search Console-Hilfe
+- [Searching the web with ChatGPT](https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt), OpenAI Help Center
+- [ChatGPT Supported Countries](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries), OpenAI Help Center
+- [Publishers and Developers FAQ](https://help.openai.com/en/articles/12627856-publishers-and-developers-faq), OpenAI Help Center
+- [Overview of OpenAI Crawlers](https://developers.openai.com/api/docs/bots), OpenAI Developers
+- [ChatGPT release notes (Eintrag vom 24. Juni 2026)](https://help.openai.com/en/articles/6825453-chatgpt-release-notes), OpenAI Help Center
+- [Introducing AI Performance in Bing Webmaster Tools Public Preview (10. Februar 2026)](https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview), Microsoft Bing Webmaster Blog
+- [Optimizing Your Content for Inclusion in AI Search Answers (8. Oktober 2025)](https://about.ads.microsoft.com/en/blog/post/october-2025/optimizing-your-content-for-inclusion-in-ai-search-answers), Microsoft Advertising Blog
+- [Transparency Note for Microsoft Copilot (Stand 18. August 2026)](https://support.microsoft.com/en-US/Privacy/microsoft-copilot/transparency-note), Microsoft Support
+- [Perplexity Crawlers](https://docs.perplexity.ai/docs/resources/perplexity-crawlers), Perplexity Docs
+- [Does Anthropic crawl data from the web, and how can site owners block the crawler?](https://support.claude.com/en/articles/8896518), Claude Help Center (Anthropic)
+- [Supported countries and regions](https://www.anthropic.com/supported-countries), Anthropic
+- [Enabling and Using Web Search](https://support.claude.com/en/articles/10684626-enabling-and-using-web-search), Claude Help Center (Anthropic)
+- [Introducing Apple Business, a new all-in-one platform for businesses of all sizes (24. März 2026)](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/), Apple Newsroom
+- [Apple Business feature availability (14. April 2026)](https://support.apple.com/guide/business/feature-availability-axmef1c47twq/web), Apple Business Hilfe
+- [Apple Intelligence features expand to new languages and regions today (31. März 2025)](https://www.apple.com/newsroom/2025/03/apple-intelligence-features-expand-to-new-languages-and-regions-today/), Apple Newsroom
+
+---
+
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
