@@ -6,6 +6,11 @@
   "outputDirectory": "dist",
   "redirects": [
     {
+      "source": "/ueber-uns",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
       "source": "/seo-lexikon/proximity",
       "destination": "/seo-lexikon#proximity-entfernung",
       "permanent": true

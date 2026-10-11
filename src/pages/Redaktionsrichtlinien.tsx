@@ -182,7 +182,7 @@ const Redaktionsrichtlinien = () => {
               <Link to="/forschungsmethodik" className="text-primary hover:underline text-sm">
                 {language === "de" ? "→ Unsere Forschungsmethodik" : "→ Our Research Methodology"}
               </Link>
-              <Link to="/ueber-uns" className="text-primary hover:underline text-sm">
+              <Link to="/about"className="text-primary hover:underline text-sm">
                 {language === "de" ? "→ Über das Team" : "→ About the Team"}
               </Link>
               <Link to="/impressum" className="text-primary hover:underline text-sm">
