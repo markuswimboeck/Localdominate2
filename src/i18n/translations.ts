@@ -107,12 +107,12 @@ export const translations = {
     // ComparisonTable
     comparison: {
       headline: "Warum",
-      headlineHighlight: "Local Dominator",
+      headlineHighlight: "LocalDominate",
       headlineEnd: "anders ist",
       headers: {
         agencies: "Andere Agenturen",
         diy: "Selber machen",
-        localDominator: "Local Dominator",
+        localDominator: "LocalDominate",
       },
       bestseller: "Bestseller",
       rows: {
@@ -170,7 +170,7 @@ export const translations = {
     testimonials: {
       eyebrow: "Echte Ergebnisse",
       headline: "Was unsere Kunden sagen",
-      subheadline: "Keine leeren Versprechungen – hier sind echte Unternehmer, die mit Local Dominator ihre lokale Sichtbarkeit explodieren ließen.",
+      subheadline: "Keine leeren Versprechungen – hier sind echte Unternehmer, die mit LocalDominate ihre lokale Sichtbarkeit explodieren ließen.",
       trustIndicator: "100+ zufriedene Unternehmer",
       items: [
         {
@@ -280,7 +280,7 @@ export const translations = {
         },
         {
           question: "Für welche Branchen funktioniert das?",
-          answer: "Das System funktioniert für alle lokalen Dienstleister: Handwerker, Ärzte, Anwälte, Restaurants, Friseure, Fitnessstudios, Immobilienmakler und mehr. Wenn du lokale Kunden brauchst, ist Local Dominator für dich.",
+          answer: "Das System funktioniert für alle lokalen Dienstleister: Handwerker, Ärzte, Anwälte, Restaurants, Friseure, Fitnessstudios, Immobilienmakler und mehr. Wenn du lokale Kunden brauchst, ist LocalDominate für dich.",
         },
         {
           question: "Was genau ist im Festpreis enthalten?",
@@ -312,13 +312,13 @@ export const translations = {
       headlineWhen: "wann",
       headlineEnd: "du handelst.",
       subheadline: "Jeden Tag, an dem du wartest, rufen Kunden bei deiner Konkurrenz an. Du kannst das ändern. Heute.",
-      ctaFull: "Jetzt Local Dominator starten (299€)",
+      ctaFull: "Jetzt LocalDominate starten (299€)",
       ctaShort: "Jetzt starten (299€)",
       footer: "30-Tage Geld-zurück-Garantie • Einmalzahlung • Sofort-Zugang",
     },
     // Footer
     footer: {
-      copyright: "© 2025 Local Dominator. All rights reserved.",
+      copyright: "© 2025 LocalDominate. All rights reserved.",
       imprint: "Impressum",
       privacy: "Datenschutz",
       terms: "AGB",
@@ -329,7 +329,7 @@ export const translations = {
     expert: {
       eyebrow: "Ihr Experte für lokale Sichtbarkeit",
       text: "Wir sind keine anonyme KI-Firma. Mein Team und ich haben uns darauf spezialisiert, lokale Dienstleister in Deutschland, Österreich und der Schweiz sichtbar zu machen. Wir arbeiten nicht mit jedem – nur mit denen, die wachsen wollen.",
-      signature: "– Das Local Dominator Team",
+      signature: "– Das LocalDominate Team",
     },
     // MobileStickyBar
     mobileBar: {
@@ -350,7 +350,7 @@ export const translations = {
       reviewsLabel: "Aktuelle Google Bewertungen",
       potentialTitle: "Dein Potenzial",
       beforeLabel: "Aktueller Monatsumsatz",
-      afterLabel: "Mit Local Dominator",
+      afterLabel: "Mit LocalDominate",
       additionalProfit: "Dein zusätzlicher GEWINN",
       perYear: "pro Jahr (netto)",
       breakeven: "Investition amortisiert nach",
@@ -370,7 +370,7 @@ export const translations = {
     // Restaurant Marketing
     restaurant: {
       degustation: "Dégustation",
-      headline: "Local Dominator",
+      headline: "LocalDominate",
       subtitle: "Ein kuratiertes Erlebnis für Restaurants, die online gefunden werden möchten.",
       leParcours: "le parcours",
       lesExtras: "les extras",
@@ -578,12 +578,12 @@ export const translations = {
     // ComparisonTable
     comparison: {
       headline: "Why",
-      headlineHighlight: "Local Dominator",
+      headlineHighlight: "LocalDominate",
       headlineEnd: "is different",
       headers: {
         agencies: "Other Agencies",
         diy: "DIY",
-        localDominator: "Local Dominator",
+        localDominator: "LocalDominate",
       },
       bestseller: "Bestseller",
       rows: {
@@ -641,7 +641,7 @@ export const translations = {
     testimonials: {
       eyebrow: "Real Results",
       headline: "What Our Clients Say",
-      subheadline: "No empty promises – here are real entrepreneurs who exploded their local visibility with Local Dominator.",
+      subheadline: "No empty promises – here are real entrepreneurs who exploded their local visibility with LocalDominate.",
       trustIndicator: "100+ satisfied entrepreneurs",
       items: [
         {
@@ -751,7 +751,7 @@ export const translations = {
         },
         {
           question: "Which industries does this work for?",
-          answer: "The system works for all local service providers: tradesmen, doctors, lawyers, restaurants, hairdressers, gyms, real estate agents, and more. If you need local customers, Local Dominator is for you.",
+          answer: "The system works for all local service providers: tradesmen, doctors, lawyers, restaurants, hairdressers, gyms, real estate agents, and more. If you need local customers, LocalDominate is for you.",
         },
         {
           question: "What exactly is included in the fixed price?",
@@ -783,13 +783,13 @@ export const translations = {
       headlineWhen: "when",
       headlineEnd: "you act.",
       subheadline: "Every day you wait, customers are calling your competition. You can change that. Today.",
-      ctaFull: `Start Local Dominator Now (€${STANDARD_PRICE_EUR})`,
+      ctaFull: `Start LocalDominate Now (€${STANDARD_PRICE_EUR})`,
       ctaShort: `Get Started (€${STANDARD_PRICE_EUR})`,
       footer: "30-Day Money-Back Guarantee • One-Time Payment • Instant Access",
     },
     // Footer
     footer: {
-      copyright: "© 2025 Local Dominator. All rights reserved.",
+      copyright: "© 2025 LocalDominate. All rights reserved.",
       imprint: "Imprint",
       privacy: "Privacy Policy",
       terms: "Terms",
@@ -800,7 +800,7 @@ export const translations = {
     expert: {
       eyebrow: "Your Expert for Local Visibility",
       text: "We are not an anonymous AI company. My team and I specialize in making local service providers visible in Germany, Austria, and Switzerland. We don't work with everyone – only those who want to grow.",
-      signature: "– The Local Dominator Team",
+      signature: "– The LocalDominate Team",
     },
     // MobileStickyBar
     mobileBar: {
@@ -821,7 +821,7 @@ export const translations = {
       reviewsLabel: "Current Google Reviews",
       potentialTitle: "Your Potential",
       beforeLabel: "Current Monthly Revenue",
-      afterLabel: "With Local Dominator",
+      afterLabel: "With LocalDominate",
       additionalProfit: "Your Additional PROFIT",
       perYear: "per year (net)",
       breakeven: "Investment pays back after",
@@ -841,7 +841,7 @@ export const translations = {
     // Restaurant Marketing
     restaurant: {
       degustation: "Tasting Menu",
-      headline: "Local Dominator",
+      headline: "LocalDominate",
       subtitle: "A curated experience for restaurants that want to be found online.",
       leParcours: "the journey",
       lesExtras: "the extras",
@@ -1049,12 +1049,12 @@ export const translations = {
     // ComparisonTable
     comparison: {
       headline: "لماذا",
-      headlineHighlight: "Local Dominator",
+      headlineHighlight: "LocalDominate",
       headlineEnd: "مختلف",
       headers: {
         agencies: "وكالات أخرى",
         diy: "افعلها بنفسك",
-        localDominator: "Local Dominator",
+        localDominator: "LocalDominate",
       },
       bestseller: "الأكثر مبيعاً",
       rows: {
@@ -1112,7 +1112,7 @@ export const translations = {
     testimonials: {
       eyebrow: "نتائج حقيقية",
       headline: "ماذا يقول عملاؤنا",
-      subheadline: "بدون وعود فارغة – هؤلاء رواد أعمال حقيقيون حققوا نتائج مذهلة مع Local Dominator.",
+      subheadline: "بدون وعود فارغة – هؤلاء رواد أعمال حقيقيون حققوا نتائج مذهلة مع LocalDominate.",
       trustIndicator: "+100 رائد أعمال راضٍ",
       items: [
         {
@@ -1254,13 +1254,13 @@ export const translations = {
       headlineWhen: "متى",
       headlineEnd: "ستتصرف.",
       subheadline: "كل يوم تنتظره، يتصل العملاء بمنافسيك. يمكنك تغيير ذلك. اليوم.",
-      ctaFull: "ابدأ Local Dominator الآن ($329)",
+      ctaFull: "ابدأ LocalDominate الآن ($329)",
       ctaShort: "ابدأ الآن ($329)",
       footer: "ضمان استرداد 30 يوم • دفعة واحدة • وصول فوري",
     },
     // Footer
     footer: {
-      copyright: "© 2025 Local Dominator. جميع الحقوق محفوظة.",
+      copyright: "© 2025 LocalDominate. جميع الحقوق محفوظة.",
       imprint: "بيانات الناشر",
       privacy: "سياسة الخصوصية",
       terms: "الشروط والأحكام",
@@ -1271,7 +1271,7 @@ export const translations = {
     expert: {
       eyebrow: "خبيرك في الظهور المحلي",
       text: "نحن لسنا شركة ذكاء اصطناعي مجهولة. فريقي وأنا متخصصون في جعل مقدمي الخدمات المحلية مرئيين. لا نعمل مع الجميع – فقط مع من يريدون النمو.",
-      signature: "– فريق Local Dominator",
+      signature: "– فريق LocalDominate",
     },
     // MobileStickyBar
     mobileBar: {
@@ -1292,7 +1292,7 @@ export const translations = {
       reviewsLabel: "تقييمات Google الحالية",
       potentialTitle: "إمكانياتك",
       beforeLabel: "الإيرادات الشهرية الحالية",
-      afterLabel: "مع Local Dominator",
+      afterLabel: "مع LocalDominate",
       additionalProfit: "أرباحك الإضافية",
       perYear: "سنوياً (صافي)",
       breakeven: "الاستثمار يُسترد بعد",
@@ -1312,7 +1312,7 @@ export const translations = {
     // Restaurant Marketing
     restaurant: {
       degustation: "قائمة التذوق",
-      headline: "Local Dominator",
+      headline: "LocalDominate",
       subtitle: "تجربة مميزة للمطاعم التي تريد أن تُوجد على الإنترنت.",
       leParcours: "الرحلة",
       lesExtras: "الإضافات",

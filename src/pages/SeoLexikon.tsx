@@ -496,14 +496,14 @@ const SeoLexikon = () => {
     "@context": "https://schema.org",
     "@type": "DefinedTermSet",
     "@id": "https://localdominate.org/seo-lexikon#term-set",
-    "name": "Local Dominator SEO Lexikon",
+    "name": "LocalDominate SEO Lexikon",
     "alternateName": "SEO Glossar A-Z",
     "description": "Umfassendes SEO-Lexikon mit allen wichtigen Begriffen der Suchmaschinenoptimierung für lokale Unternehmen. Von Alt-Text bis Zero-Click Search - verständlich erklärt mit Statistiken und praktischen Tipps.",
     "url": "https://localdominate.org/seo-lexikon",
     "inLanguage": "de-DE",
     "publisher": {
       "@type": "Organization",
-      "name": "Local Dominator",
+      "name": "LocalDominate",
       "@id": "https://localdominate.org/#organization",
       "url": "https://localdominate.org"
     },
@@ -521,7 +521,7 @@ const SeoLexikon = () => {
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
         "@id": "https://localdominate.org/seo-lexikon#term-set",
-        "name": "Local Dominator SEO Lexikon"
+        "name": "LocalDominate SEO Lexikon"
       },
       "url": `https://localdominate.org/seo-lexikon#${getTermSlug(term.term)}`
     }))
@@ -538,7 +538,7 @@ const SeoLexikon = () => {
     "inDefinedTermSet": {
       "@type": "DefinedTermSet",
       "@id": "https://localdominate.org/seo-lexikon#term-set",
-      "name": "Local Dominator SEO Lexikon",
+      "name": "LocalDominate SEO Lexikon",
       "url": "https://localdominate.org/seo-lexikon"
     },
     "url": `https://localdominate.org/seo-lexikon#${getTermSlug(term.term)}`,
@@ -605,7 +605,7 @@ const SeoLexikon = () => {
   return (
     <>
       <SEOHead
-        title="SEO Lexikon A-Z | Alle wichtigen SEO-Begriffe erklärt | Local Dominator"
+        title="SEO Lexikon A-Z | Alle wichtigen SEO-Begriffe erklärt | LocalDominate"
         description="Das SEO-Lexikon von A bis Z: Alt-Text, Backlinks, Citations, Keywords, Local Pack und mehr – verständlich erklärt, mit Statistiken und Tipps."
         keywords="SEO Lexikon, SEO Glossar, SEO Begriffe, SEO Wörterbuch, Local SEO Begriffe, SEO Definition, Backlinks erklärt, Keywords erklärt"
         canonicalUrl="https://localdominate.org/seo-lexikon"
@@ -618,7 +618,7 @@ const SeoLexikon = () => {
           <div className="container max-w-7xl mx-auto px-4 py-4">
             <div className="flex items-center justify-between">
               <Link to="/" className="flex items-center gap-3">
-                <img src="/logo.png" alt="Local Dominator Logo" className="h-10 w-auto" width={100} height={40} loading="eager" decoding="async" />
+                <img src="/logo.png" alt="LocalDominate Logo" className="h-10 w-auto" width={100} height={40} loading="eager" decoding="async" />
               </Link>
               <div className="flex items-center gap-4">
                 <Link to="/blog">

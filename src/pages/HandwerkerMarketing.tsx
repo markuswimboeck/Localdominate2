@@ -216,7 +216,7 @@ const HandwerkerMarketing = () => {
       "@type": "Service",
       "name": "Handwerker Pro - Local SEO für Handwerksbetriebe",
       "description": "Professionelles Google Maps Marketing für Handwerker. Mehr Aufträge durch Top-Rankings in der lokalen Suche.",
-      "provider": { "@type": "Organization", "name": "Local Dominator" },
+      "provider": { "@type": "Organization", "name": "LocalDominate" },
       "offers": {
         "@type": "Offer",
         "price": "349",

@@ -301,7 +301,7 @@ const Analytics = () => {
   return (
     <div className="min-h-screen bg-background p-4 md:p-8">
       <SEOHead 
-        title="Analytics Dashboard - Local Dominator"
+        title="Analytics Dashboard - LocalDominate"
         description="Internes Analytics Dashboard"
         noindex={true}
       />

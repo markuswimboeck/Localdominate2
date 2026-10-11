@@ -9,8 +9,8 @@ published: 2026-08-08
 updated: 2026-08-08
 reading_time_minutes: 11
 category: "Branchen"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
 keywords: ["local seo umzugsunternehmen", "umzugsfirma kunden gewinnen", "umzugsanfragen generieren", "fernumzug marketing", "umzug google ranking"]
 area_served: [Deutschland, Österreich, Schweiz]

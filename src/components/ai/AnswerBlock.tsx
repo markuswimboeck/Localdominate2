@@ -15,7 +15,7 @@ interface Props {
  * Gemini, Perplexity, Claude) and Google AI Overviews can extract a
  * compact, attributable answer.
  */
-const AnswerBlock = ({ question, children, source = "Local Dominator", className = "" }: Props) => {
+const AnswerBlock = ({ question, children, source = "LocalDominate", className = "" }: Props) => {
   const isEn = useLanguage().language === "en";
   return (
     <div

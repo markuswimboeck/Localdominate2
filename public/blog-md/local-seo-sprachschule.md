@@ -9,8 +9,8 @@ published: 2026-03-16
 updated: 2026-08-08
 reading_time_minutes: 12
 category: "Branchen"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
 keywords: ["sprachschule seo", "nachhilfe marketing", "local seo sprachschule", "telc kurs seite", "firmenschulung sprachkurs"]
 area_served: [Deutschland, Österreich, Schweiz]

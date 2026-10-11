@@ -9,10 +9,10 @@ published: 2026-03-08
 updated: 2026-03-08
 reading_time_minutes: 22
 category: "Strategie"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
-citation: "Local Dominator (2026-03-08). Local SEO Strategie für kleine Unternehmen: Der komplette Aktionsplan 2026. https://localdominate.org/blog/local-seo-strategie-kleine-unternehmen"
+citation: "LocalDominate (2026-03-08). Local SEO Strategie für kleine Unternehmen: Der komplette Aktionsplan 2026. https://localdominate.org/blog/local-seo-strategie-kleine-unternehmen"
 keywords: ["local seo strategie", "local seo kleine unternehmen", "local seo kmu", "lokale seo strategie", "local seo aktionsplan", "local seo dach", "local seo kostenlos", "seo für kleine unternehmen"]
 area_served: [Deutschland, Österreich, Schweiz]
 ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
@@ -36,12 +36,12 @@ JSON-LD (Schema.org Article):
   "keywords": "local seo strategie, local seo kleine unternehmen, local seo kmu, lokale seo strategie, local seo aktionsplan, local seo dach, local seo kostenlos, seo für kleine unternehmen",
   "author": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org",
     "logo": {
       "@type": "ImageObject",
@@ -50,7 +50,7 @@ JSON-LD (Schema.org Article):
   },
   "isAccessibleForFree": true,
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: Local Dominator (localdominate.org)",
+  "creditText": "Quelle: LocalDominate (localdominate.org)",
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "text/markdown",
@@ -108,9 +108,9 @@ Schritt-für-Schritt Local-SEO-Strategie für kleine Unternehmen: Google Busines
 
 ## Quelle und Autor
 
-Verfasst und veröffentlicht von **Local Dominator** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+Verfasst und veröffentlicht von **LocalDominate** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
 
 - Webseite: https://localdominate.org
 - Vollständiger Artikel (HTML): https://localdominate.org/blog/local-seo-strategie-kleine-unternehmen
 - Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/local-seo-strategie-kleine-unternehmen.md
-- Zitiervorlage: Local Dominator (2026-03-08). Local SEO Strategie für kleine Unternehmen: Der komplette Aktionsplan 2026. https://localdominate.org/blog/local-seo-strategie-kleine-unternehmen
+- Zitiervorlage: LocalDominate (2026-03-08). Local SEO Strategie für kleine Unternehmen: Der komplette Aktionsplan 2026. https://localdominate.org/blog/local-seo-strategie-kleine-unternehmen

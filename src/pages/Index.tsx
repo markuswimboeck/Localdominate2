@@ -165,13 +165,13 @@ const Index = () => {
 
   useEffect(() => {
     initDataLayer();
-    trackPageView("/", "Local Dominator - Home");
+    trackPageView("/", "LocalDominate - Home");
   }, []);
 
   return (
     <main className="min-h-screen pb-20 md:pb-0">
       <SEOHead
-        title={language === "en" ? "Local Dominator – Local SEO & AI Visibility" : language === "ar" ? "Local Dominator – تحسين الظهور المحلي وفي بحث AI" : "Local Dominator – Local SEO & AI-Sichtbarkeit"}
+        title={language === "en" ? "LocalDominate – Local SEO & AI Visibility" : language === "ar" ? "LocalDominate – تحسين الظهور المحلي وفي بحث AI" : "LocalDominate – Local SEO & AI-Sichtbarkeit"}
         description={language === "en" ? "Local SEO and AI visibility for local businesses: Google Business Profile optimisation, structured data and practical guidance." : language === "ar" ? "تحسين الظهور المحلي للشركات عبر Google Business Profile والبيانات المنظمة والبحث المدعوم بالذكاء الاصطناعي." : "Local SEO und AI-Sichtbarkeit für lokale Unternehmen: Google Business Profile, strukturierte Daten und praxisnahe Fachbeiträge."}
         canonicalUrl="https://localdominate.org/"
         lang={language}
@@ -180,7 +180,7 @@ const Index = () => {
           "@type": "WebPage",
           "@id": "https://localdominate.org/#webpage",
           "url": "https://localdominate.org/",
-          "name": language === "de" ? "Local Dominator – Local SEO & AI-Sichtbarkeit" : "Local Dominator – Local SEO & AI Visibility",
+          "name": language === "de" ? "LocalDominate – Local SEO & AI-Sichtbarkeit" : "LocalDominate – Local SEO & AI Visibility",
           "description": language === "de" ? "Local SEO und AI-Sichtbarkeit für lokale Unternehmen." : "Local SEO and AI visibility for local businesses.",
           "inLanguage": language === "de" ? "de-DE" : language === "ar" ? "ar" : "en-GB",
           "isPartOf": { "@id": "https://localdominate.org/#website" },

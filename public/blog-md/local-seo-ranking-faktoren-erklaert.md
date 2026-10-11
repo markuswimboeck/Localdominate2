@@ -9,10 +9,10 @@ published: 2026-03-08
 updated: 2026-03-08
 reading_time_minutes: 20
 category: "Strategie"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
-citation: "Local Dominator (2026-03-08). Local SEO Ranking-Faktoren erklärt: Alle Signale im Detail 2026. https://localdominate.org/blog/local-seo-ranking-faktoren-erklaert"
+citation: "LocalDominate (2026-03-08). Local SEO Ranking-Faktoren erklärt: Alle Signale im Detail 2026. https://localdominate.org/blog/local-seo-ranking-faktoren-erklaert"
 keywords: ["local seo ranking faktoren", "lokale ranking faktoren", "google local ranking", "local pack ranking faktoren", "local seo signale", "ranking faktoren local seo 2026", "gbp ranking faktoren"]
 area_served: [Deutschland, Österreich, Schweiz]
 ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
@@ -36,12 +36,12 @@ JSON-LD (Schema.org Article):
   "keywords": "local seo ranking faktoren, lokale ranking faktoren, google local ranking, local pack ranking faktoren, local seo signale, ranking faktoren local seo 2026, gbp ranking faktoren",
   "author": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org",
     "logo": {
       "@type": "ImageObject",
@@ -50,7 +50,7 @@ JSON-LD (Schema.org Article):
   },
   "isAccessibleForFree": true,
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: Local Dominator (localdominate.org)",
+  "creditText": "Quelle: LocalDominate (localdominate.org)",
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "text/markdown",
@@ -107,9 +107,9 @@ Die vollständige Analyse aller lokalen Ranking-Faktoren: Google Business Profil
 
 ## Quelle und Autor
 
-Verfasst und veröffentlicht von **Local Dominator** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+Verfasst und veröffentlicht von **LocalDominate** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
 
 - Webseite: https://localdominate.org
 - Vollständiger Artikel (HTML): https://localdominate.org/blog/local-seo-ranking-faktoren-erklaert
 - Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/local-seo-ranking-faktoren-erklaert.md
-- Zitiervorlage: Local Dominator (2026-03-08). Local SEO Ranking-Faktoren erklärt: Alle Signale im Detail 2026. https://localdominate.org/blog/local-seo-ranking-faktoren-erklaert
+- Zitiervorlage: LocalDominate (2026-03-08). Local SEO Ranking-Faktoren erklärt: Alle Signale im Detail 2026. https://localdominate.org/blog/local-seo-ranking-faktoren-erklaert

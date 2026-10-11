@@ -9,15 +9,15 @@ const Impressum = () => {
   const seoContent = {
     de: {
       title: "Impressum",
-      description: "Impressum und rechtliche Angaben von Local Dominator - Ihr Partner für Google Maps Optimierung."
+      description: "Impressum und rechtliche Angaben von LocalDominate - Ihr Partner für Google Maps Optimierung."
     },
     en: {
       title: "Legal Notice",
-      description: "Legal notice and imprint of Local Dominator - Your partner for Google Maps optimization."
+      description: "Legal notice and imprint of LocalDominate - Your partner for Google Maps optimization."
     },
     ar: {
       title: "البيانات القانونية",
-      description: "البيانات القانونية لـ Local Dominator - شريكك في تحسين خرائط Google."
+      description: "البيانات القانونية لـ LocalDominate - شريكك في تحسين خرائط Google."
     }
   };
 
@@ -39,12 +39,12 @@ const Impressum = () => {
       legalForm: "Rechtsform:",
       independentNote: "Diese Website wird unabhängig betrieben und ist nicht mit einer Regierungsorganisation, einem Tourismusverband oder einer staatlichen Einrichtung verbunden, sofern nicht ausdrücklich angegeben.",
       disclaimer: "2. Allgemeiner Haftungsausschluss",
-      disclaimerText: "Local Dominator bietet Informationen und Dienstleistungen ausschließlich zu allgemeinen Informationszwecken an.",
+      disclaimerText: "LocalDominate bietet Informationen und Dienstleistungen ausschließlich zu allgemeinen Informationszwecken an.",
       noGuarantee: "Wir garantieren nicht:",
       guaranteeItems: ["Richtigkeit", "Vollständigkeit", "Zuverlässigkeit", "Verfügbarkeit", "Eignung", "Aktualität"],
       userRisk: "Die Nutzung aller Informationen erfolgt auf eigenes Risiko des Nutzers.",
       thirdParty: "3. Websites Dritter & Externe Links",
-      thirdPartyText: "Local Dominator enthält Links zu externen Websites und Plattformen Dritter. Wir haben keine Kontrolle über den Inhalt, die Richtigkeit oder die Sicherheit dieser Websites.",
+      thirdPartyText: "LocalDominate enthält Links zu externen Websites und Plattformen Dritter. Wir haben keine Kontrolle über den Inhalt, die Richtigkeit oder die Sicherheit dieser Websites.",
       thirdPartyDisclaimer: [
         "Wir lehnen jede Verantwortung für Inhalte Dritter ab",
         "Wir lehnen jede Haftung für Transaktionen oder Handlungen auf Websites Dritter ab",
@@ -52,10 +52,10 @@ const Impressum = () => {
       ],
       thirdPartyNote: "Die Betreiber verlinkter Seiten sind allein für deren Inhalt verantwortlich.",
       intellectualProperty: "4. Geistiges Eigentum & Urheberrecht",
-      intellectualPropertyText: "Sofern nicht anders angegeben, sind alle Inhalte auf Local Dominator — einschließlich, aber nicht beschränkt auf Texte, Fotografien, Grafiken, Videos, Designs, Markenelemente, Logos, digitale Assets, Leitfäden und Artikel — durch internationale Urheberrechtsgesetze geschützt.",
+      intellectualPropertyText: "Sofern nicht anders angegeben, sind alle Inhalte auf LocalDominate — einschließlich, aber nicht beschränkt auf Texte, Fotografien, Grafiken, Videos, Designs, Markenelemente, Logos, digitale Assets, Leitfäden und Artikel — durch internationale Urheberrechtsgesetze geschützt.",
       intellectualPropertyWarning: "Die Vervielfältigung, Verbreitung, das Kopieren, Scrapen oder Extrahieren von Inhalten ist ohne schriftliche Genehmigung strengstens untersagt. Unbefugte Nutzung kann zu rechtlichen Schritten führen.",
       limitation: "5. Haftungsbeschränkung",
-      limitationText: "Im größtmöglichen gesetzlich zulässigen Umfang haften Local Dominator und seine Betreiber nicht für indirekte, zufällige oder Folgeschäden, entgangenen Gewinn, Datenverlust, Geschäftsunterbrechung, Ungenauigkeiten in Informationen Dritter oder Schäden, die aus der Nutzung oder der Unmöglichkeit der Nutzung der Website entstehen.",
+      limitationText: "Im größtmöglichen gesetzlich zulässigen Umfang haften LocalDominate und seine Betreiber nicht für indirekte, zufällige oder Folgeschäden, entgangenen Gewinn, Datenverlust, Geschäftsunterbrechung, Ungenauigkeiten in Informationen Dritter oder Schäden, die aus der Nutzung oder der Unmöglichkeit der Nutzung der Website entstehen.",
       availability: "6. Verfügbarkeit der Website",
       availabilityText: "Wir garantieren keine ununterbrochene Verfügbarkeit, fehlerfreie Funktion, virenfreien Betrieb oder Sicherheit der Datenübertragung. Wir können den Zugang jederzeit ohne Vorankündigung aussetzen, einschränken oder beenden.",
       jurisdiction: "7. Gerichtsstand & Anwendbares Recht",
@@ -81,12 +81,12 @@ const Impressum = () => {
       legalForm: "Legal Form:",
       independentNote: "This website is operated independently and is not affiliated with any governmental organization, tourism board, or state entity unless explicitly stated.",
       disclaimer: "2. General Disclaimer",
-      disclaimerText: "Local Dominator provides information and services solely for general informational purposes.",
+      disclaimerText: "LocalDominate provides information and services solely for general informational purposes.",
       noGuarantee: "We do not guarantee:",
       guaranteeItems: ["accuracy", "completeness", "reliability", "availability", "suitability", "timeliness"],
       userRisk: "All use of information is at the user's own risk.",
       thirdParty: "3. Third-Party Websites & External Links",
-      thirdPartyText: "Local Dominator contains links to external third-party websites and platforms. We have no control over the content, accuracy, or security of those websites.",
+      thirdPartyText: "LocalDominate contains links to external third-party websites and platforms. We have no control over the content, accuracy, or security of those websites.",
       thirdPartyDisclaimer: [
         "We disclaim any responsibility for third-party content",
         "We disclaim any liability for transactions or actions taken on third-party sites",
@@ -94,10 +94,10 @@ const Impressum = () => {
       ],
       thirdPartyNote: "The operators of linked sites are solely responsible for their content.",
       intellectualProperty: "4. Intellectual Property & Copyright",
-      intellectualPropertyText: "Unless otherwise stated, all content on Local Dominator — including but not limited to text, photographs, graphics, videos, designs, branding elements, logos, digital assets, guides, and articles — is protected by international copyright laws.",
+      intellectualPropertyText: "Unless otherwise stated, all content on LocalDominate — including but not limited to text, photographs, graphics, videos, designs, branding elements, logos, digital assets, guides, and articles — is protected by international copyright laws.",
       intellectualPropertyWarning: "Reproduction, distribution, copying, scraping, or extraction of content is strictly prohibited without written permission. Unauthorized use may result in legal action.",
       limitation: "5. Limitation of Liability",
-      limitationText: "To the maximum extent permitted by law, Local Dominator and its operators shall not be liable for indirect, incidental, or consequential damages, loss of profit or revenue, data loss, business interruption, inaccuracies in third-party information, or damages arising from the use or inability to use the website.",
+      limitationText: "To the maximum extent permitted by law, LocalDominate and its operators shall not be liable for indirect, incidental, or consequential damages, loss of profit or revenue, data loss, business interruption, inaccuracies in third-party information, or damages arising from the use or inability to use the website.",
       availability: "6. Availability of the Website",
       availabilityText: "We do not guarantee uninterrupted availability, error-free functioning, virus-free operation, or security of data transmission. We may suspend, restrict, or terminate access at any time without notice.",
       jurisdiction: "7. Jurisdiction & Applicable Law",
@@ -123,12 +123,12 @@ const Impressum = () => {
       legalForm: "الشكل القانوني:",
       independentNote: "يُدار هذا الموقع بشكل مستقل وليس تابعاً لأي جهة حكومية أو هيئة سياحية أو مؤسسة رسمية ما لم يُذكر صراحةً.",
       disclaimer: "2. إخلاء المسؤولية العام",
-      disclaimerText: "يقدم Local Dominator المعلومات والخدمات لأغراض إعلامية عامة فقط.",
+      disclaimerText: "يقدم LocalDominate المعلومات والخدمات لأغراض إعلامية عامة فقط.",
       noGuarantee: "لا نضمن:",
       guaranteeItems: ["الدقة", "الاكتمال", "الموثوقية", "التوفر", "الملاءمة", "الحداثة"],
       userRisk: "استخدام جميع المعلومات يكون على مسؤولية المستخدم.",
       thirdParty: "3. مواقع الطرف الثالث والروابط الخارجية",
-      thirdPartyText: "يحتوي Local Dominator على روابط لمواقع ومنصات خارجية تابعة لأطراف ثالثة. ليس لدينا سيطرة على محتوى أو دقة أو أمان هذه المواقع.",
+      thirdPartyText: "يحتوي LocalDominate على روابط لمواقع ومنصات خارجية تابعة لأطراف ثالثة. ليس لدينا سيطرة على محتوى أو دقة أو أمان هذه المواقع.",
       thirdPartyDisclaimer: [
         "نخلي مسؤوليتنا عن محتوى الأطراف الثالثة",
         "نخلي مسؤوليتنا عن أي معاملات أو إجراءات على مواقع الأطراف الثالثة",
@@ -136,10 +136,10 @@ const Impressum = () => {
       ],
       thirdPartyNote: "مشغلو المواقع المرتبطة هم وحدهم المسؤولون عن محتواها.",
       intellectualProperty: "4. الملكية الفكرية وحقوق النشر",
-      intellectualPropertyText: "ما لم يُذكر خلاف ذلك، فإن جميع المحتويات على Local Dominator — بما في ذلك على سبيل المثال لا الحصر النصوص والصور والرسومات والفيديوهات والتصاميم وعناصر العلامة التجارية والشعارات والأصول الرقمية والأدلة والمقالات — محمية بموجب قوانين حقوق النشر الدولية.",
+      intellectualPropertyText: "ما لم يُذكر خلاف ذلك، فإن جميع المحتويات على LocalDominate — بما في ذلك على سبيل المثال لا الحصر النصوص والصور والرسومات والفيديوهات والتصاميم وعناصر العلامة التجارية والشعارات والأصول الرقمية والأدلة والمقالات — محمية بموجب قوانين حقوق النشر الدولية.",
       intellectualPropertyWarning: "يُمنع منعاً باتاً إعادة الإنتاج أو التوزيع أو النسخ أو الاستخراج دون إذن كتابي. قد يؤدي الاستخدام غير المصرح به إلى إجراءات قانونية.",
       limitation: "5. تحديد المسؤولية",
-      limitationText: "إلى أقصى حد يسمح به القانون، لا يتحمل Local Dominator ومشغلوه المسؤولية عن الأضرار غير المباشرة أو العرضية أو التبعية، أو خسارة الأرباح، أو فقدان البيانات، أو انقطاع الأعمال، أو عدم دقة معلومات الأطراف الثالثة.",
+      limitationText: "إلى أقصى حد يسمح به القانون، لا يتحمل LocalDominate ومشغلوه المسؤولية عن الأضرار غير المباشرة أو العرضية أو التبعية، أو خسارة الأرباح، أو فقدان البيانات، أو انقطاع الأعمال، أو عدم دقة معلومات الأطراف الثالثة.",
       availability: "6. توفر الموقع",
       availabilityText: "لا نضمن التوفر المستمر أو العمل الخالي من الأخطاء أو التشغيل الخالي من الفيروسات أو أمان نقل البيانات. قد نوقف أو نقيد أو ننهي الوصول في أي وقت دون إشعار.",
       jurisdiction: "7. الاختصاص القضائي والقانون المعمول به",
@@ -173,7 +173,7 @@ const Impressum = () => {
             {/* Company Information */}
             <div className="card-premium p-6">
               <p className="text-lg mb-4">
-                <strong>Local Dominator</strong> {t.operatedBy} <strong>EXPLORE SAUDI ARABIA LTD</strong>
+                <strong>LocalDominate</strong> {t.operatedBy} <strong>EXPLORE SAUDI ARABIA LTD</strong>
               </p>
               <address className="not-italic text-muted-foreground mb-4">
                 128 City Road<br />

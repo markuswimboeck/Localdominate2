@@ -9,10 +9,10 @@ published: 2026-02-03
 updated: 2026-02-03
 reading_time_minutes: 13
 category: "Strategie"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
-citation: "Local Dominator (2026-02-03). Notdienst-Keywords: Wenn Kunden dringend suchen. https://localdominate.org/blog/local-seo-notdienst-keywords"
+citation: "LocalDominate (2026-02-03). Notdienst-Keywords: Wenn Kunden dringend suchen. https://localdominate.org/blog/local-seo-notdienst-keywords"
 keywords: ["notdienst seo", "emergency keywords", "sofort hilfe", "24 stunden service", "dringende suche"]
 area_served: [Deutschland, Österreich, Schweiz]
 ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
@@ -36,12 +36,12 @@ JSON-LD (Schema.org Article):
   "keywords": "notdienst seo, emergency keywords, sofort hilfe, 24 stunden service, dringende suche",
   "author": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org",
     "logo": {
       "@type": "ImageObject",
@@ -50,7 +50,7 @@ JSON-LD (Schema.org Article):
   },
   "isAccessibleForFree": true,
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: Local Dominator (localdominate.org)",
+  "creditText": "Quelle: LocalDominate (localdominate.org)",
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "text/markdown",
@@ -105,9 +105,9 @@ Der Guide zur Optimierung für Notdienst- und Sofortbedarf-Suchanfragen.
 
 ## Quelle und Autor
 
-Verfasst und veröffentlicht von **Local Dominator** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+Verfasst und veröffentlicht von **LocalDominate** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
 
 - Webseite: https://localdominate.org
 - Vollständiger Artikel (HTML): https://localdominate.org/blog/local-seo-notdienst-keywords
 - Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/local-seo-notdienst-keywords.md
-- Zitiervorlage: Local Dominator (2026-02-03). Notdienst-Keywords: Wenn Kunden dringend suchen. https://localdominate.org/blog/local-seo-notdienst-keywords
+- Zitiervorlage: LocalDominate (2026-02-03). Notdienst-Keywords: Wenn Kunden dringend suchen. https://localdominate.org/blog/local-seo-notdienst-keywords

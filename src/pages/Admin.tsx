@@ -35,7 +35,7 @@ export default function Admin() {
 
   return (
     <>
-      <SEOHead title="Admin Login - Local Dominator" description="Admin-Bereich" noindex />
+      <SEOHead title="Admin Login - LocalDominate" description="Admin-Bereich" noindex />
       <AdminLoginScreen
         onLogin={signIn}
         isLoading={isLoading}

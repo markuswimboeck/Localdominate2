@@ -9,8 +9,8 @@ published: 2026-02-22
 updated: 2026-08-08
 reading_time_minutes: 14
 category: "Branchen"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
 keywords: ["maler seo", "lackierer marketing", "malerbetrieb kunden gewinnen", "fassadenanstrich anfragen", "local seo handwerk"]
 area_served: [Deutschland, Österreich, Schweiz]

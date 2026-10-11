@@ -83,7 +83,7 @@ const ComparisonTable = () => {
 
         {/* Mobile Cards */}
         <div className="md:hidden space-y-4">
-          {/* Local Dominator Card - Featured */}
+          {/* LocalDominate Card - Featured */}
           <div className={`relative border-2 border-success bg-success/10 p-6 rounded-2xl reveal reveal-delay-1 ${isVisible ? 'visible' : ''}`}>
             <div className="absolute -top-3 left-4 bg-success text-success-foreground text-xs font-bold uppercase px-3 py-1 rounded-full">
               {t.comparison.bestseller}
