@@ -1001,7 +1001,6 @@
    "/blog/local-seo-audit-checkliste",
    "/blog/local-seo-autowerkstatt",
    "/blog/local-seo-baeckerei",
-   "/blog/local-seo-baeckerei-konditorei",
    "/blog/local-seo-basel",
    "/blog/local-seo-berlin",
    "/blog/local-seo-branchen-hub",
@@ -1094,7 +1093,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 4949,
+  "words": 4916,
   "htmlLang": "en"
  },
  {
@@ -7358,89 +7357,6 @@
   "htmlLang": "en"
  },
  {
-  "path": "/blog/local-seo-baeckerei-konditorei",
-  "finalPath": "/blog/local-seo-baeckerei-konditorei",
-  "title": "Local SEO Pastry Shops | Cake Marketing 2026 | LocalDominate",
-  "description": "How pastry shops and custom cake businesses gain more orders through Local SEO. Wedding keywords, specialty content and seasonal campaigns.",
-  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-  "canonical": "https://localdominate.org/blog/local-seo-baeckerei-konditorei",
-  "hreflang": [],
-  "ogTitle": "Local SEO Pastry Shops | Cake Marketing 2026 | LocalDominate",
-  "ogImage": "https://localdominate.org/images/og/blog/local-seo-baeckerei-konditorei.jpg",
-  "ogType": "article",
-  "articlePublished": "2026-03-22",
-  "articleModified": "2026-03-22",
-  "h1": [
-   "Local SEO for Pastry Shops & Custom Cake Businesses: Marketing Specialties"
-  ],
-  "jsonLdBlocks": 8,
-  "jsonLdInvalid": 0,
-  "schemaTypes": [
-   "Answer",
-   "Article",
-   "Audience",
-   "BreadcrumbList",
-   "BusinessAudience",
-   "ContactPoint",
-   "Country",
-   "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
-   "EntryPoint",
-   "FAQPage",
-   "ImageObject",
-   "ListItem",
-   "Organization",
-   "Person",
-   "PostalAddress",
-   "Question",
-   "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
-   "WebPage",
-   "WebPageElement",
-   "WebSite"
-  ],
-  "ldAuthors": [
-   "LocalDominate Redaktion"
-  ],
-  "ldDatePublished": "2026-03-22",
-  "ldDateModified": "2026-03-22",
-  "internalLinks": [
-   "/",
-   "/about",
-   "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
-   "/blog",
-   "/blog/gbp-fotos-optimieren",
-   "/blog/google-maps-audit-template",
-   "/blog/local-seo-aerzte-praxen",
-   "/blog/local-seo-anwaelte-kanzleien",
-   "/blog/local-seo-baeckerei",
-   "/blog/local-seo-cafe-coffeeshop",
-   "/blog/local-seo-fitness",
-   "/blog/local-seo-handwerker",
-   "/blog/local-seo-hochzeitsdienstleister",
-   "/blog/local-seo-hotels",
-   "/blog/local-seo-immobilienmakler",
-   "/datenschutz",
-   "/handwerker-marketing",
-   "/impressum",
-   "/restaurant-marketing",
-   "/seo-lexikon"
-  ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 770,
-  "htmlLang": "en"
- },
- {
   "path": "/blog/local-seo-basel",
   "finalPath": "/blog/local-seo-basel",
   "title": "Local SEO Basel | Dreiländereck-Guide 2026 | LocalDominate",
@@ -7665,7 +7581,6 @@
    "/blog/local-seo-audit-checkliste",
    "/blog/local-seo-autowerkstatt",
    "/blog/local-seo-baeckerei",
-   "/blog/local-seo-baeckerei-konditorei",
    "/blog/local-seo-branchen-hub",
    "/blog/local-seo-cafe-coffeeshop",
    "/blog/local-seo-doener-kebab-imbiss",
@@ -7709,7 +7624,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 1158,
+  "words": 1128,
   "htmlLang": "en"
  },
  {
@@ -9415,7 +9330,7 @@
    "/blog/local-content-marketing",
    "/blog/local-seo-aerzte-praxen",
    "/blog/local-seo-anwaelte-kanzleien",
-   "/blog/local-seo-baeckerei-konditorei",
+   "/blog/local-seo-baeckerei",
    "/blog/local-seo-fitness",
    "/blog/local-seo-fotograf",
    "/blog/local-seo-handwerker",
@@ -9430,7 +9345,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 742,
+  "words": 744,
   "htmlLang": "en"
  },
  {
@@ -10829,90 +10744,6 @@
   "images": [],
   "words": 2227,
   "htmlLang": "de"
- },
- {
-  "path": "/blog/local-seo-sanitaer-heizung",
-  "finalPath": "/blog/local-seo-sanitaer-heizung",
-  "title": "Local SEO HVAC | Plumbing Heating Cooling 2026",
-  "description": "Local SEO specifically for HVAC businesses. From emergency service SEO to brand partnerships to seasonal optimization.",
-  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-  "canonical": "https://localdominate.org/blog/local-seo-sanitaer-heizung",
-  "hreflang": [],
-  "ogTitle": "Local SEO HVAC | Plumbing Heating Cooling 2026",
-  "ogImage": "https://localdominate.org/images/og/blog/local-seo-sanitaer-heizung.jpg",
-  "ogType": "article",
-  "articlePublished": "2026-02-26",
-  "articleModified": "2026-02-26",
-  "h1": [
-   "Local SEO for HVAC Businesses: Plumbing, Heating, Cooling"
-  ],
-  "jsonLdBlocks": 8,
-  "jsonLdInvalid": 0,
-  "schemaTypes": [
-   "Answer",
-   "Article",
-   "Audience",
-   "BreadcrumbList",
-   "BusinessAudience",
-   "ContactPoint",
-   "Country",
-   "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
-   "EntryPoint",
-   "FAQPage",
-   "ImageObject",
-   "ListItem",
-   "Organization",
-   "Person",
-   "PostalAddress",
-   "Question",
-   "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
-   "WebPage",
-   "WebPageElement",
-   "WebSite"
-  ],
-  "ldAuthors": [
-   "LocalDominate Redaktion"
-  ],
-  "ldDatePublished": "2026-02-26",
-  "ldDateModified": "2026-02-26",
-  "internalLinks": [
-   "/",
-   "/about",
-   "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
-   "/blog",
-   "/blog/google-bewertungen-bekommen",
-   "/blog/google-maps-audit-template",
-   "/blog/google-maps-ranking-verbessern",
-   "/blog/google-my-business-optimieren",
-   "/blog/kostenloses-seo-guide",
-   "/blog/local-keyword-research-template",
-   "/blog/local-seo-fuer-restaurants",
-   "/blog/local-seo-keywords-finden",
-   "/blog/local-seo-monthly-checklist",
-   "/blog/nap-konsistenz-local-seo",
-   "/blog/ultimate-guide-local-seo",
-   "/datenschutz",
-   "/handwerker-marketing",
-   "/impressum",
-   "/industries/trades",
-   "/restaurant-marketing",
-   "/seo-lexikon"
-  ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 1788,
-  "htmlLang": "en"
  },
  {
   "path": "/blog/local-seo-schweiz",

@@ -162,7 +162,6 @@ const ARTICLES: readonly InsightArticle[] = [
   { slug: "local-seo-hochzeitsdienstleister", topic: "industries", group: "services", title: "Local SEO for Wedding Vendors: Florist to DJ", minutes: 15, updated: "2026-02", germanOnly: true },
   { slug: "local-seo-umzugsunternehmen", topic: "industries", group: "trades", title: "Local SEO for Moving Companies: Being Found in Two Cities", minutes: 11, updated: "2026-08", germanOnly: true },
   { slug: "local-seo-sprachschule", topic: "industries", group: "services", title: "Local SEO for Language Schools & Tutoring Institutes", minutes: 12, updated: "2026-03", germanOnly: true },
-  { slug: "local-seo-baeckerei-konditorei", topic: "industries", group: "lifestyle", title: "Local SEO for Pastry Shops & Custom Cake Businesses: Marketing Specialties", minutes: 11, updated: "2026-03", germanOnly: true },
   { slug: "local-seo-cafe-coffeeshop", topic: "hospitality", title: "Local SEO for Cafés & Coffee Shops", minutes: 12, updated: "2026-03", germanOnly: true },
   { slug: "local-seo-hamburg", topic: "industries", group: "cities", title: "Local SEO Hamburg: The Hanseatic Marketing Guide", minutes: 16, updated: "2026-01", germanOnly: true },
   { slug: "local-seo-frankfurt", topic: "industries", group: "cities", title: "Local SEO Frankfurt: Leveraging the Financial Metropolis", minutes: 15, updated: "2026-01", germanOnly: true },

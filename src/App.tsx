@@ -64,7 +64,6 @@ const LocalSeoMalerLackierer = lazy(() => import("./pages/blog/LocalSeoMalerLack
 const LocalSeoFahrschule = lazy(() => import("./pages/blog/LocalSeoFahrschule"));
 const LocalSeoCafeCoffeeshop = lazy(() => import("./pages/blog/LocalSeoCafeCoffeeshop"));
 const LocalSeoSprachschule = lazy(() => import("./pages/blog/LocalSeoSprachschule"));
-const LocalSeoBaeckereiKonditorei = lazy(() => import("./pages/blog/LocalSeoBaeckereiKonditorei"));
 const LocalSeoHochzeitsdienstleister = lazy(() => import("./pages/blog/LocalSeoHochzeitsdienstleister"));
 const LokaleLandingPages = lazy(() => import("./pages/blog/LokaleLandingPages"));
 const LocalSeoTrackingKpis = lazy(() => import("./pages/blog/LocalSeoTrackingKpis"));
@@ -87,7 +86,6 @@ const LocalSeoNeugruender = lazy(() => import("./pages/blog/LocalSeoNeugruender"
 const LocalSeoPhysiotherapie = lazy(() => import("./pages/blog/LocalSeoPhysiotherapie"));
 const LocalSeoNotdienstKeywords = lazy(() => import("./pages/blog/LocalSeoNotdienstKeywords"));
 const LocalSeoZahnarzt = lazy(() => import("./pages/blog/LocalSeoZahnarzt"));
-const LocalSeoSanitaerHeizung = lazy(() => import("./pages/blog/LocalSeoSanitaerHeizung"));
 const LokaleEventsMarketing = lazy(() => import("./pages/blog/LokaleEventsMarketing"));
 const LokaleInfluencerKooperationen = lazy(() => import("./pages/blog/LokaleInfluencerKooperationen"));
 const GoogleBusinessProdukteServices = lazy(() => import("./pages/blog/GoogleBusinessProdukteServices"));
@@ -243,7 +241,6 @@ const App = () => (
                 <Route path="/blog/local-seo-fahrschule" element={<LocalSeoFahrschule />} />
                 <Route path="/blog/local-seo-cafe-coffeeshop" element={<LocalSeoCafeCoffeeshop />} />
                 <Route path="/blog/local-seo-sprachschule" element={<LocalSeoSprachschule />} />
-                <Route path="/blog/local-seo-baeckerei-konditorei" element={<LocalSeoBaeckereiKonditorei />} />
                 <Route path="/blog/local-seo-hochzeitsdienstleister" element={<LocalSeoHochzeitsdienstleister />} />
                 <Route path="/blog/lokale-landing-pages" element={<LokaleLandingPages />} />
                 <Route path="/blog/local-seo-tracking-kpis" element={<LocalSeoTrackingKpis />} />
@@ -278,7 +275,6 @@ const App = () => (
                 <Route path="/blog/local-seo-physiotherapie" element={<LocalSeoPhysiotherapie />} />
                 <Route path="/blog/local-seo-notdienst-keywords" element={<LocalSeoNotdienstKeywords />} />
                 <Route path="/blog/local-seo-zahnarzt" element={<LocalSeoZahnarzt />} />
-                <Route path="/blog/local-seo-sanitaer-heizung" element={<LocalSeoSanitaerHeizung />} />
                 <Route path="/blog/lokale-events-marketing" element={<LokaleEventsMarketing />} />
                 <Route path="/blog/lokale-influencer-kooperationen" element={<LokaleInfluencerKooperationen />} />
                 <Route path="/blog/google-business-produkte-services" element={<GoogleBusinessProdukteServices />} />
