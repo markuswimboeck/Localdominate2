@@ -173,7 +173,7 @@ Ideen für Sponsoring und eigene Veranstaltungen sammelt der Artikel [Lokale Eve
 
 ## Wenn KI-Assistenten Restaurants empfehlen
 
-Viele Menschen fragen ChatGPT, Gemini oder die KI-Übersichten in der Google-Suche nach einem Restaurant, und diese Systeme stützen sich auf dieselben Quellen wie Gäste: Profil, Speisekarte, Rezensionen, Website und Plattformen. Eindeutige und überall gleiche Angaben erhöhen die Chance, richtig genannt zu werden.
+Viele Menschen fragen ChatGPT, Gemini oder die Übersichten mit KI in der Google-Suche nach einem Restaurant, und diese Systeme stützen sich auf dieselben Quellen wie Gäste: Profil, Speisekarte, Rezensionen, Website und Plattformen. Eindeutige und überall gleiche Angaben erhöhen die Chance, richtig genannt zu werden.
 
 Ein Assistent, der gefragt wird „Wo gibt es in [Ort] vegane Gerichte mit Terrasse?“, kann nur Betriebe nennen, bei denen diese Angaben irgendwo lesbar stehen. Ein Speisekarten-PDF ohne Text oder Öffnungszeiten, die zwischen Website und Profil abweichen, machen eine richtige Antwort unwahrscheinlicher.
 
