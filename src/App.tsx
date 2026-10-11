@@ -13,8 +13,6 @@ import { V4_ARTICLE_SLUGS, v4ArticlePath } from "@/content/articles";
 import { AUDIENCE_SLUGS, audiencePath } from "@/data/v4AudienceSlugs";
 import { PILLAR_BASE, PILLAR_INDEX, pillarPath } from "@/data/v4PillarIndex";
 
-// Critical pages loaded immediately
-import TrafficSplitter from "./components/TrafficSplitter";
 
 // Lazy load non-critical pages
 const RestaurantMarketing = lazy(() => import("./pages/RestaurantMarketing"));

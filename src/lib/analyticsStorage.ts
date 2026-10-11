@@ -1,5 +1,6 @@
 // Analytics data storage and retrieval utilities
-import { supabase } from "@/integrations/supabase/client";
+// The Supabase client is loaded on first use, so pages that only read these helpers
+// (prices, translations) do not ship the Supabase SDK in their initial bundle.
 import { getSessionId, getVariant } from "@/lib/sessionManager";
 
 export interface HeatmapPoint {
@@ -69,6 +70,7 @@ const getCurrentTestId = (): string | null => {
 // Track to Supabase (non-blocking)
 const trackToSupabase = async (type: string, data: Record<string, any>) => {
   try {
+    const { supabase } = await import("@/integrations/supabase/client");
     const { error } = await supabase.functions.invoke("track-analytics", {
       body: { type, data },
     });
