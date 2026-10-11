@@ -15698,9 +15698,9 @@
   "ldDateModified": null,
   "internalLinks": [
    "/",
+   "/about",
    "/agb",
-   "/datenschutz",
-   "/ueber-uns"
+   "/datenschutz"
   ],
   "images": [
    "/assets/campsites-logo-DWdEaJkI.png",
@@ -15805,6 +15805,7 @@
   "ldDateModified": null,
   "internalLinks": [
    "/",
+   "/about",
    "/agb",
    "/anwalt-marketing",
    "/arztpraxis-marketing",
@@ -15816,8 +15817,7 @@
    "/impressum",
    "/redaktionsrichtlinien",
    "/restaurant-marketing",
-   "/seo-lexikon",
-   "/ueber-uns"
+   "/seo-lexikon"
   ],
   "images": [
    "/logo.png"
@@ -16072,6 +16072,7 @@
   "ldDateModified": null,
   "internalLinks": [
    "/",
+   "/about",
    "/agb",
    "/anwalt-marketing",
    "/arztpraxis-marketing",
@@ -16081,8 +16082,7 @@
    "/impressum",
    "/redaktionsrichtlinien",
    "/restaurant-marketing",
-   "/seo-lexikon",
-   "/ueber-uns"
+   "/seo-lexikon"
   ],
   "images": [
    "/logo.png"
@@ -16511,6 +16511,7 @@
   "ldDateModified": null,
   "internalLinks": [
    "/",
+   "/about",
    "/agb",
    "/anwalt-marketing",
    "/arztpraxis-marketing",
@@ -16521,8 +16522,7 @@
    "/handwerker-marketing",
    "/impressum",
    "/restaurant-marketing",
-   "/seo-lexikon",
-   "/ueber-uns"
+   "/seo-lexikon"
   ],
   "images": [
    "/logo.png"

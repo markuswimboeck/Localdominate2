@@ -410,7 +410,7 @@ const ContentFormattingGuidelines = () => {
                 <ArrowRight className="h-3 w-3" />
                 {language === "de" ? "Forschungsmethodik" : "Research Methodology"}
               </Link>
-              <Link to="/ueber-uns" className="text-primary hover:underline text-sm flex items-center gap-1">
+              <Link to="/about"className="text-primary hover:underline text-sm flex items-center gap-1">
                 <ArrowRight className="h-3 w-3" />
                 {language === "de" ? "Über uns" : "About Us"}
               </Link>
