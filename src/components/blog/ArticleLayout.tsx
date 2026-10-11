@@ -296,8 +296,8 @@ const ArticleLayout = ({
     "@type": "Organization",
     "@id": "https://localdominate.org/#organization",
     "name": "LocalDominate",
-    "alternateName": ["Local Dominator"],
     "url": "https://localdominate.org",
+    "sameAs": ["https://www.instagram.com/localdominate/"],
     "logo": {
       "@type": "ImageObject",
       "url": "https://localdominate.org/logo.png"

@@ -1782,10 +1782,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-voice-search",
     de: {
-      title: "Local SEO & Voice Search: Hey Google, wo ist...",
-      metaTitle: "Voice Search Local SEO | Sprachsuche 2026",
-      metaDescription: "Wie lokale Unternehmen für Sprachsuche optimieren. Conversational Keywords, Featured Snippets und Voice-First-Strategien.",
-      excerpt: "So werden Sie gefunden, wenn Kunden Alexa, Siri oder Google fragen.",
+      title: "Sprachsuche für lokale Betriebe: Welche Angaben gesprochene Fragen beantworten",
+      metaTitle: "Sprachsuche und Local SEO: die praktische Checkliste",
+      metaDescription: "Wie gesprochene lokale Fragen funktionieren und welche Profilfelder und Seiten sie beantworten: Öffnungszeiten, Telefon, Anfahrt, Fragen-Seite und Checkliste.",
+      excerpt: "Wie gesprochene lokale Fragen funktionieren und welche Profilfelder und Seiten sie beantworten: Öffnungszeiten, Telefon, Anfahrt, Fragen-Seite und Checkliste.",
       category: "Technik"
     },
     en: {
@@ -1795,9 +1795,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How to be found when customers ask Alexa, Siri or Google.",
       category: "Technical"
     },
-    readingTime: 14,
+    readingTime: 12,
     publishedAt: "2026-01-25",
-    updatedAt: "2026-01-25",
+    updatedAt: "2026-10-11",
     icon: "🎤",
     keywords: ["voice search", "sprachsuche", "local seo voice", "alexa siri google"],
     featured: false
@@ -2552,10 +2552,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "ki-tools-local-seo",
     de: {
-      title: "KI-Tools für Local SEO: Die besten AI-Helfer 2026",
-      metaTitle: "KI-Tools Local SEO | AI-Helfer Guide 2026",
-      metaDescription: "Die besten KI-Tools für lokale Suchmaschinenoptimierung. Von ChatGPT bis Gemini - so nutzen Sie AI für Ihr Local SEO.",
-      excerpt: "Wie künstliche Intelligenz Ihr Local SEO auf das nächste Level hebt.",
+      title: "KI-Tools für Local SEO: Wofür sie taugen, was Google erlaubt und was Datenschutz verlangt",
+      metaTitle: "KI-Tools für Local SEO: sicher nutzen im kleinen Betrieb",
+      metaDescription: "Wie Sie ChatGPT, Claude, Gemini und Copilot für Bewertungsantworten, Profiltexte und Inhalte nutzen: Googles Regeln, Datenschutz und KI-Kompetenzpflicht.",
+      excerpt: "Wie Sie ChatGPT, Claude, Gemini und Copilot für Bewertungsantworten, Profiltexte und Inhalte nutzen: Googles Regeln, Datenschutz und KI-Kompetenzpflicht.",
       category: "Tools"
     },
     en: {
@@ -2565,9 +2565,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How artificial intelligence takes your Local SEO to the next level.",
       category: "Tools"
     },
-    readingTime: 14,
+    readingTime: 13,
     publishedAt: "2026-01-10",
-    updatedAt: "2026-01-10",
+    updatedAt: "2026-10-11",
     icon: "🤖",
     keywords: ["ki tools seo", "ai local seo", "chatgpt seo", "künstliche intelligenz seo", "ai marketing"],
     featured: true
@@ -3373,10 +3373,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "ai-search-optimization-2026",
     de: {
-      title: "AI Search Optimization 2026: So wirst du in der KI-Suche gefunden",
-      metaTitle: "AI Search Optimization 2026 | GEO Guide für Local SEO",
-      metaDescription: "Wie du dein Unternehmen für Google AI Overviews, ChatGPT und Perplexity optimierst. Der komplette GEO-Guide für lokale Unternehmen.",
-      excerpt: "Die Suche verändert sich: AI Overviews, ChatGPT Search und Zero-Click. So bleibst du als lokales Unternehmen sichtbar.",
+      title: "KI-Suche 2026: Was sich zwischen Oktober 2025 und Oktober 2026 geändert hat und was es für lokale Betriebe bedeutet",
+      metaTitle: "KI-Suche 2026: Was sich in einem Jahr geändert hat",
+      metaDescription: "Zeitleiste der KI-Suche von Oktober 2025 bis Oktober 2026: was Google, ChatGPT, Bing und Apple geändert haben, was in DACH gilt und was ausgeblieben ist.",
+      excerpt: "Zeitleiste der KI-Suche von Oktober 2025 bis Oktober 2026: was Google, ChatGPT, Bing und Apple geändert haben, was in DACH gilt und was ausgeblieben ist.",
       category: "Trends"
     },
     en: {
@@ -3386,9 +3386,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Search is changing: AI Overviews, ChatGPT Search and Zero-Click. How to stay visible as a local business.",
       category: "Trends"
     },
-    readingTime: 18,
+    readingTime: 12,
     publishedAt: "2026-02-16",
-    updatedAt: "2026-02-16",
+    updatedAt: "2026-10-11",
     icon: "🤖",
     keywords: ["ai search optimization", "geo seo", "ai overviews optimierung", "chatgpt seo", "generative engine optimization"],
     featured: true
@@ -3552,10 +3552,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "website-content-ai-suchmaschinen",
     de: {
-      title: "Website-Content für AI-Suchmaschinen strukturieren: Der komplette Guide",
-      metaTitle: "Content für AI-Suchmaschinen | Struktur-Guide 2026",
-      metaDescription: "Lerne wie du deinen Website-Content für ChatGPT, Perplexity und Google AI Overviews optimierst. Semantisches HTML, Schema Markup, llms.txt und AI-Attribute.",
-      excerpt: "Schritt-für-Schritt: So machst du deine Website-Inhalte maschinenlesbar und zitierfähig für AI-Suchmaschinen.",
+      title: "Website-Inhalte für KI-Suche: So schreiben Sie Seiten, die KI-Systeme richtig wiedergeben",
+      metaTitle: "Website-Inhalte für KI-Suche: richtig zitiert werden",
+      metaDescription: "Wie lokale Betriebe Seiten schreiben, die KI-Systeme korrekt wiedergeben: Antwort zuerst, Fakten als Text, passende Seitentypen und was Google dazu sagt.",
+      excerpt: "Wie lokale Betriebe Seiten schreiben, die KI-Systeme korrekt wiedergeben: Antwort zuerst, Fakten als Text, passende Seitentypen und was Google dazu sagt.",
       category: "Technisches SEO"
     },
     en: {
@@ -3565,9 +3565,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Step by step: How to make your website content machine-readable and citable for AI search engines.",
       category: "Technical SEO"
     },
-    readingTime: 18,
+    readingTime: 12,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-03-05",
+    updatedAt: "2026-10-11",
     icon: "🤖",
     keywords: ["ai suchmaschinen", "content struktur ai", "geo optimierung", "schema markup ai", "llms.txt", "website ai optimierung", "chatgpt seo", "perplexity optimierung"]
   },
@@ -3623,10 +3623,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "ai-suche-lokale-unternehmen",
     de: {
-      title: "AI Search Optimization für lokale Unternehmen: Der komplette Guide 2026",
-      metaTitle: "AI Search Optimization für lokale Unternehmen | Guide 2026",
-      metaDescription: "Wie AI-Suchmaschinen Quellen auswählen und lokale Unternehmen in AI-Empfehlungen erscheinen. GEO-Strategien, Schema Markup & llms.txt.",
-      excerpt: "Alles über AI Search Optimization für lokale Unternehmen: Wie ChatGPT, Google AI Overviews und Perplexity Quellen auswählen — und wie du dein Business dort sichtbar machst.",
+      title: "KI-Suche für lokale Unternehmen: Wo Ihr Betrieb heute erscheint und was Sie zuerst tun sollten",
+      metaTitle: "KI-Suche für lokale Unternehmen: Der Überblick 2026",
+      metaDescription: "Wo lokale Betriebe in KI-Antworten erscheinen: Google, ChatGPT, Perplexity, Copilot, Claude und Apple. Was jeder Dienst braucht und was zuerst zählt.",
+      excerpt: "Wo lokale Betriebe in KI-Antworten erscheinen: Google, ChatGPT, Perplexity, Copilot, Claude und Apple. Was jeder Dienst braucht und was zuerst zählt.",
       category: "AI & Zukunft"
     },
     en: {
@@ -3636,9 +3636,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Everything about AI Search Optimization for local businesses: How ChatGPT, Google AI Overviews and Perplexity choose sources — and how to make your business visible.",
       category: "AI & Future"
     },
-    readingTime: 24,
+    readingTime: 12,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-11",
     icon: "🤖",
     keywords: ["ai search optimization", "geo optimierung", "ai suche lokale unternehmen", "chatgpt local seo", "google ai overviews local", "llms.txt", "ai suchmaschinenoptimierung", "generative engine optimization"],
     featured: true
@@ -3844,15 +3844,15 @@ export const blogArticles: BlogArticle[] = [
   },
   {
     slug: "ai-visibility-index-local-seo-metrik",
-    de: { title: "AI Visibility Index – die neue Local-SEO-Metrik 2026", metaTitle: "AI Visibility Index 2026: Neue Local-SEO-Metrik | Guide", metaDescription: "Der AI Visibility Index misst, wie sichtbar dein Unternehmen in AI-Suchergebnissen ist. So setzt er sich zusammen und so verbesserst du ihn.", excerpt: "Klassisches Ranking reicht nicht mehr. Der AI Visibility Index misst Sichtbarkeit über Google, ChatGPT, Gemini, Perplexity und Co. — auf einer Skala.", category: "AI & Zukunft" },
+    de: { title: "Sichtbarkeit in KI-Antworten messen: So bauen Sie Ihre eigene, ehrliche Kennzahl", metaTitle: "KI-Sichtbarkeit messen: eine ehrliche eigene Kennzahl", metaDescription: "So bauen Sie eine einfache Kennzahl für Ihre Sichtbarkeit in KI-Antworten: Fragenset, Bewertung, Stichprobe, Schwankung und Grenzen, mit Rechenbeispiel.", excerpt: "So bauen Sie eine einfache Kennzahl für Ihre Sichtbarkeit in KI-Antworten: Fragenset, Bewertung, Stichprobe, Schwankung und Grenzen, mit Rechenbeispiel.", category: "AI & Zukunft" },
     en: { title: "AI Visibility Index – the new Local SEO metric 2026", metaTitle: "AI Visibility Index 2026: New Local SEO Metric | Guide", metaDescription: "The AI Visibility Index measures how visible your business is in AI search results across ChatGPT, Gemini, Perplexity and Google AI Overviews.", excerpt: "Classic ranking is no longer enough. The AI Visibility Index measures visibility across all major AI search engines on a single scale.", category: "AI & Future" },
-    readingTime: 8, publishedAt: "2026-05-20", updatedAt: "2026-05-20", icon: "📊", keywords: ["ai visibility index", "ai sichtbarkeit messen", "neue seo metriken", "ai retrievability", "geo metrics"], featured: false
+    readingTime: 13, publishedAt: "2026-05-20", updatedAt: "2026-10-11", icon: "📊", keywords: ["ai visibility index", "ai sichtbarkeit messen", "neue seo metriken", "ai retrievability", "geo metrics"], featured: false
   },
   {
     slug: "schema-strategie-ai-retrieval",
-    de: { title: "Schema-Strategie für AI-Retrieval: So wirst du von LLMs gelesen", metaTitle: "Schema für AI Retrieval 2026: Komplette Strategie | Guide", metaDescription: "Welche Schema-Markups AI-Suchmaschinen wie ChatGPT, Gemini und Perplexity bevorzugen — mit Copy-Paste-JSON-LD für lokale Unternehmen.", excerpt: "AI-Suchmaschinen lesen strukturierte Daten anders als Google. Hier ist die komplette Schema-Strategie für maximale AI-Retrievability.", category: "AI & Zukunft" },
+    de: { title: "Schema-Strategie für die KI-Suche: Was strukturierte Daten leisten und was ein Mythos ist", metaTitle: "Strukturierte Daten und KI-Suche: was belegt ist", metaDescription: "Brauchen KI-Antworten eigenes Schema Markup? Was Google und Microsoft dokumentieren, welche Daten lokalen Betrieben helfen und welche Versprechen Mythen sind.", excerpt: "Brauchen KI-Antworten eigenes Schema Markup? Was Google und Microsoft dokumentieren, welche Daten lokalen Betrieben helfen und welche Versprechen Mythen sind.", category: "AI & Zukunft" },
     en: { title: "Schema Strategy for AI Retrieval: How to be read by LLMs", metaTitle: "Schema for AI Retrieval 2026: Complete Strategy | Guide", metaDescription: "Which schema markups AI search engines prefer — with copy-paste JSON-LD for local businesses.", excerpt: "AI search engines read structured data differently than Google. Here's the complete schema strategy for maximum AI retrievability.", category: "AI & Future" },
-    readingTime: 10, publishedAt: "2026-05-20", updatedAt: "2026-05-20", icon: "🧬", keywords: ["schema ai retrieval", "jsonld llm", "schema markup ai", "ai friendly schema", "geo schema"], featured: false
+    readingTime: 11, publishedAt: "2026-05-20", updatedAt: "2026-10-11", icon: "🧬", keywords: ["schema ai retrieval", "jsonld llm", "schema markup ai", "ai friendly schema", "geo schema"], featured: false
   },
   {
     slug: "perplexity-claude-lokale-sichtbarkeit",
@@ -3925,10 +3925,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "reddit-local-seo-ai-zitate-2026",
     de: {
-      title: "Reddit für Local SEO 2026: Wie du in ChatGPT- & Perplexity-Antworten zitiert wirst",
-      metaTitle: "Reddit Local SEO 2026: AI-Zitate strategisch aufbauen",
-      metaDescription: "Reddit ist nach Wikipedia die meistzitierte Quelle in AI-Suche. So nutzt du DACH-Subreddits rechtskonform für ChatGPT-, Perplexity- und Google-AI-Sichtbarkeit.",
-      excerpt: "Warum Reddit-Threads in ChatGPT-Antworten landen — und wie lokale Unternehmen in DACH transparent und UWG-konform Sichtbarkeit aufbauen. Mit 5-Schritte-Strategie.",
+      title: "Reddit und Foren in KI-Antworten: Was belegt ist, was erlaubt ist und wie lokale Betriebe ehrlich mitreden",
+      metaTitle: "Reddit und KI-Antworten: Was lokale Betriebe wissen sollten",
+      metaDescription: "Reddit als Quelle für ChatGPT und Google: was die Verträge regeln, was Reddit bei Eigenwerbung erlaubt, wo das UWG Grenzen zieht und wie Sie Erwähnungen finden.",
+      excerpt: "Reddit als Quelle für ChatGPT und Google: was die Verträge regeln, was Reddit bei Eigenwerbung erlaubt, wo das UWG Grenzen zieht und wie Sie Erwähnungen finden.",
       category: "AI & Zukunft",
     },
     en: {
@@ -3940,7 +3940,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-05-22",
-    updatedAt: "2026-05-22",
+    updatedAt: "2026-10-11",
     icon: "💬",
     keywords: [
       "reddit local seo",
@@ -4018,10 +4018,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "tiktok-search-local-seo-2026",
     de: {
-      title: "TikTok Search für Local SEO 2026: So wirst du von Gen Z gefunden",
-      metaTitle: "TikTok Local Search 2026: Ranking-Signale & 7-Schritte-Plan",
-      metaDescription: "40 % der Gen Z sucht lokale Empfehlungen in TikTok statt Google. So optimierst du Videos, Hashtags und Standort-Tags für TikTok Local Search — mit 7-Schritte-Plan.",
-      excerpt: "Warum TikTok zur Suchmaschine wurde — und wie du als lokales DACH-Unternehmen in TikTok Search systematisch sichtbar wirst. Mit Ranking-Signalen, Content-Formaten und 7-Schritte-Plan.",
+      title: "TikTok als Suchort für lokale Betriebe: Was TikTok dokumentiert und was Sie tun können",
+      metaTitle: "TikTok als Suche für lokale Betriebe: Was belegt ist",
+      metaDescription: "TikTok als Suchort für lokale Betriebe in DACH: was TikTok dokumentiert, was der Nearby-Feed in Deutschland zeigt, welche Studien es gibt und was sich lohnt.",
+      excerpt: "TikTok als Suchort für lokale Betriebe in DACH: was TikTok dokumentiert, was der Nearby-Feed in Deutschland zeigt, welche Studien es gibt und was sich lohnt.",
       category: "AI & Zukunft",
     },
     en: {
@@ -4033,7 +4033,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-05-22",
-    updatedAt: "2026-05-22",
+    updatedAt: "2026-10-11",
     icon: "🎵",
     keywords: [
       "tiktok local seo",
@@ -4049,10 +4049,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "voice-search-sprachassistenten-local-seo-2026",
     de: {
-      title: "Voice Search 2026: Local SEO für Alexa, Siri & Google Assistant",
-      metaTitle: "Voice Search Local SEO 2026: Alexa, Siri & Google Assistant",
-      metaDescription: "Voice Search ist 2026 zurück — diesmal funktionsfähig. So optimierst du für Alexa, Siri und Google Assistant. Mit 7-Schritte-Plan und Vergleichstabelle für DACH.",
-      excerpt: "Wie LLM-gestützte Sprachassistenten lokale Anfragen beantworten — und wie du systematisch in Voice-Empfehlungen landest. Mit Plattform-Vergleich, Ranking-Signalen und 7-Schritte-Plan.",
+      title: "Sprachassistenten 2026: Siri, Gemini und Alexa für lokale Betriebe in Deutschland, Österreich und der Schweiz",
+      metaTitle: "Sprachassistenten 2026: Siri, Gemini, Alexa für Betriebe",
+      metaDescription: "Siri, Gemini und Alexa im Herbst 2026: was in Deutschland, Österreich und der Schweiz läuft, woher die Assistenten Ortsdaten holen und was Betriebe pflegen.",
+      excerpt: "Siri, Gemini und Alexa im Herbst 2026: was in Deutschland, Österreich und der Schweiz läuft, woher die Assistenten Ortsdaten holen und was Betriebe pflegen.",
       category: "AI & Zukunft",
     },
     en: {
@@ -4064,7 +4064,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-05-22",
-    updatedAt: "2026-05-22",
+    updatedAt: "2026-10-11",
     icon: "🎙️",
     keywords: [
       "voice search local seo",
@@ -4080,10 +4080,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "ai-agents-lokale-buchungen-2026",
     de: {
-      title: "AI Agents 2026: Wie Operator, ChatGPT Agent & Gemini lokale Buchungen autonom erledigen",
-      metaTitle: "AI Agents Local SEO 2026: Operator, Gemini & Comet Setup",
-      metaDescription: "OpenAI Operator, ChatGPT Agent, Google Gemini Agents und Perplexity Comet buchen 2026 autonom lokal. So wirst du agent-ready — mit Schema, ARIA und 7-Schritte-Plan.",
-      excerpt: "Wie autonome AI Agents lokale Buchungen durchführen — und wie du Webseite, Schema und Buchungspfad systematisch agent-ready machst. Mit Plattform-Vergleich, Ranking-Signalen und 7-Schritte-Plan.",
+      title: "KI-Agenten, die buchen und anrufen: Was es gibt, wo es funktioniert und was lokale Betriebe vorbereiten sollten",
+      metaTitle: "KI-Agenten und lokale Buchungen: Stand Oktober 2026",
+      metaDescription: "Welche KI-Agenten Tische reservieren, Termine buchen oder Betriebe anrufen, in welchen Ländern das geht und wie Sie Buchung und Kontakt für Agenten vorbereiten.",
+      excerpt: "Welche KI-Agenten Tische reservieren, Termine buchen oder Betriebe anrufen, in welchen Ländern das geht und wie Sie Buchung und Kontakt für Agenten vorbereiten.",
       category: "AI & Zukunft",
     },
     en: {
@@ -4095,7 +4095,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-05-22",
-    updatedAt: "2026-05-22",
+    updatedAt: "2026-10-11",
     icon: "🤖",
     keywords: [
       "ai agents local seo",
@@ -4111,10 +4111,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "geo-content-briefing-vorlage-2026",
     de: {
-      title: "GEO-Content-Briefing 2026: Vorlage für zitierfähige Texte in AI-Suche",
-      metaTitle: "GEO-Content-Briefing 2026: Vorlage & 8 Bausteine",
-      metaDescription: "Wie ein Content-Briefing aussehen muss, damit ChatGPT, Perplexity und Gemini deine Texte zitieren: 8 Bausteine, Vorlage zum Kopieren und Prüfliste vor der Freigabe.",
-      excerpt: "Frage-Gliederung, 40–60-Wort-Antwortblöcke, Entitätenliste und belegte Fakten: die vollständige Briefing-Vorlage für Texte, die von AI-Assistenten zitiert werden.",
+      title: "GEO-Content-Briefing: die Vorlage für eine Seite, die KI-Antworten korrekt zitieren können",
+      metaTitle: "GEO-Content-Briefing: Vorlage für zitierfähige Seiten",
+      metaDescription: "Briefing-Vorlage für eine Seite, die KI-Suchen korrekt zitieren können: alle Felder, ausgefüllte Beispiele für lokale Betriebe und wie Sie das Ergebnis prüfen.",
+      excerpt: "Briefing-Vorlage für eine Seite, die KI-Suchen korrekt zitieren können: alle Felder, ausgefüllte Beispiele für lokale Betriebe und wie Sie das Ergebnis prüfen.",
       category: "AI & Zukunft",
     },
     en: {
@@ -4124,9 +4124,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Question-based outlines, 40–60-word answer blocks, entity lists and sourced facts: the complete briefing template for content that AI assistants cite.",
       category: "AI & Future",
     },
-    readingTime: 10,
+    readingTime: 13,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-08-08",
+    updatedAt: "2026-10-11",
     icon: "\u{1F4DD}",
     keywords: [
       "geo content briefing",
@@ -4352,10 +4352,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "ai-zitat-monitoring-local-seo-2026",
     de: {
-      title: "AI-Zitat-Monitoring 2026: Erwähnungen in ChatGPT, Perplexity & Gemini messen",
-      metaTitle: "AI-Zitat-Monitoring 2026: 5 Kennzahlen & Prompt-Set",
-      metaDescription: "So misst du systematisch, ob ChatGPT, Perplexity, Gemini und Copilot dein Unternehmen nennen — mit 5 Kennzahlen, Prompt-Set und monatlicher Routine.",
-      excerpt: "Rankings verlieren an Aussagekraft. Dieses Monitoring-System misst Erwähnungsrate, Link-Genauigkeit und Faktentreue in AI-Antworten — in unter 60 Minuten pro Monat.",
+      title: "KI-Zitate überwachen: die Monatsroutine für lokale Betriebe mit Stichproben, Berichten und Logs",
+      metaTitle: "KI-Zitate überwachen: Routine und Werkzeuge 2026",
+      metaDescription: "So prüfen Sie, ob KI-Dienste Ihren Betrieb nennen: Stichproben, Search Console, Bing AI Performance, utm_source=chatgpt.com, Server-Logs und ihre Grenzen.",
+      excerpt: "So prüfen Sie, ob KI-Dienste Ihren Betrieb nennen: Stichproben, Search Console, Bing AI Performance, utm_source=chatgpt.com, Server-Logs und ihre Grenzen.",
       category: "AI & Zukunft",
     },
     en: {
@@ -4365,9 +4365,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Rankings are losing meaning. This monitoring system measures mention rate, link accuracy and factual correctness in AI answers — in under 60 minutes per month.",
       category: "AI & Future",
     },
-    readingTime: 11,
+    readingTime: 12,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-08-08",
+    updatedAt: "2026-10-11",
     icon: "\u{1F4CA}",
     keywords: [
       "ai zitat monitoring",

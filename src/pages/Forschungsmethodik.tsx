@@ -270,7 +270,7 @@ const Forschungsmethodik = () => {
               <Link to="/redaktionsrichtlinien" className="text-primary hover:underline text-sm">
                 {language === "de" ? "→ Redaktionsrichtlinien" : "→ Editorial Guidelines"}
               </Link>
-              <Link to="/ueber-uns" className="text-primary hover:underline text-sm">
+              <Link to="/about"className="text-primary hover:underline text-sm">
                 {language === "de" ? "→ Über das Team" : "→ About the Team"}
               </Link>
               <Link to="/blog" className="text-primary hover:underline text-sm">
