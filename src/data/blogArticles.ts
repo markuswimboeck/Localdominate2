@@ -2575,10 +2575,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-ai-overviews-local-seo",
     de: {
-      title: "Google AI Overviews & Local SEO: Was sich ändert",
-      metaTitle: "Google AI Overviews | Local SEO Auswirkungen 2026",
-      metaDescription: "Wie Google AI Overviews die lokale Suche verändern. Strategien für Unternehmen, um in der neuen AI-Ära sichtbar zu bleiben.",
-      excerpt: "Die AI-Revolution bei Google: Was lokale Unternehmen jetzt wissen und tun müssen.",
+      title: "Google AI Overviews (Übersicht mit KI) und Local SEO: Was Google dokumentiert und was Betriebe tun können",
+      metaTitle: "Google AI Overviews und Local SEO: Was belegt ist",
+      metaDescription: "Übersicht mit KI in Deutschland, Österreich und der Schweiz: wie Google die Quellen wählt, was Sie steuern, wie die Search Console zählt und was Betriebe tun.",
+      excerpt: "Übersicht mit KI in Deutschland, Österreich und der Schweiz: wie Google die Quellen wählt, was Sie steuern, wie die Search Console zählt und was Betriebe tun.",
       category: "Trends"
     },
     en: {
@@ -2590,7 +2590,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-01-10",
-    updatedAt: "2026-01-10",
+    updatedAt: "2026-10-11",
     icon: "✨",
     keywords: ["google ai overviews", "ai suche", "sge local seo", "google ki", "generative search"],
     featured: true
@@ -3832,15 +3832,15 @@ export const blogArticles: BlogArticle[] = [
   // === GEO CLUSTER (Phase 5 — AI Search & Generative Engine Optimization) ===
   {
     slug: "was-ist-geo-generative-engine-optimization",
-    de: { title: "Was ist GEO? Generative Engine Optimization erklärt", metaTitle: "GEO erklärt: Generative Engine Optimization 2026 | Guide", metaDescription: "GEO (Generative Engine Optimization) ist die Disziplin, deine Inhalte für AI-Suchmaschinen wie ChatGPT, Gemini und Google AI Overviews zu optimieren. Hier erfährst du, wie es funktioniert.", excerpt: "Was GEO ist, wie es sich von klassischem SEO unterscheidet und welche konkreten Maßnahmen lokale Unternehmen 2026 ergreifen sollten.", category: "AI & Zukunft" },
+    de: { title: "Was ist GEO? Generative Engine Optimization zwischen Forschung, Google-Aussagen und Agenturversprechen", metaTitle: "Was ist GEO? Generative Engine Optimization erklärt", metaDescription: "GEO erklärt: woher der Begriff stammt, was die Studie dahinter wirklich gemessen hat, was Google offiziell sagt und was lokale Betriebe davon brauchen.", excerpt: "GEO erklärt: woher der Begriff stammt, was die Studie dahinter wirklich gemessen hat, was Google offiziell sagt und was lokale Betriebe davon brauchen.", category: "AI & Zukunft" },
     en: { title: "What is GEO? Generative Engine Optimization explained", metaTitle: "GEO Explained: Generative Engine Optimization 2026 | Guide", metaDescription: "GEO (Generative Engine Optimization) is the discipline of optimizing content for AI search engines like ChatGPT, Gemini and Google AI Overviews.", excerpt: "What GEO is, how it differs from classic SEO, and what concrete steps local businesses should take in 2026.", category: "AI & Future" },
-    readingTime: 9, publishedAt: "2026-05-20", updatedAt: "2026-05-20", icon: "🤖", keywords: ["geo", "generative engine optimization", "ai seo", "geo vs seo", "ai search optimization"], featured: true
+    readingTime: 12, publishedAt: "2026-05-20", updatedAt: "2026-10-11", icon: "🤖", keywords: ["geo", "generative engine optimization", "ai seo", "geo vs seo", "ai search optimization"], featured: true
   },
   {
     slug: "chatgpt-zitiert-lokale-unternehmen",
-    de: { title: "Wie zitiert ChatGPT lokale Unternehmen?", metaTitle: "Wie zitiert ChatGPT lokale Unternehmen? | Guide 2026", metaDescription: "Welche Signale ChatGPT nutzt, um lokale Unternehmen zu empfehlen — und wie du in seinen Antworten zitiert wirst. Mit konkreten Optimierungs-Schritten.", excerpt: "ChatGPT empfiehlt täglich Millionen lokaler Unternehmen. Hier erfährst du, wie das Modell entscheidet — und wie du in seinen Antworten landest.", category: "AI & Zukunft" },
+    de: { title: "Wie ChatGPT lokale Unternehmen zitiert: Quellen verstehen und eigene Seiten zitierfähig machen", metaTitle: "Wie ChatGPT lokale Unternehmen zitiert: Quellen verstehen", metaDescription: "Wie ChatGPT Quellen anzeigt, welche Seiten bei lokalen Fragen verlinkt werden und wie Sie für Ihre Branche und Ihren Ort eine eigene Quellenkarte erstellen.", excerpt: "Wie ChatGPT Quellen anzeigt, welche Seiten bei lokalen Fragen verlinkt werden und wie Sie für Ihre Branche und Ihren Ort eine eigene Quellenkarte erstellen.", category: "AI & Zukunft" },
     en: { title: "How does ChatGPT cite local businesses?", metaTitle: "How ChatGPT Cites Local Businesses | Guide 2026", metaDescription: "Which signals ChatGPT uses to recommend local businesses — and how to get cited. With concrete optimization steps.", excerpt: "ChatGPT recommends millions of local businesses daily. Here's how the model decides — and how to land in its answers.", category: "AI & Future" },
-    readingTime: 8, publishedAt: "2026-05-20", updatedAt: "2026-05-20", icon: "💬", keywords: ["chatgpt local business", "chatgpt citations", "ai zitierfähigkeit", "chatgpt seo", "llm visibility"], featured: true
+    readingTime: 12, publishedAt: "2026-05-20", updatedAt: "2026-10-11", icon: "💬", keywords: ["chatgpt local business", "chatgpt citations", "ai zitierfähigkeit", "chatgpt seo", "llm visibility"], featured: true
   },
   {
     slug: "ai-visibility-index-local-seo-metrik",
@@ -3856,9 +3856,9 @@ export const blogArticles: BlogArticle[] = [
   },
   {
     slug: "perplexity-claude-lokale-sichtbarkeit",
-    de: { title: "Perplexity & Claude für lokale Sichtbarkeit nutzen", metaTitle: "Perplexity & Claude für Local SEO 2026 | Guide", metaDescription: "Wie Perplexity und Claude lokale Unternehmen zitieren — und wie du auf beiden Plattformen optimal sichtbar wirst.", excerpt: "Neben ChatGPT und Gemini werden Perplexity und Claude immer wichtiger für lokale Suche. Hier ist die konkrete Optimierungs-Strategie.", category: "AI & Zukunft" },
+    de: { title: "Perplexity und Claude: Wie lokale Betriebe dort gefunden und zitiert werden", metaTitle: "Perplexity und Claude für lokale Betriebe: Was belegt ist", metaDescription: "Wie Perplexity und Claude im Web suchen und Quellen zeigen, welche Crawler zählen, was in DACH gilt und wie lokale Betriebe ihre Sichtbarkeit selbst testen.", excerpt: "Wie Perplexity und Claude im Web suchen und Quellen zeigen, welche Crawler zählen, was in DACH gilt und wie lokale Betriebe ihre Sichtbarkeit selbst testen.", category: "AI & Zukunft" },
     en: { title: "Using Perplexity & Claude for local visibility", metaTitle: "Perplexity & Claude for Local SEO 2026 | Guide", metaDescription: "How Perplexity and Claude cite local businesses — and how to become optimally visible on both platforms.", excerpt: "Besides ChatGPT and Gemini, Perplexity and Claude are becoming increasingly important for local search.", category: "AI & Future" },
-    readingTime: 8, publishedAt: "2026-05-20", updatedAt: "2026-05-20", icon: "🔮", keywords: ["perplexity local seo", "claude ai seo", "ai assistants local business", "llm zitate", "perplexity citations"], featured: false
+    readingTime: 12, publishedAt: "2026-05-20", updatedAt: "2026-10-11", icon: "🔮", keywords: ["perplexity local seo", "claude ai seo", "ai assistants local business", "llm zitate", "perplexity citations"], featured: false
   },
   {
     slug: "chatgpt-search-lokale-unternehmen-2026",
@@ -3956,10 +3956,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-ai-mode-local-seo-2026",
     de: {
-      title: "Google AI Mode 2026: Local SEO für Geminis konversationale Suche",
-      metaTitle: "Google AI Mode Local SEO 2026: Strategie & Optimierung",
-      metaDescription: "Google AI Mode verändert lokale Suche radikal. So optimierst du GBP, Schema und Content für Geminis Query Fan-Out — mit 7-Schritte-Plan für DACH-Unternehmen.",
-      excerpt: "Warum klassisches Top-3-Ranking nicht mehr reicht — und wie du dein Unternehmen für Googles Gemini-gestützten AI Mode aufstellst. Inklusive Vergleichstabelle, Ranking-Signalen und 7-Schritte-Plan.",
+      title: "Google AI Mode (KI-Modus) und Local SEO: Was Google dokumentiert und was lokale Betriebe tun können",
+      metaTitle: "Google AI Mode und Local SEO: Was der KI-Modus ändert",
+      metaDescription: "Google KI-Modus in Deutschland, Österreich und der Schweiz: wie das Fan-out sucht, wo Buchen schon geht, was Google verlangt und wie Sie Ihren Betrieb messen.",
+      excerpt: "Google KI-Modus in Deutschland, Österreich und der Schweiz: wie das Fan-out sucht, wo Buchen schon geht, was Google verlangt und wie Sie Ihren Betrieb messen.",
       category: "AI & Zukunft",
     },
     en: {
@@ -3969,9 +3969,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Why classic top-3 ranking is no longer enough — and how to position your business for Google's Gemini-powered AI Mode. Includes comparison table, ranking signals and 7-step plan.",
       category: "AI & Future",
     },
-    readingTime: 13,
+    readingTime: 12,
     publishedAt: "2026-05-22",
-    updatedAt: "2026-05-22",
+    updatedAt: "2026-10-11",
     icon: "✨",
     keywords: [
       "google ai mode",
@@ -3987,10 +3987,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "bing-copilot-local-seo-2026",
     de: {
-      title: "Bing & Microsoft Copilot 2026: Local SEO für ChatGPT, Edge & Windows",
-      metaTitle: "Bing Copilot Local SEO 2026: Setup & Optimierung",
-      metaDescription: "Bing ist die Datengrundlage für ChatGPT Search und Microsoft Copilot. So richtest du Bing Places ein und optimierst für Copilot, Edge und Windows — 7-Schritte-Plan.",
-      excerpt: "Warum Bing 2026 wieder zur kritischen Suchquelle wird — und wie du Bing Places, Schema und robots.txt für Microsoft Copilot, ChatGPT Search und Edge optimierst.",
+      title: "Bing und Microsoft Copilot für lokale Betriebe: Bing Places, Webmaster Tools und was Microsoft dokumentiert",
+      metaTitle: "Bing Local SEO: Bing Places, Copilot, Webmaster Tools",
+      metaDescription: "Bing Places, Bing Webmaster Tools und Microsoft Copilot für lokale Betriebe in DACH: was Microsoft dokumentiert, was offen ist und wie Sie selbst testen.",
+      excerpt: "Bing Places, Bing Webmaster Tools und Microsoft Copilot für lokale Betriebe in DACH: was Microsoft dokumentiert, was offen ist und wie Sie selbst testen.",
       category: "AI & Zukunft",
     },
     en: {
@@ -4002,7 +4002,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-05-22",
-    updatedAt: "2026-05-22",
+    updatedAt: "2026-10-11",
     icon: "🪟",
     keywords: [
       "bing local seo",
@@ -4141,10 +4141,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "ai-falschangaben-korrigieren-2026",
     de: {
-      title: "Falschangaben in AI-Antworten korrigieren 2026: 6-Schritte-Prozess",
-      metaTitle: "Falsche AI-Angaben korrigieren 2026: Prozess & Prävention",
-      metaDescription: "ChatGPT, Perplexity oder Gemini nennen falsche Nummern, Zeiten oder Standorte? So findest du die Quelle, korrigierst sie sauber und misst die Wirkung nach.",
-      excerpt: "Falsche Angaben in AI-Antworten entstehen fast immer aus widerspruechlichen Quellen. Der komplette Korrekturprozess von der Ursachensuche bis zur Nachmessung.",
+      title: "Falsche Angaben in KI-Antworten korrigieren: Quelle finden, berichtigen, melden",
+      metaTitle: "Falsche Angaben in KI-Antworten korrigieren: der Ablauf",
+      metaDescription: "ChatGPT, Google oder Perplexity nennen falsche Zeiten oder Nummern? So finden Sie die Quelle, berichtigen sie und nutzen die Meldewege der Anbieter richtig.",
+      excerpt: "ChatGPT, Google oder Perplexity nennen falsche Zeiten oder Nummern? So finden Sie die Quelle, berichtigen sie und nutzen die Meldewege der Anbieter richtig.",
       category: "AI & Zukunft",
     },
     en: {
@@ -4154,9 +4154,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Wrong data in AI answers almost always comes from conflicting sources. The full correction process, from root cause to follow-up measurement.",
       category: "AI & Future",
     },
-    readingTime: 9,
+    readingTime: 12,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-08-08",
+    updatedAt: "2026-10-11",
     icon: "\u{26A0}\u{FE0F}",
     keywords: [
       "falsche angaben chatgpt unternehmen",
@@ -4171,10 +4171,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "unternehmensprofil-ki-funktionen-2026",
     de: {
-      title: "Unternehmensprofil & KI 2026: Welche Felder in AI-Antworten landen",
-      metaTitle: "Unternehmensprofil KI-Optimierung 2026: 7 Felder",
-      metaDescription: "Kategorie, Leistungen, Attribute, Q&A: welche Profilfelder KI-Zusammenfassungen wirklich nutzen und wie du sie befuellst — inkl. monatlicher Pflegeroutine.",
-      excerpt: "Strukturierte Profilfelder werden haeufiger zitiert als Fliesstext. Die 7 entscheidenden Felder, das Q&A-Format und eine Pflegeroutine fuer jeden Monat.",
+      title: "Google-Unternehmensprofil und KI 2026: Was Google dokumentiert und welche Felder Sie pflegen sollten",
+      metaTitle: "Unternehmensprofil und Google-KI: Was 2026 belegt ist",
+      metaDescription: "Welche KI-Funktionen Google beim Unternehmensprofil nutzt: Rezensions-Zusammenfassungen, Ask Maps, Ersatz für Fragen und Antworten, Stand in DACH und Pflege.",
+      excerpt: "Welche KI-Funktionen Google beim Unternehmensprofil nutzt: Rezensions-Zusammenfassungen, Ask Maps, Ersatz für Fragen und Antworten, Stand in DACH und Pflege.",
       category: "Google Business Profile",
     },
     en: {
@@ -4184,9 +4184,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Structured profile fields get cited more often than body copy. The 7 decisive fields, the Q&A format and a monthly maintenance routine.",
       category: "Google Business Profile",
     },
-    readingTime: 10,
+    readingTime: 12,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-08-08",
+    updatedAt: "2026-10-11",
     icon: "\u{2728}",
     keywords: [
       "google unternehmensprofil ki",
@@ -4321,10 +4321,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "ai-crawler-steuern-gptbot-claudebot-2026",
     de: {
-      title: "AI-Crawler steuern 2026: GPTBot, ClaudeBot & PerplexityBot richtig konfigurieren",
-      metaTitle: "AI-Crawler steuern 2026: robots.txt für GPTBot & Co.",
-      metaDescription: "Welche AI-Crawler du zulassen oder blockieren solltest — mit User-Agent-Tabelle, fertiger robots.txt-Vorlage und 6-Schritte-Setup für lokale Unternehmen.",
-      excerpt: "GPTBot, ClaudeBot, PerplexityBot und Google-Extended entscheiden, ob dein Unternehmen in AI-Antworten auftaucht. Der komplette Konfigurations-Leitfaden inkl. robots.txt-Vorlage.",
+      title: "KI-Crawler steuern: GPTBot, ClaudeBot, PerplexityBot und Google-Extended richtig einstellen",
+      metaTitle: "KI-Crawler steuern: GPTBot, ClaudeBot, PerplexityBot",
+      metaDescription: "Welche KI-Crawler es gibt und wie Sie sie per robots.txt und Bot-Schutz steuern: geprüfte Tabelle, fertige Beispiele und eine Entscheidungshilfe für Betriebe.",
+      excerpt: "Welche KI-Crawler es gibt und wie Sie sie per robots.txt und Bot-Schutz steuern: geprüfte Tabelle, fertige Beispiele und eine Entscheidungshilfe für Betriebe.",
       category: "AI & Zukunft",
     },
     en: {
@@ -4334,9 +4334,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "GPTBot, ClaudeBot, PerplexityBot and Google-Extended decide whether your business appears in AI answers. The full configuration guide incl. robots.txt template.",
       category: "AI & Future",
     },
-    readingTime: 10,
+    readingTime: 13,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-08-08",
+    updatedAt: "2026-10-11",
     icon: "\u{1F916}",
     keywords: [
       "ai crawler steuern",
@@ -4383,10 +4383,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "llms-txt-lokale-unternehmen-2026",
     de: {
-      title: "llms.txt für lokale Unternehmen 2026: Setup, Beispiel & Best Practices",
-      metaTitle: "llms.txt Local SEO 2026: Spec, Beispiel & 7-Schritte-Setup",
-      metaDescription: "Mit einer spec-konformen llms.txt zitieren ChatGPT, Claude und Perplexity die richtigen Service-Seiten. Aufbau, Beispiel und 7-Schritte-Setup für lokale DACH-Unternehmen.",
-      excerpt: "Wie du mit einer 40–80-zeiligen llms.txt im Site-Root die Zitatrate in ChatGPT, Perplexity und Claude messbar steigerst — inkl. vollständigem Beispiel und 7-Schritte-Setup.",
+      title: "llms.txt für lokale Unternehmen: Was die Datei kann, was nicht und ob sie sich lohnt",
+      metaTitle: "llms.txt für lokale Unternehmen: Was belegt ist",
+      metaDescription: "Was llms.txt ist, wer die Datei vorgeschlagen hat, was Google, OpenAI, Anthropic und Perplexity dazu sagen und ob sich der Aufwand für Ihren Betrieb lohnt.",
+      excerpt: "Was llms.txt ist, wer die Datei vorgeschlagen hat, was Google, OpenAI, Anthropic und Perplexity dazu sagen und ob sich der Aufwand für Ihren Betrieb lohnt.",
       category: "AI & Zukunft",
     },
     en: {
@@ -4396,9 +4396,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How a 40–80-line llms.txt at the site root measurably increases citation rates in ChatGPT, Perplexity and Claude — incl. full example and 7-step setup.",
       category: "AI & Future",
     },
-    readingTime: 11,
+    readingTime: 12,
     publishedAt: "2026-05-22",
-    updatedAt: "2026-05-22",
+    updatedAt: "2026-10-11",
     icon: "📄",
     keywords: [
       "llms.txt",
