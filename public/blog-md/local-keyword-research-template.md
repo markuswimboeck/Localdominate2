@@ -92,7 +92,7 @@ Jede Zeile ist ein Suchbegriff. Die Spalten sagen, woher er kommt, was der Suche
 | Saison und Anlass | [Anlass] [Leistung] [Ort] | weihnachtsfeier restaurant linz |
 | Eigener Name | [Firmenname] und Schreibvarianten | praxis muster öffnungszeiten |
 
-Begriffe mit Dringlichkeit verdienen bei Handwerk, Schlüsseldiensten und Praxen eine eigene Prüfung. Mehr dazu im Artikel [Notdienst-Keywords](https://localdominate.org/blog/local-seo-notdienst-keywords). Saisonbegriffe planen Sie früh genug vor dem Anlass, wie im Artikel [Saisonales Local SEO](https://localdominate.org/blog/saisonales-local-seo) beschrieben.
+Begriffe mit Dringlichkeit verdienen bei Handwerk, Schlüsseldiensten und Praxen eine eigene Prüfung. Mehr dazu im Artikel [Notdienst-Keywords](https://localdominate.org/blog/local-seo-notdienst-keywords). Saisonbegriffe tragen Sie früh genug vor dem Anlass in Ihren [Redaktionsplan](https://localdominate.org/blog/local-content-marketing#redaktionsplan) ein.
 
 ## Woher die Begriffe kommen: Quellen für die Spalte „Quelle“
 
@@ -140,7 +140,7 @@ Jede Seite bekommt einen Hauptbegriff und einige verwandte Begriffe. Kein Hauptb
 | /kontakt | [Betriebsname] kontakt | öffnungszeiten, anfahrt, parken | umgesetzt |
 | /ratgeber/[frage] | [Frage aus der Liste] | verwandte Fragen | offen |
 
-Seiten für weitere Orte lohnen sich nur, wenn Sie dort tatsächlich arbeiten und für den Ort etwas Eigenes zu sagen haben: Anfahrt, Einsätze, Ansprechpartner, Besonderheiten. Google zählt fast gleiche Seiten, die nur für ähnliche Suchanfragen angelegt werden, zum Missbrauch von Brückenseiten. Wie gute Ortsseiten aussehen, zeigt der Artikel [Lokale Landingpages](https://localdominate.org/blog/lokale-landing-pages). Wenn zwei Seiten um denselben Begriff konkurrieren, hilft [Keyword-Kannibalisierung lösen](https://localdominate.org/blog/lokale-keyword-kannibalisierung).
+Seiten für weitere Orte lohnen sich nur, wenn Sie dort tatsächlich arbeiten und für den Ort etwas Eigenes zu sagen haben: Anfahrt, Einsätze, Ansprechpartner, Besonderheiten. Google zählt fast gleiche Seiten, die nur für ähnliche Suchanfragen angelegt werden, zum Missbrauch von Brückenseiten. Wie gute Ortsseiten aussehen, zeigt der Artikel [Lokale Landingpages](https://localdominate.org/blog/lokale-landing-pages). Wie Sie Themen so aufteilen, dass zwei Seiten nicht dieselbe Frage beantworten, zeigt [Semantic SEO und Themenautorität](https://localdominate.org/blog/semantic-seo-topical-authority#themenplan).
 
 - **Seitentitel und Hauptüberschrift** nennen Leistung und Ort in natürlicher Sprache.
 - **Im Text** beantworten Sie die Fragen, die Kunden zu dieser Leistung stellen.

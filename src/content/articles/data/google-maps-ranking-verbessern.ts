@@ -319,7 +319,7 @@ const article: V4Article = {
     },
     {
       q: "Kann ich in mehreren Städten in Maps erscheinen?",
-      a: "Mit Kundenverkehr nur dort, wo Sie einen echten Standort haben, mit je einem Profil. Betriebe ohne Kundenverkehr können ein Einzugsgebiet angeben. Virtuelle Büros sind nicht zulässig. Mehr im Artikel [Multi-Location SEO](/blog/multi-location-seo).",
+      a: "Mit Kundenverkehr nur dort, wo Sie einen echten Standort haben, mit je einem Profil. Betriebe ohne Kundenverkehr können ein Einzugsgebiet angeben. Virtuelle Büros sind nicht zulässig. Mehr im Artikel [Mehrere Standorte bei Google verwalten](/blog/gbp-mehrere-standorte).",
     },
     {
       q: "Bringen Google-Anzeigen ein besseres Maps-Ranking?",

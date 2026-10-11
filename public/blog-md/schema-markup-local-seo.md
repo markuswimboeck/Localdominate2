@@ -166,7 +166,7 @@ Google muss die Seite erst neu crawlen und indexieren. Das kann laut Google eini
 
 ### Wie zeichne ich mehrere Standorte aus?
 
-Jeder Standort bekommt eine eigene Seite mit eigenem LocalBusiness-Block, eigener Adresse, eigenen Öffnungszeiten und eigener Telefonnummer. Mehr im Artikel [Multi-Location SEO](https://localdominate.org/blog/multi-location-seo).
+Jeder Standort bekommt eine eigene Seite mit eigenem LocalBusiness-Block, eigener Adresse, eigenen Öffnungszeiten und eigener Telefonnummer. Mehr im Artikel [Mehrere Standorte bei Google verwalten](https://localdominate.org/blog/gbp-mehrere-standorte#standortseiten).
 
 ### Muss ich FAQ-Markup jetzt löschen?
 

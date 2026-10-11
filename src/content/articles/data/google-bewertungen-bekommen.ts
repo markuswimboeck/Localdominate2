@@ -111,7 +111,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Zum Schreiben einer Rezension brauchen Ihre Kunden ein Google-Konto. Google weist darauf hin, dass sich ein solches Konto auch mit einer E-Mail-Adresse anlegen lässt, die nicht von Gmail ist. Gestaltung und Platzierung von Codes beschreibt der Artikel [Bewertungs-QR-Codes](/blog/bewertungs-qr-codes).",
+          text: "Zum Schreiben einer Rezension brauchen Ihre Kunden ein Google-Konto. Google weist darauf hin, dass sich ein solches Konto auch mit einer E-Mail-Adresse anlegen lässt, die nicht von Gmail ist.",
         },
       ],
     },
@@ -316,7 +316,7 @@ const article: V4Article = {
   related: [
     { slug: "negative-google-bewertungen", title: "Negative Google-Bewertungen: professionell reagieren" },
     { slug: "bewertungs-antworten-vorlagen", title: "Bewertungs-Antworten: Vorlagen für jede Situation" },
-    { slug: "bewertungs-qr-codes", title: "Bewertungs-QR-Codes erstellen" },
+    { slug: "google-maps-ranking-verbessern", title: "Google-Maps-Ranking verbessern" },
     { slug: "gbp-bewertung-loeschen-anleitung", title: "Google-Bewertung melden und löschen lassen" },
   ],
   cta: {

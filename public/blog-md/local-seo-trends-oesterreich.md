@@ -128,7 +128,7 @@ Die WKO bezeichnet Firmen A-Z als das größte Online-Firmenverzeichnis Österre
 3. **Angleichen.** Übernehmen Sie die Schreibweise aus dem Impressum. Alte Telefonnummern und frühere Adressen entfernen.
 4. **Branchenverzeichnisse ergänzen.** Danach die Portale Ihrer Branche, zum Beispiel Arzt- oder Hotelportale, auf denselben Stand bringen.
 
-Wie Sie Verzeichnisse auswählen und überwachen, beschreibt [Citation-Strategie und Verzeichnisse](https://localdominate.org/blog/citation-strategie-verzeichnisse). Weitere Verzeichnisse für Deutschland und die Schweiz stehen im [Local SEO Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo#firmendaten-verzeichnisse).
+Wie Sie Ihre Einträge in einer Liste führen und überwachen, beschreibt die [Citation-Tracking-Vorlage](https://localdominate.org/blog/citation-tracking-template). Weitere Verzeichnisse für Deutschland und die Schweiz stehen im [Local SEO Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo#firmendaten-verzeichnisse).
 
 ## Tourismusregionen und Saisonbetriebe
 
@@ -143,7 +143,7 @@ Googles Richtlinien für die Darstellung von Unternehmen beschreiben den Ablauf 
 - **Keine Zusätze im Namen:** „Hotel Alpenblick Skiurlaub Ischgl“ statt „Hotel Alpenblick“ verstößt gegen die Namensrichtlinie von Google.
 - **Saisoninhalte:** Anfahrt im Winter, Skibus, Hunde in der Hütte: Solche Antworten passen auf Ihre Website, sofern Sie die Offenlegung im Blick behalten.
 
-Wie Sie Inhalte über das Jahr planen, zeigt [Saisonales Local SEO](https://localdominate.org/blog/saisonales-local-seo). Einzelheiten zu Feiertagen stehen in [Öffnungszeiten und Sondertage](https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage), alles zu Unterkünften in [Local SEO für Hotels](https://localdominate.org/blog/local-seo-hotels) und [SEO für Ferienwohnungen](https://localdominate.org/blog/seo-ferienwohnungen).
+Wie Sie Inhalte über das Jahr planen, zeigt [Local Content Marketing](https://localdominate.org/blog/local-content-marketing#redaktionsplan). Einzelheiten zu Feiertagen stehen in [Öffnungszeiten und Sondertage](https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage), alles zu Unterkünften in [Local SEO für Hotels](https://localdominate.org/blog/local-seo-hotels) und [SEO für Ferienwohnungen](https://localdominate.org/blog/seo-ferienwohnungen).
 
 ## Was österreichische Betriebe 2026 tun sollten
 

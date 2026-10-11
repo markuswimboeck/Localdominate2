@@ -103,7 +103,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Prüfpunkt nach Woche 4",
-          text: "Das Profil ist vollständig und korrekt, die wichtigsten Einträge sind angeglichen. Details zu Verzeichnissen stehen in den Artikeln [NAP-Konsistenz](/blog/nap-konsistenz-local-seo) und [Citation-Strategie](/blog/citation-strategie-verzeichnisse), zum Profil in [Google Unternehmensprofil optimieren](/blog/google-my-business-optimieren).",
+          text: "Das Profil ist vollständig und korrekt, die wichtigsten Einträge sind angeglichen. Details zu Verzeichnissen stehen im Artikel [NAP-Konsistenz](/blog/nap-konsistenz-local-seo) und in der [Citation-Tracking-Vorlage](/blog/citation-tracking-template), zum Profil in [Google Unternehmensprofil optimieren](/blog/google-my-business-optimieren).",
         },
       ],
     },
@@ -187,7 +187,7 @@ const article: V4Article = {
         {
           t: "steps",
           items: [
-            { title: "Themen für drei Monate", text: "Planen Sie Saison, Feiertage, Veranstaltungen in Ihrem Ort und neue Leistungen. Hilfe gibt der Artikel [Saisonales Local SEO](/blog/saisonales-local-seo)." },
+            { title: "Themen für drei Monate", text: "Planen Sie Saison, Feiertage, Veranstaltungen in Ihrem Ort und neue Leistungen. Hilfe gibt der Redaktionsplan in [Local Content Marketing](/blog/local-content-marketing#redaktionsplan)." },
             { title: "Fotos ergänzen", text: "Neue Bilder von aktuellen Arbeiten, saisonalen Angeboten oder Umbauten ins Profil und auf die Website." },
           ],
         },
@@ -270,7 +270,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Wenig Zeit:** Jede Phase auf vier Wochen strecken. Woche 1 bis 4 nicht kürzen, sie sind die Grundlage.",
-            "**Mehrere Standorte:** Woche 3 und 4 für jeden Standort einzeln, Leistungsseiten je Standort. Siehe [Multi-Location-SEO](/blog/multi-location-seo).",
+            "**Mehrere Standorte:** Woche 3 und 4 für jeden Standort einzeln, Leistungsseiten je Standort. Siehe [Mehrere Standorte bei Google verwalten](/blog/gbp-mehrere-standorte).",
             "**Handwerk und Dienste beim Kunden:** Google verlangt in diesem Fall ein Profil für den Unternehmensstandort und ein festgelegtes Einzugsgebiet. Ein virtuelles Büro ist nur zulässig, wenn es während der Öffnungszeiten besetzt ist.",
             "**Nach Woche 12:** Die laufenden Aufgaben aus Woche 7 bis 11 gehen in eine monatliche Routine über, etwa mit der [monatlichen Checkliste](/blog/local-seo-monthly-checklist).",
           ],

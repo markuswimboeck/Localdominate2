@@ -157,7 +157,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Welche Branchenportale für Sie zählen, sehen Sie am schnellsten bei der Suche nach Ihrer Leistung und Ihrem Ort: Welche Portale erscheinen auf der ersten Seite, und wo stehen Ihre Wettbewerber? Hinweise zur Auswahl gibt der Artikel [Citation-Strategie](/blog/citation-strategie-verzeichnisse).",
+          text: "Welche Branchenportale für Sie zählen, sehen Sie am schnellsten bei der Suche nach Ihrer Leistung und Ihrem Ort: Welche Portale erscheinen auf der ersten Seite, und wo stehen Ihre Wettbewerber? Verbreitete Verzeichnisse je Land nennt der [Local SEO Leitfaden](/blog/ultimate-guide-local-seo#firmendaten-verzeichnisse).",
         },
       ],
     },
@@ -307,7 +307,7 @@ const article: V4Article = {
   ],
   related: [
     { slug: "nap-konsistenz-local-seo", title: "NAP-Konsistenz: Firmendaten überall auf einem Stand" },
-    { slug: "citation-strategie-verzeichnisse", title: "Citation-Strategie: welche Verzeichnisse zählen" },
+    { slug: "local-seo-audit-checkliste", title: "Local-SEO-Audit: die Checkliste zum Selbstprüfen" },
     { slug: "duplicate-listing-entfernen", title: "Doppelte Google-Einträge entfernen" },
     { slug: "local-seo-monthly-checklist", title: "Local SEO jeden Monat: die Routine-Checkliste" },
   ],

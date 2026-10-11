@@ -252,7 +252,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Mehr zur Jahresplanung im Artikel [Saisonales Local SEO](/blog/saisonales-local-seo).",
+          text: "Wie Sie solche Termine über das Jahr einplanen, zeigt [Local Content Marketing](/blog/local-content-marketing#redaktionsplan).",
         },
       ],
     },

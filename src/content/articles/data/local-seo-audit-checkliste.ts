@@ -260,7 +260,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Eine schnelle Methode: Suchen Sie bei Google nach Ihrer alten Telefonnummer in Anführungszeichen und danach nach Ihrem Namen mit dem Ort. Jeder Treffer mit abweichenden Daten kommt auf die Liste. Welche Verzeichnisse in der Schweiz zählen, steht in [Local SEO Schweiz](/blog/local-seo-schweiz). Eine Auswahl nach Ländern finden Sie in der [Citation-Strategie](/blog/citation-strategie-verzeichnisse).",
+          text: "Eine schnelle Methode: Suchen Sie bei Google nach Ihrer alten Telefonnummer in Anführungszeichen und danach nach Ihrem Namen mit dem Ort. Jeder Treffer mit abweichenden Daten kommt auf die Liste. Welche Verzeichnisse in der Schweiz zählen, steht in [Local SEO Schweiz](/blog/local-seo-schweiz). Eine Auswahl nach Ländern finden Sie im [Local SEO Leitfaden](/blog/ultimate-guide-local-seo#firmendaten-verzeichnisse).",
         },
       ],
     },

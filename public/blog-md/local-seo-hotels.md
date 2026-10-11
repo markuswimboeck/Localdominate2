@@ -171,7 +171,7 @@ Saisonbetriebe sind bei Google ausdrücklich berechtigt, wenn sie das ganze Jahr
 3. **Website früh umstellen.** Gäste suchen die nächste Saison oft Monate im Voraus. Zeigen Sie Termine, Preise und Fotos der kommenden Saison rechtzeitig auf der Website.
 4. **Beiträge zur Saison.** Kündigen Sie Saisonstart, Veranstaltungen im Ort oder Neuerungen im Haus als Beitrag an.
 
-Einen Jahresplan für saisonale Themen finden Sie in [Saisonales Local SEO](https://localdominate.org/blog/saisonales-local-seo).
+Wie Sie saisonale Themen in einen Jahresplan bringen, zeigt [Local Content Marketing](https://localdominate.org/blog/local-content-marketing#redaktionsplan).
 
 ## Tourismusverband, Gemeinde und lokale Partner
 
@@ -183,7 +183,7 @@ Ein Hotel lebt von seiner Region. Einträge beim Tourismusverband, auf dem Porta
 - **Veranstaltungen:** Hochzeiten, Tagungen oder Feste im Ort, bei denen Sie Partner sind.
 - **Regionale Medien:** Berichte über Neueröffnungen, Umbauten oder Auszeichnungen.
 
-Wie Sie solche Erwähnungen gezielt aufbauen, steht in [Lokaler Linkaufbau](https://localdominate.org/blog/local-link-building) und in [Citations und Verzeichnisse](https://localdominate.org/blog/citation-strategie-verzeichnisse). Wer auch ein Restaurant für Gäste von außen führt, findet passende Schritte in [Local SEO für Restaurants](https://localdominate.org/blog/local-seo-fuer-restaurants). Was sich in den einzelnen Ländern gerade ändert, zeigen [Local SEO Trends Deutschland](https://localdominate.org/blog/local-seo-trends-deutschland), [Österreich](https://localdominate.org/blog/local-seo-trends-oesterreich) und [Schweiz](https://localdominate.org/blog/local-seo-trends-schweiz).
+Wie Sie solche Erwähnungen gezielt aufbauen, steht in [Lokaler Linkaufbau](https://localdominate.org/blog/local-link-building) und in [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo#verzeichnisse-korrigieren). Wer auch ein Restaurant für Gäste von außen führt, findet passende Schritte in [Local SEO für Restaurants](https://localdominate.org/blog/local-seo-fuer-restaurants). Was sich in den einzelnen Ländern gerade ändert, zeigen [Local SEO Trends Deutschland](https://localdominate.org/blog/local-seo-trends-deutschland), [Österreich](https://localdominate.org/blog/local-seo-trends-oesterreich) und [Schweiz](https://localdominate.org/blog/local-seo-trends-schweiz).
 
 ## Was Sie messen sollten
 

@@ -80,7 +80,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Achten Sie darauf, ob ein Betrieb wirklich dasselbe anbietet. Eine Klinik mit 20 Fachrichtungen ist für eine kleine Praxis kein sinnvoller Maßstab, auch wenn sie im Kartenblock vor ihr steht. Für eine breitere Analyse über Maps hinaus hilft der Artikel [Wettbewerbsanalyse im Local SEO](/blog/wettbewerbsanalyse-local-seo).",
+          text: "Achten Sie darauf, ob ein Betrieb wirklich dasselbe anbietet. Eine Klinik mit 20 Fachrichtungen ist für eine kleine Praxis kein sinnvoller Maßstab, auch wenn sie im Kartenblock vor ihr steht. Wer auch Website und Verzeichnisse der Wettbewerber vergleichen will, nimmt dafür die Punkte der [Local-SEO-Audit-Checkliste](/blog/local-seo-audit-checkliste).",
         },
       ],
     },
@@ -254,7 +254,7 @@ const article: V4Article = {
   ],
   related: [
     { slug: "google-maps-ranking-verbessern", title: "Google-Maps-Ranking verbessern" },
-    { slug: "wettbewerbsanalyse-local-seo", title: "Wettbewerbsanalyse im Local SEO" },
+    { slug: "local-seo-audit-checkliste", title: "Local-SEO-Audit: die Checkliste zum Selbstprüfen" },
     { slug: "google-maps-audit-template", title: "Google-Maps-Audit: Vorlage zum Ausfüllen" },
     { slug: "google-maps-spam-erkennen", title: "Google-Maps-Spam erkennen" },
   ],

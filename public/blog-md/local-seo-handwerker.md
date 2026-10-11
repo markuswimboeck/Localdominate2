@@ -121,7 +121,7 @@ Bei geplanten Aufträgen wie einer Badsanierung entscheiden Fotos oft mit, wer a
 Der beste Moment für die Bitte um eine Bewertung ist die Abnahme, wenn der Kunde das Ergebnis gerade gesehen hat. Fragen Sie jeden Kunden, nicht nur die zufriedenen, und bieten Sie nichts als Gegenleistung an.
 
 1. **Bei der Abnahme fragen.** Persönlich, kurz und ohne Druck. Ein Kärtchen mit QR-Code zum Bewertungslink hilft, damit der Kunde nicht suchen muss.
-2. **Link mit der Rechnung schicken.** Setzen Sie den direkten Bewertungslink in die Rechnungs-E-Mail. Wie Sie den Link und einen QR-Code erstellen, steht im Artikel [Bewertungs-QR-Codes](https://localdominate.org/blog/bewertungs-qr-codes).
+2. **Link mit der Rechnung schicken.** Setzen Sie den direkten Bewertungslink in die Rechnungs-E-Mail. Wie Sie den Link und einen QR-Code erstellen, steht in [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen#bewertungslink).
 3. **Auf jede Bewertung antworten.** Sachlich und ohne Details aus dem Kundenhaus. Bei Kritik: Sachverhalt klären, Lösung anbieten, Gespräch per Telefon vorschlagen.
 
 *Was Googles Richtlinien zu Rezensionen verbieten*

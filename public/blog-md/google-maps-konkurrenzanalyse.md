@@ -57,7 +57,7 @@ Wettbewerber in Maps sind die Betriebe, die bei Ihren wichtigsten Suchbegriffen 
 3. **Suchen und notieren.** Suchen Sie an jedem Punkt jeden Begriff, ohne angemeldet zu sein. In den Entwicklertools von Chrome können Sie unter „Sensoren“ einen Standort einstellen. Notieren Sie die ersten fünf Betriebe ohne Anzeigen.
 4. **Häufigkeit zählen.** Wer an vielen Punkten und bei mehreren Begriffen vor Ihnen steht, ist ein Hauptwettbewerber. Wählen Sie drei davon für den Vergleich.
 
-Achten Sie darauf, ob ein Betrieb wirklich dasselbe anbietet. Eine Klinik mit 20 Fachrichtungen ist für eine kleine Praxis kein sinnvoller Maßstab, auch wenn sie im Kartenblock vor ihr steht. Für eine breitere Analyse über Maps hinaus hilft der Artikel [Wettbewerbsanalyse im Local SEO](https://localdominate.org/blog/wettbewerbsanalyse-local-seo).
+Achten Sie darauf, ob ein Betrieb wirklich dasselbe anbietet. Eine Klinik mit 20 Fachrichtungen ist für eine kleine Praxis kein sinnvoller Maßstab, auch wenn sie im Kartenblock vor ihr steht. Wer auch Website und Verzeichnisse der Wettbewerber vergleichen will, nimmt dafür die Punkte der [Local-SEO-Audit-Checkliste](https://localdominate.org/blog/local-seo-audit-checkliste).
 
 ## Schritt 2: der Vergleichsbogen
 

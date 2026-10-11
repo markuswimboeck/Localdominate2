@@ -79,7 +79,7 @@ Den direkten Link zum Bewertungsformular und einen passenden QR-Code bietet Goog
 4. **QR-Code speichern.** Den QR-Code speichern Sie per Rechtsklick als Bild. Laut Google geht das derzeit nur im Browser am Computer, nicht auf dem Handy.
 5. **Selbst testen.** Öffnen Sie den Link und scannen Sie den Code mit einem fremden Handy, bevor Sie ihn drucken lassen.
 
-Zum Schreiben einer Rezension brauchen Ihre Kunden ein Google-Konto. Google weist darauf hin, dass sich ein solches Konto auch mit einer E-Mail-Adresse anlegen lässt, die nicht von Gmail ist. Gestaltung und Platzierung von Codes beschreibt der Artikel [Bewertungs-QR-Codes](https://localdominate.org/blog/bewertungs-qr-codes).
+Zum Schreiben einer Rezension brauchen Ihre Kunden ein Google-Konto. Google weist darauf hin, dass sich ein solches Konto auch mit einer E-Mail-Adresse anlegen lässt, die nicht von Gmail ist.
 
 ## Wann und wo Sie fragen
 

@@ -2032,7 +2032,6 @@
    "/blog",
    "/blog/ai-falschangaben-korrigieren-2026",
    "/blog/bing-copilot-local-seo-2026",
-   "/blog/citation-strategie-verzeichnisse",
    "/blog/gbp-verifizierung-fehlgeschlagen",
    "/blog/google-bewertungen-bekommen",
    "/blog/google-my-business-optimieren",
@@ -2059,7 +2058,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2832,
+  "words": 2835,
   "htmlLang": "de"
  },
  {
@@ -2600,10 +2599,11 @@
    "/arztpraxis-marketing",
    "/blog",
    "/blog/apple-business-connect-local-seo-2026",
-   "/blog/citation-strategie-verzeichnisse",
    "/blog/duplicate-listing-entfernen",
+   "/blog/local-seo-audit-checkliste",
    "/blog/local-seo-monthly-checklist",
    "/blog/nap-konsistenz-local-seo",
+   "/blog/ultimate-guide-local-seo",
    "/creators",
    "/datenschutz",
    "/de",
@@ -2619,7 +2619,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2206,
+  "words": 2209,
   "htmlLang": "de"
  },
  {
@@ -4569,8 +4569,8 @@
    "/arztpraxis-marketing",
    "/blog",
    "/blog/bewertungs-antworten-vorlagen",
-   "/blog/bewertungs-qr-codes",
    "/blog/gbp-bewertung-loeschen-anleitung",
+   "/blog/google-maps-ranking-verbessern",
    "/blog/google-my-business-optimieren",
    "/blog/negative-google-bewertungen",
    "/blog/ultimate-guide-local-seo",
@@ -4589,7 +4589,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2656,
+  "words": 2647,
   "htmlLang": "de"
  },
  {
@@ -5096,7 +5096,6 @@
    "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
-   "/blog/bewertungs-qr-codes",
    "/blog/core-web-vitals-local-seo",
    "/blog/duplicate-listing-entfernen",
    "/blog/gbp-attribute-richtig-nutzen",
@@ -5129,7 +5128,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2076,
+  "words": 2079,
   "htmlLang": "de"
  },
  {
@@ -5198,8 +5197,8 @@
    "/blog/google-maps-ranking-verbessern",
    "/blog/google-maps-spam-erkennen",
    "/blog/local-link-building",
+   "/blog/local-seo-audit-checkliste",
    "/blog/lokale-landing-pages",
-   "/blog/wettbewerbsanalyse-local-seo",
    "/creators",
    "/datenschutz",
    "/de",
@@ -5215,7 +5214,7 @@
    "/work"
   ],
   "images": [],
-  "words": 1915,
+  "words": 1917,
   "htmlLang": "de"
  },
  {
@@ -5439,11 +5438,11 @@
    "/arztpraxis-marketing",
    "/blog",
    "/blog/gbp-fotos-optimieren",
+   "/blog/gbp-mehrere-standorte",
    "/blog/google-bewertungen-bekommen",
    "/blog/google-business-kategorien-guide",
    "/blog/google-my-business-optimieren",
    "/blog/local-link-building",
-   "/blog/multi-location-seo",
    "/blog/nap-konsistenz-local-seo",
    "/blog/negative-google-bewertungen",
    "/blog/ranking-ploetzlich-verschwunden",
@@ -5464,7 +5463,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2727,
+  "words": 2730,
   "htmlLang": "de"
  },
  {
@@ -6129,7 +6128,6 @@
    "/blog/core-web-vitals-local-seo",
    "/blog/google-bewertungen-bekommen",
    "/blog/google-my-business-optimieren",
-   "/blog/kostenlose-local-seo-audit-tools",
    "/blog/local-seo-audit-checkliste",
    "/blog/local-seo-keywords-finden",
    "/blog/nap-konsistenz-local-seo",
@@ -6150,7 +6148,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2667,
+  "words": 2665,
   "htmlLang": "de"
  },
  {
@@ -6384,15 +6382,15 @@
    "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
+   "/blog/gbp-oeffnungszeiten-sondertage",
    "/blog/google-bewertungen-bekommen",
    "/blog/google-posts-ranking-faktor",
    "/blog/local-link-building",
-   "/blog/local-seo-jahresplanung",
    "/blog/local-seo-keywords-finden",
+   "/blog/local-seo-monthly-checklist",
    "/blog/local-seo-tracking-kpis",
    "/blog/lokale-events-marketing",
    "/blog/lokale-landing-pages",
-   "/blog/saisonales-local-seo",
    "/creators",
    "/datenschutz",
    "/de",
@@ -6408,7 +6406,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2173,
+  "words": 2181,
   "htmlLang": "de"
  },
  {
@@ -6470,11 +6468,11 @@
    "/arztpraxis-marketing",
    "/blog",
    "/blog/google-maps-ranking-tracker",
+   "/blog/local-content-marketing",
    "/blog/local-seo-keywords-finden",
    "/blog/local-seo-notdienst-keywords",
-   "/blog/lokale-keyword-kannibalisierung",
    "/blog/lokale-landing-pages",
-   "/blog/saisonales-local-seo",
+   "/blog/semantic-seo-topical-authority",
    "/creators",
    "/datenschutz",
    "/de",
@@ -6490,7 +6488,7 @@
    "/work"
   ],
   "images": [],
-  "words": 1944,
+  "words": 1950,
   "htmlLang": "de"
  },
  {
@@ -6551,11 +6549,11 @@
    "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
-   "/blog/citation-strategie-verzeichnisse",
+   "/blog/citation-tracking-template",
    "/blog/local-content-marketing",
    "/blog/local-link-building-blueprint",
    "/blog/lokale-events-marketing",
-   "/blog/lokale-pr-pressearbeit",
+   "/blog/nap-konsistenz-local-seo",
    "/creators",
    "/datenschutz",
    "/de",
@@ -6571,7 +6569,7 @@
    "/work"
   ],
   "images": [],
-  "words": 1967,
+  "words": 1957,
   "htmlLang": "de"
  },
  {
@@ -7040,7 +7038,6 @@
    "/blog",
    "/blog/ai-crawler-steuern-gptbot-claudebot-2026",
    "/blog/ai-falschangaben-korrigieren-2026",
-   "/blog/citation-strategie-verzeichnisse",
    "/blog/core-web-vitals-local-seo",
    "/blog/gbp-fotos-optimieren",
    "/blog/gbp-mehrere-standorte",
@@ -7077,7 +7074,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2838,
+  "words": 2839,
   "htmlLang": "de"
  },
  {
@@ -8364,10 +8361,10 @@
    "/blog/google-bewertungen-bekommen",
    "/blog/google-business-kategorien-guide",
    "/blog/google-maps-ranking-verbessern",
+   "/blog/local-content-marketing",
    "/blog/local-link-building",
    "/blog/local-seo-keywords-finden",
    "/blog/local-seo-yoga-studios",
-   "/blog/saisonales-local-seo",
    "/blog/schema-markup-local-seo",
    "/creators",
    "/datenschutz",
@@ -8384,7 +8381,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2771,
+  "words": 2775,
   "htmlLang": "de"
  },
  {
@@ -9032,7 +9029,6 @@
    "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
-   "/blog/bewertungs-qr-codes",
    "/blog/gbp-fotos-optimieren",
    "/blog/google-bewertungen-bekommen",
    "/blog/google-business-kategorien-guide",
@@ -9370,12 +9366,12 @@
    "/arztpraxis-marketing",
    "/blog",
    "/blog/bewertungs-antworten-vorlagen",
-   "/blog/citation-strategie-verzeichnisse",
    "/blog/gbp-attribute-richtig-nutzen",
    "/blog/gbp-fotos-optimieren",
    "/blog/google-bewertungen-bekommen",
    "/blog/google-maps-ranking-verbessern",
    "/blog/google-my-business-optimieren",
+   "/blog/local-content-marketing",
    "/blog/local-link-building",
    "/blog/local-seo-fuer-restaurants",
    "/blog/local-seo-keywords-finden",
@@ -9387,7 +9383,6 @@
    "/blog/lokale-suchmaschinenoptimierung-2026",
    "/blog/nap-konsistenz-local-seo",
    "/blog/negative-google-bewertungen",
-   "/blog/saisonales-local-seo",
    "/blog/schema-markup-local-seo",
    "/blog/seo-ferienwohnungen",
    "/blog/ultimate-guide-local-seo",
@@ -9406,7 +9401,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3109,
+  "words": 3108,
   "htmlLang": "de"
  },
  {
@@ -9942,11 +9937,11 @@
    "/blog/google-business-produkte-services",
    "/blog/google-maps-ranking-tracker",
    "/blog/google-posts-ranking-faktor",
+   "/blog/local-content-marketing",
    "/blog/local-keyword-research-template",
    "/blog/local-link-building",
    "/blog/local-seo-audit-checkliste",
    "/blog/local-seo-checkliste-komplett",
-   "/blog/local-seo-jahresplanung",
    "/blog/local-seo-tracking-kpis",
    "/creators",
    "/datenschutz",
@@ -10024,6 +10019,7 @@
    "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
+   "/blog/gbp-mehrere-standorte",
    "/blog/gbp-oeffnungszeiten-sondertage",
    "/blog/google-bewertungen-bekommen",
    "/blog/google-business-kategorien-guide",
@@ -10039,10 +10035,7 @@
    "/blog/local-seo-tracking-kpis",
    "/blog/local-seo-zuerich",
    "/blog/lokale-landing-pages",
-   "/blog/lokale-pr-pressearbeit",
-   "/blog/multi-location-seo",
    "/blog/nap-konsistenz-local-seo",
-   "/blog/saisonales-local-seo",
    "/blog/ultimate-guide-local-seo",
    "/creators",
    "/datenschutz",
@@ -10059,7 +10052,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2735,
+  "words": 2737,
   "htmlLang": "de"
  },
  {
@@ -10665,7 +10658,8 @@
    "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
-   "/blog/citation-strategie-verzeichnisse",
+   "/blog/citation-tracking-template",
+   "/blog/gbp-mehrere-standorte",
    "/blog/google-bewertungen-bekommen",
    "/blog/google-my-business-optimieren",
    "/blog/local-content-marketing",
@@ -10676,10 +10670,8 @@
    "/blog/local-seo-tracking-kpis",
    "/blog/localbusiness-schema-implementierung",
    "/blog/lokale-landing-pages",
-   "/blog/multi-location-seo",
    "/blog/nap-konsistenz-local-seo",
    "/blog/negative-google-bewertungen",
-   "/blog/saisonales-local-seo",
    "/creators",
    "/datenschutz",
    "/de",
@@ -10695,7 +10687,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2221,
+  "words": 2227,
   "htmlLang": "de"
  },
  {
@@ -10839,7 +10831,7 @@
    "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
-   "/blog/citation-strategie-verzeichnisse",
+   "/blog/citation-tracking-template",
    "/blog/gbp-mehrere-standorte",
    "/blog/google-bewertungen-bekommen",
    "/blog/google-maps-ranking-verbessern",
@@ -10869,7 +10861,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2745,
+  "words": 2748,
   "htmlLang": "de"
  },
  {
@@ -11386,17 +11378,16 @@
    "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
-   "/blog/diy-local-seo",
    "/blog/google-bewertungen-bekommen",
+   "/blog/google-maps-konkurrenzanalyse",
+   "/blog/kostenloses-seo-guide",
    "/blog/local-seo-audit-checkliste",
-   "/blog/local-seo-budget-planen",
    "/blog/local-seo-keywords-finden",
    "/blog/local-seo-monthly-checklist",
    "/blog/local-seo-roadmap-90-tage",
    "/blog/local-seo-tracking-kpis",
    "/blog/nap-konsistenz-local-seo",
    "/blog/ultimate-guide-local-seo",
-   "/blog/wettbewerbsanalyse-local-seo",
    "/creators",
    "/datenschutz",
    "/de",
@@ -11412,7 +11403,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2247,
+  "words": 2250,
   "htmlLang": "de"
  },
  {
@@ -11850,7 +11841,6 @@
    "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
-   "/blog/citation-strategie-verzeichnisse",
    "/blog/core-web-vitals-local-seo",
    "/blog/google-ai-overviews-local-seo",
    "/blog/google-bewertungen-bekommen",
@@ -11890,7 +11880,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2827,
+  "words": 2826,
   "htmlLang": "de"
  },
  {
@@ -11951,12 +11941,13 @@
    "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
-   "/blog/citation-strategie-verzeichnisse",
+   "/blog/citation-tracking-template",
    "/blog/gbp-oeffnungszeiten-sondertage",
    "/blog/google-bewertungen-bekommen",
    "/blog/google-maps-ranking-verbessern",
    "/blog/google-my-business-optimieren",
    "/blog/kostenloses-seo-guide",
+   "/blog/local-content-marketing",
    "/blog/local-seo-aerzte-praxen",
    "/blog/local-seo-handwerker",
    "/blog/local-seo-hotels",
@@ -11967,7 +11958,6 @@
    "/blog/lokale-suchmaschinenoptimierung-2026",
    "/blog/mobile-local-seo",
    "/blog/nap-konsistenz-local-seo",
-   "/blog/saisonales-local-seo",
    "/blog/seo-ferienwohnungen",
    "/blog/ultimate-guide-local-seo",
    "/creators",
@@ -11985,7 +11975,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2469,
+  "words": 2472,
   "htmlLang": "de"
  },
  {
@@ -14101,9 +14091,9 @@
    "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
+   "/blog/gbp-mehrere-standorte",
    "/blog/google-bewertungen-bekommen",
    "/blog/localbusiness-schema-implementierung",
-   "/blog/multi-location-seo",
    "/blog/nap-konsistenz-local-seo",
    "/blog/review-schema-implementierung",
    "/blog/technisches-local-seo-guide",
@@ -14122,7 +14112,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2175,
+  "words": 2178,
   "htmlLang": "de"
  },
  {
@@ -14347,7 +14337,7 @@
    "/blog",
    "/blog/entity-seo-guide",
    "/blog/local-content-marketing",
-   "/blog/lokale-keyword-kannibalisierung",
+   "/blog/local-keyword-research-template",
    "/blog/lokale-landing-pages",
    "/blog/website-content-ai-suchmaschinen",
    "/creators",
@@ -14365,7 +14355,7 @@
    "/work"
   ],
   "images": [],
-  "words": 1750,
+  "words": 1758,
   "htmlLang": "de"
  },
  {

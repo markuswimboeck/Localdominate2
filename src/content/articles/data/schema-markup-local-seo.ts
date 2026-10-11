@@ -244,7 +244,7 @@ const article: V4Article = {
     },
     {
       q: "Wie zeichne ich mehrere Standorte aus?",
-      a: "Jeder Standort bekommt eine eigene Seite mit eigenem LocalBusiness-Block, eigener Adresse, eigenen Öffnungszeiten und eigener Telefonnummer. Mehr im Artikel [Multi-Location SEO](/blog/multi-location-seo).",
+      a: "Jeder Standort bekommt eine eigene Seite mit eigenem LocalBusiness-Block, eigener Adresse, eigenen Öffnungszeiten und eigener Telefonnummer. Mehr im Artikel [Mehrere Standorte bei Google verwalten](/blog/gbp-mehrere-standorte#standortseiten).",
     },
     {
       q: "Muss ich FAQ-Markup jetzt löschen?",

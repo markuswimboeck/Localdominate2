@@ -330,7 +330,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Einen Jahresplan für saisonale Themen finden Sie in [Saisonales Local SEO](/blog/saisonales-local-seo).",
+          text: "Wie Sie saisonale Themen in einen Jahresplan bringen, zeigt [Local Content Marketing](/blog/local-content-marketing#redaktionsplan).",
         },
       ],
     },
@@ -352,7 +352,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Wie Sie solche Erwähnungen gezielt aufbauen, steht in [Lokaler Linkaufbau](/blog/local-link-building) und in [Citations und Verzeichnisse](/blog/citation-strategie-verzeichnisse). Wer auch ein Restaurant für Gäste von außen führt, findet passende Schritte in [Local SEO für Restaurants](/blog/local-seo-fuer-restaurants). Was sich in den einzelnen Ländern gerade ändert, zeigen [Local SEO Trends Deutschland](/blog/local-seo-trends-deutschland), [Österreich](/blog/local-seo-trends-oesterreich) und [Schweiz](/blog/local-seo-trends-schweiz).",
+          text: "Wie Sie solche Erwähnungen gezielt aufbauen, steht in [Lokaler Linkaufbau](/blog/local-link-building) und in [NAP-Konsistenz](/blog/nap-konsistenz-local-seo#verzeichnisse-korrigieren). Wer auch ein Restaurant für Gäste von außen führt, findet passende Schritte in [Local SEO für Restaurants](/blog/local-seo-fuer-restaurants). Was sich in den einzelnen Ländern gerade ändert, zeigen [Local SEO Trends Deutschland](/blog/local-seo-trends-deutschland), [Österreich](/blog/local-seo-trends-oesterreich) und [Schweiz](/blog/local-seo-trends-schweiz).",
         },
       ],
     },

@@ -247,7 +247,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Nehmen Sie Ihre Angaben im Google-Profil als Referenz, weil Sie diese am häufigsten pflegen, und übertragen Sie jede Änderung am selben Tag zu Apple, auf die Website und in die Verzeichnisse. Wie Sie Abweichungen systematisch finden, beschreibt [NAP-Konsistenz im Local SEO](/blog/nap-konsistenz-local-seo). Das Google-Profil selbst behandelt [Google Unternehmensprofil optimieren](/blog/google-my-business-optimieren), weitere Verzeichnisse [Citation-Strategie und Verzeichnisse](/blog/citation-strategie-verzeichnisse).",
+          text: "Nehmen Sie Ihre Angaben im Google-Profil als Referenz, weil Sie diese am häufigsten pflegen, und übertragen Sie jede Änderung am selben Tag zu Apple, auf die Website und in die Verzeichnisse. Wie Sie Abweichungen systematisch finden, beschreibt [NAP-Konsistenz im Local SEO](/blog/nap-konsistenz-local-seo). Das Google-Profil selbst behandelt [Google Unternehmensprofil optimieren](/blog/google-my-business-optimieren), verbreitete Verzeichnisse je Land der [Local SEO Leitfaden](/blog/ultimate-guide-local-seo#firmendaten-verzeichnisse).",
         },
         {
           t: "p",

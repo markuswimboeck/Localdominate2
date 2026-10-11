@@ -161,7 +161,7 @@ In vielen Ratgebern stehen Keyword-Kalender mit Monatsangaben und Prozentwerten.
 3. **Eigene Anmeldungen danebenlegen.** Probetrainings und Abschlüsse pro Monat aus Ihrer Mitgliederverwaltung.
 4. **Sechs Wochen vorher handeln.** Seite für das Saisonangebot anlegen, Fotos aktualisieren, Beiträge im Profil vorbereiten, Sonderöffnungszeiten eintragen.
 
-Mehr zur Jahresplanung im Artikel [Saisonales Local SEO](https://localdominate.org/blog/saisonales-local-seo).
+Wie Sie solche Termine über das Jahr einplanen, zeigt [Local Content Marketing](https://localdominate.org/blog/local-content-marketing#redaktionsplan).
 
 ## Lokale Partner und Erwähnungen
 

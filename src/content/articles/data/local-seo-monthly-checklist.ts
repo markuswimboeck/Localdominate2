@@ -202,7 +202,7 @@ const article: V4Article = {
             ["Quartal", "Alle Verzeichniseinträge einmal vollständig prüfen"],
             ["Quartal", "Keyword-Liste mit neuen Suchanfragen ergänzen, siehe [Keyword-Recherche-Vorlage](/blog/local-keyword-research-template)"],
             ["Quartal", "Zugänge prüfen: Wer hat Zugriff auf Profil, Search Console und Website? Ausgeschiedene Personen entfernen"],
-            ["Jahr", "Saisonkalender für das nächste Jahr anlegen, siehe [Jahresplanung](/blog/local-seo-jahresplanung)"],
+            ["Jahr", "Saisonkalender für das nächste Jahr anlegen, siehe [Redaktionsplan](/blog/local-content-marketing#redaktionsplan)"],
             ["Jahr", "Vollständiges Audit wiederholen"],
           ],
         },

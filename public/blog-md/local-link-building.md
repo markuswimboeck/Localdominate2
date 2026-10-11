@@ -87,7 +87,7 @@ Die besten lokalen Links kommen von Organisationen, mit denen Sie ohnehin verbun
 | Schulen und Hochschulen | Praktika, Betriebsbesichtigungen, Berufsorientierung | Nach Kooperationsseiten fragen |
 | Lokale Presse und Stadtblogs | Echte Neuigkeiten | Siehe Abschnitt zur Pressearbeit |
 
-Verzeichnisse und Branchenbücher sind vor allem für einheitliche Firmendaten wichtig. Wie Sie dort vorgehen, beschreibt die [Citation-Strategie](https://localdominate.org/blog/citation-strategie-verzeichnisse).
+Verzeichnisse und Branchenbücher sind vor allem für einheitliche Firmendaten wichtig. Wie Sie dort vorgehen, beschreibt [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo#verzeichnisse-korrigieren).
 
 ## Partner, Lieferanten und Kooperationen
 
@@ -105,7 +105,7 @@ Lokale Medien berichten über Neuigkeiten mit Bezug zum Ort: Eröffnungen, Jubil
 - **Schwache Anlässe:** reine Werbung, allgemeine Branchennachrichten ohne Ortsbezug, Themen, die schon Wochen alt sind.
 - **Form:** Ort und Datum, eine klare Überschrift, das Wichtigste in zwei Sätzen, ein Zitat, ein Absatz über Ihren Betrieb, ein Ansprechpartner.
 
-> **Keine Keyword-Links in Pressemitteilungen:** Google nennt optimierte Ankertexte in Pressemitteilungen, die auf anderen Websites verbreitet werden, als Beispiel für Linkspam. Nennen Sie Ihren Firmennamen und Ihre Website-Adresse. Links über bezahlte Verteilerdienste sind keine redaktionellen Links. Mehr zur Pressearbeit im Artikel [Lokale PR und Pressearbeit](https://localdominate.org/blog/lokale-pr-pressearbeit).
+> **Keine Keyword-Links in Pressemitteilungen:** Google nennt optimierte Ankertexte in Pressemitteilungen, die auf anderen Websites verbreitet werden, als Beispiel für Linkspam. Nennen Sie Ihren Firmennamen und Ihre Website-Adresse. Links über bezahlte Verteilerdienste sind keine redaktionellen Links.
 
 ## Erwähnungen ohne Link finden
 

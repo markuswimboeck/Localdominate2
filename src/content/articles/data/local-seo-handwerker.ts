@@ -203,7 +203,7 @@ const article: V4Article = {
             },
             {
               title: "Link mit der Rechnung schicken",
-              text: "Setzen Sie den direkten Bewertungslink in die Rechnungs-E-Mail. Wie Sie den Link und einen QR-Code erstellen, steht im Artikel [Bewertungs-QR-Codes](/blog/bewertungs-qr-codes).",
+              text: "Setzen Sie den direkten Bewertungslink in die Rechnungs-E-Mail. Wie Sie den Link und einen QR-Code erstellen, steht in [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen#bewertungslink).",
             },
             {
               title: "Auf jede Bewertung antworten",

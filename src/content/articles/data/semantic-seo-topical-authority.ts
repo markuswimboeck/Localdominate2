@@ -99,7 +99,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Achten Sie darauf, dass zwei Seiten nicht dieselbe Frage beantworten. Wie Sie solche Überschneidungen finden, zeigt der Artikel [Keyword-Kannibalisierung](/blog/lokale-keyword-kannibalisierung).",
+          text: "Achten Sie darauf, dass zwei Seiten nicht dieselbe Frage beantworten. Wie Sie jedem Suchbegriff genau eine Seite zuordnen, zeigt die [Vorlage für die Keyword-Recherche](/blog/local-keyword-research-template#seitenzuordnung).",
         },
       ],
     },
@@ -230,7 +230,7 @@ const article: V4Article = {
     { slug: "entity-seo-guide", title: "Entity SEO für lokale Unternehmen" },
     { slug: "lokale-landing-pages", title: "Lokale Landingpages" },
     { slug: "local-content-marketing", title: "Lokales Content-Marketing" },
-    { slug: "lokale-keyword-kannibalisierung", title: "Keyword-Kannibalisierung vermeiden" },
+    { slug: "local-keyword-research-template", title: "Vorlage für die lokale Keyword-Recherche" },
   ],
   cta: {
     title: "Deckt Ihre Website Ihr Fachgebiet ab?",

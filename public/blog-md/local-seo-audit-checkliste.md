@@ -117,7 +117,7 @@ Prüfen Sie, ob Ihr Betrieb in den wichtigsten Verzeichnissen Ihres Landes und I
 | Branchenportale | Ihr Betrieb fehlt auf dem Portal, das Ihre Kunden tatsächlich nutzen, oder steht dort doppelt | Den einen richtigen Eintrag pflegen, Dubletten beim Portal melden |
 | Alte Daten nach Umzug oder Namenswechsel | Suche nach alter Adresse oder alter Nummer findet noch Treffer | Treffer abarbeiten, siehe [Umzug, neuer Name, neue Nummer](https://localdominate.org/blog/nap-konsistenz-local-seo#umzug-name-nummer) |
 
-Eine schnelle Methode: Suchen Sie bei Google nach Ihrer alten Telefonnummer in Anführungszeichen und danach nach Ihrem Namen mit dem Ort. Jeder Treffer mit abweichenden Daten kommt auf die Liste. Welche Verzeichnisse in der Schweiz zählen, steht in [Local SEO Schweiz](https://localdominate.org/blog/local-seo-schweiz). Eine Auswahl nach Ländern finden Sie in der [Citation-Strategie](https://localdominate.org/blog/citation-strategie-verzeichnisse).
+Eine schnelle Methode: Suchen Sie bei Google nach Ihrer alten Telefonnummer in Anführungszeichen und danach nach Ihrem Namen mit dem Ort. Jeder Treffer mit abweichenden Daten kommt auf die Liste. Welche Verzeichnisse in der Schweiz zählen, steht in [Local SEO Schweiz](https://localdominate.org/blog/local-seo-schweiz). Eine Auswahl nach Ländern finden Sie im [Local SEO Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo#firmendaten-verzeichnisse).
 
 ## Bereich 5: Bewertungen als fester Ablauf
 

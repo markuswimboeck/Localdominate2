@@ -137,7 +137,7 @@ localsearch beschreibt local.ch und search.ch als Nummer eins im Schweizer Verze
 | Rechtsform | AG, GmbH oder Sàrl so schreiben, wie es im Handelsregister steht. |
 | Mehrsprachige Ortsnamen | Bei Orten wie Biel/Bienne die Schreibweise wählen, die Sie im Profil nutzen, und dabei bleiben. |
 
-Dazu kommen übergreifende Plattformen wie Apple Business Connect und Bing Places sowie Portale Ihrer Branche. Wie Sie Abweichungen systematisch finden, zeigt [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo). Eine Auswahl weiterer Verzeichnisse finden Sie in [Citation-Strategie und Verzeichnisse](https://localdominate.org/blog/citation-strategie-verzeichnisse).
+Dazu kommen übergreifende Plattformen wie Apple Business Connect und Bing Places sowie Portale Ihrer Branche. Wie Sie Abweichungen systematisch finden, zeigt [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo). Wie Sie alle Einträge in einer Liste führen und prüfen, zeigt die [Citation-Tracking-Vorlage](https://localdominate.org/blog/citation-tracking-template).
 
 ## Preise in CHF
 
