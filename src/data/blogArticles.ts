@@ -574,10 +574,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-fitness",
     de: {
-      title: "Local SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche",
-      metaTitle: "Local SEO für Fitnessstudios und Personal Trainer",
-      metaDescription: "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
-      excerpt: "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
+      title: "Lokales SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der Umgebung",
+      metaTitle: "Lokales SEO für Fitnessstudios und Personal Trainer",
+      metaDescription: "Lokales SEO für Fitnessstudios und Personal Trainer: passende Kategorie, gepflegtes Profil, Bewertungen nach Googles Regeln und eine Seite fürs Probetraining.",
+      excerpt: "Lokales SEO für Fitnessstudios und Personal Trainer: passende Kategorie, gepflegtes Profil, Bewertungen nach Googles Regeln und eine Seite fürs Probetraining.",
       category: "Branchen"
     },
     en: {

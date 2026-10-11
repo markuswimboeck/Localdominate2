@@ -25,7 +25,7 @@ export const SEARCH_INDEX: SearchIndex = {
   "local-seo-aerzte-praxen": { titleDe: "Local SEO für Ärzte & Praxen: Patientengewinnung durch Google", terms: "arzt seo, praxis marketing, local seo ärzte, patientengewinnung, jameda" },
   "local-seo-anwaelte-kanzleien": { titleDe: "Local SEO für Anwälte & Kanzleien: Mandanten durch Google gewinnen", terms: "anwalt seo, kanzlei marketing, local seo anwälte, mandantengewinnung, anwalt.de" },
   "local-seo-hotels": { titleDe: "Local SEO für Hotels & Unterkünfte: Direktbuchungen steigern", terms: "hotel seo, direktbuchungen, local seo hotels, google hotel ads, booking alternative" },
-  "local-seo-fitness": { titleDe: "Local SEO für Fitnessstudios & Personal Trainer", terms: "fitnessstudio seo, personal trainer marketing, local seo fitness, mitgliedergewinnung" },
+  "local-seo-fitness": { titleDe: "Lokales SEO für Fitnessstudios und Personal Trainer", terms: "fitnessstudio seo, personal trainer marketing, local seo fitness, mitgliedergewinnung" },
   "schema-markup-local-seo": { titleDe: "Schema Markup für Local SEO: Der Implementierungsguide", terms: "schema markup, strukturierte daten, local business schema, rich snippets, json-ld" },
   "google-maps-seo-ranking-faktoren": { titleDe: "Google Maps SEO 2026: Alle 20 Ranking-Signale mit Gewichtung", terms: "google maps ranking signale, ranking faktoren gewichtung, local pack signale, maps seo 2026, proximity relevance prominence gewichtung" },
   "google-maps-spam-erkennen": { titleDe: "Google Maps Spam erkennen & melden: Der komplette Guide", terms: "google maps spam, spam melden, fake bewertungen, keyword stuffing, google business spam" },
