@@ -17,10 +17,10 @@ const Footer = () => {
   const footerLinks = [
     { path: '/blog', label: labels[0], icon: null, isExternal: false },
     { path: '/seo-lexikon', label: labels[1], icon: BookOpen, isExternal: false },
-    { path: '/restaurant-marketing', label: labels[2], icon: Utensils, isExternal: false },
-    { path: '/handwerker-marketing', label: labels[3], icon: Wrench, isExternal: false },
-    { path: '/arztpraxis-marketing', label: labels[4], icon: Stethoscope, isExternal: false },
-    { path: '/anwalt-marketing', label: labels[5], icon: Scale, isExternal: false },
+    { path: '/industries/restaurants', label: labels[2], icon: Utensils, isExternal: false },
+    { path: '/industries/trades', label: labels[3], icon: Wrench, isExternal: false },
+    { path: '/industries/practices', label: labels[4], icon: Stethoscope, isExternal: false },
+    { path: '/industries/practices', label: labels[5], icon: Scale, isExternal: false },
     { path: 'https://www.aureliangrand.com', label: labels[6], icon: Hotel, isExternal: true },
   ];
 
@@ -59,7 +59,7 @@ const Footer = () => {
             if (link.isExternal) {
               return (
                 <a
-                  key={link.path}
+                  key={link.label}
                   href={link.path}
                   target="_blank"
                   rel="noopener noreferrer"
@@ -70,7 +70,7 @@ const Footer = () => {
             }
 
             return (
-              <Link key={link.path} to={link.path}>
+              <Link key={link.label} to={link.path}>
                 {buttonContent}
               </Link>
             );
