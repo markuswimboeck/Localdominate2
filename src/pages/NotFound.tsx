@@ -76,7 +76,7 @@ const NotFound = () => {
           <Link to="/" className="inline-block mb-8">
             <img 
               src="/logo.png" 
-              alt="Local Dominator Logo" 
+              alt="LocalDominate Logo" 
               className="h-12 mx-auto"
               width={120}
               height={48}

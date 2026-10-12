@@ -750,7 +750,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 398,
+  "words": 397,
   "htmlLang": "de"
  },
  {
@@ -842,7 +842,7 @@
    "/assets/salon-service-CTv0w0Vn.webp",
    "/assets/salon-team-CQl0bVOA.webp"
   ],
-  "words": 959,
+  "words": 958,
   "htmlLang": "de"
  },
  {
@@ -889,7 +889,7 @@
    "/assets/salon-service-CTv0w0Vn.webp",
    "/assets/salon-team-CQl0bVOA.webp"
   ],
-  "words": 967,
+  "words": 966,
   "htmlLang": "de"
  },
  {
@@ -1107,7 +1107,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/ai-agents-lokale-buchungen-2026.jpg",
   "ogType": "article",
   "articlePublished": "2026-05-22",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "KI-Agenten, die buchen und anrufen: Was es gibt, wo es funktioniert und was lokale Betriebe vorbereiten sollten"
   ],
@@ -1135,7 +1135,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-05-22",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -1179,7 +1179,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3128,
+  "words": 3211,
   "htmlLang": "de"
  },
  {
@@ -1365,7 +1365,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/ai-search-optimization-2026.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-16",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "KI-Suche 2026: Was sich zwischen Oktober 2025 und Oktober 2026 geändert hat und was es für lokale Betriebe bedeutet"
   ],
@@ -1393,7 +1393,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-16",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -1437,7 +1437,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3226,
+  "words": 3319,
   "htmlLang": "de"
  },
  {
@@ -1551,7 +1551,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/ai-suche-lokale-unternehmen.jpg",
   "ogType": "article",
   "articlePublished": "2026-03-08",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "KI-Suche für lokale Unternehmen: Wo Ihr Betrieb heute erscheint und was Sie zuerst tun sollten"
   ],
@@ -1579,7 +1579,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-03-08",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -1626,7 +1626,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2847,
+  "words": 2969,
   "htmlLang": "de"
  },
  {
@@ -1728,7 +1728,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/ai-visibility-index-local-seo-metrik.jpg",
   "ogType": "article",
   "articlePublished": "2026-05-20",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "Sichtbarkeit in KI-Antworten messen: So bauen Sie Ihre eigene, ehrliche Kennzahl"
   ],
@@ -1756,7 +1756,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-05-20",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -1804,7 +1804,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3123,
+  "words": 3197,
   "htmlLang": "de"
  },
  {
@@ -1819,7 +1819,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/ai-zitat-monitoring-local-seo-2026.jpg",
   "ogType": "article",
   "articlePublished": "2026-08-08",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "KI-Zitate überwachen: die Monatsroutine für lokale Betriebe mit Stichproben, Berichten und Logs"
   ],
@@ -1847,7 +1847,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-08-08",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -1890,7 +1890,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3073,
+  "words": 3157,
   "htmlLang": "de"
  },
  {
@@ -4247,7 +4247,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/geo-content-briefing-vorlage-2026.jpg",
   "ogType": "article",
   "articlePublished": "2026-08-08",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "GEO-Content-Briefing: die Vorlage für eine Seite, die KI-Antworten korrekt zitieren können"
   ],
@@ -4275,7 +4275,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-08-08",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -4318,7 +4318,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3225,
+  "words": 3253,
   "htmlLang": "de"
  },
  {
@@ -6018,7 +6018,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/ki-tools-local-seo.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-10",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "KI-Tools für Local SEO: Wofür sie taugen, was Google erlaubt und was Datenschutz verlangt"
   ],
@@ -6046,7 +6046,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-10",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -6089,7 +6089,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2982,
+  "words": 2985,
   "htmlLang": "de"
  },
  {
@@ -7347,7 +7347,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 818,
+  "words": 815,
   "htmlLang": "de"
  },
  {
@@ -7707,7 +7707,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 824,
+  "words": 821,
   "htmlLang": "de"
  },
  {
@@ -8231,7 +8231,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 806,
+  "words": 803,
   "htmlLang": "de"
  },
  {
@@ -8910,7 +8910,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 784,
+  "words": 781,
   "htmlLang": "de"
  },
  {
@@ -9250,7 +9250,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 907,
+  "words": 903,
   "htmlLang": "de"
  },
  {
@@ -9333,7 +9333,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 795,
+  "words": 792,
   "htmlLang": "de"
  },
  {
@@ -10970,7 +10970,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 793,
+  "words": 790,
   "htmlLang": "de"
  },
  {
@@ -11806,7 +11806,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 760,
+  "words": 757,
   "htmlLang": "de"
  },
  {
@@ -12201,7 +12201,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-voice-search.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-25",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "Sprachsuche für lokale Betriebe: Welche Angaben gesprochene Fragen beantworten"
   ],
@@ -12229,7 +12229,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-25",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -12277,7 +12277,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3096,
+  "words": 3115,
   "htmlLang": "de"
  },
  {
@@ -13207,7 +13207,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 799,
+  "words": 796,
   "htmlLang": "de"
  },
  {
@@ -13917,7 +13917,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/reddit-local-seo-ai-zitate-2026.jpg",
   "ogType": "article",
   "articlePublished": "2026-05-22",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "Reddit und Foren in KI-Antworten: Was belegt ist, was erlaubt ist und wie lokale Betriebe ehrlich mitreden"
   ],
@@ -13945,7 +13945,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-05-22",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -13991,7 +13991,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2866,
+  "words": 3045,
   "htmlLang": "de"
  },
  {
@@ -14173,7 +14173,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/schema-strategie-ai-retrieval.jpg",
   "ogType": "article",
   "articlePublished": "2026-05-20",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "Schema-Strategie für die KI-Suche: Was strukturierte Daten leisten und was ein Mythos ist"
   ],
@@ -14201,7 +14201,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-05-20",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -14250,7 +14250,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2672,
+  "words": 2679,
   "htmlLang": "de"
  },
  {
@@ -14816,7 +14816,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/tiktok-search-local-seo-2026.jpg",
   "ogType": "article",
   "articlePublished": "2026-05-22",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "TikTok als Suchort für lokale Betriebe: Was TikTok dokumentiert und was Sie tun können"
   ],
@@ -14844,7 +14844,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-05-22",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -14888,7 +14888,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2854,
+  "words": 2907,
   "htmlLang": "de"
  },
  {
@@ -15239,7 +15239,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/voice-search-sprachassistenten-local-seo-2026.jpg",
   "ogType": "article",
   "articlePublished": "2026-05-22",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "Sprachassistenten 2026: Siri, Gemini und Alexa für lokale Betriebe in Deutschland, Österreich und der Schweiz"
   ],
@@ -15267,7 +15267,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-05-22",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -15310,7 +15310,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3005,
+  "words": 3081,
   "htmlLang": "de"
  },
  {
@@ -15415,7 +15415,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/website-content-ai-suchmaschinen.jpg",
   "ogType": "article",
   "articlePublished": "2026-03-05",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "Website-Inhalte für KI-Suche: So schreiben Sie Seiten, die KI-Systeme richtig wiedergeben"
   ],
@@ -15443,7 +15443,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-03-05",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -15486,7 +15486,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3000,
+  "words": 3039,
   "htmlLang": "de"
  },
  {
@@ -15568,7 +15568,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 1065,
+  "words": 1059,
   "htmlLang": "de"
  },
  {
@@ -15826,7 +15826,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 570,
+  "words": 569,
   "htmlLang": "de"
  },
  {
@@ -15898,7 +15898,7 @@
    "/"
   ],
   "images": [],
-  "words": 612,
+  "words": 611,
   "htmlLang": "de"
  },
  {
@@ -15945,7 +15945,7 @@
    "/assets/salon-service-CTv0w0Vn.webp",
    "/assets/salon-team-CQl0bVOA.webp"
   ],
-  "words": 990,
+  "words": 989,
   "htmlLang": "de"
  },
  {
@@ -15992,7 +15992,7 @@
    "/assets/salon-service-CTv0w0Vn.webp",
    "/assets/salon-team-CQl0bVOA.webp"
   ],
-  "words": 956,
+  "words": 955,
   "htmlLang": "de"
  },
  {
@@ -16040,7 +16040,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 226,
+  "words": 225,
   "htmlLang": "de"
  },
  {
@@ -16138,7 +16138,7 @@
    "/assets/salon-service-CTv0w0Vn.webp",
    "/assets/salon-team-CQl0bVOA.webp"
   ],
-  "words": 1005,
+  "words": 1004,
   "htmlLang": "de"
  },
  {
@@ -16185,7 +16185,7 @@
    "/assets/salon-service-CTv0w0Vn.webp",
    "/assets/salon-team-CQl0bVOA.webp"
   ],
-  "words": 964,
+  "words": 963,
   "htmlLang": "de"
  },
  {
@@ -16268,7 +16268,7 @@
    "/datenschutz"
   ],
   "images": [],
-  "words": 360,
+  "words": 355,
   "htmlLang": "de"
  },
  {
@@ -16315,7 +16315,7 @@
    "/assets/salon-service-CTv0w0Vn.webp",
    "/assets/salon-team-CQl0bVOA.webp"
   ],
-  "words": 942,
+  "words": 941,
   "htmlLang": "de"
  },
  {
@@ -16432,7 +16432,7 @@
    "/assets/salon-service-CTv0w0Vn.webp",
    "/assets/salon-team-CQl0bVOA.webp"
   ],
-  "words": 938,
+  "words": 937,
   "htmlLang": "de"
  },
  {
@@ -16479,7 +16479,7 @@
    "/assets/salon-service-CTv0w0Vn.webp",
    "/assets/salon-team-CQl0bVOA.webp"
   ],
-  "words": 969,
+  "words": 968,
   "htmlLang": "de"
  },
  {
@@ -16531,7 +16531,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 265,
+  "words": 264,
   "htmlLang": "de"
  },
  {
@@ -16548,7 +16548,7 @@
   "articlePublished": null,
   "articleModified": null,
   "h1": [
-   "Local Dominator"
+   "LocalDominate"
   ],
   "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
@@ -16570,7 +16570,7 @@
    "/"
   ],
   "images": [],
-  "words": 230,
+  "words": 229,
   "htmlLang": "de"
  },
  {
@@ -16617,7 +16617,7 @@
    "/assets/salon-service-CTv0w0Vn.webp",
    "/assets/salon-team-CQl0bVOA.webp"
   ],
-  "words": 976,
+  "words": 975,
   "htmlLang": "de"
  },
  {
@@ -19487,7 +19487,7 @@
    "/impressum"
   ],
   "images": [],
-  "words": 357,
+  "words": 356,
   "htmlLang": "de"
  },
  {
@@ -19504,7 +19504,7 @@
   "articlePublished": null,
   "articleModified": null,
   "h1": [
-   "Über Local Dominator"
+   "Über LocalDominate"
   ],
   "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
@@ -19539,7 +19539,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 181,
+  "words": 180,
   "htmlLang": "de"
  }
 ]

@@ -51,7 +51,7 @@ const FaqHub = () => {
   return (
     <>
       <SEOHead
-        title="FAQ Hub: Alle Local SEO Fragen beantwortet | Local Dominator"
+        title="FAQ Hub: Alle Local SEO Fragen beantwortet | LocalDominate"
         exactTitle
         description={`${totalCount}+ häufig gestellte Fragen zu Local SEO — von Grundlagen über Google Business Profil bis AI-Optimierung. Sofortige Antworten für DACH-Unternehmen.`}
       />

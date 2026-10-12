@@ -216,7 +216,7 @@ const ArztpraxisMarketing = () => {
       "@type": "Service",
       "name": "Praxis Pro - Local SEO für Arztpraxen",
       "description": "Professionelles Google Maps Marketing für Arztpraxen. Mehr Patienten durch Top-Rankings in der lokalen Suche. DSGVO-konform und YMYL-optimiert.",
-      "provider": { "@type": "Organization", "name": "Local Dominator" },
+      "provider": { "@type": "Organization", "name": "LocalDominate" },
       "offers": {
         "@type": "Offer",
         "price": "399",

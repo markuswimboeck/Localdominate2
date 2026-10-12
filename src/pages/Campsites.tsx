@@ -240,7 +240,7 @@ const Campsites = () => {
 
       <header className="sticky top-0 z-50 border-b border-border/60 bg-background/95 backdrop-blur">
         <div className="camp-mobile-header mx-auto flex h-16 max-w-7xl items-center gap-5 px-4 lg:px-8">
-          <Link to="/" className="shrink-0" aria-label="LocalDominate home"><img src={campLogo} alt="Local Dominator" width="232" height="77" className="camp-logo-img h-10 w-auto" /></Link>
+          <Link to="/" className="shrink-0" aria-label="LocalDominate home"><img src={campLogo} alt="LocalDominate" width="232" height="77" className="camp-logo-img h-10 w-auto" /></Link>
           <nav className="ml-auto hidden items-center gap-6 text-xs font-semibold lg:flex" aria-label="Campsites page navigation">
             <a href="#why">Why It Matters</a><a href="#process">How It Works</a><a href="#examples">Examples</a><a href="#faq">FAQ</a>
           </nav>

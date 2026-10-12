@@ -1028,7 +1028,7 @@ const KostenloseSeo = () => {
           <p className="text-muted-foreground">
             Nutze unser <Link to="/seo-lexikon" className="text-primary underline">SEO-Lexikon</Link> mit 
             50+ Begriffen, um dein Wissen zu vertiefen. Und wenn du professionelle Unterstützung 
-            möchtest, sind wir von Local Dominator für dich da!
+            möchtest, sind wir von LocalDominate für dich da!
           </p>
         </div>
       </section>

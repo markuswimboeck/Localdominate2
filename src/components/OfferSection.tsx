@@ -120,7 +120,7 @@ const OfferSection = () => {
               <span className="text-2xl">→</span>
               <div className="text-center">
                  <p className="text-4xl md:text-5xl font-bold text-foreground">{formatPrice(STANDARD_PRICE_EUR, language)}</p>
-                <p className="text-xs text-primary font-semibold">Local Dominator</p>
+                <p className="text-xs text-primary font-semibold">LocalDominate</p>
               </div>
             </div>
             <p className="text-muted-foreground mb-6">{t.offer.oneTime}</p>

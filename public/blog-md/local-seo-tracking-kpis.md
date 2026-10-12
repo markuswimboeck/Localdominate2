@@ -9,8 +9,8 @@ published: 2026-03-30
 updated: 2026-08-08
 reading_time_minutes: 16
 category: "Technik"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
 keywords: ["local seo kpis", "seo tracking", "local seo reporting", "google analytics lokal"]
 area_served: [Deutschland, Österreich, Schweiz]

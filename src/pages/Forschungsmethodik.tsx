@@ -19,7 +19,7 @@ const Forschungsmethodik = () => {
     "url": "https://localdominate.org/forschungsmethodik",
     "publisher": {
       "@type": "Organization",
-      "name": "Local Dominator",
+      "name": "LocalDominate",
       "url": "https://localdominate.org"
     }
   };
@@ -160,8 +160,8 @@ const Forschungsmethodik = () => {
 
   const title = language === "de" ? "Unsere Forschungsmethodik" : "Our Research Methodology";
   const metaDesc = language === "de"
-    ? "Wie Local Dominator SEO-Daten erhebt, analysiert und validiert. Unser 5-Stufen-Prozess für verlässliche, praxiserprobte Empfehlungen."
-    : "How Local Dominator collects, analyzes and validates SEO data. Our 5-step process for reliable, field-tested recommendations.";
+    ? "Wie LocalDominate SEO-Daten erhebt, analysiert und validiert. Unser 5-Stufen-Prozess für verlässliche, praxiserprobte Empfehlungen."
+    : "How LocalDominate collects, analyzes and validates SEO data. Our 5-step process for reliable, field-tested recommendations.";
 
   return (
     <>
@@ -176,7 +176,7 @@ const Forschungsmethodik = () => {
         <header className="sticky top-0 z-50 bg-background/95 backdrop-blur border-b border-border">
           <div className="container max-w-4xl py-4 flex items-center justify-between">
             <Link to="/" className="text-xl font-bold text-primary hover:text-primary/80 transition-colors">
-              Local Dominator
+              LocalDominate
             </Link>
           </div>
         </header>
