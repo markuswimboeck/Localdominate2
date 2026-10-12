@@ -68,7 +68,6 @@ const article: V4Article = {
           t: "ul",
           items: [
             "[Local Link Building](/blog/local-link-building): lokale Links ohne Regelverstoß aufbauen.",
-            "[Local Link Building Blueprint](/blog/local-link-building-blueprint): der ausführliche Leitfaden für lokale Backlinks.",
             "[Lokale Events für SEO nutzen](/blog/lokale-events-marketing): Sponsoring und Veranstaltungen.",
             "[Lokale Influencer-Kooperationen](/blog/lokale-influencer-kooperationen): Zusammenarbeit mit Creatorn aus der Region.",
           ],
@@ -86,7 +85,6 @@ const article: V4Article = {
           items: [
             "[NAP-Konsistenz](/blog/nap-konsistenz-local-seo): Firmendaten überall auf einen Stand bringen.",
             "[Citation-Tracking-Vorlage](/blog/citation-tracking-template): alle Einträge in einer Tabelle führen.",
-            "[Verzeichnisse in Deutschland, Österreich und der Schweiz](/blog/local-citations-2025): branchenspezifische Quellen.",
           ],
         },
       ],

@@ -2189,7 +2189,6 @@
    "/approach/position",
    "/approach/scale",
    "/blog",
-   "/blog/bewertungs-antworten-vorlagen",
    "/blog/faq-bewertungen-reputation",
    "/blog/gbp-bewertung-loeschen-anleitung",
    "/blog/google-bewertungen-bekommen",
@@ -2219,7 +2218,7 @@
    "/work"
   ],
   "images": [],
-  "words": 699,
+  "words": 687,
   "htmlLang": "de"
  },
  {
@@ -2462,7 +2461,6 @@
    "/blog/google-maps-seo-hub",
    "/blog/google-maps-seo-ranking-faktoren",
    "/blog/local-seo-case-study-baecker",
-   "/blog/local-seo-reporting-template",
    "/blog/tools-ressourcen-hub",
    "/creators",
    "/datenschutz",
@@ -2483,7 +2481,7 @@
    "/work"
   ],
   "images": [],
-  "words": 554,
+  "words": 546,
   "htmlLang": "de"
  },
  {
@@ -2821,11 +2819,9 @@
    "/blog/citation-tracking-template",
    "/blog/e-e-a-t-lokale-unternehmen",
    "/blog/geo-content-briefing-vorlage-2026",
-   "/blog/local-citations-2025",
    "/blog/local-content-marketing",
    "/blog/local-keyword-research-template",
    "/blog/local-link-building",
-   "/blog/local-link-building-blueprint",
    "/blog/local-seo-keywords-finden",
    "/blog/local-seo-notdienst-keywords",
    "/blog/lokale-events-marketing",
@@ -2855,7 +2851,7 @@
    "/work"
   ],
   "images": [],
-  "words": 733,
+  "words": 714,
   "htmlLang": "de"
  },
  {
@@ -5244,11 +5240,8 @@
    "/blog/google-business-insights-verstehen",
    "/blog/google-business-kategorien-guide",
    "/blog/google-business-messaging",
-   "/blog/google-business-produkte-services",
    "/blog/google-maps-seo-hub",
    "/blog/google-my-business-optimieren",
-   "/blog/google-posts-ranking-faktor",
-   "/blog/local-seo-mehrstufig-unternehmen",
    "/blog/local-seo-monthly-checklist",
    "/blog/nap-konsistenz-local-seo",
    "/blog/troubleshooting-hub",
@@ -5274,7 +5267,7 @@
    "/work"
   ],
   "images": [],
-  "words": 917,
+  "words": 890,
   "htmlLang": "de"
  },
  {
@@ -5789,13 +5782,16 @@
    "/blog/google-maps-ranking-tracker",
    "/blog/google-maps-ranking-verbessern",
    "/blog/google-maps-seo-ranking-faktoren",
+   "/blog/google-maps-seo-vs-organic-seo",
    "/blog/google-maps-spam-erkennen",
    "/blog/google-my-business-optimieren",
    "/blog/local-link-building",
    "/blog/local-seo-vs-maps-seo",
+   "/blog/local-seo-vs-organisch",
    "/blog/lokale-suchmaschinenoptimierung-2026",
    "/blog/nap-konsistenz-local-seo",
    "/blog/ranking-ploetzlich-verschwunden",
+   "/blog/wie-google-maps-ranking-funktioniert",
    "/creators",
    "/datenschutz",
    "/de",
@@ -5815,7 +5811,7 @@
    "/work"
   ],
   "images": [],
-  "words": 819,
+  "words": 854,
   "htmlLang": "de"
  },
  {
@@ -5965,6 +5961,7 @@
    "/blog/google-bewertungen-bekommen",
    "/blog/google-business-kategorien-guide",
    "/blog/google-maps-ranking-verbessern",
+   "/blog/google-maps-seo-hub",
    "/blog/google-maps-seo-ranking-faktoren",
    "/blog/google-my-business-optimieren",
    "/blog/local-link-building",
@@ -5993,7 +5990,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2773,
+  "words": 2777,
   "htmlLang": "de"
  },
  {
@@ -12768,6 +12765,7 @@
    "/blog/google-ai-overviews-local-seo",
    "/blog/google-bewertungen-bekommen",
    "/blog/google-maps-ranking-verbessern",
+   "/blog/google-maps-seo-hub",
    "/blog/google-maps-seo-vs-organic-seo",
    "/blog/google-my-business-optimieren",
    "/blog/local-link-building",
@@ -12793,7 +12791,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2800,
+  "words": 2804,
   "htmlLang": "de"
  },
  {
@@ -15147,14 +15145,12 @@
    "/blog",
    "/blog/ai-crawler-steuern-gptbot-claudebot-2026",
    "/blog/ai-zukunft-hub",
-   "/blog/core-web-vitals-local-seo",
    "/blog/entity-seo-guide",
    "/blog/gbp-mehrere-standorte",
    "/blog/google-maps-seo-hub",
    "/blog/llms-txt-lokale-unternehmen-2026",
    "/blog/local-seo-audit-checkliste",
    "/blog/local-seo-keywords-finden",
-   "/blog/local-seo-reporting-template",
    "/blog/local-seo-tracking-kpis",
    "/blog/local-seo-voice-search",
    "/blog/localbusiness-schema-implementierung",
@@ -15163,7 +15159,6 @@
    "/blog/review-schema-implementierung",
    "/blog/schema-markup-local-seo",
    "/blog/schema-strategie-ai-retrieval",
-   "/blog/schema-strategie-dokument",
    "/blog/technisches-local-seo-guide",
    "/creators",
    "/datenschutz",
@@ -15184,7 +15179,7 @@
    "/work"
   ],
   "images": [],
-  "words": 885,
+  "words": 854,
   "htmlLang": "de"
  },
  {
@@ -15345,9 +15340,7 @@
    "/blog/kostenloses-seo-guide",
    "/blog/local-keyword-research-template",
    "/blog/local-seo-audit-checkliste",
-   "/blog/local-seo-checkliste-komplett",
    "/blog/local-seo-monthly-checklist",
-   "/blog/local-seo-reporting-template",
    "/blog/local-seo-roadmap-90-tage",
    "/blog/local-seo-strategy-planner",
    "/blog/lokale-seo-fuer-neugruender",
@@ -15372,7 +15365,7 @@
    "/work"
   ],
   "images": [],
-  "words": 680,
+  "words": 668,
   "htmlLang": "de"
  },
  {
@@ -16062,6 +16055,7 @@
    "/blog/gbp-oeffnungszeiten-sondertage",
    "/blog/google-maps-ranking-tracker",
    "/blog/google-maps-ranking-verbessern",
+   "/blog/google-maps-seo-hub",
    "/blog/google-maps-seo-ranking-faktoren",
    "/blog/google-maps-seo-vs-organic-seo",
    "/blog/ranking-ploetzlich-verschwunden",
@@ -16084,7 +16078,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2598,
+  "words": 2602,
   "htmlLang": "de"
  },
  {

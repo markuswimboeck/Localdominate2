@@ -52,7 +52,6 @@ const article: V4Article = {
             "[LocalBusiness Schema implementieren](/blog/localbusiness-schema-implementierung): Anleitung mit Code-Beispielen.",
             "[Review Schema richtig einsetzen](/blog/review-schema-implementierung): wann Google Bewertungssterne zeigt.",
             "[Schema-Strategie für die KI-Suche](/blog/schema-strategie-ai-retrieval): was strukturierte Daten für KI-Antworten leisten und was ein Mythos ist.",
-            "[Schema-Strategie: welcher Typ wann](/blog/schema-strategie-dokument): Article, FAQPage, HowTo und LocalBusiness im Vergleich.",
             "[Entity SEO](/blog/entity-seo-guide): wie Google Ihren Betrieb eindeutig erkennt, mit sameAs und einheitlichen Daten.",
           ],
         },
@@ -73,7 +72,6 @@ const article: V4Article = {
           t: "ul",
           items: [
             "[Mobile Local SEO](/blog/mobile-local-seo): der Weg vom Suchtreffer zum Anruf auf dem Smartphone.",
-            "[Core Web Vitals für lokale Websites](/blog/core-web-vitals-local-seo): Ladezeit, Reaktionszeit und stabile Darstellung.",
           ],
         },
       ],
@@ -121,7 +119,6 @@ const article: V4Article = {
           t: "ul",
           items: [
             "[Local SEO Tracking](/blog/local-seo-tracking-kpis): Kennzahlen und Berichte einrichten.",
-            "[Local SEO Reporting Template](/blog/local-seo-reporting-template): die Vorlage für den Monatsbericht.",
           ],
         },
       ],
