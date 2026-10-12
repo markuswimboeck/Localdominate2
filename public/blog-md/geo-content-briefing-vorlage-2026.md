@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/geo-content-briefing-vorlage-2026
 markdown_url: https://localdominate.org/blog-md/geo-content-briefing-vorlage-2026.md
 language: de-DE
 published: 2026-08-08
-updated: 2026-10-11
+updated: 2026-10-12
 reading_time_minutes: 13
 category: "KI-Suche"
 author: LocalDominate Redaktion
@@ -59,7 +59,7 @@ Google sagt: für Menschen schreiben, eigene Erfahrung zeigen, klar gliedern, ke
 | Microsoft | Wichtige Angaben nicht nur in PDF, Bild oder eingeklappten Bereichen | Feld „Fakten“ verlangt HTML-Text, sichtbar ohne Klick |
 | OpenAI | Suchergebnisse und Zitate können unvollständig, veraltet oder falsch sein | Feld „Stand“: Datum jeder Angabe und sichtbares Aktualisierungsdatum |
 
-> **Einschätzung:** Google und Microsoft setzen die Akzente unterschiedlich. Google warnt davor, Inhalte künstlich zu zerstückeln, Microsoft empfiehlt gut abgegrenzte Abschnitte. Beides passt zusammen, wenn jeder Abschnitt eine Frage vollständig beantwortet und für Leser sinnvoll bleibt. Eine Seite in viele Mini-Absätze zu zerlegen, nur damit eine Maschine sie besser zerschneiden kann, empfehlen wir nicht.
+> **Einschätzung:** Google und Microsoft setzen die Akzente unterschiedlich. Google schreibt, dass Inhalte nicht in kleine Stücke zerlegt werden müssen, Microsoft empfiehlt gut abgegrenzte Abschnitte. Beides passt zusammen, wenn jeder Abschnitt eine Frage vollständig beantwortet und für Leser sinnvoll bleibt. Eine Seite in viele Mini-Absätze zu zerlegen, nur damit eine Maschine sie besser zerschneiden kann, empfehlen wir nicht.
 
 ## Die Felder der Vorlage im Überblick
 
@@ -144,7 +144,7 @@ Jede Angabe im Faktenfeld bekommt eine Quelle, ein Datum und eine Person, die si
 - **Kein Schein-Update:** Google nennt es ein Warnzeichen, das Datum einer Seite zu ändern, damit sie frisch wirkt, obwohl sich der Inhalt kaum geändert hat.
 - **Wer und wie:** Google fragt in seiner Selbstprüfung, ob erkennbar ist, wer einen Inhalt erstellt hat und ob der Einsatz von Automatisierung, auch KI, für Besucher nachvollziehbar ist.
 
-> **KI als Schreibhilfe:** Wenn Sie den Text mit einem KI-Werkzeug entwerfen, schreibt Google: Alle KI-generierten Inhalte müssen von Hand auf Richtigkeit geprüft werden, auch Titel, Beschreibung und Alternativtexte von Bildern. Das Faktenfeld des Briefings ist dafür die Prüfgrundlage. Welche Werkzeuge sich eignen und was der Datenschutz verlangt, steht in [KI-Tools für Local SEO](https://localdominate.org/blog/ki-tools-local-seo).
+> **KI als Schreibhilfe:** Wenn Sie den Text mit einem KI-Werkzeug entwerfen, nennt Google es entscheidend, alle KI-generierten Inhalte vor der Veröffentlichung von Hand auf Richtigkeit und Vertrauenswürdigkeit zu prüfen, auch Titel, Beschreibung und Alternativtexte von Bildern. Das Faktenfeld des Briefings ist dafür die Prüfgrundlage. Welche Werkzeuge sich eignen und was der Datenschutz verlangt, steht in [KI-Tools für Local SEO](https://localdominate.org/blog/ki-tools-local-seo).
 
 ## Vom Briefing zum Text: worauf Schreibende achten
 
@@ -160,7 +160,7 @@ Wie man ganze Seitentypen für KI-Suchen aufbaut und wie ein Text vor und nach d
 
 ## Das Ergebnis prüfen: vor und nach der Veröffentlichung
 
-Vor der Freigabe prüfen Sie die Seite mit einer kurzen Liste gegen das Briefing. Nach der Veröffentlichung zeigen der Bericht zu generativer KI in der Search Console und der Bereich AI Performance in den Bing Webmaster Tools, ob die Seite in KI-Antworten auftaucht. Feste Stichproben zeigen, was dort über Sie steht.
+Vor der Freigabe prüfen Sie die Seite mit einer kurzen Liste gegen das Briefing. Nach der Veröffentlichung zeigen der Leistungsbericht zu generativen KI-Funktionen in der Search Console und der Bereich AI Performance in den Bing Webmaster Tools, ob die Seite in KI-Antworten auftaucht. Feste Stichproben zeigen, was dort über Sie steht.
 
 ### Prüfliste vor der Freigabe
 
@@ -179,7 +179,7 @@ Vor der Freigabe prüfen Sie die Seite mit einer kurzen Liste gegen das Briefing
 
 | Werkzeug | Was es zeigt | Grenze |
 | --- | --- | --- |
-| Search Console, Bericht zu generativer KI (seit 31. August 2026 für alle Websites freigeschaltet, bei genügend Daten) | Impressionen Ihrer Seiten in Übersichten mit KI und im KI-Modus, nach Seiten, Ländern, Datum und Gerät | Keine Aufschlüsselung nach Suchanfragen |
+| Search Console, Leistungsbericht zu generativen KI-Funktionen (Google Suche), seit 31. August 2026 für alle Websites verfügbar, bei genügend Impressionen | Impressionen Ihrer Seiten in Übersichten mit KI und im KI-Modus, nach Seiten, Ländern, Datum und Gerät | Suchanfragen und Klicks nennt die Hilfeseite nicht, ebenso keine getrennte Auswertung nach Übersichten mit KI und KI-Modus |
 | Bing Webmaster Tools, AI Performance (im Februar 2026 als öffentliche Vorschau gestartet) | Zitate Ihrer Seiten in Copilot, KI-Zusammenfassungen in Bing und bei ausgewählten Partnern; Beispiele für Suchphrasen | Zeigt laut Microsoft, wie oft zitiert wird, nicht Rang oder Platzierung |
 | Stichproben in ChatGPT und anderen Diensten | Ob Ihr Betrieb genannt wird, mit welchen Angaben und welchen Quellen | Antworten schwanken; Stichproben sind Momentaufnahmen |
 
@@ -219,7 +219,7 @@ Eine feste Länge dokumentiert kein Anbieter, Google schreibt sogar, es gebe kei
 
 ### Darf ich den Text mit einem KI-Werkzeug schreiben lassen?
 
-Ja, Google verbietet KI als Schreibhilfe nicht. Der Inhalt muss aber die Grundanforderungen der Google-Suche erfüllen, und Google verlangt, alle KI-generierten Inhalte von Hand auf Richtigkeit zu prüfen. Viele Seiten ohne Mehrwert mit KI zu erzeugen, kann gegen die Spam-Richtlinien verstoßen.
+Ja, Google verbietet KI als Schreibhilfe nicht. Der Inhalt muss aber die Grundanforderungen der Google-Suche erfüllen, und Google nennt es entscheidend, alle KI-generierten Inhalte vor der Veröffentlichung von Hand zu prüfen. Viele Seiten ohne Mehrwert mit KI zu erzeugen, kann gegen die Spam-Richtlinien verstoßen.
 
 ### Woran erkenne ich, ob die Seite in KI-Antworten genutzt wird?
 
@@ -234,7 +234,7 @@ Die Search Console zeigt seit 31. August 2026 Impressionen in Übersichten mit K
 - [General structured data guidelines (Stand 10.07.2026)](https://developers.google.com/search/docs/appearance/structured-data/sd-policies), Google Search Central
 - [Spam policies for Google web search (Stand 28.08.2026)](https://developers.google.com/search/docs/essentials/spam-policies), Google Search Central
 - [Influence your byline dates in Google Search (Stand 10.12.2025)](https://developers.google.com/search/docs/appearance/publication-dates), Google Search Central
-- [Generative AI performance report (Search)](https://support.google.com/webmasters/answer/16984139), Search Console Help
+- [Leistungsbericht zu generativen KI-Funktionen (Google Suche)](https://support.google.com/webmasters/answer/16984139?hl=de), Search Console-Hilfe
 - [Optimizing Your Content for Inclusion in AI Search Answers (8. Oktober 2025)](https://about.ads.microsoft.com/en/blog/post/october-2025/optimizing-your-content-for-inclusion-in-ai-search-answers), Microsoft Advertising Blog
 - [Introducing AI Performance in Bing Webmaster Tools Public Preview (10. Februar 2026)](https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview), Bing Webmaster Blog
 - [ChatGPT search](https://help.openai.com/en/articles/9237897-chatgpt-search), OpenAI Help Center
@@ -242,4 +242,4 @@ Die Search Console zeigt seit 31. August 2026 Impressionen in Übersichten mit K
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org

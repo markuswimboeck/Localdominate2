@@ -145,7 +145,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Unsere Einschätzung: Solange Amazon keine Quelle nennt, gibt es für Alexa keine gezielte Maßnahme. Der einzige sinnvolle Schritt ist, Ihre Angaben auf allen verbreiteten Plattformen einheitlich zu halten. Wie Sie das prüfen, beschreibt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo). Bing Places gehört dazu, allerdings wegen Bing, nicht wegen Alexa. Was Microsoft zu Bing Places und Copilot schreibt, steht in [Bing, Copilot und Local SEO](/blog/bing-copilot-local-seo-2026).",
+          text: "Unsere Einschätzung: Solange Amazon keine Quelle nennt, gibt es für Alexa keine gezielte Maßnahme. Der einzige sinnvolle Schritt ist, Ihre Angaben auf allen verbreiteten Plattformen einheitlich zu halten. Wie Sie das prüfen, beschreibt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo). Bing Places gehört dazu, allerdings wegen Bing, nicht wegen Alexa.",
         },
       ],
     },

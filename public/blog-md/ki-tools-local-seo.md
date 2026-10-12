@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/ki-tools-local-seo
 markdown_url: https://localdominate.org/blog-md/ki-tools-local-seo.md
 language: de-DE
 published: 2026-01-10
-updated: 2026-10-11
+updated: 2026-10-12
 reading_time_minutes: 13
 category: "KI im Betrieb"
 author: LocalDominate Redaktion
@@ -21,7 +21,7 @@ Für Inhaber kleiner Betriebe, die KI-Assistenten für Bewertungsantworten, Prof
 
 ## Die kurze Antwort
 
-KI-Assistenten wie ChatGPT, Claude, Gemini oder Copilot eignen sich für Entwürfe: Antworten auf Bewertungen, Profilbeschreibung, Beiträge, Gliederungen und die Auswertung vieler Bewertungen. Google verbietet KI-Texte nicht, verlangt aber, dass Sie sie auf Richtigkeit prüfen und keine Massenseiten ohne Mehrwert erzeugen. Kundendaten gehören nicht in private Konten. Wer KI beruflich nutzt, muss außerdem für KI-Kompetenz im Team sorgen.
+KI-Assistenten wie ChatGPT, Claude, Gemini oder Copilot eignen sich für Entwürfe: Antworten auf Bewertungen, Profilbeschreibung, Beiträge, Gliederungen und die Auswertung vieler Bewertungen. Google verbietet KI-Texte nicht, nennt die Prüfung auf Richtigkeit aber entscheidend und zählt Massenseiten ohne Mehrwert zum Spam. Kundendaten gehören nicht in private Konten. Wer KI beruflich nutzt, muss außerdem für KI-Kompetenz im Team sorgen.
 
 ## Das Wichtigste in Kürze
 
@@ -148,9 +148,9 @@ In Deutschland und Österreich gilt die DSGVO, in der Schweiz das Datenschutzges
 
 | Werkzeug | Private Konten | Geschäftstarife |
 | --- | --- | --- |
-| ChatGPT (OpenAI) | Training über „Improve the model for everyone“ in den Datenkontrollen abschaltbar; temporäre Chats bis zu 30 Tage gespeichert | Business, Enterprise, Edu und API laut OpenAI standardmäßig ohne Training; Auftragsverarbeitungsvertrag wird unterstützt |
+| ChatGPT (OpenAI) | Training über „Das Modell für alle verbessern“ in den Datenkontrollen abschaltbar; temporäre Chats bis zu 30 Tage gespeichert | Business, Enterprise, Edu und API laut OpenAI standardmäßig ohne Training; Auftragsverarbeitungsvertrag wird unterstützt |
 | Claude (Anthropic) | Free, Pro und Max: Nutzer entscheiden seit den Verbraucherbedingungen vom August 2025 selbst; bei Zustimmung bis zu fünf Jahre Speicherung | Kommerzielle Produkte wie Claude for Work und API laut Anthropic ohne Training |
-| Gemini (Google) | Bei aktivierter Aktivität Nutzung auch zum Training; ein Teil der Chats wird von Menschen gelesen; Google rät, keine vertraulichen Daten einzugeben | Nicht in diesem Artikel geprüft |
+| Gemini (Google) | Bei aktivierter Einstellung „Aktivitäten speichern“ Nutzung auch zum Training; ein Teil der Chats wird von Menschen gelesen; Google rät, keine vertraulichen Daten einzugeben | Nicht in diesem Artikel geprüft |
 | Copilot (Microsoft) | Training außer bei bestimmten Nutzern oder nach Widerspruch, Wirkung bis zu 30 Tage | Mit Organisationskonto (Entra ID) laut Microsoft vom Training ausgenommen |
 
 Die Anbieter ändern ihre Bedingungen regelmäßig. Prüfen Sie die Einstellungen beim Einrichten und danach mindestens einmal im Jahr.
@@ -210,13 +210,13 @@ Eine belastbare Rangliste gibt es nicht, und für Entwürfe eignen sich die gro�
 - [Orientierungshilfe Künstliche Intelligenz und Datenschutz, Version 1.0 (6. Mai 2024)](https://www.datenschutzkonferenz-online.de/media/oh/20240506_DSK_Orientierungshilfe_KI_und_Datenschutz.pdf), Datenschutzkonferenz (DSK)
 - [Update: Geltendes Datenschutzgesetz ist auf KI direkt anwendbar (8. Mai 2025)](https://www.edoeb.admin.ch/de/update-geltendes-datenschutzgesetz-ist-auf-ki-direkt-anwendbar), Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)
 - [AI literacy: questions and answers (Stand 27. Juli 2026)](https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers), Europäische Kommission
-- [Data Controls FAQ](https://help.openai.com/en/articles/7730893-data-controls-faq), OpenAI Help Center
+- [Data Controls FAQ (deutsche Fassung)](https://help.openai.com/de-de/articles/7730893-data-controls-faq), OpenAI Help Center
 - [Business data privacy, security, and compliance](https://openai.com/business-data/), OpenAI
 - [Updates to Consumer Terms and Privacy Policy (28. August 2025)](https://www.anthropic.com/news/updates-to-our-consumer-terms), Anthropic
 - [Is my data used for model training? (Stand 18. August 2026)](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training), Anthropic Privacy Center
-- [Gemini Apps Privacy Hub](https://support.google.com/gemini/answer/13594961?hl=en), Google Gemini Help
+- [Privacy Hub für Gemini-Apps](https://support.google.com/gemini/answer/13594961?hl=de), Gemini-Apps-Hilfe (Google)
 - [Privacy FAQ for Microsoft Copilot](https://support.microsoft.com/en-us/topic/privacy-faq-for-microsoft-copilot-27b3a435-8dc9-4b55-9a4b-58eeb9647a7f), Microsoft Support
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
