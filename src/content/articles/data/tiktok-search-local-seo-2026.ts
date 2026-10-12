@@ -20,7 +20,7 @@ const article: V4Article = {
     "TikTok ergänzt das Google-Unternehmensprofil, ersetzt es aber nicht. Ihr TikTok-Konto können Sie dort als Social-Media-Link eintragen.",
   ],
   publishedAt: "2026-05-22",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 12,
   sections: [
     {
@@ -54,7 +54,7 @@ const article: V4Article = {
       id: "was-tiktok-dokumentiert",
       title: "Was TikTok über Empfehlungen und Suche schreibt",
       answer:
-        "TikTok nennt für seine Empfehlungen drei Gruppen von Signalen: Interaktionen der Nutzer, Informationen zum Video wie Beschreibung, Ton und Hashtags sowie Geräte- und Kontoeinstellungen wie Sprache und Land. Eine Liste von Rangfaktoren speziell für die Suche haben wir bei TikTok nicht gefunden.",
+        "TikTok nennt für seine Empfehlungen drei Gruppen von Signalen: Interaktionen der Nutzer, Informationen zum Video wie Beschreibung, Ton und Hashtags sowie Geräte- und Kontoeinstellungen wie Sprache und Land. Für die Suche nennt TikTok in seiner Hilfe ähnliche Gruppen und schreibt, dass für viele Nutzer in der Regel die Passung zwischen Suchbegriff und Inhalt am stärksten zählt. Zahlen zur Gewichtung nennt TikTok nicht.",
       blocks: [
         {
           t: "p",
@@ -183,7 +183,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Einschätzung",
-          text: "TikTok dokumentiert nicht, wie stark einzelne Angaben in der Suche zählen. Die Hinweise oben folgen aus den Signalgruppen, die TikTok nennt, und aus den Regeln für den Nearby-Feed. Eine bestimmte Häufigkeit oder Videolänge können wir nicht als belegt empfehlen. Weitere Themenideen finden Sie in [Local Content Marketing](/blog/local-content-marketing).",
+          text: "TikTok dokumentiert nicht genau, wie stark einzelne Angaben in der Suche zählen; es schreibt nur, dass für viele Nutzer in der Regel die Passung zum Suchbegriff mehr zählt als andere Faktoren. Die Hinweise oben folgen aus den Signalgruppen, die TikTok nennt, und aus den Regeln für den Nearby-Feed. Eine bestimmte Häufigkeit oder Videolänge können wir nicht als belegt empfehlen. Weitere Themenideen finden Sie in [Local Content Marketing](/blog/local-content-marketing).",
         },
       ],
     },
@@ -286,6 +286,7 @@ const article: V4Article = {
     { title: "Nearby feed", publisher: "TikTok Support", url: "https://support.tiktok.com/en/using-tiktok/exploring-videos/nearby" },
     { title: "TikTok rolls out a Nearby Feed to display local content in select countries (4. Dezember 2025)", publisher: "TechCrunch", url: "https://techcrunch.com/2025/12/04/tiktok-rolls-out-a-nearby-feed-to-display-local-content-in-select-countries/" },
     { title: "How TikTok recommends videos #ForYou (18. Juni 2020)", publisher: "TikTok Newsroom", url: "https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you" },
+    { title: "How TikTok recommends content (japanische Fassung der TikTok-Hilfe, Abschnitt zur Suche)", publisher: "TikTok Support", url: "https://support.tiktok.com/ja/using-tiktok/exploring-videos/how-tiktok-recommends-content" },
     { title: "Fulfilling our commitments under the Digital Services Act (4. August 2023)", publisher: "TikTok Newsroom", url: "https://newsroom.tiktok.com/en-eu/fulfilling-commitments-dsa-update" },
     { title: "How to Switch to a TikTok Business Account", publisher: "TikTok Business Help Center", url: "https://ads.tiktok.com/help/article/switch-to-tiktok-business-account?lang=en" },
     { title: "Commercial Music Library", publisher: "TikTok Business Help Center", url: "https://ads.tiktok.com/help/article/commercial-music-library?lang=en" },

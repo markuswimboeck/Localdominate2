@@ -46,7 +46,7 @@ Klassische Suchmaschinenoptimierung zielt auf Rankings unabhängig vom Ort. Loca
 | Kartenblock in der Suche | Meist drei Betriebe mit Karte, Bewertung, Öffnungszeiten | Google-Unternehmensprofil |
 | Google Maps | Alle passenden Betriebe im Kartenausschnitt | Google-Unternehmensprofil |
 | Organische Treffer | Websites mit Bezug zur Suche und zum Ort | Ihre Website |
-| KI-Übersichten und KI-Assistenten | Zusammengefasste Antworten mit Nennungen und Links | Profil, Website und Erwähnungen im Netz |
+| Übersichten mit KI und KI-Assistenten | Zusammengefasste Antworten mit Nennungen und Links | Profil, Website und Erwähnungen im Netz |
 
 ## Wie Google lokale Ergebnisse sortiert
 
@@ -139,7 +139,7 @@ Gekaufte Linkpakete und Massen-Gastartikel bringen lokal wenig und sind ein Risi
 
 ## Local SEO und KI-Suche
 
-Google zeigt seit März 2025 auch in Deutschland KI-Übersichten, und viele Menschen fragen ChatGPT oder Perplexity nach Empfehlungen. Diese Systeme stützen sich auf dieselben Quellen: Profil, Website, Bewertungen und Erwähnungen.
+Google zeigt seit März 2025 auch in Deutschland Übersichten mit KI, und viele Menschen fragen ChatGPT oder Perplexity nach Empfehlungen. Diese Systeme stützen sich auf dieselben Quellen: Profil, Website, Bewertungen und Erwähnungen.
 
 Für KI-Antworten zählt, ob Ihre Angaben eindeutig und überall gleich sind. Ein KI-System, das auf der Website „ab 2025 neue Öffnungszeiten“ und im Profil die alten findet, nennt im Zweifel keinen von beiden Werten oder den falschen.
 
@@ -148,7 +148,7 @@ Für KI-Antworten zählt, ob Ihre Angaben eindeutig und überall gleich sind. Ei
 3. Halten Sie Profil, Website und wichtige Verzeichnisse auf demselben Stand.
 4. Lassen Sie KI-Crawler zu, wenn Sie in KI-Antworten erscheinen wollen (robots.txt prüfen).
 
-Was KI-Übersichten konkret für lokale Betriebe bedeuten, beschreibt der Artikel [Google AI Overviews und Local SEO](https://localdominate.org/blog/google-ai-overviews-local-seo). Einen Überblick, was sich seit 2024 in der lokalen Suche geändert hat, finden Sie in [Lokale Suchmaschinenoptimierung 2026](https://localdominate.org/blog/lokale-suchmaschinenoptimierung-2026).
+Was Übersichten mit KI konkret für lokale Betriebe bedeuten, beschreibt der Artikel [Google AI Overviews und Local SEO](https://localdominate.org/blog/google-ai-overviews-local-seo). Einen Überblick, was sich seit 2024 in der lokalen Suche geändert hat, finden Sie in [Lokale Suchmaschinenoptimierung 2026](https://localdominate.org/blog/lokale-suchmaschinenoptimierung-2026).
 
 ## Abkürzungen, die Ihnen schaden
 
