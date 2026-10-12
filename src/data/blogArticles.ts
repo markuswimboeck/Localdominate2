@@ -126,7 +126,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 14,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-12",
     icon: "🏆",
     keywords: ["local seo", "local seo guide", "lokale suchmaschinenoptimierung", "local seo strategie", "google business profil", "local seo ranking faktoren", "local seo dach"],
     featured: true
@@ -150,7 +150,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-01-09",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-12",
     icon: "💡",
     keywords: ["kostenloses seo", "seo kostenlos", "gratis seo tools", "seo für anfänger", "local seo kostenlos", "seo lernen"],
     featured: true
@@ -242,7 +242,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-12",
     icon: "🍽️",
     keywords: ["restaurant seo", "local seo restaurant", "gastro marketing"]
   },

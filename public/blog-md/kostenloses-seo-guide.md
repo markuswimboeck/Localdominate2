@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/kostenloses-seo-guide
 markdown_url: https://localdominate.org/blog-md/kostenloses-seo-guide.md
 language: de-DE
 published: 2026-01-09
-updated: 2026-10-10
+updated: 2026-10-12
 reading_time_minutes: 13
 category: "Grundlagen"
 author: LocalDominate Redaktion
@@ -131,7 +131,7 @@ Spezifische Begriffe wie „Notdienst Heizung Graz Wochenende“ werden seltener
 
 ## Bewertungen und Erwähnungen ohne Budget
 
-Bewertungen und Erwähnungen von anderen Websites tragen zur Bekanntheit bei, die Google für das lokale Ranking nennt. Beides können Sie kostenlos aufbauen, solange Sie sich an die Regeln halten.
+Rezensionen und Websites, die auf Ihr Unternehmen verweisen, zählen laut Google zur Bekanntheit im lokalen Ranking. Beides können Sie kostenlos aufbauen, solange Sie sich an die Regeln halten.
 
 *Kostenlos und erlaubt, oder gegen Googles Richtlinien*
 
@@ -225,4 +225,4 @@ Ja. Handwerker und mobile Dienste blenden ihre Adresse aus und geben ein Einzugs
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
