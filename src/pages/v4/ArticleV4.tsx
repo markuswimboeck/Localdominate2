@@ -19,8 +19,36 @@ const formatDate = (iso: string): string => {
   return `${d}. ${MONTHS[m - 1]} ${y}`;
 };
 
+/** Every /blog link in the sections of a hub, first occurrence wins, in reading order. */
+function hubItems(a: V4Article): { name: string; url: string }[] {
+  const seen = new Set<string>();
+  const items: { name: string; url: string }[] = [];
+  const texts = a.sections.flatMap((s) =>
+    s.blocks.flatMap((b) =>
+      b.t === "ul" || b.t === "ol"
+        ? b.items
+        : b.t === "p" || b.t === "note"
+          ? [b.text]
+          : b.t === "steps"
+            ? b.items.map((i) => i.text)
+            : b.t === "table"
+              ? b.rows.flat()
+              : [],
+    ),
+  );
+  for (const t of texts) {
+    for (const m of t.matchAll(/\[([^\]]+)\]\((\/blog\/[a-z0-9-]+)\)/g)) {
+      if (m[2] === `/blog/${a.slug}` || seen.has(m[2])) continue;
+      seen.add(m[2]);
+      items.push({ name: m[1], url: `${SITE}${m[2]}` });
+    }
+  }
+  return items;
+}
+
 function jsonLd(a: V4Article) {
   const url = `${SITE}/blog/${a.slug}`;
+  const items = a.hub ? hubItems(a) : [];
   return {
       "@context": "https://schema.org",
       "@graph": [
@@ -56,7 +84,7 @@ function jsonLd(a: V4Article) {
           citation: a.sources.map((s) => ({ "@type": "CreativeWork", name: s.title, url: s.url, publisher: s.publisher })),
         },
         {
-          "@type": "WebPage",
+          "@type": a.hub ? ["WebPage", "CollectionPage"] : "WebPage",
           "@id": `${url}#webpage`,
           url,
           name: a.seoTitle,
@@ -65,7 +93,19 @@ function jsonLd(a: V4Article) {
           isPartOf: { "@id": `${SITE}/#website` },
           breadcrumb: { "@id": `${url}#breadcrumb` },
           dateModified: a.updatedAt,
+          ...(a.hub ? { mainEntity: { "@id": `${url}#articles` } } : {}),
         },
+        ...(a.hub
+          ? [
+              {
+                "@type": "ItemList",
+                "@id": `${url}#articles`,
+                name: a.h1,
+                numberOfItems: items.length,
+                itemListElement: items.map((it, i) => ({ "@type": "ListItem", position: i + 1, name: it.name, url: it.url })),
+              },
+            ]
+          : []),
         {
           "@type": "BreadcrumbList",
           "@id": `${url}#breadcrumb`,
