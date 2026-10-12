@@ -14,7 +14,7 @@ export default function MeineKunden() {
   return (
     <div className="min-h-screen bg-background">
       <SEOHead 
-        title="Meine Kunden - Local Dominator"
+        title="Meine Kunden - LocalDominate"
         description="Interne Kundenverwaltung"
         noindex={true}
       />

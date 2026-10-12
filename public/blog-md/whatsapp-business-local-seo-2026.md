@@ -9,8 +9,8 @@ published: 2026-08-08
 updated: 2026-08-08
 reading_time_minutes: 10
 category: "Local SEO Grundlagen"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
 keywords: ["whatsapp business local seo", "wa.me link website", "whatsapp unternehmensprofil", "nap konsistenz messenger", "whatsapp datenschutz unternehmen"]
 area_served: [Deutschland, Österreich, Schweiz]

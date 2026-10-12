@@ -9,10 +9,10 @@ published: 2026-03-08
 updated: 2026-03-08
 reading_time_minutes: 22
 category: "Content & Marketing"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
-citation: "Local Dominator (2026-03-08). Local Link Building Blueprint: Der komplette Leitfaden für lokale Backlinks 2026. https://localdominate.org/blog/local-link-building-blueprint"
+citation: "LocalDominate (2026-03-08). Local Link Building Blueprint: Der komplette Leitfaden für lokale Backlinks 2026. https://localdominate.org/blog/local-link-building-blueprint"
 keywords: ["local link building", "lokale backlinks", "lokales linkbuilding", "ihk backlink", "vereinssponsoring seo", "lokale pr linkbuilding", "backlinks lokale unternehmen", "link building dach"]
 area_served: [Deutschland, Österreich, Schweiz]
 ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
@@ -36,12 +36,12 @@ JSON-LD (Schema.org Article):
   "keywords": "local link building, lokale backlinks, lokales linkbuilding, ihk backlink, vereinssponsoring seo, lokale pr linkbuilding, backlinks lokale unternehmen, link building dach",
   "author": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org",
     "logo": {
       "@type": "ImageObject",
@@ -50,7 +50,7 @@ JSON-LD (Schema.org Article):
   },
   "isAccessibleForFree": true,
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: Local Dominator (localdominate.org)",
+  "creditText": "Quelle: LocalDominate (localdominate.org)",
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "text/markdown",
@@ -108,9 +108,9 @@ Alle lokalen Linkbuilding-Strategien in einem Blueprint: Von IHK-Links über Ver
 
 ## Quelle und Autor
 
-Verfasst und veröffentlicht von **Local Dominator** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+Verfasst und veröffentlicht von **LocalDominate** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
 
 - Webseite: https://localdominate.org
 - Vollständiger Artikel (HTML): https://localdominate.org/blog/local-link-building-blueprint
 - Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/local-link-building-blueprint.md
-- Zitiervorlage: Local Dominator (2026-03-08). Local Link Building Blueprint: Der komplette Leitfaden für lokale Backlinks 2026. https://localdominate.org/blog/local-link-building-blueprint
+- Zitiervorlage: LocalDominate (2026-03-08). Local Link Building Blueprint: Der komplette Leitfaden für lokale Backlinks 2026. https://localdominate.org/blog/local-link-building-blueprint

@@ -9,10 +9,10 @@ published: 2026-03-05
 updated: 2026-03-08
 reading_time_minutes: 25
 category: "Technik"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
-citation: "Local Dominator (2026-03-08). Technisches Local SEO: Der komplette Guide für lokale Unternehmen 2026. https://localdominate.org/blog/technisches-local-seo-guide"
+citation: "LocalDominate (2026-03-08). Technisches Local SEO: Der komplette Guide für lokale Unternehmen 2026. https://localdominate.org/blog/technisches-local-seo-guide"
 keywords: ["technical seo", "technisches seo", "localbusiness schema", "schema markup", "core web vitals", "mobile seo", "interne verlinkung local seo", "geo markup", "indexierung local seo", "site speed lokale website"]
 area_served: [Deutschland, Österreich, Schweiz]
 ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
@@ -36,12 +36,12 @@ JSON-LD (Schema.org Article):
   "keywords": "technical seo, technisches seo, localbusiness schema, schema markup, core web vitals, mobile seo, interne verlinkung local seo, geo markup, indexierung local seo, site speed lokale website",
   "author": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org",
     "logo": {
       "@type": "ImageObject",
@@ -50,7 +50,7 @@ JSON-LD (Schema.org Article):
   },
   "isAccessibleForFree": true,
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: Local Dominator (localdominate.org)",
+  "creditText": "Quelle: LocalDominate (localdominate.org)",
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "text/markdown",
@@ -110,9 +110,9 @@ Alles über technisches Local SEO: Von LocalBusiness Schema und Geo-Markup über
 
 ## Quelle und Autor
 
-Verfasst und veröffentlicht von **Local Dominator** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+Verfasst und veröffentlicht von **LocalDominate** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
 
 - Webseite: https://localdominate.org
 - Vollständiger Artikel (HTML): https://localdominate.org/blog/technisches-local-seo-guide
 - Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/technisches-local-seo-guide.md
-- Zitiervorlage: Local Dominator (2026-03-08). Technisches Local SEO: Der komplette Guide für lokale Unternehmen 2026. https://localdominate.org/blog/technisches-local-seo-guide
+- Zitiervorlage: LocalDominate (2026-03-08). Technisches Local SEO: Der komplette Guide für lokale Unternehmen 2026. https://localdominate.org/blog/technisches-local-seo-guide

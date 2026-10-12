@@ -40,15 +40,22 @@ Crawl-delay: 10
 
 # AI Crawler erlauben (für LLM-Training/Indexierung)
 User-agent: GPTBot
-Allow: /blog/
-Allow: /blog-md/
-Allow: /seo-lexikon/
-Allow: /llms.txt
-Allow: /llms-full.txt
-Allow: /ai-citation-manifest.json
-Allow: /ai-answer-index.json
-Allow: /.well-known/ai.txt
+Allow: /
+Disallow: /api/
 Disallow: /admin/
+Disallow: /analytics/
+Disallow: /ab-test-dashboard
+Disallow: /ab-test
+Disallow: /ab-test-zentrale
+Disallow: /meine-kunden
+Disallow: /_analytics/
+Disallow: /*?*utm_
+Disallow: /*?*ref=
+Disallow: /*?*source=
+Disallow: /*?*fbclid=
+Disallow: /*?*gclid=
+Disallow: /danke
+Disallow: /onboarding
 
 User-agent: ChatGPT-User
 Allow: /

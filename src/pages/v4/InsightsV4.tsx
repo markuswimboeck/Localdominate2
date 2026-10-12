@@ -14,7 +14,7 @@ import "@/components/v4/insights/insights.css";
 
 const SITE = "https://localdominate.org";
 const PAGE_URL = `${SITE}/insights`;
-const TITLE = "Insights: Local SEO and AI Search Guides | Local Dominator";
+const TITLE = "Insights: Local SEO and AI Search Guides | LocalDominate";
 const DESCRIPTION = `Search ${INSIGHT_ARTICLES.length} guides on Google Maps, your business profile, reviews, AI search and measurement, for hotels, holiday rentals, trades and local services.`;
 
 const JSON_LD = {

@@ -9,10 +9,10 @@ published: 2026-01-17
 updated: 2026-01-17
 reading_time_minutes: 18
 category: "Technik"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
-citation: "Local Dominator (2026-01-17). Core Web Vitals für lokale Websites: Performance-Guide. https://localdominate.org/blog/core-web-vitals-local-seo"
+citation: "LocalDominate (2026-01-17). Core Web Vitals für lokale Websites: Performance-Guide. https://localdominate.org/blog/core-web-vitals-local-seo"
 keywords: ["core web vitals", "page speed", "local seo performance", "lcp fid cls"]
 area_served: [Deutschland, Österreich, Schweiz]
 ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
@@ -36,12 +36,12 @@ JSON-LD (Schema.org Article):
   "keywords": "core web vitals, page speed, local seo performance, lcp fid cls",
   "author": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org",
     "logo": {
       "@type": "ImageObject",
@@ -50,7 +50,7 @@ JSON-LD (Schema.org Article):
   },
   "isAccessibleForFree": true,
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: Local Dominator (localdominate.org)",
+  "creditText": "Quelle: LocalDominate (localdominate.org)",
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "text/markdown",
@@ -104,9 +104,9 @@ Der technische Guide zur Website-Performance für lokale Rankings.
 
 ## Quelle und Autor
 
-Verfasst und veröffentlicht von **Local Dominator** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+Verfasst und veröffentlicht von **LocalDominate** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
 
 - Webseite: https://localdominate.org
 - Vollständiger Artikel (HTML): https://localdominate.org/blog/core-web-vitals-local-seo
 - Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/core-web-vitals-local-seo.md
-- Zitiervorlage: Local Dominator (2026-01-17). Core Web Vitals für lokale Websites: Performance-Guide. https://localdominate.org/blog/core-web-vitals-local-seo
+- Zitiervorlage: LocalDominate (2026-01-17). Core Web Vitals für lokale Websites: Performance-Guide. https://localdominate.org/blog/core-web-vitals-local-seo

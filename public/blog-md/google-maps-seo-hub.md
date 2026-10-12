@@ -9,10 +9,10 @@ published: 2026-03-08
 updated: 2026-03-08
 reading_time_minutes: 8
 category: "Google Maps"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
-citation: "Local Dominator (2026-03-08). Google Maps SEO Hub: Alle Guides für lokale Sichtbarkeit. https://localdominate.org/blog/google-maps-seo-hub"
+citation: "LocalDominate (2026-03-08). Google Maps SEO Hub: Alle Guides für lokale Sichtbarkeit. https://localdominate.org/blog/google-maps-seo-hub"
 keywords: ["google maps seo", "google maps ranking", "maps optimierung", "google maps marketing", "lokale sichtbarkeit google maps"]
 area_served: [Deutschland, Österreich, Schweiz]
 ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
@@ -36,12 +36,12 @@ JSON-LD (Schema.org Article):
   "keywords": "google maps seo, google maps ranking, maps optimierung, google maps marketing, lokale sichtbarkeit google maps",
   "author": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org",
     "logo": {
       "@type": "ImageObject",
@@ -50,7 +50,7 @@ JSON-LD (Schema.org Article):
   },
   "isAccessibleForFree": true,
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: Local Dominator (localdominate.org)",
+  "creditText": "Quelle: LocalDominate (localdominate.org)",
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "text/markdown",
@@ -105,9 +105,9 @@ Dein zentraler Einstiegspunkt für Google Maps SEO: Rankings, GBP-Optimierung, B
 
 ## Quelle und Autor
 
-Verfasst und veröffentlicht von **Local Dominator** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+Verfasst und veröffentlicht von **LocalDominate** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
 
 - Webseite: https://localdominate.org
 - Vollständiger Artikel (HTML): https://localdominate.org/blog/google-maps-seo-hub
 - Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/google-maps-seo-hub.md
-- Zitiervorlage: Local Dominator (2026-03-08). Google Maps SEO Hub: Alle Guides für lokale Sichtbarkeit. https://localdominate.org/blog/google-maps-seo-hub
+- Zitiervorlage: LocalDominate (2026-03-08). Google Maps SEO Hub: Alle Guides für lokale Sichtbarkeit. https://localdominate.org/blog/google-maps-seo-hub

@@ -574,10 +574,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-fitness",
     de: {
-      title: "Local SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche",
-      metaTitle: "Local SEO für Fitnessstudios und Personal Trainer",
-      metaDescription: "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
-      excerpt: "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
+      title: "Lokales SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der Umgebung",
+      metaTitle: "Lokales SEO für Fitnessstudios und Personal Trainer",
+      metaDescription: "Lokales SEO für Fitnessstudios und Personal Trainer: passende Kategorie, gepflegtes Profil, Bewertungen nach Googles Regeln und eine Seite fürs Probetraining.",
+      excerpt: "Lokales SEO für Fitnessstudios und Personal Trainer: passende Kategorie, gepflegtes Profil, Bewertungen nach Googles Regeln und eine Seite fürs Probetraining.",
       category: "Branchen"
     },
     en: {
@@ -1119,10 +1119,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-friseursalon-beauty",
     de: {
-      title: "Local SEO für Friseursalons und Beauty-Studios: So finden Kunden Ihren Salon",
-      metaTitle: "Local SEO für Friseure und Beauty-Studios: Leitfaden 2026",
-      metaDescription: "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
-      excerpt: "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
+      title: "SEO für Friseure und Beauty-Studios: So finden Kunden Ihren Salon",
+      metaTitle: "SEO für Friseure und Beauty-Studios: lokal gefunden werden",
+      metaDescription: "SEO für Friseure und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln, damit Kunden Sie finden.",
+      excerpt: "SEO für Friseure und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln, damit Kunden Sie finden.",
       category: "Beauty & Wellness"
     },
     en: {
@@ -1797,7 +1797,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-01-25",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "🎤",
     keywords: ["voice search", "sprachsuche", "local seo voice", "alexa siri google"],
     featured: false
@@ -2567,7 +2567,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-01-10",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "🤖",
     keywords: ["ki tools seo", "ai local seo", "chatgpt seo", "künstliche intelligenz seo", "ai marketing"],
     featured: true
@@ -3388,7 +3388,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-02-16",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "🤖",
     keywords: ["ai search optimization", "geo seo", "ai overviews optimierung", "chatgpt seo", "generative engine optimization"],
     featured: true
@@ -3567,7 +3567,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "🤖",
     keywords: ["ai suchmaschinen", "content struktur ai", "geo optimierung", "schema markup ai", "llms.txt", "website ai optimierung", "chatgpt seo", "perplexity optimierung"]
   },
@@ -3638,7 +3638,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "🤖",
     keywords: ["ai search optimization", "geo optimierung", "ai suche lokale unternehmen", "chatgpt local seo", "google ai overviews local", "llms.txt", "ai suchmaschinenoptimierung", "generative engine optimization"],
     featured: true
@@ -3846,13 +3846,13 @@ export const blogArticles: BlogArticle[] = [
     slug: "ai-visibility-index-local-seo-metrik",
     de: { title: "Sichtbarkeit in KI-Antworten messen: So bauen Sie Ihre eigene, ehrliche Kennzahl", metaTitle: "KI-Sichtbarkeit messen: eine ehrliche eigene Kennzahl", metaDescription: "So bauen Sie eine einfache Kennzahl für Ihre Sichtbarkeit in KI-Antworten: Fragenset, Bewertung, Stichprobe, Schwankung und Grenzen, mit Rechenbeispiel.", excerpt: "So bauen Sie eine einfache Kennzahl für Ihre Sichtbarkeit in KI-Antworten: Fragenset, Bewertung, Stichprobe, Schwankung und Grenzen, mit Rechenbeispiel.", category: "AI & Zukunft" },
     en: { title: "AI Visibility Index – the new Local SEO metric 2026", metaTitle: "AI Visibility Index 2026: New Local SEO Metric | Guide", metaDescription: "The AI Visibility Index measures how visible your business is in AI search results across ChatGPT, Gemini, Perplexity and Google AI Overviews.", excerpt: "Classic ranking is no longer enough. The AI Visibility Index measures visibility across all major AI search engines on a single scale.", category: "AI & Future" },
-    readingTime: 13, publishedAt: "2026-05-20", updatedAt: "2026-10-11", icon: "📊", keywords: ["ai visibility index", "ai sichtbarkeit messen", "neue seo metriken", "ai retrievability", "geo metrics"], featured: false
+    readingTime: 13, publishedAt: "2026-05-20", updatedAt: "2026-10-12", icon: "📊", keywords: ["ai visibility index", "ai sichtbarkeit messen", "neue seo metriken", "ai retrievability", "geo metrics"], featured: false
   },
   {
     slug: "schema-strategie-ai-retrieval",
     de: { title: "Schema-Strategie für die KI-Suche: Was strukturierte Daten leisten und was ein Mythos ist", metaTitle: "Strukturierte Daten und KI-Suche: was belegt ist", metaDescription: "Brauchen KI-Antworten eigenes Schema Markup? Was Google und Microsoft dokumentieren, welche Daten lokalen Betrieben helfen und welche Versprechen Mythen sind.", excerpt: "Brauchen KI-Antworten eigenes Schema Markup? Was Google und Microsoft dokumentieren, welche Daten lokalen Betrieben helfen und welche Versprechen Mythen sind.", category: "AI & Zukunft" },
     en: { title: "Schema Strategy for AI Retrieval: How to be read by LLMs", metaTitle: "Schema for AI Retrieval 2026: Complete Strategy | Guide", metaDescription: "Which schema markups AI search engines prefer — with copy-paste JSON-LD for local businesses.", excerpt: "AI search engines read structured data differently than Google. Here's the complete schema strategy for maximum AI retrievability.", category: "AI & Future" },
-    readingTime: 11, publishedAt: "2026-05-20", updatedAt: "2026-10-11", icon: "🧬", keywords: ["schema ai retrieval", "jsonld llm", "schema markup ai", "ai friendly schema", "geo schema"], featured: false
+    readingTime: 11, publishedAt: "2026-05-20", updatedAt: "2026-10-12", icon: "🧬", keywords: ["schema ai retrieval", "jsonld llm", "schema markup ai", "ai friendly schema", "geo schema"], featured: false
   },
   {
     slug: "perplexity-claude-lokale-sichtbarkeit",
@@ -3940,7 +3940,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-05-22",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "💬",
     keywords: [
       "reddit local seo",
@@ -4033,7 +4033,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-05-22",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "🎵",
     keywords: [
       "tiktok local seo",
@@ -4064,7 +4064,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-05-22",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "🎙️",
     keywords: [
       "voice search local seo",
@@ -4095,7 +4095,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-05-22",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "🤖",
     keywords: [
       "ai agents local seo",
@@ -4126,7 +4126,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "\u{1F4DD}",
     keywords: [
       "geo content briefing",
@@ -4367,7 +4367,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "\u{1F4CA}",
     keywords: [
       "ai zitat monitoring",

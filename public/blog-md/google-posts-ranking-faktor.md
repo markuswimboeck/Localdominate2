@@ -9,10 +9,10 @@ published: 2026-01-31
 updated: 2026-01-31
 reading_time_minutes: 12
 category: "Technik"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
-citation: "Local Dominator (2026-01-31). Google Posts optimal nutzen: Der unterschätzte Ranking-Faktor. https://localdominate.org/blog/google-posts-ranking-faktor"
+citation: "LocalDominate (2026-01-31). Google Posts optimal nutzen: Der unterschätzte Ranking-Faktor. https://localdominate.org/blog/google-posts-ranking-faktor"
 keywords: ["google posts", "gbp posts", "google business posts", "lokale posts"]
 area_served: [Deutschland, Österreich, Schweiz]
 ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
@@ -36,12 +36,12 @@ JSON-LD (Schema.org Article):
   "keywords": "google posts, gbp posts, google business posts, lokale posts",
   "author": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org",
     "logo": {
       "@type": "ImageObject",
@@ -50,7 +50,7 @@ JSON-LD (Schema.org Article):
   },
   "isAccessibleForFree": true,
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: Local Dominator (localdominate.org)",
+  "creditText": "Quelle: LocalDominate (localdominate.org)",
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "text/markdown",
@@ -104,9 +104,9 @@ Der vergessene Hebel für lokale Rankings: Google Posts richtig nutzen.
 
 ## Quelle und Autor
 
-Verfasst und veröffentlicht von **Local Dominator** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+Verfasst und veröffentlicht von **LocalDominate** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
 
 - Webseite: https://localdominate.org
 - Vollständiger Artikel (HTML): https://localdominate.org/blog/google-posts-ranking-faktor
 - Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/google-posts-ranking-faktor.md
-- Zitiervorlage: Local Dominator (2026-01-31). Google Posts optimal nutzen: Der unterschätzte Ranking-Faktor. https://localdominate.org/blog/google-posts-ranking-faktor
+- Zitiervorlage: LocalDominate (2026-01-31). Google Posts optimal nutzen: Der unterschätzte Ranking-Faktor. https://localdominate.org/blog/google-posts-ranking-faktor

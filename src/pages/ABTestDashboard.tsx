@@ -261,7 +261,7 @@ const ABTestDashboard = () => {
     <TooltipProvider>
       <div className="min-h-screen bg-background p-4 md:p-8">
         <SEOHead 
-          title="A/B Test Dashboard - Local Dominator"
+          title="A/B Test Dashboard - LocalDominate"
           description="Internes A/B Test Dashboard"
           noindex={true}
         />

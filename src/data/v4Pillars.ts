@@ -49,7 +49,7 @@ export type PillarCopy = {
 
 export const PILLAR_COPY: Record<PillarId, PillarCopy> = {
   diagnose: {
-    seoTitle: "Diagnose: Market, Audience and Data Audit | Local Dominator",
+    seoTitle: "Diagnose: Market, Audience and Data Audit | LocalDominate",
     seoDescription:
       "Step 1 of 7: a written diagnosis of your market, audience, competitors and tracking data, so later spending rests on facts instead of assumptions.",
     h1: "Diagnose the business before you fix it.",
@@ -109,7 +109,7 @@ export const PILLAR_COPY: Record<PillarId, PillarCopy> = {
   },
 
   position: {
-    seoTitle: "Position: Brand, Offer and Differentiation | Local Dominator",
+    seoTitle: "Position: Brand, Offer and Differentiation | LocalDominate",
     seoDescription:
       "Step 2 of 7: define who the offer is for, what it promises and why a customer should pick it. Brand, offer structure and claims you can back up.",
     h1: "Position the business so the right customers choose it.",
@@ -166,7 +166,7 @@ export const PILLAR_COPY: Record<PillarId, PillarCopy> = {
   },
 
   create: {
-    seoTitle: "Create: Design, Content and Experience | Local Dominator",
+    seoTitle: "Create: Design, Content and Experience | LocalDominate",
     seoDescription:
       "Step 3 of 7: visual identity, copy and the customer journey that carry your positioning, designed mobile first and written in your customers' words.",
     h1: "Create the design, content and experience that carry the position.",
@@ -223,7 +223,7 @@ export const PILLAR_COPY: Record<PillarId, PillarCopy> = {
   },
 
   build: {
-    seoTitle: "Build: Websites, Tools and Automation | Local Dominator",
+    seoTitle: "Build: Websites, Tools and Automation | LocalDominate",
     seoDescription:
       "Step 4 of 7: fast mobile-first websites and stores, connected booking and CRM tools, and automations that remove manual work. Scope agreed in writing.",
     h1: "Build the website, tools and automation that customers and staff use.",
@@ -284,7 +284,7 @@ export const PILLAR_COPY: Record<PillarId, PillarCopy> = {
   },
 
   launch: {
-    seoTitle: "Launch: Campaigns, SEO, Social and PR | Local Dominator",
+    seoTitle: "Launch: Campaigns, SEO, Social and PR | LocalDominate",
     seoDescription:
       "Step 5 of 7: a launch plan with campaigns, local and technical SEO, social and PR, with tracking in place so you can read what the launch did.",
     h1: "Launch with campaigns, SEO and PR that reach the right people.",
@@ -348,7 +348,7 @@ export const PILLAR_COPY: Record<PillarId, PillarCopy> = {
   },
 
   grow: {
-    seoTitle: "Grow: CRO, Retention, Data and AI | Local Dominator",
+    seoTitle: "Grow: CRO, Retention, Data and AI | LocalDominate",
     seoDescription:
       "Step 6 of 7: fix the pages where people decide, bring past customers back and read the few numbers that drive decisions. Every change is documented.",
     h1: "Grow by fixing what happens after the visit.",
@@ -412,7 +412,7 @@ export const PILLAR_COPY: Record<PillarId, PillarCopy> = {
   },
 
   scale: {
-    seoTitle: "Scale: New Markets and New Revenue | Local Dominator",
+    seoTitle: "Scale: New Markets and New Revenue | LocalDominate",
     seoDescription:
       "Step 7 of 7: take what works into a new country, language or revenue line without starting over. Multilingual setup, RTL support and small pilots first.",
     h1: "Scale into new markets and new revenue without starting over.",

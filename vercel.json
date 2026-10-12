@@ -11,6 +11,26 @@
       "permanent": true
     },
     {
+      "source": "/restaurant-marketing",
+      "destination": "/industries/restaurants",
+      "permanent": true
+    },
+    {
+      "source": "/handwerker-marketing",
+      "destination": "/industries/trades",
+      "permanent": true
+    },
+    {
+      "source": "/arztpraxis-marketing",
+      "destination": "/industries/practices",
+      "permanent": true
+    },
+    {
+      "source": "/anwalt-marketing",
+      "destination": "/industries/practices",
+      "permanent": true
+    },
+    {
       "source": "/seo-lexikon/proximity",
       "destination": "/seo-lexikon#proximity-entfernung",
       "permanent": true

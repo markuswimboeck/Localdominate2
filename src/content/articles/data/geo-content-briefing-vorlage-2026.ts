@@ -20,7 +20,7 @@ const article: V4Article = {
     "Prüfen Sie das Ergebnis zweimal: mit einer Prüfliste vor der Freigabe und nach der Veröffentlichung mit Search Console, Bing Webmaster Tools und festen Stichproben.",
   ],
   publishedAt: "2026-08-08",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 13,
   sections: [
     {
@@ -69,7 +69,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Einschätzung",
-          text: "Google und Microsoft setzen die Akzente unterschiedlich. Google warnt davor, Inhalte künstlich zu zerstückeln, Microsoft empfiehlt gut abgegrenzte Abschnitte. Beides passt zusammen, wenn jeder Abschnitt eine Frage vollständig beantwortet und für Leser sinnvoll bleibt. Eine Seite in viele Mini-Absätze zu zerlegen, nur damit eine Maschine sie besser zerschneiden kann, empfehlen wir nicht.",
+          text: "Google und Microsoft setzen die Akzente unterschiedlich. Google schreibt, dass Inhalte nicht in kleine Stücke zerlegt werden müssen, Microsoft empfiehlt gut abgegrenzte Abschnitte. Beides passt zusammen, wenn jeder Abschnitt eine Frage vollständig beantwortet und für Leser sinnvoll bleibt. Eine Seite in viele Mini-Absätze zu zerlegen, nur damit eine Maschine sie besser zerschneiden kann, empfehlen wir nicht.",
         },
       ],
     },
@@ -193,7 +193,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "KI als Schreibhilfe",
-          text: "Wenn Sie den Text mit einem KI-Werkzeug entwerfen, schreibt Google: Alle KI-generierten Inhalte müssen von Hand auf Richtigkeit geprüft werden, auch Titel, Beschreibung und Alternativtexte von Bildern. Das Faktenfeld des Briefings ist dafür die Prüfgrundlage. Welche Werkzeuge sich eignen und was der Datenschutz verlangt, steht in [KI-Tools für Local SEO](/blog/ki-tools-local-seo).",
+          text: "Wenn Sie den Text mit einem KI-Werkzeug entwerfen, nennt Google es entscheidend, alle KI-generierten Inhalte vor der Veröffentlichung von Hand auf Richtigkeit und Vertrauenswürdigkeit zu prüfen, auch Titel, Beschreibung und Alternativtexte von Bildern. Das Faktenfeld des Briefings ist dafür die Prüfgrundlage. Welche Werkzeuge sich eignen und was der Datenschutz verlangt, steht in [KI-Tools für Local SEO](/blog/ki-tools-local-seo).",
         },
       ],
     },
@@ -223,7 +223,7 @@ const article: V4Article = {
       id: "ergebnis-pruefen",
       title: "Das Ergebnis prüfen: vor und nach der Veröffentlichung",
       answer:
-        "Vor der Freigabe prüfen Sie die Seite mit einer kurzen Liste gegen das Briefing. Nach der Veröffentlichung zeigen der Bericht zu generativer KI in der Search Console und der Bereich AI Performance in den Bing Webmaster Tools, ob die Seite in KI-Antworten auftaucht. Feste Stichproben zeigen, was dort über Sie steht.",
+        "Vor der Freigabe prüfen Sie die Seite mit einer kurzen Liste gegen das Briefing. Nach der Veröffentlichung zeigen der Leistungsbericht zu generativen KI-Funktionen in der Search Console und der Bereich AI Performance in den Bing Webmaster Tools, ob die Seite in KI-Antworten auftaucht. Feste Stichproben zeigen, was dort über Sie steht.",
       blocks: [
         {
           t: "h3",
@@ -251,7 +251,7 @@ const article: V4Article = {
           caption: "Was die Werkzeuge zeigen und was nicht",
           head: ["Werkzeug", "Was es zeigt", "Grenze"],
           rows: [
-            ["Search Console, Bericht zu generativer KI (seit 31. August 2026 für alle Websites freigeschaltet, bei genügend Daten)", "Impressionen Ihrer Seiten in Übersichten mit KI und im KI-Modus, nach Seiten, Ländern, Datum und Gerät", "Keine Aufschlüsselung nach Suchanfragen"],
+            ["Search Console, Leistungsbericht zu generativen KI-Funktionen (Google Suche), seit 31. August 2026 für alle Websites verfügbar, bei genügend Impressionen", "Impressionen Ihrer Seiten in Übersichten mit KI und im KI-Modus, nach Seiten, Ländern, Datum und Gerät", "Suchanfragen und Klicks nennt die Hilfeseite nicht, ebenso keine getrennte Auswertung nach Übersichten mit KI und KI-Modus"],
             ["Bing Webmaster Tools, AI Performance (im Februar 2026 als öffentliche Vorschau gestartet)", "Zitate Ihrer Seiten in Copilot, KI-Zusammenfassungen in Bing und bei ausgewählten Partnern; Beispiele für Suchphrasen", "Zeigt laut Microsoft, wie oft zitiert wird, nicht Rang oder Platzierung"],
             ["Stichproben in ChatGPT und anderen Diensten", "Ob Ihr Betrieb genannt wird, mit welchen Angaben und welchen Quellen", "Antworten schwanken; Stichproben sind Momentaufnahmen"],
           ],
@@ -305,7 +305,7 @@ const article: V4Article = {
     },
     {
       q: "Darf ich den Text mit einem KI-Werkzeug schreiben lassen?",
-      a: "Ja, Google verbietet KI als Schreibhilfe nicht. Der Inhalt muss aber die Grundanforderungen der Google-Suche erfüllen, und Google verlangt, alle KI-generierten Inhalte von Hand auf Richtigkeit zu prüfen. Viele Seiten ohne Mehrwert mit KI zu erzeugen, kann gegen die Spam-Richtlinien verstoßen.",
+      a: "Ja, Google verbietet KI als Schreibhilfe nicht. Der Inhalt muss aber die Grundanforderungen der Google-Suche erfüllen, und Google nennt es entscheidend, alle KI-generierten Inhalte vor der Veröffentlichung von Hand zu prüfen. Viele Seiten ohne Mehrwert mit KI zu erzeugen, kann gegen die Spam-Richtlinien verstoßen.",
     },
     {
       q: "Woran erkenne ich, ob die Seite in KI-Antworten genutzt wird?",
@@ -320,7 +320,7 @@ const article: V4Article = {
     { title: "General structured data guidelines (Stand 10.07.2026)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/sd-policies" },
     { title: "Spam policies for Google web search (Stand 28.08.2026)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies" },
     { title: "Influence your byline dates in Google Search (Stand 10.12.2025)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/publication-dates" },
-    { title: "Generative AI performance report (Search)", publisher: "Search Console Help", url: "https://support.google.com/webmasters/answer/16984139" },
+    { title: "Leistungsbericht zu generativen KI-Funktionen (Google Suche)", publisher: "Search Console-Hilfe", url: "https://support.google.com/webmasters/answer/16984139?hl=de" },
     { title: "Optimizing Your Content for Inclusion in AI Search Answers (8. Oktober 2025)", publisher: "Microsoft Advertising Blog", url: "https://about.ads.microsoft.com/en/blog/post/october-2025/optimizing-your-content-for-inclusion-in-ai-search-answers" },
     { title: "Introducing AI Performance in Bing Webmaster Tools Public Preview (10. Februar 2026)", publisher: "Bing Webmaster Blog", url: "https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview" },
     { title: "ChatGPT search", publisher: "OpenAI Help Center", url: "https://help.openai.com/en/articles/9237897-chatgpt-search" },

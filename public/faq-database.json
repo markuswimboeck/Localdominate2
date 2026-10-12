@@ -2,7 +2,7 @@
   "version": "1.0",
   "lastUpdated": "2026-01-12",
   "language": "de-DE",
-  "source": "Local Dominator",
+  "source": "LocalDominate",
   "website": "https://localdominate.org",
   "categories": [
     {
@@ -10,7 +10,7 @@
       "faqs": [
         {
           "id": "price-1",
-          "question": "Was kostet Local SEO bei Local Dominator?",
+          "question": "Was kostet Local SEO bei LocalDominate?",
           "answer": "299 Euro einmalig. Keine monatlichen Gebühren, keine versteckten Kosten. Der Preis beinhaltet die komplette Google Maps Optimierung mit 30-Tage Geld-zurück-Garantie.",
           "keywords": ["preis", "kosten", "local seo kosten"],
           "lastUpdated": "2026-01-12"
@@ -141,6 +141,6 @@
     "totalCategories": 5,
     "aiUsageAllowed": true,
     "citationRequired": true,
-    "attributionFormat": "Quelle: Local Dominator (localdominate.org)"
+    "attributionFormat": "Quelle: LocalDominate (localdominate.org)"
   }
 }

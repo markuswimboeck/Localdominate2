@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/ai-suche-lokale-unternehmen
 markdown_url: https://localdominate.org/blog-md/ai-suche-lokale-unternehmen.md
 language: de-DE
 published: 2026-03-08
-updated: 2026-10-11
+updated: 2026-10-12
 reading_time_minutes: 12
 category: "KI-Suche"
 author: LocalDominate Redaktion
@@ -33,7 +33,7 @@ Lokale Betriebe können heute in den Übersichten mit KI und im KI-Modus von Goo
 
 ## Wo lokale Betriebe in KI-Antworten erscheinen
 
-In Deutschland, Österreich und der Schweiz sind die wichtigsten Orte Google (Übersichten mit KI, KI-Modus, Maps), ChatGPT, Perplexity, Microsoft Copilot, Claude und die Apple-Dienste. Jeder Dienst bezieht seine Informationen anders, deshalb braucht jeder eine etwas andere Pflege.
+Für Deutschland, Österreich und die Schweiz belegen Google, OpenAI und Anthropic die Verfügbarkeit von Übersichten mit KI, KI-Modus, ChatGPT und Claude ausdrücklich. Für Microsoft Copilot und Perplexity haben wir keine offizielle Länderliste gefunden. Dazu kommen Google Maps und die Apple-Dienste. Jeder Dienst bezieht seine Informationen anders, deshalb braucht jeder eine etwas andere Pflege.
 
 *KI-Dienste mit lokaler Bedeutung, Stand 11. Oktober 2026*
 
@@ -43,7 +43,7 @@ In Deutschland, Österreich und der Schweiz sind die wichtigsten Orte Google (Ü
 | Google: KI-Modus | Seit 8. Oktober 2025 in DE, AT und CH | Wie oben | [KI-Modus](https://localdominate.org/blog/google-ai-mode-local-seo-2026) |
 | ChatGPT | Websuche in allen Tarifen, lokale Ergebnisse über den ungefähren Standort | OAI-SearchBot darf die Website lesen | [ChatGPT Search](https://localdominate.org/blog/chatgpt-search-lokale-unternehmen-2026) |
 | Perplexity und Claude | Live-Suche mit Quellenangaben in jeder Antwort | PerplexityBot und Claude-SearchBot nicht sperren | [Perplexity und Claude](https://localdominate.org/blog/perplexity-claude-lokale-sichtbarkeit) |
-| Microsoft Copilot und Bing | Copilot stützt sich bei Informationsfragen auf Websuchergebnisse | Bing Places und eine für Bing lesbare Website | [Bing und Copilot](https://localdominate.org/blog/bing-copilot-local-seo-2026) |
+| Microsoft Copilot und Bing | Copilot stützt sich laut Microsoft in bestimmten Gesprächen, in denen Nutzer Informationen suchen, auf Websuchergebnisse | Bing Places und eine für Bing lesbare Website | [Bing und Copilot](https://localdominate.org/blog/bing-copilot-local-seo-2026) |
 | Apple Karten, Safari, Spotlight, Siri | Ortskarten aus Apple Business, Suche über Applebot | Eintrag in Apple Business | [Apple Business](https://localdominate.org/blog/apple-business-connect-local-seo-2026) |
 
 Die Tabelle zeigt nur, was die Anbieter selbst schreiben. Welche Quellen in einer einzelnen Antwort landen, legt keiner von ihnen vollständig offen. Google schreibt ausdrücklich, dass kein Drittanbieter-Werkzeug Zugang zu seinen internen Ranking- oder KI-Systemen hat. OpenAI schreibt, dass die Platzierung nicht garantiert ist.
@@ -73,11 +73,11 @@ Für lokale Betriebe ist das Google-Unternehmensprofil der Kern. Welche KI-Funkt
 
 ## ChatGPT: Suche mit Standort und Karten
 
-ChatGPT sucht laut OpenAI in allen Tarifen im Web und kann aus der IP-Adresse einen ungefähren Standort für lokale Ergebnisse ableiten. Voraussetzung für die Aufnahme Ihrer Website ist, dass der Crawler OAI-SearchBot sie lesen darf.
+ChatGPT sucht laut OpenAI in allen Tarifen im Web und kann aus der IP-Adresse einen ungefähren Standort für lokale Ergebnisse ableiten. Sperren Sie den Crawler OAI-SearchBot, zeigt ChatGPT Ihre Website laut OpenAI nicht in den Suchantworten, höchstens als Navigationslink.
 
-Die Websuche gibt es laut OpenAI in den Tarifen Free, Go, Plus, Pro, Business, Enterprise und Edu. In den Apps für iOS und Android können Antworten Karten enthalten. Für Restaurants kann ChatGPT freie Tische anzeigen, weltweit über OpenTable, über Resy nur in den USA und über Yelp in den USA und Kanada. Welche Anbieter die übrigen lokalen Einträge liefern, nennt OpenAI nicht.
+Die Websuche gibt es laut OpenAI in den Tarifen Free, Go, Plus, Pro, Business, Enterprise und Edu. In den Apps für iOS und Android können Antworten Karten enthalten. Für Restaurants kann ChatGPT freie Tische anzeigen, weltweit über OpenTable, über Resy in den USA und über Yelp in den USA und Kanada, laut OpenAI in den Tarifen für Privatnutzer, nicht in Business, Enterprise und Edu. Welche Anbieter die übrigen lokalen Einträge liefern, nennt OpenAI nicht.
 
-- **OAI-SearchBot zulassen.** Laut OpenAI erscheinen Inhalte nur dann in Zusammenfassungen und Ausschnitten, wenn dieser Crawler nicht gesperrt ist. Auch Hoster und CDN müssen Zugriffe von OpenAIs veröffentlichten IP-Adressen durchlassen.
+- **OAI-SearchBot zulassen.** Damit Ihre Inhalte in Zusammenfassungen und Ausschnitten in ChatGPT enthalten sein können, sollten Sie diesen Crawler laut OpenAI nicht sperren. Websites, die ihn ausschließen, erscheinen laut OpenAI nicht in den Suchantworten, höchstens als Navigationslinks. Auch Hoster und CDN müssen Zugriffe von OpenAIs veröffentlichten IP-Adressen durchlassen.
 - **GPTBot ist eine getrennte Frage.** Er dient laut OpenAI dem Modelltraining. Sie können ihn sperren und trotzdem in der Suche erscheinen.
 - **Besuche messen.** ChatGPT hängt an Links den Parameter utm_source=chatgpt.com an, den Sie in der Web-Analyse sehen.
 
@@ -87,9 +87,9 @@ OpenAI weist selbst darauf hin, dass Ergebnisse und Zitate unvollständig, veral
 
 Perplexity und Claude suchen bei Bedarf live im Web und verlinken ihre Quellen in jeder Antwort. Beide nutzen eigene Crawler für die Suche, die Sie nicht sperren sollten, wenn Sie dort als Quelle erscheinen wollen.
 
-Perplexity durchsucht laut eigener Beschreibung das Internet in Echtzeit, jede Antwort enthält nummerierte Fußnoten mit Links zu den Quellen. PerplexityBot dient laut Perplexity dazu, Websites in den Suchergebnissen anzuzeigen und zu verlinken, nicht dem Training von Modellen. Perplexity empfiehlt, ihn in der robots.txt zu erlauben. In Deutschland bietet die Telekom die Antwortmaschine von Perplexity ihren Privatkunden in der MeinMagenta-App unter „Magenta AI“ an (Stand November 2025).
+Perplexity durchsucht laut eigener Beschreibung das Internet in Echtzeit, jede Antwort enthält nummerierte Fußnoten mit Links zu den Quellen. PerplexityBot dient laut Perplexity dazu, Websites in den Suchergebnissen anzuzeigen und zu verlinken, nicht dem Training von Modellen. Perplexity empfiehlt, ihn in der robots.txt zu erlauben. In Deutschland hat die Telekom die Antwortmaschine von Perplexity laut ihrer Pressemitteilung vom 19. November 2024 unter „Magenta AI“ in die MeinMagenta-App aufgenommen und allen Kundinnen und Kunden kostenlos zur Verfügung gestellt.
 
-Claude, der Assistent von Anthropic, kann seit Mai 2025 laut Anthropic weltweit in allen Tarifen im Web suchen. Jede Antwort mit Websuche enthält Quellenangaben. Für lokale Fragen kann Claude einen aus der IP-Adresse abgeleiteten Standort verwenden. Karten oder Ortseinträge beschreibt die Hilfe nicht. Wer **Claude-SearchBot** sperrt, verhindert laut Anthropic, dass Inhalte für die Suche indexiert werden.
+Claude, der Assistent von Anthropic, steht laut Anthropic unter anderem in Deutschland, Österreich, der Schweiz und Liechtenstein zur Verfügung und kann seit Mai 2025 laut Anthropic weltweit in allen Tarifen im Web suchen. Jede Antwort mit Websuche enthält Quellenangaben. Für lokale Fragen kann Claude einen aus der IP-Adresse abgeleiteten Standort verwenden. Karten oder Ortseinträge beschreibt die Hilfe nicht. Wer **Claude-SearchBot** sperrt, verhindert laut Anthropic die Indexierung der Inhalte für die Suchoptimierung, was die Sichtbarkeit und Genauigkeit in den Suchergebnissen für Nutzer verringern kann.
 
 *Such-Crawler und Trainings-Crawler laut Anbieter*
 
@@ -104,7 +104,7 @@ Welche Einstellung für Ihren Betrieb passt und wie Sie Firewall und CDN prüfen
 
 ## Microsoft Copilot und Bing
 
-Copilot stützt sich laut Microsoft bei Informationsfragen auf Websuchergebnisse und verlinkt die Quellen unter der Antwort. Für Fragen mit Ortsbezug empfiehlt Microsoft, die Firmendaten in Bing Places aktuell zu halten.
+Copilot stützt sich laut Microsoft in bestimmten Gesprächen, in denen Nutzer Informationen suchen, auf Websuchergebnisse; die Zusammenfassungen enthalten Quellenangaben. Für Fragen mit Ortsbezug empfiehlt Microsoft, die Firmendaten in Bing Places aktuell zu halten.
 
 Bing Places ist laut Microsoft eine kostenlose Plattform für Einträge in der Bing-Suche und in Bing Maps, seit Oktober 2025 unter bing.com/forbusiness. Einträge lassen sich aus Google importieren. Im Februar 2026 schrieb Microsoft zur Vorstellung der KI-Auswertung in den Bing Webmaster Tools, dass genaue Firmenangaben besonders wichtig sind, wenn KI-Dienste Antworten auf ortsbezogene Fragen geben.
 
@@ -116,7 +116,7 @@ Diese Auswertung zeigt, wie oft Seiten in Copilot, in KI-Zusammenfassungen bei B
 
 Ihre Ortskarte in Apple Karten, Safari und Spotlight pflegen Sie seit dem 14. April 2026 in Apple Business, dem kostenlosen Nachfolger von Apple Business Connect. Die Standortverwaltung ist laut Apple in Deutschland, Österreich und der Schweiz verfügbar.
 
-Laut Apple wurden beanspruchte Standorte und Ortskarten aus Business Connect automatisch übernommen. Für die Websuche in Spotlight, Siri und Safari crawlt Apple mit **Applebot**. Mit **Applebot-Extended** können Sie laut Apple der Nutzung Ihrer Inhalte für das Training von Apples Basismodellen widersprechen. Dieser Eintrag crawlt selbst keine Seiten, er steuert nur, wie Apple die von Applebot geladenen Daten verwendet.
+Laut Ankündigung von Apple werden beanspruchte Standorte und Ortskarten aus Business Connect beim Start automatisch übernommen. Für die Websuche in Spotlight, Siri und Safari crawlt Apple mit **Applebot**. Mit **Applebot-Extended** können Sie laut Apple der Nutzung Ihrer Inhalte für das Training von Apples Basismodellen widersprechen. Dieser Eintrag crawlt selbst keine Seiten, er steuert nur, wie Apple die von Applebot geladenen Daten verwendet.
 
 Wie Sie Ihren Standort beanspruchen und welche Funktionen in DACH angeboten werden, steht in [Apple Business und Local SEO](https://localdominate.org/blog/apple-business-connect-local-seo-2026). Wie Sprachassistenten lokale Fragen beantworten, behandeln wir in einem eigenen Artikel zu Sprachassistenten.
 
@@ -137,7 +137,7 @@ Wie Sie Ihren Standort beanspruchen und welche Funktionen in DACH angeboten werd
 | „Viele Erwähnungen im Netz platzieren“ | Google: Unechte Erwähnungen helfen weniger, als es scheint. |
 | „Eine Agentur kann Platz 1 in ChatGPT garantieren“ | OpenAI: Platzierung nicht garantiert. Google: kein Drittanbieter hat Zugang zu den internen Systemen. |
 
-> **Einschätzung:** Die drei Grundlagen sind keine dokumentierten Rangfaktoren. Sie folgen daraus, dass alle Dienste Websites und Profile auslesen und keiner offenlegt, welche Quelle wie stark zählt. Was überall richtig steht, kann nirgends falsch zitiert werden.
+> **Einschätzung:** Die drei Grundlagen sind keine dokumentierten Rangfaktoren. Sie folgen daraus, dass die Dienste Websites und Profile auslesen können und keiner offenlegt, welche Quelle wie stark zählt. Was überall richtig steht, kann nirgends falsch zitiert werden.
 
 ## Der Plan für einen kleinen Betrieb
 
@@ -150,7 +150,7 @@ Beginnen Sie mit dem Google-Unternehmensprofil und den Kernseiten Ihrer Website,
 5. **Bewertungen als festen Ablauf einführen.** Alle Kunden nach dem Auftrag fragen, ohne Gegenleistung, und jede Bewertung sachlich beantworten.
 6. **Monatlich prüfen.** Feste Fragen mit Ortsangabe in Google, ChatGPT, Perplexity und Copilot stellen, Ergebnisse notieren und falsche Angaben an der Quelle berichtigen.
 
-> **Einschätzung:** Die Reihenfolge ist unsere Empfehlung nach Aufwand und Reichweite, keine Vorgabe der Anbieter. Restaurants sollten zusätzlich prüfen, ob sie über ein Reservierungssystem buchbar sind, das KI-Dienste anbinden. OpenAI nennt dafür OpenTable weltweit sowie Resy und Yelp in Nordamerika. Wo Google im KI-Modus Buchungen anbietet, steht in [KI-Modus: Buchen und Reservieren](https://localdominate.org/blog/google-ai-mode-local-seo-2026#buchen-reservieren).
+> **Einschätzung:** Die Reihenfolge ist unsere Empfehlung nach Aufwand und Reichweite, keine Vorgabe der Anbieter. Restaurants sollten zusätzlich prüfen, ob sie über ein Reservierungssystem buchbar sind, das KI-Dienste anbinden. OpenAI nennt dafür OpenTable weltweit, Resy in den USA und Yelp in den USA und Kanada. Wo Google im KI-Modus Buchungen anbietet, steht in [KI-Modus: Buchen und Reservieren](https://localdominate.org/blog/google-ai-mode-local-seo-2026#buchen-reservieren).
 
 ## Sichtbarkeit prüfen und messen
 
@@ -175,7 +175,7 @@ In Deutschland, Österreich und der Schweiz vor allem in den Übersichten mit KI
 
 ### Brauche ich für KI-Suche eine llms.txt oder besonderes Schema Markup?
 
-Für Google nicht: Google schreibt, dass weder KI-Textdateien noch spezielles schema.org-Markup nötig sind. Die anderen Anbieter nennen solche Dateien in ihren Hilfeseiten nicht als Voraussetzung. Wichtiger sind lesbare Seiten und offener Zugang für die Such-Crawler.
+Für Google nicht: Google schreibt, dass weder KI-Textdateien noch spezielles schema.org-Markup nötig sind. Die anderen Anbieter nennen solche Dateien in den von uns geprüften Hilfeseiten nicht als Voraussetzung. Wichtiger sind lesbare Seiten und offener Zugang für die Such-Crawler.
 
 ### Welcher KI-Dienst ist für lokale Betriebe am wichtigsten?
 
@@ -204,9 +204,10 @@ Prüfen Sie die verlinkten Quellen der Antwort und berichtigen Sie die Angabe do
 - [Publishers and Developers FAQ](https://help.openai.com/en/articles/12627856-publishers-and-developers-faq), OpenAI Help Center
 - [Perplexity Crawlers](https://docs.perplexity.ai/docs/resources/perplexity-crawlers), Perplexity Docs
 - [How does Perplexity work?](https://hub-prod.perplexity.ai/hub/faq/how-does-perplexity-work), Perplexity
-- [Geschäftskunden: Gutschein für Perplexity Enterprise Pro (18. November 2025)](https://www.telekom.com/de/newsroom/aktuelles/news/2025/11/perplexity-enterprise-pro-gutschein), Deutsche Telekom
+- [KI für alle: Perplexity jetzt unter „Magenta AI“ in der MeinMagenta-App (19. November 2024)](https://www.telekom.com/de/newsroom/aktuelles/medieninformationen/2024/11/ki-fuer-alle), Deutsche Telekom
 - [Does Anthropic crawl data from the web, and how can site owners block the crawler?](https://support.claude.com/en/articles/8896518), Claude Help Center (Anthropic)
 - [Enabling and Using Web Search](https://support.claude.com/en/articles/10684626-enabling-and-using-web-search), Claude Help Center (Anthropic)
+- [Supported countries and regions](https://www.anthropic.com/supported-countries), Anthropic
 - [Claude can now search the web (20. März 2025, Update 27. Mai 2025)](https://claude.com/blog/web-search), Anthropic
 - [Transparency Note for Microsoft Copilot (Stand 18. August 2026)](https://support.microsoft.com/en-US/Privacy/microsoft-copilot/transparency-note), Microsoft Support
 - [Introducing the New Bing Places for Business (3. Oktober 2025)](https://blogs.bing.com/search/October-2025/Introducing-the-New-Bing-Places-for-Business-Built-for-Business-Owners,-Powered-by-Research), Microsoft Bing Blogs
@@ -217,4 +218,4 @@ Prüfen Sie die verlinkten Quellen der Antwort und berichtigen Sie die Angabe do
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org

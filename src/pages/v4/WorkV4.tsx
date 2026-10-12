@@ -25,7 +25,7 @@ const WORK_JSON_LD = {
       "@type": "CollectionPage",
       "@id": `${PAGE_URL}#webpage`,
       url: PAGE_URL,
-      name: "Selected Work & Case Studies – Local Dominator",
+      name: "Selected Work & Case Studies – LocalDominate",
       isPartOf: { "@id": "https://localdominate.org/#website" },
       about: { "@id": "https://localdominate.org/#organization" },
       dateModified: SEO_DATE_MODIFIED,
@@ -53,8 +53,8 @@ export default function WorkV4() {
     <V4Page>
       <SEOHead
         ogImage="https://localdominate.org/images/v4/social/ld-social-work-1200x630.jpg"
-        title="Selected Work & Case Studies – Local Dominator"
-        description="Selected projects from Local Dominator: a US e-commerce brand launch, an AI-native travel platform, a non-profit web platform and a hotel direct-booking concept."
+        title="Selected Work & Case Studies – LocalDominate"
+        description="Selected projects from LocalDominate: a US e-commerce brand launch, an AI-native travel platform, a non-profit web platform and a hotel direct-booking concept."
         canonicalUrl={PAGE_URL}
         lang="en"
         jsonLd={WORK_JSON_LD}
