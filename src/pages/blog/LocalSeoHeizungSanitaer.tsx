@@ -194,7 +194,7 @@ const LocalSeoHeizungSanitaer = () => {
         <p className="mb-4">
           Wir strukturieren Standortprofil, Notdienstseite und Projektseiten so, dass beide Suchanlässe sauber bedient werden — mit klarer Messung von Anrufen und Anfragen.
         </p>
-        <Link to="/decision" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
+        <Link to="/start-a-project" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
           Analyse anfragen
         </Link>
       </div>

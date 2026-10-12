@@ -241,7 +241,7 @@ Die Praxis Dr. Schmidt behandelt seit 2008 Patientinnen und Patienten aus Köln 
         <p className="mb-4">
           Wir erstellen eine spec-konforme llms.txt für deine Webseite, inklusive Routen-Audit, Filterung interner Bereiche und Vorschlag zur monatlichen Pflege. Du erhältst die fertige Datei plus Validierung in ChatGPT, Perplexity und Claude.
         </p>
-        <Link to="/decision" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
+        <Link to="/start-a-project" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
           Kostenlose llms.txt anfragen
         </Link>
       </div>

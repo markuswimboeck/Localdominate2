@@ -173,7 +173,7 @@ const LocalSeoUmzugsunternehmen = () => {
         <p className="mb-4">
           Wir bauen Standort-, Zielregions- und Routenseiten mit echtem Inhalt auf und machen sichtbar, aus welcher Region welche Anfragen kommen.
         </p>
-        <Link to="/decision" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
+        <Link to="/start-a-project" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
           Analyse anfragen
         </Link>
       </div>

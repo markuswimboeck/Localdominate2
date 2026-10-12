@@ -210,7 +210,7 @@ const AiAgentsLokaleBuchungen2026 = () => {
         <p className="mb-4">
           Wir auditieren deine Webseite gegen Operator, ChatGPT Agent Mode, Gemini Agents und Comet — inklusive Schema, semantischem HTML und Buchungs-Reibung. Du erhältst eine priorisierte Maßnahmenliste, mit der du in 6–10 Wochen messbar mehr Agent-Buchungen gewinnst.
         </p>
-        <Link to="/decision" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
+        <Link to="/start-a-project" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
           Kostenlosen Agent-Audit anfragen
         </Link>
       </div>
