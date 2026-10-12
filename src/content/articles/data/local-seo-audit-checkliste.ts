@@ -307,7 +307,7 @@ const article: V4Article = {
       id: "ki-sichtbarkeit",
       title: "Bereich 6: Grundlagen für KI-Antworten",
       answer:
-        "KI-Übersichten und Assistenten wie ChatGPT stützen sich auf Ihr Profil, Ihre Website und Erwähnungen im Netz. Prüfen Sie, ob Ihre Kernfakten überall gleich sind und ob Ihre robots.txt die Crawler zulässt, über die Sie in KI-Suchen erscheinen können. Beides prüfen Sie in wenigen Minuten ohne Fachwissen.",
+        "Übersichten mit KI und Assistenten wie ChatGPT stützen sich auf Ihr Profil, Ihre Website und Erwähnungen im Netz. Prüfen Sie, ob Ihre Kernfakten überall gleich sind und ob Ihre robots.txt die Crawler zulässt, über die Sie in KI-Suchen erscheinen können. Beides prüfen Sie in wenigen Minuten ohne Fachwissen.",
       blocks: [
         {
           t: "table",

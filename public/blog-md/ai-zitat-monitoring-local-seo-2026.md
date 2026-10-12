@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/ai-zitat-monitoring-local-seo-2026
 markdown_url: https://localdominate.org/blog-md/ai-zitat-monitoring-local-seo-2026.md
 language: de-DE
 published: 2026-08-08
-updated: 2026-10-11
+updated: 2026-10-12
 reading_time_minutes: 12
 category: "KI-Suche"
 author: LocalDominate Redaktion
@@ -21,7 +21,7 @@ Für Inhaber lokaler Betriebe, die wissen wollen, ob ChatGPT, Google, Copilot un
 
 ## Die kurze Antwort
 
-Ob KI-Dienste Ihren Betrieb nennen, zeigt kein einzelnes Werkzeug vollständig. Sie kombinieren monatliche Stichproben mit festen Fragen, den Bericht für generative KI-Funktionen in der Search Console, den Bericht AI Performance in den Bing Webmaster Tools, Besuche mit utm_source=chatgpt.com in der Web-Analyse und die Server-Logs. Zusammen ergibt das ein ehrliches Bild, aber keine Garantie und keine exakte Quote.
+Ob KI-Dienste Ihren Betrieb nennen, zeigt kein einzelnes Werkzeug vollständig. Sie kombinieren monatliche Stichproben mit festen Fragen, den Leistungsbericht zu generativen KI-Funktionen in der Search Console, den Bericht AI Performance in den Bing Webmaster Tools, Besuche mit utm_source=chatgpt.com in der Web-Analyse und die Server-Logs. Zusammen ergibt das ein ehrliches Bild, aber keine Garantie und keine exakte Quote.
 
 ## Das Wichtigste in Kürze
 
@@ -40,12 +40,12 @@ Messbar sind drei Dinge: was eine KI-Antwort über Sie sagt (Stichprobe), wie of
 | Messweg | Was er zeigt | Was er nicht zeigt | Aufwand |
 | --- | --- | --- | --- |
 | Manuelle Stichprobe | Ob und wie Ihr Betrieb in konkreten Antworten genannt wird, mit Quellen | Wie oft das bei anderen Nutzern so ist | Je nach Umfang 30 Minuten bis mehrere Stunden im Monat |
-| Search Console, Bericht für generative KI-Funktionen | Impressionen Ihrer Links in Übersichten mit KI und KI-Modus, nach Seite, Land, Gerät, Datum | Klicks, Suchanfragen, den Text der Antwort | Gering, wenn die Search Console eingerichtet ist |
+| Search Console, Leistungsbericht zu generativen KI-Funktionen (Google Suche) | Impressionen Ihrer Links in Übersichten mit KI und KI-Modus, nach Seite, Land, Gerät, Datum | Klicks, Suchanfragen, den Text der Antwort | Gering, wenn die Search Console eingerichtet ist |
 | Bing Webmaster Tools, AI Performance | Zitierungen in Copilot, KI-Zusammenfassungen in Bing und bei ausgewählten Partnern, mit Grounding Queries als Stichprobe | Position in der Antwort; Klicks nennt Microsoft nicht | Gering, wenn die Website verifiziert ist |
 | Web-Analyse | Besuche aus ChatGPT über utm_source=chatgpt.com, bei anderen Diensten teils über den Verweis | Nennungen ohne Klick | Ein Filter, einmal angelegt |
 | Server-Logs | Welche KI-Crawler und Nutzer-Abrufe Ihre Seiten erreichen | Ob Ihr Betrieb danach genannt wird | Mittel, je nach Hoster |
 
-Nur Google und Microsoft liefern Website-Betreibern eigene Zahlen, und nur für ihre eigenen Dienste. Für ChatGPT, Perplexity und Claude bleiben Stichprobe, Web-Analyse und Logs. Welche KI-Dienste für lokale Betriebe überhaupt zählen, steht im Überblick [KI-Suche für lokale Unternehmen](https://localdominate.org/blog/ai-suche-lokale-unternehmen).
+Eigene Zahlen für Website-Betreiber haben wir nur bei Google und Microsoft gefunden, und nur für deren eigene Dienste. Für ChatGPT, Perplexity und Claude bleiben Stichprobe, Web-Analyse und Logs. Welche KI-Dienste für lokale Betriebe überhaupt zählen, steht im Überblick [KI-Suche für lokale Unternehmen](https://localdominate.org/blog/ai-suche-lokale-unternehmen).
 
 > **Keine Garantie:** Monitoring macht sichtbar, was passiert, garantiert aber keine Nennung. Google schreibt ausdrücklich, dass Indexierung und Anzeige nicht garantiert sind. Einen festen Platz in KI-Antworten vergibt kein Anbieter.
 
@@ -55,34 +55,34 @@ Stellen Sie einmal im Monat dieselben zehn bis zwanzig Fragen mit Ortsangabe in 
 
 1. **Fragen festlegen.** Schreiben Sie Fragen so, wie Kunden sie stellen, immer mit Ort im Text: „Welche Zahnarztpraxis in Graz behandelt Angstpatienten?“, „Elektriker Notdienst Augsburg am Sonntag“, „Hotel in Luzern mit Parkplatz und Hund erlaubt“. Ergänzen Sie zwei oder drei Fragen mit Ihrem Namen, um Fakten wie Adresse und Öffnungszeiten zu prüfen.
 2. **Dienste wählen.** Meist genügen Google (Übersicht mit KI und KI-Modus), ChatGPT und je nach Zielgruppe Copilot oder Perplexity. Lieber wenige Dienste regelmäßig als viele sporadisch.
-3. **Bedingungen gleich halten.** Neues Gespräch, ohne Anmeldung oder mit ausgeschalteter Gedächtnisfunktion. OpenAI schreibt, dass ChatGPT gespeicherte Erinnerungen beim Umformulieren einer Suchanfrage nutzen kann. Auch der Standort wirkt: ChatGPT kann laut OpenAI einen ungefähren Standort aus der IP-Adresse ableiten. Der Ort in der Frage macht das Ergebnis unabhängiger vom Standort Ihres Büros.
+3. **Bedingungen gleich halten.** Neues Gespräch, ohne Anmeldung oder mit ausgeschalteter Gedächtnisfunktion. OpenAI schreibt, dass ChatGPT gespeicherte Erinnerungen beim Umformulieren einer Suchanfrage nutzen kann. Auch der Standort kann wirken: ChatGPT kann laut OpenAI einen ungefähren Standort aus der IP-Adresse ableiten. Der Ort in der Frage macht das Ergebnis unabhängiger vom Standort Ihres Büros.
 4. **Ergebnis festhalten.** Datum, Dienst, Frage, genannt ja oder nein, genannte Fakten, verlinkte Quellen und ein Bildschirmfoto als Beleg.
-5. **Zweimal fragen.** Stellen Sie wichtige Fragen zweimal in getrennten Gesprächen. Weichen die Antworten ab, notieren Sie beide. Das zeigt Ihnen, wie stark die Antworten schwanken.
+5. **Zweimal fragen.** Stellen Sie wichtige Fragen zweimal in getrennten Gesprächen. Weichen die Antworten ab, notieren Sie beide. Das gibt einen ersten Eindruck, ob die Antworten schwanken. Zwei Durchläufe sind unser Vorschlag und ein Kompromiss mit dem Aufwand, keine belegte Schwelle. Für belastbare Häufigkeiten empfiehlt Rand Fishkin von SparkToro meist mindestens 60 bis 100 Durchläufe je Frage.
 
 Die Quellen unter einer Antwort zeigen, welche Seiten ein Dienst heranzieht: Ihre Website, ein Branchenportal, ein Verzeichnis oder ein Zeitungsartikel. Wie Sie daraus eine Quellenkarte machen, beschreibt [Wie ChatGPT lokale Unternehmen zitiert](https://localdominate.org/blog/chatgpt-zitiert-lokale-unternehmen#quellenkarte).
 
 > **Einschätzung:** Zehn bis zwanzig Fragen sind unser Erfahrungswert für einen kleinen Betrieb, keine Vorgabe eines Anbieters. Wie Sie die Ergebnisse zu einer einfachen Kennzahl verdichten, steht in [AI Visibility Index](https://localdominate.org/blog/ai-visibility-index-local-seo-metrik).
 
-## Search Console: der Bericht für generative KI-Funktionen
+## Search Console: der Leistungsbericht zu generativen KI-Funktionen
 
-Der Bericht für generative KI-Funktionen in der Search Console zeigt, wie oft Links zu Ihrer Website in Übersichten mit KI und im KI-Modus angezeigt wurden, und ist laut Google seit dem 31. August 2026 für alle Websites weltweit verfügbar. Er nennt nur Impressionen, keine Klicks.
+Der Leistungsbericht zu generativen KI-Funktionen (Google Suche) in der Search Console zeigt, wie oft Links zu Ihrer Website in Übersichten mit KI und im KI-Modus angezeigt wurden, und ist laut Google seit dem 31. August 2026 für alle Websites weltweit verfügbar. Er nennt nur Impressionen, keine Klicks.
 
 *Was der Bericht laut Google enthält*
 
 | Merkmal | Laut Google-Hilfe |
 | --- | --- |
 | Kennzahl | Impressionen: wie oft Links zu Ihrer Website in einer generativen KI-Funktion angezeigt wurden |
-| Erfasste Funktionen | Übersichten mit KI und KI-Modus; Tests in Search Labs sind nicht enthalten, Discover hat einen eigenen Bericht |
+| Erfasste Funktionen | Übersichten mit KI und KI-Modus; eine getrennte Auswertung beider Funktionen beschreibt die Hilfeseite nicht. Tests in Search Labs sind nicht enthalten, Discover hat einen eigenen Bericht |
 | Aufschlüsselung | Seiten, Länder (Herkunft der Suche), Datum, Geräte |
 | Suchtyp | Web mit Text oder Web multimodal, etwa Suchen mit Google Lens oder Circle to Search |
 | Aktualität | Die neuesten Daten sind vorläufig und können sich noch ändern; die Grafik zeigt sie gestrichelt |
 | Fehlender Bericht | Zu wenige Impressionen in generativen KI-Funktionen oder Ausschluss von diesen Funktionen |
 
-Für einen lokalen Betrieb ist der Länderfilter am wichtigsten: Wählen Sie Ihr Land und sehen Sie nach, ob Ihre Leistungsseiten Impressionen bekommen oder nur ein alter Blogartikel. Klicks aus Übersichten mit KI und KI-Modus zählt Google laut seiner Dokumentation im normalen Leistungsbericht unter dem Suchtyp „Web“ mit, zusammen mit allen anderen Suchergebnissen. Getrennt ausweisen lassen sie sich dort nicht.
+Für einen lokalen Betrieb ist der Länderfilter am wichtigsten: Wählen Sie Ihr Land und sehen Sie nach, ob Ihre Leistungsseiten Impressionen bekommen oder nur ein alter Blogartikel. Klicks aus Übersichten mit KI und KI-Modus zählt Google laut seiner Dokumentation im normalen Leistungsbericht unter dem Suchtyp „Web“ mit, zusammen mit allen anderen Suchergebnissen. Eine getrennte Auswertung beschreibt Google dort nicht.
 
 Wie die Search Console den KI-Modus im Einzelnen zählt, beschreibt [Google KI-Modus und Local SEO](https://localdominate.org/blog/google-ai-mode-local-seo-2026#search-console).
 
-> **Einschätzung:** Fehlt der Bericht bei Ihnen, ist das bei kleinen Websites kein Alarmsignal, sondern oft eine Frage der Menge. Prüfen Sie aber, ob Sie die Einstellung für generative KI in der Search Console oder Regeln wie nosnippet versehentlich so gesetzt haben, dass Ihre Seiten ausgeschlossen sind.
+> **Einschätzung:** Fehlt der Bericht bei Ihnen, ist das bei kleinen Websites kein Alarmsignal, sondern oft eine Frage der Menge. Prüfen Sie aber, ob Ihre Website von den generativen KI-Funktionen ausgeschlossen ist, etwa durch Regeln wie nosnippet, mit denen sich laut Google die in der Suche gezeigten Informationen begrenzen lassen.
 
 ## Bing Webmaster Tools: der Bericht AI Performance
 
@@ -127,7 +127,7 @@ Die Zugriffsprotokolle Ihres Servers zeigen, ob die Suchcrawler und Nutzer-Abruf
 | OpenAI | OAI-SearchBot | ChatGPT-User | OAI-SearchBot beachtet sie; für ChatGPT-User gilt sie laut OpenAI möglicherweise nicht |
 | Perplexity | PerplexityBot | Perplexity-User | Perplexity-User ignoriert sie laut Perplexity in der Regel |
 | Anthropic | Claude-SearchBot | Claude-User | Laut Anthropic beachten die Bots robots.txt |
-| Google | Googlebot (kein eigener KI-Crawler genannt) | keine eigene Kennung dokumentiert | Google-Extended ist nur eine Steuerkennung ohne eigenen User-Agent |
+| Google | Googlebot (kein eigener KI-Crawler genannt) | für Übersichten mit KI und KI-Modus keine eigene Kennung dokumentiert | Google-Extended ist nur eine Steuerkennung ohne eigenen User-Agent |
 
 Ein Abruf durch ChatGPT-User, Perplexity-User oder Claude-User heißt, dass ein Dienst Ihre Seite für eine Nutzerfrage geöffnet hat. Unsere Einschätzung: Das zeigt, welche Seiten bei Kundenfragen eine Rolle spielen, aber nicht, ob die Antwort Sie empfohlen hat. Bei Google sehen Sie nur Googlebot, weil Google für Übersichten mit KI und KI-Modus keinen eigenen Crawler nennt.
 
@@ -157,7 +157,7 @@ Antworten über eine Programmierschnittstelle können von dem abweichen, was ein
 Legen Sie einen festen Tag im Monat fest und arbeiten Sie dieselben sechs Schritte ab: Stichprobe, Search Console, Bing Webmaster Tools, Web-Analyse, Logs und eine kurze Auswertung. Mit etwas Übung dauert das etwa eine Stunde. Wichtig ist die Regelmäßigkeit, nicht die Menge.
 
 1. **Stichprobe.** Fragenliste in den gewählten Diensten abarbeiten, Ergebnisse und Bildschirmfotos ablegen.
-2. **Search Console.** Bericht für generative KI-Funktionen öffnen, nach Ihrem Land filtern, die fünf Seiten mit den meisten Impressionen notieren.
+2. **Search Console.** Leistungsbericht zu generativen KI-Funktionen öffnen, nach Ihrem Land filtern, die fünf Seiten mit den meisten Impressionen notieren.
 3. **Bing Webmaster Tools.** AI Performance öffnen, Zitierungen, wichtigste Grounding Queries mit Ortsbezug und zitierte Seiten notieren.
 4. **Web-Analyse.** Besuche mit utm_source=chatgpt.com und weitere KI-Verweise zählen, Zielseiten notieren.
 5. **Logs.** Prüfen, ob die Suchcrawler weiter mit Statuscode 200 durchkommen. Ein plötzliches Fehlen deutet oft auf eine neue Sperre im Bot-Schutz.
@@ -195,11 +195,11 @@ Wenn Sie eine neue Seite für eine wichtige Frage schreiben, hilft eine feste St
 
 ### Kann ich sehen, wie oft ChatGPT meinen Betrieb nennt?
 
-Nicht direkt. OpenAI bietet Website-Betreibern keinen Bericht über Nennungen an. Sie sehen Besuche mit utm_source=chatgpt.com in der Web-Analyse und Abrufe durch OAI-SearchBot und ChatGPT-User in den Logs. Ob und wie Sie genannt werden, zeigen nur eigene Stichproben.
+Nicht direkt. Einen Bericht über Nennungen für Website-Betreiber haben wir bei OpenAI nicht gefunden. Sie sehen Besuche mit utm_source=chatgpt.com in der Web-Analyse und Abrufe durch OAI-SearchBot und ChatGPT-User in den Logs. Ob und wie Sie genannt werden, zeigen nur eigene Stichproben.
 
 ### Zeigt die Search Console Klicks aus Übersichten mit KI?
 
-Nicht getrennt. Der Bericht für generative KI-Funktionen enthält laut Google nur Impressionen. Klicks aus Übersichten mit KI und KI-Modus zählt Google im normalen Leistungsbericht unter dem Suchtyp „Web“ zusammen mit den übrigen Suchergebnissen.
+Nicht in diesem Bericht. Der Leistungsbericht zu generativen KI-Funktionen enthält laut Google nur Impressionen. Klicks aus Übersichten mit KI und KI-Modus zählt Google im normalen Leistungsbericht unter dem Suchtyp „Web“ zusammen mit den übrigen Suchergebnissen. Eine getrennte Auswertung beschreibt Google dort nicht.
 
 ### Wie oft sollte ich KI-Antworten prüfen?
 
@@ -209,17 +209,18 @@ Einmal im Monat genügt für die meisten Betriebe. Häufiger lohnt sich nur nach
 
 Für einen Betrieb mit einem Standort meist nicht. Die Berichte in Search Console und Bing Webmaster Tools sind kostenlos, die Stichprobe kostet nur Zeit. Ein Werkzeug lohnt sich eher bei vielen Standorten, sofern es offenlegt, von welchem Ort und in welcher Sprache es fragt.
 
-### Warum fehlt bei mir der Bericht für generative KI-Funktionen?
+### Warum fehlt bei mir der Leistungsbericht zu generativen KI-Funktionen?
 
-Laut Google erscheint der Bericht nicht, wenn Ihre Website zu wenige Impressionen in diesen Funktionen hat oder davon ausgeschlossen ist. Bei kleinen Websites ist das häufig. Prüfen Sie trotzdem, ob Ihre Einstellungen in der Search Console oder Regeln wie nosnippet die Anzeige verhindern.
+Laut Google erscheint der Bericht nicht, wenn Ihre Website zu wenige Impressionen in diesen Funktionen hat oder davon ausgeschlossen ist. Bei kleinen Websites ist das häufig. Prüfen Sie trotzdem, ob Ihre Website von diesen Funktionen ausgeschlossen ist, etwa durch Regeln wie nosnippet.
 
 ## Quellen
 
-- [Generative AI performance report (Search)](https://support.google.com/webmasters/answer/16984139), Google Search Console Help
+- [Leistungsbericht zu generativen KI-Funktionen (Google Suche)](https://support.google.com/webmasters/answer/16984139?hl=de), Search Console-Hilfe
 - [AI features and your website](https://developers.google.com/search/docs/appearance/ai-features), Google Search Central
 - [Google Search Console AI performance reports and search generative AI control rolling out globally (31. August 2026)](https://searchengineland.com/google-search-console-ai-performance-reports-and-search-generative-ai-control-rolling-out-globally-486269), Search Engine Land
-- [Introducing AI Performance in Bing Webmaster Tools Public Preview (10. Februar 2026)](https://blogs.bing.com/webmaster/2026/2/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview/), Microsoft Bing Webmaster Blog
+- [Introducing AI Performance in Bing Webmaster Tools Public Preview (10. Februar 2026)](https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview), Microsoft Bing Webmaster Blog
 - [New AI Visibility Insights in Bing Webmaster Tools: Intents, Topics, Citation Share, Compare (16. Juni 2026)](https://blogs.bing.com/search/June-2026/New-AI-Visibility-Insights-in-Bing-Webmaster-Tools-Intents-Topics-Citation-Share-Compare), Microsoft Bing Blogs
+- [New Research: AIs are highly inconsistent when recommending brands or products (27. Januar 2026)](https://sparktoro.com/blog/new-research-ais-are-highly-inconsistent-when-recommending-brands-or-products-marketers-should-take-care-when-tracking-ai-visibility/), SparkToro
 - [Publishers and Developers FAQ](https://help.openai.com/en/articles/12627856-publishers-and-developers-faq), OpenAI Help Center
 - [Search in ChatGPT](https://help.openai.com/en/articles/9237897-search-in-chatgpt), OpenAI Help Center
 - [Overview of OpenAI Crawlers](https://developers.openai.com/api/docs/bots), OpenAI Developers
@@ -232,4 +233,4 @@ Laut Google erscheint der Bericht nicht, wenn Ihre Website zu wenige Impressione
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org

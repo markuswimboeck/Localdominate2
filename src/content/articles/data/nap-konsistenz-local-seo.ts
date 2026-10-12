@@ -80,7 +80,7 @@ const article: V4Article = {
       id: "ki-assistenten",
       title: "Einheitliche Daten und KI-Assistenten",
       answer:
-        "KI-Übersichten und Assistenten wie ChatGPT oder Perplexity fassen Angaben aus mehreren Quellen zusammen. Wenn diese Quellen sich widersprechen, steigt aus unserer Erfahrung das Risiko, dass eine falsche Nummer oder Zeit genannt wird.",
+        "Übersichten mit KI und Assistenten wie ChatGPT oder Perplexity fassen Angaben aus mehreren Quellen zusammen. Wenn diese Quellen sich widersprechen, steigt aus unserer Erfahrung das Risiko, dass eine falsche Nummer oder Zeit genannt wird.",
       blocks: [
         {
           t: "p",
