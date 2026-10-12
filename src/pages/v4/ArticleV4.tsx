@@ -161,6 +161,17 @@ function BlockView({ block }: { block: Block }) {
           </p>
         </aside>
       );
+    case "code":
+      return (
+        <figure className="max-w-[80ch]">
+          <pre className="overflow-x-auto rounded-2xl bg-v4-ink px-5 py-4 font-mono text-[0.8125rem] leading-relaxed text-v4-white">
+            <code>{block.text}</code>
+          </pre>
+          {block.caption ? (
+            <figcaption className="mt-3 font-v4-sans text-xs text-v4-ink/55">{block.caption}</figcaption>
+          ) : null}
+        </figure>
+      );
     case "steps":
       return (
         <ol className="grid max-w-[80ch] gap-px overflow-hidden rounded-2xl border border-v4-ink/10 bg-v4-ink/10 md:grid-cols-2">

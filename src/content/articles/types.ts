@@ -22,6 +22,8 @@ export type Block =
   | { t: "table"; caption: string; head: readonly string[]; rows: readonly (readonly string[])[] }
   /** A highlighted remark: practical tip, warning or definition. */
   | { t: "note"; label: string; text: string }
+  /** Preformatted code shown verbatim (no inline markup), e.g. a JSON-LD example. */
+  | { t: "code"; text: string; lang?: string; caption?: string }
   /** Numbered steps with a short title each. */
   | { t: "steps"; items: readonly { title: string; text: string }[] };
 
