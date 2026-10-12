@@ -3720,10 +3720,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-statistiken-daten",
     de: {
-      title: "Local SEO Statistiken & Daten 2026: 88+ Datenpunkte für 22 Branchen",
-      metaTitle: "Local SEO Statistiken 2026 – 88+ Datenpunkte",
-      metaDescription: "88+ aktuelle Local SEO Statistiken für 22 Branchen: Ranking-Faktoren, Bewertungs-Daten, Mobile-Trends und branchenspezifische Benchmarks mit Quellenangaben.",
-      excerpt: "Die umfassendste Sammlung aktueller Local SEO Daten im DACH-Raum: Ranking-Faktoren, Bewertungsstatistiken, branchenspezifische Benchmarks und Trend-Prognosen.",
+      title: "Local-SEO-Zahlen: was belegt ist und wie Sie Ihre eigenen Daten erheben",
+      metaTitle: "Local-SEO-Zahlen: was belegt ist und was Sie selbst messen",
+      metaDescription: "Welche Local-SEO-Zahlen eine echte Quelle haben, warum viele Statistiken nicht taugen und welche Daten Sie kostenlos selbst erheben, mit Monatsvorlage.",
+      excerpt: "Welche Local-SEO-Zahlen eine echte Quelle haben, warum viele Statistiken nicht taugen und welche Daten Sie kostenlos selbst erheben, mit Monatsvorlage.",
       category: "Daten & Statistiken"
     },
     en: {
@@ -3733,9 +3733,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The most comprehensive collection of current Local SEO data: ranking factors, review statistics, industry-specific benchmarks and trend forecasts.",
       category: "Data & Statistics"
     },
-    readingTime: 18,
+    readingTime: 12,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-12",
     icon: "📊",
     keywords: ["local seo statistiken", "local seo daten", "local seo benchmarks", "ranking faktoren 2026", "bewertungsstatistiken", "lokale suche zahlen", "google business profil statistiken", "branchenspezifische seo daten"],
     featured: true,
