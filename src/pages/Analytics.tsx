@@ -268,6 +268,7 @@ const Analytics = () => {
   if (authLoading) {
     return (
       <div className="flex min-h-screen items-center justify-center">
+        <SEOHead title="Analytics Dashboard - LocalDominate" description="Internes Analytics Dashboard" noindex={true} />
         <div className="text-center">
           <div className="h-8 w-8 animate-spin rounded-full border-4 border-primary border-t-transparent mx-auto mb-4" />
           <p className="text-muted-foreground">Lade...</p>
@@ -278,18 +279,26 @@ const Analytics = () => {
 
   if (!user) {
     return (
-      <AdminLoginScreen
-        onLogin={signIn}
-        isLoading={authLoading}
-        error={authError}
-        title="Analytics Dashboard"
-        description="Bitte melde dich mit deinem Admin-Konto an"
-      />
+      <>
+        <SEOHead title="Analytics Dashboard - LocalDominate" description="Internes Analytics Dashboard" noindex={true} />
+        <AdminLoginScreen
+          onLogin={signIn}
+          isLoading={authLoading}
+          error={authError}
+          title="Analytics Dashboard"
+          description="Bitte melde dich mit deinem Admin-Konto an"
+        />
+      </>
     );
   }
 
   if (!isAdmin) {
-    return <AdminAccessDenied onSignOut={signOut} userEmail={user.email} />;
+    return (
+      <>
+        <SEOHead title="Analytics Dashboard - LocalDominate" description="Internes Analytics Dashboard" noindex={true} />
+        <AdminAccessDenied onSignOut={signOut} userEmail={user.email} />
+      </>
+    );
   }
 
   // A/B Variant chart data
