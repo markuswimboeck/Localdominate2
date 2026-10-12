@@ -136,7 +136,7 @@ Google erlaubt, Kunden um eine Bewertung ihrer echten Erfahrung zu bitten. Nicht
 
 ## Bereich 6: Grundlagen für KI-Antworten
 
-KI-Übersichten und Assistenten wie ChatGPT stützen sich auf Ihr Profil, Ihre Website und Erwähnungen im Netz. Prüfen Sie, ob Ihre Kernfakten überall gleich sind und ob Ihre robots.txt die Crawler zulässt, über die Sie in KI-Suchen erscheinen können. Beides prüfen Sie in wenigen Minuten ohne Fachwissen.
+Übersichten mit KI und Assistenten wie ChatGPT stützen sich auf Ihr Profil, Ihre Website und Erwähnungen im Netz. Prüfen Sie, ob Ihre Kernfakten überall gleich sind und ob Ihre robots.txt die Crawler zulässt, über die Sie in KI-Suchen erscheinen können. Beides prüfen Sie in wenigen Minuten ohne Fachwissen.
 
 *Checkliste KI-Grundlagen*
 

@@ -45,7 +45,7 @@ const article: V4Article = {
             ["Kartenblock in der Suche", "Meist drei Betriebe mit Karte, Bewertung, Öffnungszeiten", "Google-Unternehmensprofil"],
             ["Google Maps", "Alle passenden Betriebe im Kartenausschnitt", "Google-Unternehmensprofil"],
             ["Organische Treffer", "Websites mit Bezug zur Suche und zum Ort", "Ihre Website"],
-            ["KI-Übersichten und KI-Assistenten", "Zusammengefasste Antworten mit Nennungen und Links", "Profil, Website und Erwähnungen im Netz"],
+            ["Übersichten mit KI und KI-Assistenten", "Zusammengefasste Antworten mit Nennungen und Links", "Profil, Website und Erwähnungen im Netz"],
           ],
         },
       ],
@@ -227,7 +227,7 @@ const article: V4Article = {
       id: "ki-suche",
       title: "Local SEO und KI-Suche",
       answer:
-        "Google zeigt seit März 2025 auch in Deutschland KI-Übersichten, und viele Menschen fragen ChatGPT oder Perplexity nach Empfehlungen. Diese Systeme stützen sich auf dieselben Quellen: Profil, Website, Bewertungen und Erwähnungen.",
+        "Google zeigt seit März 2025 auch in Deutschland Übersichten mit KI, und viele Menschen fragen ChatGPT oder Perplexity nach Empfehlungen. Diese Systeme stützen sich auf dieselben Quellen: Profil, Website, Bewertungen und Erwähnungen.",
       blocks: [
         {
           t: "p",
@@ -244,7 +244,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Was KI-Übersichten konkret für lokale Betriebe bedeuten, beschreibt der Artikel [Google AI Overviews und Local SEO](/blog/google-ai-overviews-local-seo). Einen Überblick, was sich seit 2024 in der lokalen Suche geändert hat, finden Sie in [Lokale Suchmaschinenoptimierung 2026](/blog/lokale-suchmaschinenoptimierung-2026).",
+          text: "Was Übersichten mit KI konkret für lokale Betriebe bedeuten, beschreibt der Artikel [Google AI Overviews und Local SEO](/blog/google-ai-overviews-local-seo). Einen Überblick, was sich seit 2024 in der lokalen Suche geändert hat, finden Sie in [Lokale Suchmaschinenoptimierung 2026](/blog/lokale-suchmaschinenoptimierung-2026).",
         },
       ],
     },

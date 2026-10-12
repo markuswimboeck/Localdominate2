@@ -15,12 +15,12 @@ const article: V4Article = {
   takeaways: [
     "Google sucht im KI-Modus freie Restauranttische und verlinkt zur Buchung bei Partnern, aber nur in den USA und seit dem 10. April 2026 in Großbritannien. Für DACH haben wir bis zum 11. Oktober 2026 keine Ankündigung gefunden.",
     "Automatische Anrufe von Google im Auftrag von Kunden gibt es laut Google nur in den USA, und dort nicht in allen Bundesstaaten. Im Unternehmensprofil lassen sie sich unter den erweiterten Einstellungen abschalten.",
-    "ChatGPT zeigt seit dem 10. August 2026 in allen Tarifen freie Tische bei OpenTable (weltweit), Resy (USA) und Yelp (USA und Kanada). Nutzer wählen eine Uhrzeit und buchen.",
+    "ChatGPT zeigt seit dem 10. August 2026 in den Tarifen für Privatnutzer freie Tische bei OpenTable (weltweit), Resy (USA) und Yelp (USA und Kanada), laut OpenAI nicht in Business, Enterprise und Edu. Nutzer wählen eine Uhrzeit und buchen.",
     "Gemini Spark steuert Chrome für Aufgaben wie Tischreservierungen, ist aber im Europäischen Wirtschaftsraum und in der Schweiz nicht verfügbar.",
     "Kein Anbieter dokumentiert, nach welchen Kriterien ein Agent einen Betrieb auswählt. Listen mit „Agenten-Rankingfaktoren“ sind nicht belegt.",
   ],
   publishedAt: "2026-05-22",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 13,
   sections: [
     {
@@ -50,10 +50,10 @@ const article: V4Article = {
             ["Google KI-Modus: Labs-Experiment", "Reservierungen, Veranstaltungstickets, Termine für Beauty und Wellness", "USA", "Google AI Pro oder Ultra"],
             ["Google: Preise bei Betrieben abfragen", "Ruft mehrere Betriebe an und schickt die Angebote per E-Mail", "USA, Englisch, angemeldet, ab 18", "Keine Angabe"],
             ["Gemini Spark mit Chrome", "Erledigt Aufgaben im Browser, etwa Tischreservierungen", "Nicht im EWR, in der Schweiz, in Großbritannien und Nigeria; Chrome-Steuerung zunächst USA", "Google AI Pro oder Ultra"],
-            ["ChatGPT: Restaurant-Reservierung", "Zeigt freie Zeiten, Buchung beim Partner", "OpenTable weltweit, Resy USA, Yelp USA und Kanada", "Alle Tarife"],
+            ["ChatGPT: Restaurant-Reservierung", "Zeigt freie Zeiten, Buchung beim Partner", "OpenTable weltweit, Resy USA, Yelp USA und Kanada", "Tarife für Privatnutzer, nicht Business, Enterprise, Edu"],
             ["ChatGPT Work", "Agent für längere Aufgaben mit eigenem Browser", "Alle unterstützten Regionen, dazu gehören Deutschland, Österreich, Schweiz", "Bezahltarife außer Go"],
             ["Microsoft Copilot Actions", "Aufgaben wie Tischreservierungen im Hintergrund", "Je nach Plattform, Markt und Sprache; keine Länderliste", "Keine Angabe"],
-            ["Perplexity mit OpenTable", "Schaltfläche „Reserve“ bei verfügbaren Restaurants", "Keine Länderangabe gefunden", "Keine Angabe"],
+            ["Perplexity mit OpenTable", "Laut TechRadar Schaltfläche „Reserve“ bei verfügbaren Restaurants", "Keine Länderangabe gefunden", "Keine Angabe"],
             ["Claude in Chrome", "Liest Seiten, klickt, füllt Formulare aus", "Keine Länderausnahme genannt", "Alle Bezahltarife"],
           ],
         },
@@ -96,11 +96,11 @@ const article: V4Article = {
       id: "chatgpt",
       title: "ChatGPT: Reservierungen über Partner und ChatGPT Work",
       answer:
-        "ChatGPT sucht seit August 2026 in allen Tarifen nach freien Restaurant-Tischen bei OpenTable (weltweit), Resy und Yelp (nur Nordamerika). Für längere Aufgaben gibt es seit Juli 2026 ChatGPT Work mit eigenem Browser. Der frühere ChatGPT agent ist laut OpenAI-Hilfe nicht mehr verfügbar.",
+        "ChatGPT sucht seit August 2026 in den Tarifen für Privatnutzer nach freien Restaurant-Tischen bei OpenTable (weltweit), Resy und Yelp (nur Nordamerika). Für längere Aufgaben gibt es seit Juli 2026 ChatGPT Work, das laut OpenAI inzwischen auch einen eigenen Cloud-Browser nutzt. Der frühere ChatGPT agent ist laut OpenAI-Hilfe nicht mehr verfügbar.",
       blocks: [
         {
           t: "p",
-          text: "Laut den Versionshinweisen vom 10. August 2026 hilft ChatGPT, freie Reservierungen bei OpenTable, Resy und Yelp zu finden. Nutzer wählen eine Uhrzeit und buchen. OpenTable ist laut OpenAI weltweit verfügbar, Resy nur in den USA, Yelp in den USA und Kanada. Wichtig ist der Zusatz: ChatGPT Work enthält diese Reservierungssuche nicht.",
+          text: "Laut den Versionshinweisen vom 10. August 2026 hilft ChatGPT, freie Reservierungen bei OpenTable, Resy und Yelp zu finden. Nutzer wählen eine Uhrzeit und buchen. OpenTable ist laut OpenAI weltweit verfügbar, Resy nur in den USA, Yelp in den USA und Kanada. Die Versionshinweise sprachen von allen Tarifen; die OpenAI-Hilfe nennt inzwischen nur die Tarife für Privatnutzer und schließt Business, Enterprise und Edu aus. Wichtig ist der Zusatz: ChatGPT Work enthält diese Reservierungssuche nicht.",
         },
         {
           t: "p",
@@ -121,7 +121,7 @@ const article: V4Article = {
       id: "weitere-anbieter",
       title: "Gemini, Microsoft, Perplexity und Claude",
       answer:
-        "Gemini Spark kann in Chrome Aufgaben wie Tischreservierungen erledigen, ist im EWR und in der Schweiz aber nicht verfügbar. Microsoft hat Copilot Actions mit Partnern wie OpenTable angekündigt, ohne Länderliste. Perplexity bindet OpenTable ein, Anthropic bietet Claude in Chrome für alle Bezahltarife an.",
+        "Gemini Spark kann in Chrome Aufgaben wie Tischreservierungen erledigen, ist im EWR und in der Schweiz aber nicht verfügbar. Microsoft hat Copilot Actions mit Partnern wie OpenTable angekündigt, ohne Länderliste. Perplexity bindet laut TechRadar OpenTable ein, Anthropic bietet Claude in Chrome für alle Bezahltarife an.",
       blocks: [
         {
           t: "h3",
@@ -145,7 +145,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Perplexity hat das Reservierungssystem von OpenTable eingebunden. Bei verfügbaren Restaurants erscheint eine Schaltfläche „Reserve“, die Buchung selbst übernimmt OpenTable. Den Browser Comet mit integriertem Assistenten gibt Perplexity seit dem 2. Oktober 2025 kostenlos ab. Länderangaben für die Reservierungsfunktion haben wir nicht gefunden. Mehr zu Perplexity steht in [Perplexity und Claude](/blog/perplexity-claude-lokale-sichtbarkeit).",
+          text: "Laut einem Bericht von TechRadar vom August 2025 hat Perplexity das Reservierungssystem von OpenTable eingebunden. Bei verfügbaren Restaurants erscheint demnach eine Schaltfläche „Reserve“, die Buchung selbst übernimmt OpenTable. Den Browser Comet mit integriertem Assistenten gibt Perplexity seit dem 2. Oktober 2025 kostenlos ab. Länderangaben für die Reservierungsfunktion haben wir nicht gefunden. Mehr zu Perplexity steht in [Perplexity und Claude](/blog/perplexity-claude-lokale-sichtbarkeit).",
         },
         {
           t: "h3",
@@ -193,7 +193,7 @@ const article: V4Article = {
         {
           t: "steps",
           items: [
-            { title: "Einen Online-Buchungsweg anbieten", text: "Partnerbuchungen laufen bei Google, OpenAI und Perplexity über Reservierungsdienste. Für Restaurants ist OpenTable der Partner, den OpenAI und Google beide nennen; für Praxen, Salons und Handwerk nennen die Anbieter in DACH keine Partner." },
+            { title: "Einen Online-Buchungsweg anbieten", text: "Partnerbuchungen laufen bei Google, OpenAI und laut TechRadar auch bei Perplexity über Reservierungsdienste. Für Restaurants ist OpenTable der Partner, den OpenAI und Google beide nennen; für Praxen, Salons und Handwerk nennen die Anbieter in DACH keine Partner." },
             { title: "Buchungslink im Profil eintragen", text: "Hinterlegen Sie den Link zur Terminbuchung oder Reservierung im Google-Unternehmensprofil und auf der Website an einer festen Stelle." },
             { title: "Kontaktdaten überall gleich halten", text: "Telefonnummer, Adresse, Öffnungszeiten und Sonderzeiten müssen auf Website, Google, Bing Places, Apple und Branchenportalen übereinstimmen. Ein Agent, der eine alte Nummer findet, ruft die falsche an. Anleitung: [NAP-Konsistenz](/blog/nap-konsistenz-local-seo)." },
             { title: "Preise und Bedingungen als Text", text: "Preisrahmen, Mindestgruppengröße, Stornobedingungen, Anzahlung, Einzugsgebiet: als HTML-Text auf der Seite, nicht nur als PDF oder Bild. Wie solche Seiten aufgebaut sind, beschreibt [Website-Inhalte für KI-Suchmaschinen](/blog/website-content-ai-suchmaschinen)." },
@@ -273,7 +273,7 @@ const article: V4Article = {
     },
     {
       q: "Brauche ich ein spezielles Buchungssystem, damit Agenten buchen können?",
-      a: "Für Partnerbuchungen ja: ChatGPT, Google und Perplexity buchen Restaurants über Reservierungsdienste, OpenTable wird dabei von allen dreien genannt. Browser-Agenten nutzen dagegen das Formular auf Ihrer Website. Ein klar bedienbares Online-Formular ist deshalb die Grundlage, unabhängig vom Anbieter.",
+      a: "Für Partnerbuchungen ja: Bei ChatGPT und Google wird der Tisch über Reservierungsdienste gebucht, beide nennen OpenTable. Für Perplexity berichtet TechRadar ebenfalls über OpenTable. Browser-Agenten nutzen dagegen das Formular auf Ihrer Website. Ein klar bedienbares Online-Formular ist deshalb die Grundlage, unabhängig vom Anbieter.",
     },
     {
       q: "Nach welchen Kriterien wählt ein Agent einen Betrieb aus?",
@@ -287,6 +287,8 @@ const article: V4Article = {
   sources: [
     { title: "ChatGPT agent", publisher: "OpenAI Help Center", url: "https://help.openai.com/en/articles/11752874-chatgpt-agent" },
     { title: "ChatGPT Release Notes (Einträge 9. Juli, 10. August, 25. August 2026)", publisher: "OpenAI Help Center", url: "https://help.openai.com/en/articles/6825453-chatgpt-release-notes" },
+    { title: "Searching the web with ChatGPT", publisher: "OpenAI Help Center", url: "https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt" },
+    { title: "Using cloud browser in ChatGPT", publisher: "OpenAI Help Center", url: "https://help.openai.com/en/articles/20001280-using-cloud-browser-in-chatgpt" },
     { title: "ChatGPT Supported Countries", publisher: "OpenAI Help Center", url: "https://help.openai.com/en/articles/7947663-chatgpt-supported-countries" },
     { title: "Overview of OpenAI Crawlers", publisher: "OpenAI Developers", url: "https://developers.openai.com/api/docs/bots" },
     { title: "Booking restaurants in the UK just got easier with AI in Search (10. April 2026)", publisher: "Google Blog", url: "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/ai-mode-restaurants-uk/" },

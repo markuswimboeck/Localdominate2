@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-trends-schweiz
 markdown_url: https://localdominate.org/blog-md/local-seo-trends-schweiz.md
 language: de-DE
 published: 2026-03-08
-updated: 2026-10-10
+updated: 2026-10-11
 reading_time_minutes: 9
 category: "Schweiz, Stand 2026"
 author: LocalDominate Redaktion
@@ -21,11 +21,11 @@ Für Inhaberinnen und Inhaber Schweizer KMU, die die Grundlagen kennen und wisse
 
 ## Die kurze Antwort
 
-Neu in der Schweiz sind vor allem vier Dinge: Google zeigt KI-Übersichten seit März 2025 auf Deutsch, Französisch, Italienisch und Englisch, den KI-Modus seit Oktober 2025. Laut BFS haben 43 % der Bevölkerung generative KI schon genutzt. Der EDÖB hat 2025 einen Cookie-Leitfaden veröffentlicht. Die Revision des Behindertengleichstellungsgesetzes ist noch im Parlament.
+Neu in der Schweiz sind vor allem vier Dinge: Google zeigt Übersichten mit KI seit März 2025 auf Deutsch, Französisch, Italienisch und Englisch, den KI-Modus seit Oktober 2025. Laut BFS haben 43 % der Bevölkerung generative KI schon genutzt. Der EDÖB hat 2025 einen Cookie-Leitfaden veröffentlicht. Die Revision des Behindertengleichstellungsgesetzes ist noch im Parlament.
 
 ## Das Wichtigste in Kürze
 
-- Die Schweiz ist das einzige Land, in dem Google die KI-Übersichten zum Start in drei Landessprachen plus Englisch eingeführt hat. Den KI-Modus gibt es seit dem 8. Oktober 2025 auf Deutsch, Französisch und Italienisch.
+- Die Schweiz ist das einzige Land, in dem Google die Übersichten mit KI zum Start in drei Landessprachen plus Englisch eingeführt hat. Den KI-Modus gibt es seit dem 8. Oktober 2025 auf Deutsch, Französisch und Italienisch.
 - Laut Bundesamt für Statistik haben im Frühling 2025 43 % der Bevölkerung zwischen 15 und 88 Jahren generative KI genutzt. Rund die Hälfte nutzt sie nicht. Die klassische Suche bleibt also wichtig.
 - Der Cookie-Leitfaden des EDÖB vom 22. Januar 2025 (ergänzt am 6. Oktober 2025) erklärt, wann Web-Analyse ohne Einwilligung zulässig ist und wie ein Banner gestaltet sein muss.
 - Die Revision des Behindertengleichstellungsgesetzes würde erstmals auch private Dienstleister erfassen. Sie ist noch nicht beschlossen. Wer an Konsumenten in der EU verkauft, ist seit 28. Juni 2025 vom European Accessibility Act betroffen.
@@ -42,7 +42,7 @@ Dieser Artikel behandelt nur, was seit 2025 dazugekommen ist. Die dauerhaften Sc
 | Neuerung | Seit | Was sie für Sie bedeutet |
 | --- | --- | --- |
 | Cookie-Leitfaden des EDÖB | 22. Januar 2025, ergänzt 6. Oktober 2025 | Klare Vorgaben für Analyse, Werbe-Cookies und Banner |
-| KI-Übersichten in der Schweiz auf Deutsch, Französisch, Italienisch und Englisch | 25. März 2025 | Antworten erscheinen über den Treffern, in der Sprache der Suche |
+| Übersichten mit KI in der Schweiz auf Deutsch, Französisch, Italienisch und Englisch | 25. März 2025 | Antworten erscheinen über den Treffern, in der Sprache der Suche |
 | European Accessibility Act der EU | 28. Juni 2025 | Betrifft Schweizer Firmen, die zum Beispiel online an Konsumenten in der EU verkaufen |
 | KI-Modus auf Deutsch, Französisch und Italienisch | 8. Oktober 2025 | Längere Fragen mit Rückfragen, Google sucht dafür in mehreren Teilanfragen |
 | BFS-Erhebung zur KI-Nutzung | Veröffentlicht 5. Dezember 2025 | Erstmals amtliche Zahlen, wie verbreitet generative KI in der Schweiz ist |
@@ -67,17 +67,17 @@ Von den Personen, die generative KI nutzen, greifen laut BFS 36 % täglich darau
 
 > **Einordnung:** Unsere Einschätzung: Ihre Zielgruppe entscheidet. Ein Coiffeur mit jungem Publikum in Zürich sollte KI-Antworten stärker beobachten als eine Hausarztpraxis mit älterer Kundschaft. Für beide gilt, dass Google-Profil, Website und Verzeichniseinträge die Grundlage bleiben, weil KI-Antworten genau daraus schöpfen. Wie Sie Nennungen in KI-Antworten verfolgen, zeigt [KI-Zitate überwachen](https://localdominate.org/blog/ai-zitat-monitoring-local-seo-2026).
 
-## KI-Übersichten und KI-Modus in den Landessprachen
+## Übersichten mit KI und KI-Modus in den Landessprachen
 
-Seit dem 25. März 2025 zeigt Google angemeldeten Nutzern ab 18 Jahren in der Schweiz KI-Übersichten auf Deutsch, Französisch, Italienisch und Englisch. Den KI-Modus führt Google seit dem 8. Oktober 2025 auf Deutsch, Französisch und Italienisch ein. Zusätzliche technische Anforderungen gibt es laut Google nicht.
+Seit dem 25. März 2025 zeigt Google in der Schweiz Übersichten mit KI auf Deutsch, Französisch, Italienisch und Englisch, anfangs nur angemeldeten Nutzern ab 18 Jahren und laut Google-Hilfe heute allen Nutzern. Den KI-Modus führt Google seit dem 8. Oktober 2025 auf Deutsch, Französisch und Italienisch ein. Zusätzliche technische Anforderungen gibt es laut Google nicht.
 
 In der Ankündigung vom März 2025 ist die Schweiz das einzige der neun Länder, für das Google drei Landessprachen plus Englisch nennt. Für Deutschland und Österreich waren es Deutsch und Englisch. Wer in Lausanne auf Französisch fragt, bekommt also eine französische Zusammenfassung, wer in Lugano auf Italienisch fragt, eine italienische.
 
-Google beschreibt in seiner Dokumentation für Website-Betreiber, dass KI-Übersichten und KI-Modus eine Frage in mehrere verwandte Suchen zu Teilthemen zerlegen können, das sogenannte Fan-out. Voraussetzung, um als Quelle zu erscheinen, ist eine indexierte Seite, die für ein Snippet in Frage kommt. Spezielles Markup ist laut Google nicht nötig.
+Google beschreibt in seiner Dokumentation für Website-Betreiber, dass Übersichten mit KI und KI-Modus eine Frage in mehrere verwandte Suchen zu Teilthemen zerlegen können, das sogenannte Fan-out. Voraussetzung, um als Quelle zu erscheinen, ist eine indexierte Seite, die für ein Snippet in Frage kommt. Spezielles Markup ist laut Google nicht nötig.
 
 > **Was das in der Schweiz heisst:** Unsere Einschätzung: Eine Seite kann nur dort als Quelle dienen, wo sie die Sprache der Frage spricht. Ein Betrieb an der Sprachgrenze mit nur deutscher Website hat bei französischen Fragen wenig, was Google zitieren könnte. Eine zweite Sprachversion lohnt sich aber nur, wenn Sie Anfragen in dieser Sprache auch beantworten. Wie Sie Sprachversionen technisch sauber anlegen, steht im Abschnitt [Mehrsprachige Website](https://localdominate.org/blog/local-seo-schweiz#mehrsprachige-website).
 
-1. **Suchanfragen je Sprache ansehen.** In der Search Console nach Land Schweiz filtern und die Seiten je Sprachverzeichnis vergleichen, etwa /de/ und /fr/. Zugriffe aus KI-Übersichten und KI-Modus zählt Google dort unter dem Suchtyp „Web“ mit, getrennt ausweisen lassen sie sich nicht.
+1. **Suchanfragen je Sprache ansehen.** In der Search Console nach Land Schweiz filtern und die Seiten je Sprachverzeichnis vergleichen, etwa /de/ und /fr/. Klicks aus Übersichten mit KI und KI-Modus zählt Google dort unter dem Suchtyp „Web“ mit, nicht getrennt. Wie oft Links zu Ihrer Website in diesen Funktionen angezeigt wurden, zeigt seit dem 31. August 2026 ein eigener Bericht, auch nach Land aufgeschlüsselt.
 2. **Fragen pro Sprache beantworten.** Die Fragen, die Kunden in jeder Sprache stellen, auf der passenden Leistungsseite mit einem klaren ersten Satz beantworten, mit Preisrahmen in CHF und Bedingungen als Text.
 3. **Stichproben machen.** Einmal im Monat dieselbe Frage auf Deutsch und Französisch (oder Italienisch) im KI-Modus stellen und notieren, ob und wie Ihr Betrieb genannt wird.
 
@@ -136,7 +136,7 @@ Viele Trendartikel zur Schweiz arbeiten mit Prozentzahlen ohne Quelle, etwa zum 
 | „Eine .ch-Domain bringt einen festen Prozentsatz mehr Sichtbarkeit“ | Für solche Prozentwerte gibt es keine nachvollziehbare Quelle. |
 | „Hosting in der Schweiz macht die Seite messbar schneller und ist ein Rankingfaktor“ | Eine belastbare Messung dazu ist nicht veröffentlicht. Messen Sie die Ladezeit Ihrer eigenen Seite. |
 | „Jede Sprachregion braucht ein eigenes Google-Profil“ | Ein Standort hat ein Profil. Den Namen in mehreren Sprachen zu wiederholen, verbietet Google. Mehrsprachigkeit gehört auf die Website. |
-| „Für KI-Antworten brauchen Sie Speakable- oder spezielles Markup“ | Google schreibt, dass für KI-Übersichten und KI-Modus keine speziellen schema.org-Daten nötig sind. |
+| „Für KI-Antworten brauchen Sie Speakable- oder spezielles Markup“ | Google schreibt, dass für Übersichten mit KI und KI-Modus keine speziellen schema.org-Daten nötig sind. |
 | „Sprachsuche wächst in der Romandie um einen bestimmten Prozentsatz“ | Weder Google noch das BFS veröffentlichen solche Zahlen für die Schweiz. |
 
 Die Regeln für Profilname und Standorte stehen in [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren), die für mehrere Standorte in [Profile für mehrere Standorte](https://localdominate.org/blog/gbp-mehrere-standorte). Wie sich die Lage in den Nachbarländern darstellt, zeigen [Local SEO Trends Deutschland](https://localdominate.org/blog/local-seo-trends-deutschland) und [Local SEO Trends Österreich](https://localdominate.org/blog/local-seo-trends-oesterreich).
@@ -156,9 +156,9 @@ Ohne Budget lässt sich vieles davon selbst erledigen, wie [Kostenloses SEO](htt
 
 ## Häufige Fragen
 
-### Gibt es die KI-Übersichten von Google in der Schweiz auch auf Französisch und Italienisch?
+### Gibt es die Übersichten mit KI von Google in der Schweiz auch auf Französisch und Italienisch?
 
-Ja. Seit dem 25. März 2025 zeigt Google angemeldeten Nutzern ab 18 Jahren in der Schweiz KI-Übersichten auf Deutsch, Französisch, Italienisch und Englisch. Den KI-Modus gibt es seit dem 8. Oktober 2025 auf Deutsch, Französisch und Italienisch.
+Ja. Seit dem 25. März 2025 zeigt Google in der Schweiz Übersichten mit KI auf Deutsch, Französisch, Italienisch und Englisch, anfangs nur angemeldeten Nutzern ab 18 Jahren und laut Google-Hilfe heute allen Nutzern. Den KI-Modus gibt es seit dem 8. Oktober 2025 auf Deutsch, Französisch und Italienisch.
 
 ### Wie viele Menschen in der Schweiz nutzen KI?
 
@@ -185,6 +185,8 @@ Der Artikel Local SEO Schweiz erklärt die dauerhaften Grundlagen: Sprachregione
 - [We’re bringing the helpfulness of AI Overviews to more countries in Europe (25. März 2025)](https://blog.google/feed/were-bringing-the-helpfulness-of-ai-overviews-to-more-countries-in-europe/), Google Blog
 - [Der KI-Modus startet in Deutschland, Österreich und der Schweiz (8. Oktober 2025)](https://blog.google/intl/de-de/produkte/suchen-entdecken/ki-modus-startet-in-dach/), Google Blog Deutschland
 - [KI-Funktionen und Ihre Website](https://developers.google.com/search/docs/appearance/ai-features?hl=de), Google Search Central
+- [Übersicht mit KI: Informationen in der Google Suche schneller und einfacher finden](https://support.google.com/websearch/answer/14901683?hl=de), Google Suche Hilfe
+- [Leistungsbericht zu generativen KI-Funktionen (Google Suche)](https://support.google.com/webmasters/answer/16984139?hl=de), Search Console-Hilfe
 - [Internetnutzung in den Schweizer Haushalten 2025: In der KI-begeisterten Schweiz nimmt Desinformation zu (5. Dezember 2025)](https://dam-api.bfs.admin.ch/hub/api/dam/assets/36304417/master), Bundesamt für Statistik (BFS)
 - [Leitfaden des EDÖB betreffend Datenbearbeitungen mittels Cookies und ähnlichen Technologien (22. Januar 2025, ergänzt 6. Oktober 2025)](https://www.edoeb.admin.ch/dam/de/sd-web/brLL9rM3ny9d/Leitfaden%20des%20ED%C3%96B%20betreffend%20Datenbearbeitungen%20mittels%20Cookies%20und%20%C3%A4hnlichen%20Technologien%20V.%201.1%20vom%2006.10.2025_DE.pdf), Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)
 - [Merkblatt Verwendung von Cookies und ähnlichen Technologien im Zusammenhang mit Online-Tracking (März 2026)](https://www.edoeb.admin.ch/dam/de/sd-web/ByXs53ExpIEy/20260327%20Merkblatt%20Cookies_DE.pdf), Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)
@@ -193,4 +195,4 @@ Der Artikel Local SEO Schweiz erklärt die dauerhaften Grundlagen: Sprachregione
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
