@@ -3416,6 +3416,28 @@ export const blogArticles: BlogArticle[] = [
   },
   // === TOPIC HUB PAGES ===
   {
+    slug: "case-studies-hub",
+    de: {
+      title: "Local-SEO-Fallstudien: Ergebnisse prüfen und selbst dokumentieren",
+      metaTitle: "Local-SEO-Fallstudien prüfen und selbst dokumentieren",
+      metaDescription: "Woran Sie belastbare Local-SEO-Fallstudien erkennen und wie Sie eigene Ergebnisse dokumentieren: Ausgangslage, Messpunkte, Änderungsprotokoll, Leistungsdaten.",
+      excerpt: "Woran Sie belastbare Local-SEO-Fallstudien erkennen und wie Sie eigene Ergebnisse dokumentieren: Ausgangslage, Messpunkte, Änderungsprotokoll, Leistungsdaten.",
+      category: "Case Study"
+    },
+    en: {
+      title: "Local SEO case studies: how to check results and document your own",
+      metaTitle: "Local SEO case studies: how to check results and document your own",
+      metaDescription: "How to recognise reliable local SEO case studies and document your own results: baseline, measuring points, change log and performance data.",
+      excerpt: "How to recognise reliable local SEO case studies and document your own results: baseline, measuring points, change log and performance data.",
+      category: "Case Study"
+    },
+    readingTime: 4,
+    publishedAt: "2026-03-09",
+    updatedAt: "2026-10-12",
+    icon: "📈",
+    keywords: []
+  },
+  {
     slug: "tools-ressourcen-hub",
     de: {
       title: "Local-SEO-Vorlagen, Checklisten und Werkzeuge im Überblick",
@@ -3550,10 +3572,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-branchen-hub",
     de: {
-      title: "Local SEO Branchen-Guides – 22+ Branchen im Überblick",
-      metaTitle: "Local SEO Branchen-Guides – 22+ Branchen im Überblick 2026",
-      metaDescription: "Branchenspezifische Local SEO Anleitungen für Gastronomie, Gesundheit, Handwerk, Dienstleistungen und Lifestyle.",
-      excerpt: "Jede Branche hat eigene Local SEO Herausforderungen. Finde den passenden Guide für dein Business.",
+      title: "Local SEO nach Branche: alle Leitfäden im Überblick",
+      metaTitle: "Local SEO nach Branche: alle Leitfäden im Überblick",
+      metaDescription: "Local SEO für Ihre Branche: Leitfäden für Hotels, Gastronomie, Handwerk, Praxen, Kanzleien, Steuerberater, Studios und Dienstleister in Deutschland, AT und CH.",
+      excerpt: "Local SEO für Ihre Branche: Leitfäden für Hotels, Gastronomie, Handwerk, Praxen, Kanzleien, Steuerberater, Studios und Dienstleister in Deutschland, AT und CH.",
       category: "Branchen"
     },
     en: {
@@ -3563,19 +3585,19 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Every industry has unique Local SEO challenges. Find the right guide for your business.",
       category: "Industries"
     },
-    readingTime: 5,
+    readingTime: 6,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-03-05",
+    updatedAt: "2026-10-12",
     icon: "🏭",
     keywords: ["local seo branchen", "branchen seo guide", "local seo nach branche", "branchenspezifisches seo"]
   },
   {
     slug: "local-seo-staedte-hub",
     de: {
-      title: "Local SEO Städte-Guides – DACH-Region",
-      metaTitle: "Local SEO Städte-Guides – 12 Städte in DACH | 2026",
-      metaDescription: "Stadtspezifische Local SEO Guides für Berlin, Hamburg, München, Wien, Zürich und mehr. Lokale Besonderheiten für jede Stadt.",
-      excerpt: "Stadtspezifische Local SEO Guides mit lokalen Verzeichnissen, Wettbewerbsanalysen und regionalen Tipps.",
+      title: "Local SEO nach Stadt und Land: alle Leitfäden für Deutschland, Österreich und die Schweiz",
+      metaTitle: "Local SEO nach Stadt und Land: DACH im Überblick",
+      metaDescription: "Local SEO in Deutschland, Österreich und der Schweiz: Leitfäden zu Recht und Verzeichnissen sowie für Berlin, Hamburg, München, Wien, Zürich und weitere Städte.",
+      excerpt: "Local SEO in Deutschland, Österreich und der Schweiz: Leitfäden zu Recht und Verzeichnissen sowie für Berlin, Hamburg, München, Wien, Zürich und weitere Städte.",
       category: "Städte"
     },
     en: {
@@ -3587,7 +3609,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 5,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-03-05",
+    updatedAt: "2026-10-12",
     icon: "🏙️",
     keywords: ["local seo städte", "local seo berlin", "local seo münchen", "local seo wien", "städte seo guide"]
   },
@@ -3852,9 +3874,9 @@ export const blogArticles: BlogArticle[] = [
   },
   {
     slug: "faq-hub",
-    de: { title: "FAQ Hub: Alle Local SEO Fragen beantwortet", metaTitle: "FAQ Hub Local SEO | 50+ Antworten", metaDescription: "50+ häufig gestellte Fragen zu Local SEO — von Grundlagen über Google Business Profil bis AI-Optimierung. Sofortige Antworten.", excerpt: "Alle FAQ zu Local SEO an einem Ort: Grundlagen, GBP, Bewertungen, Technik, AI und Content.", category: "Ressourcen" },
+    de: { title: "Häufige Fragen zu Local SEO: kurze Antworten und wo Sie mehr finden", metaTitle: "Häufige Fragen zu Local SEO: kurze Antworten", metaDescription: "Kurze Antworten auf häufige Fragen zu Local SEO, Google-Unternehmensprofil, Bewertungen, Technik und KI-Suche, mit Links zu den ausführlichen Leitfäden.", excerpt: "Kurze Antworten auf häufige Fragen zu Local SEO, Google-Unternehmensprofil, Bewertungen, Technik und KI-Suche, mit Links zu den ausführlichen Leitfäden.", category: "Ressourcen" },
     en: { title: "FAQ Hub: All Local SEO Questions Answered", metaTitle: "FAQ Hub Local SEO | 50+ Answers", metaDescription: "50+ frequently asked questions about Local SEO — from basics to AI optimization. Instant answers.", excerpt: "All Local SEO FAQs in one place: basics, GBP, reviews, tech, AI and content.", category: "Resources" },
-    readingTime: 15, publishedAt: "2026-03-08", updatedAt: "2026-03-08", icon: "❓", keywords: ["local seo faq", "local seo fragen", "google business profil faq", "bewertungen faq", "seo fragen antworten"], featured: false
+    readingTime: 5, publishedAt: "2026-03-08", updatedAt: "2026-10-12", icon: "❓", keywords: ["local seo faq", "local seo fragen", "google business profil faq", "bewertungen faq", "seo fragen antworten"], featured: false
   },
   {
     slug: "faq-local-seo-grundlagen",
@@ -4479,6 +4501,7 @@ export const blogArticles: BlogArticle[] = [
 
 // Slugs that have actual page components and routes
 const PUBLISHED_SLUGS = new Set([
+  "case-studies-hub",
   "tools-ressourcen-hub",
   "content-marketing-hub",
   "technisches-seo-hub",

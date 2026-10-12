@@ -94,9 +94,6 @@ const LocalSeoHannover = lazy(() => import("./pages/blog/LocalSeoHannover"));
 const TechnischesLocalSeoGuide = lazy(() => import("./pages/blog/TechnischesLocalSeoGuide"));
 const LocalBusinessSchemaImplementierung = lazy(() => import("./pages/blog/LocalBusinessSchemaImplementierung"));
 const LocalSeoReportingTemplate = lazy(() => import("./pages/blog/LocalSeoReportingTemplate"));
-const HubBranchen = lazy(() => import("./pages/blog/HubBranchen"));
-const HubStaedte = lazy(() => import("./pages/blog/HubStaedte"));
-const HubCaseStudies = lazy(() => import("./pages/blog/HubCaseStudies"));
 const Partner = lazy(() => import("./pages/Partner"));
 const Redaktionsrichtlinien = lazy(() => import("./pages/Redaktionsrichtlinien"));
 const Forschungsmethodik = lazy(() => import("./pages/Forschungsmethodik"));
@@ -109,7 +106,6 @@ const WieGoogleMapsRankingFunktioniert = lazy(() => import("./pages/blog/WieGoog
 const SchemaStrategieDokument = lazy(() => import("./pages/blog/SchemaStrategieDokument"));
 const LocalSeoStatistiken = lazy(() => import("./pages/blog/LocalSeoStatistiken"));
 const CitationVerzeichnisse = lazy(() => import("./pages/CitationVerzeichnisse"));
-const FaqHub = lazy(() => import("./pages/blog/FaqHub"));
 const FaqSubHub = lazy(() => import("./pages/blog/FaqSubHub"));
 
 // V4 redesign: HomeV4 is the live "/" and ServicesV4 the live "/services" (see docs/B1_SCOPE.md).
@@ -262,9 +258,6 @@ const App = () => (
                 <Route path="/blog/technisches-local-seo-guide" element={<TechnischesLocalSeoGuide />} />
                 <Route path="/blog/localbusiness-schema-implementierung" element={<LocalBusinessSchemaImplementierung />} />
                 <Route path="/blog/local-seo-reporting-template" element={<LocalSeoReportingTemplate />} />
-                <Route path="/blog/local-seo-branchen-hub" element={<HubBranchen />} />
-                <Route path="/blog/local-seo-staedte-hub" element={<HubStaedte />} />
-                <Route path="/blog/case-studies-hub" element={<HubCaseStudies />} />
                 <Route path="/blog/local-seo-strategie-kleine-unternehmen" element={<LocalSeoStrategieKleineUnternehmen />} />
                 <Route path="/blog/local-seo-ranking-faktoren-erklaert" element={<LocalSeoRankingFaktorenErklaert />} />
                 <Route path="/blog/local-link-building-blueprint" element={<LocalLinkBuildingBlueprint />} />
@@ -272,7 +265,6 @@ const App = () => (
                 <Route path="/blog/wie-google-maps-ranking-funktioniert" element={<WieGoogleMapsRankingFunktioniert />} />
                 <Route path="/blog/schema-strategie-dokument" element={<SchemaStrategieDokument />} />
                 <Route path="/blog/local-seo-statistiken-daten" element={<LocalSeoStatistiken />} />
-                <Route path="/blog/faq-hub" element={<FaqHub />} />
                 <Route path="/blog/faq-local-seo-grundlagen" element={<FaqSubHub />} />
                 <Route path="/blog/faq-google-business-profil" element={<FaqSubHub />} />
                 <Route path="/blog/faq-bewertungen-reputation" element={<FaqSubHub />} />

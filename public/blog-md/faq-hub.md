@@ -1,113 +1,95 @@
 ---
-title: "FAQ Hub: Alle Local SEO Fragen beantwortet"
+title: "Häufige Fragen zu Local SEO: kurze Antworten und wo Sie mehr finden"
 slug: faq-hub
 url: https://localdominate.org/blog/faq-hub
 canonical: https://localdominate.org/blog/faq-hub
 markdown_url: https://localdominate.org/blog-md/faq-hub.md
 language: de-DE
 published: 2026-03-08
-updated: 2026-03-08
-reading_time_minutes: 15
-category: "Ressourcen"
-author: LocalDominate
+updated: 2026-10-12
+reading_time_minutes: 5
+category: "Themenübersicht"
+author: LocalDominate Redaktion
+accountable: Markus Wimböck
 publisher: LocalDominate
-license: https://creativecommons.org/licenses/by/4.0/
-citation: "LocalDominate (2026-03-08). FAQ Hub: Alle Local SEO Fragen beantwortet. https://localdominate.org/blog/faq-hub"
-keywords: ["local seo faq", "local seo fragen", "google business profil faq", "bewertungen faq", "seo fragen antworten"]
-area_served: [Deutschland, Österreich, Schweiz]
-ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
+description: "Kurze Antworten auf häufige Fragen zu Local SEO, Google-Unternehmensprofil, Bewertungen, Technik und KI-Suche, mit Links zu den ausführlichen Leitfäden."
 ---
 
-<!--
-JSON-LD (Schema.org Article):
+# Häufige Fragen zu Local SEO: kurze Antworten und wo Sie mehr finden
 
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "@id": "https://localdominate.org/blog/faq-hub#article",
-  "headline": "FAQ Hub: Alle Local SEO Fragen beantwortet",
-  "description": "50+ häufig gestellte Fragen zu Local SEO — von Grundlagen über Google Business Profil bis AI-Optimierung. Sofortige Antworten.",
-  "url": "https://localdominate.org/blog/faq-hub",
-  "inLanguage": "de-DE",
-  "datePublished": "2026-03-08",
-  "dateModified": "2026-03-08",
-  "timeRequired": "PT15M",
-  "keywords": "local seo faq, local seo fragen, google business profil faq, bewertungen faq, seo fragen antworten",
-  "author": {
-    "@type": "Organization",
-    "name": "LocalDominate",
-    "url": "https://localdominate.org"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "LocalDominate",
-    "url": "https://localdominate.org",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://localdominate.org/logo.png"
-    }
-  },
-  "isAccessibleForFree": true,
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: LocalDominate (localdominate.org)",
-  "encoding": {
-    "@type": "MediaObject",
-    "encodingFormat": "text/markdown",
-    "contentUrl": "https://localdominate.org/blog-md/faq-hub.md"
-  },
-  "about": {
-    "@type": "Thing",
-    "name": "Ressourcen"
-  },
-  "areaServed": [
-    {
-      "@type": "Country",
-      "name": "Deutschland",
-      "sameAs": "https://www.wikidata.org/wiki/Q183"
-    },
-    {
-      "@type": "Country",
-      "name": "Österreich",
-      "sameAs": "https://www.wikidata.org/wiki/Q40"
-    },
-    {
-      "@type": "Country",
-      "name": "Schweiz",
-      "sameAs": "https://www.wikidata.org/wiki/Q39"
-    }
-  ]
-}
-```
--->
+Für alle, die eine schnelle Antwort suchen. Die wichtigsten Fragen beantworten wir direkt auf dieser Seite. Ausführliche Antworten stehen in den Leitfäden und in den Fragensammlungen zu den einzelnen Themen.
 
-# FAQ Hub: Alle Local SEO Fragen beantwortet
+## Die kurze Antwort
 
-> Kanonische URL: https://localdominate.org/blog/faq-hub
-> Aktualisiert: 2026-03-08 · Lesezeit: 15 Min · Kategorie: Ressourcen
-> Lizenz: CC-BY 4.0 — Zitate mit Quellenangabe erlaubt.
+Local SEO sind alle Maßnahmen, mit denen ein Betrieb bei ortsbezogenen Suchen in Google Maps, im Kartenblock der Suche und in KI-Antworten erscheint. Google sortiert nach **Relevanz, Entfernung und Bekanntheit**, und ein besseres Ranking lässt sich laut Google nicht kaufen. Den größten Hebel haben ein vollständiges Unternehmensprofil, eine klare Website, einheitliche Firmendaten und echte Bewertungen.
 
-## Kurzbeschreibung
+## Das Wichtigste in Kürze
 
-50+ häufig gestellte Fragen zu Local SEO — von Grundlagen über Google Business Profil bis AI-Optimierung. Sofortige Antworten.
+- Die kurzen Antworten unten stammen aus unseren geprüften Leitfäden und verlinken jeweils dorthin.
+- Für jedes große Thema gibt es eine eigene Übersicht mit allen Anleitungen.
+- Ältere Fragensammlungen zu einzelnen Themen sind weiter verlinkt.
 
-## Zusammenfassung
+## Die Übersichten nach Thema
 
-Alle FAQ zu Local SEO an einem Ort: Grundlagen, GBP, Bewertungen, Technik, AI und Content.
+Jede Übersicht sammelt die Anleitungen zu einem Thema und ordnet sie nach Aufgaben.
 
-## Schlüsselbegriffe
+- [Google-Unternehmensprofil](https://localdominate.org/blog/google-business-profil-hub)
+- [Google Maps SEO](https://localdominate.org/blog/google-maps-seo-hub)
+- [Bewertungen und Reputation](https://localdominate.org/blog/bewertungen-reputation-hub)
+- [Probleme mit dem Google-Profil](https://localdominate.org/blog/troubleshooting-hub)
+- [KI-Suche und GEO](https://localdominate.org/blog/ai-zukunft-hub)
+- [Technisches Local SEO](https://localdominate.org/blog/technisches-seo-hub)
+- [Content Marketing und Links](https://localdominate.org/blog/content-marketing-hub)
+- [Vorlagen und Checklisten](https://localdominate.org/blog/tools-ressourcen-hub)
+- [Local SEO nach Branche](https://localdominate.org/blog/local-seo-branchen-hub)
+- [Local SEO nach Stadt und Land](https://localdominate.org/blog/local-seo-staedte-hub)
+- [Fallstudien prüfen und dokumentieren](https://localdominate.org/blog/case-studies-hub)
 
-- local seo faq
-- local seo fragen
-- google business profil faq
-- bewertungen faq
-- seo fragen antworten
+## Fragensammlungen zu einzelnen Themen
 
-## Quelle und Autor
+Diese älteren Sammlungen beantworten viele Detailfragen. Die aktuellen Leitfäden in den Übersichten haben im Zweifel Vorrang.
 
-Verfasst und veröffentlicht von **LocalDominate** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+- [Fragen zu den Grundlagen von Local SEO](https://localdominate.org/blog/faq-local-seo-grundlagen)
+- [Fragen zum Google-Unternehmensprofil](https://localdominate.org/blog/faq-google-business-profil)
+- [Fragen zu Bewertungen und Reputation](https://localdominate.org/blog/faq-bewertungen-reputation)
+- [Fragen zu technischem SEO](https://localdominate.org/blog/faq-technisches-seo)
+- [Fragen zu Content und Marketing](https://localdominate.org/blog/faq-content-marketing-local-seo)
+- [Fragen zu KI und der Zukunft von Local SEO](https://localdominate.org/blog/faq-ai-zukunft-local-seo)
 
-- Webseite: https://localdominate.org
-- Vollständiger Artikel (HTML): https://localdominate.org/blog/faq-hub
-- Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/faq-hub.md
-- Zitiervorlage: LocalDominate (2026-03-08). FAQ Hub: Alle Local SEO Fragen beantwortet. https://localdominate.org/blog/faq-hub
+## Häufige Fragen
+
+### Was ist Local SEO?
+
+Alle Maßnahmen, mit denen ein Betrieb bei Suchen mit Ortsbezug gefunden wird: in Google Maps, im Kartenblock der Suche und zunehmend in KI-Antworten. Mehr im [Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo).
+
+### Kann ich ein besseres Google-Ranking kaufen?
+
+Nein. Google schreibt, dass sich ein besseres lokales Ranking weder anfordern noch bezahlen lässt. Anzeigen erscheinen getrennt und gekennzeichnet. Mehr im [Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo).
+
+### Darf ich Kunden für eine Bewertung etwas schenken?
+
+Nein. Google verbietet Zahlungen, Rabatte, kostenlose Produkte oder Leistungen als Gegenleistung für Rezensionen. Erlaubt ist die einfache Bitte ohne Gegenleistung. Mehr in [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
+
+### Mein Profil ist gesperrt. Was tun?
+
+Zuerst den Verstoß beheben, dann im Einspruchstool von Google Einspruch einlegen und Nachweise hochladen. Legen Sie währenddessen kein neues Profil an. Mehr in [Profil gesperrt](https://localdominate.org/blog/gbp-suspendiert-reaktivieren).
+
+### Brauche ich für die KI-Suche eine eigene Optimierung?
+
+Google schreibt, für Übersichten mit KI und den KI-Modus sei keine spezielle Optimierung nötig. Wichtig sind eine lesbare Website, ein gepflegtes Profil und Crawler, die Ihre Seiten lesen dürfen. Mehr in [KI-Suche und GEO](https://localdominate.org/blog/ai-zukunft-hub).
+
+### Zeigt Google noch Sterne für Bewertungen auf meiner Website?
+
+Für Bewertungen, die ein lokaler Betrieb über sich selbst einbindet, nicht. Das gilt seit September 2019, auch für eingebettete Google-Bewertungen. Mehr in [Review Schema](https://localdominate.org/blog/review-schema-implementierung).
+
+## Quellen
+
+- [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Verbotene und eingeschränkt zulässige Inhalte (Richtlinien für Rezensionen)](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe
+- [Einspruch gegen eingeschränkte oder gesperrte Profile](https://support.google.com/business/answer/4569145?hl=de), Google Unternehmensprofil-Hilfe
+- [AI features and your website](https://developers.google.com/search/docs/appearance/ai-features), Google Search Central
+- [Making Review Rich Results more helpful (16. September 2019)](https://developers.google.com/search/blog/2019/09/making-review-rich-results-more-helpful), Google Search Central Blog
+
+---
+
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
