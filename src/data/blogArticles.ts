@@ -574,10 +574,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-fitness",
     de: {
-      title: "Local SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche",
-      metaTitle: "Local SEO für Fitnessstudios und Personal Trainer",
-      metaDescription: "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
-      excerpt: "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
+      title: "Lokales SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche",
+      metaTitle: "Lokales SEO für Fitnessstudios: mehr Probetrainings",
+      metaDescription: "Lokales SEO für Fitnessstudios und Personal Trainer: Kategorie, Google-Profil, Bewertungen nach Googles Regeln, Probetraining-Seite und Saisonplanung.",
+      excerpt: "Lokales SEO für Fitnessstudios und Personal Trainer: Kategorie, Google-Profil, Bewertungen nach Googles Regeln, Probetraining-Seite und Saisonplanung.",
       category: "Branchen"
     },
     en: {
@@ -1119,10 +1119,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-friseursalon-beauty",
     de: {
-      title: "Local SEO für Friseursalons und Beauty-Studios: So finden Kunden Ihren Salon",
-      metaTitle: "Local SEO für Friseure und Beauty-Studios: Leitfaden 2026",
-      metaDescription: "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
-      excerpt: "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
+      title: "SEO für Friseure und Kosmetikstudios: So finden Kunden Ihren Salon über Google",
+      metaTitle: "SEO für Friseure und Kosmetikstudios: der Leitfaden",
+      metaDescription: "SEO für Friseure, Kosmetik- und Nagelstudios: Google-Unternehmensprofil, eine Seite je Leistung, echte Bewertungen und Online-Termine nach Googles Regeln.",
+      excerpt: "SEO für Friseure, Kosmetik- und Nagelstudios: Google-Unternehmensprofil, eine Seite je Leistung, echte Bewertungen und Online-Termine nach Googles Regeln.",
       category: "Beauty & Wellness"
     },
     en: {
