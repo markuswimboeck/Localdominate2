@@ -7899,7 +7899,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 2507,
+  "words": 2530,
   "htmlLang": "en"
  },
  {
@@ -10535,7 +10535,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 2576,
+  "words": 2658,
   "htmlLang": "en"
  },
  {
@@ -13041,34 +13041,80 @@
  {
   "path": "/blog/lokale-influencer-kooperationen",
   "finalPath": "/blog/lokale-influencer-kooperationen",
-  "title": "LocalDominate – Growth Studio: Brand, Website, Marketing",
-  "description": "LocalDominate plans, builds and markets your brand, website and Google presence as one project. Seven steps, scope and price in writing, free check.",
+  "title": "Local Influencer Marketing | Partnership Guide 2026",
+  "description": "How local businesses partner with micro-influencers. From finding to successful campaigns.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-  "canonical": null,
+  "canonical": "https://localdominate.org/blog/lokale-influencer-kooperationen",
   "hreflang": [],
-  "ogTitle": "LocalDominate – Growth Studio: Brand, Website, Marketing",
-  "ogImage": "https://localdominate.org/og-image.png",
-  "ogType": "website",
-  "articlePublished": null,
-  "articleModified": null,
-  "h1": [],
-  "jsonLdBlocks": 2,
+  "ogTitle": "Local Influencer Marketing | Partnership Guide 2026",
+  "ogImage": "https://localdominate.org/images/og/blog/lokale-influencer-kooperationen.jpg",
+  "ogType": "article",
+  "articlePublished": "2026-02-24",
+  "articleModified": "2026-02-24",
+  "h1": [
+   "Local Influencer Marketing: Building Partnerships"
+  ],
+  "jsonLdBlocks": 8,
   "jsonLdInvalid": 0,
   "schemaTypes": [
+   "Answer",
+   "Article",
+   "Audience",
+   "BreadcrumbList",
+   "BusinessAudience",
    "ContactPoint",
+   "Country",
+   "CreativeWork",
+   "Dataset",
+   "DefinedTerm",
+   "DefinedTermSet",
+   "DigitalDocument",
    "EntryPoint",
+   "FAQPage",
    "ImageObject",
+   "ListItem",
    "Organization",
+   "Person",
    "PostalAddress",
+   "Question",
    "SearchAction",
+   "Service",
+   "ServiceChannel",
+   "SpeakableSpecification",
+   "Thing",
+   "WebPage",
+   "WebPageElement",
    "WebSite"
   ],
-  "ldAuthors": [],
-  "ldDatePublished": null,
-  "ldDateModified": null,
-  "internalLinks": [],
-  "images": [],
-  "words": 0,
+  "ldAuthors": [
+   "LocalDominate Redaktion"
+  ],
+  "ldDatePublished": "2026-02-24",
+  "ldDateModified": "2026-02-24",
+  "internalLinks": [
+   "/",
+   "/about",
+   "/agb",
+   "/anwalt-marketing",
+   "/arztpraxis-marketing",
+   "/blog",
+   "/blog/google-bewertungen-bekommen",
+   "/blog/google-maps-audit-template",
+   "/blog/google-maps-ranking-verbessern",
+   "/blog/kostenloses-seo-guide",
+   "/blog/local-seo-fuer-restaurants",
+   "/blog/local-seo-keywords-finden",
+   "/blog/ultimate-guide-local-seo",
+   "/datenschutz",
+   "/handwerker-marketing",
+   "/impressum",
+   "/restaurant-marketing",
+   "/seo-lexikon"
+  ],
+  "images": [
+   "/logo.png"
+  ],
+  "words": 1592,
   "htmlLang": "en"
  },
  {
