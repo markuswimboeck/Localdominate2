@@ -20,7 +20,7 @@ const article: V4Article = {
     "Bitten Sie jeden Kunden um eine Bewertung, ohne Druck, ohne Gegenleistung und ohne Quoten für Mitarbeiter.",
   ],
   publishedAt: "2026-02-22",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 12,
   sections: [
     {
@@ -65,7 +65,7 @@ const article: V4Article = {
           items: [
             { title: "Adresse prüfen", text: "Kommen Kunden zu Ihnen? Wenn nicht, Adresse im Profil ausblenden." },
             { title: "Gebiete eintragen", text: "Städte, Gemeinden oder Postleitzahlen, in denen Sie wirklich Aufträge annehmen. Höchstens 20, möglichst nicht weiter als zwei Autostunden entfernt." },
-            { title: "Ein Profil je Standort", text: "Google erlaubt für jeden Standort nicht mehr als ein Profil. Ein zweites Profil ist nur für eine echte Niederlassung mit eigenem Personal und eigenem Einzugsgebiet zulässig." },
+            { title: "Ein Profil je Standort", text: "Google erlaubt für jeden Standort nicht mehr als ein Profil. Ein zweites Profil setzt einen zweiten echten Standort mit eigenem Personal voraus." },
             { title: "Name wie auf dem Firmenschild", text: "„Malerbetrieb Gruber“, nicht „Maler Gruber Fassaden München günstig“. Ort, Leistung oder Slogans im Namen verstoßen gegen Googles Richtlinien." },
           ],
         },
@@ -84,7 +84,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google veröffentlicht keine vollständige Kategorienliste. Sie finden die passenden Einträge, indem Sie im Feld „Primäre Kategorie“ einen Begriff wie „Maler“ eingeben und die Vorschläge lesen. Eigene Kategorien lassen sich nicht anlegen. Google rät ausdrücklich davon ab, für jede Leistung eine eigene Kategorie zu wählen. Wie Sie systematisch vorgehen, steht im [Kategorien-Leitfaden](/blog/google-business-kategorien-guide#richtige-kategorie-finden).",
+          text: "Googles Hilfe zu Kategorien enthält keine Gesamtliste. Sie finden die passenden Einträge, indem Sie im Feld „Primäre Kategorie“ einen Begriff wie „Maler“ eingeben und die Vorschläge lesen. Eigene Kategorien lassen sich nicht anlegen. Google rät ausdrücklich davon ab, für jede Leistung eine eigene Kategorie zu wählen. Wie Sie systematisch vorgehen, steht im [Kategorien-Leitfaden](/blog/google-business-kategorien-guide#richtige-kategorie-finden).",
         },
         {
           t: "ul",
@@ -173,7 +173,7 @@ const article: V4Article = {
             ["§ 3 PAngV", "Wer Verbrauchern Leistungen anbietet oder unter Angabe von Preisen wirbt, nennt Gesamtpreise", "Preise auf Website, im Profil oder in Anzeigen immer mit Umsatzsteuer"],
             ["§ 12 Abs. 1 PAngV", "Preisverzeichnis für wesentliche Leistungen oder Verrechnungssätze wie Stundensätze", "Stundensätze müssen alle Leistungselemente samt Umsatzsteuer enthalten"],
             ["§ 12 Abs. 4 Nr. 1 PAngV", "Keine Pflicht bei Leistungen, die üblicherweise nach schriftlichem Angebot oder Voranschlag erbracht werden", "Unsere Einschätzung: individuelle Malerarbeiten nach Aufmaß fallen typischerweise darunter"],
-            ["§ 649 BGB", "Bei wesentlicher Überschreitung eines Kostenanschlags darf der Kunde kündigen, der Betrieb muss sie unverzüglich anzeigen", "Mehrkosten früh melden, nicht erst mit der Schlussrechnung"],
+            ["§ 649 BGB", "Bei wesentlicher Überschreitung eines Kostenanschlags darf der Kunde kündigen, wenn der Betrieb keine Gewähr für dessen Richtigkeit übernommen hat; der Betrieb muss die Überschreitung unverzüglich anzeigen", "Mehrkosten früh melden, nicht erst mit der Schlussrechnung"],
           ],
         },
         {
@@ -250,7 +250,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Auftragsportale wie MyHammer oder Check24 Profis in Deutschland arbeiten mit unterschiedlichen Gebührenmodellen, die sich ändern. Rechnen Sie mit den aktuellen Konditionen, wie viele Aufträge Sie brauchen, damit sich ein Portal lohnt. Achten Sie darauf, dass Firmenname, Telefonnummer und Einzugsgebiet dort genau so stehen wie im Profil. Wie Sie das prüfen, zeigt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo).",
+          text: "Bei Auftragsportalen wie MyHammer oder Check24 Profis in Deutschland prüfen Sie vor dem Start die aktuellen Konditionen. Rechnen Sie damit aus, wie viele Aufträge Sie brauchen, damit sich ein Portal lohnt. Achten Sie darauf, dass Firmenname, Telefonnummer und Einzugsgebiet dort genau so stehen wie im Profil. Wie Sie das prüfen, zeigt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo).",
         },
       ],
     },
@@ -311,11 +311,13 @@ const article: V4Article = {
     { title: "Google Lokale Dienstleistungen im Überblick", publisher: "Google Lokale Dienstleistungen-Hilfe", url: "https://support.google.com/localservices/answer/6224841?hl=de" },
     { title: "Häufig gestellte Fragen zu Google Trends-Daten", publisher: "Google Trends-Hilfe", url: "https://support.google.com/trends/answer/4365533?hl=de" },
     { title: "Preisangabenverordnung, § 3 Pflicht zur Angabe des Gesamtpreises", publisher: "lxgesetze.de", url: "https://lxgesetze.de/pangv/3" },
-    { title: "Preisangabenverordnung, § 12 Preisangaben für Leistungen", publisher: "LexMea", url: "https://lexmea.de/de/gesetz/pangv/12" },
     { title: "BGB § 649 Kostenanschlag", publisher: "dejure.org", url: "https://dejure.org/gesetze/BGB/649.html" },
+    { title: "BGB § 632 Vergütung (Abs. 3: Kostenanschlag)", publisher: "dejure.org", url: "https://dejure.org/gesetze/BGB/632.html" },
+    { title: "Preisangabenverordnung, § 2 Begriffsbestimmungen (Gesamtpreis)", publisher: "lxgesetze.de", url: "https://lxgesetze.de/pangv/2" },
+    { title: "Preisangabenverordnung, § 12 Preisangaben für Leistungen", publisher: "lxgesetze.de", url: "https://lxgesetze.de/pangv/12" },
+    { title: "Handwerksordnung, Anlage A (zulassungspflichtige Handwerke, Nr. 10 Maler und Lackierer)", publisher: "dejure.org", url: "https://dejure.org/gesetze/HwO/Anlage_A.html" },
     { title: "Merkblatt Kostenvoranschlag (Stand 05/2018)", publisher: "IHK Ostwestfalen zu Bielefeld", url: "https://www.ostwestfalen.ihk.de/fileadmin/Dokumente/Recht/Merkblaetter-Recht/Kostenvoranschlag.pdf" },
     { title: "Konsumentenschutzgesetz § 5 Kostenvoranschläge", publisher: "RIS, Bundeskanzleramt Österreich", url: "https://www.ris.bka.gv.at/eli/bgbl/1979/140/P5/NOR12031487" },
-    { title: "Viertes Gesetz zur Änderung der Handwerksordnung, BGBl. 2020 I Nr. 6 (Anlage A)", publisher: "Bundesgesetzblatt, bereitgestellt von der Handwerkskammer Frankfurt-Rhein-Main", url: "https://www.hwk-rhein-main.de/adbimage/10621/asset-original//bundesgesetzblatt-jahrgang-2020-teil-i-nr-6.pdf" },
     { title: "UWG § 5 Irreführende geschäftliche Handlungen", publisher: "dejure.org", url: "https://dejure.org/gesetze/UWG/5.html" },
     { title: "Kunsturhebergesetz § 22", publisher: "lxgesetze.de", url: "https://lxgesetze.de/kug/22" },
     { title: "HousePainter", publisher: "schema.org", url: "https://schema.org/HousePainter" },
