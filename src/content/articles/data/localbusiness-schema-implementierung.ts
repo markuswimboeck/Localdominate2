@@ -35,7 +35,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Hier geht es um das Handwerk: welche Daten Sie vorher bereitlegen, wie ein vollständiger Block aussieht, was jedes Feld bedeutet, wo der Code in Ihre Website kommt und wie Sie ihn prüfen. Als Beispiel dient ein **fiktiver** Elektrobetrieb in Rosenheim. Alle Werte sind erfunden und nur zur Veranschaulichung gedacht.",
+          text: "Hier geht es um das Handwerk: welche Daten Sie vorher bereitlegen, wie ein vollständiger Block aussieht, was jedes Feld bedeutet, wo der Code in Ihre Website kommt und wie Sie ihn prüfen. Als Beispiel dient ein **fiktiver** Elektrobetrieb in der erfundenen „Musterstadt“. Alle Werte, auch Name und Ort, sind frei erfunden und nur zur Veranschaulichung gedacht.",
         },
         {
           t: "note",
@@ -79,9 +79,9 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "So sieht der Block für den fiktiven Betrieb „Elektro Huber“ in Rosenheim aus. Er steht auf der Seite www.example.com/kontakt, auf der dieselben Angaben auch für Besucher zu lesen sind:",
+          text: "So sieht der Block für den fiktiven Betrieb „Elektro Mustermann“ in Musterstadt aus. Er steht auf der Seite www.example.com/kontakt, auf der dieselben Angaben auch für Besucher zu lesen sind:",
         },
-        { t: "code", lang: "html", caption: "Vollständiges Beispiel für einen fiktiven Betrieb", text: "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Electrician\",\n  \"@id\": \"https://www.example.com/kontakt#betrieb\",\n  \"name\": \"Elektro Huber\",\n  \"url\": \"https://www.example.com/kontakt\",\n  \"telephone\": \"+49 8031 000000\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"Beispielstraße 12\",\n    \"postalCode\": \"83022\",\n    \"addressLocality\": \"Rosenheim\",\n    \"addressCountry\": \"DE\"\n  },\n  \"geo\": {\n    \"@type\": \"GeoCoordinates\",\n    \"latitude\": 47.85637,\n    \"longitude\": 12.12247\n  },\n  \"openingHoursSpecification\": [\n    {\n      \"@type\": \"OpeningHoursSpecification\",\n      \"dayOfWeek\": [\n        \"Monday\",\n        \"Tuesday\",\n        \"Wednesday\",\n        \"Thursday\",\n        \"Friday\"\n      ],\n      \"opens\": \"07:30\",\n      \"closes\": \"17:00\"\n    }\n  ],\n  \"priceRange\": \"€€\",\n  \"logo\": \"https://www.example.com/logo.png\",\n  \"sameAs\": [\n    \"https://www.facebook.com/beispiel\",\n    \"https://www.instagram.com/beispiel\"\n  ]\n}\n</script>" },
+        { t: "code", lang: "html", caption: "Vollständiges Beispiel für einen fiktiven Betrieb", text: "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Electrician\",\n  \"@id\": \"https://www.example.com/kontakt#betrieb\",\n  \"name\": \"Elektro Mustermann\",\n  \"url\": \"https://www.example.com/kontakt\",\n  \"telephone\": \"+49 8031 000000\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"Beispielstraße 12\",\n    \"postalCode\": \"12345\",\n    \"addressLocality\": \"Musterstadt\",\n    \"addressCountry\": \"DE\"\n  },\n  \"geo\": {\n    \"@type\": \"GeoCoordinates\",\n    \"latitude\": 47.12345,\n    \"longitude\": 12.12345\n  },\n  \"openingHoursSpecification\": [\n    {\n      \"@type\": \"OpeningHoursSpecification\",\n      \"dayOfWeek\": [\n        \"Monday\",\n        \"Tuesday\",\n        \"Wednesday\",\n        \"Thursday\",\n        \"Friday\"\n      ],\n      \"opens\": \"07:30\",\n      \"closes\": \"17:00\"\n    }\n  ],\n  \"priceRange\": \"€€\",\n  \"logo\": \"https://www.example.com/logo.png\",\n  \"sameAs\": [\n    \"https://www.facebook.com/beispiel\",\n    \"https://www.instagram.com/beispiel\"\n  ]\n}\n</script>" },
         {
           t: "note",
           label: "Beispielwerte",
@@ -107,13 +107,13 @@ const article: V4Article = {
             ["@context", "Immer nötig", "https://schema.org", "Sagt, aus welchem Vokabular die Begriffe stammen"],
             ["@type", "Immer nötig", "Electrician", "Genauester Untertyp; mehrere Typen als Liste in eckigen Klammern"],
             ["@id", "Optional", "https://www.example.com/kontakt#betrieb", "Eine feste Kennung, mit der Sie zusammengehörige Blöcke verknüpfen können"],
-            ["name", "Pflicht", "Elektro Huber", "Exakt wie im Unternehmensprofil"],
+            ["name", "Pflicht", "Elektro Mustermann", "Exakt wie im Unternehmensprofil"],
             ["address", "Pflicht", "PostalAddress mit Straße, PLZ, Ort, Land", "Vollständig; Land als Kürzel wie DE, AT oder CH"],
-            ["geo", "Empfohlen", "47.85637 und 12.12247", "Mindestens fünf Nachkommastellen, Punkt statt Komma"],
+            ["geo", "Empfohlen", "47.12345 und 12.12345", "Mindestens fünf Nachkommastellen, Punkt statt Komma"],
             ["openingHoursSpecification", "Empfohlen", "Mo bis Fr 07:30 bis 17:00", "Wochentage auf Englisch, Uhrzeiten wie in Googles Beispielen"],
             ["telephone", "Empfohlen", "+49 8031 000000", "Hauptnummer für Kunden, mit Landes- und Ortsvorwahl"],
             ["url", "Empfohlen", "https://www.example.com/kontakt", "Vollständige URL der Standortseite, die funktionieren muss"],
-            ["priceRange", "Empfohlen", "€€", "Unter 100 Zeichen, Symbole oder Spanne wie „20 bis 40 €“"],
+            ["priceRange", "Empfohlen", "€€", "Unter 100 Zeichen, Währungssymbole („€€“) oder eine Spanne in Googles Schreibweise, zum Beispiel „20-40 €“"],
             ["logo", "Empfohlen für Organization", "https://www.example.com/logo.png", "Mindestens 112 × 112 Pixel, für Google abrufbar"],
             ["sameAs", "Empfohlen für Organization", "Links zu Ihren Profilen", "Nur Profile, die wirklich Ihnen gehören"],
           ],
@@ -220,7 +220,7 @@ const article: V4Article = {
             ["Komma oder Klammer fehlt", "Der Test meldet einen Parsing-Fehler, kein Element erkannt", "Code in einem Editor mit JSON-Prüfung kontrollieren, Komma nach jedem Feld außer dem letzten"],
             ["Typografische Anführungszeichen", "Nach dem Kopieren aus Word oder einer Präsentation lässt sich der Block nicht lesen", "Nur gerade Anführungszeichen verwenden"],
             ["Nur „LocalBusiness“ als Typ", "Kein Fehler im Test, aber ungenau", "Genauesten Untertyp wählen"],
-            ["Komma statt Punkt in Koordinaten", "Ungültige Zahl oder falscher Ort", "47.85637 statt 47,85637"],
+            ["Komma statt Punkt in Koordinaten", "Ungültige Zahl oder falscher Ort", "47.12345 statt 47,12345"],
             ["Telefon ohne Landesvorwahl", "Nummer wie 08031 …", "+49 8031 … im internationalen Format"],
             ["Wochentage auf Deutsch", "„Montag“ wird nicht erkannt", "Monday bis Sunday verwenden"],
             ["Zwei Blöcke je Standort", "Zwei Einträge Lokales Unternehmen im Test", "Plugin, Theme und Tag Manager abstimmen, nur eine Quelle"],

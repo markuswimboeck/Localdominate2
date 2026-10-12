@@ -589,7 +589,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-02-04",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-12",
     icon: "💪",
     keywords: ["fitnessstudio seo", "personal trainer marketing", "local seo fitness", "mitgliedergewinnung"],
     featured: false
@@ -1134,7 +1134,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-01-08",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-12",
     icon: "💇",
     keywords: ["friseur seo", "beauty marketing", "friseursalon google", "kosmetikstudio marketing", "friseur mehr kunden", "buchungssystem friseur"],
     featured: true

@@ -34,11 +34,11 @@ SEO für Cafés heißt: Ihr Café erscheint, wenn jemand unterwegs nach Kaffee, 
 
 ## SEO für Cafés: wie Gäste ein Café finden
 
-Wer „Café in der Nähe“, „Frühstück [Ort]“ oder „Kuchen [Stadtteil]“ sucht, sieht meist zuerst eine Karte mit wenigen Betrieben. Google wählt sie nach Relevanz, Entfernung und Bekanntheit aus, und die Daten dafür stammen vor allem aus dem Unternehmensprofil.
+Wer „Café in der Nähe“, „Frühstück [Ort]“ oder „Kuchen [Stadtteil]“ sucht, sieht meist zuerst eine Karte mit wenigen Betrieben. Google wählt sie nach Relevanz, Entfernung und Bekanntheit aus. Ein vollständiges Unternehmensprofil erhöht laut Google die Chance, in den lokalen Ergebnissen zu erscheinen.
 
 Google nennt in seiner Hilfe drei Faktoren für das lokale Ranking. **Relevanz** beschreibt, wie gut ein Profil zur Suche passt. **Entfernung** misst den Abstand zum Suchenden. **Bekanntheit** steht dafür, wie bekannt ein Ort ist, unter anderem über Rezensionen. Google schreibt außerdem, dass Unternehmen mit vollständigen und korrekten Informationen eher in den lokalen Ergebnissen erscheinen.
 
-Für ein Café heißt das: Die Lage ist gesetzt. Die Relevanz steuern Sie über Kategorie, Speisekarte, Attribute und Website. Die Bekanntheit wächst mit echten Rezensionen und Erwähnungen im Ort. Wie das Ganze für die Gastronomie im Allgemeinen funktioniert, mit Reservierungslinks und Lieferplattformen, steht in [Local SEO für Restaurants](https://localdominate.org/blog/local-seo-fuer-restaurants). Hier geht es um das, was bei Cafés anders ist.
+Für ein Café heißt das: Die Lage ist gesetzt. Die Relevanz steuern Sie über Kategorie, Speisekarte, Attribute und Website. Die Bekanntheit hängt laut Google unter anderem an der Zahl der Rezensionen und der Websites, die auf Ihr Unternehmen verweisen. Wie das Ganze für die Gastronomie im Allgemeinen funktioniert, mit Reservierungslinks und Lieferplattformen, steht in [Local SEO für Restaurants](https://localdominate.org/blog/local-seo-fuer-restaurants). Hier geht es um das, was bei Cafés anders ist.
 
 > **Einschätzung:** Cafés werden oft spontan und auf dem Handy gesucht, kurz bevor jemand losgeht. Unsere Erfahrung: Öffnungszeiten, Fotos und die ersten Rezensionen entscheiden dann in Sekunden. Wie Sie den Weg vom Suchtreffer bis zur Tür auf dem Smartphone prüfen, zeigt [Mobile Local SEO](https://localdominate.org/blog/mobile-local-seo).
 
@@ -46,7 +46,7 @@ Für ein Café heißt das: Die Lage ist gesetzt. Die Relevanz steuern Sie über 
 
 Tragen Sie den Namen ein, den auch Ihr Schild trägt, und wählen Sie die Hauptkategorie, die Ihr Kerngeschäft beschreibt, meist „Café“. Zusätze wie Ort, Slogan oder „Frühstück und Brunch“ im Namen verbieten Googles Richtlinien.
 
-1. **Name ohne Zusätze.** „Café Lindner“ statt „Café Lindner Frühstück Brunch Altstadt“. Google verbietet unnötige Informationen im Namen und nennt Marketingslogans und Standortangaben ausdrücklich.
+1. **Name ohne Zusätze.** „Café Muster“ (ein frei erfundener Name) statt „Café Muster Frühstück Brunch Altstadt“. Google verbietet unnötige Informationen im Namen und nennt Marketingslogans und Standortangaben ausdrücklich.
 2. **Hauptkategorie nach dem IST-Test.** Google empfiehlt, so wenige Kategorien wie möglich zu wählen, und zwar nach dem Satz „Dieses Unternehmen IST…“, nicht „Dieses Unternehmen HAT…“. Ein Café mit Kuchen ist ein Café. Kategorien sind kein Platz für Keywords.
 3. **Weitere Kategorien nur, wenn sie zutreffen.** Eine Rösterei mit Ausschank oder eine Bäckerei mit Café prüft mit demselben Test, welche Beschreibung stimmt. Google rät davon ab, für jedes Produkt eine eigene Kategorie zu wählen.
 4. **Café in einem anderen Betrieb.** Betreiben Sie ein Café in einer Buchhandlung oder einem Hotel, sieht Google ein eigenes Profil mit „Café“ als Kategorie vor. Der andere Betrieb fügt die Kategorie „Café“ nicht hinzu.
@@ -123,16 +123,16 @@ Ein Foto der Sommerterrasse im Dezember irritiert. Tauschen Sie Bilder aus, wenn
 
 ## Bewertungen im Café-Alltag
 
-Bitten Sie alle Gäste auf dieselbe Weise um eine Rezension, etwa mit einem QR-Code auf dem Kassenbon oder Tischaufsteller, und antworten Sie kurz und sachlich. Gratiskaffee für eine Bewertung, Druck an der Kasse und Quoten für das Team verbieten Googles Richtlinien.
+Bitten Sie alle Gäste auf dieselbe Weise um eine Rezension, etwa mit einem Link auf dem Kassenbon oder in einer Nachricht nach dem Besuch, und antworten Sie kurz und sachlich. Gratiskaffee für eine Bewertung, Aufforderungen und Druck vor Ort und Quoten für das Team verbieten Googles Richtlinien.
 
 *Bewertungen im Café nach Googles Richtlinien*
 
 | Erlaubt | Nicht erlaubt |
 | --- | --- |
-| QR-Code oder Link auf Bon, Aufsteller oder Website | Einen Kaffee, Rabatt oder Stempel auf der Bonuskarte für eine Rezension |
+| Link oder QR-Code auf Kassenbon, Rechnung oder Website | Einen Kaffee, Rabatt oder Stempel auf der Bonuskarte für eine Rezension |
 | Alle Gäste gleich ansprechen | Nur zufriedene Gäste gezielt um positive Rezensionen bitten |
-| Den Link sichtbar auslegen und nennen | Gäste im Café unter Druck setzen, sofort zu bewerten |
-| Das Team bitten, auf den Link hinzuweisen | Dem Team eine Zahl an Rezensionen vorgeben oder verlangen, dass Gäste Mitarbeitende namentlich nennen |
+| Den Link sichtbar auslegen und nennen | Gäste im Café auffordern oder unter Druck setzen, sofort zu bewerten, solange sie noch vor Ort sind |
+| Das Team über die Regeln informieren | Dem Team eine Zahl an Rezensionen vorgeben oder verlangen, dass Gäste Mitarbeitende namentlich nennen |
 
 Den Link und den QR-Code erstellen Sie im Profil unter „Rezensionen lesen“ und „Mehr Rezensionen erhalten“. Den QR-Code kann man laut Google derzeit nur im Browser am Computer erzeugen, nicht auf dem Handy. Google stellt auf derselben Seite klar, dass kostenlose oder vergünstigte Waren für Rezensionen als gefälschte Interaktion gelten.
 
@@ -182,7 +182,7 @@ Die Hauptkategorie, die Ihr Kerngeschäft beschreibt, in der Regel „Café“. 
 
 ### Darf ich Gästen einen Kaffee für eine Google-Bewertung anbieten?
 
-Nein. Googles Richtlinien verbieten Zahlungen, Rabatte und kostenlose Produkte für Rezensionen. Erlaubt ist die einfache Bitte an alle Gäste, zum Beispiel per QR-Code, ohne Gegenleistung und ohne Druck im Café.
+Nein. Googles Richtlinien verbieten Zahlungen, Rabatte und kostenlose Produkte für Rezensionen. Erlaubt ist die einfache Bitte an alle Gäste, zum Beispiel per Link auf dem Bon, ohne Gegenleistung. Google untersagt, Gäste vor Ort aufzufordern oder unter Druck zu setzen.
 
 ### Reicht ein Foto der Speisekarte im Profil?
 

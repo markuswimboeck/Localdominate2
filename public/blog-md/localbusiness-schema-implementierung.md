@@ -37,7 +37,7 @@ Dieser Artikel ist die praktische Anleitung: Code schreiben, einbauen, testen. W
 
 Strukturierte Daten vom Typ LocalBusiness sagen Google in einem festen Format, wie Ihr Betrieb heißt, wo er liegt und wann er geöffnet hat. Welche Typen Google auswertet, welche Darstellungen es nicht mehr gibt und warum eigene Bewertungen keine Sterne bringen, erklärt [Schema Markup für Local SEO](https://localdominate.org/blog/schema-markup-local-seo). Diese Grundlagen wiederholen wir hier nicht.
 
-Hier geht es um das Handwerk: welche Daten Sie vorher bereitlegen, wie ein vollständiger Block aussieht, was jedes Feld bedeutet, wo der Code in Ihre Website kommt und wie Sie ihn prüfen. Als Beispiel dient ein **fiktiver** Elektrobetrieb in Rosenheim. Alle Werte sind erfunden und nur zur Veranschaulichung gedacht.
+Hier geht es um das Handwerk: welche Daten Sie vorher bereitlegen, wie ein vollständiger Block aussieht, was jedes Feld bedeutet, wo der Code in Ihre Website kommt und wie Sie ihn prüfen. Als Beispiel dient ein **fiktiver** Elektrobetrieb in der erfundenen „Musterstadt“. Alle Werte, auch Name und Ort, sind frei erfunden und nur zur Veranschaulichung gedacht.
 
 > **Erwartungen richtig setzen:** Google schreibt, dass strukturierte Daten eine Darstellung ermöglichen, aber nicht garantieren, auch wenn der Test keine Fehler meldet. Für den Platz im Kartenblock nennt Google Relevanz, Entfernung und Beliebtheit. Ein besseres lokales Ranking lässt sich laut Google nicht einfordern, auch nicht gegen Bezahlung.
 
@@ -60,7 +60,7 @@ Für den Typ empfiehlt Google den genauesten möglichen Untertyp. Schema.org fü
 
 Der Beispielblock enthält die Pflichtfelder name und address, die von Google empfohlenen Felder geo, openingHoursSpecification, telephone, url und priceRange sowie logo und sameAs aus der Dokumentation für Organization.
 
-So sieht der Block für den fiktiven Betrieb „Elektro Huber“ in Rosenheim aus. Er steht auf der Seite www.example.com/kontakt, auf der dieselben Angaben auch für Besucher zu lesen sind:
+So sieht der Block für den fiktiven Betrieb „Elektro Mustermann“ in Musterstadt aus. Er steht auf der Seite www.example.com/kontakt, auf der dieselben Angaben auch für Besucher zu lesen sind:
 
 ```html
 <script type="application/ld+json">
@@ -68,20 +68,20 @@ So sieht der Block für den fiktiven Betrieb „Elektro Huber“ in Rosenheim au
   "@context": "https://schema.org",
   "@type": "Electrician",
   "@id": "https://www.example.com/kontakt#betrieb",
-  "name": "Elektro Huber",
+  "name": "Elektro Mustermann",
   "url": "https://www.example.com/kontakt",
   "telephone": "+49 8031 000000",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Beispielstraße 12",
-    "postalCode": "83022",
-    "addressLocality": "Rosenheim",
+    "postalCode": "12345",
+    "addressLocality": "Musterstadt",
     "addressCountry": "DE"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 47.85637,
-    "longitude": 12.12247
+    "latitude": 47.12345,
+    "longitude": 12.12345
   },
   "openingHoursSpecification": [
     {
@@ -122,13 +122,13 @@ Jedes Feld hat eine klare Aufgabe: Typ und Name bestimmen, wer Sie sind, Adresse
 | @context | Immer nötig | https://schema.org | Sagt, aus welchem Vokabular die Begriffe stammen |
 | @type | Immer nötig | Electrician | Genauester Untertyp; mehrere Typen als Liste in eckigen Klammern |
 | @id | Optional | https://www.example.com/kontakt#betrieb | Eine feste Kennung, mit der Sie zusammengehörige Blöcke verknüpfen können |
-| name | Pflicht | Elektro Huber | Exakt wie im Unternehmensprofil |
+| name | Pflicht | Elektro Mustermann | Exakt wie im Unternehmensprofil |
 | address | Pflicht | PostalAddress mit Straße, PLZ, Ort, Land | Vollständig; Land als Kürzel wie DE, AT oder CH |
-| geo | Empfohlen | 47.85637 und 12.12247 | Mindestens fünf Nachkommastellen, Punkt statt Komma |
+| geo | Empfohlen | 47.12345 und 12.12345 | Mindestens fünf Nachkommastellen, Punkt statt Komma |
 | openingHoursSpecification | Empfohlen | Mo bis Fr 07:30 bis 17:00 | Wochentage auf Englisch, Uhrzeiten wie in Googles Beispielen |
 | telephone | Empfohlen | +49 8031 000000 | Hauptnummer für Kunden, mit Landes- und Ortsvorwahl |
 | url | Empfohlen | https://www.example.com/kontakt | Vollständige URL der Standortseite, die funktionieren muss |
-| priceRange | Empfohlen | €€ | Unter 100 Zeichen, Symbole oder Spanne wie „20 bis 40 €“ |
+| priceRange | Empfohlen | €€ | Unter 100 Zeichen, Währungssymbole („€€“) oder eine Spanne in Googles Schreibweise, zum Beispiel „20-40 €“ |
 | logo | Empfohlen für Organization | https://www.example.com/logo.png | Mindestens 112 × 112 Pixel, für Google abrufbar |
 | sameAs | Empfohlen für Organization | Links zu Ihren Profilen | Nur Profile, die wirklich Ihnen gehören |
 
@@ -191,7 +191,7 @@ Typische Fehler sind Syntaxfehler wie fehlende Kommas, zu allgemeine Typen, Date
 | Komma oder Klammer fehlt | Der Test meldet einen Parsing-Fehler, kein Element erkannt | Code in einem Editor mit JSON-Prüfung kontrollieren, Komma nach jedem Feld außer dem letzten |
 | Typografische Anführungszeichen | Nach dem Kopieren aus Word oder einer Präsentation lässt sich der Block nicht lesen | Nur gerade Anführungszeichen verwenden |
 | Nur „LocalBusiness“ als Typ | Kein Fehler im Test, aber ungenau | Genauesten Untertyp wählen |
-| Komma statt Punkt in Koordinaten | Ungültige Zahl oder falscher Ort | 47.85637 statt 47,85637 |
+| Komma statt Punkt in Koordinaten | Ungültige Zahl oder falscher Ort | 47.12345 statt 47,12345 |
 | Telefon ohne Landesvorwahl | Nummer wie 08031 … | +49 8031 … im internationalen Format |
 | Wochentage auf Deutsch | „Montag“ wird nicht erkannt | Monday bis Sunday verwenden |
 | Zwei Blöcke je Standort | Zwei Einträge Lokales Unternehmen im Test | Plugin, Theme und Tag Manager abstimmen, nur eine Quelle |

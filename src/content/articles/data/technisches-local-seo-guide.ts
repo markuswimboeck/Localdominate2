@@ -218,20 +218,20 @@ const article: V4Article = {
       id: "standortseiten",
       title: "Standortseiten ohne Brückenseiten",
       answer:
-        "Jeder echte Standort verdient eine eigene Seite mit Adresse, Zeiten und Leistungen vor Ort. Viele fast gleiche Seiten für Orte, an denen Sie keinen Sitz haben, beschreibt Google als Missbrauch von Brückenseiten.",
+        "Jeder echte Standort verdient eine eigene Seite mit Adresse, Zeiten und Leistungen vor Ort. Als Missbrauch von Brückenseiten nennt Google unter anderem mehrere Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer alle zur selben Seite weiterleiten.",
       blocks: [
         {
           t: "p",
-          text: "Google nennt als Beispiel für Brückenseiten ausdrücklich mehrere Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind, Nutzer aber alle zur selben Seite führen. Eine Physiotherapie mit Praxen in Linz und Wels braucht zwei Standortseiten mit eigenem Inhalt. Fünfzig Seiten „Physiotherapie in [Ort]“ mit ausgetauschtem Ortsnamen sind dagegen ein Risiko.",
+          text: "Google nennt als Beispiel für Brückenseiten ausdrücklich mehrere Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind, Nutzer aber alle zur selben Seite führen. Eine Physiotherapie mit Praxen in Linz und Wels braucht zwei Standortseiten mit eigenem Inhalt. Fünfzig Seiten „Physiotherapie in [Ort]“, die nur den Ortsnamen tauschen und alle auf dieselbe Seite führen, entsprechen genau Googles Beispiel. Auch ohne Weiterleitung sind sie nach unserer Einschätzung ein Risiko.",
         },
         {
           t: "table",
           caption: "Echte Standortseite oder Brückenseite",
-          head: ["Echte Standortseite", "Brückenseite"],
+          head: ["Echte Standortseite", "Brückenseite (Googles Beispiel und unsere Einschätzung)"],
           rows: [
-            ["Eigene Adresse, Telefonnummer und Öffnungszeiten des Standorts", "Nur der Ortsname wechselt"],
+            ["Eigene Adresse, Telefonnummer und Öffnungszeiten des Standorts", "Nur der Ortsname wechselt (unsere Einschätzung)"],
             ["Team, Anfahrt, Parkmöglichkeiten, Leistungen vor Ort", "Allgemeiner Text, auf vielen Seiten gleich"],
-            ["Im Unternehmensprofil des Standorts als Website hinterlegt", "Nur für die Suche angelegt, nirgends verlinkt"],
+            ["Im Unternehmensprofil des Standorts als Website hinterlegt", "Nur für die Suche angelegt, nirgends verlinkt (unsere Einschätzung)"],
           ],
         },
         {

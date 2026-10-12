@@ -31,7 +31,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google beschreibt drei Faktoren: **Relevanz** (passt das Profil zur Suche), **Entfernung** (wie weit ist der Betrieb vom Suchenden entfernt) und **Bekanntheit** (wie bekannt ist der Betrieb, unter anderem durch Bewertungen). Außerdem schreibt Google, dass Unternehmen mit vollständigen und korrekten Angaben eher in lokalen Ergebnissen erscheinen. Ausdrücklich genannt werden dabei die Öffnungszeiten einschließlich spezieller Öffnungszeiten.",
+          text: "Google beschreibt drei Faktoren: **Relevanz** (passt das Profil zur Suche), **Entfernung** (wie weit ist der Betrieb vom Suchenden entfernt) und **Bekanntheit** (wie bekannt ist der Betrieb, unter anderem durch Rezensionen und Websites, die auf ihn verweisen). Außerdem schreibt Google, dass Unternehmen mit vollständigen und korrekten Angaben eher in lokalen Ergebnissen erscheinen. Ausdrücklich genannt werden dabei die Öffnungszeiten einschließlich spezieller Öffnungszeiten.",
         },
         {
           t: "p",
@@ -271,10 +271,10 @@ const article: V4Article = {
           caption: "Bewertungen in der Filialbäckerei",
           head: ["Erlaubt", "Nicht erlaubt laut Google"],
           rows: [
-            ["Hinweis mit Bewertungslink auf Kassenbon, Tüte oder Schild", "Rabatt, Gratisbrötchen oder andere Gegenleistung"],
+            ["Bewertungslink auf dem Kassenbon, der Rechnung oder in einer Nachricht nach dem Einkauf", "Rabatt, Gratisbrötchen oder andere Gegenleistung"],
             ["Alle Kunden gleich auf die Möglichkeit hinweisen", "Nur zufriedene Kunden gezielt um positive Bewertungen bitten"],
             ["Sachliche Antwort der Filialleitung auf jede Bewertung", "Mitarbeitenden eine Zahl an Bewertungen vorgeben"],
-            ["Kunde bewertet später in Ruhe", "Kunden an der Theke unter Druck setzen, sofort zu bewerten"],
+            ["Kunde bewertet später in Ruhe", "Kunden an der Theke auffordern oder unter Druck setzen, sofort zu bewerten, solange sie noch im Laden sind"],
           ],
         },
         {
@@ -312,7 +312,7 @@ const article: V4Article = {
     },
     {
       q: "Darf ich an der Theke um eine Bewertung bitten?",
-      a: "Ein freundlicher Hinweis, etwa auf dem Kassenbon oder einem Schild, ist möglich. Google verbietet aber, Kunden unter Druck zu setzen, solange sie noch vor Ort sind, sowie Gegenleistungen und Bewertungsquoten für Mitarbeitende.",
+      a: "Ein Link auf dem Kassenbon oder in einer Nachricht nach dem Besuch ist möglich. Google untersagt, Kunden aufzufordern oder unter Druck zu setzen, solange sie noch vor Ort sind, außerdem Gegenleistungen und Bewertungsquoten für Mitarbeitende.",
     },
   ],
   sources: [

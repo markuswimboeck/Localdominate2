@@ -97,7 +97,7 @@ Google verlangt im Profil eine Nummer, die Ihr Betrieb selbst verwaltet, und emp
 - **Örtliche Nummer** mit Ortsvorwahl oder die Mobilnummer des Betriebs. Google unterstützt Mobil- und Festnetznummern, aber keine Faxnummern.
 - **Bis zu zwei weitere Nummern** können Sie neben der primären Nummer angeben, etwa eine eigene Notdienstnummer.
 - **Keine Sonderrufnummern.** Google schließt sie unabhängig von den Kosten für den Anrufer aus.
-- **Keine Vermittler.** Eine Nummer, die bei einem Vermittlungsdienst landet, der den Auftrag weitergibt, verbindet nicht direkt mit Ihrem Betrieb.
+- **Keine Weiterleitungsnummern.** Google lässt keine Rufnummern zu, über die Anrufer nicht direkt mit Ihrem Betrieb verbunden werden. Eine Nummer, die bei einem Vermittlungsdienst landet, fällt nach unserer Einschätzung darunter.
 
 > **Einschätzung:** Eine Rufumleitung nachts auf das Handy Ihres Bereitschaftsmonteurs verbindet den Anrufer weiterhin mit Ihrem Betrieb. Google regelt diesen Fall nicht ausdrücklich. Wir halten ihn für unproblematisch, solange die Nummer Ihnen gehört und am anderen Ende Ihr eigener Mitarbeiter abnimmt.
 
@@ -118,7 +118,7 @@ Einen Radius um den Betrieb können Sie laut Google nicht angeben, nur benannte 
 
 ## Keine Brückenseiten für jeden Nachbarort
 
-Seiten wie „Notdienst Sanitär [Ort]“ für zwanzig Orte, auf denen nur der Ortsname wechselt, fallen nach Googles Spamrichtlinien leicht unter den Missbrauch von Brückenseiten. Besser ist eine starke Notdienstseite mit allen Einsatzorten und eigene Ortsseiten nur dort, wo Sie wirklich etwas Eigenes zu sagen haben.
+Seiten wie „Notdienst Sanitär [Ort]“ für zwanzig Orte, auf denen nur der Ortsname wechselt, können unter den Missbrauch von Brückenseiten nach Googles Spamrichtlinien fallen, vor allem wenn sie Nutzer zum selben Ziel führen oder eher Suchergebnissen ähneln als einer klaren Gliederung. Google nennt Ortsseiten dieser Art nicht ausdrücklich, das Risiko ist unsere Einschätzung. Besser ist eine starke Notdienstseite mit allen Einsatzorten und eigene Ortsseiten nur dort, wo Sie wirklich etwas Eigenes zu sagen haben.
 
 Google beschreibt als Beispiele ausdrücklich mehrere Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer letztlich zur selben Seite führen, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klaren Gliederung. Genau so sehen viele Notdienst-Websites aus: dieselben drei Absätze, ausgetauschter Ortsname.
 
@@ -148,7 +148,7 @@ Die Firmendaten auf der Seite sollten zu Ihrem Profil passen. Strukturierte Date
 
 ## Notdienstpreise offen nennen
 
-Kunden fürchten im Notfall überhöhte Rechnungen, und Verbraucherschützer warnen ausdrücklich vor unseriösen Notdiensten. Wer Anfahrt, Stundensatz und Zuschläge auf der Website nennt, hebt sich ab. In Deutschland verlangt die Preisangabenverordnung außerdem ein Preisverzeichnis für wesentliche Leistungen gegenüber Verbrauchern.
+Kunden fürchten im Notfall überhöhte Rechnungen, und Verbraucherschützer warnen ausdrücklich vor unseriösen Notdiensten. Wer Anfahrt, Stundensatz und Zuschläge auf der Website nennt, hebt sich ab. In Deutschland verlangt die Preisangabenverordnung außerdem ein Preisverzeichnis für wesentliche Leistungen gegenüber Verbrauchern, sofern diese nicht üblicherweise nach individuellem Angebot erbracht werden.
 
 Die Verbraucherzentrale NRW beschreibt in ihrer Warnung vor Schein-Rohrreinigern (Stand 23. September 2026), dass solche Anbieter oft über bezahlte Anzeigen oben in den Suchergebnissen stehen, nur eine auffällige Mobilfunk- oder 0800-Nummer zeigen, kein oder ein unpassendes Impressum haben und auf sofortige Zahlung in bar oder mit Karte drängen. Seriöse Handwerker erstellen laut Verbraucherzentrale eine vollständige Rechnung über die Arbeitsleistung.
 
@@ -244,7 +244,7 @@ Nein. Fast gleiche Seiten für viele Orte können nach Googles Spamrichtlinien a
 
 ### Muss ich meine Notdienstpreise im Internet veröffentlichen?
 
-Die deutsche Preisangabenverordnung verlangt von Anbietern von Leistungen an Verbraucher ein Preisverzeichnis für wesentliche Leistungen oder Verrechnungssätze. Wo und wie Sie es zeigen müssen, klären Sie mit Ihrer Kammer oder einem Anwalt. Offene Preise auf der Website schaffen zudem Vertrauen, weil Verbraucherschützer vor unseriösen Notdiensten warnen.
+§ 12 der Preisangabenverordnung verlangt von Anbietern von Leistungen an Verbraucher ein Preisverzeichnis für wesentliche Leistungen oder Verrechnungssätze, außer bei Leistungen, die üblicherweise nach einem individuellen schriftlichen Angebot erbracht werden. Es ist in den Geschäftsräumen oder am sonstigen Ort des Leistungsangebots anzubringen. Eine ausdrückliche Pflicht, es im Internet zu veröffentlichen, nennt die Vorschrift nicht. Ob Ihre Notdienstleistungen unter die Ausnahme fallen, klären Sie mit Ihrer Innung, Kammer oder einem Anwalt. Offene Preise auf der Website schaffen zudem Vertrauen, weil Verbraucherschützer vor unseriösen Notdiensten warnen.
 
 ## Quellen
 

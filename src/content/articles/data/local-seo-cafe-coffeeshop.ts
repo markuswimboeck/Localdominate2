@@ -28,7 +28,7 @@ const article: V4Article = {
       id: "wie-gaeste-suchen",
       title: "SEO für Cafés: wie Gäste ein Café finden",
       answer:
-        "Wer „Café in der Nähe“, „Frühstück [Ort]“ oder „Kuchen [Stadtteil]“ sucht, sieht meist zuerst eine Karte mit wenigen Betrieben. Google wählt sie nach Relevanz, Entfernung und Bekanntheit aus, und die Daten dafür stammen vor allem aus dem Unternehmensprofil.",
+        "Wer „Café in der Nähe“, „Frühstück [Ort]“ oder „Kuchen [Stadtteil]“ sucht, sieht meist zuerst eine Karte mit wenigen Betrieben. Google wählt sie nach Relevanz, Entfernung und Bekanntheit aus. Ein vollständiges Unternehmensprofil erhöht laut Google die Chance, in den lokalen Ergebnissen zu erscheinen.",
       blocks: [
         {
           t: "p",
@@ -36,7 +36,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Für ein Café heißt das: Die Lage ist gesetzt. Die Relevanz steuern Sie über Kategorie, Speisekarte, Attribute und Website. Die Bekanntheit wächst mit echten Rezensionen und Erwähnungen im Ort. Wie das Ganze für die Gastronomie im Allgemeinen funktioniert, mit Reservierungslinks und Lieferplattformen, steht in [Local SEO für Restaurants](/blog/local-seo-fuer-restaurants). Hier geht es um das, was bei Cafés anders ist.",
+          text: "Für ein Café heißt das: Die Lage ist gesetzt. Die Relevanz steuern Sie über Kategorie, Speisekarte, Attribute und Website. Die Bekanntheit hängt laut Google unter anderem an der Zahl der Rezensionen und der Websites, die auf Ihr Unternehmen verweisen. Wie das Ganze für die Gastronomie im Allgemeinen funktioniert, mit Reservierungslinks und Lieferplattformen, steht in [Local SEO für Restaurants](/blog/local-seo-fuer-restaurants). Hier geht es um das, was bei Cafés anders ist.",
         },
         {
           t: "note",
@@ -56,7 +56,7 @@ const article: V4Article = {
           items: [
             {
               title: "Name ohne Zusätze",
-              text: "„Café Lindner“ statt „Café Lindner Frühstück Brunch Altstadt“. Google verbietet unnötige Informationen im Namen und nennt Marketingslogans und Standortangaben ausdrücklich.",
+              text: "„Café Muster“ (ein frei erfundener Name) statt „Café Muster Frühstück Brunch Altstadt“. Google verbietet unnötige Informationen im Namen und nennt Marketingslogans und Standortangaben ausdrücklich.",
             },
             {
               title: "Hauptkategorie nach dem IST-Test",
@@ -197,17 +197,17 @@ const article: V4Article = {
       id: "bewertungen",
       title: "Bewertungen im Café-Alltag",
       answer:
-        "Bitten Sie alle Gäste auf dieselbe Weise um eine Rezension, etwa mit einem QR-Code auf dem Kassenbon oder Tischaufsteller, und antworten Sie kurz und sachlich. Gratiskaffee für eine Bewertung, Druck an der Kasse und Quoten für das Team verbieten Googles Richtlinien.",
+        "Bitten Sie alle Gäste auf dieselbe Weise um eine Rezension, etwa mit einem Link auf dem Kassenbon oder in einer Nachricht nach dem Besuch, und antworten Sie kurz und sachlich. Gratiskaffee für eine Bewertung, Aufforderungen und Druck vor Ort und Quoten für das Team verbieten Googles Richtlinien.",
       blocks: [
         {
           t: "table",
           caption: "Bewertungen im Café nach Googles Richtlinien",
           head: ["Erlaubt", "Nicht erlaubt"],
           rows: [
-            ["QR-Code oder Link auf Bon, Aufsteller oder Website", "Einen Kaffee, Rabatt oder Stempel auf der Bonuskarte für eine Rezension"],
+            ["Link oder QR-Code auf Kassenbon, Rechnung oder Website", "Einen Kaffee, Rabatt oder Stempel auf der Bonuskarte für eine Rezension"],
             ["Alle Gäste gleich ansprechen", "Nur zufriedene Gäste gezielt um positive Rezensionen bitten"],
-            ["Den Link sichtbar auslegen und nennen", "Gäste im Café unter Druck setzen, sofort zu bewerten"],
-            ["Das Team bitten, auf den Link hinzuweisen", "Dem Team eine Zahl an Rezensionen vorgeben oder verlangen, dass Gäste Mitarbeitende namentlich nennen"],
+            ["Den Link sichtbar auslegen und nennen", "Gäste im Café auffordern oder unter Druck setzen, sofort zu bewerten, solange sie noch vor Ort sind"],
+            ["Das Team über die Regeln informieren", "Dem Team eine Zahl an Rezensionen vorgeben oder verlangen, dass Gäste Mitarbeitende namentlich nennen"],
           ],
         },
         {
@@ -299,7 +299,7 @@ const article: V4Article = {
     },
     {
       q: "Darf ich Gästen einen Kaffee für eine Google-Bewertung anbieten?",
-      a: "Nein. Googles Richtlinien verbieten Zahlungen, Rabatte und kostenlose Produkte für Rezensionen. Erlaubt ist die einfache Bitte an alle Gäste, zum Beispiel per QR-Code, ohne Gegenleistung und ohne Druck im Café.",
+      a: "Nein. Googles Richtlinien verbieten Zahlungen, Rabatte und kostenlose Produkte für Rezensionen. Erlaubt ist die einfache Bitte an alle Gäste, zum Beispiel per Link auf dem Bon, ohne Gegenleistung. Google untersagt, Gäste vor Ort aufzufordern oder unter Druck zu setzen.",
     },
     {
       q: "Reicht ein Foto der Speisekarte im Profil?",

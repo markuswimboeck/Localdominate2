@@ -20,7 +20,7 @@ const article: V4Article = {
     "Messen Sie Anrufe, Routenanfragen und Buchungen, nicht nur Ihre Position in der Suche.",
   ],
   publishedAt: "2026-01-08",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-12",
   readingTime: 11,
   sections: [
     {
@@ -151,7 +151,7 @@ const article: V4Article = {
             ["Kunden nach dem Besuch mit einem Google-Link oder QR-Code als freies Angebot einladen", "Rabatte, Geschenke oder Produktproben als Dank für eine Bewertung"],
             ["Die Einladung auf der Rechnung, in einer Nachricht oder als Karte mitgeben, wenn der Besuch vorbei ist", "Gäste während des Besuchs im Salon zu einer Bewertung drängen"],
             ["Alle Kunden auf die gleiche Weise einladen", "Nur zufriedene Kunden gezielt um eine Bewertung bitten und andere aussortieren"],
-            ["Auf jede Bewertung antworten, auch auf kritische", "Bewertungen von Mitarbeitenden, Familie oder Freunden"],
+            ["Auf jede Bewertung antworten, auch auf kritische", "Bewertungen von aktuellen oder früheren Mitarbeitenden und Familienangehörigen (Interessenkonflikt)"],
             ["Kritische Bewertungen sachlich beantworten und eine Lösung anbieten", "Negative Bewertungen verhindern, verbieten oder gegen Geld entfernen lassen"],
             ["Die Bitte ohne Vorgaben zum Inhalt formulieren", "Mitarbeitenden eine Zahl von Bewertungen vorgeben oder Bewertungen mit bestimmtem Inhalt oder Namen verlangen"],
           ],
@@ -175,7 +175,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google bietet für Termine eine Weiterleitung an. Lokale Betriebe erscheinen dabei in der Suche und in Google Maps, und Nutzer gelangen zur Buchungsseite des Terminanbieters, auf der die Buchung abgeschlossen wird. Der Einstieg läuft über ein Partnerformular oder einen Ansprechpartner bei Google. Die Dokumentation nennt keine Länder, in denen der Dienst verfügbar ist, und verweist für die Anforderungen auf die Richtlinien.",
+          text: "Google bietet für Termine eine Weiterleitung an. Lokale Betriebe erscheinen dabei in der Suche und in Google Maps, und Nutzer gelangen zur Buchungsseite des Terminanbieters, auf der die Buchung abgeschlossen wird. Der Einstieg läuft über ein Partnerformular oder einen Ansprechpartner bei Google. Ob der Dienst in Ihrem Land verfügbar ist, klären Sie vor der Einrichtung mit dem Ansprechpartner bei Google, die Anforderungen stehen in den Richtlinien.",
         },
         {
           t: "steps",

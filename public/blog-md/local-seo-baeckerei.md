@@ -35,7 +35,7 @@ Local SEO für eine Bäckerei mit mehreren Filialen heißt vor allem: Jede Verka
 
 Google sortiert lokale Ergebnisse nach Relevanz, Entfernung und Bekanntheit. Für eine Filialbäckerei bedeutet das: Jede Filiale tritt in ihrem eigenen Umkreis an, und wer morgens „Bäcker in der Nähe“ sucht, bekommt vor allem nahe Standorte angezeigt.
 
-Google beschreibt drei Faktoren: **Relevanz** (passt das Profil zur Suche), **Entfernung** (wie weit ist der Betrieb vom Suchenden entfernt) und **Bekanntheit** (wie bekannt ist der Betrieb, unter anderem durch Bewertungen). Außerdem schreibt Google, dass Unternehmen mit vollständigen und korrekten Angaben eher in lokalen Ergebnissen erscheinen. Ausdrücklich genannt werden dabei die Öffnungszeiten einschließlich spezieller Öffnungszeiten.
+Google beschreibt drei Faktoren: **Relevanz** (passt das Profil zur Suche), **Entfernung** (wie weit ist der Betrieb vom Suchenden entfernt) und **Bekanntheit** (wie bekannt ist der Betrieb, unter anderem durch Rezensionen und Websites, die auf ihn verweisen). Außerdem schreibt Google, dass Unternehmen mit vollständigen und korrekten Angaben eher in lokalen Ergebnissen erscheinen. Ausdrücklich genannt werden dabei die Öffnungszeiten einschließlich spezieller Öffnungszeiten.
 
 Die Entfernung können Sie nicht beeinflussen. Ein zentrales Profil für alle Filialen hilft deshalb nicht: Es steht an einer Adresse und ist für Kunden am anderen Ende der Stadt weit weg. Jede Filiale braucht ihr eigenes, gepflegtes Profil. Wie Sie ein einzelnes Bäckerei-Profil Punkt für Punkt prüfen, zeigt der [Profil-Check für Bäckereien](https://localdominate.org/blog/local-seo-case-study-baecker). Dieser Artikel behandelt, was bei mehreren Standorten dazukommt.
 
@@ -167,10 +167,10 @@ Bewertungen sammeln Sie je Filiale, denn jedes Profil steht für sich. Google ve
 
 | Erlaubt | Nicht erlaubt laut Google |
 | --- | --- |
-| Hinweis mit Bewertungslink auf Kassenbon, Tüte oder Schild | Rabatt, Gratisbrötchen oder andere Gegenleistung |
+| Bewertungslink auf dem Kassenbon, der Rechnung oder in einer Nachricht nach dem Einkauf | Rabatt, Gratisbrötchen oder andere Gegenleistung |
 | Alle Kunden gleich auf die Möglichkeit hinweisen | Nur zufriedene Kunden gezielt um positive Bewertungen bitten |
 | Sachliche Antwort der Filialleitung auf jede Bewertung | Mitarbeitenden eine Zahl an Bewertungen vorgeben |
-| Kunde bewertet später in Ruhe | Kunden an der Theke unter Druck setzen, sofort zu bewerten |
+| Kunde bewertet später in Ruhe | Kunden an der Theke auffordern oder unter Druck setzen, sofort zu bewerten, solange sie noch im Laden sind |
 
 Auch Bewertungen, in denen bestimmte Mitarbeitende benannt werden sollen, sind nach Googles Richtlinien unzulässig. Bitten Sie also nicht darum, die nette Verkäuferin namentlich zu loben. Einen festen Ablauf für die Bitte um Bewertungen beschreibt [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
 
@@ -198,7 +198,7 @@ Leistungen im Profil dürfen eine Beschreibung und einen Preis haben, aber keine
 
 ### Darf ich an der Theke um eine Bewertung bitten?
 
-Ein freundlicher Hinweis, etwa auf dem Kassenbon oder einem Schild, ist möglich. Google verbietet aber, Kunden unter Druck zu setzen, solange sie noch vor Ort sind, sowie Gegenleistungen und Bewertungsquoten für Mitarbeitende.
+Ein Link auf dem Kassenbon oder in einer Nachricht nach dem Besuch ist möglich. Google untersagt, Kunden aufzufordern oder unter Druck zu setzen, solange sie noch vor Ort sind, außerdem Gegenleistungen und Bewertungsquoten für Mitarbeitende.
 
 ## Quellen
 
