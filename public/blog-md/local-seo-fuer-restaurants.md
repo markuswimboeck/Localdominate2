@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-fuer-restaurants
 markdown_url: https://localdominate.org/blog-md/local-seo-fuer-restaurants.md
 language: de-DE
 published: 2026-01-07
-updated: 2026-10-10
+updated: 2026-10-12
 reading_time_minutes: 12
 category: "Gastronomie"
 author: LocalDominate Redaktion
@@ -162,7 +162,7 @@ Die Website ergänzt das Profil um alles, was dort keinen Platz hat: vollständi
 
 ## Veranstaltungen und lokale Erwähnungen
 
-Weinabende, Live-Musik, Spargelsaison oder ein Stand auf dem Stadtfest sind echte Anlässe, über die andere berichten. Solche Erwähnungen und Links aus dem Ort stärken die Bekanntheit, die Google als Rankingfaktor nennt.
+Weinabende, Live-Musik, Spargelsaison oder ein Stand auf dem Stadtfest sind echte Anlässe, über die andere berichten. Verweisen Websites aus dem Ort auf Ihr Unternehmen, zählt das laut Google zur Bekanntheit, einem der drei Faktoren.
 
 - **Beiträge im Profil:** Für Veranstaltungen gibt es einen eigenen Beitragstyp mit Titel, Start- und Enddatum. Ein Wochenmenü oder eine neue Saisonkarte passt als Neuigkeit.
 - **Veranstaltungsseite auf der Website:** Termine mit Datum, Uhrzeit und Reservierungshinweis als Text, nicht nur als Instagram-Bild.
@@ -223,4 +223,4 @@ Die LMIV verlangt Allergenangaben für Speisen, auch in der Gastronomie. Wie Sie
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org

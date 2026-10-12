@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/ultimate-guide-local-seo
 markdown_url: https://localdominate.org/blog-md/ultimate-guide-local-seo.md
 language: de-DE
 published: 2026-03-08
-updated: 2026-10-10
+updated: 2026-10-12
 reading_time_minutes: 14
 category: "Grundlagen"
 author: LocalDominate Redaktion
@@ -60,7 +60,7 @@ Diese drei Faktoren stehen in Googles eigener Hilfe zum lokalen Ranking. Dort st
 | --- | --- | --- |
 | Relevanz | Wie gut das Profil zur Suchanfrage passt | Hoch: Kategorie, Leistungen, Beschreibung, Website-Inhalte |
 | Entfernung | Abstand zum Suchenden oder zum Ort in der Suche | Gering: Sie können den Standort nicht verschieben, nur korrekt angeben |
-| Bekanntheit | Wie bekannt der Betrieb ist, unter anderem über Links, Erwähnungen und Rezensionen | Mittel: echte Bewertungen, Erwähnungen in lokalen Medien und Verbänden |
+| Bekanntheit | Wie bekannt der Betrieb ist, unter anderem über Websites, die auf ihn verweisen, und über Rezensionen | Mittel: echte Bewertungen, Erwähnungen in lokalen Medien und Verbänden |
 
 Branchenumfragen wie die jährliche Expertenbefragung von Whitespark versuchen, die Gewichtung einzelner Signale zu schätzen. Das sind Einschätzungen von Fachleuten, keine Messungen. Sie stimmen aber mit Googles Aussage überein: Das Unternehmensprofil, die Website und Bewertungen tragen am meisten.
 
@@ -240,4 +240,4 @@ Jeder Standort mit Kundenverkehr bekommt ein eigenes Profil und eine eigene Stan
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
