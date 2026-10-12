@@ -37,7 +37,7 @@ Wer neu anfängt oder ein vernachlässigtes Profil übernimmt, geht am besten in
 
 1. **Profil übernehmen und bestätigen.** Klären, wer Inhaber ist, und das Profil bestätigen. Anleitung: [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren). Scheitert die Bestätigung, hilft [Google-Profil lässt sich nicht bestätigen](https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen).
 2. **Hauptkategorie festlegen.** Die Kategorie entscheidet mit darüber, bei welchen Suchen Sie erscheinen: [Google Business Kategorien richtig wählen](https://localdominate.org/blog/google-business-kategorien-guide).
-3. **Stammdaten überall gleich halten.** Name, Adresse und Telefonnummer müssen im Profil, auf der Website und in Verzeichnissen übereinstimmen: [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo).
+3. **Stammdaten überall gleich halten.** Name, Adresse und Telefonnummer sollten im Profil, auf der Website und in Verzeichnissen übereinstimmen: [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo).
 4. **Profil vervollständigen.** Öffnungszeiten, Attribute, Leistungen, Fotos. Die einzelnen Anleitungen stehen im nächsten Abschnitt.
 5. **Monatlich prüfen.** Leistungsdaten ansehen, Rezensionen beantworten, Änderungen von Google kontrollieren. Eine feste Routine liefert die [monatliche Local-SEO-Checkliste](https://localdominate.org/blog/local-seo-monthly-checklist).
 
@@ -55,7 +55,7 @@ Jedes Feld im Profil hat eigene Regeln. Die folgenden Anleitungen gehen Feld fü
 
 ## Kontakt, Leistungsdaten und KI-Funktionen
 
-Seit dem Ende des Chats im Profil zählen andere Kontaktwege. Gleichzeitig nutzt Google Profilangaben, Rezensionen und Ihre Website für KI-Zusammenfassungen.
+Seit dem Ende des Chats im Profil zählen andere Kontaktwege. Gleichzeitig nennt Google Profilangaben, Rezensionen und Ihre Website als Grundlage seiner KI-Funktionen.
 
 - [Google Business Messaging eingestellt](https://localdominate.org/blog/google-business-messaging): wie Kunden Sie seit dem 31. Juli 2024 erreichen.
 - [WhatsApp Business für lokale Unternehmen](https://localdominate.org/blog/whatsapp-business-local-seo-2026): Einrichtung und einheitliche Kontaktdaten.
@@ -64,7 +64,7 @@ Seit dem Ende des Chats im Profil zählen andere Kontaktwege. Gleichzeitig nutzt
 
 ## Mehrere Standorte und Filialen
 
-Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Profil. Name und Kategorien bleiben über alle Standorte gleich.
+Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Profil. Alle Standorte tragen denselben Namen und möglichst dieselben Kategorien.
 
 - [Mehrere Standorte bei Google verwalten](https://localdominate.org/blog/gbp-mehrere-standorte): Unternehmensgruppen, Rollen und Sammelbestätigung ab zehn Standorten.
 - [Franchise-SEO und mehrere Standorte](https://localdominate.org/blog/local-seo-mehrstufig-unternehmen): Markenführung über viele Filialen.
@@ -88,11 +88,11 @@ Ja. Google hat Google My Business in Google-Unternehmensprofil umbenannt. Gemein
 
 ### Kann ich ein besseres Ranking im Profil kaufen?
 
-Nein. Google schreibt, dass sich ein besseres lokales Ranking weder anfordern noch bezahlen lässt. Bezahlt werden können nur Anzeigen, die getrennt und gekennzeichnet erscheinen.
+Nein. Google schreibt, dass sich ein besseres lokales Ranking weder anfordern noch bezahlen lässt. Bezahlt werden nur Anzeigen, die getrennt vom Profil gebucht werden.
 
 ### Darf ich Suchbegriffe in den Firmennamen schreiben?
 
-Nein. Der Name im Profil muss dem echten Namen entsprechen, den Sie auch am Gebäude, auf Briefpapier und auf der Website verwenden. Zusätze wie Ort oder Leistung verstoßen gegen Googles Richtlinien.
+Nein. Der Name im Profil muss dem echten Namen entsprechen, den Sie auch am Gebäude, auf Briefpapier und auf der Website verwenden. Zusätze wie Ort oder Leistung verstoßen gegen Googles Richtlinien, wenn sie nicht Teil des echten Namens sind.
 
 ### Womit fange ich an, wenn ich wenig Zeit habe?
 

@@ -12,7 +12,7 @@ const article: V4Article = {
   lead:
     "Für Betriebe, deren Google-Profil gesperrt ist, sich nicht bestätigen lässt, doppelt existiert oder in Maps nicht mehr erscheint. Suchen Sie Ihr Problem in der Tabelle und springen Sie direkt zur passenden Anleitung.",
   answer:
-    "Die meisten Probleme mit dem Google-Unternehmensprofil lassen sich auf drei Ursachen zurückführen: den Status des Profils, Angaben, die nicht zur Wirklichkeit passen, und Verstöße gegen Googles Richtlinien. Prüfen Sie deshalb zuerst den Status im Profil, beheben Sie dann falsche Angaben und legen Sie erst danach Einspruch ein. Zahlen Sie niemandem Geld für eine versprochene Reaktivierung.",
+    "Bei Problemen mit dem Google-Unternehmensprofil lohnt der Blick auf drei Stellen: den Status des Profils, Angaben, die nicht zur Wirklichkeit passen, und Verstöße gegen Googles Richtlinien. Prüfen Sie deshalb zuerst den Status im Profil, beheben Sie dann falsche Angaben und legen Sie erst danach Einspruch ein. Zahlen Sie niemandem Geld für eine versprochene Reaktivierung.",
   takeaways: [
     "Erscheint das Profil nicht einmal bei der Suche nach Name und Ort, liegt fast immer ein Statusproblem vor. Erscheint es dort, aber nicht bei allgemeinen Suchen, geht es um das Ranking.",
     "Bei einer Sperrung beheben Sie zuerst den Verstoß und legen dann im Einspruchstool von Google Einspruch mit Nachweisen ein.",
@@ -38,7 +38,7 @@ const article: V4Article = {
             ["Hinweis auf Sperrung oder Einschränkung im Profil", "Verstoß gegen die Richtlinien oder fehlende Nachweise", "[Profil gesperrt: Einspruch einlegen](/blog/gbp-suspendiert-reaktivieren)"],
             ["Bestätigung scheitert oder bricht ab", "Angaben passen nicht zu Schild, Standort oder Video", "[Profil lässt sich nicht bestätigen](/blog/gbp-verifizierung-fehlgeschlagen)"],
             ["Profil erscheint nicht einmal bei der Suche nach dem Namen", "Status: nicht bestätigt, in Prüfung, gesperrt oder Duplikat", "[Profil nicht in der Suche sichtbar](/blog/gbp-nicht-in-suche-sichtbar)"],
-            ["Zwei Einträge für denselben Standort", "Altes Profil, fremder Inhaber oder automatisch angelegter Eintrag", "[Doppelte Einträge entfernen](/blog/duplicate-listing-entfernen)"],
+            ["Zwei Einträge für denselben Standort", "Altes Profil nach Umzug, Profil in fremdem oder altem Agenturkonto, getrennte Profile je Leistung", "[Doppelte Einträge entfernen](/blog/duplicate-listing-entfernen)"],
             ["Positionen in Maps sind plötzlich eingebrochen", "Statusänderung, eigene Änderungen, Wettbewerber oder Updates", "[Plötzlich nicht mehr in Google Maps](/blog/ranking-ploetzlich-verschwunden)"],
             ["Eine Rezension verstößt gegen die Richtlinien", "Spam, Beleidigung, Interessenkonflikt", "[Google-Bewertung löschen lassen](/blog/gbp-bewertung-loeschen-anleitung)"],
             ["Wettbewerber mit Fantasienamen oder Scheinadresse", "Spam in Google Maps", "[Google-Maps-Spam melden](/blog/google-maps-spam-erkennen)"],
@@ -59,8 +59,8 @@ const article: V4Article = {
           items: [
             { title: "Problem bestätigen", text: "Suchen Sie nach Ihrem Namen und Ort und messen Sie die allgemeinen Suchen an mehreren Punkten im Einzugsgebiet. Wie das geht, beschreibt der [Google-Maps-Ranking-Tracker](/blog/google-maps-ranking-tracker)." },
             { title: "Status im Profil prüfen", text: "Bestätigt, in Prüfung, eingeschränkt, gesperrt oder als Duplikat markiert. Der Status entscheidet, welche Anleitung passt." },
-            { title: "Eigene Änderungen prüfen", text: "Wurden kurz vorher Name, Adresse oder Kategorie geändert? Solche Änderungen sind eine häufige Ursache, etwa wenn eine Bestätigung danach scheitert." },
-            { title: "Erst dann auf andere schauen", text: "Spam bei Wettbewerbern und Änderungen bei Google sind seltener die Ursache, als viele vermuten." },
+            { title: "Eigene Änderungen prüfen", text: "Wurden kurz vorher Name, Adresse oder Kategorie geändert? Solche Änderungen prüft Google vorab, und danach kann eine erneute Bestätigung nötig werden." },
+            { title: "Erst dann auf andere schauen", text: "Erst wenn Status und eigene Angaben stimmen, prüfen Sie Wettbewerber, Spam und bestätigte Google-Updates." },
           ],
         },
         {
@@ -80,7 +80,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "[Local SEO Fehler](/blog/local-seo-fehler): warum ein Betrieb lokal nicht gefunden wird und was Sie stattdessen tun.",
-            "[Google-Maps-Audit](/blog/google-maps-audit-template): einmal im Jahr das ganze Profil mit einer Vorlage durchgehen.",
+            "[Google-Maps-Audit](/blog/google-maps-audit-template): zweimal im Jahr das ganze Profil mit einer Vorlage durchgehen.",
             "Alle Anleitungen zum Profil: [Google-Unternehmensprofil im Überblick](/blog/google-business-profil-hub).",
           ],
         },

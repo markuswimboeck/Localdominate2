@@ -21,7 +21,7 @@ Für Betriebe, deren Google-Profil gesperrt ist, sich nicht bestätigen lässt, 
 
 ## Die kurze Antwort
 
-Die meisten Probleme mit dem Google-Unternehmensprofil lassen sich auf drei Ursachen zurückführen: den Status des Profils, Angaben, die nicht zur Wirklichkeit passen, und Verstöße gegen Googles Richtlinien. Prüfen Sie deshalb zuerst den Status im Profil, beheben Sie dann falsche Angaben und legen Sie erst danach Einspruch ein. Zahlen Sie niemandem Geld für eine versprochene Reaktivierung.
+Bei Problemen mit dem Google-Unternehmensprofil lohnt der Blick auf drei Stellen: den Status des Profils, Angaben, die nicht zur Wirklichkeit passen, und Verstöße gegen Googles Richtlinien. Prüfen Sie deshalb zuerst den Status im Profil, beheben Sie dann falsche Angaben und legen Sie erst danach Einspruch ein. Zahlen Sie niemandem Geld für eine versprochene Reaktivierung.
 
 ## Das Wichtigste in Kürze
 
@@ -42,7 +42,7 @@ Die Tabelle ordnet die häufigsten Fälle den Anleitungen zu. Jede Anleitung bes
 | Hinweis auf Sperrung oder Einschränkung im Profil | Verstoß gegen die Richtlinien oder fehlende Nachweise | [Profil gesperrt: Einspruch einlegen](https://localdominate.org/blog/gbp-suspendiert-reaktivieren) |
 | Bestätigung scheitert oder bricht ab | Angaben passen nicht zu Schild, Standort oder Video | [Profil lässt sich nicht bestätigen](https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen) |
 | Profil erscheint nicht einmal bei der Suche nach dem Namen | Status: nicht bestätigt, in Prüfung, gesperrt oder Duplikat | [Profil nicht in der Suche sichtbar](https://localdominate.org/blog/gbp-nicht-in-suche-sichtbar) |
-| Zwei Einträge für denselben Standort | Altes Profil, fremder Inhaber oder automatisch angelegter Eintrag | [Doppelte Einträge entfernen](https://localdominate.org/blog/duplicate-listing-entfernen) |
+| Zwei Einträge für denselben Standort | Altes Profil nach Umzug, Profil in fremdem oder altem Agenturkonto, getrennte Profile je Leistung | [Doppelte Einträge entfernen](https://localdominate.org/blog/duplicate-listing-entfernen) |
 | Positionen in Maps sind plötzlich eingebrochen | Statusänderung, eigene Änderungen, Wettbewerber oder Updates | [Plötzlich nicht mehr in Google Maps](https://localdominate.org/blog/ranking-ploetzlich-verschwunden) |
 | Eine Rezension verstößt gegen die Richtlinien | Spam, Beleidigung, Interessenkonflikt | [Google-Bewertung löschen lassen](https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung) |
 | Wettbewerber mit Fantasienamen oder Scheinadresse | Spam in Google Maps | [Google-Maps-Spam melden](https://localdominate.org/blog/google-maps-spam-erkennen) |
@@ -55,8 +55,8 @@ Prüfen Sie von außen nach innen: zuerst, ob das Problem wirklich besteht, dann
 
 1. **Problem bestätigen.** Suchen Sie nach Ihrem Namen und Ort und messen Sie die allgemeinen Suchen an mehreren Punkten im Einzugsgebiet. Wie das geht, beschreibt der [Google-Maps-Ranking-Tracker](https://localdominate.org/blog/google-maps-ranking-tracker).
 2. **Status im Profil prüfen.** Bestätigt, in Prüfung, eingeschränkt, gesperrt oder als Duplikat markiert. Der Status entscheidet, welche Anleitung passt.
-3. **Eigene Änderungen prüfen.** Wurden kurz vorher Name, Adresse oder Kategorie geändert? Solche Änderungen sind eine häufige Ursache, etwa wenn eine Bestätigung danach scheitert.
-4. **Erst dann auf andere schauen.** Spam bei Wettbewerbern und Änderungen bei Google sind seltener die Ursache, als viele vermuten.
+3. **Eigene Änderungen prüfen.** Wurden kurz vorher Name, Adresse oder Kategorie geändert? Solche Änderungen prüft Google vorab, und danach kann eine erneute Bestätigung nötig werden.
+4. **Erst dann auf andere schauen.** Erst wenn Status und eigene Angaben stimmen, prüfen Sie Wettbewerber, Spam und bestätigte Google-Updates.
 
 > **Vorsicht:** Zahlen Sie niemandem Geld für eine angebliche Schnell-Reaktivierung. Google nimmt für eine Reaktivierung kein Geld und fragt nie nach Einmalpasswörtern oder PINs.
 
@@ -65,7 +65,7 @@ Prüfen Sie von außen nach innen: zuerst, ob das Problem wirklich besteht, dann
 Viele Probleme entstehen durch dieselben Fehler: Zusätze im Firmennamen, Adressen ohne besetzte Betriebsstätte, Bewertungen mit Anreiz und fast gleiche Stadtseiten.
 
 - [Local SEO Fehler](https://localdominate.org/blog/local-seo-fehler): warum ein Betrieb lokal nicht gefunden wird und was Sie stattdessen tun.
-- [Google-Maps-Audit](https://localdominate.org/blog/google-maps-audit-template): einmal im Jahr das ganze Profil mit einer Vorlage durchgehen.
+- [Google-Maps-Audit](https://localdominate.org/blog/google-maps-audit-template): zweimal im Jahr das ganze Profil mit einer Vorlage durchgehen.
 - Alle Anleitungen zum Profil: [Google-Unternehmensprofil im Überblick](https://localdominate.org/blog/google-business-profil-hub).
 
 ## Häufige Fragen

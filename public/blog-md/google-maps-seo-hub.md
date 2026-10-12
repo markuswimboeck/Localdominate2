@@ -21,7 +21,7 @@ Für Betriebe, die wissen wollen, warum sie in Google Maps vor oder hinter Wettb
 
 ## Die kurze Antwort
 
-Google sortiert Treffer in Maps nach **Relevanz, Entfernung und Bekanntheit**. Eine bessere Position lässt sich laut Google nicht kaufen. Bestätigt hilft ein bestätigtes, vollständiges Profil, ein Link auf Ihre Website und mehr echte Rezensionen. Prozent-Gewichtungen einzelner Faktoren stammen aus Umfragen von Fachleuten, nicht von Google. Deshalb messen Sie zuerst und ändern dann gezielt.
+Google sortiert Treffer in Maps nach **Relevanz, Entfernung und Bekanntheit**. Eine bessere Position lässt sich laut Google nicht kaufen. Laut Google helfen ein bestätigtes, vollständiges Profil, Websites, die auf Ihren Betrieb verweisen, und mehr echte Rezensionen. Prozent-Gewichtungen einzelner Faktoren stammen aus Umfragen von Fachleuten, nicht von Google. Deshalb messen Sie zuerst und ändern dann gezielt.
 
 ## Das Wichtigste in Kürze
 

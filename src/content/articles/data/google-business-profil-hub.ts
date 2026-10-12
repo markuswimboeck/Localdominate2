@@ -35,7 +35,7 @@ const article: V4Article = {
           items: [
             { title: "Profil übernehmen und bestätigen", text: "Klären, wer Inhaber ist, und das Profil bestätigen. Anleitung: [Google Unternehmensprofil optimieren](/blog/google-my-business-optimieren). Scheitert die Bestätigung, hilft [Google-Profil lässt sich nicht bestätigen](/blog/gbp-verifizierung-fehlgeschlagen)." },
             { title: "Hauptkategorie festlegen", text: "Die Kategorie entscheidet mit darüber, bei welchen Suchen Sie erscheinen: [Google Business Kategorien richtig wählen](/blog/google-business-kategorien-guide)." },
-            { title: "Stammdaten überall gleich halten", text: "Name, Adresse und Telefonnummer müssen im Profil, auf der Website und in Verzeichnissen übereinstimmen: [NAP-Konsistenz](/blog/nap-konsistenz-local-seo)." },
+            { title: "Stammdaten überall gleich halten", text: "Name, Adresse und Telefonnummer sollten im Profil, auf der Website und in Verzeichnissen übereinstimmen: [NAP-Konsistenz](/blog/nap-konsistenz-local-seo)." },
             { title: "Profil vervollständigen", text: "Öffnungszeiten, Attribute, Leistungen, Fotos. Die einzelnen Anleitungen stehen im nächsten Abschnitt." },
             { title: "Monatlich prüfen", text: "Leistungsdaten ansehen, Rezensionen beantworten, Änderungen von Google kontrollieren. Eine feste Routine liefert die [monatliche Local-SEO-Checkliste](/blog/local-seo-monthly-checklist)." },
           ],
@@ -66,7 +66,7 @@ const article: V4Article = {
       id: "kontakt-und-ki",
       title: "Kontakt, Leistungsdaten und KI-Funktionen",
       answer:
-        "Seit dem Ende des Chats im Profil zählen andere Kontaktwege. Gleichzeitig nutzt Google Profilangaben, Rezensionen und Ihre Website für KI-Zusammenfassungen.",
+        "Seit dem Ende des Chats im Profil zählen andere Kontaktwege. Gleichzeitig nennt Google Profilangaben, Rezensionen und Ihre Website als Grundlage seiner KI-Funktionen.",
       blocks: [
         {
           t: "ul",
@@ -83,7 +83,7 @@ const article: V4Article = {
       id: "mehrere-standorte",
       title: "Mehrere Standorte und Filialen",
       answer:
-        "Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Profil. Name und Kategorien bleiben über alle Standorte gleich.",
+        "Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Profil. Alle Standorte tragen denselben Namen und möglichst dieselben Kategorien.",
       blocks: [
         {
           t: "ul",
@@ -124,11 +124,11 @@ const article: V4Article = {
     },
     {
       q: "Kann ich ein besseres Ranking im Profil kaufen?",
-      a: "Nein. Google schreibt, dass sich ein besseres lokales Ranking weder anfordern noch bezahlen lässt. Bezahlt werden können nur Anzeigen, die getrennt und gekennzeichnet erscheinen.",
+      a: "Nein. Google schreibt, dass sich ein besseres lokales Ranking weder anfordern noch bezahlen lässt. Bezahlt werden nur Anzeigen, die getrennt vom Profil gebucht werden.",
     },
     {
       q: "Darf ich Suchbegriffe in den Firmennamen schreiben?",
-      a: "Nein. Der Name im Profil muss dem echten Namen entsprechen, den Sie auch am Gebäude, auf Briefpapier und auf der Website verwenden. Zusätze wie Ort oder Leistung verstoßen gegen Googles Richtlinien.",
+      a: "Nein. Der Name im Profil muss dem echten Namen entsprechen, den Sie auch am Gebäude, auf Briefpapier und auf der Website verwenden. Zusätze wie Ort oder Leistung verstoßen gegen Googles Richtlinien, wenn sie nicht Teil des echten Namens sind.",
     },
     {
       q: "Womit fange ich an, wenn ich wenig Zeit habe?",

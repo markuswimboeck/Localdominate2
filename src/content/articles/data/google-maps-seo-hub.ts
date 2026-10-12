@@ -12,7 +12,7 @@ const article: V4Article = {
   lead:
     "Für Betriebe, die wissen wollen, warum sie in Google Maps vor oder hinter Wettbewerbern stehen und was sie daran ändern können. Diese Seite ordnet unsere Anleitungen: zuerst verstehen, dann messen, dann gezielt handeln.",
   answer:
-    "Google sortiert Treffer in Maps nach **Relevanz, Entfernung und Bekanntheit**. Eine bessere Position lässt sich laut Google nicht kaufen. Bestätigt hilft ein bestätigtes, vollständiges Profil, ein Link auf Ihre Website und mehr echte Rezensionen. Prozent-Gewichtungen einzelner Faktoren stammen aus Umfragen von Fachleuten, nicht von Google. Deshalb messen Sie zuerst und ändern dann gezielt.",
+    "Google sortiert Treffer in Maps nach **Relevanz, Entfernung und Bekanntheit**. Eine bessere Position lässt sich laut Google nicht kaufen. Laut Google helfen ein bestätigtes, vollständiges Profil, Websites, die auf Ihren Betrieb verweisen, und mehr echte Rezensionen. Prozent-Gewichtungen einzelner Faktoren stammen aus Umfragen von Fachleuten, nicht von Google. Deshalb messen Sie zuerst und ändern dann gezielt.",
   takeaways: [
     "Die drei Faktoren nennt Google selbst: Relevanz, Entfernung und Bekanntheit. Die Entfernung können Sie nicht beeinflussen, die anderen beiden schon.",
     "Gemessen wird mit festen Suchbegriffen an mehreren Punkten im Einzugsgebiet, jeden Monat nach derselben Methode.",

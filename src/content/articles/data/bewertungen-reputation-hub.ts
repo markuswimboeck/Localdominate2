@@ -14,9 +14,9 @@ const article: V4Article = {
   answer:
     "Bitten Sie **alle Kunden** nach einer echten Erfahrung um eine Rezension und machen Sie es ihnen leicht, etwa mit dem Bewertungslink oder einem QR-Code aus Ihrem Profil. Verboten sind Gegenleistungen, gekaufte Bewertungen und das gezielte Fragen nur zufriedener Kunden. Auf Kritik antworten Sie sachlich und ohne persönliche Daten. Melden Sie nur Rezensionen, die gegen Googles Richtlinien verstoßen.",
   takeaways: [
-    "Mehr Rezensionen und positive Bewertungen helfen laut Google beim lokalen Ranking.",
+    "Mehr Rezensionen und positive Bewertungen können laut Google das lokale Ranking verbessern.",
     "Zahlungen, Rabatte oder kostenlose Leistungen für Rezensionen und das gezielte Fragen nur zufriedener Kunden verstoßen gegen Googles Richtlinien.",
-    "Löschen kann eine Rezension nur der Verfasser. Google entfernt sie, wenn sie gegen die Richtlinien verstößt oder rechtswidrig ist.",
+    "Löschen kann eine Rezension nur der Verfasser. Google entfernt nur Rezensionen, die gegen die Richtlinien verstoßen oder rechtswidrig sind.",
     "Bei Erpressungsversuchen mit negativen Rezensionen zahlen Sie nicht und melden den Fall an Google.",
     "Bewertungssterne in den normalen Suchtreffern zeigt Google für selbst eingebundene Bewertungen über den eigenen Betrieb seit 2019 nicht mehr.",
   ],
