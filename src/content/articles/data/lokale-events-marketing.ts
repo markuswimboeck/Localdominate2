@@ -11,12 +11,12 @@ const article: V4Article = {
   lead:
     "Für Cafés, Hotels, Salons, Werkstätten und Geschäfte, die eigene Veranstaltungen anbieten, etwa eine Weinprobe, einen Tag der offenen Tür oder einen Workshop. Sie erfahren, welche Wege Google für Veranstaltungen und Angebote vorsieht, wann sich Event-Daten auf der Website lohnen und wie Sie mit Zeitplan und Nachbereitung mehr aus jedem Termin machen.",
   answer:
-    "Eine eigene Veranstaltung wird gefunden, wenn sie an drei Stellen steht: als Beitrag vom Typ „Veranstaltung“ im Google-Unternehmensprofil, auf einer eigenen Seite Ihrer Website mit Event-Daten und in den Kalendern Ihrer Stadt. Google zeigt Veranstaltungen in Deutschland in einer eigenen Darstellung, aber nur öffentliche, buchbare Termine an einem realen Ort. Eine Anzeige garantiert Google nicht.",
+    "Damit eine eigene Veranstaltung gefunden werden kann, gehört sie an drei Stellen hin: als Beitrag vom Typ „Veranstaltung“ ins Google-Unternehmensprofil, auf eine eigene Seite Ihrer Website mit Event-Daten und in die Kalender Ihrer Stadt. Google nennt Deutschland unter den Regionen der Veranstaltungssuche, verlangt aber öffentliche, buchbare Termine an einem realen Ort. Eine Anzeige garantiert Google nicht.",
   takeaways: [
     "Im Unternehmensprofil gibt es drei Beitragstypen: Aktuelles, Angebot und Veranstaltung. Eine Veranstaltung braucht Titel, Start- und Enddatum; ohne Uhrzeiten erscheint sie als ganztägig.",
     "Hotels dürfen laut Google keine Beiträge vom Typ „Angebot“ erstellen und keine Beiträge, in denen Angebote, Werbeaktionen oder Rabatte erwähnt werden.",
     "Event-Daten auf der Website unterstützt Google weiterhin. Deutschland mit Deutsch steht auf der Liste der Regionen. Pflicht sind name, startDate, location und location.address.",
-    "Veranstaltungen müssen laut Google an einem realen Ort stattfinden und für die Allgemeinheit buchbar sein; so steht es seit einer Änderung vom 5. Juni 2025. Öffnungszeiten, Gutscheine und reine Online-Termine zählen nicht.",
+    "Veranstaltungen müssen laut Google an einem realen Ort stattfinden und für die Allgemeinheit buchbar sein; Google hat das am 5. Juni 2025 in seiner Dokumentation mit weiteren Beispielen ergänzt. Öffnungszeiten, Gutscheine und reine Online-Termine zählen nicht.",
     "Öffentliche Veranstaltungen auf Eventbrite erscheinen laut Eventbrite im eigenen Verzeichnis, in großen Suchmaschinen und bei Partnerseiten.",
     "Nach der Veranstaltung dürfen Sie um Bewertungen bitten, aber ohne Anreize und ohne gezielt nur zufriedene Gäste zu fragen.",
   ],
@@ -28,14 +28,14 @@ const article: V4Article = {
       id: "wo-gesucht-wird",
       title: "Wo Menschen nach Veranstaltungen suchen",
       answer:
-        "Wer eine Veranstaltung sucht, landet meist bei Google, im Veranstaltungskalender der Stadt oder auf einer Ticketplattform. Tragen Sie Ihren Termin deshalb an allen drei Stellen mit denselben Angaben ein und verlinken Sie jeweils auf eine Seite Ihrer Website.",
+        "Eine Veranstaltung kann über Google, über den Veranstaltungskalender der Stadt oder über eine Ticketplattform gefunden werden. Tragen Sie Ihren Termin deshalb an allen drei Stellen mit denselben Angaben ein und verlinken Sie jeweils auf eine Seite Ihrer Website.",
       blocks: [
         {
           t: "table",
-          caption: "Die wichtigsten Orte für eine eigene Veranstaltung",
+          caption: "Orte für eine eigene Veranstaltung (Aufwand: unsere Einschätzung)",
           head: ["Ort", "Was dort hingehört", "Aufwand"],
           rows: [
-            ["Google-Unternehmensprofil", "Beitrag vom Typ „Veranstaltung“, bei Bedarf ein „Angebot“", "Gering, einige Minuten je Termin"],
+            ["Google-Unternehmensprofil", "Beitrag vom Typ „Veranstaltung“, bei Bedarf ein „Angebot“ (nicht für Hotels)", "Gering, einige Minuten je Termin"],
             ["Eigene Website", "Eine Seite je Veranstaltung mit allen Fakten und Event-Daten", "Einmalig eine Vorlage, danach gering"],
             ["Ticket- oder Eventplattform", "Öffentlicher Eintrag mit Buchung", "Gering, Bedingungen je nach Anbieter"],
             ["Kalender von Stadt, Tourismusverband und Lokalmedien", "Eintrag mit Datum, Ort und Link", "Mittel, Fristen und Bedingungen je Kalender"],
@@ -123,11 +123,11 @@ const article: V4Article = {
       id: "event-daten",
       title: "Event-Daten auf der Website: Stand Oktober 2026",
       answer:
-        "Google unterstützt strukturierte Daten vom Typ Event weiterhin; die Dokumentation wurde am 8. September 2026 aktualisiert. Deutschland mit Deutsch steht auf der Liste der Regionen, in denen Google Veranstaltungen gesondert zeigt. Die Veranstaltung muss an einem realen Ort stattfinden und für die Allgemeinheit buchbar sein. Eine Anzeige garantiert Google nicht.",
+        "Google unterstützt strukturierte Daten vom Typ Event weiterhin; die Dokumentation wurde zuletzt im September 2026 aktualisiert. Deutschland mit Deutsch steht auf der Liste der Regionen, in denen die Veranstaltungssuche verfügbar ist. Die Veranstaltung muss an einem realen Ort stattfinden und für die Allgemeinheit buchbar sein. Eine Anzeige garantiert Google nicht.",
       blocks: [
         {
           t: "table",
-          caption: "Was Google für Event-Daten verlangt (Search Central, Stand 8. September 2026)",
+          caption: "Was Google für Event-Daten verlangt (Search Central, englische Fassung, Stand 8. September 2026)",
           head: ["Thema", "Was Google schreibt"],
           rows: [
             ["Pflichtangaben", "name, startDate, location und location.address"],
@@ -142,7 +142,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Stand Oktober 2026",
-          text: "Am 5. Juni 2025 hat Google seine Hinweise zu Event-Daten geändert: Die Eigenschaften für Online-Veranstaltungen wurden entfernt, und Veranstaltungen müssen seitdem öffentlich buchbar sein und an einem realen Ort stattfinden. Eine Einstellung der Funktion haben wir in den Dokumentationsänderungen bis zum 12. Oktober 2026 nicht gefunden.",
+          text: "Am 5. Juni 2025 hat Google seine Hinweise zu Event-Daten geändert: Die Eigenschaften für Online-Veranstaltungen wurden entfernt und weitere Beispiele für zulässige und unzulässige Veranstaltungen ergänzt. Google nennt dabei als Voraussetzung, dass Veranstaltungen öffentlich buchbar sind und an einem realen Ort stattfinden. Eine Einstellung der Funktion haben wir in den Dokumentationsänderungen bis zum 12. Oktober 2026 nicht gefunden.",
         },
         {
           t: "p",
@@ -184,7 +184,7 @@ const article: V4Article = {
       id: "zeitplan",
       title: "Zeitplan: wann was passiert",
       answer:
-        "Planen Sie rückwärts vom Termin: zuerst die Seite auf der Website, dann die Kalender mit ihren Fristen, danach Beitrag und Angebot im Unternehmensprofil, kurz vorher die Erinnerung. Der Plan unten ist ein Vorschlag aus unserer Erfahrung, keine Vorgabe von Google.",
+        "Planen Sie rückwärts vom Termin: zuerst die Seite auf der Website, dann die Kalender mit ihren Fristen, danach Beitrag und Angebot im Unternehmensprofil, kurz vorher die Erinnerung. Der Plan unten ist ein Vorschlag von uns, keine Vorgabe von Google.",
       blocks: [
         {
           t: "table",
@@ -193,7 +193,7 @@ const article: V4Article = {
           rows: [
             ["Vier bis sechs Wochen vorher", "Veranstaltungsseite mit Event-Daten online, Crawling beantragen", "Crawling kann laut Google Tage bis Wochen dauern"],
             ["Drei bis vier Wochen vorher", "Kalender von Stadt, Tourismus und Lokalmedien, Ticketplattform", "Mögliche Prüfung und Fristen der Kalender"],
-            ["Zwei bis drei Wochen vorher", "Beitrag „Veranstaltung“ im Unternehmensprofil, bei Bedarf „Angebot“", "Der Termin erscheint in Suche und Maps"],
+            ["Zwei bis drei Wochen vorher", "Beitrag „Veranstaltung“ im Unternehmensprofil, bei Bedarf „Angebot“ (Hotels: kein Angebot)", "Der Termin erscheint in Suche und Maps"],
             ["In der Woche davor", "Erinnerung per Newsletter und Social Media, spezielle Öffnungszeiten prüfen", "Unentschlossene erinnern, richtige Zeiten zeigen"],
             ["Am Tag danach", "Dank, Fotos mit Einwilligung, Bitte um Bewertung ohne Anreiz", "Eindrücke sind noch frisch"],
             ["Bei Absage oder Verschiebung", "Seite, eventStatus, Beitrag und Kalendereinträge sofort ändern", "Niemand steht vor verschlossener Tür"],
@@ -205,12 +205,12 @@ const article: V4Article = {
       id: "nachbereitung",
       title: "Nachbereitung: Bewertungen, Fotos und Auswertung",
       answer:
-        "Bitten Sie alle Gäste nach der Veranstaltung um eine Bewertung, mit Link oder QR-Code und ohne Gegenleistung. Google verbietet Anreize und das gezielte Einholen nur positiver Rezensionen. Fotos mit erkennbaren Personen veröffentlichen Sie nur mit Einwilligung. Werten Sie aus, über welchen Kanal die Anmeldungen kamen.",
+        "Bitten Sie alle Gäste nach der Veranstaltung um eine Bewertung, mit Link oder QR-Code, ohne Gegenleistung und ohne Druck. Google verbietet Anreize und das gezielte Einholen nur positiver Rezensionen. Fotos mit erkennbaren Personen veröffentlichen Sie nur mit Einwilligung. Werten Sie aus, über welchen Kanal die Anmeldungen kamen.",
       blocks: [
         {
           t: "ul",
           items: [
-            "**Bewertungen:** Laut Google können Sie Kunden bitten, auf einen Link zu klicken oder einen QR-Code zu scannen. Verboten sind Anreize wie kostenlose oder vergünstigte Produkte und das gezielte Bitten um positive Rezensionen. Fragen Sie also alle Gäste gleich, nicht nur die zufriedenen. Mehr in [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen#regeln).",
+            "**Bewertungen:** Laut Google können Sie Kunden bitten, auf einen Link zu klicken oder einen QR-Code zu scannen. Verboten sind Anreize wie kostenlose oder vergünstigte Produkte und das gezielte Bitten um positive Rezensionen. Außerdem dürfen Sie Kunden nicht zur Bewertung auffordern oder unter Druck setzen, solange sie noch vor Ort sind. Unsere Empfehlung: Fragen Sie alle Gäste gleich, nicht nur die zufriedenen, und erst nach der Veranstaltung. Mehr in [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen#regeln).",
             "**Fotos:** Nach § 22 KUG dürfen Bildnisse grundsätzlich nur mit Einwilligung der abgebildeten Person verbreitet werden. § 23 KUG nennt Ausnahmen, etwa Bilder von Versammlungen und ähnlichen Vorgängen, aber nicht, wenn ein berechtigtes Interesse der abgebildeten Person verletzt wird. Ob eine Ausnahme greift, ist eine Rechtsfrage. Der einfachere Weg: bei der Anmeldung auf Fotos hinweisen und Einwilligungen einholen, bevor Sie Bilder veröffentlichen.",
             "**Kanäle messen:** Versehen Sie Links in Newsletter, Kalendern und Social Media mit UTM-Parametern. Google Analytics verlangt dafür utm_source, utm_medium und utm_campaign und unterscheidet Groß- und Kleinschreibung.",
             "**Fragen:** Bei der Anmeldung kurz fragen, wie Gäste von der Veranstaltung erfahren haben. Das ist ungenau, zeigt aber Richtungen.",
@@ -230,7 +230,7 @@ const article: V4Article = {
     },
     {
       q: "Zeigt Google Veranstaltungen in Deutschland gesondert an?",
-      a: "Laut Search Central ist die Veranstaltungssuche in Deutschland auf Deutsch verfügbar. Voraussetzung sind korrekte Event-Daten, ein realer Ort und eine öffentlich buchbare Veranstaltung. Google garantiert nicht, dass strukturierte Daten in den Suchergebnissen erscheinen.",
+      a: "Laut Search Central ist die Veranstaltungssuche in Deutschland auf Deutsch verfügbar. Für die Darstellung verlangt Google die Pflichtangaben in den Event-Daten, einen realen Ort und eine öffentlich buchbare Veranstaltung. Google garantiert nicht, dass strukturierte Daten in den Suchergebnissen erscheinen.",
     },
     {
       q: "Funktionieren Event-Daten für Online-Veranstaltungen?",
@@ -250,7 +250,7 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Strukturierte Daten für Veranstaltungen (Event), Stand 8. September 2026", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/event" },
+    { title: "Strukturierte Daten für Veranstaltungen (Event), englische Fassung, Stand 8. September 2026", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/event" },
     { title: "Latest Google Search Documentation Updates (Eintrag vom 5. Juni 2025)", publisher: "Google Search Central", url: "https://developers.google.com/search/updates" },
     { title: "Beiträge in Ihrem Unternehmensprofil erstellen und verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7342169?hl=de" },
     { title: "Inhaltsrichtlinien für Fotos, Videos und Beiträge im Unternehmensprofil", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7213077?hl=de" },

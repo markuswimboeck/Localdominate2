@@ -6,18 +6,18 @@ const article: V4Article = {
   seoTitle: "Google Maps SEO vs. organisches SEO: Was Google bewertet",
   seoDescription:
     "Wie Google lokale Treffer in Maps und normale Suchergebnisse sortiert, welche Signale beide teilen, welche nicht und was daraus für Profil und Website folgt.",
-  h1: "Google Maps SEO und organisches SEO: Wie Google die beiden Rankings berechnet",
+  h1: "Google Maps SEO und organisches SEO: Was Google zu den beiden Rankings sagt",
   kicker: "Google Maps",
   lead:
     "Für Inhaber und Marketingverantwortliche, die verstehen wollen, warum ein Betrieb in Maps vorne und mit der Website weit hinten stehen kann oder umgekehrt. Sie bekommen Googles eigene Beschreibung beider Rankings, einen Vergleich der Signale und die Folgen für die Arbeit an Profil und Website. Welcher Betrieb was zuerst angehen sollte, steht im Entscheidungsleitfaden [Local SEO oder organisches SEO](/blog/local-seo-vs-organisch).",
   answer:
-    "Lokale Treffer in Maps und im Kartenblock sortiert Google laut eigener Hilfe nach **Relevanz, Entfernung und Bekanntheit**, Grundlage ist das Unternehmensprofil. Normale Treffer wählt Google aus dem Index der Websuche mit Hunderten Faktoren, darunter Inhalte, Links und der Standort der suchenden Person. Gemeinsam sind vor allem Links und genaue Angaben. Entfernung, Kategorien und Rezensionen nennt Google nur für das lokale Ranking.",
+    "Lokale Treffer in Maps und im Kartenblock sortiert Google laut eigener Hilfe nach **Relevanz, Entfernung und Bekanntheit**, Grundlage ist das Unternehmensprofil. Normale Treffer wählt Google aus dem Index der Websuche mit Hunderten Faktoren, darunter Inhalte, Links und der Standort der suchenden Person. Gemeinsam sind vor allem Links und genaue Angaben. Entfernung, Kategorien und Rezensionen nennt Google nur in der Hilfe zum lokalen Ranking.",
   takeaways: [
     "Für lokale Ergebnisse nennt Google drei Faktoren: Relevanz, Entfernung und Bekanntheit. Für die Websuche spricht Google von Hunderten Faktoren. Eine Gewichtung veröffentlicht Google für keines der beiden.",
     "Links zählen in beiden Systemen: lokal über die Anzahl der Websites, die auf Ihr Unternehmen verweisen, in der Websuche als Signal für die Relevanz von Seiten.",
     "Kategorien wirken laut Google auf das lokale Ranking. In der Websuche zählen stattdessen erreichbare, hilfreiche Inhalte und eine gute Nutzerfreundlichkeit der Website.",
     "Der Standort zählt in beiden Fällen, aber unterschiedlich: lokal als Entfernung zwischen Betrieb und Suchendem, in der Websuche als einer von vielen Faktoren.",
-    "Rezensionen nennt Google nur für das lokale Ranking. Sterne aus eigenem Markup zeigt Google für lokale Unternehmen auf deren Website nicht an.",
+    "Rezensionen nennt Google in der Hilfe zum lokalen Ranking. In der Beschreibung der Websuche kommen Kundenrezensionen als Signal nicht vor. Sterne aus eigenem Markup zeigt Google für lokale Unternehmen auf deren Website nicht an.",
     "Kaufen lässt sich keines der beiden Rankings. Das schreibt Google für lokale Ergebnisse und für die Websuche.",
   ],
   publishedAt: "2026-03-08",
@@ -28,7 +28,7 @@ const article: V4Article = {
       id: "zwei-rankings",
       title: "Zwei Rankings auf einer Ergebnisseite",
       answer:
-        "Bei einer Suche mit Ortsbezug zeigt Google oft zwei getrennt sortierte Listen: lokale Ergebnisse aus Unternehmensprofilen und normale Treffer aus dem Index der Websuche. Ihr Betrieb kann in der einen vorne und in der anderen gar nicht stehen.",
+        "Bei einer Suche mit Ortsbezug können zwei Arten von Ergebnissen erscheinen: lokale Ergebnisse aus Unternehmensprofilen und normale Treffer aus dem Index der Websuche. Ihr Betrieb kann in der einen vorne und in der anderen gar nicht stehen.",
       blocks: [
         {
           t: "p",
@@ -36,7 +36,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Diese Trennung erklärt ein häufiges Bild. Ein Handwerksbetrieb mit gepflegtem Profil kann im Kartenblock stehen, während seine Website bei derselben Suche erst weit unten auftaucht. Umgekehrt kann der Ratgeberartikel einer Praxis in den normalen Treffern oben stehen, während die Praxis in Maps fehlt. Das ist kein Widerspruch, sondern die Folge zweier Systeme mit unterschiedlichen Daten.",
+          text: "Diese Trennung erklärt ein häufiges Bild. Ein Handwerksbetrieb mit gepflegtem Profil kann im Kartenblock stehen, während seine Website bei derselben Suche erst weit unten auftaucht. Umgekehrt kann der Ratgeberartikel einer Praxis in den normalen Treffern oben stehen, während die Praxis in Maps fehlt. Das ist kein Widerspruch: Lokale Ergebnisse stammen aus Unternehmensprofilen, normale Treffer aus dem Index der Websuche.",
         },
         {
           t: "note",
@@ -56,9 +56,9 @@ const article: V4Article = {
           caption: "Die drei lokalen Faktoren und woher die Daten kommen",
           head: ["Faktor", "Googles Erklärung", "Woher die Daten kommen"],
           rows: [
-            ["Relevanz", "Wie gut ein Unternehmensprofil zum Gesuchten passt. Ausführliche Angaben helfen Google bei der Zuordnung.", "Kategorien, Attribute und weitere Angaben im Profil"],
+            ["Relevanz", "Wie gut ein Unternehmensprofil zum Gesuchten passt. Ausführliche Angaben helfen Google bei der Zuordnung.", "Ausführliche Angaben im Profil, darunter die Kategorien"],
             ["Entfernung", "Wie weit der Betrieb vom Suchenden entfernt ist. Ohne geteilten Standort nutzt Google, was es über den Standort weiß.", "Adresse oder Einzugsgebiet im Profil und Standort der suchenden Person"],
-            ["Bekanntheit", "Wie bekannt der Betrieb ist, unter anderem gemessen an der Anzahl der Websites, die auf ihn verweisen, und an Rezensionen.", "Links und Erwähnungen im Web, Rezensionen im Profil"],
+            ["Bekanntheit", "Wie bekannt der Betrieb ist, unter anderem gemessen an der Anzahl der Websites, die auf ihn verweisen, und an Rezensionen.", "Websites, die auf den Betrieb verweisen, und Rezensionen im Profil"],
           ],
         },
         {
@@ -67,7 +67,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Viele Ratgeber behaupten, eine gute Position der Website in der Websuche hebe automatisch das lokale Ranking. In Googles aktueller Hilfe zum lokalen Ranking steht das nicht. Belegt ist dort nur der Bezug über Websites, die auf Ihr Unternehmen verweisen. Was Fachleute darüber hinaus vermuten und wie belastbar das ist, ordnet der Artikel [Google-Maps-Ranking-Faktoren](/blog/google-maps-seo-ranking-faktoren) ein.",
+          text: "Ob eine gute Position der Website in der Websuche auch das lokale Ranking hebt, sagt Googles aktuelle Hilfe zum lokalen Ranking nicht (geprüft am 12. Oktober 2026, deutsche und englische Fassung). Belegt ist dort nur der Bezug über Websites, die auf Ihr Unternehmen verweisen. Was Fachleute darüber hinaus vermuten und wie belastbar das ist, ordnet der Artikel [Google-Maps-Ranking-Faktoren](/blog/google-maps-seo-ranking-faktoren) ein.",
         },
       ],
     },
@@ -96,11 +96,11 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Welche Seiten oben stehen, entscheiden laut Googles Leitfaden zu den Ranking-Systemen mehrere automatische Systeme. Genannt werden unter anderem BERT und der neuronale Abgleich, die die Bedeutung von Wörtern und Konzepten in Suchanfragen und auf Seiten erkennen, Linkanalysesysteme mit PageRank, laut Google eines der wichtigsten Ranking-Systeme, sowie Systeme für hilfreiche Originalinhalte und zuverlässige Informationen.",
+          text: "Welche Seiten oben stehen, entscheiden laut Googles Leitfaden zu den Ranking-Systemen mehrere automatische Systeme. Genannt werden unter anderem BERT und der neuronale Abgleich, die helfen, die Bedeutung von Wortkombinationen und die Konzepte in Suchanfragen und auf Seiten zu erkennen, Linkanalysesysteme mit PageRank, laut Google eines der wichtigsten Ranking-Systeme, sowie Systeme für Originalinhalte und für zuverlässige Informationen.",
         },
         {
           t: "p",
-          text: "Für Inhalte gibt Google die Richtung vor: Die Systeme sollen hilfreichen, vertrauenswürdigen Informationen für Menschen Vorrang geben. Das oft zitierte E-E-A-T (Erfahrung, Expertise, Autorität, Vertrauenswürdigkeit) ist laut Google selbst kein spezifischer Ranking-Faktor. Core Web Vitals werden laut Google von den Ranking-Systemen genutzt, die Relevanz geht aber vor: Google versucht immer, die relevantesten Inhalte zu zeigen.",
+          text: "Für Inhalte gibt Google die Richtung vor: Die Systeme sollen hilfreichen, vertrauenswürdigen Informationen für Menschen Vorrang geben. Das oft zitierte E-E-A-T (englisch für Experience, Expertise, Authoritativeness, Trustworthiness) ist laut Google selbst kein spezifischer Ranking-Faktor. Core Web Vitals werden laut Google von den Ranking-Systemen genutzt, die Relevanz geht aber vor: Google versucht immer, die relevantesten Inhalte zu zeigen.",
         },
         {
           t: "note",
@@ -117,7 +117,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "h3",
-          text: "Links und Erwähnungen",
+          text: "Links von anderen Websites",
         },
         {
           t: "p",
@@ -129,7 +129,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Lokal helfen laut Google ausführliche Angaben im Profil, damit Google es passenden Suchen zuordnen kann. In der Websuche gleichen Systeme wie BERT und der neuronale Abgleich die Konzepte einer Suchanfrage mit den Inhalten von Seiten ab. In beiden Fällen hilft, wer konkret sagt, was er anbietet. Unsere Einschätzung: Profil und Website sollten dieselben Leistungen mit denselben Begriffen nennen, damit beide eindeutig zu demselben Betrieb passen.",
+          text: "Lokal helfen laut Google ausführliche Angaben im Profil, damit Google es passenden Suchen zuordnen kann. In der Websuche helfen Systeme wie BERT und der neuronale Abgleich Google, die Bedeutung einer Suchanfrage und die Konzepte auf Seiten zu erkennen. Unsere Einschätzung: In beiden Fällen hilft es, konkret zu sagen, was Sie anbieten, und Profil und Website sollten dieselben Leistungen mit denselben Begriffen nennen, damit beide eindeutig zu demselben Betrieb passen.",
         },
         {
           t: "h3",
@@ -145,7 +145,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Für das lokale Ranking schreibt Google, dass mehr Rezensionen und positive Bewertungen helfen können. Für die Websuche nennt Google Kundenbewertungen nicht als Signal. Das Rezensionssystem im Leitfaden zu den Ranking-Systemen betrifft hochwertige Testberichte als Inhalt, nicht Sterne von Kunden. Sternebewertungen aus eigenem Markup zeigt Google nicht an, wenn ein lokales Unternehmen Rezensionen über sich selbst auf der eigenen Website einbindet, auch nicht über ein eingebettetes Widget.",
+          text: "Für das lokale Ranking schreibt Google, dass mehr Rezensionen und positive Bewertungen helfen können. In Googles Beschreibung der Websuche und im Leitfaden zu den Ranking-Systemen kommen Kundenbewertungen als Signal nicht vor. Das Rezensionssystem im Leitfaden belohnt laut Beschreibung fundierte Analysen von Fachleuten, also Testberichte als Inhalt. Sternebewertungen aus eigenem Markup zeigt Google nicht an, wenn ein lokales Unternehmen Rezensionen über sich selbst auf der eigenen Website einbindet, auch nicht über ein eingebettetes Widget.",
         },
       ],
     },
@@ -153,14 +153,14 @@ const article: V4Article = {
       id: "unterschiede",
       title: "Was nur in einem System zählt",
       answer:
-        "Entfernung, Kategorien, Bestätigung und Rezensionen im Profil nennt Google nur für das lokale Ranking. Crawling, Indexierung, hilfreiche Inhalte und Nutzerfreundlichkeit betreffen nur die Website, deshalb ersetzt gute Arbeit auf der einen Seite die andere nicht.",
+        "Entfernung, Kategorien, Bestätigung und Rezensionen im Profil nennt Google nur in der Hilfe zum lokalen Ranking. Crawling, Indexierung, hilfreiche Inhalte und Nutzerfreundlichkeit betreffen nur die Website, deshalb ersetzt gute Arbeit auf der einen Seite die andere nicht.",
       blocks: [
         {
           t: "ul",
           items: [
             "**Entfernung:** Sie hängt an Adresse oder Einzugsgebiet im Profil. Ein Einzugsgebiet macht das Profil laut Google leichter auffindbar. Zulässig sind bis zu 20 Gebiete, deren Grenzen in der Regel nicht weiter als etwa zwei Autostunden entfernt liegen. Eine Adresse näher am Zentrum dürfen Sie nicht erfinden: Für ein virtuelles Büro ohne Personal ist laut Google kein Profil zulässig.",
-            "**Kategorien:** Die Hauptkategorie soll Ihr Unternehmen am besten beschreiben, weitere Kategorien nur zusätzliche Bereiche. Eigene Kategorien lassen sich nicht anlegen. Ein entsprechendes Feld gibt es für die Websuche nicht. Mehr im Leitfaden [Google Business Kategorien](/blog/google-business-kategorien-guide).",
-            "**Bestätigung und Profilfelder:** Ein bestätigtes Profil wird laut Google eher angezeigt. Öffnungszeiten, Sonderzeiten und Attribute pflegen Sie im Profil, für die Websuche nennt Google diese Felder nicht.",
+            "**Kategorien:** Die Hauptkategorie soll Ihr Unternehmen am besten beschreiben, weitere Kategorien nur zusätzliche Bereiche. Eigene Kategorien lassen sich nicht anlegen. Für die Websuche nennt Google keine Kategorienwahl. Mehr im Leitfaden [Google Business Kategorien](/blog/google-business-kategorien-guide).",
+            "**Bestätigung und Profilfelder:** Ein bestätigtes Profil wird laut Google eher angezeigt. Öffnungszeiten, Sonderzeiten und Attribute pflegen Sie im Profil. Auf der Website können strukturierte Daten Google über Öffnungszeiten informieren, ein Ranking-Signal nennt Google dafür nicht.",
             "**Firmenname:** Unnötige Zusätze wie Leistungen oder Slogans im Namen sind laut Google nicht erlaubt. Der Name muss dem entsprechen, den Sie auch außerhalb von Google verwenden.",
             "**Crawling und Indexierung:** Was Google nicht laden oder nicht indexieren kann, erscheint nicht in den normalen Treffern und laut Search Central auch nicht als Quelle in Übersichten mit KI.",
             "**Inhalte und Nutzerfreundlichkeit:** Hilfreiche Inhalte und Core Web Vitals nennt Google für die Websuche. In der Hilfe zum lokalen Ranking kommen sie nicht vor.",
@@ -184,7 +184,7 @@ const article: V4Article = {
             ["Standort", "Entfernung zwischen Betrieb und Suchendem, einer von drei Faktoren", "Einer von vielen Faktoren für die Relevanz"],
             ["Links von anderen Websites", "Teil der Bekanntheit", "Signal für Relevanz, PageRank als eines der wichtigsten Systeme"],
             ["Rezensionen", "Mehr Rezensionen und positive Bewertungen können helfen", "Nicht als Signal genannt, keine Sterne aus eigenem Markup für lokale Unternehmen"],
-            ["Kategorien", "Wirken laut Google auf das lokale Ranking", "Kein entsprechendes Feld"],
+            ["Kategorien", "Wirken laut Google auf das lokale Ranking", "Nicht genannt"],
             ["Bestätigung", "Bestätigtes Profil wird eher angezeigt", "Kein Gegenstück genannt"],
             ["Vollständige, korrekte Angaben", "Erhöhen die Chance, angezeigt zu werden", "Strukturierte Daten können Google etwa über Öffnungszeiten informieren"],
             ["Inhalte", "Ausführliche Angaben im Profil", "Hilfreiche, vertrauenswürdige Inhalte für Menschen"],
@@ -195,7 +195,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "So lesen Sie die Tabelle",
-          text: "„Nicht genannt“ heißt nicht „wirkungslos“. Es heißt nur, dass Google den Zusammenhang nicht bestätigt. Prozentwerte für einzelne Signale, wie sie in vielen Vergleichen stehen, stammen nie von Google.",
+          text: "„Nicht genannt“ heißt nicht „wirkungslos“. Es heißt nur, dass Google den Zusammenhang auf den hier ausgewerteten Seiten nicht bestätigt. Prozentwerte für einzelne Signale, wie sie in vielen Vergleichen stehen, stammen nie von Google.",
         },
       ],
     },
@@ -223,7 +223,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Zwei Abkürzungen fehlen bewusst: Leistungen oder Slogans im Firmennamen und kopierte Seiten für jeden Nachbarort. Das erste verstößt gegen Googles Richtlinien für das Unternehmensprofil. Das zweite zählt Google zu den Brückenseiten, also zu Spam in der Websuche.",
+          text: "Zwei Abkürzungen fehlen bewusst: Leistungen oder Slogans im Firmennamen und Seiten für jeden Nachbarort, die Nutzer zum selben Ziel leiten. Das erste verstößt gegen Googles Richtlinien für das Unternehmensprofil. Das zweite zählt Google zu den Brückenseiten, also zu Spam in der Websuche.",
         },
       ],
     },
@@ -235,7 +235,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Beide Funktionen können laut Search Central eine Frage in mehrere ähnliche Suchanfragen zu Unterthemen und Datenquellen aufteilen. Übersichten mit KI zeigt Google allen Nutzern in Deutschland, Österreich und der Schweiz. Den KI-Modus führt Google dort seit dem 8. Oktober 2025 ein.",
+          text: "Beide Funktionen können laut Search Central eine Frage in mehrere ähnliche Suchanfragen zu Unterthemen und Datenquellen aufteilen. Übersichten mit KI zeigt Google allen Nutzern in Deutschland, Österreich und der Schweiz. Mit der Einführung des KI-Modus hat Google dort am 8. Oktober 2025 begonnen.",
         },
         {
           t: "p",
@@ -247,15 +247,15 @@ const article: V4Article = {
   faq: [
     {
       q: "Warum stehe ich in Google Maps vorne, mit meiner Website aber nicht?",
-      a: "Weil Google zwei getrennte Rankings berechnet. Lokal zählen laut Google Relevanz, Entfernung und Bekanntheit, mit Kategorien und Rezensionen im Profil. In den normalen Treffern zählen Inhalte, Links und Erreichbarkeit der Website. Ein starkes Profil hebt die Website nicht automatisch mit.",
+      a: "Weil Google für lokale Ergebnisse und für die Websuche unterschiedliche Faktoren nennt. Lokal zählen laut Google Relevanz, Entfernung und Bekanntheit, mit Kategorien und Rezensionen im Profil. In den normalen Treffern zählen Inhalte, Links und Erreichbarkeit der Website. Dass ein starkes Profil die Website mitzieht, nennt Google nicht als Faktor.",
     },
     {
       q: "Warum rankt meine Website gut, mein Profil in Maps aber nicht?",
-      a: "Mögliche Gründe sind eine zu allgemeine Hauptkategorie, unvollständige Angaben, ein nicht bestätigtes Profil, wenige Rezensionen oder die Entfernung: Wer weiter weg sucht, sieht näher gelegene Betriebe. Prüfen Sie zuerst Kategorie und Profilangaben.",
+      a: "Mögliche Gründe sind eine zu allgemeine Hauptkategorie, unvollständige Angaben, ein nicht bestätigtes Profil, wenige Rezensionen oder die Entfernung: Wer weiter weg sucht, sieht eher näher gelegene Betriebe. Prüfen Sie zuerst Kategorie und Profilangaben.",
     },
     {
       q: "Verbessern Google-Bewertungen mein organisches Ranking?",
-      a: "Google nennt Rezensionen nur für das lokale Ranking. Sterne aus eigenem Markup zeigt Google für lokale Unternehmen auf deren Website nicht an, auch nicht über ein eingebettetes Widget. Für Menschen, die zwischen Anbietern wählen, bleiben Bewertungen trotzdem wichtig.",
+      a: "Google nennt Rezensionen in der Hilfe zum lokalen Ranking, für die Websuche nicht. Sterne aus eigenem Markup zeigt Google für lokale Unternehmen auf deren Website nicht an, auch nicht über ein eingebettetes Widget. Für Menschen, die zwischen Anbietern wählen, bleiben Bewertungen trotzdem wichtig.",
     },
     {
       q: "Hilft LocalBusiness-Markup beim Ranking in Maps?",

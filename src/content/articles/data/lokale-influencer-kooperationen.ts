@@ -11,10 +11,10 @@ const article: V4Article = {
   lead:
     "Für Inhaber von Cafés, Hotels, Friseursalons, Handwerksbetrieben und anderen lokalen Betrieben, die mit Creators aus ihrer Stadt zusammenarbeiten wollen. Sie erfahren, wie Sie passende Partner ohne gekaufte Reichweite finden, was in eine Vereinbarung gehört, was Gesetz und Plattformen zur Werbekennzeichnung sagen und wie Sie die Wirkung messen.",
   answer:
-    "Eine gute lokale Kooperation beginnt mit einem Creator, dessen Publikum wirklich in Ihrer Region lebt, einem klaren Ziel und einer schriftlichen Vereinbarung zu Inhalt, Kennzeichnung und Nutzungsrechten. Erhält der Creator Geld oder eine ähnliche Gegenleistung, verlangt das UWG, den kommerziellen Zweck kenntlich zu machen. Messen Sie mit eigenen Links und Codes statt mit Followerzahlen.",
+    "Eine gute lokale Kooperation beginnt mit einem Creator, dessen Publikum wirklich in Ihrer Region lebt, einem klaren Ziel und einer schriftlichen Vereinbarung zu Inhalt, Kennzeichnung und Nutzungsrechten. Erhält der Creator Geld oder eine ähnliche Gegenleistung, muss der kommerzielle Zweck nach § 5a Abs. 4 UWG kenntlich sein, sofern er sich nicht aus den Umständen ergibt. Messen Sie mit eigenen Links und Codes statt mit Followerzahlen.",
   takeaways: [
-    "Wichtiger als die Followerzahl ist, ob das Publikum in Ihrer Region lebt. TikTok verbietet den Handel mit Followern und Likes und entfernt gefälschte Follower.",
-    "Nach § 5a Abs. 4 UWG handelt unlauter, wer den kommerziellen Zweck nicht kenntlich macht. Eine Gegenleistung wird vermutet, solange der Creator nicht glaubhaft macht, keine erhalten zu haben.",
+    "Für einen lokalen Betrieb zählt eher, ob das Publikum in Ihrer Region lebt, als die Followerzahl. TikTok verbietet den Handel mit Followern und Likes und entfernt gefälschte Follower.",
+    "Nach § 5a Abs. 4 UWG handelt unlauter, wer den kommerziellen Zweck nicht kenntlich macht, sofern er sich nicht aus den Umständen ergibt und das Verschweigen Verbraucher zu einer anderen Entscheidung veranlassen kann. Eine Gegenleistung wird vermutet, solange der Creator nicht glaubhaft macht, keine erhalten zu haben.",
     "TikTok verlangt für jeden Beitrag, der eine Marke, ein Produkt oder eine Dienstleistung bewirbt, die Einstellung zur Offenlegung. Das Label lässt sich nach der Veröffentlichung nicht mehr ändern.",
     "Halten Sie Nutzungsrechte schriftlich fest. Nennt der Vertrag die Nutzungsarten nicht einzeln, bestimmt nach § 31 Abs. 5 UrhG der Vertragszweck den Umfang.",
     "Eine Google-Bewertung gehört nicht in den Deal, und Links aus Kooperationen brauchen „sponsored“ oder „nofollow“.",
@@ -48,7 +48,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Korrektur zur früheren Fassung",
-          text: "Eine frühere Version dieses Artikels nannte Engagement-Raten nach Kontogröße, typische Budgets, Mindestanteile lokaler Follower und Werte für die Linkstärke. Für keine dieser Zahlen gab es eine Quelle. Wir haben sie entfernt.",
+          text: "Eine frühere Version dieses Artikels nannte Engagement-Raten nach Kontogröße, typische Budgets, Mindestanteile lokaler Follower und Werte für die Linkstärke, ohne die einzelnen Zahlen zu belegen. Wir haben sie entfernt.",
         },
       ],
     },
@@ -56,16 +56,16 @@ const article: V4Article = {
       id: "creators-finden",
       title: "Passende Creators finden, ohne gekaufte Reichweite",
       answer:
-        "Suchen Sie dort, wo Ihre Kunden suchen: auf den Plattformen nach Ihrer Stadt und Ihrem Thema, unter Ihren eigenen Gästen und in lokalen Blogs. Prüfen Sie dann, ob Inhalte und Publikum wirklich lokal sind und ob die Reichweite echt wirkt. Gekaufte Follower und Likes verbieten die Plattformen.",
+        "Suchen Sie dort, wo Ihre Kunden suchen: auf den Plattformen nach Ihrer Stadt und Ihrem Thema, unter Ihren eigenen Gästen und in lokalen Blogs. Prüfen Sie dann, ob Inhalte und Publikum wirklich lokal sind und ob die Reichweite echt wirkt. TikTok verbietet gekaufte Follower und Likes.",
       blocks: [
         {
           t: "steps",
           items: [
-            { title: "Suchen", text: "Geben Sie in der Suche von Instagram und TikTok den Namen Ihrer Stadt oder Ihres Stadtteils zusammen mit Ihrem Thema ein, etwa „Frühstück Regensburg“ oder „Altbau sanieren Kassel“. Sehen Sie sich an, wer dort regelmäßig Beiträge veröffentlicht." },
+            { title: "Suchen", text: "Geben Sie in der Suche der Plattformen, auf denen Ihre Gäste unterwegs sind, den Namen Ihrer Stadt oder Ihres Stadtteils zusammen mit Ihrem Thema ein, etwa „Frühstück Regensburg“ oder „Altbau sanieren Kassel“. Sehen Sie sich an, wer dort regelmäßig Beiträge veröffentlicht." },
             { title: "Eigenes Umfeld prüfen", text: "Oft folgen Ihnen bereits Menschen, die selbst über die Stadt berichten. Wer Ihren Betrieb schon kennt, erzählt glaubwürdiger davon." },
             { title: "Inhalte lesen", text: "Zeigt das Konto über Monate Orte aus Ihrer Region? Passen Ton und Themen zu Ihrem Betrieb? Sind frühere Kooperationen erkennbar gekennzeichnet?" },
             { title: "Kommentare ansehen", text: "Echte Kommentare beziehen sich auf den Inhalt und stellen Fragen. Viele gleichförmige Kommentare ohne Bezug zum Beitrag sind ein Warnzeichen." },
-            { title: "Publikum erfragen", text: "Fragen Sie, woher die Zuschauer kommen, und bitten Sie um einen Auszug aus der Statistik des Kontos, soweit die Plattform das anzeigt. Ein seriöser Creator teilt diese Angaben." },
+            { title: "Publikum erfragen", text: "Fragen Sie, woher die Zuschauer kommen, und bitten Sie um einen Auszug aus der Statistik des Kontos, soweit die Plattform das anzeigt. Unsere Einschätzung: Wer diese Angaben nicht zeigen will, gibt Ihnen einen Grund nachzufragen." },
           ],
         },
         {
@@ -75,7 +75,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Tipp",
-          text: "Manche Creators haben eine eigene Website mit Portfolio, früheren Arbeiten und Kontaktweg. Das erleichtert die Prüfung. Solche Portfolio-Seiten für Creators bauen wir unter [Creator-Seiten](/creators).",
+          text: "Manche Creators haben eine eigene Website mit Portfolio, früheren Arbeiten und Kontaktweg. Das erleichtert die Prüfung. Solche Portfolio-Seiten für Creators bauen wir selbst, mehr dazu steht auf der englischen Seite [Creator-Seiten](/creators).",
         },
       ],
     },
@@ -92,10 +92,10 @@ const article: V4Article = {
           rows: [
             ["Ziel", "Ein Ziel, etwa Reservierungen für das neue Frühstück", "Nur so wissen beide, was gemessen wird"],
             ["Leistung", "Plattform, Format, Anzahl der Beiträge, Zeitraum", "Vermeidet Streit über Umfang und Termin"],
-            ["Gegenleistung", "Honorar, Einladung, Übernachtung oder Produkt, jeweils benannt", "Jede Gegenleistung ist für die Kennzeichnung wichtig"],
+            ["Gegenleistung", "Honorar, Einladung, Übernachtung oder Produkt, jeweils benannt", "Die Gegenleistung ist für die Kennzeichnung relevant"],
             ["Kennzeichnung", "Welcher Hinweis, an welcher Stelle, mit welchem Werkzeug der Plattform", "Vorgaben aus UWG und Plattformregeln"],
             ["Freigabe", "Sie prüfen Fakten wie Preise und Zeiten, nicht die Meinung", "Fehler vermeiden, ohne den Beitrag zu verfälschen"],
-            ["Nutzungsrechte", "Wo, wie lange und in welcher Form Sie Fotos und Videos verwenden dürfen", "Ohne Regelung entscheidet der Vertragszweck"],
+            ["Nutzungsrechte", "Wo, wie lange und in welcher Form Sie Fotos und Videos verwenden dürfen", "Ohne ausdrückliche Einzelnennung entscheidet der Vertragszweck"],
             ["Links", "Ziel-URL mit Kampagnenparametern, Kennzeichnung von Links auf Blogs", "Messung und Googles Regeln für bezahlte Links"],
             ["Ende", "Was passiert bei Absage, ob Beiträge online bleiben", "Klarheit, wenn etwas nicht wie geplant läuft"],
           ],
@@ -106,7 +106,7 @@ const article: V4Article = {
       id: "briefing",
       title: "Briefing: Fakten liefern, Meinung frei lassen",
       answer:
-        "Geben Sie dem Creator alle Fakten, die Gäste brauchen: Adresse, Öffnungszeiten, Preise, Buchungsweg und was im Angebot enthalten ist. Schreiben Sie keinen Text vor, der nur loben darf. Ein ehrlicher Eindruck ist für Ihr Publikum glaubwürdiger und vermeidet den Eindruck verdeckter Werbung.",
+        "Geben Sie dem Creator alle Fakten, die Gäste brauchen: Adresse, Öffnungszeiten, Preise, Buchungsweg und was im Angebot enthalten ist. Schreiben Sie keinen Text vor, der nur loben darf. Ein ehrlicher Eindruck wirkt auf Ihr Publikum glaubwürdiger und weniger wie verdeckte Werbung.",
       blocks: [
         {
           t: "ul",
@@ -116,7 +116,7 @@ const article: V4Article = {
             "**Rahmen:** Wann der Besuch stattfindet, wer vor Ort Ansprechpartner ist, welche Bereiche gefilmt werden dürfen.",
             "**Kennzeichnung:** Der vereinbarte Hinweis und das Werkzeug der Plattform, beides im Briefing wiederholt.",
             "**Link und Code:** Die markierte Ziel-URL und der Code, den der Creator nennen soll.",
-            "**Grenzen:** Keine Aufnahmen von Gästen oder Mitarbeitern ohne deren Einwilligung, keine Gesundheits- oder Heilversprechen.",
+            "**Grenzen:** Keine Aufnahmen von Gästen oder Mitarbeitern ohne deren Einwilligung, keine Versprechen, die Sie nicht halten können.",
           ],
         },
         {
@@ -130,28 +130,28 @@ const article: V4Article = {
       id: "kennzeichnung",
       title: "Werbekennzeichnung: was Gesetz und Plattformen sagen",
       answer:
-        "Nach § 5a Abs. 4 UWG handelt unlauter, wer den kommerziellen Zweck einer geschäftlichen Handlung nicht kenntlich macht, wenn er sich nicht aus den Umständen ergibt. § 22 MStV verlangt, dass Werbung klar erkennbar ist. TikTok verlangt zusätzlich seine Einstellung zur Offenlegung. Diese Übersicht ist keine Rechtsberatung.",
+        "Nach § 5a Abs. 4 UWG handelt unlauter, wer den kommerziellen Zweck einer geschäftlichen Handlung nicht kenntlich macht, wenn er sich nicht aus den Umständen ergibt. § 22 MStV verlangt im Abschnitt zu Telemedien, dass Werbung klar erkennbar ist. TikTok verlangt zusätzlich seine Einstellung zur Offenlegung. Diese Übersicht ist keine Rechtsberatung.",
       blocks: [
         {
           t: "table",
           caption: "Die einschlägigen Regeln (Gesetzestexte über dejure.org, gesetze-bayern.de und RIS geöffnet am 12. Oktober 2026)",
-          head: ["Regel", "Was der Text sagt", "Bedeutung für Kooperationen"],
+          head: ["Regel", "Was der Text sagt", "Mögliche Bedeutung für Kooperationen (keine Rechtsberatung)"],
           rows: [
-            ["§ 5a Abs. 4 UWG", "Unlauter handelt, wer den kommerziellen Zweck nicht kenntlich macht, sofern er sich nicht unmittelbar aus den Umständen ergibt. Bei Handlungen zugunsten eines fremden Unternehmens liegt kein kommerzieller Zweck vor, wenn kein Entgelt oder keine ähnliche Gegenleistung fließt. Eine Gegenleistung wird vermutet, solange der Handelnde nicht glaubhaft macht, keine erhalten zu haben.", "Wer etwas erhält, sollte kennzeichnen. Halten Sie jede Gegenleistung schriftlich fest."],
-            ["UWG Anhang Nr. 11", "Als Information getarnte Werbung: vom Unternehmer finanzierte redaktionelle Inhalte zur Verkaufsförderung, ohne dass sich der Zusammenhang aus Inhalt oder Darstellung eindeutig ergibt", "Ein bezahlter Artikel auf einem Stadtblog muss als Werbung erkennbar sein"],
+            ["§ 5a Abs. 4 UWG", "Unlauter handelt, wer den kommerziellen Zweck einer geschäftlichen Handlung nicht kenntlich macht, sofern er sich nicht unmittelbar aus den Umständen ergibt und das Nichtkenntlichmachen geeignet ist, jemanden zu einer geschäftlichen Entscheidung zu veranlassen, die er sonst nicht getroffen hätte. Bei Handlungen zugunsten eines fremden Unternehmens liegt kein kommerzieller Zweck vor, wenn der Handelnde kein Entgelt oder keine ähnliche Gegenleistung erhält oder sich versprechen lässt. Der Erhalt oder das Versprechen wird vermutet, solange der Handelnde nicht glaubhaft macht, keine Gegenleistung erhalten zu haben.", "Halten Sie jede Gegenleistung schriftlich fest. Ob eine Einladung, ein Gratisessen oder eine Übernachtung eine „ähnliche Gegenleistung“ ist, ist eine Rechtsfrage für eine Anwältin oder einen Anwalt. Im Zweifel kennzeichnen."],
+            ["UWG Anhang Nr. 11", "Als Information getarnte Werbung: vom Unternehmer finanzierte redaktionelle Inhalte zur Verkaufsförderung, ohne dass sich der Zusammenhang aus Inhalt oder Darstellung eindeutig ergibt", "Ein vom Betrieb bezahlter redaktioneller Beitrag, etwa auf einem Stadtblog, darf nicht wie neutrale Information wirken"],
             ["UWG Anhang Nr. 23c", "Übermittlung oder Beauftragung gefälschter Bewertungen oder Empfehlungen von Verbrauchern sowie deren falsche Darstellung in sozialen Medien", "Keine erfundenen Kundenstimmen, keine als Kunde getarnten Beiträge"],
             ["§ 22 Abs. 1 MStV (Abschnitt Telemedien)", "Werbung muss als solche klar erkennbar und vom übrigen Inhalt der Angebote eindeutig getrennt sein", "Der Hinweis gehört sichtbar in den Beitrag, nicht versteckt ans Ende"],
-            ["TikTok", "Beiträge, die eine Marke, ein Produkt oder eine Dienstleistung bewerben, brauchen die Einstellung zur Offenlegung; für Inhalte für ein anderes Unternehmen gilt das Label „Paid partnership“", "Der Creator wählt das Label beim Veröffentlichen; nachträglich lässt es sich nicht ändern"],
+            ["TikTok", "Beiträge, die eine Marke, ein Produkt oder eine Dienstleistung bewerben, brauchen die Einstellung zur Offenlegung („Inhaltsoffenlegung“ in der deutschen TikTok-Hilfe). Für Inhalte für ein anderes Unternehmen gilt das Label „Paid partnership“ (deutsch „Bezahlte Partnerschaft“), für den eigenen Betrieb „Werbeinhalt“", "Der Creator wählt das Label beim Veröffentlichen; nachträglich lässt es sich nicht ändern"],
           ],
         },
         {
           t: "p",
-          text: "Die Anhang-Praktiken gelten nach § 3 Abs. 3 UWG gegenüber Verbrauchern stets als unzulässig. Dejure.org zeigt für den Anhang die Fassung, die am 27. September 2026 in Kraft getreten ist. Die Nummern 11 und 23c haben wir in dieser Fassung geprüft. Verbreitete Fragen wie „Reicht das Label der Plattform allein?“ oder „Muss ein Gratisessen gekennzeichnet werden?“ beantwortet der Gesetzestext nicht im Einzelnen. Wir empfehlen, im Zweifel beides zu nutzen: das Werkzeug der Plattform und einen gut sichtbaren Hinweis wie „Werbung“ am Anfang des Beitrags.",
+          text: "Die Anhang-Praktiken gelten nach § 3 Abs. 3 UWG gegenüber Verbrauchern stets als unzulässig. Dejure.org zeigt für den Anhang die Fassung, die am 27. September 2026 in Kraft getreten ist. Die Nummern 11 und 23c haben wir in dieser Fassung geprüft. Verbreitete Fragen wie „Reicht das Label der Plattform allein?“ oder „Muss ein Gratisessen gekennzeichnet werden?“ beantwortet der Gesetzestext nicht im Einzelnen. Für wen § 22 MStV bei einem Social-Media-Konto gilt, sagt der Text ebenfalls nicht. Unsere Einschätzung, keine Rechtsberatung: Im Zweifel beides nutzen, das Werkzeug der Plattform und einen gut sichtbaren Hinweis wie „Werbung“ am Anfang des Beitrags.",
         },
         {
           t: "note",
           label: "Instagram, Österreich und Schweiz",
-          text: "Die Hilfeseiten von Instagram zu Markeninhalten konnten wir am 12. Oktober 2026 nicht abrufen. Wir beschreiben die Werkzeuge dort deshalb nicht; prüfen Sie sie vor dem ersten Beitrag in der Instagram-Hilfe. In Österreich verlangt § 26 Mediengesetz, dass entgeltliche Beiträge in periodischen Medien als „Anzeige“, „entgeltliche Einschaltung“ oder „Werbung“ gekennzeichnet werden. Ob ein Social-Media-Konto darunter fällt, sagt der Text nicht. Schweizer Regeln haben wir nicht geprüft.",
+          text: "Die Kennzeichnungswerkzeuge von Instagram und anderen Plattformen außer TikTok beschreiben wir hier nicht. Prüfen Sie sie vor dem ersten Beitrag in der Hilfe der Plattform. In Österreich müssen nach § 26 Mediengesetz Ankündigungen, Empfehlungen sowie sonstige Beiträge und Berichte, für deren Veröffentlichung ein Entgelt geleistet wird, in periodischen Medien als „Anzeige“, „entgeltliche Einschaltung“ oder „Werbung“ gekennzeichnet sein, es sei denn, Zweifel über die Entgeltlichkeit sind durch Gestaltung oder Anordnung ausgeschlossen. Ob ein Social-Media-Konto darunter fällt, sagt der Text nicht. Schweizer Regeln haben wir nicht geprüft.",
         },
         {
           t: "note",
@@ -190,7 +190,7 @@ const article: V4Article = {
       id: "links-und-bewertungen",
       title: "Links und Bewertungen: was nicht in den Deal gehört",
       answer:
-        "Google nennt es Linkspam, jemandem ein Produkt zu schicken, damit er darüber schreibt und einen Link setzt. Solche Links sind nur in Ordnung, wenn sie „sponsored“ oder „nofollow“ tragen. Eine Google-Bewertung darf nicht Teil der Gegenleistung sein, denn Google verbietet Rezensionen, die direkt oder in Sachleistungen bezahlt wurden.",
+        "Als Beispiel für Link-Spam nennt Google, jemandem ein Produkt zu schicken, damit er darüber schreibt und einen Link einfügt. Solche Links sind nur in Ordnung, wenn sie „sponsored“ oder „nofollow“ tragen. Eine Google-Bewertung darf nicht Teil der Gegenleistung sein, denn Google verbietet Rezensionen, die direkt oder in Sachleistungen bezahlt wurden.",
       blocks: [
         {
           t: "ul",
@@ -215,9 +215,9 @@ const article: V4Article = {
         {
           t: "steps",
           items: [
-            { title: "Link markieren", text: "Laut Google Analytics sollen utm_source, utm_medium und utm_campaign immer gesetzt werden; utm_content unterscheidet verschiedene Links einer Kampagne. Ein Beispiel: ?utm_source=instagram&utm_medium=social&utm_campaign=fruehstueck-herbst&utm_content=creator-name." },
+            { title: "Link markieren", text: "Laut Google Analytics sollen utm_source, utm_medium und utm_campaign immer gesetzt werden; utm_content dient laut Google der Unterscheidung von Creatives, hier nutzen wir es für den Creator. Ein Beispiel: ?utm_source=instagram&utm_medium=social&utm_campaign=fruehstueck-herbst&utm_content=creator-name." },
             { title: "Einheitlich schreiben", text: "Google Analytics unterscheidet Groß- und Kleinschreibung, „Instagram“ und „instagram“ sind zwei Werte. Schreiben Sie alles klein." },
-            { title: "Link erzeugen", text: "Google bietet ein Tool zur URL-Erstellung für Kampagnen an. Damit vermeiden Sie Tippfehler." },
+            { title: "Link erzeugen", text: "Google bietet ein Tool zur URL-Erstellung für Kampagnen an, laut Google nur auf Englisch. Damit vermeiden Sie Tippfehler." },
             { title: "Auswerten", text: "In Google Analytics unter „Akquisition“ und „Neu generierter Traffic“ sehen Sie Quelle, Medium und Kampagne der Besuche." },
             { title: "Vor Ort erfassen", text: "Ein eigener Code je Creator für Reservierung oder Kasse zeigt, wer tatsächlich kommt. Ergänzend fragen Sie bei der Buchung, wie Gäste auf Sie aufmerksam wurden." },
           ],
@@ -290,7 +290,7 @@ const article: V4Article = {
     },
     {
       q: "Gelten diese Regeln auch in Österreich und der Schweiz?",
-      a: "Für Österreich verlangt § 26 Mediengesetz die Kennzeichnung entgeltlicher Beiträge in periodischen Medien als „Anzeige“, „entgeltliche Einschaltung“ oder „Werbung“. Schweizer Regeln haben wir nicht geprüft. Die Regeln der Plattformen gelten unabhängig vom Land.",
+      a: "Für Österreich verlangt § 26 Mediengesetz, dass Beiträge und Berichte, für deren Veröffentlichung ein Entgelt geleistet wird, in periodischen Medien als „Anzeige“, „entgeltliche Einschaltung“ oder „Werbung“ gekennzeichnet sind, es sei denn, Zweifel an der Entgeltlichkeit sind durch Gestaltung oder Anordnung ausgeschlossen. Ob ein Social-Media-Konto darunter fällt, sagt der Text nicht. Schweizer Regeln haben wir nicht geprüft. Welche Plattformregeln in Ihrem Land gelten, steht in der Hilfe der Plattform.",
     },
   ],
   sources: [
@@ -303,6 +303,7 @@ const article: V4Article = {
     { title: "§ 23 KunstUrhG (Ausnahmen zu § 22)", publisher: "dejure.org", url: "https://dejure.org/gesetze/KunstUrhG/23.html" },
     { title: "Mediengesetz § 26 Kennzeichnung entgeltlicher Veröffentlichungen, Österreich", publisher: "RIS Bundeskanzleramt", url: "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000719&Paragraf=26" },
     { title: "Promoting a brand, product, or service", publisher: "TikTok Support", url: "https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service" },
+    { title: "Promoting a brand, product, or service (deutsche Fassung der TikTok-Hilfe)", publisher: "TikTok Support", url: "https://support.tiktok.com/de/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service" },
     { title: "Community Guidelines: Integrity and Authenticity", publisher: "TikTok", url: "https://www.tiktok.com/community-guidelines/en/integrity-authenticity" },
     { title: "Spam policies for Google web search (Stand 28. August 2026)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies" },
     { title: "Verbotene und eingeschränkt zulässige Inhalte (Richtlinien für Rezensionen)", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },

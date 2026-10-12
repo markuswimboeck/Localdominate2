@@ -17,7 +17,7 @@ const article: V4Article = {
     "Ein Unternehmensprofil gibt es laut Google nur bei persönlichem Kundenkontakt während der Geschäftszeiten. Unternehmen, die ausschließlich online tätig sind, sind ausgeschlossen.",
     "Betriebe mit Praxis, Laden oder Einzugsgebiet brauchen beides und beginnen mit dem Profil. Überregionale Anbieter ohne Kundenkontakt vor Ort beginnen mit der Website.",
     "Beide Wege teilen Grundlagen: Websites, die auf Ihren Betrieb verweisen, zählen laut Google für das lokale Ranking, und Links sind auch in der Websuche ein Signal.",
-    "Messen Sie getrennt: Anrufe, Routen und Websiteklicks in den Leistungsdaten des Profils, Klicks und Suchanfragen der Website in der Search Console.",
+    "Messen Sie getrennt: Anrufe, Wegbeschreibungen und Websiteklicks in den Leistungsdaten des Profils, Klicks und Suchanfragen der Website in der Search Console.",
     "Feste Budgetquoten und Zeitversprechen wie „Local SEO wirkt in zwei Wochen“ sind nicht belegt. Entscheiden Sie nach Betriebstyp und eigenen Zahlen.",
   ],
   publishedAt: "2026-02-21",
@@ -32,14 +32,14 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Beide Begriffe stammen aus der Praxis, nicht von Google. Google spricht in seiner Hilfe von **lokalen Ergebnissen**, die in Google Maps und in der Google Suche erscheinen, wenn jemand nach Unternehmen oder Orten in der Nähe sucht. Die normalen Treffer darunter kommen aus dem Index der Websuche. Für Ihre Entscheidung reicht eine einfache Regel: Local SEO arbeitet vor allem am Unternehmensprofil, organisches SEO vor allem an der Website.",
+          text: "Beide Begriffe sind in der Praxis gebräuchlich. Google spricht in seiner Hilfe von **lokalen Ergebnissen**, die in Google Maps und in der Google Suche erscheinen, wenn jemand nach Unternehmen oder Orten in der Nähe sucht. Die normalen Treffer kommen aus dem Index der Websuche. Für Ihre Entscheidung reicht eine einfache Regel: Local SEO arbeitet vor allem am Unternehmensprofil, organisches SEO vor allem an der Website.",
         },
         {
           t: "table",
           caption: "Local SEO und organisches SEO auf einen Blick",
           head: ["Frage", "Local SEO", "Organisches SEO"],
           rows: [
-            ["Wo Sie erscheinen", "Kartenblock in der Suche und Google Maps", "Normale Treffer unter dem Kartenblock"],
+            ["Wo Sie erscheinen", "Kartenblock in der Suche und Google Maps", "Normale Treffer der Google Suche"],
             ["Wichtigste Grundlage", "Google-Unternehmensprofil", "Ihre eigene Website"],
             ["Was Google laut eigener Dokumentation bewertet", "Relevanz, Entfernung und Bekanntheit", "Hunderte Faktoren, darunter Standort, Sprache und Gerät der suchenden Person"],
             ["Typische Handlung des Kunden", "Anrufen, Route planen, Website öffnen", "Seite lesen, anfragen, buchen oder kaufen"],
@@ -58,23 +58,23 @@ const article: V4Article = {
       id: "ergebnisseite",
       title: "Wo was auf der Google-Seite erscheint",
       answer:
-        "Eine Suche wie „Zahnarzt Linz“ kann eine Übersicht mit KI, den Kartenblock mit Betrieben und darunter die normalen Treffer zeigen, dazu kommen Google Maps und der KI-Modus als eigene Bereiche. Jeder Bereich speist sich aus anderen Quellen.",
+        "Eine Suche wie „Zahnarzt Linz“ kann eine Übersicht mit KI, einen Kartenblock mit Betrieben und die normalen Treffer zeigen. Google Maps und der KI-Modus sind eigene Bereiche. Jeder Bereich speist sich aus anderen Quellen.",
       blocks: [
         {
           t: "table",
           caption: "Wo Ihr Betrieb bei Google erscheinen kann",
           head: ["Bereich", "Was dort steht", "Woraus er gespeist wird", "Zuständig"],
           rows: [
-            ["Kartenblock (oft Local Pack genannt)", "Eine Auswahl lokaler Betriebe mit Karte, Bewertungen, Anruf und Route", "Unternehmensprofile", "Local SEO"],
+            ["Kartenblock (oft Local Pack genannt)", "Eine Auswahl lokaler Betriebe, meist mit Karte, Bewertungen und Schaltflächen wie Anrufen", "Unternehmensprofile", "Local SEO"],
             ["Google Maps", "Passende Betriebe im Kartenausschnitt", "Unternehmensprofile", "Local SEO"],
             ["Normale Treffer", "Websites mit Titel, Link und Textausschnitt", "Indexierte Seiten, also Ihre Website", "Organisches SEO"],
             ["Übersicht mit KI", "Eine zusammengefasste Antwort mit Links zum Weiterlesen", "Indexierte Seiten; Google nennt dazu aktuelle Angaben im Unternehmensprofil", "Beides"],
-            ["KI-Modus", "Eigener Bereich für längere Fragen mit Rückfragen", "Mehrere Suchanfragen zu Unterthemen und Datenquellen", "Beides"],
+            ["KI-Modus", "Eigener Bereich für komplexe Fragen mit Folgefragen", "Mehrere Suchanfragen zu Unterthemen und Datenquellen", "Beides"],
           ],
         },
         {
           t: "p",
-          text: "Übersichten mit KI zeigt Google laut eigener Hilfe allen Nutzern in Deutschland, Österreich und der Schweiz. Den KI-Modus führt Google seit dem 8. Oktober 2025 in diesen drei Ländern ein. Für beide gibt es laut Search Central **keine zusätzlichen Anforderungen**: Eine Seite muss indexiert und für ein Snippet geeignet sein. Zu den weiter geltenden Grundsätzen zählt Google ausdrücklich, die Angaben im Unternehmensprofil aktuell zu halten. KI-Antworten sind damit kein dritter Weg, sie stützen sich auf Profil und Website zugleich.",
+          text: "Übersichten mit KI zeigt Google laut eigener Hilfe allen Nutzern in Deutschland, Österreich und der Schweiz. Mit der Einführung des KI-Modus hat Google in diesen drei Ländern am 8. Oktober 2025 begonnen. Für beide gibt es laut Search Central **keine zusätzlichen Anforderungen**: Eine Seite muss indexiert und für ein Snippet geeignet sein. Zu den weiter geltenden Grundsätzen zählt Google ausdrücklich, die Angaben im Unternehmensprofil aktuell zu halten. KI-Antworten sind damit kein dritter Weg, sie stützen sich auf Profil und Website zugleich.",
         },
         {
           t: "note",
@@ -91,7 +91,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google lässt ein Unternehmensprofil nur zu, wenn während der angegebenen Geschäftszeiten normalerweise persönlicher Kundenkontakt stattfindet oder möglich ist. Ausdrücklich ausgeschlossen sind Unternehmen, die ausschließlich online tätig sind. Wer seine Kunden vor Ort besucht, zeigt laut Google keine Geschäftsadresse an, sondern ein Einzugsgebiet, das in der Regel nicht weiter als etwa zwei Autostunden reicht. Hybridbetriebe dürfen Adresse und Einzugsgebiet gemeinsam angeben, wenn der Standort während der Geschäftszeiten besetzt ist.",
+          text: "Google lässt ein Unternehmensprofil nur zu, wenn während der angegebenen Geschäftszeiten normalerweise persönlicher Kundenkontakt stattfindet oder möglich ist. Ausdrücklich ausgeschlossen sind Unternehmen, die ausschließlich online tätig sind. Wer seine Kunden vor Ort besucht, sollte laut Google keine Geschäftsadresse anzeigen, sondern ein Einzugsgebiet, das in der Regel nicht weiter als etwa zwei Autostunden reicht. Hybridbetriebe dürfen Adresse und Einzugsgebiet gemeinsam angeben, wenn der Standort während der Geschäftszeiten besetzt ist.",
         },
         {
           t: "table",
@@ -124,10 +124,10 @@ const article: V4Article = {
         {
           t: "ul",
           items: [
-            "**Links und Erwähnungen:** Für die Bekanntheit im lokalen Ranking nennt Google die Anzahl der Websites, die auf Ihr Unternehmen verweisen. In der Websuche nutzt Google Links als Signal für die Relevanz von Seiten. Ein Eintrag beim Verband oder ein Bericht in der Lokalzeitung kann deshalb beiden helfen.",
+            "**Links von anderen Websites:** Für die Bekanntheit im lokalen Ranking nennt Google die Anzahl der Websites, die auf Ihr Unternehmen verweisen. In der Websuche nutzt Google Links als Signal für die Relevanz von Seiten. Ein Link von Verband oder Lokalzeitung auf Ihre Website kann deshalb beiden helfen.",
             "**Website als Ziel des Profils:** Der Website-Link im Profil führt Interessenten auf Ihre Seiten, wo sie entscheiden, ob sie anfragen. Die Leistungsdaten des Profils zählen diese Klicks als Websiteklicks.",
             "**Gleiche Angaben:** Vollständige und korrekte Informationen im Profil erhöhen laut Google die Chance, angezeigt zu werden. Unsere Einschätzung: Name, Adresse, Telefon, Öffnungszeiten und Leistungen sollten auf der Website genauso lauten, sonst wird jede Zuordnung schwerer, auch in KI-Antworten.",
-            "**Antworten auf Detailfragen:** Übersichten mit KI und KI-Modus stellen laut Google mehrere Suchanfragen zu Unterthemen. Die Antworten darauf stehen auf Ihrer Website, nicht im Profil.",
+            "**Antworten auf Detailfragen:** Übersichten mit KI und KI-Modus stellen laut Google mehrere Suchanfragen zu Unterthemen. Unsere Einschätzung: Ausführliche Antworten auf Detailfragen gehören auf Ihre Website, das Profil bietet dafür wenig Platz.",
           ],
         },
         {
@@ -140,7 +140,7 @@ const article: V4Article = {
       id: "plan",
       title: "Ein Plan nach Priorität",
       answer:
-        "Beginnen Sie mit dem, was mit wenig Aufwand die meisten Kunden erreicht: Ergebnisseite ansehen, Profil sichern, Grunddaten korrigieren, Messung einrichten. Danach folgen Leistungsseiten, Bewertungen als Ablauf und lokale Erwähnungen, überregionale Anbieter ohne Profil starten bei Schritt vier.",
+        "Beginnen Sie mit dem, was mit wenig Aufwand die meisten Kunden erreicht: Ergebnisseite ansehen, Profil sichern, Grunddaten korrigieren, Messung einrichten. Danach folgen Leistungsseiten, Bewertungen als Ablauf und lokale Links. Anbieter ohne Profil überspringen die Profil-Schritte zwei und drei.",
       blocks: [
         {
           t: "steps",
@@ -159,7 +159,7 @@ const article: V4Article = {
             },
             {
               title: "Messung einrichten",
-              text: "Website in der Search Console anmelden, den Website-Link im Profil mit Kampagnenparametern markieren und die aktuellen Leistungsdaten des Profils als Ausgangswert notieren.",
+              text: "Website in der Search Console anmelden und die aktuellen Leistungsdaten des Profils als Ausgangswert notieren. Wer will, markiert den Website-Link im Profil mit Kampagnenparametern: Googles Richtlinien erwähnen das nicht, verbieten aber Weiterleitungs-URLs im Profil, der Link muss also direkt auf Ihre Seite führen. Prüfen Sie nach dem Speichern, ob er im Profil unverändert angezeigt wird.",
             },
             {
               title: "Leistungsseiten bauen",
@@ -167,11 +167,11 @@ const article: V4Article = {
             },
             {
               title: "Bewertungen als festen Ablauf einrichten",
-              text: "Alle Kunden um eine ehrliche Bewertung bitten, ohne Gegenleistung, und jede beantworten. Laut Google können mehr Rezensionen und positive Bewertungen das lokale Ranking verbessern. Ablauf: [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen).",
+              text: "Alle Kunden um eine ehrliche Bewertung bitten, ohne Gegenleistung und ohne Druck, und jede beantworten. Laut Google können mehr Rezensionen und positive Bewertungen das lokale Ranking verbessern. Ablauf: [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen).",
             },
             {
-              title: "Lokale Erwähnungen aufbauen",
-              text: "Verband, Kammer, Partner und Lokalpresse, dort, wo Sie ohnehin aktiv sind. Ideen mit Augenmaß in [Lokales Linkbuilding](/blog/local-link-building).",
+              title: "Lokale Links aufbauen",
+              text: "Links von Verband, Kammer, Partnern und Lokalpresse, dort, wo Sie ohnehin aktiv sind. Ideen mit Augenmaß in [Lokales Linkbuilding](/blog/local-link-building).",
             },
             {
               title: "Monatlich vergleichen",
@@ -189,7 +189,7 @@ const article: V4Article = {
       id: "messen",
       title: "So messen Sie beide Seiten",
       answer:
-        "Den lokalen Teil messen Sie in den Leistungsdaten des Unternehmensprofils (Aufrufe, Suchanfragen, Anrufe, Routen, Websiteklicks), den organischen in der Search Console (Klicks, Impressionen, Suchanfragen Ihrer Website). Klicks aus Übersichten mit KI zählt die Search Console im Suchtyp „Web“ mit.",
+        "Den lokalen Teil messen Sie in den Leistungsdaten des Unternehmensprofils (Aufrufe, Suchanfragen, Anrufe, Wegbeschreibungen, Websiteklicks), den organischen in der Search Console (Klicks, Impressionen, Suchanfragen Ihrer Website). Klicks aus Übersichten mit KI zählt die Search Console im Suchtyp „Web“ mit.",
       blocks: [
         {
           t: "table",
@@ -198,17 +198,17 @@ const article: V4Article = {
           rows: [
             ["Wie oft wurde mein Profil in Suche und Maps angesehen?", "Unternehmensprofil, Bereich „Leistung“, Aufrufe", "Mehrfache Aufrufe derselben Person zählt Google höchstens einmal pro Tag"],
             ["Über welche Suchbegriffe wurde mein Profil gefunden?", "Unternehmensprofil, Suchanfragen", "Aktualisierung zu Monatsbeginn, Anzeige mit bis zu fünf Tagen Verzögerung"],
-            ["Wie viele Anrufe, Routen und Websiteklicks kamen aus dem Profil?", "Unternehmensprofil, Interaktionen", "Google hat die Zählung der Routen geändert, ältere Werte sind nicht direkt vergleichbar"],
+            ["Wie viele Anrufe, Wegbeschreibungen und Websiteklicks kamen aus dem Profil?", "Unternehmensprofil, Interaktionen", "Google nennt eine geänderte Zählung der Wegbeschreibungen, Vergleiche mit älteren Werten sind daher mit Vorsicht zu lesen"],
             ["Wie oft erschien meine Website in der Suche und wurde geklickt?", "Search Console, Leistungsbericht", "Klicks, Impressionen, Klickrate und durchschnittliche Position, nach Suchanfrage und Seite"],
             ["Wie oft wurden Links zu meiner Website in Übersichten mit KI und im KI-Modus gezeigt?", "Search Console, Leistungsbericht zu generativen KI-Funktionen", "Seit dem 31. August 2026, nur Impressionen; Klicks stehen im Suchtyp „Web“"],
-            ["Was tun Besucher aus dem Profil auf meiner Website?", "Web-Analyse mit markiertem Profil-Link", "Kampagnenparameter wie utm_source und utm_medium am Website-Link"],
+            ["Was tun Besucher aus dem Profil auf meiner Website?", "Web-Analyse mit markiertem Profil-Link", "Kampagnenparameter wie utm_source, utm_medium und utm_campaign am Website-Link; Googles Profil-Richtlinien erwähnen sie nicht, Weiterleitungs-URLs sind dort verboten"],
             ["Wird aus Sichtbarkeit Umsatz?", "Ihr Anfrage- und Buchungseingang", "Neue Kunden fragen, wie sie Sie gefunden haben"],
           ],
         },
         {
           t: "note",
           label: "Gut zu wissen",
-          text: "Ob Klicks auf den Website-Link im Profil auch in der Search Console auftauchen, beschreibt Googles Hilfe zum Leistungsbericht nicht. Mit einem markierten Link trennen Sie diese Besuche in Ihrer Web-Analyse sauber von den organischen. Positionen im Kartenblock messen Sie am besten mit einem Raster über Ihr Einzugsgebiet, wie in [Google-Maps-Ranking verbessern](/blog/google-maps-ranking-verbessern#ranking-messen) beschrieben.",
+          text: "Ob Klicks auf den Website-Link im Profil auch in der Search Console auftauchen, sagt Googles Hilfe zu den Leistungsdaten des Profils nicht. Mit einem markierten Link können Sie diese Besuche in Ihrer Web-Analyse von den organischen trennen, sofern der Link im Profil unverändert bleibt. Positionen im Kartenblock messen Sie am besten mit einem Raster über Ihr Einzugsgebiet, wie in [Google-Maps-Ranking verbessern](/blog/google-maps-ranking-verbessern#ranking-messen) beschrieben.",
         },
       ],
     },
@@ -227,7 +227,7 @@ const article: V4Article = {
             ["„Local SEO wirkt in zwei bis vier Wochen, organisches SEO erst nach Monaten“", "Google nennt für keines der beiden Systeme Zeiträume. Wie schnell sich etwas bewegt, hängt vom Wettbewerb ab."],
             ["„Fast jede zweite Google-Suche ist lokal“", "Für diese oft zitierte Zahl haben wir keine aktuelle, offen gelegte Erhebung von Google gefunden. Planen Sie mit Ihren eigenen Suchbegriffen aus Profil und Search Console."],
             ["„Mit einer Seite je Nachbarort erscheinen Sie überall“", "Seiten, die auf einzelne Städte zielen und Nutzer zum selben Ziel leiten, zählt Google zu den Brückenseiten, also zu Spam."],
-            ["„Gegen Bezahlung kommen Sie im Kartenblock nach oben“", "Ein besseres lokales Ranking lässt sich laut Google nicht einfordern, auch nicht gegen Bezahlung. Für die Websuche nimmt Google laut Search Central ebenfalls keine Zahlungen für ein höheres Ranking an."],
+            ["„Gegen Bezahlung kommen Sie im Kartenblock nach oben“", "Ein besseres lokales Ranking lässt sich laut Google nicht einfordern, auch nicht gegen Bezahlung. Für die Websuche nimmt Google laut Search Central ebenfalls keine Zahlungen für ein höheres Ranking an. Bezahlte Anzeigen behandelt dieser Artikel nicht."],
             ["„Auch ein Onlineshop braucht ein Unternehmensprofil“", "Unternehmen, die ausschließlich online tätig sind, schließt Google vom Unternehmensprofil aus."],
           ],
         },
@@ -249,7 +249,7 @@ const article: V4Article = {
     },
     {
       q: "Was ist der Kartenblock oder das Local Pack?",
-      a: "So nennt man die Auswahl lokaler Betriebe mit Karte, die Google bei Suchen mit Ortsbezug zwischen den Suchergebnissen zeigt. Die Einträge stammen aus Unternehmensprofilen. Wer dort erscheint, bestimmt Google laut eigener Hilfe nach Relevanz, Entfernung und Bekanntheit.",
+      a: "So nennen Fachleute die Auswahl lokaler Betriebe mit Karte, die Google bei Suchen mit Ortsbezug zeigen kann. In Googles Hilfe zum lokalen Ranking heißt es „lokale Ergebnisse“. Die Einträge stammen aus Unternehmensprofilen. Für lokale Ergebnisse nennt Google Relevanz, Entfernung und Bekanntheit.",
     },
     {
       q: "Kann ich mit einem Profil in mehreren Städten gefunden werden?",
@@ -257,7 +257,7 @@ const article: V4Article = {
     },
     {
       q: "Wie sehe ich, ob Local SEO oder organisches SEO mehr bringt?",
-      a: "Legen Sie die Interaktionen aus den Leistungsdaten des Profils (Anrufe, Routen, Websiteklicks) neben die Klicks in der Search Console und neben Ihre tatsächlichen Anfragen. Ein markierter Website-Link im Profil trennt beide Quellen in Ihrer Web-Analyse.",
+      a: "Legen Sie die Interaktionen aus den Leistungsdaten des Profils (Anrufe, Wegbeschreibungen, Websiteklicks) neben die Klicks in der Search Console und neben Ihre tatsächlichen Anfragen. Ein markierter Website-Link im Profil kann beide Quellen in Ihrer Web-Analyse trennen, sofern er im Profil unverändert bleibt.",
     },
     {
       q: "Erscheine ich in Übersichten mit KI, wenn ich in Maps gut stehe?",
