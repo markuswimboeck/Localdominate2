@@ -8,6 +8,7 @@ import { CHECK_DE } from "@/lib/check";
 import { faqPageJsonLd } from "@/lib/seoFaq";
 import { Inline, plain } from "@/content/articles/inline";
 import type { Block, Section, V4Article } from "@/content/articles/types";
+import { HUB_OF } from "@/content/articles/hubIndex";
 
 const SITE = "https://localdominate.org";
 const MONTHS = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"];
@@ -284,6 +285,7 @@ function Cta({ title, text, kicker = "Kostenloser Check", label = CHECK_DE.label
 /** A blog article in the V4 design. The data comes from src/content/articles/data/<slug>.ts. */
 export default function ArticleV4({ article: a }: { article: V4Article }) {
   const half = Math.ceil(a.sections.length / 2);
+  const hub = a.hub ? undefined : HUB_OF[a.slug];
   return (
     <V4Page>
       <SEOHead
@@ -326,6 +328,16 @@ export default function ArticleV4({ article: a }: { article: V4Article }) {
                 <dt className="font-v4-mono text-[11px] uppercase tracking-[0.16em] text-v4-ivory/50">Lesezeit</dt>
                 <dd className="mt-1 text-v4-ivory/85">{`${a.readingTime} Minuten`}</dd>
               </div>
+              {hub ? (
+                <div>
+                  <dt className="font-v4-mono text-[11px] uppercase tracking-[0.16em] text-v4-ivory/50">Übersicht</dt>
+                  <dd className="mt-1 text-v4-ivory/85">
+                    <Link to={`/blog/${hub.slug}`} className="underline underline-offset-4 hover:text-v4-ivory focus-visible:outline focus-visible:outline-2 focus-visible:outline-v4-signal">
+                      {hub.label}
+                    </Link>
+                  </dd>
+                </div>
+              ) : null}
               <div>
                 <dt className="font-v4-mono text-[11px] uppercase tracking-[0.16em] text-v4-ivory/50">Redaktion</dt>
                 <dd className="mt-1 text-v4-ivory/85">

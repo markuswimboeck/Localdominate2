@@ -3557,10 +3557,10 @@ export const blogArticles: BlogArticle[] = [
       category: "Google Business"
     },
     en: {
-      title: "Google Business Profile Hub – All Guides & Tutorials",
-      metaTitle: "Google Business Profile Hub – All Guides & Tutorials 2026",
-      metaDescription: "Complete collection of all Google Business Profile guides: profile optimization, reviews, insights, advanced features and troubleshooting.",
-      excerpt: "Your central reference for all Google Business Profile topics. 24+ articles on optimization, reviews and troubleshooting.",
+      title: "Google Business Profile: every guide in one place",
+      metaTitle: "Google Business Profile: every guide in one place",
+      metaDescription: "Every guide to the Google Business Profile in one place: setup, categories, photos, hours, several locations, AI features and fixing problems.",
+      excerpt: "Every guide to the Google Business Profile in one place: setup, categories, photos, hours, several locations, AI features and fixing problems.",
       category: "Google Business"
     },
     readingTime: 6,
@@ -3579,10 +3579,10 @@ export const blogArticles: BlogArticle[] = [
       category: "Branchen"
     },
     en: {
-      title: "Local SEO Industry Guides – 22+ Industries Overview",
-      metaTitle: "Local SEO Industry Guides – 22+ Industries Overview 2026",
-      metaDescription: "Industry-specific Local SEO guides for gastronomy, health, crafts, services and lifestyle.",
-      excerpt: "Every industry has unique Local SEO challenges. Find the right guide for your business.",
+      title: "Local SEO by industry: every guide in one place",
+      metaTitle: "Local SEO by industry: every guide in one place",
+      metaDescription: "Local SEO for your industry: guides for hotels, hospitality, trades, practices, law and tax firms, studios and local services in DACH.",
+      excerpt: "Local SEO for your industry: guides for hotels, hospitality, trades, practices, law and tax firms, studios and local services in DACH.",
       category: "Industries"
     },
     readingTime: 6,
@@ -3601,10 +3601,10 @@ export const blogArticles: BlogArticle[] = [
       category: "Städte"
     },
     en: {
-      title: "Local SEO City Guides – DACH Region",
-      metaTitle: "Local SEO City Guides – 12 Cities in DACH | 2026",
-      metaDescription: "City-specific Local SEO guides for Berlin, Hamburg, Munich, Vienna, Zurich and more.",
-      excerpt: "City-specific Local SEO guides with local directories, competitor analysis and regional tips.",
+      title: "Local SEO by city and country: Germany, Austria, Switzerland",
+      metaTitle: "Local SEO by city and country: Germany, Austria, Switzerland",
+      metaDescription: "Local SEO in Germany, Austria and Switzerland: country guides on law and directories, and city guides from Berlin to Vienna and Zurich.",
+      excerpt: "Local SEO in Germany, Austria and Switzerland: country guides on law and directories, and city guides from Berlin to Vienna and Zurich.",
       category: "Cities"
     },
     readingTime: 5,
@@ -3623,10 +3623,10 @@ export const blogArticles: BlogArticle[] = [
       category: "Bewertungen"
     },
     en: {
-      title: "Reviews & Reputation Hub – All Guides",
-      metaTitle: "Reviews & Reputation Hub – All Guides 2026",
-      metaDescription: "All guides on Google reviews: generation, response templates, negative reviews, review schema and ranking impact.",
-      excerpt: "All review strategies – from generation to handling criticism to technical implementation.",
+      title: "Reviews and reputation: every guide in one place",
+      metaTitle: "Reviews and reputation: every guide in one place",
+      metaDescription: "Google reviews in one place: asking for reviews within the rules, replying to criticism, reporting reviews and what review stars really do.",
+      excerpt: "Google reviews in one place: asking for reviews within the rules, replying to criticism, reporting reviews and what review stars really do.",
       category: "Reviews"
     },
     readingTime: 5,
@@ -3788,10 +3788,10 @@ export const blogArticles: BlogArticle[] = [
       category: "Google Maps"
     },
     en: {
-      title: "Google Maps SEO Hub: All Guides for Local Visibility",
-      metaTitle: "Google Maps SEO Hub – All Guides for Top Rankings 2026",
-      metaDescription: "The most comprehensive Google Maps SEO hub: improve rankings, optimize GBP, manage reviews, analyze insights and fix issues. 25+ articles.",
-      excerpt: "Your central entry point for Google Maps SEO: rankings, GBP optimization, reviews, analysis and troubleshooting — 25+ linked guides.",
+      title: "Google Maps SEO: every guide in one place",
+      metaTitle: "Google Maps SEO: every guide in one place",
+      metaDescription: "Google Maps SEO in one place: how Google sorts local results, measuring and improving rankings, competitor analysis, spam, Apple Maps and Bing.",
+      excerpt: "Google Maps SEO in one place: how Google sorts local results, measuring and improving rankings, competitor analysis, spam, Apple Maps and Bing.",
       category: "Google Maps"
     },
     readingTime: 6,
@@ -3875,7 +3875,7 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "faq-hub",
     de: { title: "Häufige Fragen zu Local SEO: kurze Antworten und wo Sie mehr finden", metaTitle: "Häufige Fragen zu Local SEO: kurze Antworten", metaDescription: "Kurze Antworten auf häufige Fragen zu Local SEO, Google-Unternehmensprofil, Bewertungen, Technik und KI-Suche, mit Links zu den ausführlichen Leitfäden.", excerpt: "Kurze Antworten auf häufige Fragen zu Local SEO, Google-Unternehmensprofil, Bewertungen, Technik und KI-Suche, mit Links zu den ausführlichen Leitfäden.", category: "Ressourcen" },
-    en: { title: "FAQ Hub: All Local SEO Questions Answered", metaTitle: "FAQ Hub Local SEO | 50+ Answers", metaDescription: "50+ frequently asked questions about Local SEO — from basics to AI optimization. Instant answers.", excerpt: "All Local SEO FAQs in one place: basics, GBP, reviews, tech, AI and content.", category: "Resources" },
+    en: { title: "Local SEO FAQ: short answers and where to read more", metaTitle: "Local SEO FAQ: short answers and where to read more", metaDescription: "Short answers to common questions about local SEO, the Google Business Profile, reviews, technical SEO and AI search, with links to the full guides.", excerpt: "Short answers to common questions about local SEO, the Google Business Profile, reviews, technical SEO and AI search, with links to the full guides.", category: "Resources" },
     readingTime: 5, publishedAt: "2026-03-08", updatedAt: "2026-10-12", icon: "❓", keywords: ["local seo faq", "local seo fragen", "google business profil faq", "bewertungen faq", "seo fragen antworten"], featured: false
   },
   {
