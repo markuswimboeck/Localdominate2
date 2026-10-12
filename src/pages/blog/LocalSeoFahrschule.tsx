@@ -174,7 +174,7 @@ const LocalSeoFahrschule = () => {
         <p className="mb-4">
           Wir bringen Klassen, Preise und Anmeldetermine so ins Netz, dass Interessenten direkt buchen statt weiterzusuchen.
         </p>
-        <Link to="/decision" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
+        <Link to="/start-a-project" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
           Analyse anfragen
         </Link>
       </div>

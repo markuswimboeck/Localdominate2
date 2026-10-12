@@ -178,7 +178,7 @@ const AiFalschangabenKorrigieren2026 = () => {
         <p className="mb-4">
           Wir prüfen Webseite, Standortprofile und Verzeichnisse auf widersprüchliche Angaben, korrigieren die Quellen und messen die Wirkung über acht Wochen nach.
         </p>
-        <Link to="/decision" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
+        <Link to="/start-a-project" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
           Datenbereinigung anfragen
         </Link>
       </div>

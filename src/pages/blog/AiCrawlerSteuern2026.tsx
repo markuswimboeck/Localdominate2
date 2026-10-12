@@ -209,7 +209,7 @@ Sitemap: https://deine-domain.de/sitemap.xml
         <p className="mb-4">
           Wir prüfen robots.txt, llms.txt, Statuscodes und interne Routen und liefern eine fertige Konfiguration inklusive Log-Auswertung.
         </p>
-        <Link to="/decision" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
+        <Link to="/start-a-project" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
           Audit anfragen
         </Link>
       </div>

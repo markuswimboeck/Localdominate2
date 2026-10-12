@@ -195,7 +195,7 @@ NICHT ERLAUBT:  Heilversprechen, unbelegte Erfolgsquoten, Superlative`}</code></
         <p className="mb-4">
           Wir erstellen Briefing-Vorlagen für deine wichtigsten Leistungsseiten — inklusive Frage-Gliederung, Entitätenliste und Prüfliste für die Freigabe.
         </p>
-        <Link to="/decision" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
+        <Link to="/start-a-project" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
           Briefing-Set anfragen
         </Link>
       </div>

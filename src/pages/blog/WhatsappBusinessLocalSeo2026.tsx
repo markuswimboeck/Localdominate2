@@ -199,7 +199,7 @@ const WhatsappBusinessLocalSeo2026 = () => {
         <p className="mb-4">
           Wir richten Profil, Website-Einbindung und Standortverknüpfung ein, prüfen die NAP-Konsistenz und liefern Textbausteine für Begrüßung, Abwesenheit und Standardfragen.
         </p>
-        <Link to="/decision" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
+        <Link to="/start-a-project" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
           Setup anfragen
         </Link>
       </div>

@@ -179,7 +179,7 @@ const GbpKiFunktionen2026 = () => {
         <p className="mb-4">
           Wir strukturieren Kategorien, Leistungen, Attribute und Q&amp;A so, dass Assistenten die Angaben direkt übernehmen können — inklusive monatlicher Pflegeroutine.
         </p>
-        <Link to="/decision" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
+        <Link to="/start-a-project" className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition">
           Profil-Optimierung anfragen
         </Link>
       </div>
