@@ -574,10 +574,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-fitness",
     de: {
-      title: "Lokales SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der Umgebung",
-      metaTitle: "Lokales SEO für Fitnessstudios und Personal Trainer",
-      metaDescription: "Lokales SEO für Fitnessstudios und Personal Trainer: passende Kategorie, gepflegtes Profil, Bewertungen nach Googles Regeln und eine Seite fürs Probetraining.",
-      excerpt: "Lokales SEO für Fitnessstudios und Personal Trainer: passende Kategorie, gepflegtes Profil, Bewertungen nach Googles Regeln und eine Seite fürs Probetraining.",
+      title: "Local SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche",
+      metaTitle: "Local SEO für Fitnessstudios und Personal Trainer",
+      metaDescription: "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
+      excerpt: "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
       category: "Branchen"
     },
     en: {
@@ -1119,10 +1119,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-friseursalon-beauty",
     de: {
-      title: "SEO für Friseure und Beauty-Studios: So finden Kunden Ihren Salon",
-      metaTitle: "SEO für Friseure und Beauty-Studios: lokal gefunden werden",
-      metaDescription: "SEO für Friseure und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln, damit Kunden Sie finden.",
-      excerpt: "SEO für Friseure und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln, damit Kunden Sie finden.",
+      title: "Local SEO für Friseursalons und Beauty-Studios: So finden Kunden Ihren Salon",
+      metaTitle: "Local SEO für Friseure und Beauty-Studios: Leitfaden 2026",
+      metaDescription: "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
+      excerpt: "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
       category: "Beauty & Wellness"
     },
     en: {
@@ -1447,29 +1447,6 @@ export const blogArticles: BlogArticle[] = [
     updatedAt: "2026-03-16",
     icon: "📚",
     keywords: ["sprachschule seo", "nachhilfe marketing", "local seo sprachschule", "bildung seo"],
-    featured: false
-  },
-  {
-    slug: "local-seo-baeckerei-konditorei",
-    de: {
-      title: "Local SEO für Konditoreien & Tortenbetriebe: Spezialitäten vermarkten",
-      metaTitle: "Local SEO Konditoreien | Torten-Marketing 2026",
-      metaDescription: "Wie Konditoreien und Tortenbetriebe durch Local SEO mehr Bestellungen erhalten. Hochzeits-Keywords, Spezialitäten-Content und saisonale Kampagnen.",
-      excerpt: "Der Guide für Konditoreien: So werden Ihre Torten und Spezialitäten zur lokalen Attraktion.",
-      category: "Branchen"
-    },
-    en: {
-      title: "Local SEO for Pastry Shops & Custom Cake Businesses: Marketing Specialties",
-      metaTitle: "Local SEO Pastry Shops | Cake Marketing 2026",
-      metaDescription: "How pastry shops and custom cake businesses gain more orders through Local SEO. Wedding keywords, specialty content and seasonal campaigns.",
-      excerpt: "The guide for pastry shops: How to make your cakes and specialties the local attraction.",
-      category: "Industries"
-    },
-    readingTime: 11,
-    publishedAt: "2026-03-22",
-    updatedAt: "2026-03-22",
-    icon: "🥖",
-    keywords: ["konditorei seo", "tortenbetrieb marketing", "local seo konditorei", "hochzeitstorte keywords"],
     featured: false
   },
   {
@@ -3014,29 +2991,6 @@ export const blogArticles: BlogArticle[] = [
     featured: false
   },
   {
-    slug: "local-seo-sanitaer-heizung",
-    de: {
-      title: "Local SEO für SHK-Betriebe: Sanitär, Heizung, Klima",
-      metaTitle: "Local SEO SHK | Sanitär Heizung Klima 2026",
-      metaDescription: "Local SEO speziell für SHK-Betriebe. Von Notdienst-SEO über Markenpartnerschaften bis zur saisonalen Optimierung.",
-      excerpt: "Der branchenspezifische Guide für SHK-Betriebe zur lokalen Auftragsgewinnung.",
-      category: "Branchen"
-    },
-    en: {
-      title: "Local SEO for HVAC Businesses: Plumbing, Heating, Cooling",
-      metaTitle: "Local SEO HVAC | Plumbing Heating Cooling 2026",
-      metaDescription: "Local SEO specifically for HVAC businesses. From emergency service SEO to brand partnerships to seasonal optimization.",
-      excerpt: "The industry-specific guide for HVAC businesses on local job acquisition.",
-      category: "Industries"
-    },
-    readingTime: 15,
-    publishedAt: "2026-02-26",
-    updatedAt: "2026-02-26",
-    icon: "🔧",
-    keywords: ["shk seo", "sanitär marketing", "heizung seo", "klima marketing", "installateur seo"],
-    featured: false
-  },
-  {
     slug: "local-seo-jahresplanung",
     de: {
       title: "Local SEO Jahresplanung: 12-Monats-Kalender für lokale Unternehmen",
@@ -4570,7 +4524,6 @@ const PUBLISHED_SLUGS = new Set([
   "local-seo-fahrschule",
   "local-seo-cafe-coffeeshop",
   "local-seo-sprachschule",
-  "local-seo-baeckerei-konditorei",
   "local-seo-hochzeitsdienstleister",
   "lokale-landing-pages",
   "local-seo-tracking-kpis",

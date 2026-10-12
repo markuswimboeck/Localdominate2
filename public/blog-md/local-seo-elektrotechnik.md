@@ -127,7 +127,7 @@ Wer eine Wallbox plant, will wissen, ob sein Hausanschluss reicht, was angemelde
 
 Ein Beispiel für eine belegbare Angabe: Nach § 19 Abs. 2 der deutschen Niederspannungsanschlussverordnung (NAV) sind Ladeeinrichtungen für Elektrofahrzeuge dem Netzbetreiber vor der Inbetriebnahme mitzuteilen. Überschreitet die Summen-Bemessungsleistung 12 Kilovoltampere je elektrischer Anlage, braucht die Inbetriebnahme zusätzlich die vorherige Zustimmung des Netzbetreibers. Schreiben Sie auf die Seite, dass Sie diese Mitteilung übernehmen, wenn Sie das tun.
 
-Förderprogramme für Wallbox oder Speicher ändern sich oft. Nennen Sie sie nur mit Stand-Datum und Link zur fördernden Stelle, wie es der Abschnitt [Förderung erklären](https://localdominate.org/blog/local-seo-sanitaer-heizung#foerderung) für SHK-Betriebe beschreibt.
+Förderprogramme für Wallbox oder Speicher ändern sich oft. Nennen Sie sie nur mit Stand-Datum und Link zur fördernden Stelle.
 
 ### Leistungsseiten und KI-Suche
 

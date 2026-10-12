@@ -225,7 +225,6 @@ export const ARTICLE_CATEGORIZATIONS: ArticleCategorization[] = [
   { slug: "local-seo-handwerker", tier: "cluster", primaryHub: "branchen", secondaryHubs: [], cluster: "Handwerk & Technik" },
   { slug: "local-seo-autowerkstatt", tier: "cluster", primaryHub: "branchen", secondaryHubs: [], cluster: "Handwerk & Technik" },
   { slug: "local-seo-elektrotechnik", tier: "cluster", primaryHub: "branchen", secondaryHubs: [], cluster: "Handwerk & Technik" },
-  { slug: "local-seo-sanitaer-heizung", tier: "cluster", primaryHub: "branchen", secondaryHubs: [], cluster: "Handwerk & Technik" },
   { slug: "local-seo-anwaelte-kanzleien", tier: "cluster", primaryHub: "branchen", secondaryHubs: [], cluster: "Dienstleistungen & Freiberufler" },
   { slug: "local-seo-steuerberater", tier: "cluster", primaryHub: "branchen", secondaryHubs: [], cluster: "Dienstleistungen & Freiberufler" },
   { slug: "local-seo-immobilienmakler", tier: "cluster", primaryHub: "branchen", secondaryHubs: [], cluster: "Dienstleistungen & Freiberufler" },
