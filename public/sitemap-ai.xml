@@ -147,6 +147,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://localdominate.org/blog-md/ai-zukunft-hub.md</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://localdominate.org/blog-md/content-marketing-hub.md</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://localdominate.org/blog-md/index.md</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -1023,7 +1035,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://localdominate.org/blog-md/technisches-seo-hub.md</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://localdominate.org/blog-md/tiktok-search-local-seo-2026.md</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://localdominate.org/blog-md/tools-ressourcen-hub.md</loc>
     <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

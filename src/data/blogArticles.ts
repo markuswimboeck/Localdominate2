@@ -3462,6 +3462,94 @@ export const blogArticles: BlogArticle[] = [
   },
   // === TOPIC HUB PAGES ===
   {
+    slug: "tools-ressourcen-hub",
+    de: {
+      title: "Local-SEO-Vorlagen, Checklisten und Werkzeuge im Überblick",
+      metaTitle: "Local-SEO-Vorlagen und Checklisten im Überblick",
+      metaDescription: "Alle Vorlagen, Checklisten und Pläne für Local SEO an einem Ort: Audit, Keyword-Liste, Einträge, Ranking-Protokoll, Monatsroutine, 12-Wochen-Plan und Werkzeuge.",
+      excerpt: "Alle Vorlagen, Checklisten und Pläne für Local SEO an einem Ort: Audit, Keyword-Liste, Einträge, Ranking-Protokoll, Monatsroutine, 12-Wochen-Plan und Werkzeuge.",
+      category: "Tools & Ressourcen"
+    },
+    en: {
+      title: "Local SEO templates, checklists and tools in one place",
+      metaTitle: "Local SEO templates, checklists and tools in one place",
+      metaDescription: "Every local SEO template, checklist and plan in one place: audit, keyword list, listings, ranking log, monthly routine, 12-week plan and free tools.",
+      excerpt: "Every local SEO template, checklist and plan in one place: audit, keyword list, listings, ranking log, monthly routine, 12-week plan and free tools.",
+      category: "Tools & Resources"
+    },
+    readingTime: 5,
+    publishedAt: "2026-03-09",
+    updatedAt: "2026-10-12",
+    icon: "🧰",
+    keywords: []
+  },
+  {
+    slug: "content-marketing-hub",
+    de: {
+      title: "Lokales Content Marketing und Links: alle Anleitungen im Überblick",
+      metaTitle: "Lokales Content Marketing: alle Anleitungen",
+      metaDescription: "Lokales Content Marketing an einem Ort: Suchbegriffe finden, Inhalte für Kunden vor Ort planen, lokale Links und Erwähnungen aufbauen, Firmeneinträge pflegen.",
+      excerpt: "Lokales Content Marketing an einem Ort: Suchbegriffe finden, Inhalte für Kunden vor Ort planen, lokale Links und Erwähnungen aufbauen, Firmeneinträge pflegen.",
+      category: "Strategie"
+    },
+    en: {
+      title: "Local content marketing and links: every guide in one place",
+      metaTitle: "Local content marketing and links: every guide in one place",
+      metaDescription: "Local content marketing in one place: find search terms, plan content for local customers, earn local links and mentions, keep business listings consistent.",
+      excerpt: "Local content marketing in one place: find search terms, plan content for local customers, earn local links and mentions, keep business listings consistent.",
+      category: "Strategy"
+    },
+    readingTime: 5,
+    publishedAt: "2026-03-09",
+    updatedAt: "2026-10-12",
+    icon: "✍️",
+    keywords: []
+  },
+  {
+    slug: "technisches-seo-hub",
+    de: {
+      title: "Technisches Local SEO: alle Anleitungen im Überblick",
+      metaTitle: "Technisches Local SEO: alle Anleitungen im Überblick",
+      metaDescription: "Technisches Local SEO an einem Ort: strukturierte Daten, mobile Website, Ladezeit, Standortseiten, Sprachsuche, KI-Crawler und Messung für lokale Betriebe.",
+      excerpt: "Technisches Local SEO an einem Ort: strukturierte Daten, mobile Website, Ladezeit, Standortseiten, Sprachsuche, KI-Crawler und Messung für lokale Betriebe.",
+      category: "Technik"
+    },
+    en: {
+      title: "Technical local SEO: every guide in one place",
+      metaTitle: "Technical local SEO: every guide in one place",
+      metaDescription: "Technical local SEO in one place: structured data, mobile website, page speed, location pages, voice search, AI crawlers and measurement for local businesses.",
+      excerpt: "Technical local SEO in one place: structured data, mobile website, page speed, location pages, voice search, AI crawlers and measurement for local businesses.",
+      category: "Technical"
+    },
+    readingTime: 5,
+    publishedAt: "2026-03-09",
+    updatedAt: "2026-10-12",
+    icon: "⚙️",
+    keywords: []
+  },
+  {
+    slug: "ai-zukunft-hub",
+    de: {
+      title: "KI-Suche und GEO: alle Anleitungen im Überblick",
+      metaTitle: "KI-Suche und GEO: alle Anleitungen im Überblick",
+      metaDescription: "KI-Suche für lokale Betriebe an einem Ort: Übersicht mit KI, KI-Modus, ChatGPT, Perplexity, Copilot, KI-Crawler, llms.txt, Messung und falsche Angaben.",
+      excerpt: "KI-Suche für lokale Betriebe an einem Ort: Übersicht mit KI, KI-Modus, ChatGPT, Perplexity, Copilot, KI-Crawler, llms.txt, Messung und falsche Angaben.",
+      category: "AI & Zukunft"
+    },
+    en: {
+      title: "AI search and GEO: every guide in one place",
+      metaTitle: "AI search and GEO: every guide in one place",
+      metaDescription: "AI search for local businesses in one place: AI Overviews, AI Mode, ChatGPT, Perplexity, Copilot, AI crawlers, llms.txt, measuring and fixing wrong answers.",
+      excerpt: "AI search for local businesses in one place: AI Overviews, AI Mode, ChatGPT, Perplexity, Copilot, AI crawlers, llms.txt, measuring and fixing wrong answers.",
+      category: "AI & Future"
+    },
+    readingTime: 7,
+    publishedAt: "2026-03-09",
+    updatedAt: "2026-10-12",
+    icon: "🤖",
+    keywords: []
+  },
+  {
     slug: "troubleshooting-hub",
     de: {
       title: "Probleme mit dem Google-Unternehmensprofil: alle Lösungen im Überblick",
@@ -4437,6 +4525,10 @@ export const blogArticles: BlogArticle[] = [
 
 // Slugs that have actual page components and routes
 const PUBLISHED_SLUGS = new Set([
+  "tools-ressourcen-hub",
+  "content-marketing-hub",
+  "technisches-seo-hub",
+  "ai-zukunft-hub",
   "troubleshooting-hub",
   "kostenloses-seo-guide",
   "local-seo-keywords-finden",

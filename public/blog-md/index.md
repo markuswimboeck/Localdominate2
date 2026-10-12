@@ -3,7 +3,7 @@ title: "LocalDominate Blog Markdown Corpus"
 url: https://localdominate.org/blog-md/index.md
 language: de-DE
 updated: 2026-08-08
-article_count: 154
+article_count: 158
 license: https://creativecommons.org/licenses/by/4.0/
 ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler ohne JavaScript-Ausführung."
 ---
@@ -30,6 +30,7 @@ ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler o
 - [AI Visibility Checklist: Ist deine Website bereit für AI-Suche?](https://localdominate.org/blog-md/ai-visibility-checklist.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/ai-visibility-checklist; Aktualisiert: 2026-03-08
 - [AI Visibility Index – die neue Local-SEO-Metrik 2026](https://localdominate.org/blog-md/ai-visibility-index-local-seo-metrik.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/ai-visibility-index-local-seo-metrik; Aktualisiert: 2026-05-20
 - [AI-Zitat-Monitoring 2026: Erwähnungen in ChatGPT, Perplexity & Gemini messen](https://localdominate.org/blog-md/ai-zitat-monitoring-local-seo-2026.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/ai-zitat-monitoring-local-seo-2026; Aktualisiert: 2026-08-08
+- [KI-Suche und GEO: alle Anleitungen im Überblick](https://localdominate.org/blog-md/ai-zukunft-hub.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/ai-zukunft-hub; Aktualisiert: 2026-10-12
 - [Apple Business Connect: Local SEO für Apple Maps & Siri 2026](https://localdominate.org/blog-md/apple-business-connect-local-seo-2026.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/apple-business-connect-local-seo-2026; Aktualisiert: 2026-05-22
 - [Bewertungen und Reputation: alle Anleitungen im Überblick](https://localdominate.org/blog-md/bewertungen-reputation-hub.md) — Kategorie: Bewertungen; HTML: https://localdominate.org/blog/bewertungen-reputation-hub; Aktualisiert: 2026-10-12
 - [Bewertungs-Antworten: 50 Vorlagen für jede Situation](https://localdominate.org/blog-md/bewertungs-antworten-vorlagen.md) — Kategorie: Bewertungen; HTML: https://localdominate.org/blog/bewertungs-antworten-vorlagen; Aktualisiert: 2026-02-16
@@ -37,6 +38,7 @@ ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler o
 - [ChatGPT Search für lokale Unternehmen 2026 — der komplette Optimierungs-Guide](https://localdominate.org/blog-md/chatgpt-search-lokale-unternehmen-2026.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/chatgpt-search-lokale-unternehmen-2026; Aktualisiert: 2026-05-22
 - [Wie zitiert ChatGPT lokale Unternehmen?](https://localdominate.org/blog-md/chatgpt-zitiert-lokale-unternehmen.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/chatgpt-zitiert-lokale-unternehmen; Aktualisiert: 2026-05-20
 - [Citation Tracking Spreadsheet Template: Alle Verzeichnisse im Griff](https://localdominate.org/blog-md/citation-tracking-template.md) — Kategorie: Tools & Ressourcen; HTML: https://localdominate.org/blog/citation-tracking-template; Aktualisiert: 2026-03-08
+- [Lokales Content Marketing und Links: alle Anleitungen im Überblick](https://localdominate.org/blog-md/content-marketing-hub.md) — Kategorie: Strategie; HTML: https://localdominate.org/blog/content-marketing-hub; Aktualisiert: 2026-10-12
 - [Core Web Vitals für lokale Websites: Performance-Guide](https://localdominate.org/blog-md/core-web-vitals-local-seo.md) — Kategorie: Technik; HTML: https://localdominate.org/blog/core-web-vitals-local-seo; Aktualisiert: 2026-01-17
 - [Doppelte Google-Einträge löschen – Duplicate Listing Anleitung (2026)](https://localdominate.org/blog-md/duplicate-listing-entfernen.md) — Kategorie: Troubleshooting; HTML: https://localdominate.org/blog/duplicate-listing-entfernen; Aktualisiert: 2026-02-08
 - [E-E-A-T für lokale Unternehmen: Expertise beweisen & Vertrauen aufbauen](https://localdominate.org/blog-md/e-e-a-t-lokale-unternehmen.md) — Kategorie: Strategie; HTML: https://localdominate.org/blog/e-e-a-t-lokale-unternehmen; Aktualisiert: 2026-01-18
@@ -166,7 +168,9 @@ ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler o
 - [SEO für Ferienwohnungen: Schweiz, Bayern & Österreich – Raus aus der OTA-Falle](https://localdominate.org/blog-md/seo-ferienwohnungen.md) — Kategorie: Branche; HTML: https://localdominate.org/blog/seo-ferienwohnungen; Aktualisiert: 2026-02-25
 - [Die ultimative SEO-Toolbox: 50+ kostenlose Tools & Ressourcen](https://localdominate.org/blog-md/seo-toolbox-kostenlose-ressourcen.md) — Kategorie: Tools; HTML: https://localdominate.org/blog/seo-toolbox-kostenlose-ressourcen; Aktualisiert: 2026-01-10
 - [Technisches Local SEO: Der komplette Guide für lokale Unternehmen 2026](https://localdominate.org/blog-md/technisches-local-seo-guide.md) — Kategorie: Technik; HTML: https://localdominate.org/blog/technisches-local-seo-guide; Aktualisiert: 2026-03-08
+- [Technisches Local SEO: alle Anleitungen im Überblick](https://localdominate.org/blog-md/technisches-seo-hub.md) — Kategorie: Technik; HTML: https://localdominate.org/blog/technisches-seo-hub; Aktualisiert: 2026-10-12
 - [TikTok Search für Local SEO 2026: So wirst du von Gen Z gefunden](https://localdominate.org/blog-md/tiktok-search-local-seo-2026.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/tiktok-search-local-seo-2026; Aktualisiert: 2026-05-22
+- [Local-SEO-Vorlagen, Checklisten und Werkzeuge im Überblick](https://localdominate.org/blog-md/tools-ressourcen-hub.md) — Kategorie: Tools & Ressourcen; HTML: https://localdominate.org/blog/tools-ressourcen-hub; Aktualisiert: 2026-10-12
 - [Probleme mit dem Google-Unternehmensprofil: alle Lösungen im Überblick](https://localdominate.org/blog-md/troubleshooting-hub.md) — Kategorie: Troubleshooting; HTML: https://localdominate.org/blog/troubleshooting-hub; Aktualisiert: 2026-10-12
 - [Local SEO: Der ultimative Leitfaden für lokale Unternehmen 2026](https://localdominate.org/blog-md/ultimate-guide-local-seo.md) — Kategorie: Strategie; HTML: https://localdominate.org/blog/ultimate-guide-local-seo; Aktualisiert: 2026-03-08
 - [Unternehmensprofil & KI 2026: Welche Felder in AI-Antworten landen](https://localdominate.org/blog-md/unternehmensprofil-ki-funktionen-2026.md) — Kategorie: Google Business Profile; HTML: https://localdominate.org/blog/unternehmensprofil-ki-funktionen-2026; Aktualisiert: 2026-08-08
