@@ -1307,10 +1307,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-apotheken",
     de: {
-      title: "Local SEO für Apotheken: Lokale Gesundheitsversorgung",
-      metaTitle: "Local SEO für Apotheken | Gesundheits-Marketing 2026",
-      metaDescription: "Wie Apotheken durch Local SEO mehr Kunden gewinnen. Notdienst-Keywords, Gesundheitsberatung-Content und lokale Positionierung.",
-      excerpt: "Der Guide für Apotheken: So werden Sie zur Stamm-Apotheke in Ihrer Region.",
+      title: "Local SEO für Apotheken: Profil, Notdienst, E-Rezept und Werberecht",
+      metaTitle: "Local SEO für Apotheken: Profil, Notdienst, E-Rezept, Recht",
+      metaDescription: "Local SEO für Apotheken: Google-Profil, Notdienst richtig zeigen, E-Rezept und Vorbestellung, Leistungen, Bewertungen und Werberecht nach HWG und Berufsordnung.",
+      excerpt: "Local SEO für Apotheken: Google-Profil, Notdienst richtig zeigen, E-Rezept und Vorbestellung, Leistungen, Bewertungen und Werberecht nach HWG und Berufsordnung.",
       category: "Branchen"
     },
     en: {
@@ -1320,9 +1320,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The guide for pharmacies: How to become the go-to pharmacy in your region.",
       category: "Industries"
     },
-    readingTime: 12,
+    readingTime: 13,
     publishedAt: "2026-02-14",
-    updatedAt: "2026-02-14",
+    updatedAt: "2026-10-11",
     icon: "💊",
     keywords: ["apotheke seo", "apotheken marketing", "local seo apotheke", "notdienst apotheke"],
     featured: false
@@ -1376,10 +1376,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-umzugsunternehmen",
     de: {
-      title: "Local SEO für Umzugsunternehmen: In zwei Städten gefunden werden",
-      metaTitle: "Local SEO Umzugsunternehmen 2026 | Routen & Anfragen",
-      metaDescription: "Local SEO fuer Umzugsfirmen: Standort- und Zielregionsseiten, echte Routenseiten, Preisspannen, Bewertungsroutine und ein 90-Tage-Plan.",
-      excerpt: "Umzugskunden suchen an zwei Orten gleichzeitig. So deckt ein Umzugsunternehmen Auszugs- und Zielregion sauber ab.",
+      title: "Local SEO für Umzugsunternehmen: Ehrlich in zwei Städten gefunden werden",
+      metaTitle: "Local SEO für Umzugsunternehmen: in zwei Städten gefunden",
+      metaDescription: "Local SEO für Umzugsfirmen: Profil mit Einzugsgebiet, ehrlich in zwei Städten sichtbar, Seiten für Leistungen und Strecken, Angebot, Haftung und Bewertungen.",
+      excerpt: "Local SEO für Umzugsfirmen: Profil mit Einzugsgebiet, ehrlich in zwei Städten sichtbar, Seiten für Leistungen und Strecken, Angebot, Haftung und Bewertungen.",
       category: "Branchen"
     },
     en: {
@@ -1389,9 +1389,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Moving customers search in two places at once. How movers cover both origin and destination markets.",
       category: "Industries"
     },
-    readingTime: 11,
+    readingTime: 12,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-08-08",
+    updatedAt: "2026-10-11",
     icon: "\u{1F69A}",
     keywords: [
       "local seo umzugsunternehmen",
@@ -1500,10 +1500,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-hamburg",
     de: {
-      title: "Local SEO Hamburg: Der Hanseatische Marketing-Guide",
-      metaTitle: "Local SEO Hamburg | Der Hansestadt-Guide 2026",
-      metaDescription: "Local SEO speziell für Hamburg. Stadtteil-Keywords von Altona bis Winterhude, Hamburger Verzeichnisse und Strategien für die Elbmetropole.",
-      excerpt: "Von der Reeperbahn bis zur Hafencity: So werden Sie in Hamburg gefunden.",
+      title: "Local SEO in Hamburg: gefunden werden in den Bezirken und Stadtteilen, die Sie bedienen",
+      metaTitle: "Local SEO Hamburg: sichtbar in Bezirk und Stadtteil",
+      metaDescription: "Local SEO für Betriebe in Hamburg: wie Entfernung über Bezirke und Elbe wirkt, wie Sie Stadtteile ohne Brückenseiten nennen und Ihre Sichtbarkeit messen.",
+      excerpt: "Local SEO für Betriebe in Hamburg: wie Entfernung über Bezirke und Elbe wirkt, wie Sie Stadtteile ohne Brückenseiten nennen und Ihre Sichtbarkeit messen.",
       category: "Regionen"
     },
     en: {
@@ -1513,9 +1513,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "From Reeperbahn to Hafencity: How to be found in Hamburg.",
       category: "Regions"
     },
-    readingTime: 16,
+    readingTime: 10,
     publishedAt: "2026-01-13",
-    updatedAt: "2026-01-13",
+    updatedAt: "2026-10-12",
     icon: "⚓",
     keywords: ["local seo hamburg", "seo hamburg", "marketing hamburg", "hamburger unternehmen"],
     featured: false
@@ -1523,10 +1523,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-frankfurt",
     de: {
-      title: "Local SEO Frankfurt: Finanzmetropole richtig nutzen",
-      metaTitle: "Local SEO Frankfurt | Finance-Hub Guide 2026",
-      metaDescription: "Local SEO speziell für Frankfurt am Main. B2B-Keywords, Finanzdienstleister-Strategien und lokale Sichtbarkeit in der Mainmetropole.",
-      excerpt: "So nutzen Sie das Potenzial der Finanzmetropole für Ihr Unternehmen.",
+      title: "Local SEO in Frankfurt am Main: sichtbar in den Stadtteilen und Gemeinden, die Sie wirklich bedienen",
+      metaTitle: "Local SEO Frankfurt: in Ihren Stadtteilen gefunden werden",
+      metaDescription: "Local SEO für Betriebe in Frankfurt am Main: Stadtteile und Umland ehrlich abdecken, Messen und Feste einplanen, Kammern nutzen und die Sichtbarkeit messen.",
+      excerpt: "Local SEO für Betriebe in Frankfurt am Main: Stadtteile und Umland ehrlich abdecken, Messen und Feste einplanen, Kammern nutzen und die Sichtbarkeit messen.",
       category: "Regionen"
     },
     en: {
@@ -1536,9 +1536,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How to leverage the potential of the financial metropolis for your business.",
       category: "Regions"
     },
-    readingTime: 15,
+    readingTime: 10,
     publishedAt: "2026-01-21",
-    updatedAt: "2026-01-21",
+    updatedAt: "2026-10-12",
     icon: "🏦",
     keywords: ["local seo frankfurt", "seo frankfurt", "marketing frankfurt", "frankfurter unternehmen"],
     featured: false
@@ -1569,10 +1569,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-wien",
     de: {
-      title: "Local SEO Wien: Der Österreich-Guide für KMUs",
-      metaTitle: "Local SEO Wien | Österreich-Guide 2026",
-      metaDescription: "Local SEO speziell für Wien und Österreich. Bezirks-Keywords, österreichische Verzeichnisse und Strategien für die Donaumetropole.",
-      excerpt: "Der komplette Guide für Wiener Unternehmen zur lokalen Sichtbarkeit.",
+      title: "Local SEO in Wien: gefunden werden in den Bezirken, die Sie bedienen",
+      metaTitle: "Local SEO Wien: sichtbar in Ihrem Bezirk und Grätzl",
+      metaDescription: "Local SEO in Wien: wie Sie in den 23 Bezirken ehrlich sichtbar werden, Bezirksseiten ohne Brückenseiten bauen, Herold und WK Wien nutzen und richtig messen.",
+      excerpt: "Local SEO in Wien: wie Sie in den 23 Bezirken ehrlich sichtbar werden, Bezirksseiten ohne Brückenseiten bauen, Herold und WK Wien nutzen und richtig messen.",
       category: "Regionen"
     },
     en: {
@@ -1582,9 +1582,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide for Viennese businesses for local visibility.",
       category: "Regions"
     },
-    readingTime: 17,
+    readingTime: 11,
     publishedAt: "2026-02-06",
-    updatedAt: "2026-02-06",
+    updatedAt: "2026-10-12",
     icon: "🇦🇹",
     keywords: ["local seo wien", "seo wien", "marketing wien", "österreich seo"],
     featured: false
@@ -2528,10 +2528,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-berlin",
     de: {
-      title: "Local SEO Berlin: Der Hauptstadt-Guide für Unternehmen",
-      metaTitle: "Local SEO Berlin | Hauptstadt-Guide 2026",
-      metaDescription: "Local SEO speziell für Berlin. Kiez-Keywords, Bezirks-Strategien und lokale Sichtbarkeit in Deutschlands größter Stadt.",
-      excerpt: "Von Mitte bis Neukölln: So werden Sie in ganz Berlin gefunden.",
+      title: "Local SEO in Berlin: sichtbar in den Bezirken und Kiezen, die Sie wirklich bedienen",
+      metaTitle: "Local SEO Berlin: gefunden werden in Bezirk und Kiez",
+      metaDescription: "Local SEO für Betriebe in Berlin: wie die Entfernung in zwölf Bezirken wirkt, wie Sie Kieze ohne Brückenseiten nennen und Ihre Sichtbarkeit im Raster messen.",
+      excerpt: "Local SEO für Betriebe in Berlin: wie die Entfernung in zwölf Bezirken wirkt, wie Sie Kieze ohne Brückenseiten nennen und Ihre Sichtbarkeit im Raster messen.",
       category: "Regionen"
     },
     en: {
@@ -2541,9 +2541,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "From Mitte to Neukölln: How to be found throughout Berlin.",
       category: "Regions"
     },
-    readingTime: 17,
+    readingTime: 11,
     publishedAt: "2026-01-09",
-    updatedAt: "2026-01-09",
+    updatedAt: "2026-10-12",
     icon: "🐻",
     keywords: ["local seo berlin", "seo berlin", "marketing berlin", "berliner unternehmen"],
     featured: true
@@ -2763,10 +2763,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-notdienst-keywords",
     de: {
-      title: "Notdienst-Keywords: Wenn Kunden dringend suchen",
-      metaTitle: "Notdienst-Keywords optimieren | Emergency SEO 2026",
-      metaDescription: "So optimierst du für Notdienst-Suchanfragen. Keywords, Google Ads und lokale Sichtbarkeit für dringende Kundenanfragen.",
-      excerpt: "Der Guide zur Optimierung für Notdienst- und Sofortbedarf-Suchanfragen.",
+      title: "Notdienst-Keywords: So finden Kunden Ihren Betrieb, wenn es dringend ist",
+      metaTitle: "Notdienst-Keywords: Gefunden werden, wenn es eilt",
+      metaDescription: "Notdienst-Suchen für Schlüsseldienst, Rohrreinigung, Elektro, Heizung und Glas: ehrliche Zeiten, direkte Rufnummer, offene Preise statt unseriöser Angebote.",
+      excerpt: "Notdienst-Suchen für Schlüsseldienst, Rohrreinigung, Elektro, Heizung und Glas: ehrliche Zeiten, direkte Rufnummer, offene Preise statt unseriöser Angebote.",
       category: "Strategie"
     },
     en: {
@@ -2778,7 +2778,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-02-03",
-    updatedAt: "2026-02-03",
+    updatedAt: "2026-10-11",
     icon: "🚨",
     keywords: ["notdienst seo", "emergency keywords", "sofort hilfe", "24 stunden service", "dringende suche"],
     featured: false
@@ -2878,10 +2878,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-optiker",
     de: {
-      title: "Local SEO für Optiker & Hörakustiker: Kunden gewinnen",
-      metaTitle: "Local SEO Optiker & Hörakustiker | Marketing 2026",
-      metaDescription: "Local SEO speziell für Optiker und Hörakustiker. Von Produktkatalog bis Terminbuchung - alles für mehr lokale Kunden.",
-      excerpt: "Der branchenspezifische Guide für Optiker und Hörakustiker zur lokalen Kundengewinnung.",
+      title: "Local SEO für Optiker und Hörakustiker: Profil, Sehtest, Hörtest und Werberecht",
+      metaTitle: "Local SEO für Optiker und Hörakustiker: Profil und Recht",
+      metaDescription: "Local SEO für Augenoptik und Hörakustik: Kategorie, Leistungen und Terminlinks im Google-Profil, Führerschein-Sehtest, Heilmittelwerbegesetz und Bewertungen.",
+      excerpt: "Local SEO für Augenoptik und Hörakustik: Kategorie, Leistungen und Terminlinks im Google-Profil, Führerschein-Sehtest, Heilmittelwerbegesetz und Bewertungen.",
       category: "Branchen"
     },
     en: {
@@ -2891,9 +2891,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The industry-specific guide for opticians on local customer acquisition.",
       category: "Industries"
     },
-    readingTime: 14,
+    readingTime: 13,
     publishedAt: "2026-02-14",
-    updatedAt: "2026-02-14",
+    updatedAt: "2026-10-11",
     icon: "👓",
     keywords: ["optiker seo", "hörakustiker marketing", "local seo optiker", "brillen marketing", "augenoptik seo"],
     featured: false
@@ -2924,10 +2924,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-elektrotechnik",
     de: {
-      title: "Local SEO für Elektriker & Elektrotechniker: Mehr Aufträge",
-      metaTitle: "Local SEO Elektriker | Elektrotechnik Marketing 2026",
-      metaDescription: "Local SEO speziell für Elektriker und Elektrotechnik-Betriebe. Notdienst-SEO, Projektbilder und lokale Sichtbarkeit.",
-      excerpt: "Der branchenspezifische Guide für Elektriker zur lokalen Auftragsgewinnung.",
+      title: "Local SEO für Elektriker: So finden Kunden Ihren Elektrobetrieb in der Region",
+      metaTitle: "Local SEO für Elektriker: Profil, Notdienst, Nachweise",
+      metaDescription: "Elektrobetriebe in DACH sichtbar machen: Einzugsgebiet im Google-Profil, ehrlicher Notdienst, Seiten für Wallbox und PV, echte Nachweise und Bewertungen.",
+      excerpt: "Elektrobetriebe in DACH sichtbar machen: Einzugsgebiet im Google-Profil, ehrlicher Notdienst, Seiten für Wallbox und PV, echte Nachweise und Bewertungen.",
       category: "Branchen"
     },
     en: {
@@ -2937,9 +2937,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The industry-specific guide for electricians on local job acquisition.",
       category: "Industries"
     },
-    readingTime: 14,
+    readingTime: 13,
     publishedAt: "2026-02-18",
-    updatedAt: "2026-02-18",
+    updatedAt: "2026-10-11",
     icon: "⚡",
     keywords: ["elektriker seo", "elektrotechnik marketing", "local seo elektriker", "elektro notdienst", "elektrofirma marketing"],
     featured: false
@@ -2970,10 +2970,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-maler-lackierer",
     de: {
-      title: "Local SEO für Maler & Lackierer: Mehr Aufträge gewinnen",
-      metaTitle: "Local SEO Maler & Lackierer | Marketing 2026",
-      metaDescription: "Local SEO speziell für Malerbetriebe und Lackierer. Vorher-Nachher-Galerie, Farbberatungs-Keywords und lokale Sichtbarkeit.",
-      excerpt: "Der branchenspezifische Guide für Maler zur lokalen Auftragsgewinnung.",
+      title: "Local SEO für Maler und Lackierer: Einzugsgebiet, Projektgalerie, Preise und Bewertungen",
+      metaTitle: "Local SEO für Maler und Lackierer: Profil, Fotos, Preise",
+      metaDescription: "Local SEO für Malerbetriebe in DACH: Einzugsgebiet im Google-Profil, Projektfotos mit Erlaubnis, Saison planen, Preise nach PAngV und echte Bewertungen.",
+      excerpt: "Local SEO für Malerbetriebe in DACH: Einzugsgebiet im Google-Profil, Projektfotos mit Erlaubnis, Saison planen, Preise nach PAngV und echte Bewertungen.",
       category: "Branchen"
     },
     en: {
@@ -2983,9 +2983,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The industry-specific guide for painters on local job acquisition.",
       category: "Industries"
     },
-    readingTime: 14,
+    readingTime: 12,
     publishedAt: "2026-02-22",
-    updatedAt: "2026-02-22",
+    updatedAt: "2026-10-11",
     icon: "🎨",
     keywords: ["maler seo", "lackierer marketing", "local seo maler", "malerbetrieb marketing", "renovierung seo"],
     featured: false
@@ -4261,10 +4261,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-garten-landschaftsbau",
     de: {
-      title: "Local SEO für Garten- & Landschaftsbau: Saison richtig nutzen",
-      metaTitle: "Local SEO Garten- & Landschaftsbau 2026 | GaLaBau",
-      metaDescription: "Local SEO fuer GaLaBau-Betriebe: Saisonplanung, Leistungsseiten, Vorher-Nachher-Referenzen, Anfragequalifizierung und ein Jahresplan fuer volle Auftragsbuecher.",
-      excerpt: "Die Auftraege des Sommers werden im Winter entschieden. So baut ein GaLaBau-Betrieb Sichtbarkeit vor der Saison auf.",
+      title: "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden, Verwaltungen und Gemeinden Ihren Betrieb",
+      metaTitle: "Local SEO für Garten- und Landschaftsbau: das Gartenjahr",
+      metaDescription: "Local SEO für GaLaBau-Betriebe: Profil mit Einzugsgebiet, Projektseiten mit echten Fotos, Pflegeverträge, das Gartenjahr und Bewertungen nach Google-Regeln.",
+      excerpt: "Local SEO für GaLaBau-Betriebe: Profil mit Einzugsgebiet, Projektseiten mit echten Fotos, Pflegeverträge, das Gartenjahr und Bewertungen nach Google-Regeln.",
       category: "Branchen"
     },
     en: {
@@ -4274,9 +4274,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Summer jobs are decided in winter. How landscaping businesses build visibility before the season starts.",
       category: "Industries"
     },
-    readingTime: 11,
+    readingTime: 13,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-08-08",
+    updatedAt: "2026-10-11",
     icon: "\u{1F333}",
     keywords: [
       "local seo garten landschaftsbau",
