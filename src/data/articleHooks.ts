@@ -162,10 +162,6 @@ export const articleHooks: Record<string, ArticleHookData> = {
     de: "'Bäckerei in der Nähe offen' — diese Suchanfrage hat eine Conversion-Rate von über 70 %. Bäckereien, die bei Google sichtbar sind, füllen ihre Theke bereits vor der Öffnung.",
     en: "'Bakery near me open' — this search query has a conversion rate of over 70%. Bakeries visible on Google fill their counter before opening."
   },
-  "local-seo-sanitaer-heizung": {
-    de: "Die Heizung fällt im Winter aus, das Rohr bricht am Wochenende — SHK-Notdienste, die bei Google nicht sofort erscheinen, existieren für verzweifelte Kunden schlicht nicht.",
-    en: "The heating fails in winter, the pipe breaks on weekends — HVAC emergency services not immediately visible on Google simply don't exist for desperate customers."
-  },
   "local-seo-case-study-baecker": {
     de: "Von 3 Google-Bewertungen zu 47. Von null Maps-Aufrufen zu 600 pro Monat. Eine echte Bäckerei, echte Zahlen — und die exakten Schritte zum Nachmachen.",
     en: "From 3 Google reviews to 47. From zero Maps views to 600 per month. A real bakery, real numbers — and the exact steps to replicate."

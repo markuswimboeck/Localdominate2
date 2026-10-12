@@ -9,7 +9,6 @@ const groups: HubArticleGroup[] = [
     slugs: [
       "local-seo-fuer-restaurants",
       "local-seo-baeckerei",
-      "local-seo-baeckerei-konditorei",
       "local-seo-cafe-coffeeshop",
       "local-seo-doener-kebab-imbiss",
       "seo-ferienwohnungen",

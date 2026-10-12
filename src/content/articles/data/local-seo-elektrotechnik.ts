@@ -183,7 +183,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Förderprogramme für Wallbox oder Speicher ändern sich oft. Nennen Sie sie nur mit Stand-Datum und Link zur fördernden Stelle, wie es der Abschnitt [Förderung erklären](/blog/local-seo-sanitaer-heizung#foerderung) für SHK-Betriebe beschreibt.",
+          text: "Förderprogramme für Wallbox oder Speicher ändern sich oft. Nennen Sie sie nur mit Stand-Datum und Link zur fördernden Stelle.",
         },
         {
           t: "h3",
