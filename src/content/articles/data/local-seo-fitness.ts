@@ -3,10 +3,10 @@ import type { V4Article } from "../types";
 const article: V4Article = {
   slug: "local-seo-fitness",
   lang: "de",
-  seoTitle: "Local SEO für Fitnessstudios und Personal Trainer",
+  seoTitle: "Lokales SEO für Fitnessstudios und Personal Trainer",
   seoDescription:
-    "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
-  h1: "Local SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche",
+    "Lokales SEO für Fitnessstudios und Personal Trainer: passende Kategorie, gepflegtes Profil, Bewertungen nach Googles Regeln und eine Seite fürs Probetraining.",
+  h1: "Lokales SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der Umgebung",
   kicker: "Branchen",
   lead:
     "Für Inhaber von Fitnessstudios, Kursstudios und Boxen sowie für selbstständige Personal Trainer in Deutschland, Österreich und der Schweiz. Sie erfahren, wie Sie Ihr Google-Unternehmensprofil richtig aufsetzen, wie Sie Bewertungen sammeln, ohne gegen Googles Regeln zu verstoßen, und was Ihre Website für mehr Probetrainings leisten muss.",
