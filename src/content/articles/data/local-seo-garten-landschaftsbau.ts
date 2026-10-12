@@ -118,7 +118,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Einschätzung",
-          text: "Googles Hilfe zu Kategorien enthält keine Gesamtliste, sondern beschreibt die Auswahl im Profil. Welche Bezeichnungen für Gartenbetriebe angeboten werden, sehen Sie im Profil selbst. Prüfen Sie zusätzlich, welche Hauptkategorie gut sichtbare Mitbewerber in Ihrer Stadt verwenden. Das zeigt, was es gibt, nicht was Sie wählen müssen.",
+          text: "Googles Hilfe zu Kategorien verweist auf die im Profil angebotene Liste und führt sie nicht einzeln auf. Welche Bezeichnungen für Gartenbetriebe angeboten werden, sehen Sie im Profil selbst. Prüfen Sie zusätzlich, welche Hauptkategorie gut sichtbare Mitbewerber in Ihrer Stadt verwenden. Das zeigt, was es gibt, nicht was Sie wählen müssen.",
         },
       ],
     },

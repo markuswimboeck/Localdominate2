@@ -20,7 +20,7 @@ const article: V4Article = {
     "Messen Sie mit den Leistungsdaten des Profils, der Search Console und markierten Links, nicht mit dem Gefühl, „oben“ zu stehen.",
   ],
   publishedAt: "2026-03-08",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-12",
   readingTime: 14,
   sections: [
     {
@@ -67,7 +67,7 @@ const article: V4Article = {
           rows: [
             ["Relevanz", "Wie gut das Profil zur Suchanfrage passt", "Hoch: Kategorie, Leistungen, Beschreibung, Website-Inhalte"],
             ["Entfernung", "Abstand zum Suchenden oder zum Ort in der Suche", "Gering: Sie können den Standort nicht verschieben, nur korrekt angeben"],
-            ["Bekanntheit", "Wie bekannt der Betrieb ist, unter anderem über Links, Erwähnungen und Rezensionen", "Mittel: echte Bewertungen, Erwähnungen in lokalen Medien und Verbänden"],
+            ["Bekanntheit", "Wie bekannt der Betrieb ist, unter anderem über Websites, die auf ihn verweisen, und über Rezensionen", "Mittel: echte Bewertungen, Erwähnungen in lokalen Medien und Verbänden"],
           ],
         },
         {

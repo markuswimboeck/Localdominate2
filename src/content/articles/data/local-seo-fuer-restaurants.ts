@@ -21,7 +21,7 @@ const article: V4Article = {
     "Allergenangaben sind in der EU Pflicht. Sie gehören auf die Karte, in eine separate Liste oder in eine dokumentierte mündliche Auskunft.",
   ],
   publishedAt: "2026-01-07",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-12",
   readingTime: 12,
   sections: [
     {
@@ -262,7 +262,7 @@ const article: V4Article = {
       id: "veranstaltungen",
       title: "Veranstaltungen und lokale Erwähnungen",
       answer:
-        "Weinabende, Live-Musik, Spargelsaison oder ein Stand auf dem Stadtfest sind echte Anlässe, über die andere berichten. Solche Erwähnungen und Links aus dem Ort stärken die Bekanntheit, die Google als Rankingfaktor nennt.",
+        "Weinabende, Live-Musik, Spargelsaison oder ein Stand auf dem Stadtfest sind echte Anlässe, über die andere berichten. Verweisen Websites aus dem Ort auf Ihr Unternehmen, zählt das laut Google zur Bekanntheit, einem der drei Faktoren.",
       blocks: [
         {
           t: "ul",
