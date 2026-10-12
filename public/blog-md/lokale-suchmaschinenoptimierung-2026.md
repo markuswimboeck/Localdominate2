@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/lokale-suchmaschinenoptimierung-2026
 markdown_url: https://localdominate.org/blog-md/lokale-suchmaschinenoptimierung-2026.md
 language: de-DE
 published: 2026-01-07
-updated: 2026-10-10
+updated: 2026-10-11
 reading_time_minutes: 11
 category: "Stand 2026"
 author: LocalDominate Redaktion
@@ -21,19 +21,19 @@ Für Inhaber und Marketingverantwortliche lokaler Betriebe, die die Grundlagen k
 
 ## Die kurze Antwort
 
-Lokale Suche findet 2026 nicht mehr nur im Kartenblock statt. Google zeigt in Deutschland seit März 2025 KI-Übersichten und seit Oktober 2025 den KI-Modus, ChatGPT liefert lokale Treffer, und Apple hat im April 2026 Apple Business gestartet. Die Grundlagen bleiben gleich. Neu ist, dass Profil, Website und Verzeichnisse an mehr Stellen gleichzeitig stimmen müssen.
+Lokale Suche findet 2026 nicht mehr nur im Kartenblock statt. Google zeigt in Deutschland seit März 2025 Übersichten mit KI und seit Oktober 2025 den KI-Modus, ChatGPT liefert lokale Treffer, und Apple hat im April 2026 Apple Business gestartet. Die Grundlagen bleiben gleich. Neu ist, dass Profil, Website und Verzeichnisse an mehr Stellen gleichzeitig stimmen müssen.
 
 ## Das Wichtigste in Kürze
 
-- Seit dem 25. März 2025 sehen angemeldete Nutzer ab 18 Jahren in Deutschland, Österreich und der Schweiz KI-Übersichten in der Google-Suche.
+- Seit dem 25. März 2025 zeigt Google in Deutschland, Österreich und der Schweiz Übersichten mit KI, anfangs nur angemeldeten Nutzern ab 18 Jahren. Laut Google-Hilfe sind sie heute für alle Nutzer verfügbar.
 - Den KI-Modus führt Google seit dem 8. Oktober 2025 in Deutschland, Österreich und der Schweiz ein, auch auf Deutsch.
-- Laut Google gibt es keine zusätzlichen Anforderungen für KI-Übersichten und KI-Modus. Voraussetzung ist eine indexierte Seite, die für ein Snippet geeignet ist.
+- Laut Google gibt es keine zusätzlichen Anforderungen für Übersichten mit KI und KI-Modus. Voraussetzung ist eine indexierte Seite, die für ein Snippet geeignet ist.
 - Apple Business ersetzt seit dem 14. April 2026 Apple Business Connect. Ihr Eintrag in Apple Karten wird dort gepflegt.
 - Google sperrt bei gefälschten Bewertungen neue Rezensionen, blendet bestehende aus und kann eine Warnung im Profil anzeigen.
 
 ## Was sich seit 2024 geändert hat
 
-Die wichtigsten Änderungen betreffen die Orte, an denen Menschen lokale Antworten bekommen: KI-Übersichten und KI-Modus bei Google, Suchfunktionen in ChatGPT und eine neue Plattform bei Apple. Dazu kommen weggefallene Profilfunktionen und strengere Regeln für Bewertungen.
+Die wichtigsten Änderungen betreffen die Orte, an denen Menschen lokale Antworten bekommen: Übersichten mit KI und KI-Modus bei Google, Suchfunktionen in ChatGPT und eine neue Plattform bei Apple. Dazu kommen weggefallene Profilfunktionen und strengere Regeln für Bewertungen.
 
 Dieser Artikel beschreibt, was neu ist. Wie Google lokale Ergebnisse grundsätzlich sortiert und wie Sie Profil, Website und Firmendaten aufbauen, steht ausführlich im [Local SEO Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo). Die Tabelle fasst die Änderungen zusammen, die für lokale Betriebe in der DACH-Region belegt sind.
 
@@ -42,18 +42,18 @@ Dieser Artikel beschreibt, was neu ist. Wie Google lokale Ergebnisse grundsätzl
 | Änderung | Seit | Was sie für Sie bedeutet |
 | --- | --- | --- |
 | Core Web Vitals: INP ersetzt FID | 12. März 2024 | Reaktionszeit auf Klicks und Eingaben zählt, nicht nur die erste Eingabe |
-| KI-Übersichten in Deutschland, Österreich und der Schweiz | 25. März 2025 | Antworten erscheinen über den Treffern, Ihre Seite kann als Quelle verlinkt werden |
-| Fragen und Antworten im Unternehmensprofil abgekündigt | Herbst 2025 | Antworten speisen sich aus Profil, Rezensionen und Website |
+| Übersichten mit KI in Deutschland, Österreich und der Schweiz | 25. März 2025 | Antworten erscheinen über den Treffern, Ihre Seite kann als Quelle verlinkt werden |
+| Schnittstelle für Fragen und Antworten abgekündigt, öffentliche Rubrik in Maps entfällt | Herbst 2025 | Kunden fragen direkt und bekommen eine KI-Antwort, laut Google auf Basis Ihrer Antworten und relevanter Rezensionen |
 | KI-Modus in der DACH-Region, auch auf Deutsch | 8. Oktober 2025 | Nutzer stellen längere Fragen und Rückfragen, Google sucht dafür in mehreren Teilanfragen |
 | Apple Business ersetzt Apple Business Connect | 14. April 2026 | Ihr Eintrag in Apple Karten wird auf einer neuen Plattform gepflegt |
 
-## KI-Übersichten in der Google-Suche
+## Übersichten mit KI in der Google-Suche
 
-Seit dem 25. März 2025 zeigt Google angemeldeten Nutzern ab 18 Jahren in Deutschland, Österreich und der Schweiz KI-Übersichten. Laut Google gibt es dafür keine zusätzlichen Anforderungen. Ihre Seite muss indexiert und für ein Snippet geeignet sein.
+Seit dem 25. März 2025 zeigt Google in Deutschland, Österreich und der Schweiz Übersichten mit KI, anfangs nur angemeldeten Nutzern ab 18 Jahren und laut Google-Hilfe heute allen Nutzern. Laut Google gibt es dafür keine zusätzlichen Anforderungen. Ihre Seite muss indexiert und für ein Snippet geeignet sein.
 
-In Deutschland und Österreich laufen die KI-Übersichten auf Deutsch und Englisch, in der Schweiz zusätzlich auf Französisch und Italienisch. Sie stehen über den normalen Treffern und fassen eine Antwort aus mehreren Quellen zusammen, mit Links zu diesen Quellen.
+In Deutschland und Österreich laufen die Übersichten mit KI auf Deutsch und Englisch, in der Schweiz zusätzlich auf Französisch und Italienisch. Sie stehen über den normalen Treffern und fassen eine Antwort aus mehreren Quellen zusammen, mit Links zu diesen Quellen.
 
-Google schreibt in seiner Dokumentation für Website-Betreiber ausdrücklich, dass Sie **keine speziellen schema.org-Daten** hinzufügen müssen, um in KI-Übersichten oder im KI-Modus zu erscheinen. Strukturierte Daten bleiben sinnvoll, sie müssen aber zum sichtbaren Text passen. Zugriffe aus diesen Funktionen zählt die Search Console im Leistungsbericht unter dem Suchtyp „Web“ mit, sie lassen sich dort nicht getrennt auswerten.
+Google schreibt in seiner Dokumentation für Website-Betreiber ausdrücklich, dass Sie **keine speziellen schema.org-Daten** hinzufügen müssen, um in Übersichten mit KI oder im KI-Modus zu erscheinen. Strukturierte Daten bleiben sinnvoll, sie müssen aber zum sichtbaren Text passen. Klicks aus diesen Funktionen zählt die Search Console im Leistungsbericht unter dem Suchtyp „Web“ mit, sie lassen sich dort nicht getrennt auswerten. Seit dem 31. August 2026 zeigt ein eigener Bericht für alle Websites, wie oft Links zu Ihrer Website in diesen Funktionen angezeigt wurden.
 
 > **Einordnung:** Bei Suchen wie „Zahnarzt Notdienst Augsburg“ will der Nutzer anrufen oder hinfahren. Bei Fragen wie „Was kostet eine Badsanierung“ reicht ihm oft die Zusammenfassung. Unsere Einschätzung: Leistungsseiten mit klaren Antworten und Preisrahmen werden wichtiger, weil sie bei der zweiten Art von Frage als Quelle in Frage kommen. Mehr dazu in [Google AI Overviews und Local SEO](https://localdominate.org/blog/google-ai-overviews-local-seo).
 
@@ -103,14 +103,14 @@ Bing Places ist Microsofts Verzeichnis für Bing und Bing Maps. Wie stark Micros
 
 ## Was im Google-Unternehmensprofil weggefallen ist
 
-Google hat im Herbst 2025 die Schnittstelle für Fragen und Antworten abgekündigt. Der Bereich erscheint seitdem nicht mehr in den Profilen. In der Maps-App beantwortet stattdessen eine KI-Funktion Fragen zum Ort, die noch nicht in allen Ländern und Branchen zu sehen ist.
+Google hat im Herbst 2025 die Schnittstelle für Fragen und Antworten abgekündigt. Die öffentliche Rubrik zeigt Maps nicht mehr, Kunden fragen direkt und bekommen laut Google eine KI-Antwort auf Basis Ihrer Antworten und relevanter Rezensionen. In ausgewählten Kategorien und Regionen beantworten Inhaber weiterhin Fragen im Profil.
 
-Wer bisher Fragen und Antworten im Profil selbst gepflegt hat, kann diese Arbeit nicht mehr dort erledigen. Die Antworten der KI-Funktion stützen sich nach Beobachtung von Whitespark auf Grunddaten, Öffnungszeiten, Fotos, Rezensionen, Speisekarten, Merkmale und Inhalte der Website. Daraus folgt eine klare Aufgabe: Diese Quellen müssen vollständig sein und dürfen sich nicht widersprechen.
+Googles Hilfe beschreibt für Inhaber nur das Beantworten von Fragen, verfügbar für ausgewählte Unternehmenskategorien und Regionen. Eigene Fragen ins Profil zu stellen, wie es früher üblich war, beschreibt sie nicht. Die Antworten der KI-Funktion stützen sich nach Beobachtung von Whitespark auf Grunddaten, Öffnungszeiten, Fotos, Rezensionen, Speisekarten, Merkmale und Inhalte der Website. Daraus folgt eine klare Aufgabe: Diese Quellen müssen vollständig sein und dürfen sich nicht widersprechen.
 
 1. **Profilfelder prüfen.** Öffnungszeiten, Sonderzeiten, Leistungen, Merkmale und Beschreibung auf den aktuellen Stand bringen.
 2. **Häufige Fragen auf die Website.** Die Fragen, die früher im Profil standen, mit kurzen Antworten auf der passenden Leistungsseite beantworten.
 3. **Rezensionen beantworten.** Sachliche Antworten auf Rezensionen ergänzen fehlende Informationen, etwa zu Parken oder Barrierefreiheit.
-4. **Veraltete Abläufe streichen.** Arbeitsschritte für Fragen und Antworten im Profil aus Ihren Routinen und Agenturberichten entfernen.
+4. **Veraltete Abläufe streichen.** Das Einstellen eigener Fragen im Profil aus Ihren Routinen und Agenturberichten entfernen. Zeigt Ihr Profil Fragen im Bereich Fragen und Antworten, beantworten Sie sie weiterhin kurz.
 
 Die vollständige Pflege des Profils beschreibt [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren), die KI-Funktionen im Einzelnen der Artikel [KI-Funktionen im Unternehmensprofil](https://localdominate.org/blog/unternehmensprofil-ki-funktionen-2026).
 
@@ -147,9 +147,9 @@ Viele Trendartikel arbeiten mit Zahlen ohne Quelle, etwa zum Anteil der Sprachsu
 | Aussage | Was belegt ist |
 | --- | --- |
 | „Ein bestimmter Anteil aller Suchen erfolgt per Sprache“ | Solche Anteile werden oft ohne nachvollziehbare Quelle zitiert. Verlassen Sie sich auf Ihre eigenen Suchbegriffe aus Profil und Search Console. |
-| „Für KI-Übersichten brauchen Sie spezielles Markup“ | Google schreibt, dass keine speziellen schema.org-Daten nötig sind. |
-| „Eine llms.txt-Datei bringt Sie in KI-Antworten“ | Google nennt keine zusätzlichen Anforderungen für KI-Übersichten und KI-Modus. Ein Nutzen für Google ist damit nicht belegt. |
-| „Pflegen Sie Fragen und Antworten im Profil“ | Google hat die Funktion abgekündigt, sie erscheint nicht mehr in den Profilen. |
+| „Für Übersichten mit KI brauchen Sie spezielles Markup“ | Google schreibt, dass keine speziellen schema.org-Daten nötig sind. |
+| „Eine llms.txt-Datei bringt Sie in KI-Antworten“ | Google nennt keine zusätzlichen Anforderungen für Übersichten mit KI und KI-Modus. Ein Nutzen für Google ist damit nicht belegt. |
+| „Pflegen Sie Fragen und Antworten im Profil“ | Die öffentliche Rubrik zeigt Maps nicht mehr. Fragen beantworten können Inhaber laut Google nur in ausgewählten Kategorien und Regionen, eigene Fragen einzustellen beschreibt die Hilfe nicht. |
 
 Sprachsuche ist nicht unwichtig. Sie verändert aber vor allem die Formulierung von Fragen, und genau darauf zielen klare Antworten auf Ihrer Website ohnehin. Mehr dazu in [Local SEO und Voice Search](https://localdominate.org/blog/local-seo-voice-search).
 
@@ -172,11 +172,11 @@ Ohne Budget lässt sich der größte Teil davon selbst erledigen, wie [Kostenlos
 
 ### Muss ich meine Local-SEO-Strategie 2026 komplett ändern?
 
-Nein. Profil, Website, einheitliche Firmendaten und echte Bewertungen bleiben die Grundlage. Neu ist, dass dieselben Angaben jetzt auch in KI-Übersichten, im KI-Modus, in ChatGPT und in Apple Karten auftauchen. Fehler wirken sich deshalb an mehr Stellen aus.
+Nein. Profil, Website, einheitliche Firmendaten und echte Bewertungen bleiben die Grundlage. Neu ist, dass dieselben Angaben jetzt auch in Übersichten mit KI, im KI-Modus, in ChatGPT und in Apple Karten auftauchen. Fehler wirken sich deshalb an mehr Stellen aus.
 
-### Seit wann gibt es KI-Übersichten in Deutschland?
+### Seit wann gibt es Übersichten mit KI in Deutschland?
 
-Seit dem 25. März 2025, für angemeldete Nutzer ab 18 Jahren. In Deutschland und Österreich auf Deutsch und Englisch, in der Schweiz zusätzlich auf Französisch und Italienisch.
+Seit dem 25. März 2025, anfangs nur für angemeldete Nutzer ab 18 Jahren, laut Google-Hilfe heute für alle Nutzer. In Deutschland und Österreich auf Deutsch und Englisch, in der Schweiz zusätzlich auf Französisch und Italienisch.
 
 ### Gibt es den KI-Modus von Google auf Deutsch?
 
@@ -184,7 +184,7 @@ Ja. Google führt den KI-Modus seit dem 8. Oktober 2025 in Deutschland, Österre
 
 ### Brauche ich spezielles Markup oder eine llms.txt für KI-Antworten?
 
-Für Google nicht. Google schreibt, dass es keine zusätzlichen Anforderungen für KI-Übersichten und KI-Modus gibt und keine speziellen schema.org-Daten nötig sind. Strukturierte Daten sind weiterhin sinnvoll, wenn sie zum sichtbaren Text passen.
+Für Google nicht. Google schreibt, dass es keine zusätzlichen Anforderungen für Übersichten mit KI und KI-Modus gibt und keine speziellen schema.org-Daten nötig sind. Strukturierte Daten sind weiterhin sinnvoll, wenn sie zum sichtbaren Text passen.
 
 ### Was ist aus Apple Business Connect geworden?
 
@@ -199,12 +199,16 @@ Google entfernt die Rezensionen und kann das Profil zeitweise für neue Bewertun
 - [We’re bringing the helpfulness of AI Overviews to more countries in Europe (25. März 2025)](https://blog.google/feed/were-bringing-the-helpfulness-of-ai-overviews-to-more-countries-in-europe/), Google Blog
 - [Der KI-Modus startet in Deutschland, Österreich und der Schweiz (8. Oktober 2025)](https://blog.google/intl/de-de/produkte/suchen-entdecken/ki-modus-startet-in-dach/), Google Blog Deutschland
 - [KI-Funktionen und Ihre Website](https://developers.google.com/search/docs/appearance/ai-features?hl=de), Google Search Central
+- [Übersicht mit KI: Informationen in der Google Suche schneller und einfacher finden](https://support.google.com/websearch/answer/14901683?hl=de), Google Suche Hilfe
+- [Leistungsbericht zu generativen KI-Funktionen (Google Suche)](https://support.google.com/webmasters/answer/16984139?hl=de), Search Console-Hilfe
 - [Search in ChatGPT](https://help.openai.com/en/articles/9237897-search-in-chatgpt), OpenAI Help Center
 - [Introducing Apple Business, a new all-in-one platform for businesses of all sizes (24. März 2026)](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/), Apple Newsroom
 - [Einschränkungen für Unternehmensprofile bei Richtlinienverstößen](https://support.google.com/business/answer/14114287?hl=de), Google Unternehmensprofil-Hilfe
 - [Interaction to Next Paint becomes a Core Web Vital on March 12](https://web.dev/blog/inp-cwv-march-12), web.dev (Google)
 - [With Google Q&A gone, you need a Maps “Ask a question” strategy](https://whitespark.ca/blog/with-google-qa-gone-you-need-a-maps-ask-a-question-strategy/), Whitespark
+- [Unternehmensprofil bearbeiten (Abschnitt „Fragen & Antworten“)](https://support.google.com/business/answer/3039617?hl=de), Google Unternehmensprofil-Hilfe
+- [Google quietly kills Q&A for an AI button most won't use (22. Dezember 2025, mit Googles Erklärung im Hilfeforum vom 3. Dezember 2025)](https://ppc.land/google-quietly-kills-q-a-for-an-ai-button-most-wont-use/), PPC Land
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org

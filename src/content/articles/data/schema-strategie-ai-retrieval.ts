@@ -20,7 +20,7 @@ const article: V4Article = {
     "FAQ-Markup und Bewertungsmarkup für den eigenen Betrieb bringen in der Google-Suche keine Sonderdarstellung mehr, ein eigenes „KI-Schema“ gibt es nicht. FAQ-Snippets zeigt Google seit dem 7. Mai 2026 nicht mehr an.",
   ],
   publishedAt: "2026-05-20",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 11,
   sections: [
     {
@@ -63,7 +63,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Auf der Seite „KI-Funktionen und Ihre Website“ nennt Google eine Liste bewährter Verfahren, die auch für die [Übersicht mit KI](/blog/google-ai-overviews-local-seo) und den [KI-Modus](/blog/google-ai-mode-local-seo-2026) gelten. Darin stehen unter anderem: Crawling erlauben, wichtige Inhalte als Text anbieten, strukturierte Daten an den sichtbaren Text anpassen und die Angaben im Unternehmensprofil aktuell halten.",
+          text: "Auf der Seite „KI-Funktionen und deine Website“ nennt Google eine Liste bewährter Verfahren, die auch für die [Übersicht mit KI](/blog/google-ai-overviews-local-seo) und den [KI-Modus](/blog/google-ai-mode-local-seo-2026) gelten. Darin stehen unter anderem: Crawling erlauben, wichtige Inhalte als Text anbieten, strukturierte Daten an den sichtbaren Text anpassen und die Angaben im Unternehmensprofil aktuell halten.",
         },
         {
           t: "note",
@@ -80,7 +80,7 @@ const article: V4Article = {
       id: "was-schema-leistet",
       title: "Was strukturierte Daten bei der KI-Suche realistisch leisten",
       answer:
-        "Strukturierte Daten machen Fakten über Ihren Betrieb eindeutig: Name, Adresse, Telefon, Öffnungszeiten und Verbindungen zu Ihren Profilen. Wie stark einzelne KI-Systeme diese Daten beim Abruf nutzen, legt kein Anbieter im Detail offen.",
+        "Strukturierte Daten machen Fakten über Ihren Betrieb eindeutig: Name, Adresse, Telefon, Öffnungszeiten und Verbindungen zu Ihren Profilen. Wie stark einzelne KI-Systeme diese Daten beim Abruf nutzen, legt keiner der hier geprüften Anbieter im Detail offen.",
       blocks: [
         {
           t: "p",
@@ -97,7 +97,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Einschätzung",
-          text: "KI-Antworten geben vor allem wieder, was als Text auf Seiten und in Profilen steht. Ob ein Sprachmodell beim Abruf den JSON-LD-Block selbst sieht oder nur den sichtbaren Text, dokumentiert keiner der Anbieter. Unsere Folgerung: Jede wichtige Angabe muss als lesbarer Text auf der Seite stehen. Markup bestätigt diese Angaben, ersetzt sie aber nicht. Wie Sie Seiten so schreiben, dass sie richtig zitiert werden, zeigt [Website-Inhalte für KI-Suchmaschinen](/blog/website-content-ai-suchmaschinen).",
+          text: "KI-Antworten geben vor allem wieder, was als Text auf Seiten und in Profilen steht. Ob ein Sprachmodell beim Abruf den JSON-LD-Block selbst sieht oder nur den sichtbaren Text, beschreibt keiner der hier geprüften Anbieter im Detail. Unsere Folgerung: Jede wichtige Angabe muss als lesbarer Text auf der Seite stehen. Markup bestätigt diese Angaben, ersetzt sie aber nicht. Wie Sie Seiten so schreiben, dass sie richtig zitiert werden, zeigt [Website-Inhalte für KI-Suchmaschinen](/blog/website-content-ai-suchmaschinen).",
         },
       ],
     },
