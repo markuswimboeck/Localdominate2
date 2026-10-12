@@ -59,10 +59,10 @@ const StickyHeader = () => {
         contact: "Kontakt",
       },
       industries: [
-        { path: "/restaurant-marketing", label: "Restaurant", icon: Utensils },
-        { path: "/handwerker-marketing", label: "Handwerker", icon: Wrench },
-        { path: "/arztpraxis-marketing", label: "Arztpraxis", icon: Stethoscope },
-        { path: "/anwalt-marketing", label: "Kanzlei", icon: Scale },
+        { path: "/industries/restaurants", label: "Restaurant", icon: Utensils },
+        { path: "/industries/trades", label: "Handwerker", icon: Wrench },
+        { path: "/industries/practices", label: "Arztpraxis", icon: Stethoscope },
+        { path: "/industries/practices", label: "Kanzlei", icon: Scale },
       ],
     },
     en: {
@@ -77,10 +77,10 @@ const StickyHeader = () => {
         contact: "Contact",
       },
       industries: [
-        { path: "/restaurant-marketing", label: "Restaurant", icon: Utensils },
-        { path: "/handwerker-marketing", label: "Trades", icon: Wrench },
-        { path: "/arztpraxis-marketing", label: "Medical", icon: Stethoscope },
-        { path: "/anwalt-marketing", label: "Legal", icon: Scale },
+        { path: "/industries/restaurants", label: "Restaurant", icon: Utensils },
+        { path: "/industries/trades", label: "Trades", icon: Wrench },
+        { path: "/industries/practices", label: "Medical", icon: Stethoscope },
+        { path: "/industries/practices", label: "Legal", icon: Scale },
       ],
     },
     ar: {
@@ -95,10 +95,10 @@ const StickyHeader = () => {
         contact: "اتصل بنا",
       },
       industries: [
-        { path: "/restaurant-marketing", label: "مطعم", icon: Utensils },
-        { path: "/handwerker-marketing", label: "حرفيون", icon: Wrench },
-        { path: "/arztpraxis-marketing", label: "عيادة", icon: Stethoscope },
-        { path: "/anwalt-marketing", label: "محاماة", icon: Scale },
+        { path: "/industries/restaurants", label: "مطعم", icon: Utensils },
+        { path: "/industries/trades", label: "حرفيون", icon: Wrench },
+        { path: "/industries/practices", label: "عيادة", icon: Stethoscope },
+        { path: "/industries/practices", label: "محاماة", icon: Scale },
       ],
     },
   };
@@ -250,7 +250,7 @@ const StickyHeader = () => {
                   const Icon = ind.icon;
                   return (
                     <Link
-                      key={ind.path}
+                      key={ind.label}
                       to={ind.path}
                       className="flex items-center gap-2.5 px-3 py-3 rounded-xl text-sm font-medium text-foreground hover:bg-muted transition-colors touch-target"
                       onClick={() => setIsMenuOpen(false)}
