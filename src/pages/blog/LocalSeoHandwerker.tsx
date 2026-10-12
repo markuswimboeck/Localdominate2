@@ -77,7 +77,7 @@ const LocalSeoHandwerker = () => {
     },
     {
       question: "Was kostet Local SEO für einen Handwerksbetrieb?",
-      answer: "DIY-Ansatz ist kostenlos, braucht aber 5-10 Stunden monatlich. Professionelle Betreuung kostet 300-800€/Monat. Der ROI ist hoch: Ein einziger Neukunde kann die Jahreskosten decken. Bei Local Dominator starten wir bei 297€ einmalig."
+      answer: "DIY-Ansatz ist kostenlos, braucht aber 5-10 Stunden monatlich. Professionelle Betreuung kostet 300-800€/Monat. Der ROI ist hoch: Ein einziger Neukunde kann die Jahreskosten decken. Bei LocalDominate starten wir bei 297€ einmalig."
     },
     {
       question: "Wie schnell sehe ich Ergebnisse von Local SEO?",

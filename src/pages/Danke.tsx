@@ -9,7 +9,7 @@ import { useLanguage } from '@/i18n/LanguageContext';
 
 const translations = {
   de: {
-    seoTitle: "Danke - Local Dominator",
+    seoTitle: "Danke - LocalDominate",
     seoDesc: "Vielen Dank für deinen Kauf",
     heading: "Vielen Dank für deinen Kauf! 🎉",
     subheading: "Dein lokales Marketing wird nie mehr dasselbe sein.",
@@ -27,7 +27,7 @@ const translations = {
     pauseNote: "Du kannst den Fragebogen jederzeit unterbrechen und später fortsetzen.",
   },
   en: {
-    seoTitle: "Thank You - Local Dominator",
+    seoTitle: "Thank You - LocalDominate",
     seoDesc: "Thank you for your purchase",
     heading: "Thank you for your purchase! 🎉",
     subheading: "Your local marketing will never be the same.",
@@ -45,7 +45,7 @@ const translations = {
     pauseNote: "You can pause the questionnaire at any time and continue later.",
   },
   ar: {
-    seoTitle: "شكراً لك - Local Dominator",
+    seoTitle: "شكراً لك - LocalDominate",
     seoDesc: "شكراً لك على شرائك",
     heading: "شكراً لك على شرائك! 🎉",
     subheading: "تسويقك المحلي لن يكون كما كان أبداً.",

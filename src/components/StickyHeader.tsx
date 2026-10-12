@@ -48,7 +48,7 @@ const StickyHeader = () => {
 
   const content = {
     de: {
-      brand: "Local Dominator",
+      brand: "LocalDominate",
       cta: "Jetzt starten",
       menu: {
         offer: "Angebot",
@@ -66,7 +66,7 @@ const StickyHeader = () => {
       ],
     },
     en: {
-      brand: "Local Dominator",
+      brand: "LocalDominate",
       cta: "Get Started",
       menu: {
         offer: "Offer",
@@ -84,7 +84,7 @@ const StickyHeader = () => {
       ],
     },
     ar: {
-      brand: "Local Dominator",
+      brand: "LocalDominate",
       cta: "ابدأ الآن",
       menu: {
         offer: "العرض",

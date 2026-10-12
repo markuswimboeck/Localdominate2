@@ -187,7 +187,7 @@ const ContentPlanDashboard = () => {
   return (
     <div className="min-h-screen bg-background">
       <SEOHead 
-        title="Content Plan Dashboard - Local Dominator"
+        title="Content Plan Dashboard - LocalDominate"
         description="Internes Content Plan Dashboard"
         noindex={true}
       />

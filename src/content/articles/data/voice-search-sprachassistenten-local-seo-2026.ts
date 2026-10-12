@@ -11,7 +11,7 @@ const article: V4Article = {
   lead:
     "Für Inhaber lokaler Betriebe, die wissen wollen, was Siri, Gemini und Alexa heute über ihren Betrieb sagen können und woher diese Angaben stammen. Sie erfahren, was die Anbieter selbst dokumentieren, was in Deutschland, Österreich und der Schweiz tatsächlich verfügbar ist und welche Daten Sie korrekt halten müssen.",
   answer:
-    "Sprachassistenten beantworten lokale Fragen aus Kartendaten, die Sie selbst pflegen können: Apple nennt Siri als Kanal von Apple Business, Gemini arbeitet in Google Maps. Für Alexa nennt Amazon keine Quelle für Ortsdaten. In Deutschland, Österreich und der Schweiz laufen die neuen KI-Assistenten im Oktober 2026 erst teilweise. Am meisten bringen korrekte Öffnungszeiten, Telefonnummer und Adresse in Apple Business und im Google-Unternehmensprofil.",
+    "Für lokale Fragen verweisen Apple und Google auf Kartendaten, die Sie selbst pflegen können: Apple nennt Siri als Kanal von Apple Business, Gemini arbeitet in Google Maps. Für Alexa nennt Amazon keine Quelle für Ortsdaten. In Deutschland, Österreich und der Schweiz laufen die neuen KI-Assistenten im Oktober 2026 erst teilweise. Am meisten bringen korrekte Öffnungszeiten, Telefonnummer und Adresse in Apple Business und im Google-Unternehmensprofil.",
   takeaways: [
     "Alle drei großen Anbieter stellen auf KI-Assistenten um. In DACH ist das im Oktober 2026 nur teilweise angekommen: vieles läuft als Vorabzugang oder gar nicht.",
     "Apples neue „Siri AI“ gibt es laut Apple derzeit nur auf Englisch und in der EU nicht auf dem iPhone. Deutschsprachige iPhone-Nutzer sprechen mit der bisherigen Siri.",
@@ -20,7 +20,7 @@ const article: V4Article = {
     "Für alle Assistenten gilt: Öffnungszeiten, Sonderzeiten, Telefonnummer und Adresse müssen in Apple Business und im Google-Unternehmensprofil stimmen. Eine Platzierung in Sprachantworten garantiert kein Anbieter.",
   ],
   publishedAt: "2026-05-22",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 12,
   sections: [
     {
@@ -48,7 +48,7 @@ const article: V4Article = {
       id: "assistenten-im-ueberblick",
       title: "Die Assistenten im Überblick",
       answer:
-        "Siri bezieht Ortsangaben laut Apple aus dem Umfeld von Apple Karten und Apple Business, Gemini arbeitet in Google Maps mit Ihrem Unternehmensprofil, und für Alexa nennt Amazon keine Quelle. Die Tabelle zeigt den Stand, den die Anbieter im September und Oktober 2026 dokumentieren.",
+        "Apple nennt Siri als Kanal von Apple Business, dem Werkzeug für Ihren Eintrag in Apple Karten, Gemini arbeitet in Google Maps mit Ihrem Unternehmensprofil, und für Alexa nennt Amazon keine Quelle. Die Tabelle zeigt den Stand, den die Anbieter im September und Oktober 2026 dokumentieren.",
       blocks: [
         {
           t: "table",
@@ -56,7 +56,7 @@ const article: V4Article = {
           head: ["Assistent", "Stand in DACH", "Woher Ortsangaben kommen", "Was Sie pflegen"],
           rows: [
             ["Siri (Apple)", "Bisherige Siri mit Apple Intelligence auf Deutsch; die neue Siri AI laut Apple nur Englisch und in der EU nicht auf dem iPhone", "Apple nennt Siri als Kanal von Apple Business; Applebot-Daten speisen laut Apple auch Siri", "Ortskarte in Apple Business, Website für Applebot lesbar"],
-            ["Gemini (Google) auf dem Smartphone", "Ersetzt den Google Assistant schrittweise; laut einer von Fachmedien zitierten E-Mail von Google ab 4. September 2026 verpflichtend, die Gemini-Hilfe beschreibt den Wechsel zurück aber noch", "In Google Maps beantwortet Gemini Fragen zu Orten; die Maps-Angaben steuern Sie über das Unternehmensprofil", "Google-Unternehmensprofil, Sonderöffnungszeiten"],
+            ["Gemini (Google) auf dem Smartphone", "Ersetzt den Google Assistant schrittweise; laut einem Bericht von 9to5Google über eine E-Mail von Google ab 4. September 2026 verpflichtend, die Gemini-Hilfe beschreibt den Wechsel zurück aber noch", "In Google Maps beantwortet Gemini Fragen zu Orten; die Maps-Angaben steuern Sie über das Unternehmensprofil", "Google-Unternehmensprofil, Sonderöffnungszeiten"],
             ["Gemini for Home (Lautsprecher, Displays)", "Vorabzugang in Deutschland, Österreich und der Schweiz", "Von Google für lokale Einträge nicht gesondert beschrieben", "Wie oben"],
             ["Alexa und Alexa+ (Amazon)", "Alexa+ im Vorabzugang in Deutschland und Österreich; Schweiz nicht genannt", "Von Amazon nicht dokumentiert; ältere Berichte aus den USA nennen Yelp und Yext", "Einheitliche Daten auf allen verbreiteten Plattformen"],
           ],
@@ -71,7 +71,7 @@ const article: V4Article = {
       id: "siri-und-apple-karten",
       title: "Siri und Apple Karten",
       answer:
-        "Apple nennt Siri ausdrücklich als einen der Orte, an denen Apple Business Betriebe mit Kunden verbindet. Ihre Ortskarte in Apple Business ist deshalb die wichtigste Stellschraube für Siri. Die neue Siri AI ist laut Apple im Oktober 2026 nur auf Englisch verfügbar und in der EU nicht auf iPhone und iPad.",
+        "Apple nennt Siri ausdrücklich als einen der Orte, an denen Apple Business Betriebe mit Kunden verbindet. Ihre Ortskarte in Apple Business ist deshalb nach unserer Einschätzung die wichtigste Stellschraube für Siri. Die neue Siri AI ist laut Apple-Hilfe derzeit auf Englisch verfügbar, fünf weitere Sprachen hat Apple für Oktober angekündigt, Deutsch nicht. In der EU gibt es sie nicht auf iPhone und iPad.",
       blocks: [
         {
           t: "p",
@@ -107,8 +107,8 @@ const article: V4Article = {
           head: ["Datum", "Was passiert ist"],
           rows: [
             ["14. März 2025", "Google kündigt an, Nutzer auf Mobilgeräten vom Assistant auf Gemini umzustellen; der klassische Assistant solle später im Jahr auf den meisten Mobilgeräten nicht mehr nutzbar sein"],
-            ["20. Dezember 2025", "Laut Fachpresse passt Google den Zeitplan an und setzt die Umstellung auf Mobilgeräten bis ins Jahr 2026 fort (berichtet, Beitrag im Gemini-Forum)"],
-            ["10. August 2026", "Laut Fachpresse kündigt Google per E-Mail an, die Umstellung auf Smartphones ab dem 4. September 2026 schrittweise verpflichtend zu machen; ein Wechsel zurück sei danach nicht mehr möglich (berichtet)"], ["Stand Oktober 2026", "Die Gemini-Hilfe beschreibt weiterhin, wie Nutzer auf dem Android-Smartphone zum Google Assistant zurückwechseln können"],
+            ["20. Dezember 2025", "Laut Bericht von PPC Land passt Google den Zeitplan in einem Beitrag im Gemini-Forum an und setzt die Umstellung auf Mobilgeräten bis ins Jahr 2026 fort"],
+            ["4. August 2026", "Laut Bericht von 9to5Google kündigt Google per E-Mail an, den Assistant auf Smartphones ab dem 4. September 2026 schrittweise abzuschalten; ein Wechsel zurück sei danach nicht mehr möglich"], ["Stand Oktober 2026", "Die Gemini-Hilfe beschreibt weiterhin, wie Nutzer auf dem Android-Smartphone zum Google Assistant zurückwechseln können"],
             ["Stand Oktober 2026", "Gemini for Home ist laut Google-Hilfe in Deutschland, Österreich und der Schweiz als Vorabzugang verfügbar; ein Haushalt, der umgestellt hat, kann nicht zurück"],
             ["4. August 2026", "Google bringt den Google Home Speaker für Gemini in Deutschland in den Handel"],
           ],
@@ -132,7 +132,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Amazon hat Alexa+ im Februar 2025 vorgestellt. In der Fassung vom 21. Juli 2026 schreibt Amazon, Alexa+ sei in den USA und Kanada für alle Kunden verfügbar und unter anderem in Deutschland, Österreich, Großbritannien, Frankreich, Italien und Spanien im Vorabzugang. Deutsche Fachmedien berichteten den offiziellen Start des Vorabzugangs in Deutschland am 7. Mai 2026.",
+          text: "Amazon hat Alexa+ im Februar 2025 vorgestellt. In der Fassung vom 21. Juli 2026 schreibt Amazon, Alexa+ sei in den USA und Kanada für alle Kunden verfügbar und unter anderem in Deutschland, Österreich, Großbritannien, Frankreich, Italien und Spanien im Vorabzugang. Laut Amazon begann der Vorabzugang in Deutschland und Österreich am 7. Mai 2026.",
         },
         {
           t: "p",
@@ -145,7 +145,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Unsere Einschätzung: Solange Amazon keine Quelle nennt, gibt es für Alexa keine gezielte Maßnahme. Der einzige sinnvolle Schritt ist, Ihre Angaben auf allen verbreiteten Plattformen einheitlich zu halten. Wie Sie das prüfen, beschreibt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo). Bing Places gehört dazu, allerdings wegen Bing und Copilot, nicht wegen Alexa.",
+          text: "Unsere Einschätzung: Solange Amazon keine Quelle nennt, gibt es für Alexa keine gezielte Maßnahme. Der einzige sinnvolle Schritt ist, Ihre Angaben auf allen verbreiteten Plattformen einheitlich zu halten. Wie Sie das prüfen, beschreibt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo). Bing Places gehört dazu, allerdings wegen Bing, nicht wegen Alexa.",
         },
       ],
     },
@@ -161,7 +161,7 @@ const article: V4Article = {
           head: ["Aussage", "Stand"],
           rows: [
             ["„Ein Drittel der mobilen lokalen Suchen in DACH beginnt per Sprache“", "Keine Quelle mit nachvollziehbarer Methode gefunden. Nicht belegt."],
-            ["„Alexa nutzt Bing Places, Siri nutzt ChatGPT als Rückfall“", "Für Alexa nennt Amazon keine Quelle. Für die neue Siri AI nennt Apple keinen Modellanbieter. Nicht belegt."],
+            ["„Alexa nutzt Bing Places, Siri nutzt ChatGPT als Rückfall“", "Für Alexa nennt Amazon keine Quelle. Für die neue Siri AI nennt Apple die eigenen Apple Foundation Models, ChatGPT kommt in der Ankündigung nicht vor. Nicht belegt."],
             ["„Plattform-Vollständigkeit zählt 25 Prozent, Bewertungen 20 Prozent“", "Kein Anbieter veröffentlicht solche Gewichte. Erfunden."],
             ["„FAQ-Markup bringt Sie in Sprachantworten“", "FAQ-Rich-Results zeigt Google nicht mehr. Für Sprachassistenten dokumentiert kein Anbieter eine Wirkung von FAQ-Markup."],
             ["„Erste Effekte nach vier bis acht Wochen“", "Kein Anbieter nennt Zeiträume. Niemand kann eine Platzierung in Sprachantworten garantieren."],
@@ -230,7 +230,7 @@ const article: V4Article = {
     },
     {
       q: "Ist der Google Assistant schon abgeschaltet?",
-      a: "Nicht vollständig. Google stellt Smartphones schrittweise auf Gemini um, laut Fachmedien ab dem 4. September 2026 verpflichtend. Die Gemini-Hilfe beschreibt den Wechsel zurück zum Assistant allerdings noch. Auf Lautsprechern und Displays ist Gemini for Home in Deutschland, Österreich und der Schweiz als Vorabzugang verfügbar.",
+      a: "Nicht vollständig. Google stellt Smartphones schrittweise auf Gemini um, laut einem Bericht von 9to5Google über eine E-Mail von Google ab dem 4. September 2026 verpflichtend. Die Gemini-Hilfe beschreibt den Wechsel zurück zum Assistant allerdings noch. Auf Lautsprechern und Displays ist Gemini for Home in Deutschland, Österreich und der Schweiz als Vorabzugang verfügbar.",
     },
     {
       q: "Wie komme ich in die Antworten von Alexa?",
@@ -251,6 +251,8 @@ const article: V4Article = {
     { title: "Maintain location information accuracy with Apple Business", publisher: "Apple Business Hilfe", url: "https://support.apple.com/guide/business/maintain-location-information-accuracy-abcb91c1d565/web" },
     { title: "How to get Siri AI (22. September 2026)", publisher: "Apple Support", url: "https://support.apple.com/en-us/127893" },
     { title: "How to get the next generation of Apple Intelligence (14. September 2026)", publisher: "Apple Support", url: "https://support.apple.com/en-us/121115" },
+    { title: "Apple introduces Siri AI, a profoundly more capable and personal assistant (8. Juni 2026)", publisher: "Apple Newsroom", url: "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/" },
+    { title: "Major updates for Apple’s software platforms are now available (14. September 2026)", publisher: "Apple Newsroom", url: "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/" },
     { title: "About Applebot (4. September 2026)", publisher: "Apple Support", url: "https://support.apple.com/en-us/119829" },
     { title: "The Assistant experience on mobile is upgrading to Gemini (14. März 2025)", publisher: "Google Blog", url: "https://blog.google/products/gemini/google-assistant-gemini-mobile/" },
     { title: "Google delays Gemini's complete takeover of Assistant until 2026 (23. Dezember 2025)", publisher: "PPC Land", url: "https://ppc.land/google-delays-geminis-complete-takeover-of-assistant-until-2026/" },
@@ -266,10 +268,10 @@ const article: V4Article = {
     { title: "Prohibited & restricted content (Maps User Generated Content Policy)", publisher: "Google", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=en" },
     { title: "Latest documentation updates (FAQ-Rich-Results eingestellt am 7. Mai 2026, Dokumentation entfernt am 15. Juni 2026)", publisher: "Google Search Central", url: "https://developers.google.com/search/updates" },
     { title: "Introducing Alexa+, the next generation of Alexa (26. Februar 2025, aktualisiert 21. Juli 2026)", publisher: "Amazon", url: "https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence" },
-    { title: "Amazon Alexa+ startet offiziell in Deutschland (7. Mai 2026)", publisher: "mobiFlip", url: "https://www.mobiflip.de/amazon-alexa-plus-deutschland/" },
+    { title: "Alexa+ arrives in India as Amazon’s next-generation AI assistant expands internationally (mit Abschnitten zu Deutschland und Österreich, Stand 16. September 2026)", publisher: "Amazon", url: "https://aboutamazon.com/news/devices/alexa-plus-international-launch" },
     { title: "Amazon Echo Now Offers Local Search With Help From Yelp", publisher: "Search Engine Land", url: "https://searchengineland.com/amazon-echo-now-offers-local-search-with-help-from-yelp-234433" },
     { title: "Amazons Alexa: sprachbasiertes Knowledge Panel für Geschäfte (27. Juli 2018)", publisher: "OnlineMarketing.de", url: "https://onlinemarketing.de/news/amazons-alexa-sprachbasiertes-knowledge-panel-geschaefte" },
-    { title: "It's official: Gemini will completely replace the Google Assistant on phones next month (10. August 2026)", publisher: "Chrome Unboxed", url: "https://chromeunboxed.com/its-official-gemini-will-completely-replace-the-google-assistant-on-phones-next-month/" },
+    { title: "Google Assistant shutting down on Android and Wear OS in September (4. August 2026)", publisher: "9to5Google", url: "https://9to5google.com/2026-08-04/google-assistant-september-2026-shutdown/" },
   ],
   related: [
     { slug: "local-seo-voice-search", title: "Local SEO und Voice Search: die Checkliste" },

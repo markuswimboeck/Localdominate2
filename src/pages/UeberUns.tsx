@@ -13,7 +13,7 @@ import SiteBreadcrumbs from "@/components/SiteBreadcrumbs";
  */
 const translations = {
   de: {
-    title: "Über Local Dominator",
+    title: "Über LocalDominate",
     metaDesc: "Wer hinter LocalDominate steht: Markus Wimböck, über sieben Jahre in Hotellerie und digitalem Marketing, und eine Person, die Ihr Projekt verantwortet.",
     orgDesc: "LocalDominate ist ein Wachstumsstudio für Hotels, Ferienvermieter, Handwerk, Premium-Dienstleister und Creators.",
     subtitle: "LocalDominate ist ein Wachstumsstudio von Markus Wimböck. Es plant, baut und vermarktet Marke, Website und Google-Auftritt als ein Projekt.",
@@ -46,7 +46,7 @@ const translations = {
     ourBlog: "→ Unser Blog",
   },
   en: {
-    title: "About Local Dominator",
+    title: "About LocalDominate",
     metaDesc: "Learn who is behind LocalDominate: Markus Wimböck, over seven years in hospitality and digital marketing, and one person responsible for your project.",
     orgDesc: "LocalDominate is a growth studio for hotels, holiday rentals, trades, premium local services and creators.",
     subtitle: "LocalDominate is a growth studio run by Markus Wimböck. It plans, builds and markets brand, website and Google presence as one project.",
@@ -79,7 +79,7 @@ const translations = {
     ourBlog: "→ Our Blog",
   },
   ar: {
-    title: "عن Local Dominator",
+    title: "عن LocalDominate",
     metaDesc: "تعرّف على من يقف خلف LocalDominate: ماركوس فيمبوك، أكثر من سبع سنوات في الضيافة والتسويق الرقمي، وشخص واحد مسؤول عن مشروعك.",
     orgDesc: "LocalDominate استوديو نمو للفنادق وإيجارات العطلات والحِرف والخدمات المحلية المتميزة وصنّاع المحتوى.",
     subtitle: "LocalDominate استوديو نمو يديره ماركوس فيمبوك. يخطط ويبني ويسوّق العلامة التجارية والموقع والحضور على Google كمشروع واحد.",
@@ -141,7 +141,7 @@ const UeberUns = () => {
         <header className="sticky top-0 z-50 bg-background/95 backdrop-blur border-b border-border">
           <div className="container max-w-4xl py-4 flex items-center justify-between">
             <Link to="/" className="text-xl font-bold text-primary hover:text-primary/80 transition-colors">
-              Local Dominator
+              LocalDominate
             </Link>
           </div>
         </header>

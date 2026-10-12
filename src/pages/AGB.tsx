@@ -9,15 +9,15 @@ const AGB = () => {
   const seoContent = {
     de: {
       title: "Allgemeine Geschäftsbedingungen",
-      description: "AGB von Local Dominator - Unsere allgemeinen Geschäftsbedingungen für Google Maps Optimierung."
+      description: "AGB von LocalDominate - Unsere allgemeinen Geschäftsbedingungen für Google Maps Optimierung."
     },
     en: {
       title: "Terms and Conditions",
-      description: "Terms and conditions of Local Dominator - Our general terms for Google Maps optimization services."
+      description: "Terms and conditions of LocalDominate - Our general terms for Google Maps optimization services."
     },
     ar: {
       title: "الشروط والأحكام العامة",
-      description: "الشروط والأحكام العامة لـ Local Dominator - شروطنا العامة لخدمات تحسين خرائط Google."
+      description: "الشروط والأحكام العامة لـ LocalDominate - شروطنا العامة لخدمات تحسين خرائط Google."
     }
   };
 

@@ -3,10 +3,10 @@ import type { V4Article } from "../types";
 const article: V4Article = {
   slug: "local-seo-friseursalon-beauty",
   lang: "de",
-  seoTitle: "Local SEO für Friseure und Beauty-Studios: Leitfaden 2026",
+  seoTitle: "SEO für Friseure und Beauty-Studios: lokal gefunden werden",
   seoDescription:
-    "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
-  h1: "Local SEO für Friseursalons und Beauty-Studios: So finden Kunden Ihren Salon",
+    "SEO für Friseure und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln, damit Kunden Sie finden.",
+  h1: "SEO für Friseure und Beauty-Studios: So finden Kunden Ihren Salon",
   kicker: "Friseur & Beauty",
   lead:
     "Für Inhaber von Friseursalons, Kosmetik-, Nagel- und Barbershops, die bei Suchen wie „Friseur in der Nähe“ oder „Balayage [Stadt]“ gefunden werden wollen. Sie erfahren, welche Angaben Ihr Profil braucht, wie Ihre Website Leistungen erklärt und welche Bewertungsbitten Google erlaubt.",

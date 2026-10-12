@@ -82,7 +82,7 @@ const FaqSubHub = () => {
   return (
     <>
       <SEOHead
-        title={`FAQ: ${category.title} — ${category.faqs.length} Antworten | Local Dominator`}
+        title={`FAQ: ${category.title} — ${category.faqs.length} Antworten | LocalDominate`}
         exactTitle
         description={`${category.faqs.length} häufig gestellte Fragen zu ${category.title}. ${category.description}`}
       />

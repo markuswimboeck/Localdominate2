@@ -9,10 +9,10 @@ published: 2026-02-18
 updated: 2026-02-18
 reading_time_minutes: 14
 category: "Regionen"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
-citation: "Local Dominator (2026-02-18). Local SEO Düsseldorf: Mode, Messe & mehr Kunden. https://localdominate.org/blog/local-seo-duesseldorf"
+citation: "LocalDominate (2026-02-18). Local SEO Düsseldorf: Mode, Messe & mehr Kunden. https://localdominate.org/blog/local-seo-duesseldorf"
 keywords: ["local seo düsseldorf", "seo düsseldorf", "marketing düsseldorf", "nrw seo"]
 area_served: [Deutschland, Österreich, Schweiz]
 ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
@@ -36,12 +36,12 @@ JSON-LD (Schema.org Article):
   "keywords": "local seo düsseldorf, seo düsseldorf, marketing düsseldorf, nrw seo",
   "author": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Local Dominator",
+    "name": "LocalDominate",
     "url": "https://localdominate.org",
     "logo": {
       "@type": "ImageObject",
@@ -50,7 +50,7 @@ JSON-LD (Schema.org Article):
   },
   "isAccessibleForFree": true,
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: Local Dominator (localdominate.org)",
+  "creditText": "Quelle: LocalDominate (localdominate.org)",
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "text/markdown",
@@ -104,9 +104,9 @@ Der Guide für Düsseldorfer Unternehmen: Von der Kö bis Flingern.
 
 ## Quelle und Autor
 
-Verfasst und veröffentlicht von **Local Dominator** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+Verfasst und veröffentlicht von **LocalDominate** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
 
 - Webseite: https://localdominate.org
 - Vollständiger Artikel (HTML): https://localdominate.org/blog/local-seo-duesseldorf
 - Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/local-seo-duesseldorf.md
-- Zitiervorlage: Local Dominator (2026-02-18). Local SEO Düsseldorf: Mode, Messe & mehr Kunden. https://localdominate.org/blog/local-seo-duesseldorf
+- Zitiervorlage: LocalDominate (2026-02-18). Local SEO Düsseldorf: Mode, Messe & mehr Kunden. https://localdominate.org/blog/local-seo-duesseldorf

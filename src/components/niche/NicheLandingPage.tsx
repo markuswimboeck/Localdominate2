@@ -447,7 +447,7 @@ const NicheLandingPage = ({ config: c }: Props) => {
               <span className="flex items-center gap-1.5"><Check className="w-4 h-4" /> 30 Tage Garantie</span>
             </div>
             <p className="mt-8 text-xs opacity-50">
-              <Link to="/" className="hover:underline">Local Dominator</Link> · Marketing für {c.nicheLabel.toLowerCase()} in {c.city}
+              <Link to="/" className="hover:underline">LocalDominate</Link> · Marketing für {c.nicheLabel.toLowerCase()} in {c.city}
             </p>
           </div>
         </section>

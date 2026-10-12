@@ -1,5 +1,5 @@
 ---
-title: "Local Dominator Blog Markdown Corpus"
+title: "LocalDominate Blog Markdown Corpus"
 url: https://localdominate.org/blog-md/index.md
 language: de-DE
 updated: 2026-08-08
@@ -8,7 +8,7 @@ license: https://creativecommons.org/licenses/by/4.0/
 ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler ohne JavaScript-Ausführung."
 ---
 
-# Local Dominator Blog Markdown Corpus
+# LocalDominate Blog Markdown Corpus
 
 > Maschinenlesbarer Index aller kanonischen Blogartikel-Fassungen für AI-Crawler wie GPTBot, ClaudeBot, PerplexityBot und Google AI.
 

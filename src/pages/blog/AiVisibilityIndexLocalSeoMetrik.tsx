@@ -22,7 +22,7 @@ const AiVisibilityIndexLocalSeoMetrik = () => {
   ];
 
   const faqItems = [
-    { question: "Ist der AI Visibility Index eine offizielle Google-Metrik?", answer: "Nein. Es ist eine proprietäre Metrik von Local Dominator, die die Sichtbarkeit über alle relevanten AI-Suchmaschinen in einer einzigen Skala bündelt." },
+    { question: "Ist der AI Visibility Index eine offizielle Google-Metrik?", answer: "Nein. Es ist eine proprietäre Metrik von LocalDominate, die die Sichtbarkeit über alle relevanten AI-Suchmaschinen in einer einzigen Skala bündelt." },
     { question: "Welcher Wert ist gut?", answer: "Über 70/100 gilt als stark, 50–70 als solide Basis mit Optimierungspotenzial, unter 50 als kritisch." },
     { question: "Wie oft sollte ich den Index messen?", answer: "Monatlich. AI-Plattformen ändern Crawl- und Ranking-Logik schneller als klassisches Google-SEO." },
     { question: "Ersetzt der Index mein Google-Ranking-Tracking?", answer: "Nein, er ergänzt es. Klassische Rankings bleiben relevant — der Index zeigt zusätzlich die AI-Search-Dimension." },

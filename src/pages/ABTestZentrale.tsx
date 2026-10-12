@@ -181,7 +181,7 @@ const ABTestZentrale = () => {
   return (
     <div className="min-h-screen bg-background">
       <SEOHead 
-        title="A/B Test Zentrale - Local Dominator"
+        title="A/B Test Zentrale - LocalDominate"
         description="Interne A/B Test Verwaltung"
         noindex={true}
       />

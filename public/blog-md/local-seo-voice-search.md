@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-voice-search
 markdown_url: https://localdominate.org/blog-md/local-seo-voice-search.md
 language: de-DE
 published: 2026-01-25
-updated: 2026-10-11
+updated: 2026-10-12
 reading_time_minutes: 12
 category: "Sprachsuche"
 author: LocalDominate Redaktion
@@ -51,7 +51,7 @@ Wer tippt, schreibt „Zahnarzt Linz Notdienst“. Wer spricht, fragt „Welcher
 
 ## Wo Ihre Kunden heute sprechen
 
-Gesprochen wird vor allem in der Google-App, in Google Maps, mit Gemini auf Android-Smartphones und mit Siri auf Apple-Geräten. Die Antworten stammen aus den Daten der jeweiligen Suche und Karte, nicht aus einem eigenen Sprachverzeichnis. Welche Quellen jeder Assistent nutzt, beschreibt unser Artikel zu den Sprachassistenten.
+Gesprochen wird vor allem in der Google-App, in Google Maps, mit Gemini auf Android-Smartphones und mit Siri auf Apple-Geräten. Soweit Google und Apple es beschreiben, stammen die Antworten aus den Daten der jeweiligen Suche und Karte; ein eigenes Sprachverzeichnis haben wir bei keinem Anbieter gefunden. Welche Quellen jeder Assistent nutzt, beschreibt unser Artikel zu den Sprachassistenten.
 
 *Orte für gesprochene lokale Fragen im Überblick (Stand 11. Oktober 2026)*
 
@@ -63,7 +63,7 @@ Gesprochen wird vor allem in der Google-App, in Google Maps, mit Gemini auf Andr
 | Google Maps | Im November 2025 angekündigt, laut Fachmedien seit Januar 2026 in Deutschland nutzbar: Gemini beantwortet während der Navigation gesprochene Fragen, etwa nach einem Restaurant entlang der Route | Google Maps und Unternehmensprofile |
 | Siri | Applebot liefert Inhalte für die Suche in Siri, Spotlight und Safari; Apple Business pflegt Ortsangaben für Apple Karten | Apple Karten und Websuche von Apple |
 
-Auf seinen Hilfeseiten nennt Google für den Wechsel von Google Assistant zu Gemini kein festes Datum. Laut einer E-Mail von Google, die Fachmedien zitieren, wird der Wechsel auf Smartphones ab dem 4. September 2026 schrittweise verpflichtend. Die Gemini-Hilfe beschreibt den Wechsel zurück allerdings noch. Alexa, Siri und Gemini im Detail, mit Datenquellen und Verfügbarkeit in Deutschland, Österreich und der Schweiz, behandelt [Sprachassistenten und Local SEO](https://localdominate.org/blog/voice-search-sprachassistenten-local-seo-2026). Hier geht es nur um die Angaben, die Sie selbst pflegen.
+Auf seinen Hilfeseiten nennt Google für den Wechsel von Google Assistant zu Gemini kein festes Datum. Laut einem Bericht von 9to5Google über eine E-Mail von Google an Nutzer wird der Wechsel auf Smartphones ab dem 4. September 2026 schrittweise verpflichtend. Die Gemini-Hilfe beschreibt den Wechsel zurück allerdings noch. Alexa, Siri und Gemini im Detail, mit Datenquellen und Verfügbarkeit in Deutschland, Österreich und der Schweiz, behandelt [Sprachassistenten und Local SEO](https://localdominate.org/blog/voice-search-sprachassistenten-local-seo-2026). Hier geht es nur um die Angaben, die Sie selbst pflegen.
 
 > **Wichtig:** Niemand kann Ihnen garantieren, dass ein Assistent Ihren Betrieb vorliest. Google schreibt, dass ein besseres lokales Ranking nicht angefordert werden kann, auch nicht gegen Bezahlung. Für den KI-Modus erklärt [Google AI Mode und Local SEO](https://localdominate.org/blog/google-ai-mode-local-seo-2026), was Google dokumentiert.
 
@@ -199,7 +199,7 @@ Nein, weder Search Console noch das Unternehmensprofil trennen gesprochene von g
 
 ### Gibt es Google Assistant noch?
 
-Auf Smartphones ersetzt Google den Assistant durch Gemini, laut Fachmedien für viele Nutzer verpflichtend seit September 2026. Auf Lautsprechern und Displays läuft laut Google-Hilfe weiterhin Assistant, außer in Haushalten, die zu Gemini for Home gewechselt sind. Das ist in Deutschland, Österreich und der Schweiz als Vorabzugang verfügbar. Für Ihren Betrieb ändert das wenig, weil beide auf Google-Daten zugreifen.
+Auf Smartphones ersetzt Google den Assistant durch Gemini, laut einem Bericht von 9to5Google über eine E-Mail von Google schrittweise verpflichtend ab dem 4. September 2026. Auf Lautsprechern und Displays läuft laut Google-Hilfe weiterhin Assistant, außer in Haushalten, die zu Gemini for Home gewechselt sind. Das ist in Deutschland, Österreich und der Schweiz als Vorabzugang verfügbar. Für Ihren Betrieb ändert das wenig, weil beide auf Google-Daten zugreifen.
 
 ## Quellen
 
@@ -209,7 +209,7 @@ Auf Smartphones ersetzt Google den Assistant durch Gemini, laut Fachmedien für 
 - [Der KI-Modus startet in Deutschland, Österreich und der Schweiz (8. Oktober 2025)](https://blog.google/intl/de-de/produkte/suchen-entdecken/ki-modus-startet-in-dach/), Google Blog Deutschland
 - [Search Live is expanding globally (26. März 2026)](https://blog.google/products-and-platforms/products/search/search-live-global-expansion), Google Blog
 - [Get started with the Gemini mobile app (Android)](https://support.google.com/gemini/answer/14554984?hl=en), Gemini Apps-Hilfe
-- [It's official: Gemini will completely replace the Google Assistant on phones next month (10. August 2026)](https://chromeunboxed.com/its-official-gemini-will-completely-replace-the-google-assistant-on-phones-next-month/), Chrome Unboxed
+- [Google Assistant shutting down on Android and Wear OS in September (4. August 2026)](https://9to5google.com/2026-08-04/google-assistant-september-2026-shutdown/), 9to5Google
 - [Gemini hilft euch beim Navigieren in Google Maps (5. November 2025)](https://blog.google/intl/de-de/produkte/suchen-entdecken/gemini-in-google-maps/), Google Blog Deutschland
 - [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
 - [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
@@ -225,4 +225,4 @@ Auf Smartphones ersetzt Google den Assistant durch Gemini, laut Fachmedien für 
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org

@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/tiktok-search-local-seo-2026
 markdown_url: https://localdominate.org/blog-md/tiktok-search-local-seo-2026.md
 language: de-DE
 published: 2026-05-22
-updated: 2026-10-11
+updated: 2026-10-12
 reading_time_minutes: 12
 category: "Soziale Suche"
 author: LocalDominate Redaktion
@@ -49,7 +49,7 @@ Die Aussage, junge Leute würden lokale Empfehlungen nur noch auf TikTok suchen,
 
 ## Was TikTok über Empfehlungen und Suche schreibt
 
-TikTok nennt für seine Empfehlungen drei Gruppen von Signalen: Interaktionen der Nutzer, Informationen zum Video wie Beschreibung, Ton und Hashtags sowie Geräte- und Kontoeinstellungen wie Sprache und Land. Eine Liste von Rangfaktoren speziell für die Suche haben wir bei TikTok nicht gefunden.
+TikTok nennt für seine Empfehlungen drei Gruppen von Signalen: Interaktionen der Nutzer, Informationen zum Video wie Beschreibung, Ton und Hashtags sowie Geräte- und Kontoeinstellungen wie Sprache und Land. Für die Suche nennt TikTok in seiner Hilfe ähnliche Gruppen und schreibt, dass für viele Nutzer in der Regel die Passung zwischen Suchbegriff und Inhalt am stärksten zählt. Zahlen zur Gewichtung nennt TikTok nicht.
 
 In seiner Beschreibung des Empfehlungssystems schreibt TikTok außerdem, dass weder die Zahl der Follower noch frühere erfolgreiche Videos direkte Faktoren sind. Ein Konto mit vielen Followern bekommt zwar oft mehr Aufrufe, das liegt aber an den Interaktionen, nicht an der Followerzahl selbst. Für einen kleinen Betrieb heißt das: Auch ein neues Konto kann gesehen werden, wenn das Video zum Interesse der Zuschauer passt.
 
@@ -122,7 +122,7 @@ Weil TikTok Beschreibung, Ton und Hashtags als Videoinformationen nennt und im N
 - **Fakten ins Video**: Öffnungszeiten, Preisrahmen, Buchungsweg. Was Kunden wissen wollen, gehört ins Bild, nicht nur in die Kommentare.
 - **Regelmäßig veröffentlichen**, weil Beiträge nach 90 Tagen aus dem Nearby-Feed fallen.
 
-> **Einschätzung:** TikTok dokumentiert nicht, wie stark einzelne Angaben in der Suche zählen. Die Hinweise oben folgen aus den Signalgruppen, die TikTok nennt, und aus den Regeln für den Nearby-Feed. Eine bestimmte Häufigkeit oder Videolänge können wir nicht als belegt empfehlen. Weitere Themenideen finden Sie in [Local Content Marketing](https://localdominate.org/blog/local-content-marketing).
+> **Einschätzung:** TikTok dokumentiert nicht genau, wie stark einzelne Angaben in der Suche zählen; es schreibt nur, dass für viele Nutzer in der Regel die Passung zum Suchbegriff mehr zählt als andere Faktoren. Die Hinweise oben folgen aus den Signalgruppen, die TikTok nennt, und aus den Regeln für den Nearby-Feed. Eine bestimmte Häufigkeit oder Videolänge können wir nicht als belegt empfehlen. Weitere Themenideen finden Sie in [Local Content Marketing](https://localdominate.org/blog/local-content-marketing).
 
 ## TikTok und Google-Unternehmensprofil verbinden
 
@@ -191,6 +191,7 @@ Laut TikTok erscheinen Beiträge, die älter als 90 Tage sind, nicht mehr im Nea
 - [Nearby feed](https://support.tiktok.com/en/using-tiktok/exploring-videos/nearby), TikTok Support
 - [TikTok rolls out a Nearby Feed to display local content in select countries (4. Dezember 2025)](https://techcrunch.com/2025/12/04/tiktok-rolls-out-a-nearby-feed-to-display-local-content-in-select-countries/), TechCrunch
 - [How TikTok recommends videos #ForYou (18. Juni 2020)](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you), TikTok Newsroom
+- [How TikTok recommends content (japanische Fassung der TikTok-Hilfe, Abschnitt zur Suche)](https://support.tiktok.com/ja/using-tiktok/exploring-videos/how-tiktok-recommends-content), TikTok Support
 - [Fulfilling our commitments under the Digital Services Act (4. August 2023)](https://newsroom.tiktok.com/en-eu/fulfilling-commitments-dsa-update), TikTok Newsroom
 - [How to Switch to a TikTok Business Account](https://ads.tiktok.com/help/article/switch-to-tiktok-business-account?lang=en), TikTok Business Help Center
 - [Commercial Music Library](https://ads.tiktok.com/help/article/commercial-music-library?lang=en), TikTok Business Help Center
@@ -203,4 +204,4 @@ Laut TikTok erscheinen Beiträge, die älter als 90 Tage sind, nicht mehr im Nea
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org

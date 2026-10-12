@@ -14,7 +14,7 @@ import { SEO_DATE_MODIFIED } from "@/lib/seo-dates";
 
 const SITE = "https://localdominate.org";
 const PAGE_URL = `${SITE}${PILLAR_BASE}`;
-const TITLE = "Our Approach: The Seven-Step Growth System | Local Dominator";
+const TITLE = "Our Approach: The Seven-Step Growth System | LocalDominate";
 
 const JSON_LD = {
   "@context": "https://schema.org",

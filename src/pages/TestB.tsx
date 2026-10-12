@@ -571,7 +571,7 @@ const StickyFooterCTA = () => {
 const MinimalFooter = () => (
   <footer className="border-t border-border py-8 px-4">
     <div className="max-w-3xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
-      <span>© {new Date().getFullYear()} Local Dominator</span>
+      <span>© {new Date().getFullYear()} LocalDominate</span>
       <div className="flex gap-6">
         <a href="/impressum" className="hover:text-foreground transition-colors">Impressum</a>
         <a href="/datenschutz" className="hover:text-foreground transition-colors">Datenschutz</a>
@@ -584,7 +584,7 @@ const MinimalFooter = () => (
 // ─── Page ───
 export default function TestB() {
   useEffect(() => {
-    trackGA("page_view", { page_location: "/test-b", page_title: "Test B – Local Dominator" });
+    trackGA("page_view", { page_location: "/test-b", page_title: "Test B – LocalDominate" });
   }, []);
 
   // Scroll depth tracking
@@ -608,7 +608,7 @@ export default function TestB() {
   return (
     <>
       <SEOHead
-        title="Lokale Sichtbarkeit steigern – Local Dominator"
+        title="Lokale Sichtbarkeit steigern – LocalDominate"
         description="Wir optimieren dein Google-Profil für mehr Kundenanfragen. Einmalig. Messbar. Mit Geld-zurück-Garantie."
         noindex={true}
       />

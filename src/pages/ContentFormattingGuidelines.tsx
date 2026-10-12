@@ -22,7 +22,7 @@ const ContentFormattingGuidelines = () => {
     "url": "https://localdominate.org/content-formatting-guidelines",
     "publisher": {
       "@type": "Organization",
-      "name": "Local Dominator",
+      "name": "LocalDominate",
       "url": "https://localdominate.org"
     }
   };
@@ -271,7 +271,7 @@ const ContentFormattingGuidelines = () => {
         <header className="sticky top-0 z-50 bg-background/95 backdrop-blur border-b border-border">
           <div className="container max-w-4xl py-4 flex items-center justify-between">
             <Link to="/" className="text-xl font-bold text-primary hover:text-primary/80 transition-colors">
-              Local Dominator
+              LocalDominate
             </Link>
           </div>
         </header>
@@ -302,8 +302,8 @@ const ContentFormattingGuidelines = () => {
           >
             <p className="text-foreground leading-relaxed">
               {language === "de"
-                ? "Diese Richtlinien definieren, wie wir jeden Inhalt auf Local Dominator formatieren, damit er von Google AI Overviews, Perplexity, ChatGPT und anderen KI-Systemen optimal verstanden, extrahiert und als vertrauenswürdige Quelle zitiert wird. Unser Ziel: Maximale Sichtbarkeit in der neuen, KI-gesteuerten Suchlandschaft."
-                : "These guidelines define how we format every piece of content on Local Dominator so it can be optimally understood, extracted, and cited as a trustworthy source by Google AI Overviews, Perplexity, ChatGPT, and other AI systems. Our goal: Maximum visibility in the new AI-driven search landscape."}
+                ? "Diese Richtlinien definieren, wie wir jeden Inhalt auf LocalDominate formatieren, damit er von Google AI Overviews, Perplexity, ChatGPT und anderen KI-Systemen optimal verstanden, extrahiert und als vertrauenswürdige Quelle zitiert wird. Unser Ziel: Maximale Sichtbarkeit in der neuen, KI-gesteuerten Suchlandschaft."
+                : "These guidelines define how we format every piece of content on LocalDominate so it can be optimally understood, extracted, and cited as a trustworthy source by Google AI Overviews, Perplexity, ChatGPT, and other AI systems. Our goal: Maximum visibility in the new AI-driven search landscape."}
             </p>
           </div>
 

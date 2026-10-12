@@ -9,8 +9,8 @@ published: 2026-02-10
 updated: 2026-08-08
 reading_time_minutes: 16
 category: "Technik"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
 keywords: ["lokale landing pages", "standort seiten", "geo landing pages", "multi location seo"]
 area_served: [Deutschland, Österreich, Schweiz]
