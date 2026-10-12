@@ -85,7 +85,7 @@ Der Profilname ist der echte Firmenname ohne Ort und Leistung. Als Hauptkategori
 - **Weitere Kategorien:** nur für echte eigene Geschäftsbereiche, etwa eine eigenständige Baumpflege mit eigenem Personal. Google rät ausdrücklich davon ab, für jede Leistung eine Kategorie zu wählen.
 - **Leistungen:** Gartenpflege, Heckenschnitt, Baumpflege, Pflaster und Wege, Terrassenbau, Teichbau, Rasen, Bewässerung, Zaunbau und, wenn Sie ihn anbieten, Winterdienst einzeln eintragen. Google erlaubt eigene Leistungen mit Beschreibung. Preise und Telefonnummern gehören nicht in den Namen einer Leistung.
 
-> **Einschätzung:** Googles Hilfe zu Kategorien enthält keine Gesamtliste, sondern beschreibt die Auswahl im Profil. Welche Bezeichnungen für Gartenbetriebe angeboten werden, sehen Sie im Profil selbst. Prüfen Sie zusätzlich, welche Hauptkategorie gut sichtbare Mitbewerber in Ihrer Stadt verwenden. Das zeigt, was es gibt, nicht was Sie wählen müssen.
+> **Einschätzung:** Googles Hilfe zu Kategorien verweist auf die im Profil angebotene Liste und führt sie nicht einzeln auf. Welche Bezeichnungen für Gartenbetriebe angeboten werden, sehen Sie im Profil selbst. Prüfen Sie zusätzlich, welche Hauptkategorie gut sichtbare Mitbewerber in Ihrer Stadt verwenden. Das zeigt, was es gibt, nicht was Sie wählen müssen.
 
 ## Leistungsseiten und Projektseiten statt Städteseiten
 

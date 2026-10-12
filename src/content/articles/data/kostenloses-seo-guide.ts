@@ -20,7 +20,7 @@ const article: V4Article = {
     "Kostenloses SEO braucht vor allem regelmäßige Zeit. Planen Sie feste Termine ein, statt alles an einem Wochenende zu erledigen.",
   ],
   publishedAt: "2026-01-09",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-12",
   readingTime: 13,
   sections: [
     {
@@ -229,7 +229,7 @@ const article: V4Article = {
       id: "bewertungen-erwaehnungen",
       title: "Bewertungen und Erwähnungen ohne Budget",
       answer:
-        "Bewertungen und Erwähnungen von anderen Websites tragen zur Bekanntheit bei, die Google für das lokale Ranking nennt. Beides können Sie kostenlos aufbauen, solange Sie sich an die Regeln halten.",
+        "Rezensionen und Websites, die auf Ihr Unternehmen verweisen, zählen laut Google zur Bekanntheit im lokalen Ranking. Beides können Sie kostenlos aufbauen, solange Sie sich an die Regeln halten.",
       blocks: [
         {
           t: "table",
