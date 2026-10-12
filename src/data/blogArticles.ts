@@ -1523,10 +1523,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-koeln",
     de: {
-      title: "Local SEO Köln: Rheinland-Marketing für lokale Unternehmen",
-      metaTitle: "Local SEO Köln | Rheinland-Guide 2026",
-      metaDescription: "Local SEO speziell für Köln und das Rheinland. Kölsche Keywords, Veedel-Strategien und lokale Sichtbarkeit am Dom.",
-      excerpt: "Von Ehrenfeld bis Deutz: So werden Sie in ganz Köln gefunden.",
+      title: "Local SEO in Köln: sichtbar in den Bezirken und Veedeln, die Sie wirklich bedienen",
+      metaTitle: "Local SEO Köln: gefunden werden in Bezirk und Veedel",
+      metaDescription: "Local SEO für Betriebe in Köln: wie die Entfernung in neun Stadtbezirken wirkt, wie Sie Veedel ohne Brückenseiten nennen und Ihre Sichtbarkeit im Raster messen.",
+      excerpt: "Local SEO für Betriebe in Köln: wie die Entfernung in neun Stadtbezirken wirkt, wie Sie Veedel ohne Brückenseiten nennen und Ihre Sichtbarkeit im Raster messen.",
       category: "Regionen"
     },
     en: {
@@ -1536,9 +1536,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "From Ehrenfeld to Deutz: How to be found throughout Cologne.",
       category: "Regions"
     },
-    readingTime: 15,
+    readingTime: 11,
     publishedAt: "2026-01-27",
-    updatedAt: "2026-01-27",
+    updatedAt: "2026-10-12",
     icon: "🎭",
     keywords: ["local seo köln", "seo köln", "marketing köln", "kölner unternehmen"],
     featured: false
@@ -1569,10 +1569,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-stuttgart",
     de: {
-      title: "Local SEO Stuttgart: Automobilregion & mehr",
-      metaTitle: "Local SEO Stuttgart | Baden-Württemberg Guide 2026",
-      metaDescription: "Local SEO speziell für Stuttgart und die Region. Industrie-Keywords, Zulieferer-Strategien und lokale Sichtbarkeit im Ländle.",
-      excerpt: "So werden Sie in der Automobilhauptstadt Deutschlands gefunden.",
+      title: "Local SEO in Stuttgart: sichtbar in den Stadtbezirken und Gemeinden, die Sie wirklich bedienen",
+      metaTitle: "Local SEO Stuttgart: sichtbar in den 23 Stadtbezirken",
+      metaDescription: "Local SEO für Betriebe in Stuttgart: wie die Entfernung in 23 Stadtbezirken und der Region wirkt, wie Sie Bezirke ehrlich nennen und Ihre Sichtbarkeit messen.",
+      excerpt: "Local SEO für Betriebe in Stuttgart: wie die Entfernung in 23 Stadtbezirken und der Region wirkt, wie Sie Bezirke ehrlich nennen und Ihre Sichtbarkeit messen.",
       category: "Regionen"
     },
     en: {
@@ -1582,9 +1582,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How to be found in Germany's automotive capital.",
       category: "Regions"
     },
-    readingTime: 14,
+    readingTime: 11,
     publishedAt: "2026-02-12",
-    updatedAt: "2026-02-12",
+    updatedAt: "2026-10-12",
     icon: "🚙",
     keywords: ["local seo stuttgart", "seo stuttgart", "marketing stuttgart", "schwaben seo"],
     featured: false
@@ -1592,10 +1592,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-duesseldorf",
     de: {
-      title: "Local SEO Düsseldorf: Mode, Messe & mehr Kunden",
-      metaTitle: "Local SEO Düsseldorf | NRW-Guide 2026",
-      metaDescription: "Local SEO speziell für Düsseldorf. Fashion-Keywords, Messe-Strategien und lokale Sichtbarkeit in der Landeshauptstadt NRW.",
-      excerpt: "Der Guide für Düsseldorfer Unternehmen: Von der Kö bis Flingern.",
+      title: "Local SEO in Düsseldorf: sichtbar in den Stadtteilen, die Sie wirklich bedienen",
+      metaTitle: "Local SEO Düsseldorf: sichtbar in Ihrem Stadtteil",
+      metaDescription: "Local SEO für Betriebe in Düsseldorf: wie die Entfernung in zehn Stadtbezirken wirkt, wie Sie Messen und Karneval einplanen und Ihre Sichtbarkeit messen.",
+      excerpt: "Local SEO für Betriebe in Düsseldorf: wie die Entfernung in zehn Stadtbezirken wirkt, wie Sie Messen und Karneval einplanen und Ihre Sichtbarkeit messen.",
       category: "Regionen"
     },
     en: {
@@ -1605,9 +1605,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The guide for Düsseldorf businesses: From the Kö to Flingern.",
       category: "Regions"
     },
-    readingTime: 14,
+    readingTime: 11,
     publishedAt: "2026-02-18",
-    updatedAt: "2026-02-18",
+    updatedAt: "2026-10-12",
     icon: "👔",
     keywords: ["local seo düsseldorf", "seo düsseldorf", "marketing düsseldorf", "nrw seo"],
     featured: false
@@ -1615,10 +1615,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-basel",
     de: {
-      title: "Local SEO Basel: Grenzregion Schweiz-Deutschland-Frankreich",
-      metaTitle: "Local SEO Basel | Dreiländereck-Guide 2026",
-      metaDescription: "Local SEO für Basel und das Dreiländereck. Mehrsprachige Keywords, Pharma-Branche und grenzüberschreitendes Marketing.",
-      excerpt: "Der einzigartige Guide für Basler Unternehmen im Dreiländereck.",
+      title: "Local SEO in Basel: gefunden werden im Quartier, im Kanton und jenseits der Grenze",
+      metaTitle: "Local SEO Basel: sichtbar im Quartier und über die Grenze",
+      metaDescription: "Local SEO in Basel: wie die Entfernung in 19 Stadtvierteln wirkt, wie Sie Kunden aus Deutschland und Frankreich ehrlich ansprechen und richtig messen.",
+      excerpt: "Local SEO in Basel: wie die Entfernung in 19 Stadtvierteln wirkt, wie Sie Kunden aus Deutschland und Frankreich ehrlich ansprechen und richtig messen.",
       category: "Regionen"
     },
     en: {
@@ -1628,9 +1628,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The unique guide for Basel businesses in the tri-border region.",
       category: "Regions"
     },
-    readingTime: 16,
+    readingTime: 11,
     publishedAt: "2026-02-24",
-    updatedAt: "2026-02-24",
+    updatedAt: "2026-10-12",
     icon: "🌉",
     keywords: ["local seo basel", "seo basel", "marketing basel", "dreiländereck seo"],
     featured: false
@@ -3304,10 +3304,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-hannover",
     de: {
-      title: "Local SEO Hannover: Der Guide für niedersächsische Unternehmen",
-      metaTitle: "Local SEO Hannover | Städte-Guide 2026",
-      metaDescription: "Local SEO speziell für Hannover und Region. Stadtteile, Messe-SEO, lokale Verzeichnisse und Strategien für die Landeshauptstadt.",
-      excerpt: "Von Linden bis Südstadt: So wirst du in ganz Hannover bei Google gefunden.",
+      title: "Local SEO in Hannover: sichtbar in den Stadtbezirken und Umlandorten, die Sie wirklich bedienen",
+      metaTitle: "Local SEO Hannover: sichtbar in Stadt und Region",
+      metaDescription: "Local SEO für Betriebe in Hannover: wie die Entfernung in 13 Stadtbezirken und der Region wirkt, was zur Messe zählt und wie Sie Sichtbarkeit ehrlich messen.",
+      excerpt: "Local SEO für Betriebe in Hannover: wie die Entfernung in 13 Stadtbezirken und der Region wirkt, was zur Messe zählt und wie Sie Sichtbarkeit ehrlich messen.",
       category: "Regionen"
     },
     en: {
@@ -3317,9 +3317,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "From Linden to Südstadt: How to be found throughout Hannover on Google.",
       category: "Regions"
     },
-    readingTime: 16,
+    readingTime: 11,
     publishedAt: "2026-02-16",
-    updatedAt: "2026-02-16",
+    updatedAt: "2026-10-12",
     icon: "🏛️",
     keywords: ["local seo hannover", "seo hannover", "marketing hannover", "google ranking hannover", "messe hannover seo"],
     featured: true
