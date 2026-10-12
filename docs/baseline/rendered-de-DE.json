@@ -925,7 +925,7 @@
   ],
   "ldAuthors": [],
   "ldDatePublished": "2026-03-08",
-  "ldDateModified": "2026-10-10",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/agb",
@@ -6179,7 +6179,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/kostenloses-seo-guide.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-09",
-  "articleModified": "2026-10-10",
+  "articleModified": "2026-10-12",
   "h1": [
    "Kostenloses SEO: Was Sie ohne Budget selbst erledigen können"
   ],
@@ -6207,7 +6207,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-09",
-  "ldDateModified": "2026-10-10",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -6250,7 +6250,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2665,
+  "words": 2664,
   "htmlLang": "de"
  },
  {
@@ -7085,7 +7085,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3272,
+  "words": 3276,
   "htmlLang": "de"
  },
  {
@@ -8693,7 +8693,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-fuer-restaurants.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-07",
-  "articleModified": "2026-10-10",
+  "articleModified": "2026-10-12",
   "h1": [
    "Local SEO für Restaurants: So finden Gäste Ihren Tisch"
   ],
@@ -8721,7 +8721,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-07",
-  "ldDateModified": "2026-10-10",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -8771,7 +8771,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2977,
+  "words": 2980,
   "htmlLang": "de"
  },
  {
@@ -8859,7 +8859,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3063,
+  "words": 3067,
   "htmlLang": "de"
  },
  {
@@ -9856,7 +9856,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2865,
+  "words": 2875,
   "htmlLang": "de"
  },
  {
@@ -15104,7 +15104,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/ultimate-guide-local-seo.jpg",
   "ogType": "article",
   "articlePublished": "2026-03-08",
-  "articleModified": "2026-10-10",
+  "articleModified": "2026-10-12",
   "h1": [
    "Local SEO: Der Leitfaden für lokale Unternehmen"
   ],
@@ -15132,7 +15132,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-03-08",
-  "ldDateModified": "2026-10-10",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -15179,7 +15179,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2667,
+  "words": 2671,
   "htmlLang": "de"
  },
  {
@@ -15625,34 +15625,27 @@
  {
   "path": "/blog/wie-google-maps-ranking-funktioniert",
   "finalPath": "/blog/wie-google-maps-ranking-funktioniert",
-  "title": "Google Maps Algorithmus erklärt | Nähe, Relevanz, Bekanntheit",
-  "description": "So funktioniert der Google Maps Algorithmus: Die 3 Säulen Nähe, Relevanz und Bekanntheit mit Praxis-Beispielen und Einflussfaktoren-Diagramm.",
+  "title": "Wie Google Maps Treffer auswählt: Schritt für Schritt",
+  "description": "Was bei einer Suche in Google Maps passiert: Suchanfrage, Standort, Relevanz, Entfernung, Bekanntheit, Filter, Personalisierung und Anzeigen. Mit Testmethode.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/wie-google-maps-ranking-funktioniert",
   "hreflang": [],
-  "ogTitle": "Google Maps Algorithmus erklärt | Nähe, Relevanz, Bekanntheit",
+  "ogTitle": "Wie Google Maps Treffer auswählt: Schritt für Schritt",
   "ogImage": "https://localdominate.org/images/og/blog/wie-google-maps-ranking-funktioniert.jpg",
   "ogType": "article",
   "articlePublished": "2026-03-08",
-  "articleModified": "2026-03-08",
+  "articleModified": "2026-10-12",
   "h1": [
-   "Google Maps Algorithmus erklärt: Nähe, Relevanz & Bekanntheit im Detail"
+   "Wie Google Maps entscheidet, was Sie sehen: eine Suche Schritt für Schritt"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
@@ -15662,54 +15655,56 @@
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SoftwareApplication",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-03-08",
-  "ldDateModified": "2026-03-08",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
-   "/blog/google-bewertungen-bekommen",
-   "/blog/google-business-kategorien-guide",
-   "/blog/google-maps-audit-template",
-   "/blog/google-maps-konkurrenzanalyse",
-   "/blog/google-maps-ranking-case-studies",
+   "/blog/gbp-attribute-richtig-nutzen",
+   "/blog/gbp-oeffnungszeiten-sondertage",
    "/blog/google-maps-ranking-tracker",
    "/blog/google-maps-ranking-verbessern",
-   "/blog/google-maps-seo-hub",
    "/blog/google-maps-seo-ranking-faktoren",
-   "/blog/google-maps-spam-erkennen",
-   "/blog/google-my-business-optimieren",
-   "/blog/local-link-building-blueprint",
-   "/blog/local-seo-checkliste-komplett",
-   "/blog/local-seo-fehler",
-   "/blog/local-seo-ranking-faktoren-erklaert",
-   "/blog/local-seo-vs-maps-seo",
-   "/blog/nap-konsistenz-local-seo",
+   "/blog/google-maps-seo-vs-organic-seo",
+   "/blog/ranking-ploetzlich-verschwunden",
+   "/creators",
    "/datenschutz",
-   "/handwerker-marketing",
+   "/de",
+   "/de/ki",
    "/impressum",
-   "/restaurant-marketing",
-   "/seo-lexikon"
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
+   "/industries/practices",
+   "/industries/restaurants",
+   "/industries/trades",
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 2090,
+  "images": [],
+  "words": 2598,
   "htmlLang": "de"
  },
  {
