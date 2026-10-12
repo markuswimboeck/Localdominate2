@@ -3,15 +3,15 @@ import type { V4Article } from "../types";
 const article: V4Article = {
   slug: "local-seo-friseursalon-beauty",
   lang: "de",
-  seoTitle: "Local SEO für Friseure und Beauty-Studios: Leitfaden 2026",
+  seoTitle: "SEO für Friseure und Kosmetikstudios: der Leitfaden",
   seoDescription:
-    "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
-  h1: "Local SEO für Friseursalons und Beauty-Studios: So finden Kunden Ihren Salon",
+    "SEO für Friseure, Kosmetik- und Nagelstudios: Google-Unternehmensprofil, eine Seite je Leistung, echte Bewertungen und Online-Termine nach Googles Regeln.",
+  h1: "SEO für Friseure und Kosmetikstudios: So finden Kunden Ihren Salon über Google",
   kicker: "Friseur & Beauty",
   lead:
     "Für Inhaber von Friseursalons, Kosmetik-, Nagel- und Barbershops, die bei Suchen wie „Friseur in der Nähe“ oder „Balayage [Stadt]“ gefunden werden wollen. Sie erfahren, welche Angaben Ihr Profil braucht, wie Ihre Website Leistungen erklärt und welche Bewertungsbitten Google erlaubt.",
   answer:
-    "Local SEO sorgt dafür, dass Ihr Salon bei Suchen mit Ortsbezug in Google Maps und im Kartenblock erscheint, etwa bei „Friseur in der Nähe“. Google sortiert nach **Relevanz, Entfernung und Bekanntheit**. Die wichtigsten Bausteine sind ein vollständiges Unternehmensprofil mit Ihren echten Leistungen, eine Seite je Leistung auf Ihrer Website, einheitliche Firmendaten und echte Bewertungen, um die Sie ohne Anreiz bitten.",
+    "SEO für Friseure und Kosmetikstudios ist vor allem lokale Suche: Sie sorgt dafür, dass Ihr Salon bei Suchen mit Ortsbezug in Google Maps und im Kartenblock erscheint, etwa bei „Friseur in der Nähe“. Google sortiert nach **Relevanz, Entfernung und Bekanntheit**. Die wichtigsten Bausteine sind ein vollständiges Unternehmensprofil mit Ihren echten Leistungen, eine Seite je Leistung auf Ihrer Website, einheitliche Firmendaten und echte Bewertungen, um die Sie ohne Anreiz bitten.",
   takeaways: [
     "Google sortiert lokale Ergebnisse nach Relevanz, Entfernung und Bekanntheit. Ein besseres lokales Ranking lässt sich laut Google weder anfordern noch bezahlen.",
     "Ihr Profil braucht Ihren echten Namen, eine genaue Kategorie und alle Leistungen, die Sie tatsächlich anbieten. Schlagworte im Namen sind nicht zulässig.",

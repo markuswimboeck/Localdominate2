@@ -50,6 +50,8 @@ function block(b) {
       ].join("\n");
     case "note":
       return `> **${b.label}:** ${md(b.text)}`;
+    case "code":
+      return "```" + (b.lang || "") + "\n" + b.text + "\n```";
     case "steps":
       return b.items.map((s, n) => `${n + 1}. **${s.title}.** ${md(s.text)}`).join("\n");
     default:
