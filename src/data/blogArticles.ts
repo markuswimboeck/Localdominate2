@@ -4168,7 +4168,7 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Emergency calls and renovation projects are two separate search occasions. How to serve both properly and win jobs on either side.",
       category: "Industries"
     },
-    readingTime: 13,
+    readingTime: 14,
     publishedAt: "2026-08-08",
     updatedAt: "2026-10-12",
     icon: "\u{1F525}",

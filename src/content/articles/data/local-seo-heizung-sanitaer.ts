@@ -9,7 +9,7 @@ const article: V4Article = {
   h1: "Heizung Sanitär Notdienst SEO: So finden Kunden im Notfall Ihren Betrieb",
   kicker: "Branchen",
   lead:
-    "Für Inhaber von SHK-Betrieben in Deutschland, Österreich und der Schweiz, die einen Notdienst anbieten oder anbieten wollen. Sie erfahren, wie Sie Notdienstzeiten, Rufnummer und Einzugsgebiet im Google-Unternehmensprofil richtig angeben, warum Städteseiten auf Vorrat schaden, welche Preisangaben Kunden erwarten und wie Sie Anrufe messen.",
+    "Für Inhaber von SHK-Betrieben in Deutschland, Österreich und der Schweiz, die einen Notdienst anbieten oder anbieten wollen. Sie erfahren, wie Sie Notdienstzeiten, Rufnummer und Einzugsgebiet im Google-Unternehmensprofil richtig angeben, warum Städteseiten auf Vorrat schaden, welche Preisangaben Kunden erwarten und wie Sie Anrufe messen. Dazu kommt, welche Seiten Projekte wie Heizungstausch, Wärmepumpe und Bad daneben brauchen.",
   answer:
     "Bei Heizung Sanitär Notdienst SEO zählt, dass Kunden im Notfall sofort sehen, ob Sie jetzt erreichbar sind, ob Sie in ihren Ort kommen und was der Einsatz ungefähr kostet. Dafür brauchen Sie echte Notdienstzeiten im Google-Unternehmensprofil, eine direkt erreichbare Rufnummer, ein realistisches Einzugsgebiet, eine Notdienstseite mit Preisrahmen und eine einfache Messung der Anrufe.",
   takeaways: [
@@ -18,10 +18,11 @@ const article: V4Article = {
     "Das Einzugsgebiet umfasst bis zu 20 Orte oder Postleitzahlen und sollte laut Google in der Regel nicht weiter als etwa zwei Autostunden reichen. Für den Notdienst wählen Sie besser einen kleineren Kreis.",
     "Statt zwanzig fast gleicher Städteseiten: eine starke Notdienstseite mit Einsatzorten, Anfahrtszeiten und Preisrahmen.",
     "Die Leistungsdaten im Profil zählen Klicks auf die Anruftaste, keine geführten Gespräche. Fragen Sie jeden Anrufer, wie er Sie gefunden hat.",
+    "Für Projekte daneben: eine Seite je Projektart, eine Förderseite mit Stand-Datum und Referenzen nur mit schriftlicher Zustimmung der Kunden.",
   ],
   publishedAt: "2026-08-08",
   updatedAt: "2026-10-12",
-  readingTime: 13,
+  readingTime: 14,
   sections: [
     {
       id: "notfall-suchen",
@@ -31,7 +32,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Ein SHK-Betrieb hat zwei sehr verschiedene Arten von Anfragen. Projekte wie Heizungstausch, Wärmepumpe oder Badsanierung planen Kunden über Wochen. Dieser Artikel behandelt den anderen Fall: den Notfall, in dem innerhalb von Minuten entschieden wird.",
+          text: "Ein SHK-Betrieb hat zwei sehr verschiedene Arten von Anfragen. Projekte wie Heizungstausch, Wärmepumpe oder Badsanierung planen Kunden über Wochen. Dieser Artikel behandelt vor allem den anderen Fall: den Notfall, in dem innerhalb von Minuten entschieden wird. Was Projektseiten daneben brauchen, steht im Abschnitt [Projektarbeit neben dem Notdienst](/blog/local-seo-heizung-sanitaer#projekte).",
         },
         {
           t: "p",
@@ -286,6 +287,62 @@ const article: V4Article = {
       ],
     },
     {
+      id: "projekte",
+      title: "Projektarbeit neben dem Notdienst",
+      answer:
+        "Heizungstausch, Wärmepumpe, Badsanierung und Klima planen Kunden über Wochen und vergleichen dabei Websites. Dafür braucht Ihr Betrieb je Projektart eine eigene Seite, eine Förderseite mit Stand-Datum und Referenzprojekte, die Sie nur mit schriftlicher Zustimmung der Kunden zeigen.",
+      blocks: [
+        {
+          t: "p",
+          text: "Ein Notdienstkunde ruft an, ein Projektkunde liest. Er will wissen, wie der Ablauf aussieht, ob es Förderung gibt und ob Ihr Betrieb so etwas schon gebaut hat. Eine Sammelseite „Leistungen“ beantwortet das nicht.",
+        },
+        {
+          t: "table",
+          caption: "Eine Seite je Projektart",
+          head: ["Projektseite", "Was auf die Seite gehört"],
+          rows: [
+            ["Heizungstausch", "Ablauf vom Vor-Ort-Termin bis zur Inbetriebnahme, übliche Dauer bei Ihnen, Link zur Förderseite"],
+            ["Wärmepumpe", "Was Sie beim Vor-Ort-Termin prüfen und welche Unterlagen der Kunde bereithalten sollte"],
+            ["Badsanierung", "Ablauf in Wochen, wer Fliesenleger und Elektriker koordiniert, Fotos eigener Bäder"],
+            ["Klima", "Welche Geräte Sie einbauen, Wartung, Orte, in denen Sie solche Aufträge übernehmen"],
+          ],
+        },
+        {
+          t: "p",
+          text: "Einen Preisrahmen nennen Sie nur, wenn er aus Ihren eigenen Aufträgen stammt. Sonst beschreiben Sie, wovon der Preis abhängt.",
+        },
+        {
+          t: "h3",
+          text: "Förderseite mit Stand-Datum",
+        },
+        {
+          t: "p",
+          text: "Förderbedingungen ändern sich oft. Die KfW nennt für die Heizungsförderung (Zuschuss 458) in ihrer Übersicht mit Stand 21. Juli 2026 eine Grundförderung von 30 Prozent. Der Klimageschwindigkeitsbonus und die maximal förderfähigen Kosten sinken ab dem 1. Februar 2027 halbjährlich. Laut Stiftung Warentest sind Effizienzbonus und Emissionsminderungszuschlag ersatzlos entfallen. Schreiben Sie deshalb oben auf Ihre Förderseite „Stand: [Datum]“, verlinken Sie die [Heizungsförderung der KfW](https://www.kfw.de/inlandsfoerderung/Heizungsf%C3%B6rderung/) und versprechen Sie keine Förderhöhe im Einzelfall. In Österreich und der Schweiz verlinken Sie die zuständige Stelle Ihres Landes oder Kantons.",
+        },
+        {
+          t: "h3",
+          text: "Referenzprojekte nur mit Zustimmung",
+        },
+        {
+          t: "p",
+          text: "Referenzen aus Orten Ihres Einzugsgebiets sind ehrlicher lokaler Inhalt, anders als kopierte Ortsseiten. Beschreiben Sie Ausgangslage, Lösung und Dauer und nennen Sie den Ort nur grob, etwa „im Süden von Regensburg“. Keine Hausnummern, Namensschilder oder erkennbaren Personen im Bild.",
+        },
+        {
+          t: "note",
+          label: "Einwilligung festhalten",
+          text: "Nach Art. 7 DSGVO muss, wer sich auf eine Einwilligung stützt, sie nachweisen können, und der Kunde kann sie jederzeit widerrufen. Holen Sie die Zustimmung schriftlich ein und nehmen Sie Fotos nach einem Widerruf herunter. Das ist keine Rechtsberatung. Mehr in [Fotos im Unternehmensprofil](/blog/gbp-fotos-optimieren#datenschutz).",
+        },
+        {
+          t: "h3",
+          text: "Strukturierte Daten: HVACBusiness oder Plumber",
+        },
+        {
+          t: "p",
+          text: "Schema.org kennt zwei passende Untertypen von LocalBusiness: **HVACBusiness** für Heizung, Lüftung und Klima und **Plumber** für Sanitär. Wählen Sie den Typ, der Ihrem Schwerpunkt entspricht, und tragen Sie nur ein, was sichtbar auf der Seite und gleichlautend im Profil steht: Name, Telefon, Öffnungszeiten, Einzugsgebiet. Die Umsetzung zeigt [LocalBusiness Schema implementieren](/blog/localbusiness-schema-implementierung).",
+        },
+      ],
+    },
+    {
       id: "bewertungen",
       title: "Bewertungen nach dem Notdiensteinsatz",
       answer:
@@ -338,6 +395,12 @@ const article: V4Article = {
     { title: "Kampagnendaten mithilfe benutzerdefinierter URLs erfassen", publisher: "Google Analytics-Hilfe", url: "https://support.google.com/analytics/answer/10917952?hl=de" },
     { title: "Achtung, Schein-Rohrreiniger: So entlarven Sie falsche Rohrreiniger-Notdienste (Stand 23. September 2026)", publisher: "Verbraucherzentrale NRW", url: "https://www.verbraucherzentrale.nrw/vertraege-reklamation/achtung-scheinrohrreiniger-so-entlarven-sie-falsche-rohrreinigernotdienste-109822" },
     { title: "Preisangabenverordnung (PAngV), § 12 Preisangaben für Leistungen (zuletzt geändert 12. Mai 2026)", publisher: "lxgesetze.de", url: "https://lxgesetze.de/pangv/12" },
+    { title: "Neue Bedingungen der Heizungsförderung (Infografik, Stand 21. Juli 2026)", publisher: "KfW", url: "https://www.kfw.de/PDF/Download-Center/F%C3%B6rderprogramme-(Inlandsf%C3%B6rderung)/PDF-Dokumente/Infografik_Heizungsf%C3%B6rderung_Anpassungen_Juli_2026.pdf" },
+    { title: "Aktuelle Informationen zur Heizungsförderung", publisher: "KfW", url: "https://www.kfw.de/inlandsfoerderung/Heizungsf%C3%B6rderung/" },
+    { title: "Förderung energetische Sanierung und Neubau: So viel Geld gibt's für den Heizungstausch (5. August 2026)", publisher: "Stiftung Warentest", url: "https://www.test.de/Foerderung-fuer-Haus-und-Heizung-Bis-zu-45-Prozent-Zuschuss-zur-neuen-Heizung-5561989-0/" },
+    { title: "Art. 7 DSGVO, Bedingungen für die Einwilligung", publisher: "dejure.org", url: "https://dejure.org/gesetze/DSGVO/7.html" },
+    { title: "HVACBusiness", publisher: "Schema.org", url: "https://schema.org/HVACBusiness" },
+    { title: "Plumber", publisher: "Schema.org", url: "https://schema.org/Plumber" },
   ],
   related: [
     { slug: "local-seo-elektrotechnik", title: "Local SEO für Elektriker" },
