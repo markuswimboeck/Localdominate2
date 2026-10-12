@@ -76,12 +76,12 @@
  {
   "path": "/ab-test",
   "finalPath": "/ab-test",
-  "title": "LocalDominate – Growth Studio: Brand, Website, Marketing",
-  "description": "LocalDominate plans, builds and markets your brand, website and Google presence as one project. Seven steps, scope and price in writing, free check.",
-  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-  "canonical": null,
+  "title": "A/B Test Dashboard - LocalDominate",
+  "description": "Internes A/B Test Dashboard",
+  "robots": "noindex, nofollow",
+  "canonical": "https://localdominate.org/ab-test",
   "hreflang": [],
-  "ogTitle": "LocalDominate – Growth Studio: Brand, Website, Marketing",
+  "ogTitle": "A/B Test Dashboard - LocalDominate",
   "ogImage": "https://localdominate.org/og-image.png",
   "ogType": "website",
   "articlePublished": null,
@@ -107,7 +107,7 @@
   ],
   "images": [],
   "words": 31,
-  "htmlLang": "en"
+  "htmlLang": "de"
  },
  {
   "path": "/ab-test-zentrale",
@@ -671,12 +671,12 @@
  {
   "path": "/analytics",
   "finalPath": "/analytics",
-  "title": "LocalDominate – Growth Studio: Brand, Website, Marketing",
-  "description": "LocalDominate plans, builds and markets your brand, website and Google presence as one project. Seven steps, scope and price in writing, free check.",
-  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-  "canonical": null,
+  "title": "Analytics Dashboard - LocalDominate",
+  "description": "Internes Analytics Dashboard",
+  "robots": "noindex, nofollow",
+  "canonical": "https://localdominate.org/analytics",
   "hreflang": [],
-  "ogTitle": "LocalDominate – Growth Studio: Brand, Website, Marketing",
+  "ogTitle": "Analytics Dashboard - LocalDominate",
   "ogImage": "https://localdominate.org/og-image.png",
   "ogType": "website",
   "articlePublished": null,
@@ -702,7 +702,7 @@
   ],
   "images": [],
   "words": 30,
-  "htmlLang": "en"
+  "htmlLang": "de"
  },
  {
   "path": "/anwalt-marketing",
