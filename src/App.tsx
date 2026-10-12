@@ -8,6 +8,7 @@ import { LanguageProvider } from "./i18n/LanguageContext";
 import { ABTestProvider } from "@/hooks/useABTest";
 import ErrorBoundary from "@/components/ErrorBoundary";
 import { AfterMount } from "@/components/v4/AfterMount";
+import SalesChatMount from "@/components/salesChat/SalesChatMount";
 import { lazyV4Page } from "@/lib/v4Pages";
 import { V4_ARTICLE_SLUGS, v4ArticlePath } from "@/content/articles";
 import { AUDIENCE_SLUGS, audiencePath } from "@/data/v4AudienceSlugs";
@@ -309,6 +310,9 @@ const App = () => (
                 <Route path="*" element={<NotFound />} />
               </Routes>
             </Suspense>
+            <AfterMount>
+              <SalesChatMount />
+            </AfterMount>
           </BrowserRouter>
         </TooltipProvider>
       </LanguageProvider>
