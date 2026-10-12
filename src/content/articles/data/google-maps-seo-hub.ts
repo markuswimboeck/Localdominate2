@@ -34,9 +34,8 @@ const article: V4Article = {
           t: "ul",
           items: [
             "[Google-Maps-Ranking-Faktoren](/blog/google-maps-seo-ranking-faktoren): was Google bestätigt, was Fachleute vermuten und was verboten ist.",
-            "[Wie das Google-Maps-Ranking funktioniert](/blog/wie-google-maps-ranking-funktioniert): Nähe, Relevanz und Bekanntheit im Einzelnen.",
-            "[Local-SEO-Ranking-Faktoren erklärt](/blog/local-seo-ranking-faktoren-erklaert): die Signale für Maps und die normalen Suchtreffer zusammen.",
-            "[Local SEO und Maps SEO: der Unterschied](/blog/local-seo-vs-maps-seo) sowie [Google Maps SEO und organisches SEO im Vergleich](/blog/google-maps-seo-vs-organic-seo).",
+            "[Lokale Suchmaschinenoptimierung 2026](/blog/lokale-suchmaschinenoptimierung-2026): was sich in der lokalen Suche geändert hat und was Sie jetzt tun sollten.",
+            "[Local SEO und Maps SEO: der Unterschied](/blog/local-seo-vs-maps-seo): wann Sie was brauchen.",
           ],
         },
       ],

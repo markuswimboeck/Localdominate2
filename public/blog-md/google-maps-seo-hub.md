@@ -36,9 +36,8 @@ Google sortiert Treffer in Maps nach **Relevanz, Entfernung und Bekanntheit**. E
 Bevor Sie etwas ändern, lohnt der Blick darauf, was Google selbst bestätigt und was nur vermutet wird. Diese Anleitungen trennen beides.
 
 - [Google-Maps-Ranking-Faktoren](https://localdominate.org/blog/google-maps-seo-ranking-faktoren): was Google bestätigt, was Fachleute vermuten und was verboten ist.
-- [Wie das Google-Maps-Ranking funktioniert](https://localdominate.org/blog/wie-google-maps-ranking-funktioniert): Nähe, Relevanz und Bekanntheit im Einzelnen.
-- [Local-SEO-Ranking-Faktoren erklärt](https://localdominate.org/blog/local-seo-ranking-faktoren-erklaert): die Signale für Maps und die normalen Suchtreffer zusammen.
-- [Local SEO und Maps SEO: der Unterschied](https://localdominate.org/blog/local-seo-vs-maps-seo) sowie [Google Maps SEO und organisches SEO im Vergleich](https://localdominate.org/blog/google-maps-seo-vs-organic-seo).
+- [Lokale Suchmaschinenoptimierung 2026](https://localdominate.org/blog/lokale-suchmaschinenoptimierung-2026): was sich in der lokalen Suche geändert hat und was Sie jetzt tun sollten.
+- [Local SEO und Maps SEO: der Unterschied](https://localdominate.org/blog/local-seo-vs-maps-seo): wann Sie was brauchen.
 
 ## Messen: wo Sie heute stehen
 
