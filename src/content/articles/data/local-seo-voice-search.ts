@@ -20,7 +20,7 @@ const article: V4Article = {
     "Sprachanfragen lassen sich nicht getrennt messen. Anrufe und Routenanfragen im Unternehmensprofil sowie eigene Sprechproben sind die brauchbaren Hinweise.",
   ],
   publishedAt: "2026-01-25",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 12,
   sections: [
     {
@@ -56,7 +56,7 @@ const article: V4Article = {
       id: "wo-gesprochen-wird",
       title: "Wo Ihre Kunden heute sprechen",
       answer:
-        "Gesprochen wird vor allem in der Google-App, in Google Maps, mit Gemini auf Android-Smartphones und mit Siri auf Apple-Geräten. Die Antworten stammen aus den Daten der jeweiligen Suche und Karte, nicht aus einem eigenen Sprachverzeichnis. Welche Quellen jeder Assistent nutzt, beschreibt unser Artikel zu den Sprachassistenten.",
+        "Gesprochen wird vor allem in der Google-App, in Google Maps, mit Gemini auf Android-Smartphones und mit Siri auf Apple-Geräten. Soweit Google und Apple es beschreiben, stammen die Antworten aus den Daten der jeweiligen Suche und Karte; ein eigenes Sprachverzeichnis haben wir bei keinem Anbieter gefunden. Welche Quellen jeder Assistent nutzt, beschreibt unser Artikel zu den Sprachassistenten.",
       blocks: [
         {
           t: "table",
@@ -72,7 +72,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Auf seinen Hilfeseiten nennt Google für den Wechsel von Google Assistant zu Gemini kein festes Datum. Laut einer E-Mail von Google, die Fachmedien zitieren, wird der Wechsel auf Smartphones ab dem 4. September 2026 schrittweise verpflichtend. Die Gemini-Hilfe beschreibt den Wechsel zurück allerdings noch. Alexa, Siri und Gemini im Detail, mit Datenquellen und Verfügbarkeit in Deutschland, Österreich und der Schweiz, behandelt [Sprachassistenten und Local SEO](/blog/voice-search-sprachassistenten-local-seo-2026). Hier geht es nur um die Angaben, die Sie selbst pflegen.",
+          text: "Auf seinen Hilfeseiten nennt Google für den Wechsel von Google Assistant zu Gemini kein festes Datum. Laut einem Bericht von 9to5Google über eine E-Mail von Google an Nutzer wird der Wechsel auf Smartphones ab dem 4. September 2026 schrittweise verpflichtend. Die Gemini-Hilfe beschreibt den Wechsel zurück allerdings noch. Alexa, Siri und Gemini im Detail, mit Datenquellen und Verfügbarkeit in Deutschland, Österreich und der Schweiz, behandelt [Sprachassistenten und Local SEO](/blog/voice-search-sprachassistenten-local-seo-2026). Hier geht es nur um die Angaben, die Sie selbst pflegen.",
         },
         {
           t: "note",
@@ -301,7 +301,7 @@ const article: V4Article = {
     },
     {
       q: "Gibt es Google Assistant noch?",
-      a: "Auf Smartphones ersetzt Google den Assistant durch Gemini, laut Fachmedien für viele Nutzer verpflichtend seit September 2026. Auf Lautsprechern und Displays läuft laut Google-Hilfe weiterhin Assistant, außer in Haushalten, die zu Gemini for Home gewechselt sind. Das ist in Deutschland, Österreich und der Schweiz als Vorabzugang verfügbar. Für Ihren Betrieb ändert das wenig, weil beide auf Google-Daten zugreifen.",
+      a: "Auf Smartphones ersetzt Google den Assistant durch Gemini, laut einem Bericht von 9to5Google über eine E-Mail von Google schrittweise verpflichtend ab dem 4. September 2026. Auf Lautsprechern und Displays läuft laut Google-Hilfe weiterhin Assistant, außer in Haushalten, die zu Gemini for Home gewechselt sind. Das ist in Deutschland, Österreich und der Schweiz als Vorabzugang verfügbar. Für Ihren Betrieb ändert das wenig, weil beide auf Google-Daten zugreifen.",
     },
   ],
   sources: [
@@ -311,7 +311,7 @@ const article: V4Article = {
     { title: "Der KI-Modus startet in Deutschland, Österreich und der Schweiz (8. Oktober 2025)", publisher: "Google Blog Deutschland", url: "https://blog.google/intl/de-de/produkte/suchen-entdecken/ki-modus-startet-in-dach/" },
     { title: "Search Live is expanding globally (26. März 2026)", publisher: "Google Blog", url: "https://blog.google/products-and-platforms/products/search/search-live-global-expansion" },
     { title: "Get started with the Gemini mobile app (Android)", publisher: "Gemini Apps-Hilfe", url: "https://support.google.com/gemini/answer/14554984?hl=en" },
-    { title: "It's official: Gemini will completely replace the Google Assistant on phones next month (10. August 2026)", publisher: "Chrome Unboxed", url: "https://chromeunboxed.com/its-official-gemini-will-completely-replace-the-google-assistant-on-phones-next-month/" },
+    { title: "Google Assistant shutting down on Android and Wear OS in September (4. August 2026)", publisher: "9to5Google", url: "https://9to5google.com/2026-08-04/google-assistant-september-2026-shutdown/" },
     { title: "Gemini hilft euch beim Navigieren in Google Maps (5. November 2025)", publisher: "Google Blog Deutschland", url: "https://blog.google/intl/de-de/produkte/suchen-entdecken/gemini-in-google-maps/" },
     { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
     { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },

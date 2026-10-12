@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/voice-search-sprachassistenten-local-s
 markdown_url: https://localdominate.org/blog-md/voice-search-sprachassistenten-local-seo-2026.md
 language: de-DE
 published: 2026-05-22
-updated: 2026-10-11
+updated: 2026-10-12
 reading_time_minutes: 12
 category: "Sprachsuche"
 author: LocalDominate Redaktion
@@ -21,7 +21,7 @@ Für Inhaber lokaler Betriebe, die wissen wollen, was Siri, Gemini und Alexa heu
 
 ## Die kurze Antwort
 
-Sprachassistenten beantworten lokale Fragen aus Kartendaten, die Sie selbst pflegen können: Apple nennt Siri als Kanal von Apple Business, Gemini arbeitet in Google Maps. Für Alexa nennt Amazon keine Quelle für Ortsdaten. In Deutschland, Österreich und der Schweiz laufen die neuen KI-Assistenten im Oktober 2026 erst teilweise. Am meisten bringen korrekte Öffnungszeiten, Telefonnummer und Adresse in Apple Business und im Google-Unternehmensprofil.
+Für lokale Fragen verweisen Apple und Google auf Kartendaten, die Sie selbst pflegen können: Apple nennt Siri als Kanal von Apple Business, Gemini arbeitet in Google Maps. Für Alexa nennt Amazon keine Quelle für Ortsdaten. In Deutschland, Österreich und der Schweiz laufen die neuen KI-Assistenten im Oktober 2026 erst teilweise. Am meisten bringen korrekte Öffnungszeiten, Telefonnummer und Adresse in Apple Business und im Google-Unternehmensprofil.
 
 ## Das Wichtigste in Kürze
 
@@ -43,14 +43,14 @@ Für einen Betrieb in Linz, Freiburg oder St. Gallen ändert sich dadurch wenige
 
 ## Die Assistenten im Überblick
 
-Siri bezieht Ortsangaben laut Apple aus dem Umfeld von Apple Karten und Apple Business, Gemini arbeitet in Google Maps mit Ihrem Unternehmensprofil, und für Alexa nennt Amazon keine Quelle. Die Tabelle zeigt den Stand, den die Anbieter im September und Oktober 2026 dokumentieren.
+Apple nennt Siri als Kanal von Apple Business, dem Werkzeug für Ihren Eintrag in Apple Karten, Gemini arbeitet in Google Maps mit Ihrem Unternehmensprofil, und für Alexa nennt Amazon keine Quelle. Die Tabelle zeigt den Stand, den die Anbieter im September und Oktober 2026 dokumentieren.
 
 *Sprachassistenten in Deutschland, Österreich und der Schweiz (Stand der Anbieterseiten, Oktober 2026)*
 
 | Assistent | Stand in DACH | Woher Ortsangaben kommen | Was Sie pflegen |
 | --- | --- | --- | --- |
 | Siri (Apple) | Bisherige Siri mit Apple Intelligence auf Deutsch; die neue Siri AI laut Apple nur Englisch und in der EU nicht auf dem iPhone | Apple nennt Siri als Kanal von Apple Business; Applebot-Daten speisen laut Apple auch Siri | Ortskarte in Apple Business, Website für Applebot lesbar |
-| Gemini (Google) auf dem Smartphone | Ersetzt den Google Assistant schrittweise; laut einer von Fachmedien zitierten E-Mail von Google ab 4. September 2026 verpflichtend, die Gemini-Hilfe beschreibt den Wechsel zurück aber noch | In Google Maps beantwortet Gemini Fragen zu Orten; die Maps-Angaben steuern Sie über das Unternehmensprofil | Google-Unternehmensprofil, Sonderöffnungszeiten |
+| Gemini (Google) auf dem Smartphone | Ersetzt den Google Assistant schrittweise; laut einem Bericht von 9to5Google über eine E-Mail von Google ab 4. September 2026 verpflichtend, die Gemini-Hilfe beschreibt den Wechsel zurück aber noch | In Google Maps beantwortet Gemini Fragen zu Orten; die Maps-Angaben steuern Sie über das Unternehmensprofil | Google-Unternehmensprofil, Sonderöffnungszeiten |
 | Gemini for Home (Lautsprecher, Displays) | Vorabzugang in Deutschland, Österreich und der Schweiz | Von Google für lokale Einträge nicht gesondert beschrieben | Wie oben |
 | Alexa und Alexa+ (Amazon) | Alexa+ im Vorabzugang in Deutschland und Österreich; Schweiz nicht genannt | Von Amazon nicht dokumentiert; ältere Berichte aus den USA nennen Yelp und Yext | Einheitliche Daten auf allen verbreiteten Plattformen |
 
@@ -58,7 +58,7 @@ Die Tabelle zeigt auch, wo der größte Hebel liegt: Zwei der drei Anbieter verb
 
 ## Siri und Apple Karten
 
-Apple nennt Siri ausdrücklich als einen der Orte, an denen Apple Business Betriebe mit Kunden verbindet. Ihre Ortskarte in Apple Business ist deshalb die wichtigste Stellschraube für Siri. Die neue Siri AI ist laut Apple im Oktober 2026 nur auf Englisch verfügbar und in der EU nicht auf iPhone und iPad.
+Apple nennt Siri ausdrücklich als einen der Orte, an denen Apple Business Betriebe mit Kunden verbindet. Ihre Ortskarte in Apple Business ist deshalb nach unserer Einschätzung die wichtigste Stellschraube für Siri. Die neue Siri AI ist laut Apple-Hilfe derzeit auf Englisch verfügbar, fünf weitere Sprachen hat Apple für Oktober angekündigt, Deutsch nicht. In der EU gibt es sie nicht auf iPhone und iPad.
 
 Seit dem 14. April 2026 hat Apple Business das frühere Apple Business Connect ersetzt. In der Ankündigung schreibt Apple, Betriebe könnten Kunden über Apple Karten, Mail, Wallet, Siri und weitere Dienste erreichen. Wie Siri die Daten im Einzelnen verwendet, beschreibt Apple nicht. Laut Apples Übersicht ist die Marken- und Standortverwaltung in Deutschland, Österreich und der Schweiz verfügbar. Einrichtung und Pflege der Ortskarte erklärt [Apple Business Connect 2026](https://localdominate.org/blog/apple-business-connect-local-seo-2026), den Stand je Land der Abschnitt [Verfügbarkeit in DACH](https://localdominate.org/blog/apple-business-connect-local-seo-2026#verfuegbarkeit-dach).
 
@@ -79,8 +79,8 @@ Google hat im März 2025 angekündigt, den Google Assistant auf Smartphones durc
 | Datum | Was passiert ist |
 | --- | --- |
 | 14. März 2025 | Google kündigt an, Nutzer auf Mobilgeräten vom Assistant auf Gemini umzustellen; der klassische Assistant solle später im Jahr auf den meisten Mobilgeräten nicht mehr nutzbar sein |
-| 20. Dezember 2025 | Laut Fachpresse passt Google den Zeitplan an und setzt die Umstellung auf Mobilgeräten bis ins Jahr 2026 fort (berichtet, Beitrag im Gemini-Forum) |
-| 10. August 2026 | Laut Fachpresse kündigt Google per E-Mail an, die Umstellung auf Smartphones ab dem 4. September 2026 schrittweise verpflichtend zu machen; ein Wechsel zurück sei danach nicht mehr möglich (berichtet) |
+| 20. Dezember 2025 | Laut Bericht von PPC Land passt Google den Zeitplan in einem Beitrag im Gemini-Forum an und setzt die Umstellung auf Mobilgeräten bis ins Jahr 2026 fort |
+| 4. August 2026 | Laut Bericht von 9to5Google kündigt Google per E-Mail an, den Assistant auf Smartphones ab dem 4. September 2026 schrittweise abzuschalten; ein Wechsel zurück sei danach nicht mehr möglich |
 | Stand Oktober 2026 | Die Gemini-Hilfe beschreibt weiterhin, wie Nutzer auf dem Android-Smartphone zum Google Assistant zurückwechseln können |
 | Stand Oktober 2026 | Gemini for Home ist laut Google-Hilfe in Deutschland, Österreich und der Schweiz als Vorabzugang verfügbar; ein Haushalt, der umgestellt hat, kann nicht zurück |
 | 4. August 2026 | Google bringt den Google Home Speaker für Gemini in Deutschland in den Handel |
@@ -93,13 +93,13 @@ Für lokale Betriebe ist der Ort entscheidend, an dem Gemini Orte sucht. In der 
 
 Alexa+ ist laut Amazon in Deutschland und Österreich als Vorabzugang verfügbar, die Schweiz nennt Amazon nicht. Welche Quellen Alexa für Angaben zu lokalen Betrieben nutzt, dokumentiert Amazon nicht. Ein Werkzeug, mit dem Betriebe ihren Eintrag bei Alexa selbst pflegen, haben wir bei Amazon nicht gefunden.
 
-Amazon hat Alexa+ im Februar 2025 vorgestellt. In der Fassung vom 21. Juli 2026 schreibt Amazon, Alexa+ sei in den USA und Kanada für alle Kunden verfügbar und unter anderem in Deutschland, Österreich, Großbritannien, Frankreich, Italien und Spanien im Vorabzugang. Deutsche Fachmedien berichteten den offiziellen Start des Vorabzugangs in Deutschland am 7. Mai 2026.
+Amazon hat Alexa+ im Februar 2025 vorgestellt. In der Fassung vom 21. Juli 2026 schreibt Amazon, Alexa+ sei in den USA und Kanada für alle Kunden verfügbar und unter anderem in Deutschland, Österreich, Großbritannien, Frankreich, Italien und Spanien im Vorabzugang. Laut Amazon begann der Vorabzugang in Deutschland und Österreich am 7. Mai 2026.
 
 Laut Amazon verbindet Alexa+ große Sprachmodelle mit dem bisherigen Wissen von Alexa und kann selbstständig im Web navigieren, um Aufgaben zu erledigen. Als Beispiele nennt Amazon Reservierungen und Termine über OpenTable und Vagaro sowie die Suche nach Handwerkern über Thumbtack. Ob diese Partner in Deutschland oder Österreich angebunden sind, schreibt Amazon nicht. Was KI-Agenten bei Buchungen heute leisten, beschreibt [KI-Agenten und lokale Buchungen](https://localdominate.org/blog/ai-agents-lokale-buchungen-2026).
 
 > **Was über Alexa und Ortsdaten berichtet wurde:** Search Engine Land berichtete über US-Beispiele, dass lokale Angaben des Echo von Yelp stammten. 2018 meldete onlinemarketing.de unter Berufung auf Bloomberg eine Zusammenarbeit mit Yext für Firmendaten, zunächst in den USA. Beides sind ältere Berichte aus den USA, keine aktuelle Aussage von Amazon für DACH. Die Behauptung „Alexa nutzt Bing Places“ haben wir in keiner Amazon-Quelle gefunden.
 
-Unsere Einschätzung: Solange Amazon keine Quelle nennt, gibt es für Alexa keine gezielte Maßnahme. Der einzige sinnvolle Schritt ist, Ihre Angaben auf allen verbreiteten Plattformen einheitlich zu halten. Wie Sie das prüfen, beschreibt [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo). Bing Places gehört dazu, allerdings wegen Bing und Copilot, nicht wegen Alexa.
+Unsere Einschätzung: Solange Amazon keine Quelle nennt, gibt es für Alexa keine gezielte Maßnahme. Der einzige sinnvolle Schritt ist, Ihre Angaben auf allen verbreiteten Plattformen einheitlich zu halten. Wie Sie das prüfen, beschreibt [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo). Bing Places gehört dazu, allerdings wegen Bing, nicht wegen Alexa.
 
 ## Verbreitete Aussagen und was belegt ist
 
@@ -110,7 +110,7 @@ Viele Ratschläge zur Sprachsuche beruhen auf erfundenen Zahlen oder überholten
 | Aussage | Stand |
 | --- | --- |
 | „Ein Drittel der mobilen lokalen Suchen in DACH beginnt per Sprache“ | Keine Quelle mit nachvollziehbarer Methode gefunden. Nicht belegt. |
-| „Alexa nutzt Bing Places, Siri nutzt ChatGPT als Rückfall“ | Für Alexa nennt Amazon keine Quelle. Für die neue Siri AI nennt Apple keinen Modellanbieter. Nicht belegt. |
+| „Alexa nutzt Bing Places, Siri nutzt ChatGPT als Rückfall“ | Für Alexa nennt Amazon keine Quelle. Für die neue Siri AI nennt Apple die eigenen Apple Foundation Models, ChatGPT kommt in der Ankündigung nicht vor. Nicht belegt. |
 | „Plattform-Vollständigkeit zählt 25 Prozent, Bewertungen 20 Prozent“ | Kein Anbieter veröffentlicht solche Gewichte. Erfunden. |
 | „FAQ-Markup bringt Sie in Sprachantworten“ | FAQ-Rich-Results zeigt Google nicht mehr. Für Sprachassistenten dokumentiert kein Anbieter eine Wirkung von FAQ-Markup. |
 | „Erste Effekte nach vier bis acht Wochen“ | Kein Anbieter nennt Zeiträume. Niemand kann eine Platzierung in Sprachantworten garantieren. |
@@ -153,7 +153,7 @@ Laut Apple ist Siri AI im September 2026 nur auf Englisch verfügbar und für iP
 
 ### Ist der Google Assistant schon abgeschaltet?
 
-Nicht vollständig. Google stellt Smartphones schrittweise auf Gemini um, laut Fachmedien ab dem 4. September 2026 verpflichtend. Die Gemini-Hilfe beschreibt den Wechsel zurück zum Assistant allerdings noch. Auf Lautsprechern und Displays ist Gemini for Home in Deutschland, Österreich und der Schweiz als Vorabzugang verfügbar.
+Nicht vollständig. Google stellt Smartphones schrittweise auf Gemini um, laut einem Bericht von 9to5Google über eine E-Mail von Google ab dem 4. September 2026 verpflichtend. Die Gemini-Hilfe beschreibt den Wechsel zurück zum Assistant allerdings noch. Auf Lautsprechern und Displays ist Gemini for Home in Deutschland, Österreich und der Schweiz als Vorabzugang verfügbar.
 
 ### Wie komme ich in die Antworten von Alexa?
 
@@ -174,6 +174,8 @@ Nein. Keiner der Anbieter veröffentlicht, wie er Betriebe für Sprachantworten 
 - [Maintain location information accuracy with Apple Business](https://support.apple.com/guide/business/maintain-location-information-accuracy-abcb91c1d565/web), Apple Business Hilfe
 - [How to get Siri AI (22. September 2026)](https://support.apple.com/en-us/127893), Apple Support
 - [How to get the next generation of Apple Intelligence (14. September 2026)](https://support.apple.com/en-us/121115), Apple Support
+- [Apple introduces Siri AI, a profoundly more capable and personal assistant (8. Juni 2026)](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/), Apple Newsroom
+- [Major updates for Apple’s software platforms are now available (14. September 2026)](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/), Apple Newsroom
 - [About Applebot (4. September 2026)](https://support.apple.com/en-us/119829), Apple Support
 - [The Assistant experience on mobile is upgrading to Gemini (14. März 2025)](https://blog.google/products/gemini/google-assistant-gemini-mobile/), Google Blog
 - [Google delays Gemini's complete takeover of Assistant until 2026 (23. Dezember 2025)](https://ppc.land/google-delays-geminis-complete-takeover-of-assistant-until-2026/), PPC Land
@@ -189,11 +191,11 @@ Nein. Keiner der Anbieter veröffentlicht, wie er Betriebe für Sprachantworten 
 - [Prohibited & restricted content (Maps User Generated Content Policy)](https://support.google.com/contributionpolicy/answer/7400114?hl=en), Google
 - [Latest documentation updates (FAQ-Rich-Results eingestellt am 7. Mai 2026, Dokumentation entfernt am 15. Juni 2026)](https://developers.google.com/search/updates), Google Search Central
 - [Introducing Alexa+, the next generation of Alexa (26. Februar 2025, aktualisiert 21. Juli 2026)](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence), Amazon
-- [Amazon Alexa+ startet offiziell in Deutschland (7. Mai 2026)](https://www.mobiflip.de/amazon-alexa-plus-deutschland/), mobiFlip
+- [Alexa+ arrives in India as Amazon’s next-generation AI assistant expands internationally (mit Abschnitten zu Deutschland und Österreich, Stand 16. September 2026)](https://aboutamazon.com/news/devices/alexa-plus-international-launch), Amazon
 - [Amazon Echo Now Offers Local Search With Help From Yelp](https://searchengineland.com/amazon-echo-now-offers-local-search-with-help-from-yelp-234433), Search Engine Land
 - [Amazons Alexa: sprachbasiertes Knowledge Panel für Geschäfte (27. Juli 2018)](https://onlinemarketing.de/news/amazons-alexa-sprachbasiertes-knowledge-panel-geschaefte), OnlineMarketing.de
-- [It's official: Gemini will completely replace the Google Assistant on phones next month (10. August 2026)](https://chromeunboxed.com/its-official-gemini-will-completely-replace-the-google-assistant-on-phones-next-month/), Chrome Unboxed
+- [Google Assistant shutting down on Android and Wear OS in September (4. August 2026)](https://9to5google.com/2026-08-04/google-assistant-september-2026-shutdown/), 9to5Google
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
