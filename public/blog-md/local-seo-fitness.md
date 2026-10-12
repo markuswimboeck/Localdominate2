@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-fitness
 markdown_url: https://localdominate.org/blog-md/local-seo-fitness.md
 language: de-DE
 published: 2026-02-04
-updated: 2026-10-10
+updated: 2026-10-12
 reading_time_minutes: 13
 category: "Branchen"
 author: LocalDominate Redaktion
@@ -85,7 +85,7 @@ Googles Richtlinien gelten für Betriebe mit einem Standort, den Kunden besuchen
 | --- | --- |
 | Angestellt in einem Studio | Kein eigenes Profil. Sie erscheinen über das Profil und die Website des Studios. |
 | Selbstständig mit eigenem Trainingsraum und Schild | Eigenes Profil mit Adresse, wenn Sie während der angegebenen Zeiten dort erreichbar sind. |
-| Selbstständig, Training bei Kunden zu Hause oder im Park | Profil als Unternehmen mit Einzugsgebiet, die Privatadresse wird ausgeblendet. Das Einzugsgebiet soll in der Regel nicht weiter als etwa zwei Autostunden reichen. |
+| Selbstständig, Training bei Kunden zu Hause | Profil als Unternehmen mit Einzugsgebiet, die Privatadresse wird ausgeblendet. Das Einzugsgebiet soll in der Regel nicht weiter als etwa zwei Autostunden reichen. |
 | Selbstständig, aber Training nur online | Kein Unternehmensprofil, weil kein persönlicher Kundenkontakt stattfindet. |
 | Mehrere selbstständige Trainer in einem gemeinsamen Raum | Der Standort kann ein eigenes Profil haben. Profile der einzelnen Trainer tragen nur den Namen der Person. |
 
@@ -95,16 +95,16 @@ Für Personal Trainer ist die eigene Website oft wichtiger als für Studios. Bes
 
 Sie dürfen alle Mitglieder um eine ehrliche Bewertung bitten, per Link oder QR-Code. Verboten sind Gegenleistungen, das gezielte Fragen nur zufriedener Mitglieder, Druck vor Ort und Vorgaben an Trainer, eine Zahl von Bewertungen einzuholen.
 
-Laut Google können mehr Rezensionen und positive Bewertungen das lokale Ranking verbessern. Gleichzeitig sind Googles Regeln gerade bei den in Studios beliebten Aktionen streng. Ein Gratis-Shake, ein Monat geschenkt oder eine Verlosung unter allen, die bewerten, gilt als Anreiz und ist verboten. Google kann solche Rezensionen entfernen und das Profil einschränken, etwa indem es für eine Zeit keine neuen Rezensionen annimmt oder einen Warnhinweis anzeigt.
+Laut Google können mehr Rezensionen und positive Bewertungen das lokale Ranking verbessern. Gleichzeitig sind Googles Regeln gerade bei den in Studios beliebten Aktionen streng. Ein Gratis-Shake, ein geschenkter Monat oder ein Rabatt für eine Bewertung gilt als Anreiz und ist verboten. Das gilt nach unserer Einschätzung auch für eine Verlosung unter allen, die bewerten. Google kann solche Rezensionen entfernen und das Profil einschränken, etwa indem es für eine Zeit keine neuen Rezensionen annimmt oder einen Warnhinweis anzeigt.
 
 *Was Googles Richtlinien für Rezensionen erlauben*
 
 | Erlaubt | Nicht erlaubt |
 | --- | --- |
 | Alle Mitglieder um eine ehrliche Bewertung bitten | Nur Mitglieder fragen, von denen Sie Lob erwarten |
-| Link in der Willkommensmail oder QR-Code am Empfang | Mitglieder vor Ort drängen, die Bewertung sofort zu schreiben |
-| Auf jede Bewertung sachlich antworten | Getränke, Rabatte, Probemonate oder Verlosungen als Gegenleistung |
-| Trainer erinnern, auf den Bewertungslink hinzuweisen | Trainern Quoten vorgeben oder um Bewertungen bitten, die ihren Namen nennen |
+| Link in der Willkommensmail, in der Nachfass-Mail oder auf der Rechnung | Mitglieder im Studio auffordern oder drängen, die Bewertung sofort zu schreiben |
+| Auf jede Bewertung sachlich antworten | Getränke, Rabatte oder Probemonate als Gegenleistung (Verlosungen nach unserer Einschätzung ebenfalls) |
+| Trainer über die Regeln informieren, keine Quote und keine Vorgaben zum Inhalt | Trainern Quoten vorgeben oder um Bewertungen bitten, die ihren Namen nennen |
 
 ### Gute Zeitpunkte für die Bitte
 
@@ -145,7 +145,7 @@ Zeigen Sie echte, aktuelle Bilder von Eingang, Trainingsfläche, Kursräumen und
 Google beschreibt Fotos und Videos als Möglichkeit, Kunden zu zeigen, was Sie anbieten. Dass sie das Ranking direkt verbessern, sagt Google nicht. Für Interessenten sind sie trotzdem entscheidend, weil ein Studio eine Umgebung ist, in der man sich wohlfühlen will.
 
 - **Pflichtbilder:** Außenansicht und Eingang, Empfang, Trainingsfläche zu einer normalen Zeit, Kursräume, Umkleiden, Team.
-- **Mitglieder im Bild** nur mit Einwilligung. In Deutschland verlangt § 22 KUG die Einwilligung der abgebildeten Person, bewahren Sie sie schriftlich auf.
+- **Mitglieder im Bild** nur mit Einwilligung. In Deutschland verlangt § 22 KUG grundsätzlich die Einwilligung der abgebildeten Person. Bewahren Sie sie nachweisbar auf, am besten schriftlich. Daneben kann die DSGVO gelten, lassen Sie das im Zweifel rechtlich prüfen.
 - **Keine Fremdbilder** als eigene ausgeben. Stockfotos von fremden Studios täuschen und widersprechen Googles Regeln gegen irreführende Inhalte.
 
 > **Vorsicht bei Erfolgsversprechen:** Aussagen wie „10 Kilo in 4 Wochen“ sind Angaben über zu erwartende Ergebnisse. Sind sie nicht belegbar, gelten sie nach § 5 UWG als irreführend. Erzählen Sie lieber die Geschichte eines echten Mitglieds mit dessen Zustimmung, mit realistischem Zeitraum und dem Hinweis, dass Ergebnisse von Person zu Person verschieden sind.
@@ -163,14 +163,14 @@ In vielen Ratgebern stehen Keyword-Kalender mit Monatsangaben und Prozentwerten.
 
 Wie Sie solche Termine über das Jahr einplanen, zeigt [Local Content Marketing](https://localdominate.org/blog/local-content-marketing#redaktionsplan).
 
-## Lokale Partner und Erwähnungen
+## Lokale Partner und Verweise auf Ihre Website
 
 Google zählt Websites, die auf Ihr Unternehmen verweisen, zur Bekanntheit. Für Studios entstehen solche Verweise am ehesten aus echten Kooperationen in der Nachbarschaft.
 
-- **Physiotherapie und Arztpraxen:** gegenseitige Empfehlung für Training nach der Therapie, mit Nennung auf der Partnerseite.
+- **Physiotherapie und Arztpraxen:** gegenseitige Empfehlung für Training nach der Therapie, mit Link auf der Partnerseite.
 - **Betriebe in der Nähe:** Firmenfitness mit einer Seite im Intranet oder auf der Karriereseite des Arbeitgebers.
-- **Sportvereine:** Krafttraining für Mannschaften in der Vorbereitung, Erwähnung auf der Vereinsseite.
-- **Lokale Medien:** Bericht zu einem echten Anlass wie Eröffnung, Umbau oder einem offenen Lauftreff.
+- **Sportvereine:** Krafttraining für Mannschaften in der Vorbereitung, Link auf der Vereinsseite.
+- **Lokale Medien:** Bericht mit Link auf Ihre Website zu einem echten Anlass wie Eröffnung, Umbau oder einem offenen Lauftreff.
 
 Gekaufte Linkpakete oder Einträge in Verzeichnissen ohne Bezug zu Ihrer Region bringen wenig. Weitere Ideen im Artikel [Lokales Linkbuilding](https://localdominate.org/blog/local-link-building).
 
@@ -180,7 +180,7 @@ Erst Profil und Daten korrigieren, dann Bewertungen als festen Ablauf einführen
 
 1. **Woche 1: Ausgangslage.** Suchanfragen, Anrufe, Routen und Website-Klicks im Leistungsbericht notieren. Probetrainings des letzten Monats zählen.
 2. **Woche 1: Profil.** Name, Hauptkategorie, Öffnungs- und Sonderzeiten, Leistungen, Attribute und aktuelle Fotos prüfen.
-3. **Woche 2: Bewertungen.** Bewertungslink in Willkommensmail und Nachfass-Mail einbauen, QR-Code am Empfang aushängen, Team kurz einweisen, was erlaubt ist.
+3. **Woche 2: Bewertungen.** Bewertungslink in Willkommensmail und Nachfass-Mail einbauen, Team kurz einweisen, was erlaubt ist.
 4. **Woche 3: Website.** Seite für das Probetraining, Kursplan als Text, Preise transparent, Kündigungsbutton prüfen.
 5. **Woche 4: Partner.** Zwei bis drei Kooperationen ansprechen, die Sie ohnehin pflegen oder pflegen wollen.
 6. **Danach monatlich.** Zahlen vergleichen, auf neue Bewertungen antworten, Saisonangebote vorbereiten.
@@ -199,7 +199,7 @@ Ja, wenn sie eine eigene Adresse hat, an der Mitglieder trainieren. Google erlau
 
 ### Darf ich für Bewertungen einen Probemonat verlosen?
 
-Nein. Google wertet Verlosungen, Rabatte, Gratisleistungen und Geschenke für Bewertungen als Anreiz. Solche Rezensionen werden entfernt, und Google kann das Profil einschränken. Bitten Sie alle Mitglieder ohne Gegenleistung.
+Nein. Google verbietet Anreize wie Zahlungen, Rabatte und kostenlose Produkte oder Dienstleistungen für Bewertungen. Ein Probemonat fällt darunter, eine Verlosung unter Bewertenden ist nach unserer Einschätzung ebenfalls ein Anreiz. Solche Rezensionen werden entfernt, und Google kann das Profil einschränken. Bitten Sie alle Mitglieder ohne Gegenleistung.
 
 ### Hilft Instagram beim Google-Ranking?
 
@@ -229,4 +229,4 @@ Bei LocalDominate kostet der Profil Quick-Fix 79 € und die vollständige Profi
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org

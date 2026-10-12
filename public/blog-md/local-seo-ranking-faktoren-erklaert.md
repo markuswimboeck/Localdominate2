@@ -58,7 +58,7 @@ Google kann nur zuordnen, was es weiß. Ein Fliesenleger in Salzburg, der im Pro
 - **Hauptkategorie**: Google empfiehlt, eine primäre Kategorie zu wählen, die Ihr Unternehmen am besten beschreibt, und in der Liste eine möglichst bestimmte Kategorie zu nehmen. Je nach Kategorie stehen außerdem unterschiedliche Funktionen im Profil zur Verfügung. Wie Sie die richtige finden, steht in [Google Business Kategorien](https://localdominate.org/blog/google-business-kategorien-guide).
 - **Weitere Kategorien**: so wenige wie möglich, nur für Ihr Kerngeschäft. Kategorien „zur Sicherheit“ verwässern das Bild.
 - **Vollständige Angaben**: Adresse oder Einzugsgebiet, Öffnungszeiten einschließlich Sonderzeiten, Leistungen und zutreffende Attribute wie Barrierefreiheit oder Parkplätze. Hinweise in [Attribute richtig nutzen](https://localdominate.org/blog/gbp-attribute-richtig-nutzen).
-- **Website**: eine Seite je wichtiger Leistung, mit Ort im Text. Was technisch dafür stimmen muss, beschreibt [Technisches Local SEO](https://localdominate.org/blog/technisches-local-seo-guide).
+- **Website** (unsere Einschätzung, von Google nicht als Relevanzsignal genannt): eine Seite je wichtiger Leistung, mit Ort im Text. Was technisch dafür stimmen muss, beschreibt [Technisches Local SEO](https://localdominate.org/blog/technisches-local-seo-guide).
 
 ### Was Sie nicht beeinflussen können
 
@@ -77,7 +77,7 @@ Ein Beispiel: Zwei Personen suchen in Winterthur nach „Zahnarzt“, die eine a
 | Situation | Was zulässig ist | Was nicht zulässig ist |
 | --- | --- | --- |
 | Ladengeschäft, Praxis, Restaurant | Echte Adresse eintragen, Markierung auf der Karte prüfen | Eine zweite Adresse näher am Zentrum ohne echten Standort |
-| Betrieb ohne Kundenverkehr am Firmensitz (z. B. Handwerk, Reinigung) | Adresse aus dem Profil entfernen und ein Einzugsgebiet angeben, laut Google höchstens 20 Gebiete | Ein Einzugsgebiet, das deutlich weiter reicht als etwa zwei Autostunden vom Standort, was Google nicht empfiehlt |
+| Betrieb ohne Kundenverkehr am Firmensitz (z. B. Handwerk, Reinigung) | Adresse aus dem Profil entfernen und ein Einzugsgebiet angeben, laut Google höchstens 20 Gebiete | Ein Einzugsgebiet, das weiter als etwa zwei Autostunden vom Standort reicht (von Google nicht empfohlen) |
 | Wunsch, in der Nachbarstadt sichtbar zu sein | Leistung in der Nachbarstadt auf der Website erklären, wenn Sie dort tatsächlich arbeiten | Postfach oder Briefkasten an einem fremden Standort |
 
 Google schreibt zum Einzugsgebiet nur, dass Nutzer Ihr Profil damit leichter finden können. Wie Google bei Betrieben ohne sichtbare Adresse die Entfernung berechnet, ist nicht dokumentiert. Versprechen, ein Einzugsgebiet bringe Sie in jedem eingetragenen Ort nach oben, sind deshalb nicht belegt. Mehr zu Betrieben ohne Ladengeschäft in [Local SEO für Handwerker](https://localdominate.org/blog/local-seo-handwerker).
@@ -86,7 +86,7 @@ Google schreibt zum Einzugsgebiet nur, dass Nutzer Ihr Profil damit leichter fin
 
 Bekanntheit meint laut Google den Bekanntheitsgrad eines Unternehmens. Google nennt dafür unter anderem die Anzahl der Websites, die auf Ihr Unternehmen verweisen, und die Anzahl der Rezensionen. Mehr Rezensionen und positive Bewertungen können das Ranking verbessern.
 
-Google schreibt außerdem, dass bekannte Orte mit größerer Wahrscheinlichkeit in den Suchergebnissen angezeigt werden. Ein Café in Freiburg, über das die Lokalzeitung berichtet hat, das auf der Seite des Stadtteilvereins steht und regelmäßig neue Rezensionen bekommt, ist bekannter als ein gleich gutes Café, über das niemand schreibt. Bekanntheit entsteht also überwiegend außerhalb Ihres Profils.
+Google schreibt außerdem, dass bekannte Orte mit größerer Wahrscheinlichkeit in den Suchergebnissen angezeigt werden. Ein Café in Freiburg, das auf der Website des Stadtteilvereins verlinkt wird und regelmäßig neue Rezensionen bekommt, erfüllt zwei der Signale, die Google nennt: verweisende Websites und Rezensionen. Beides entsteht zum großen Teil außerhalb Ihres Profils. Ob Presseberichte ohne Link eine Rolle spielen, sagt Google nicht.
 
 *Bekanntheit aufbauen, ohne Regeln zu verletzen*
 
@@ -112,7 +112,7 @@ Mehr sagt Google zum Zusammenspiel nicht. Ein einfaches Bild dafür, als unsere 
 
 ## Was Sie beeinflussen können und was nicht
 
-Relevanz beeinflussen Sie direkt, Bekanntheit mit Geduld und die Entfernung fast gar nicht. Setzen Sie Ihre Zeit deshalb zuerst auf vollständige, korrekte Angaben und danach auf Bewertungen und Erwähnungen.
+Relevanz beeinflussen Sie direkt, Bekanntheit mit Geduld und die Entfernung fast gar nicht. Setzen Sie Ihre Zeit deshalb zuerst auf vollständige, korrekte Angaben und danach auf Bewertungen und Links von anderen Websites.
 
 *Übersicht für Einsteiger*
 
@@ -120,7 +120,7 @@ Relevanz beeinflussen Sie direkt, Bekanntheit mit Geduld und die Entfernung fast
 | --- | --- | --- | --- |
 | Relevanz | Hoch | Hauptkategorie, Leistungen, Attribute, Öffnungszeiten, Leistungsseiten auf der Website | Nicht dokumentiert; Änderungen am Profil sind schnell erledigt |
 | Entfernung | Sehr gering | Richtige Adresse oder richtiges Einzugsgebiet, Kartenmarkierung prüfen | Keine; nur Fehler lassen sich beheben |
-| Bekanntheit | Mittel, langsam | Laufend Bewertungen erbitten, Erwähnungen und Links aus der Region | Monate; Google nennt keine Zeiträume |
+| Bekanntheit | Mittel, langsam | Laufend Bewertungen erbitten, Links von Websites aus der Region gewinnen (Verbände, Innungen, Partner, lokale Presse) | Monate; Google nennt keine Zeiträume |
 
 Zwei Grundlagen gelten für alle drei Faktoren. Erstens: Bestätigen Sie Ihr Profil. Laut Google teilen Sie damit mit, dass Sie berechtigt sind, das Unternehmen zu vertreten, und ein bestätigtes Unternehmen wird eher angezeigt. Zweitens: Halten Sie Name, Adresse und Telefonnummer überall gleich. Das ist keine von Google genannte Ranking-Regel, verhindert aber Verwechslungen und doppelte Einträge. Wie das geht, steht in [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo).
 
@@ -146,7 +146,7 @@ Die bekannteste Fachumfrage, die Local Search Ranking Factors 2026 von Whitespar
 
 ## Die ersten Schritte für Einsteiger
 
-Beginnen Sie mit dem, was Google selbst nennt: Profil bestätigen, Angaben vollständig und korrekt machen, die genaueste Kategorie wählen. Danach folgt ein fester Ablauf für Bewertungen, dazu Erwähnungen in der Region. Eine bestimmte Position kann Ihnen dabei niemand garantieren.
+Beginnen Sie mit dem, was Google selbst nennt: Profil bestätigen, Angaben vollständig und korrekt machen, die genaueste Kategorie wählen. Danach folgt ein fester Ablauf für Bewertungen, dazu Links von Websites aus der Region. Eine bestimmte Position kann Ihnen dabei niemand garantieren.
 
 1. **Profil bestätigen.** Prüfen Sie, ob Ihr Profil bestätigt ist und ob es nur ein Profil für Ihren Standort gibt. Google erlaubt nicht mehr als ein Profil je Standort.
 2. **Grunddaten korrigieren.** Echter Name wie auf Schild und Briefpapier, Adresse oder Einzugsgebiet, Telefon, Website, Öffnungs- und Sonderzeiten.
@@ -177,7 +177,7 @@ Zu Ihrer eigenen Website sagt Google in seiner Hilfe zum lokalen Ranking nichts 
 
 ### Wie schnell wirken Änderungen am Profil?
 
-Google nennt keine Zeiträume. Korrekturen an Kategorie und Angaben sind schnell erledigt, ihre Wirkung zeigt sich oft erst nach einiger Zeit. Bekanntheit durch Bewertungen und Erwähnungen wächst über Monate. Messen Sie deshalb regelmäßig statt nach einzelnen Tagen.
+Google nennt keine Zeiträume. Korrekturen an Kategorie und Angaben sind schnell erledigt, ihre Wirkung zeigt sich oft erst nach einiger Zeit. Bekanntheit durch Bewertungen und verweisende Websites wächst über Monate. Messen Sie deshalb regelmäßig statt nach einzelnen Tagen.
 
 ## Quellen
 

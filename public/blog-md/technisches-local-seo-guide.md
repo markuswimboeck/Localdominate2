@@ -139,17 +139,17 @@ Technisch genügt für den Anfang eine Prüfung: Steht auf Startseite oder Konta
 
 ## Standortseiten ohne Brückenseiten
 
-Jeder echte Standort verdient eine eigene Seite mit Adresse, Zeiten und Leistungen vor Ort. Viele fast gleiche Seiten für Orte, an denen Sie keinen Sitz haben, beschreibt Google als Missbrauch von Brückenseiten.
+Jeder echte Standort verdient eine eigene Seite mit Adresse, Zeiten und Leistungen vor Ort. Als Missbrauch von Brückenseiten nennt Google unter anderem mehrere Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer alle zur selben Seite weiterleiten.
 
-Google nennt als Beispiel für Brückenseiten ausdrücklich mehrere Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind, Nutzer aber alle zur selben Seite führen. Eine Physiotherapie mit Praxen in Linz und Wels braucht zwei Standortseiten mit eigenem Inhalt. Fünfzig Seiten „Physiotherapie in [Ort]“ mit ausgetauschtem Ortsnamen sind dagegen ein Risiko.
+Google nennt als Beispiel für Brückenseiten ausdrücklich mehrere Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind, Nutzer aber alle zur selben Seite führen. Eine Physiotherapie mit Praxen in Linz und Wels braucht zwei Standortseiten mit eigenem Inhalt. Fünfzig Seiten „Physiotherapie in [Ort]“, die nur den Ortsnamen tauschen und alle auf dieselbe Seite führen, entsprechen genau Googles Beispiel. Auch ohne Weiterleitung sind sie nach unserer Einschätzung ein Risiko.
 
 *Echte Standortseite oder Brückenseite*
 
-| Echte Standortseite | Brückenseite |
+| Echte Standortseite | Brückenseite (Googles Beispiel und unsere Einschätzung) |
 | --- | --- |
-| Eigene Adresse, Telefonnummer und Öffnungszeiten des Standorts | Nur der Ortsname wechselt |
+| Eigene Adresse, Telefonnummer und Öffnungszeiten des Standorts | Nur der Ortsname wechselt (unsere Einschätzung) |
 | Team, Anfahrt, Parkmöglichkeiten, Leistungen vor Ort | Allgemeiner Text, auf vielen Seiten gleich |
-| Im Unternehmensprofil des Standorts als Website hinterlegt | Nur für die Suche angelegt, nirgends verlinkt |
+| Im Unternehmensprofil des Standorts als Website hinterlegt | Nur für die Suche angelegt, nirgends verlinkt (unsere Einschätzung) |
 
 Im Unternehmensprofil erlaubt Google ausdrücklich eine Website, auf der Ihr konkreter Standort vorgestellt wird. Bei mehreren Filialen verweist jedes Profil deshalb am besten auf die passende Standortseite. Weiterleitungs-Adressen, etwa auf soziale Netzwerke, sind im Website-Feld nicht erlaubt. Mehr zu Filialen steht in [Mehrere Standorte bei Google verwalten](https://localdominate.org/blog/gbp-mehrere-standorte). Wie Betriebe ohne Ladenlokal ihr Einzugsgebiet zeigen, ohne Stadtseiten zu kopieren, beschreibt [Heizung Sanitär Notdienst SEO](https://localdominate.org/blog/local-seo-heizung-sanitaer).
 

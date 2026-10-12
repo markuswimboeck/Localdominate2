@@ -104,7 +104,7 @@ Laut Gemeinsamem Bundesausschuss müssen Heilmittel für gesetzlich Versicherte 
 | Was kostet die Zuzahlung? | 10 % des Preises zuzüglich 10 € je Verordnungsblatt, Kinder und Jugendliche unter 18 sind befreit | Patienteninformation der KV Bayerns, Stand Mai 2021 |
 | Wie schnell muss die Behandlung beginnen? | Ohne dringenden Bedarf innerhalb von 28 Tagen nach Ausstellung | Patienteninformation der KV Bayerns, Stand Mai 2021 |
 | Was ist eine Blankoverordnung? | Seit 1. November 2024 für bestimmte Schultererkrankungen: Die Ärztin stellt die Diagnose, die Therapeutin bestimmt Art und Menge der Behandlung, gültig bis zu 16 Wochen | Forum Verlag, Januar 2025; IFK, November 2025 |
-| Geht es ohne Verordnung? | Eine Behandlung ohne ärztliche Verordnung setzt in der Regel eine (sektorale) Heilpraktikererlaubnis der Therapeutin voraus. Kurse zur Prävention ohne Heilbehandlung sind davon nicht betroffen. Lassen Sie Ihr Angebot im Einzelfall prüfen | IFK, April 2020 (Beispiel NRW) |
+| Geht es ohne Verordnung? | Ob Physiotherapeuten ohne ärztliche Verordnung behandeln dürfen, ist je nach Bundesland und Quelle unterschiedlich geregelt. In Nordrhein-Westfalen verlangte das Ministerium laut IFK (April 2020) eine (sektorale) Heilpraktikererlaubnis. Klären Sie das für Ihr Bundesland mit Ihrem Berufsverband, bevor Sie Selbstzahlerangebote bewerben. Kurse zur Prävention ohne Heilbehandlung sind davon nicht betroffen. Lassen Sie Ihr Angebot im Einzelfall prüfen | IFK, April 2020 (Beispiel NRW) |
 
 > **Zahlen vor Veröffentlichung prüfen:** Beträge und Fristen können sich ändern. Gleichen Sie die Angaben vor dem Veröffentlichen mit dem aktuellen Stand Ihres Berufsverbands ab und nennen Sie auf der Seite das Datum der letzten Prüfung. Für Privatversicherte und Beihilfe gelten eigene Regeln, die Sie getrennt beschreiben.
 
@@ -115,14 +115,14 @@ In **Österreich** gilt seit 1. September 2024 das MTD-Gesetz 2024 für die geho
 Das Heilmittelwerbegesetz gilt nicht nur für Arzneimittel, sondern auch für Verfahren und Behandlungen. Irreführend ist unter anderem, den Eindruck zu erwecken, ein Erfolg könne mit Sicherheit erwartet werden. Gegenüber Patienten sind außerdem bestimmte Darstellungen und Werbung zu bestimmten Krankheiten eingeschränkt.
 
 - **§ 3 HWG:** Irreführende Werbung ist unzulässig. Das ist etwa der Fall, wenn einer Behandlung eine therapeutische Wirksamkeit zugeschrieben wird, die sie nicht hat, oder wenn der Eindruck entsteht, ein Erfolg sei sicher.
-- **§ 11 HWG:** Außerhalb der Fachkreise darf für Verfahren und Behandlungen unter anderem nicht mit Krankengeschichten, bildlichen Darstellungen von Krankheitsfolgen oder Äußerungen Dritter geworben werden, wenn diese missbräuchlich, abstoßend oder irreführend sind.
+- **§ 11 HWG:** Außerhalb der Fachkreise gelten für Verfahren und Behandlungen Werbeverbote, unter anderem für Empfehlungen von Wissenschaftlern oder Angehörigen von Gesundheitsberufen, für Krankengeschichten, für bildliche Darstellungen von Körperveränderungen und für Äußerungen Dritter wie Dankschreiben, jeweils mit den im Gesetz genannten Einschränkungen (zum Beispiel „missbräuchlich, abstoßend oder irreführend“). Prüfen Sie Patientenstimmen und Fotos deshalb vor der Veröffentlichung.
 - **§ 12 HWG:** Werbung für Behandlungen gegenüber Laien darf sich nicht auf die in der Anlage genannten Krankheiten beziehen. Dazu gehören bösartige Neubildungen, meldepflichtige Krankheiten und Suchtkrankheiten außer Nikotinabhängigkeit.
 
 *Formulierungen auf Website und Profil*
 
 | Eher unproblematisch | Lassen Sie das prüfen oder vermeiden Sie es |
 | --- | --- |
-| „Manuelle Therapie nach ärztlicher Verordnung oder als Selbstzahlerleistung“ | „Rückenschmerzen nach drei Terminen weg, garantiert“ |
+| „Manuelle Therapie nach ärztlicher Verordnung“ (oder „als Selbstzahlerleistung“, sofern Sie dazu berechtigt sind) | „Rückenschmerzen nach drei Terminen weg, garantiert“ |
 | Ablauf, Dauer und Kosten einer Behandlung sachlich beschreiben | „Die wirksamste Therapie gegen Arthrose“ |
 | Fotos von Räumen, Geräten und Team | Bilder von Verletzungen oder Krankheitsfolgen als Werbemittel |
 | „Lymphdrainage auf ärztliche Verordnung“ | Werbung mit Behandlungen „bei Krebs“ oder „nach Krebs“ gegenüber Patienten |

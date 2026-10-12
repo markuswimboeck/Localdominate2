@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-friseursalon-beauty
 markdown_url: https://localdominate.org/blog-md/local-seo-friseursalon-beauty.md
 language: de-DE
 published: 2026-01-08
-updated: 2026-10-10
+updated: 2026-10-12
 reading_time_minutes: 11
 category: "Friseur & Beauty"
 author: LocalDominate Redaktion
@@ -94,7 +94,7 @@ Bewertungen wirken auf zwei Ebenen: Google zählt sie zur Bekanntheit eines Betr
 | Kunden nach dem Besuch mit einem Google-Link oder QR-Code als freies Angebot einladen | Rabatte, Geschenke oder Produktproben als Dank für eine Bewertung |
 | Die Einladung auf der Rechnung, in einer Nachricht oder als Karte mitgeben, wenn der Besuch vorbei ist | Gäste während des Besuchs im Salon zu einer Bewertung drängen |
 | Alle Kunden auf die gleiche Weise einladen | Nur zufriedene Kunden gezielt um eine Bewertung bitten und andere aussortieren |
-| Auf jede Bewertung antworten, auch auf kritische | Bewertungen von Mitarbeitenden, Familie oder Freunden |
+| Auf jede Bewertung antworten, auch auf kritische | Bewertungen von aktuellen oder früheren Mitarbeitenden und Familienangehörigen (Interessenkonflikt) |
 | Kritische Bewertungen sachlich beantworten und eine Lösung anbieten | Negative Bewertungen verhindern, verbieten oder gegen Geld entfernen lassen |
 | Die Bitte ohne Vorgaben zum Inhalt formulieren | Mitarbeitenden eine Zahl von Bewertungen vorgeben oder Bewertungen mit bestimmtem Inhalt oder Namen verlangen |
 
@@ -106,7 +106,7 @@ Bewertungen, die durch einen Anreiz entstanden sind, gelten laut Google als mani
 
 Ein Buchungslink verkürzt den Weg vom Suchergebnis zum Termin. Ob Google Terminlinks in Ihrem Land anbietet, hängt von Googles Partnern und Richtlinien ab, deshalb klären Sie das vor der Einrichtung.
 
-Google bietet für Termine eine Weiterleitung an. Lokale Betriebe erscheinen dabei in der Suche und in Google Maps, und Nutzer gelangen zur Buchungsseite des Terminanbieters, auf der die Buchung abgeschlossen wird. Der Einstieg läuft über ein Partnerformular oder einen Ansprechpartner bei Google. Die Dokumentation nennt keine Länder, in denen der Dienst verfügbar ist, und verweist für die Anforderungen auf die Richtlinien.
+Google bietet für Termine eine Weiterleitung an. Lokale Betriebe erscheinen dabei in der Suche und in Google Maps, und Nutzer gelangen zur Buchungsseite des Terminanbieters, auf der die Buchung abgeschlossen wird. Der Einstieg läuft über ein Partnerformular oder einen Ansprechpartner bei Google. Ob der Dienst in Ihrem Land verfügbar ist, klären Sie vor der Einrichtung mit dem Ansprechpartner bei Google, die Anforderungen stehen in den Richtlinien.
 
 1. **Anbieter wählen und Konditionen lesen.** Vergleichen Sie Buchungssysteme nach Funktionen, Kosten und Vertragslaufzeit. Manche Marktplätze berechnen eine Provision. Lesen Sie die Konditionen, bevor Sie Kunden dorthin lenken.
 2. **Leistungen mit Dauer pflegen.** Hinterlegen Sie jede buchbare Leistung mit Dauer, damit Kunden auf der Buchungsseite genau die Leistung finden, nach der sie gesucht haben.
@@ -180,4 +180,4 @@ Ein Profil zeigt Ihren Salon in Google Maps. Ihre Leistungen erklärt aber erst 
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
