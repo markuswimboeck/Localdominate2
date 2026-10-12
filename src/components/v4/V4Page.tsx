@@ -4,6 +4,7 @@ import { V4Footer } from "@/components/v4/V4Footer";
 import { AfterMount } from "@/components/v4/AfterMount";
 
 const CookieBanner = lazy(() => import("@/components/CookieBanner"));
+const SalesChat = lazy(() => import("@/components/v4/chat/SalesChat"));
 
 /** Shared frame of the V4 pages: skip link, navigation, main landmark, footer and cookie banner. */
 export function V4Page({ children }: { children: React.ReactNode }) {
@@ -21,6 +22,11 @@ export function V4Page({ children }: { children: React.ReactNode }) {
       <AfterMount>
         <Suspense fallback={null}>
           <CookieBanner variant="v4" />
+        </Suspense>
+      </AfterMount>
+      <AfterMount>
+        <Suspense fallback={null}>
+          <SalesChat />
         </Suspense>
       </AfterMount>
     </div>
