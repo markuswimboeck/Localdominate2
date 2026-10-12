@@ -13,14 +13,14 @@ const article: V4Article = {
   answer:
     "Local SEO für Apotheken heißt: ein Google-Unternehmensprofil je Standort mit dem Namen vom Apothekenschild, genauen Öffnungszeiten und Notdiensttagen als spezielle Öffnungszeiten. Auf der Website erklären Sie Leistungen, E-Rezept und Botendienst und verweisen für den Notdienst auf die Suche der Apothekerkammer. Werbung bleibt sachlich, weil Heilmittelwerbegesetz und Berufsordnung enge Grenzen setzen.",
   takeaways: [
-    "Den Notdienst organisieren die Apothekerkammern. Patienten finden ihn in Deutschland über den Apothekenfinder 22 8 33 und aponet.de, in Österreich über den Apothekenruf 1455.",
+    "Den Notdienst organisieren die Apothekerkammern. Patienten finden ihn in Deutschland über den Apothekenfinder 22 8 33 und aponet.de, in Österreich nennt die Apothekerkammer den Apothekenruf 1455.",
     "Notdiensttage gehören als spezielle Öffnungszeiten ins Profil. Ein Zeitraum darf laut Google höchstens 24 Stunden umfassen, Dienste über Mitternacht teilen Sie auf.",
     "Seit dem 1. Januar 2024 gilt in der gesetzlichen Krankenversicherung das E-Rezept. Über die App können Patienten es vorab an eine Apotheke ihrer Wahl schicken.",
-    "Für verschreibungspflichtige Arzneimittel darf nach § 10 HWG nur bei Ärzten, Apothekern und anderen dort genannten Fachleuten geworben werden. Die Berufsordnung verbietet unter anderem, eine Sonderstellung der Apotheke vorzutäuschen.",
+    "Für verschreibungspflichtige Arzneimittel darf nach § 10 HWG nur bei Ärzten, Apothekern und anderen dort genannten Fachleuten geworben werden. Die Berufsordnung, etwa die der Landesapothekerkammer Baden-Württemberg, verbietet unter anderem, eine besondere Stellung der eigenen Apotheke vorzutäuschen.",
     "Google verbietet Anreize für Bewertungen und Druck auf Kunden, die noch in der Apotheke sind. In Antworten gilt die Verschwiegenheitspflicht.",
   ],
   publishedAt: "2026-02-14",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 13,
   sections: [
     {
@@ -74,7 +74,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Einschätzung",
-          text: "Bei öffentlichen Apotheken in Deutschland und Österreich zeigt Google Maps in der Regel die Kategorie „Apotheke“ an. Eine Liste aller Kategorien veröffentlicht Google nicht. Prüfen Sie deshalb im Profil selbst, welche Einträge angeboten werden, und vergleichen Sie mit Apotheken in Ihrer Umgebung.",
+          text: "Nach unserer Beobachtung zeigt Google Maps bei öffentlichen Apotheken in Deutschland und Österreich in der Regel die Kategorie „Apotheke“ an. Googles Hilfe zu Kategorien enthält keine Gesamtliste, sondern beschreibt die Auswahl im Profil. Prüfen Sie deshalb im Profil selbst, welche Einträge angeboten werden, und vergleichen Sie mit Apotheken in Ihrer Umgebung.",
         },
       ],
     },
@@ -96,14 +96,14 @@ const article: V4Article = {
             ["Deutschland", "Apothekenfinder 22 8 33: kostenlos unter 0800 00 22 8 33 aus dem Festnetz, 22 8 33 vom Handy (0,69 Euro pro Minute), SMS mit Postleitzahl an 22 8 33 (0,69 Euro pro SMS)", "Serviceportal Baden-Württemberg, Stand März 2026"],
             ["Deutschland", "aponet.de mit Notdienstsuche; laut ABDA 2025 rund 15,91 Millionen Abfragen des Apothekenfinders, die meisten über aponet.de", "ABDA-Faktenblatt Notdienst, Stand Juni 2026"],
             ["Deutschland", "Notdienstsuche der Landesapothekerkammer, Aushang an jeder geschlossenen Apotheke", "Serviceportal Baden-Württemberg, § 23 ApBetrO"],
-            ["Österreich", "Apothekenruf 1455, rund um die Uhr zum Ortstarif; Dienstpläne auf apothekerkammer.at", "Österreichische Apothekerkammer, Pressemitteilung 2016"],
+            ["Österreich", "Apothekenruf 1455 der Apothekerkammer: laut Pressemitteilung von 2016 rund um die Uhr zum Ortstarif erreichbar, Bereitschaftsdienste damals auch auf apothekerkammer.at. Prüfen Sie Nummer und Konditionen vor dem Eintrag bei der Kammer", "Österreichische Apothekerkammer, Pressemitteilungen 2016 und 2017"],
           ],
         },
         {
           t: "steps",
           items: [
             { title: "Notdiensttage im Profil", text: "Tragen Sie jeden Notdienst als spezielle Öffnungszeiten ein. Laut Google gelten sie für vorübergehende Änderungen, die regulären Zeiten bleiben unverändert. Ein Zeitraum darf höchstens 24 Stunden lang sein, einen Dienst über Mitternacht teilen Sie auf zwei Tage auf." },
-            { title: "Teilnotdienste ebenso", text: "Seit dem 1. Oktober 2026 sind nach dem Apothekenversorgung-Weiterentwicklungsgesetz auch Teilnotdienste zuschussfähig, die mindestens 20 bis 22 Uhr abdecken. Die Auszahlung läuft über den Nacht- und Notdienstfonds; die ABDA nennt in ihrem Faktenblatt 2027 als Start der Zuschüsse. Auch diese Zeiten gehören als spezielle Öffnungszeiten ins Profil." },
+            { title: "Teilnotdienste ebenso", text: "Seit dem 1. Oktober 2026 sind nach dem Apothekenversorgung-Weiterentwicklungsgesetz auch Teilnotdienste zuschussfähig, die mindestens 20 bis 22 Uhr abdecken. Die Auszahlung läuft über den Nacht- und Notdienstfonds; die ABDA nennt in ihrem Faktenblatt 2027 als Start der Zuschüsse. Ob es Teilnotdienste in Ihrem Kammerbezirk gibt, erfahren Sie von der Kammer; in Berlin sind sie laut Apothekerkammer derzeit nicht vorgesehen. Wo Sie einen Teilnotdienst leisten, gehört er als spezielle Öffnungszeiten ins Profil." },
             { title: "Notdienstseite auf der Website", text: "Ein kurzer Abschnitt erklärt, wann Ihre Apotheke Notdienst hat und wo Patienten die aktuell dienstbereite Apotheke finden: 22 8 33, aponet.de und die Suche Ihrer Kammer. Einen eigenen Kalender müssen Sie nicht pflegen, die Kammerdaten sind aktueller." },
             { title: "Gebühr offen nennen", text: "Laut ABDA können Apotheken im Notdienst 2,50 Euro einschließlich Mehrwertsteuer je Inanspruchnahme berechnen. Die gesetzliche Krankenkasse übernimmt sie, wenn die Ärztin oder der Arzt auf dem Rezept „noctu“ ankreuzt." },
             { title: "Telefonansage prüfen", text: "Außerhalb der Öffnungszeiten nennt die Ansage die Rufnummer 22 8 33 oder in Österreich 1455." },
@@ -124,7 +124,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Laut Google können Unternehmen bestimmter Kategorien Leistungen aus Vorschlägen wählen oder eigene Leistungen mit Beschreibung anlegen. Im Namen einer eigenen Leistung sollen keine Preise, Telefonnummern oder personenbezogenen Daten stehen, sonst lehnt Google sie automatisch ab. Sucht jemand in der Nähe nach einer Leistung, die Sie anbieten, kann Google sie im Profil hervorheben.",
+          text: "Laut Google können Unternehmen bestimmter Kategorien Leistungen aus Vorschlägen wählen oder eigene Leistungen mit Beschreibung anlegen. Im Namen einer eigenen Leistung sollen keine Preise, Telefonnummern oder personenbezogenen Daten stehen. Eigene Leistungen, die gegen die Richtlinien verstoßen, lehnt Google automatisch ab. Sucht jemand in der Nähe nach einer Leistung, die Sie anbieten, kann Google sie im Profil hervorheben.",
         },
         {
           t: "table",
@@ -139,7 +139,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Das Apothekenversorgung-Weiterentwicklungsgesetz ist am 2. Juli 2026 in Kraft getreten. Es sieht neue pharmazeutische Dienstleistungen vor. Laut Fachpresse müssen aber erst Arbeitsempfehlungen, Schulungen und die Vergütung zwischen Deutschem Apothekerverband und GKV-Spitzenverband festgelegt werden. Kündigen Sie eine neue Leistung im Profil erst an, wenn Sie sie tatsächlich erbringen.",
+          text: "Das Apothekenversorgung-Weiterentwicklungsgesetz ist am 2. Juli 2026 in Kraft getreten. Es sieht neue pharmazeutische Dienstleistungen vor. Laut Pharmazeutischer Zeitung (Stand Juli 2026) muss aber erst die Bundesapothekerkammer Arbeitsempfehlungen erarbeiten, und der Deutsche Apothekerverband und der GKV-Spitzenverband müssen Leistungsbeschreibung und Vergütung festlegen. Kündigen Sie eine neue Leistung im Profil erst an, wenn Sie sie tatsächlich erbringen.",
         },
         {
           t: "note",
@@ -177,7 +177,7 @@ const article: V4Article = {
       id: "werberecht",
       title: "Werberecht: Heilmittelwerbegesetz und Berufsordnung",
       answer:
-        "Für verschreibungspflichtige Arzneimittel darf nach § 10 HWG nur bei Ärzten, Apothekern und anderen dort genannten Fachleuten geworben werden, nicht gegenüber Patienten. Die Berufsordnungen der Kammern verbieten außerdem, eine Sonderstellung der Apotheke vorzutäuschen, Vorteile zu versprechen, die die freie Apothekenwahl beeinflussen, und Werbung, die einen Mehrverbrauch von Arzneimitteln fördert.",
+        "Für verschreibungspflichtige Arzneimittel darf nach § 10 HWG nur bei Ärzten, Apothekern und anderen dort genannten Fachleuten geworben werden, nicht gegenüber Patienten. Die Berufsordnung der Landesapothekerkammer Baden-Württemberg verbietet als Beispiel außerdem, eine besondere Stellung der eigenen Apotheke vorzutäuschen, Zuwendungen zu gewähren, die die freie Apothekenwahl beeinflussen können, und Werbung, die einen Mehr- oder Fehlgebrauch von Arzneimitteln fördert.",
       blocks: [
         {
           t: "p",
@@ -185,7 +185,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "**Berufsordnung.** Als Beispiel die Berufsordnung der Landesapothekerkammer Baden-Württemberg (Stand 2020): § 18 verpflichtet, unlautere Wettbewerbsmaßnahmen zu unterlassen. § 19 nennt Beispiele, darunter das Vortäuschen einer Sonderstellung der Apotheke, besonders durch irreführende Bezeichnungen, Zuwendungen beim Arzneimittelverkauf, die die freie Apothekenwahl beeinflussen können, und Werbung, die einen Mehr- oder Fehlgebrauch fördert. § 12 verbietet Absprachen über die Zuweisung von Verschreibungen. Ein Satz wie „Ihr Arzt im Haus schickt Sie direkt zu uns“ ist deshalb heikel.",
+          text: "**Berufsordnung.** Als Beispiel die Berufsordnung der Landesapothekerkammer Baden-Württemberg (das veröffentlichte Dokument trägt den Stand 25. Juni 2020): § 18 verpflichtet, unlautere Wettbewerbsmaßnahmen zu unterlassen. § 19 nennt Beispiele, darunter das Vortäuschen einer besonderen Stellung der eigenen Apotheke, insbesondere durch irreführende Namensgebung, Zuwendungen beim Arzneimittelverkauf, die die freie Apothekenwahl beeinflussen können, und Werbung, die einen Mehr- oder Fehlgebrauch fördert. § 12 verbietet Absprachen über die Zuweisung von Verschreibungen. Ein Satz wie „Ihr Arzt im Haus schickt Sie direkt zu uns“ ist deshalb heikel.",
         },
         {
           t: "p",
@@ -327,6 +327,9 @@ const article: V4Article = {
     { title: "Google sperrt Apotheken-Konto (05.01.2026)", publisher: "Pharmazeutische Zeitung", url: "https://www.pharmazeutische-zeitung.de/google-sperrt-apotheken-konto-161591/seite/2/" },
     { title: "Pharmacy (Typ-Hierarchie)", publisher: "schema.org", url: "https://schema.org/Pharmacy" },
     { title: "Teilnotdienste ab Oktober (17. Juli 2026)", publisher: "APOTHEKE ADHOC", url: "https://www.apotheke-adhoc.de/nachrichten/detail/apothekenpraxis/teilnotdienste-ab-oktober/" },
+    { title: "Totimpfstoffe, Impfausweis, Doku: Impfen in Apotheken (30.06.2026)", publisher: "APOTHEKE ADHOC", url: "https://www.apotheke-adhoc.de/rubriken/detail/impfen-pdl/impfen-in-apotheken-was-ist-neu/" },
+    { title: "Link oder QR-Code zum Anfordern von Rezensionen erstellen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/16816815?hl=de" },
+    { title: "Apothekenruf 1455 begrüßt Gesundheitstelefon 1450 (13.04.2017)", publisher: "Österreichische Apothekerkammer via pressetext", url: "https://www.pressetext.com/news/apothekenruf-1455-begruesst-gesundheitstelefon-1450.html" },
   ],
   related: [
     { slug: "local-seo-aerzte-praxen", title: "Local SEO für Arztpraxen" },

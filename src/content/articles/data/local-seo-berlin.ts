@@ -13,9 +13,9 @@ const article: V4Article = {
   answer:
     "Berlin hat zwölf Bezirke und viele Kieze mit eigenen Namen. Google sortiert lokale Treffer nach **Relevanz, Entfernung und Beliebtheit**, deshalb sieht jemand in Spandau eine andere Liste als jemand in Friedrichshain. Legen Sie Ihr Einzugsgebiet nach den Bezirken fest, die Sie wirklich bedienen, halten Sie Profil und Website widerspruchsfrei und messen Sie mit einem Raster über genau diese Bezirke.",
   takeaways: [
-    "In Berlin entscheidet die Entfernung oft, wer im Kartenblock erscheint. Ziel ist Sichtbarkeit dort, wo Ihre Kunden sind, nicht in der ganzen Stadt.",
+    "Nach unserer Einschätzung entscheidet in Berlin oft die Entfernung, wer im Kartenblock erscheint. Ziel ist Sichtbarkeit dort, wo Ihre Kunden sind, nicht in der ganzen Stadt.",
     "Berlin ist amtlich in zwölf Bezirke gegliedert. Gesucht wird aber oft mit Kiez- oder Ortsnamen wie Wedding, Prenzlauer Berg oder Köpenick.",
-    "Eine Seite je Bezirk mit austauschbarem Text ist eine Brückenseite und verstößt gegen Googles Spam-Richtlinien.",
+    "Eine Seite je Bezirk mit austauschbarem Text ist nach unserer Einschätzung riskant. Googles Spam-Richtlinien nennen Seiten für Regionen oder Städte, die alle zum selben Ziel führen, ausdrücklich als Missbrauch von Brückenseiten.",
     "„Berlin“ oder ein Bezirk im Firmennamen ist nur erlaubt, wenn es tatsächlich Teil Ihres Namens ist. Google nennt dafür sogar ein Berliner Beispiel.",
     "Der 8. März ist in Berlin gesetzlicher Feiertag. Pflegen Sie dafür Sonderöffnungszeiten, wenn Sie anders öffnen.",
     "Messen Sie mit festen Punkten über Ihre Bezirke, nicht mit einer Suche vom eigenen Schreibtisch.",
@@ -36,11 +36,11 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Laut Amt für Statistik Berlin-Brandenburg lebten Ende 2024 in Berlin 3.685.265 Menschen. Ihr Markt als Betrieb ist deshalb meist nicht „Berlin“, sondern einige Bezirke oder Kieze.",
+          text: "Laut Amt für Statistik Berlin-Brandenburg lebten Ende 2025 in Berlin 3.700.577 Menschen. Ihr Markt als Betrieb ist deshalb meist nicht „Berlin“, sondern einige Bezirke oder Kieze.",
         },
         {
           t: "table",
-          caption: "Was sich in Berlin verschiebt",
+          caption: "Was sich in Berlin verschiebt (Einschätzung)",
           head: ["Thema", "Kleinstadt oder Land", "Berlin"],
           rows: [
             ["Wettbewerb im Kartenblock", "Oft wenige Anbieter im Ort", "Viele Anbieter derselben Kategorie in wenigen Kilometern"],
@@ -52,7 +52,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Keine Marktzahlen ohne Quelle",
-          text: "Belastbare, frei verfügbare Zahlen zu Konkurrenz oder Suchvolumen je Bezirk gibt es nicht. Wie viele Mitbewerber in Ihrem Umkreis vor Ihnen stehen, messen Sie selbst, wie unten im Abschnitt zum Raster beschrieben.",
+          text: "Uns sind keine belastbaren, frei verfügbaren Zahlen zu Konkurrenz oder Suchvolumen je Bezirk bekannt. Wie viele Mitbewerber in Ihrem Umkreis vor Ihnen stehen, messen Sie selbst, wie unten im Abschnitt zum Raster beschrieben.",
         },
       ],
     },
@@ -74,7 +74,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Relevanz**: genaue Hauptkategorie, einzeln eingetragene Leistungen, eine eigene Seite je Leistung auf der Website.",
-            "**Beliebtheit**: echte Bewertungen und Erwähnungen von Kammern, Verbänden, Vereinen und lokalen Medien.",
+            "**Beliebtheit**: echte Bewertungen und Websites, die auf Ihren Betrieb verweisen, etwa von Kammern, Verbänden, Vereinen und lokalen Medien. Beides nennt Googles Hilfe für diesen Faktor.",
             "**Suchen mit Ortsangabe**: Wer „Steuerberater Pankow“ sucht, nennt den Ort selbst. Dann zählt, ob Website und Profil den Bezirk glaubwürdig nennen.",
           ],
         },
@@ -88,7 +88,7 @@ const article: V4Article = {
       id: "bezirke-und-kieze",
       title: "Die zwölf Bezirke und die Namen, mit denen gesucht wird",
       answer:
-        "Berlin ist nach dem Bezirksverwaltungsgesetz in zwölf Bezirke gegliedert, die aus früheren Bezirken zusammengelegt wurden. Viele Menschen suchen aber mit den alten Namen oder dem Kiez, etwa Wedding, Kreuzberg oder Prenzlauer Berg. Nennen Sie beides nur dort, wo Sie wirklich tätig sind.",
+        "Berlin ist nach dem Bezirksverwaltungsgesetz in zwölf Bezirke gegliedert, die aus früheren Bezirken zusammengelegt wurden. Unserer Einschätzung nach suchen viele Menschen aber mit den alten Namen oder dem Kiez, etwa Wedding, Kreuzberg oder Prenzlauer Berg. Nennen Sie beides nur dort, wo Sie wirklich tätig sind.",
       blocks: [
         {
           t: "table",
@@ -111,7 +111,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Die Tabelle zeigt, warum Bezirksnamen allein nicht reichen. Wer in Wedding wohnt, sucht selten mit „Mitte“. Wer in Prenzlauer Berg einen Physiotherapeuten sucht, schreibt kaum „Pankow“. Dazu kommen Kiez- und Ortsnamen wie Moabit, Friedenau oder Rudow und Orientierungspunkte wie Plätze und Bahnhöfe. Welche Bezeichnung Ihre Kunden verwenden, prüfen Sie mit den Suchvorschlägen von Google und Ihren eigenen Anfragen. Die Methode steht in [Local SEO Keywords finden](/blog/local-seo-keywords-finden).",
+          text: "Die Tabelle zeigt, warum Bezirksnamen allein nicht reichen. Unsere Einschätzung: Wer in Wedding wohnt, sucht selten mit „Mitte“, und wer in Prenzlauer Berg einen Physiotherapeuten sucht, schreibt kaum „Pankow“. Dazu kommen Kiez- und Ortsnamen wie Moabit, Friedenau oder Rudow und Orientierungspunkte wie Plätze und Bahnhöfe. Welche Bezeichnung Ihre Kunden verwenden, prüfen Sie mit den Suchvorschlägen von Google und Ihren eigenen Anfragen. Die Methode steht in [Local SEO Keywords finden](/blog/local-seo-keywords-finden).",
         },
         {
           t: "h3",
@@ -131,7 +131,7 @@ const article: V4Article = {
       id: "bezirksseiten",
       title: "Seiten für Bezirke und Kieze ohne Brückenseiten",
       answer:
-        "Zwölf Bezirksseiten mit demselben Text und ausgetauschtem Ortsnamen sind Brückenseiten. Google nennt Seiten, die auf bestimmte Regionen oder Städte zielen und Nutzer zur selben Seite leiten, sowie weitgehend gleiche Seiten ausdrücklich als Spam. Eine eigene Seite lohnt sich nur mit Inhalten, die es nur für diesen Ort gibt.",
+        "Zwölf Bezirksseiten mit demselben Text und ausgetauschtem Ortsnamen sind nach unserer Einschätzung riskant. Google nennt als Missbrauch von Brückenseiten Seiten, die auf bestimmte Regionen oder Städte zielen und Nutzer zur selben Seite leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Eine eigene Seite lohnt sich nur mit Inhalten, die es nur für diesen Ort gibt.",
       blocks: [
         {
           t: "table",
@@ -159,7 +159,7 @@ const article: V4Article = {
           items: [
             {
               title: "Name ohne Ortszusatz",
-              text: "Google verbietet unnötige Zusätze im Namen und nennt dafür selbst ein Berliner Beispiel: Aus „Sportpalast in Berlin-Mitte“ soll „Sportpalast Berlin“ werden, und nur, wenn der Betrieb so heißt. „Malerei Krüger Kreuzberg“ ist nur zulässig, wenn es auf Schild und Briefpapier genau so steht.",
+              text: "Google verbietet unnötige Zusätze im Namen und nennt dafür selbst ein Berliner Beispiel: Aus „Sportpalast in Berlin-Mitte“ soll „Sportpalast Berlin“ werden, und nur, wenn der Betrieb so heißt. Ein erfundenes Beispiel: „Malerei Muster Kreuzberg“ ist nur zulässig, wenn es auf Schild und Briefpapier genau so steht.",
             },
             {
               title: "Adresse oder Einzugsgebiet",
@@ -167,7 +167,7 @@ const article: V4Article = {
             },
             {
               title: "Kein virtuelles Büro",
-              text: "Für eine angemietete Postadresse, an der Sie nicht tätig sind, darf kein Profil erstellt werden. Ein Büro im Coworking-Space ist nur zulässig, wenn es klar beschildert ist und dort während der Öffnungszeiten Personal Kunden empfängt. Das betrifft in Berlin viele Gründer und Freiberufler.",
+              text: "Für eine angemietete Postadresse, an der Sie nicht tätig sind, darf kein Profil erstellt werden. Ein Büro im Coworking-Space ist nur zulässig, wenn es klar beschildert ist und dort während der Öffnungszeiten Personal Kunden empfängt. Unsere Einschätzung: In Berlin betrifft das viele Gründer und Freiberufler.",
             },
             {
               title: "Sonderöffnungszeiten pflegen",
@@ -181,11 +181,11 @@ const article: V4Article = {
       id: "sprachen",
       title: "Viele Sprachen: wann sich englische oder weitere Fassungen lohnen",
       answer:
-        "Berlins Bevölkerung setzt sich laut amtlicher Statistik aus 193 Staatsangehörigkeiten zusammen. Weitere Sprachfassungen lohnen sich, wenn Sie Kunden tatsächlich in dieser Sprache bedienen. Dann gehört eine vollständige Übersetzung der wichtigen Seiten auf die Website, verknüpft mit hreflang.",
+        "Laut Amt für Statistik waren in Berlin Ende 2025 insgesamt 194 verschiedene Nationalitäten vertreten. Weitere Sprachfassungen lohnen sich, wenn Sie Kunden tatsächlich in dieser Sprache bedienen. Dann gehört eine vollständige Übersetzung der wichtigen Seiten auf die Website, verknüpft mit hreflang.",
       blocks: [
         {
           t: "p",
-          text: "Ende 2024 hatten nach Angaben des Amts für Statistik 22,5 Prozent der Berliner Bevölkerung keinen deutschen Pass. Wenn in Ihrem Team jemand Englisch, Türkisch, Polnisch oder Arabisch spricht und Sie das anbieten, schreiben Sie es klar auf die Website. Behaupten Sie es nicht, wenn es niemand leisten kann.",
+          text: "Die ausländische Bevölkerung Berlins zählte Ende 2025 nach Angaben des Amts für Statistik 833.213 Menschen. Wenn in Ihrem Team jemand Englisch, Türkisch, Polnisch oder Arabisch spricht und Sie das anbieten, schreiben Sie es klar auf die Website. Behaupten Sie es nicht, wenn es niemand leisten kann.",
         },
         {
           t: "ul",
@@ -201,7 +201,7 @@ const article: V4Article = {
       id: "erwaehnungen",
       title: "Erwähnungen von Berliner Kammern, Verbänden und Medien",
       answer:
-        "Beliebtheit entsteht auch über Erwähnungen bei Institutionen, in denen Sie ohnehin Mitglied sind oder mitarbeiten. In Berlin sind das die IHK Berlin, die Handwerkskammer Berlin, Innungen, Berufskammern, Vereine und lokale Medien. Entscheidend ist der echte Bezug, nicht die Zahl der Einträge.",
+        "Googles Hilfe nennt für die Beliebtheit unter anderem Websites, die auf Ihr Unternehmen verweisen. Solche Verweise gibt es oft bei Institutionen, in denen Sie ohnehin Mitglied sind oder mitarbeiten. In Berlin sind das die IHK Berlin, die Handwerkskammer Berlin, Innungen, Berufskammern, Vereine und lokale Medien. Entscheidend ist der echte Bezug, nicht die Zahl der Einträge.",
       blocks: [
         {
           t: "table",
@@ -217,7 +217,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Achten Sie darauf, dass Name, Adresse und Telefonnummer in diesen Einträgen genauso lauten wie im Profil. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo). Gekaufte Linkpakete von Seiten ohne Berlinbezug bringen lokal wenig. Ideen für echte Erwähnungen finden Sie in [Local Link Building](/blog/local-link-building).",
+          text: "Achten Sie darauf, dass Name, Adresse und Telefonnummer in diesen Einträgen genauso lauten wie im Profil. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo). Unsere Einschätzung: Gekaufte Linkpakete von Seiten ohne Berlinbezug bringen lokal wenig. Ideen für echte Erwähnungen finden Sie in [Local Link Building](/blog/local-link-building).",
         },
       ],
     },
@@ -285,7 +285,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Brauche ich für jeden Berliner Bezirk eine eigene Seite?",
-      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, gelten bei Google als Brückenseiten und damit als Spam. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für diesen Bezirk gibt. Sonst nennen Sie die Bezirke auf der Leistungsseite.",
+      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für diesen Bezirk gibt. Sonst nennen Sie die Bezirke auf der Leistungsseite.",
     },
     {
       q: "Darf ich „Berlin“ oder meinen Kiez in den Namen des Unternehmensprofils schreiben?",
@@ -309,10 +309,11 @@ const article: V4Article = {
     { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
     { title: "Spam policies for Google web search (Doorway abuse)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies" },
     { title: "Lokalisierte Versionen deiner Seiten für Google angeben (hreflang)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de" },
-    { title: "Berlins Bevölkerungszahl erreicht 3,7 Millionen (Pressemitteilung Nr. 94 vom 27.06.2025)", publisher: "Amt für Statistik Berlin-Brandenburg", url: "https://www.statistik-berlin-brandenburg.de/094-2025" },
+    { title: "Berlins Bevölkerungszahl erreicht 3,7 Millionen (Bevölkerungsfortschreibung 2025)", publisher: "Amt für Statistik Berlin-Brandenburg", url: "https://www.statistik-berlin-brandenburg.de/presse/2026/73-bevoelkerungsfortschreibung-2025-berlin/" },
     { title: "Bezirksverwaltungsgesetz (BezVG), § 1 Bezirke", publisher: "Bezirksamt Charlottenburg-Wilmersdorf, berlin.de", url: "https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/wissenswertes/rechtliche-grundlagen/mdb-bezvg.pdf" },
     { title: "Sonn- und Feiertagsrecht", publisher: "Senatsverwaltung für Inneres und Sport, berlin.de", url: "https://www.berlin.de/sen/inneres/buerger-und-staat/verfassungs-und-verwaltungsrecht/artikel.1435639.php" },
     { title: "Zugehörigkeit und Beitragspflicht", publisher: "IHK Berlin", url: "https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/zugehoerigkeit-und-beitragspflicht-2256680" },
+    { title: "Handwerksordnung, § 90 Mitgliedschaft in der Handwerkskammer", publisher: "lxgesetze.de", url: "https://lxgesetze.de/hwo/90" },
   ],
   related: [
     { slug: "local-seo-muenchen", title: "Local SEO in München" },

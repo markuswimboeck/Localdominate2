@@ -11,6 +11,21 @@
       "permanent": true
     },
     {
+      "source": "/blog/local-seo-baeckerei-konditorei",
+      "destination": "/blog/local-seo-baeckerei",
+      "permanent": true
+    },
+    {
+      "source": "/blog/local-seo-sanitaer-heizung",
+      "destination": "/blog/local-seo-heizung-sanitaer",
+      "permanent": true
+    },
+    {
+      "source": "/blog-md/local-seo-baeckerei-konditorei.md",
+      "destination": "/blog-md/local-seo-baeckerei.md",
+      "permanent": true
+    },
+    {
       "source": "/restaurant-marketing",
       "destination": "/industries/restaurants",
       "permanent": true
