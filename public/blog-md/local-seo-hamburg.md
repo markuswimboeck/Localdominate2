@@ -26,8 +26,8 @@ In Hamburg sortiert Google lokale Treffer wie überall nach **Relevanz, Entfernu
 ## Das Wichtigste in Kürze
 
 - Hamburg gliedert sich in sieben Bezirke und 104 Stadtteile. Planen Sie Ihre Sichtbarkeit auf dieser Ebene, nicht für „ganz Hamburg“.
-- Die Entfernung zum Suchenden zählt. Im Kartenblock erscheinen Sie meist in einem Teil der Stadt, nicht in allen Bezirken zugleich.
-- Fast gleiche Seiten für jeden Stadtteil sind laut Google Brückenseiten und damit Spam. Eigene Seiten brauchen eigenen Inhalt.
+- Die Entfernung zum Suchenden zählt. Im Kartenblock erscheinen Sie nach unserer Einschätzung meist in einem Teil der Stadt, nicht in allen Bezirken zugleich.
+- Fast gleiche Seiten für jeden Stadtteil sind nach unserer Einschätzung riskant. Googles Spam-Richtlinien nennen Seiten für Regionen oder Städte, die alle zum selben Ziel führen, ausdrücklich als Missbrauch von Brückenseiten. Eigene Seiten brauchen eigenen Inhalt.
 - „Hamburg“ oder ein Stadtteil im Profilnamen ist nur zulässig, wenn es Teil Ihres echten Firmennamens ist.
 - Großveranstaltungen wie der Hafengeburtstag ändern Anfahrt und Nachfrage. Pflegen Sie dafür Sonderöffnungszeiten und aktuelle Hinweise.
 - Erwähnungen von Handelskammer, Handwerkskammer, Innungen, Vereinen und Stadtteilmedien helfen, wenn sie auf echter Beteiligung beruhen.
@@ -40,7 +40,7 @@ Wenn Ihnen die Grundlagen noch fehlen, beginnen Sie mit dem [Local-SEO-Leitfaden
 
 Laut Statistikamt Nord waren zum 31. Dezember 2025 rund 1,98 Millionen Menschen in Hamburg gemeldet. Das sind viele potenzielle Kunden, aber auch viele Anbieter derselben Branche. Für Sie zählt nicht die Größe der Stadt, sondern wie viele Mitbewerber in Ihrem Teil der Stadt näher an Ihren Kunden liegen als Sie.
 
-*Was sich in Hamburg gegenüber einer Kleinstadt verschiebt*
+*Was sich in Hamburg gegenüber einer Kleinstadt verschiebt (Einschätzung)*
 
 | Thema | Kleinstadt | Hamburg |
 | --- | --- | --- |
@@ -49,18 +49,18 @@ Laut Statistikamt Nord waren zum 31. Dezember 2025 rund 1,98 Millionen Menschen 
 | Anfahrt | Kurze Wege | Elbquerungen, Hafen und Stoßzeiten verlängern Wege zwischen Nord und Süd |
 | Kundschaft | Überwiegend Einheimische | Einheimische, Pendler aus dem Umland, internationale Gäste |
 
-> **Keine Marktzahlen ohne Quelle:** Sie finden hier keine Angaben wie „Suchvolumen je Stadtteil“ oder „Wettbewerb hoch in Ottensen“. Frei verfügbare, belastbare Zahlen dieser Art gibt es nicht. Wie stark der Wettbewerb in Ihrem Umkreis ist, messen Sie selbst, wie im Abschnitt zum Raster beschrieben.
+> **Keine Marktzahlen ohne Quelle:** Sie finden hier keine Angaben wie „Suchvolumen je Stadtteil“ oder „Wettbewerb hoch in Ottensen“. Uns sind keine frei verfügbaren, belastbaren Zahlen dieser Art bekannt. Wie stark der Wettbewerb in Ihrem Umkreis ist, messen Sie selbst, wie im Abschnitt zum Raster beschrieben.
 
 ## Entfernung in einer großen Stadt mit Fluss
 
-Google berücksichtigt, wie weit ein Betrieb vom Suchenden entfernt ist. In Hamburg heißt das: Sie sind meist in Ihrem Stadtteil und den Nachbarstadtteilen sichtbar, nicht in der ganzen Stadt. Das ist normal und lässt sich nicht kaufen.
+Google berücksichtigt, wie weit ein Betrieb vom Suchenden entfernt ist. In Hamburg heißt das nach unserer Einschätzung: Sie sind meist in Ihrem Stadtteil und den Nachbarstadtteilen sichtbar, nicht in der ganzen Stadt. Das ist normal, und ein besseres lokales Ranking lässt sich laut Google auch nicht gegen Bezahlung einfordern.
 
 Googles Hilfe nennt drei Faktoren für das lokale Ranking: **Relevanz**, **Entfernung** und **Beliebtheit**. Dort steht auch, dass sich ein besseres lokales Ranking nicht einfordern lässt, auch nicht gegen Bezahlung. Ihren Standort geben Sie korrekt an. Verschieben können Sie ihn nicht.
 
 Eine Suche nach „Physiotherapie“ in Barmbek ergibt eine andere Liste als dieselbe Suche in Wilhelmsburg. Unsere Einschätzung: Für Kunden ist die Elbe oft eine gefühlte Grenze. Wer in Harburg wohnt, fährt für einen Friseurtermin selten nach Winterhude. Planen Sie Ihr Einzugsgebiet deshalb nach tatsächlichen Wegen Ihrer Kunden, nicht nach der Luftlinie auf der Karte.
 
-- **Relevanz ausbauen**: genaue Hauptkategorie, einzeln eingetragene Leistungen, eine Seite je Leistung auf der Website. Hier haben Sie den größten Einfluss.
-- **Beliebtheit aufbauen**: echte Bewertungen und Erwähnungen von Kammern, Verbänden, Vereinen und lokalen Medien.
+- **Relevanz ausbauen**: genaue Hauptkategorie, einzeln eingetragene Leistungen, eine Seite je Leistung auf der Website. Hier haben Sie nach unserer Einschätzung den größten Einfluss.
+- **Beliebtheit aufbauen**: echte Bewertungen und Websites, die auf Ihren Betrieb verweisen, etwa von Kammern, Verbänden, Vereinen und lokalen Medien. Beides nennt Googles Hilfe für diesen Faktor.
 - **Suchen mit Ortsangabe abdecken**: Wer „Steuerberater Eppendorf“ sucht, nennt den Ort selbst. Dann zählt, ob Website und Profil den Stadtteil glaubwürdig nennen.
 
 Welche Hebel im Profil wie wirken, zeigt [Google-Maps-Ranking verbessern](https://localdominate.org/blog/google-maps-ranking-verbessern).
@@ -81,17 +81,17 @@ Hamburg gliedert sich in die sieben Bezirke Hamburg-Mitte, Altona, Eimsbüttel, 
 | Bergedorf | Bergedorf, Lohbrügge, Kirchwerder |
 | Harburg | Harburg, Wilstorf, Neugraben-Fischbek |
 
-Im Alltag sagen viele „Schanze“ statt „Sternschanze“ oder „Barmbek“ statt „Barmbek-Nord“. Prüfen Sie mit den Vorschlägen der Google-Suche und mit Ihren eigenen Anfragen, welche Namen Ihre Kunden verwenden, statt Suchvolumen zu raten. Die Methode steht in [Local SEO Keywords finden](https://localdominate.org/blog/local-seo-keywords-finden).
+Nach unserer Beobachtung sagen viele im Alltag „Schanze“ statt „Sternschanze“ oder „Barmbek“ statt „Barmbek-Nord“. Prüfen Sie mit den Vorschlägen der Google-Suche und mit Ihren eigenen Anfragen, welche Namen Ihre Kunden verwenden, statt Suchvolumen zu raten. Die Methode steht in [Local SEO Keywords finden](https://localdominate.org/blog/local-seo-keywords-finden).
 
 ### Wo Stadtteile hingehören
 
 - **Betrieb mit Kundenverkehr**: Adresse mit Stadtteil auf Kontakt- und Startseite, dazu die nächste U-Bahn-, S-Bahn- oder Bushaltestelle und Hinweise zum Parken. Das ist echte Information.
 - **Betrieb, der zum Kunden fährt**: die Stadtteile und Nachbargemeinden, die Sie regelmäßig anfahren, als Einzugsgebiet im Profil und als kurze Liste auf der Website. Nicht alle 104, wenn Sie nur den Hamburger Osten bedienen.
-- **Kunden aus dem Umland**: Fahren Sie regelmäßig nach Norderstedt, Pinneberg oder Buxtehude, dürfen diese Orte im Einzugsgebiet stehen, auch wenn sie in Schleswig-Holstein oder Niedersachsen liegen. Entscheidend ist, dass Sie dort wirklich arbeiten.
+- **Kunden aus dem Umland**: Fahren Sie regelmäßig nach Norderstedt, Pinneberg (beide Schleswig-Holstein) oder Buxtehude (Niedersachsen), können diese Orte im Einzugsgebiet stehen, solange sie innerhalb des Richtwerts liegen. Googles Hilfe nennt dafür nicht mehr als etwa zwei Autostunden vom Standort. Entscheidend ist, dass Sie dort wirklich arbeiten.
 
 ## Stadtteilseiten ohne Brückenseiten
 
-Eine Seite je Stadtteil mit demselben Text und ausgetauschtem Ortsnamen ist eine Brückenseite. Google nennt Seiten, die auf Regionen oder Städte zielen und Nutzer zum selben Ziel leiten, sowie im Wesentlichen ähnliche Seiten ausdrücklich als Spam.
+Eine Seite je Stadtteil mit demselben Text und ausgetauschtem Ortsnamen ist nach unserer Einschätzung riskant. Google nennt als Missbrauch von Brückenseiten Seiten, die auf Regionen oder Städte zielen und Nutzer zum selben Ziel leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website.
 
 *Stadtteilseite: sinnvoll oder Brückenseite*
 
@@ -107,7 +107,7 @@ Die Faustregel: Erfährt ein Kunde aus diesem Stadtteil auf der Seite etwas, das
 
 Für das Google-Unternehmensprofil gelten in Hamburg dieselben Richtlinien wie überall. Drei Punkte sind in der Großstadt besonders oft falsch: Ortsangaben im Namen, ein zu großes Einzugsgebiet und Adressen in Coworking-Räumen oder virtuellen Büros.
 
-1. **Name ohne Ortszusatz.** Googles Richtlinien verbieten unnötige Zusätze im Namen, auch Ortsangaben. „Tischlerei Petersen Hamburg Altona“ ist nur zulässig, wenn der Betrieb auf Schild und Briefpapier genau so heißt.
+1. **Name ohne Ortszusatz.** Googles Richtlinien verbieten unnötige Zusätze im Namen, auch Ortsangaben. Ein erfundenes Beispiel: „Tischlerei Muster Hamburg Altona“ ist nur zulässig, wenn der Betrieb auf Schild und Briefpapier genau so heißt.
 2. **Adresse oder Einzugsgebiet.** Mit Kundenverkehr zeigen Sie die Adresse. Fahren Sie nur zum Kunden, blenden Sie die Adresse aus und legen ein Einzugsgebiet fest. Google nennt als Richtwert nicht mehr als etwa zwei Autostunden vom Standort. In Hamburg reicht meist eine Auswahl an Stadtteilen und Nachbarorten.
 3. **Kein virtuelles Büro.** Für eine angemietete Postadresse ohne Geschäftsbetrieb darf kein Profil erstellt werden. Ein Coworking-Büro ist nur zulässig, wenn es klar beschildert ist und dort während der Öffnungszeiten Personal Kunden empfängt.
 4. **Sonderöffnungszeiten pflegen.** Feiertage und besondere Anlässe tragen Sie als Sonderöffnungszeiten ein, auch geänderte Zeiten bei Großveranstaltungen in Ihrer Nähe. Wie das geht, steht in [Öffnungszeiten an Sondertagen](https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage).
@@ -130,7 +130,7 @@ Bedienen Sie Gäste, Seeleute oder internationale Beschäftigte tatsächlich auf
 
 ## Erwähnungen von Hamburger Institutionen
 
-Beliebtheit entsteht auch über Erwähnungen bei Institutionen, in denen Sie ohnehin Mitglied sind oder mitarbeiten. In Hamburg sind das vor allem die Handelskammer, die Handwerkskammer, Innungen, Berufskammern, Vereine und Stadtteilmedien. Entscheidend ist die echte Verbindung, nicht die Zahl der Einträge.
+Googles Hilfe nennt für die Beliebtheit unter anderem Websites, die auf Ihr Unternehmen verweisen. Solche Verweise gibt es oft bei Institutionen, in denen Sie ohnehin Mitglied sind oder mitarbeiten. In Hamburg sind das vor allem die Handelskammer, die Handwerkskammer, Innungen, Berufskammern, Vereine und Stadtteilmedien. Entscheidend ist die echte Verbindung, nicht die Zahl der Einträge.
 
 *Mögliche Quellen für Erwähnungen (Auswahl, ohne Rangfolge)*
 
@@ -142,7 +142,7 @@ Beliebtheit entsteht auch über Erwähnungen bei Institutionen, in denen Sie ohn
 | Berufskammern | Ärzte, Anwälte, Steuerberater und weitere freie Berufe | Ob es ein öffentliches Verzeichnis gibt und Ihre Daten stimmen |
 | Sportvereine, Stadtteilinitiativen, Stadtteilzeitungen | Betriebe mit echtem Engagement vor Ort | Sponsoring, Veranstaltungen, Berichte über echte Anlässe |
 
-Achten Sie darauf, dass Name, Adresse und Telefonnummer in diesen Einträgen genauso lauten wie im Profil. Gekaufte Linkpakete von Seiten ohne Hamburgbezug bringen lokal wenig. Weitere Ideen für echte Erwähnungen finden Sie in [Local Link Building](https://localdominate.org/blog/local-link-building).
+Achten Sie darauf, dass Name, Adresse und Telefonnummer in diesen Einträgen genauso lauten wie im Profil. Unsere Einschätzung: Gekaufte Linkpakete von Seiten ohne Hamburgbezug bringen lokal wenig. Weitere Ideen für echte Erwähnungen finden Sie in [Local Link Building](https://localdominate.org/blog/local-link-building).
 
 > **Bewertungen:** Bitten Sie alle Kunden gleich, ohne Gegenleistung und ohne Vorauswahl. Wie Sie richtig fragen und was Google dabei verbietet, zeigt [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
 
@@ -171,7 +171,7 @@ Beginnen Sie mit einer Ausgangsmessung, korrigieren Sie dann Profil und Firmenda
 
 ### Brauche ich für jeden Hamburger Stadtteil eine eigene Seite?
 
-Nein. Seiten, die sich nur im Ortsnamen unterscheiden, gelten bei Google als Brückenseiten und damit als Spam. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für diesen Stadtteil gibt. Sonst nennen Sie die Stadtteile auf der Leistungsseite.
+Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für diesen Stadtteil gibt. Sonst nennen Sie die Stadtteile auf der Leistungsseite.
 
 ### Darf ich „Hamburg“ in den Namen meines Unternehmensprofils schreiben?
 
@@ -197,8 +197,10 @@ Wenn Sie Kunden tatsächlich auf Englisch beraten oder bedienen, ja. Übersetzen
 - [Lokalisierte Versionen deiner Seiten für Google angeben (hreflang)](https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de), Google Search Central
 - [Statistischer Bericht A I / S 1: Bevölkerung in Hamburg am 31.12.2025](https://www.statistik-nord.de/fileadmin/Dokumente/AI_S1_j_25.pdf), Statistisches Amt für Hamburg und Schleswig-Holstein
 - [Glossar zu den Bezirksversammlungswahlen Hamburg](https://www.wahlen-hamburg.de/bezirksversammlungswahlen_2019/Glossar_Bezirksversammlungswahlen_Hamburg_2019.pdf), Landeswahlleitung Hamburg, wahlen-hamburg.de
+- [Bezirksversammlungswahl 2019, Ergebnisse nach Stadtteilen (Zuordnung der Stadtteile zu Bezirken)](https://www.statistik-nord.de/fileadmin/Dokumente/Wahlen/Hamburg/Bezirksversammlungswahlen/2019/vorlaeufig/Bez_v_003-050-2019-Hamburg-Stadtteilergebnisse.pdf), Statistikamt Nord
 - [Pressemitteilung zum Hafengeburtstag Hamburg 2026](https://www.hamburg.de/resource/blob/1172722/8be614cae0f8272e54b17e8f64ece26d/d-pressemitteilung-besondere-tipps-data.pdf), Freie und Hansestadt Hamburg, hamburg.de
 - [Offizielle Schiffsliste Hafengeburtstag Hamburg, 8. bis 10. Mai 2026](https://www.hamburg.de/resource/blob/1159822/4f0a6ffa796a4a5364a46babddfdc46b/d-offizielle-schiffsliste-2026-data.pdf), Freie und Hansestadt Hamburg, hamburg.de
+- [Factsheet Hafengeburtstag Hamburg 2026 (8. bis 10. Mai 2026)](https://www.hamburg-messe.de/fileadmin/hafengeburtstag/2026/pdf/hg26_factsheet_de.pdf), Hamburg Messe und Congress
 - [Jahresabschluss 2024 der Handelskammer Hamburg](https://www.ihk.de/blueprint/servlet/resource/blob/6697730/df6320d85939cc2e6b0da8fb05eaefc5/hk-2024-jahresabschluss-data.pdf), Handelskammer Hamburg
 
 ---

@@ -14,8 +14,8 @@ const article: V4Article = {
     "In Hamburg sortiert Google lokale Treffer wie überall nach **Relevanz, Entfernung und Beliebtheit**. Wer in Eimsbüttel sucht, sieht deshalb andere Betriebe als jemand in Harburg oder Rahlstedt. Legen Sie Ihr Einzugsgebiet nach den Bezirken und Stadtteilen fest, die Sie wirklich bedienen, halten Sie Profil und Website widerspruchsfrei und messen Sie Ihre Sichtbarkeit mit einem Raster über genau diese Gebiete.",
   takeaways: [
     "Hamburg gliedert sich in sieben Bezirke und 104 Stadtteile. Planen Sie Ihre Sichtbarkeit auf dieser Ebene, nicht für „ganz Hamburg“.",
-    "Die Entfernung zum Suchenden zählt. Im Kartenblock erscheinen Sie meist in einem Teil der Stadt, nicht in allen Bezirken zugleich.",
-    "Fast gleiche Seiten für jeden Stadtteil sind laut Google Brückenseiten und damit Spam. Eigene Seiten brauchen eigenen Inhalt.",
+    "Die Entfernung zum Suchenden zählt. Im Kartenblock erscheinen Sie nach unserer Einschätzung meist in einem Teil der Stadt, nicht in allen Bezirken zugleich.",
+    "Fast gleiche Seiten für jeden Stadtteil sind nach unserer Einschätzung riskant. Googles Spam-Richtlinien nennen Seiten für Regionen oder Städte, die alle zum selben Ziel führen, ausdrücklich als Missbrauch von Brückenseiten. Eigene Seiten brauchen eigenen Inhalt.",
     "„Hamburg“ oder ein Stadtteil im Profilnamen ist nur zulässig, wenn es Teil Ihres echten Firmennamens ist.",
     "Großveranstaltungen wie der Hafengeburtstag ändern Anfahrt und Nachfrage. Pflegen Sie dafür Sonderöffnungszeiten und aktuelle Hinweise.",
     "Erwähnungen von Handelskammer, Handwerkskammer, Innungen, Vereinen und Stadtteilmedien helfen, wenn sie auf echter Beteiligung beruhen.",
@@ -40,7 +40,7 @@ const article: V4Article = {
         },
         {
           t: "table",
-          caption: "Was sich in Hamburg gegenüber einer Kleinstadt verschiebt",
+          caption: "Was sich in Hamburg gegenüber einer Kleinstadt verschiebt (Einschätzung)",
           head: ["Thema", "Kleinstadt", "Hamburg"],
           rows: [
             ["Ortsangabe in der Suche", "Meist der Ortsname", "Stadtteil, Bezirk, Straße, Haltestelle oder gar keine Angabe"],
@@ -52,7 +52,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Keine Marktzahlen ohne Quelle",
-          text: "Sie finden hier keine Angaben wie „Suchvolumen je Stadtteil“ oder „Wettbewerb hoch in Ottensen“. Frei verfügbare, belastbare Zahlen dieser Art gibt es nicht. Wie stark der Wettbewerb in Ihrem Umkreis ist, messen Sie selbst, wie im Abschnitt zum Raster beschrieben.",
+          text: "Sie finden hier keine Angaben wie „Suchvolumen je Stadtteil“ oder „Wettbewerb hoch in Ottensen“. Uns sind keine frei verfügbaren, belastbaren Zahlen dieser Art bekannt. Wie stark der Wettbewerb in Ihrem Umkreis ist, messen Sie selbst, wie im Abschnitt zum Raster beschrieben.",
         },
       ],
     },
@@ -60,7 +60,7 @@ const article: V4Article = {
       id: "entfernung",
       title: "Entfernung in einer großen Stadt mit Fluss",
       answer:
-        "Google berücksichtigt, wie weit ein Betrieb vom Suchenden entfernt ist. In Hamburg heißt das: Sie sind meist in Ihrem Stadtteil und den Nachbarstadtteilen sichtbar, nicht in der ganzen Stadt. Das ist normal und lässt sich nicht kaufen.",
+        "Google berücksichtigt, wie weit ein Betrieb vom Suchenden entfernt ist. In Hamburg heißt das nach unserer Einschätzung: Sie sind meist in Ihrem Stadtteil und den Nachbarstadtteilen sichtbar, nicht in der ganzen Stadt. Das ist normal, und ein besseres lokales Ranking lässt sich laut Google auch nicht gegen Bezahlung einfordern.",
       blocks: [
         {
           t: "p",
@@ -73,8 +73,8 @@ const article: V4Article = {
         {
           t: "ul",
           items: [
-            "**Relevanz ausbauen**: genaue Hauptkategorie, einzeln eingetragene Leistungen, eine Seite je Leistung auf der Website. Hier haben Sie den größten Einfluss.",
-            "**Beliebtheit aufbauen**: echte Bewertungen und Erwähnungen von Kammern, Verbänden, Vereinen und lokalen Medien.",
+            "**Relevanz ausbauen**: genaue Hauptkategorie, einzeln eingetragene Leistungen, eine Seite je Leistung auf der Website. Hier haben Sie nach unserer Einschätzung den größten Einfluss.",
+            "**Beliebtheit aufbauen**: echte Bewertungen und Websites, die auf Ihren Betrieb verweisen, etwa von Kammern, Verbänden, Vereinen und lokalen Medien. Beides nennt Googles Hilfe für diesen Faktor.",
             "**Suchen mit Ortsangabe abdecken**: Wer „Steuerberater Eppendorf“ sucht, nennt den Ort selbst. Dann zählt, ob Website und Profil den Stadtteil glaubwürdig nennen.",
           ],
         },
@@ -106,7 +106,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Im Alltag sagen viele „Schanze“ statt „Sternschanze“ oder „Barmbek“ statt „Barmbek-Nord“. Prüfen Sie mit den Vorschlägen der Google-Suche und mit Ihren eigenen Anfragen, welche Namen Ihre Kunden verwenden, statt Suchvolumen zu raten. Die Methode steht in [Local SEO Keywords finden](/blog/local-seo-keywords-finden).",
+          text: "Nach unserer Beobachtung sagen viele im Alltag „Schanze“ statt „Sternschanze“ oder „Barmbek“ statt „Barmbek-Nord“. Prüfen Sie mit den Vorschlägen der Google-Suche und mit Ihren eigenen Anfragen, welche Namen Ihre Kunden verwenden, statt Suchvolumen zu raten. Die Methode steht in [Local SEO Keywords finden](/blog/local-seo-keywords-finden).",
         },
         {
           t: "h3",
@@ -117,7 +117,7 @@ const article: V4Article = {
           items: [
             "**Betrieb mit Kundenverkehr**: Adresse mit Stadtteil auf Kontakt- und Startseite, dazu die nächste U-Bahn-, S-Bahn- oder Bushaltestelle und Hinweise zum Parken. Das ist echte Information.",
             "**Betrieb, der zum Kunden fährt**: die Stadtteile und Nachbargemeinden, die Sie regelmäßig anfahren, als Einzugsgebiet im Profil und als kurze Liste auf der Website. Nicht alle 104, wenn Sie nur den Hamburger Osten bedienen.",
-            "**Kunden aus dem Umland**: Fahren Sie regelmäßig nach Norderstedt, Pinneberg oder Buxtehude, dürfen diese Orte im Einzugsgebiet stehen, auch wenn sie in Schleswig-Holstein oder Niedersachsen liegen. Entscheidend ist, dass Sie dort wirklich arbeiten.",
+            "**Kunden aus dem Umland**: Fahren Sie regelmäßig nach Norderstedt, Pinneberg (beide Schleswig-Holstein) oder Buxtehude (Niedersachsen), können diese Orte im Einzugsgebiet stehen, solange sie innerhalb des Richtwerts liegen. Googles Hilfe nennt dafür nicht mehr als etwa zwei Autostunden vom Standort. Entscheidend ist, dass Sie dort wirklich arbeiten.",
           ],
         },
       ],
@@ -126,7 +126,7 @@ const article: V4Article = {
       id: "stadtteilseiten",
       title: "Stadtteilseiten ohne Brückenseiten",
       answer:
-        "Eine Seite je Stadtteil mit demselben Text und ausgetauschtem Ortsnamen ist eine Brückenseite. Google nennt Seiten, die auf Regionen oder Städte zielen und Nutzer zum selben Ziel leiten, sowie im Wesentlichen ähnliche Seiten ausdrücklich als Spam.",
+        "Eine Seite je Stadtteil mit demselben Text und ausgetauschtem Ortsnamen ist nach unserer Einschätzung riskant. Google nennt als Missbrauch von Brückenseiten Seiten, die auf Regionen oder Städte zielen und Nutzer zum selben Ziel leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website.",
       blocks: [
         {
           t: "table",
@@ -155,7 +155,7 @@ const article: V4Article = {
           items: [
             {
               title: "Name ohne Ortszusatz",
-              text: "Googles Richtlinien verbieten unnötige Zusätze im Namen, auch Ortsangaben. „Tischlerei Petersen Hamburg Altona“ ist nur zulässig, wenn der Betrieb auf Schild und Briefpapier genau so heißt.",
+              text: "Googles Richtlinien verbieten unnötige Zusätze im Namen, auch Ortsangaben. Ein erfundenes Beispiel: „Tischlerei Muster Hamburg Altona“ ist nur zulässig, wenn der Betrieb auf Schild und Briefpapier genau so heißt.",
             },
             {
               title: "Adresse oder Einzugsgebiet",
@@ -209,7 +209,7 @@ const article: V4Article = {
       id: "erwaehnungen",
       title: "Erwähnungen von Hamburger Institutionen",
       answer:
-        "Beliebtheit entsteht auch über Erwähnungen bei Institutionen, in denen Sie ohnehin Mitglied sind oder mitarbeiten. In Hamburg sind das vor allem die Handelskammer, die Handwerkskammer, Innungen, Berufskammern, Vereine und Stadtteilmedien. Entscheidend ist die echte Verbindung, nicht die Zahl der Einträge.",
+        "Googles Hilfe nennt für die Beliebtheit unter anderem Websites, die auf Ihr Unternehmen verweisen. Solche Verweise gibt es oft bei Institutionen, in denen Sie ohnehin Mitglied sind oder mitarbeiten. In Hamburg sind das vor allem die Handelskammer, die Handwerkskammer, Innungen, Berufskammern, Vereine und Stadtteilmedien. Entscheidend ist die echte Verbindung, nicht die Zahl der Einträge.",
       blocks: [
         {
           t: "table",
@@ -225,7 +225,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Achten Sie darauf, dass Name, Adresse und Telefonnummer in diesen Einträgen genauso lauten wie im Profil. Gekaufte Linkpakete von Seiten ohne Hamburgbezug bringen lokal wenig. Weitere Ideen für echte Erwähnungen finden Sie in [Local Link Building](/blog/local-link-building).",
+          text: "Achten Sie darauf, dass Name, Adresse und Telefonnummer in diesen Einträgen genauso lauten wie im Profil. Unsere Einschätzung: Gekaufte Linkpakete von Seiten ohne Hamburgbezug bringen lokal wenig. Weitere Ideen für echte Erwähnungen finden Sie in [Local Link Building](/blog/local-link-building).",
         },
         {
           t: "note",
@@ -290,7 +290,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Brauche ich für jeden Hamburger Stadtteil eine eigene Seite?",
-      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, gelten bei Google als Brückenseiten und damit als Spam. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für diesen Stadtteil gibt. Sonst nennen Sie die Stadtteile auf der Leistungsseite.",
+      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für diesen Stadtteil gibt. Sonst nennen Sie die Stadtteile auf der Leistungsseite.",
     },
     {
       q: "Darf ich „Hamburg“ in den Namen meines Unternehmensprofils schreiben?",
@@ -316,8 +316,10 @@ const article: V4Article = {
     { title: "Lokalisierte Versionen deiner Seiten für Google angeben (hreflang)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de" },
     { title: "Statistischer Bericht A I / S 1: Bevölkerung in Hamburg am 31.12.2025", publisher: "Statistisches Amt für Hamburg und Schleswig-Holstein", url: "https://www.statistik-nord.de/fileadmin/Dokumente/AI_S1_j_25.pdf" },
     { title: "Glossar zu den Bezirksversammlungswahlen Hamburg", publisher: "Landeswahlleitung Hamburg, wahlen-hamburg.de", url: "https://www.wahlen-hamburg.de/bezirksversammlungswahlen_2019/Glossar_Bezirksversammlungswahlen_Hamburg_2019.pdf" },
+    { title: "Bezirksversammlungswahl 2019, Ergebnisse nach Stadtteilen (Zuordnung der Stadtteile zu Bezirken)", publisher: "Statistikamt Nord", url: "https://www.statistik-nord.de/fileadmin/Dokumente/Wahlen/Hamburg/Bezirksversammlungswahlen/2019/vorlaeufig/Bez_v_003-050-2019-Hamburg-Stadtteilergebnisse.pdf" },
     { title: "Pressemitteilung zum Hafengeburtstag Hamburg 2026", publisher: "Freie und Hansestadt Hamburg, hamburg.de", url: "https://www.hamburg.de/resource/blob/1172722/8be614cae0f8272e54b17e8f64ece26d/d-pressemitteilung-besondere-tipps-data.pdf" },
     { title: "Offizielle Schiffsliste Hafengeburtstag Hamburg, 8. bis 10. Mai 2026", publisher: "Freie und Hansestadt Hamburg, hamburg.de", url: "https://www.hamburg.de/resource/blob/1159822/4f0a6ffa796a4a5364a46babddfdc46b/d-offizielle-schiffsliste-2026-data.pdf" },
+    { title: "Factsheet Hafengeburtstag Hamburg 2026 (8. bis 10. Mai 2026)", publisher: "Hamburg Messe und Congress", url: "https://www.hamburg-messe.de/fileadmin/hafengeburtstag/2026/pdf/hg26_factsheet_de.pdf" },
     { title: "Jahresabschluss 2024 der Handelskammer Hamburg", publisher: "Handelskammer Hamburg", url: "https://www.ihk.de/blueprint/servlet/resource/blob/6697730/df6320d85939cc2e6b0da8fb05eaefc5/hk-2024-jahresabschluss-data.pdf" },
   ],
   related: [

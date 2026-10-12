@@ -16,11 +16,11 @@ const article: V4Article = {
     "Empfangen Sie keine Kunden im Büro, blenden Sie die Adresse aus und tragen Sie bis zu 20 Einzugsgebiete ein. Google empfiehlt höchstens etwa zwei Autostunden um Ihren Standort.",
     "Ein Profil gibt es nur für einen echten Standort. Virtuelle Büros, Postfächer und unbesetzte Coworking-Plätze sind laut Google nicht zulässig.",
     "Für Fernumzüge außerhalb Ihres Einzugsgebiets arbeitet die Website: Seiten für Strecken, die Sie wirklich fahren, mit echtem Inhalt statt austauschbarer Städteseiten.",
-    "Im Umzugsrecht gelten Sonderregeln: In Deutschland ist die gesetzliche Haftung für Verlust und Beschädigung auf 620 Euro je benötigtem Kubikmeter Laderaum begrenzt, eine höhere Haftung kann vereinbart werden. Verbraucher müssen darüber bei Vertragsschluss unterrichtet werden.",
+    "Im Umzugsrecht gelten Sonderregeln: In Deutschland ist die gesetzliche Haftung für Verlust und Beschädigung auf 620 Euro je benötigtem Kubikmeter Laderaum begrenzt, eine höhere Haftung kann vereinbart werden. Verbraucher müssen darüber vor Vertragsschluss unterrichtet werden.",
     "Bitten Sie jeden Kunden nach dem Umzug um eine Bewertung, ohne Rabatt, ohne Vorauswahl und ohne Druck am Umzugstag.",
   ],
   publishedAt: "2026-08-08",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 12,
   sections: [
     {
@@ -58,7 +58,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Umzugsunternehmen arbeiten beim Kunden, manche haben zusätzlich ein Büro, in das Kunden zur Beratung kommen. Google unterscheidet deshalb Unternehmen ohne festen Standort und Hybridunternehmen. Ohne gut sichtbare Beschilderung zählt ein Ort nicht als Ladengeschäft.",
+          text: "Umzugsunternehmen arbeiten beim Kunden, manche haben zusätzlich ein Büro, in das Kunden zur Beratung kommen. Google unterscheidet deshalb Unternehmen ohne festen Standort und Hybridunternehmen. Wer die Adresse zeigt, braucht dort laut Google eine ganzjährige feste Beschilderung mit dem Namen des Unternehmens.",
         },
         {
           t: "table",
@@ -128,7 +128,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Einschätzung",
-          text: "Google veröffentlicht keine vollständige deutsche Kategorienliste. Welche Bezeichnungen es für Umzugsbetriebe gibt, sehen Sie nur im Profil selbst oder bei gut sichtbaren Mitbewerbern.",
+          text: "Welche Bezeichnungen es für Umzugsbetriebe gibt, sehen Sie, wenn Sie im Feld „Primäre Kategorie“ einen Begriff eingeben und aus der Liste wählen. Ergänzend lohnt der Blick auf gut sichtbare Mitbewerber.",
         },
       ],
     },
@@ -136,7 +136,7 @@ const article: V4Article = {
       id: "leistungs-und-streckenseiten",
       title: "Leistungsseiten und Streckenseiten statt Städteseiten auf Vorrat",
       answer:
-        "Jede Umzugsart bekommt eine eigene Seite, und für Strecken, die Sie regelmäßig fahren, lohnt sich eine Streckenseite mit echtem Inhalt. Dutzende fast gleicher Seiten, auf denen nur der Ortsname wechselt, können Google als Brückenseiten gelten.",
+        "Jede Umzugsart bekommt eine eigene Seite, und für Strecken, die Sie regelmäßig fahren, lohnt sich eine Streckenseite mit echtem Inhalt. Dutzende fast gleicher Seiten, auf denen nur der Ortsname wechselt, können als Brückenseiten gelten.",
       blocks: [
         {
           t: "p",
@@ -197,7 +197,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "In Deutschland regelt das Handelsgesetzbuch den Umzugsvertrag in den §§ 451 ff. Die Haftung für Verlust oder Beschädigung ist nach § 451e HGB auf 620 Euro je Kubikmeter Laderaum begrenzt. Ist der Kunde Verbraucher, muss er nach § 451g HGB bei Vertragsschluss über die Haftungsregeln und die Möglichkeit einer höheren Haftung oder einer Versicherung unterrichtet werden, drucktechnisch deutlich hervorgehoben. Spätestens bei der Ablieferung ist der Empfänger über Form und Frist der Schadensanzeige zu informieren. Sonst kann sich der Frachtführer auf die Begrenzungen und Fristen nicht berufen. Erkennbare Schäden müssen spätestens am Tag nach der Ablieferung angezeigt werden, verdeckte innerhalb von vierzehn Tagen.",
+          text: "In Deutschland regelt das Handelsgesetzbuch den Umzugsvertrag in den §§ 451 ff. Die Haftung für Verlust oder Beschädigung ist nach § 451e HGB auf 620 Euro je Kubikmeter Laderaum begrenzt. Ist der Kunde Verbraucher, muss der Frachtführer ihn nach § 451g HGB vor Vertragsschluss über die Haftungsregeln und die Möglichkeit einer höheren Haftung oder einer Versicherung unterrichten, drucktechnisch deutlich hervorgehoben. Fehlt diese Information, kann er sich insoweit nicht auf die Haftungsbegrenzungen berufen. Spätestens bei der Ablieferung ist der Empfänger über Form und Frist der Schadensanzeige zu informieren, sonst kann sich der Frachtführer nicht auf die Ausschlussfrist berufen. Nach § 451f HGB erlöschen Ansprüche wegen Verlust oder Beschädigung, wenn erkennbare Schäden nicht spätestens am Tag nach der Ablieferung und verdeckte nicht innerhalb von vierzehn Tagen angezeigt werden.",
         },
         {
           t: "p",
@@ -207,7 +207,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Erlaubnis für den Güterkraftverkehr:** Wer gewerblich Güter mit Fahrzeugen über 3,5 Tonnen zulässiger Gesamtmasse befördert, braucht in Deutschland eine Erlaubnis; im grenzüberschreitenden Verkehr liegt die Grenze laut IHK bei 2,5 Tonnen. Haben Sie die Erlaubnis oder eine Gemeinschaftslizenz, dürfen Sie das nennen.",
-            "**Verbände und Prüfzeichen:** In Deutschland vergibt der Bundesverband Möbelspedition und Logistik (AMÖ) an Mitgliedsbetriebe, die sich einer jährlichen Prüfung unterziehen, das Qualitätskennzeichen „geprüfter AMÖ-Spediteur“. Nennen Sie Mitgliedschaften und Prüfzeichen nur, wenn sie bestehen und gültig sind.",
+            "**Verbände und Prüfzeichen:** In Deutschland vergibt der Bundesverband Möbelspedition und Logistik (AMÖ) das Qualitätskennzeichen „geprüfter amoe:spediteur“. Laut der Urkunde eines Mitgliedsbetriebs setzt die Nutzung eine jährliche Prüfung voraus. Nennen Sie Mitgliedschaften und Prüfzeichen nur, wenn sie bestehen und gültig sind.",
           ],
         },
         {
@@ -225,7 +225,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Am Umzugstag hat kaum ein Kunde Ruhe für eine Bewertung. Schicken Sie den Link einen oder zwei Tage später per E-Mail oder Kurznachricht, zusammen mit dem Hinweis, wohin sich der Kunde bei einem Schaden wendet. Wie Sie Link und QR-Code im Profil erzeugen, steht in [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen#bewertungslink).",
+          text: "Am Umzugstag haben viele Kunden keine Ruhe für eine Bewertung. Schicken Sie den Link einen oder zwei Tage später per E-Mail oder Kurznachricht, zusammen mit dem Hinweis, wohin sich der Kunde bei einem Schaden wendet. Wie Sie Link und QR-Code im Profil erzeugen, steht in [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen#bewertungslink).",
         },
         {
           t: "table",
@@ -332,12 +332,14 @@ const article: V4Article = {
     { title: "Leistung und Statistiken Ihres Unternehmensprofils", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9918094?hl=de" },
     { title: "Umzugsunternehmen: So fallen Sie nicht auf Umzugs-Abzocker rein (Stand 11. Juni 2025)", publisher: "Verbraucherzentrale", url: "https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/kundenrechte/umzugsunternehmen-so-fallen-sie-nicht-auf-umzugsabzocker-rein-10470" },
     { title: "Handelsgesetzbuch, § 451e Haftungshöchstbetrag", publisher: "dejure.org", url: "https://dejure.org/gesetze/HGB/451e.html" },
-    { title: "§ 451g HGB: Haftungsbestimmungen beim Umzugsvertrag", publisher: "Bundesministerium der Justiz, Gesetze im Internet", url: "https://www.gesetze-im-internet.de/hgb/__451g.html" },
+    { title: "Handelsgesetzbuch, § 451g Wegfall der Haftungsbefreiungen und -begrenzungen", publisher: "lxgesetze.de", url: "https://lxgesetze.de/hgb/451g" },
+    { title: "Handelsgesetzbuch, § 451f Schadensanzeige", publisher: "dejure.org", url: "https://dejure.org/gesetze/HGB/451f.html" },
     { title: "Erlaubnispflicht im Güterkraftverkehr (Stand 13. Februar 2026)", publisher: "IHK Heilbronn-Franken", url: "https://www.ihk.de/heilbronn-franken/produktmarken/branchen/verkehr/gueterverkehr/erlaubnispflicht-im-gueterkraftverkehr-4901500" },
     { title: "Preisangabenverordnung, § 3 Pflicht zur Angabe des Gesamtpreises", publisher: "lxgesetze.de", url: "https://lxgesetze.de/pangv/3" },
-    { title: "Preisangabenverordnung, § 12 Preisverzeichnis", publisher: "lxgesetze.de", url: "https://lxgesetze.de/pangv/12" },
+    { title: "Preisangabenverordnung, § 12 Preisangaben für Leistungen", publisher: "lxgesetze.de", url: "https://lxgesetze.de/pangv/12" },
     { title: "Gesetz gegen den unlauteren Wettbewerb, § 5 Irreführende geschäftliche Handlungen", publisher: "lxgesetze.de", url: "https://lxgesetze.de/uwg/5" },
     { title: "Qualitätskennzeichen „geprüfter amoe:spediteur“ (Urkunde eines Mitgliedsbetriebs vom 8. September 2025)", publisher: "Friedrich Kurz GmbH", url: "https://www.kurz-logistik.de/wp-content/uploads/2026/02/Qualitaetskennzeichen-gepruefter-amoe-spediteur_Friedrich-Kurz-GmbH.pdf" },
+    { title: "Geprüfter amoe:spediteur: das Qualitätskennzeichen der AMÖ (6. August 2026)", publisher: "Verkehrsrundschau", url: "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/gepruefter-amoe-spediteur-das-qualitaetskennzeichen-der-amoe-3885289" },
     { title: "Umzugsunternehmen in Bochum (Portalverzeichnis)", publisher: "MyHammer", url: "https://www.my-hammer.de/umzugsunternehmen/bochum/" },
   ],
   related: [
