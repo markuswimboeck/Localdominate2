@@ -16,11 +16,11 @@ const article: V4Article = {
     "Empfangen Sie keine Kunden im Betrieb, blenden Sie die Adresse aus und wählen Sie bis zu 20 Orte oder Postleitzahlen als Einzugsgebiet. Ein Elektrofachgeschäft mit Verkauf zeigt Adresse und Einzugsgebiet.",
     "„Meisterbetrieb“, „24h“ oder Ortsnamen gehören nicht in den Namen im Profil. Google verbietet unnötige Zusätze.",
     "Eine eigene Seite für Wallbox, Photovoltaik und Smart Home beantwortet die Fragen der Kunden besser als eine Sammelseite. Fast gleiche Seiten für jeden Nachbarort können nach Googles Spamrichtlinien als Brückenseiten gelten.",
-    "In Deutschland ist der Meistertitel geschützt, und Arbeiten an der Kundenanlage hinter der Hausanschlusssicherung darf außer dem Netzbetreiber nur ein Unternehmen ausführen, das in das Installateurverzeichnis eines Netzbetreibers eingetragen ist. Beides sind belegbare Vertrauenssignale.",
+    "In Deutschland ist der Meistertitel geschützt, und Arbeiten an der Kundenanlage hinter der Hausanschlusssicherung darf außer dem Netzbetreiber grundsätzlich nur ein Unternehmen ausführen, das in das Installateurverzeichnis eines Netzbetreibers eingetragen ist. Für Instandhaltungsarbeiten gibt es Ausnahmen. Beides sind belegbare Vertrauenssignale.",
     "Bitten Sie jeden Kunden um eine Bewertung, aber nicht vor Ort unter Druck und ohne Gegenleistung.",
   ],
   publishedAt: "2026-02-18",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 13,
   sections: [
     {
@@ -67,7 +67,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Einen Radius können Sie laut Google nicht angeben, nur benannte Gebiete. Google rät, dass das Einzugsgebiet nicht weiter als etwa zwei Autostunden vom Betrieb entfernt liegt. Ein Unternehmen ohne festen Standort darf genau ein Profil für sein Einzugsgebiet haben. Zusätzliche Profile gibt es nur für echte Niederlassungen.",
+          text: "Einen Radius können Sie laut Google nicht angeben, nur benannte Gebiete. Google rät, dass das Einzugsgebiet nicht weiter als etwa zwei Autostunden vom Betrieb entfernt liegt. Ein Unternehmen ohne festen Standort darf genau ein Profil für sein Einzugsgebiet haben. Für zusätzliche Profile brauchen Sie jeweils einen eigenen, echten Standort, denn Google erlaubt für jeden Standort nicht mehr als ein Profil.",
         },
         {
           t: "note",
@@ -120,7 +120,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Die Verbraucherzentrale NRW warnt in ihrem Beitrag über Schein-Rohrreiniger (Stand 23. September 2026) vor Anbietern, die über bezahlte Anzeigen oben in der Suche stehen, nur eine Mobilfunk- oder 0800-Nummer zeigen, kein Impressum haben und zur sofortigen Zahlung in bar oder mit Karte drängen. Der Beitrag betrifft Rohrreinigung. Unsere Einschätzung: Kunden, die das gelesen haben, prüfen auch einen Elektro-Notdienst genauer. Zeigen Sie deshalb Impressum, Festnetznummer, Fotos von Team und Fahrzeugen und eine ordentliche Rechnung als Standard.",
+          text: "Die Verbraucherzentrale NRW warnt in ihrem Beitrag über Schein-Rohrreiniger (Stand 23. September 2026) vor Anbietern, die über bezahlte Anzeigen oben in der Suche stehen, nur eine Mobilfunk- oder 0800-Nummer zeigen, kein oder ein abweichendes Impressum haben und zur sofortigen Zahlung in bar oder mit Karte drängen. Der Beitrag betrifft Rohrreinigung. Unsere Einschätzung: Kunden, die das gelesen haben, prüfen auch einen Elektro-Notdienst genauer. Zeigen Sie deshalb Impressum, Festnetznummer, Fotos von Team und Fahrzeugen und eine ordentliche Rechnung als Standard.",
         },
         {
           t: "p",
@@ -196,7 +196,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Keine Städteseiten auf Vorrat",
-          text: "Google nennt in seinen Spamrichtlinien als Missbrauch von Brückenseiten unter anderem Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer zur selben Seite weiterleiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Nennen Sie Ihre Einsatzorte als Liste auf der Leistungsseite statt zwanzig Seiten „Elektriker [Ort]“.",
+          text: "Google nennt in seinen Spamrichtlinien als Missbrauch von Brückenseiten unter anderem Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer zur selben Seite weiterleiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Unsere Einschätzung: Zwanzig fast gleiche Seiten „Elektriker [Ort]“ sind ein Risiko. Nennen Sie Ihre Einsatzorte besser als Liste auf der Leistungsseite.",
         },
       ],
     },
@@ -213,18 +213,18 @@ const article: V4Article = {
           rows: [
             ["Deutschland", "Elektrotechniker ist ein zulassungspflichtiges Handwerk (Anlage A der Handwerksordnung, Nr. 25)", "Eintragung in die Handwerksrolle bei Ihrer Handwerkskammer"],
             ["Deutschland", "Den Titel Meister in Verbindung mit einem zulassungspflichtigen Handwerk darf nur führen, wer die Meisterprüfung bestanden hat (§ 51 HwO)", "Meistertitel des Inhabers oder Betriebsleiters, nur wenn vorhanden"],
-            ["Deutschland", "Arbeiten an der Anlage hinter dem Hausanschluss dürfen außer dem Netzbetreiber nur in ein Installateurverzeichnis eingetragene Unternehmen ausführen (§ 13 Abs. 2 NAV)", "Eintragung in das Installateurverzeichnis eines Netzbetreibers, in der Regel am Ort Ihrer Niederlassung"],
+            ["Deutschland", "Arbeiten an der Anlage hinter dem Hausanschluss dürfen außer dem Netzbetreiber nur in ein Installateurverzeichnis eingetragene Unternehmen ausführen (§ 13 Abs. 2 NAV). Für Instandhaltungsarbeiten gilt das mit Ausnahme des Bereichs von der Hausanschlusssicherung bis einschließlich der Messeinrichtung nicht", "Eintragung in das Installateurverzeichnis eines Netzbetreibers, in der Regel am Ort Ihrer Niederlassung"],
             ["Österreich", "Gewerbe der Elektrotechnik nach § 94 Z 16 GewO 1994 mit eigenen Standesregeln", "Gewerbeberechtigung für Elektrotechnik"],
             ["Schweiz", "Wer elektrische Installationen erstellt, ändert oder in Stand stellt, braucht eine Bewilligung des ESTI", "Installationsbewilligung; das ESTI führt ein Verzeichnis der Bewilligungen"],
           ],
         },
         {
           t: "p",
-          text: "Arbeiten Sie im Gebiet mehrerer Netzbetreiber, ist das für Ihr Einzugsgebiet wichtig. Laut den Grundsätzen, die der BDEW zum Installateurverzeichnis veröffentlicht, kann ein eingetragenes Unternehmen im Gebiet eines anderen Netzbetreibers arbeiten, wenn es seine Eintragung bei dem Netzbetreiber am Betriebssitz nachweist. Klären Sie das, bevor Sie Orte in fremden Netzgebieten ins Profil aufnehmen.",
+          text: "Arbeiten Sie im Gebiet mehrerer Netzbetreiber, ist das für Ihr Einzugsgebiet wichtig. Laut den Grundsätzen, die der BDEW zum Installateurverzeichnis veröffentlicht, kann ein eingetragenes Unternehmen im Gebiet eines anderen Netzbetreibers arbeiten, wenn es seine Eintragung in das Installateurverzeichnis des Netzbetreibers am Ort seiner gewerblichen Niederlassung nachweist. Klären Sie das, bevor Sie Orte in fremden Netzgebieten ins Profil aufnehmen.",
         },
         {
           t: "p",
-          text: "Die österreichischen Standesregeln für die Elektrotechnik untersagen absichtlich unrichtige oder irreführende Angaben über die eigenen geschäftlichen Verhältnisse. Unsere Einschätzung: Diese Haltung gilt überall. Schreiben Sie „Meisterbetrieb“ nur, wenn ein Meister im Betrieb tätig ist, und Zertifikate von Herstellern nur, solange sie gültig sind.",
+          text: "Die österreichischen Standesregeln für die Elektrotechnik untersagen in § 4 Z 1 absichtlich unrichtige oder irreführende Angaben über die eigenen geschäftlichen und wirtschaftlichen Verhältnisse. Unsere Einschätzung: Diese Haltung gilt überall. Schreiben Sie „Meisterbetrieb“ nur, wenn ein Meister im Betrieb tätig ist, und Zertifikate von Herstellern nur, solange sie gültig sind.",
         },
         {
           t: "note",
@@ -282,7 +282,7 @@ const article: V4Article = {
       id: "portale-messen",
       title: "Portale, Anzeigen und Messung",
       answer:
-        "Anzeigen für lokale Dienstleistungen führt Google auch für Elektriker, aber nur in bestimmten Regionen, und Sie zahlen je Kontakt. Auftragsportale und Verzeichnisse können Anfragen bringen, wenn die Firmendaten überall gleich sind. Messen Sie Anrufe und Anfragen, nicht nur Positionen.",
+        "Googles Anzeigen für lokale Dienstleistungen nennen Elektriker in der Branchenliste, sind aber nur in bestimmten Regionen verfügbar, und Sie zahlen nur bei einem Kontakt. Auftragsportale und Verzeichnisse können Anfragen bringen, wenn die Firmendaten überall gleich sind. Messen Sie Anrufe und Anfragen, nicht nur Positionen.",
       blocks: [
         {
           t: "p",
@@ -316,7 +316,7 @@ const article: V4Article = {
     },
     {
       q: "Brauche ich für jeden Ort in meinem Einzugsgebiet eine eigene Seite?",
-      a: "Nein. Fast gleiche Seiten, bei denen nur der Ortsname wechselt, können nach Googles Spamrichtlinien als Missbrauch von Brückenseiten gelten. Besser ist eine Seite je Leistung mit einer Liste der Einsatzorte. Eine eigene Ortsseite lohnt sich bei einer echten Niederlassung.",
+      a: "Nein. Fast gleiche Seiten, bei denen nur der Ortsname wechselt, sind nach unserer Einschätzung riskant, denn Googles Spamrichtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Besser ist eine Seite je Leistung mit einer Liste der Einsatzorte. Eine eigene Ortsseite lohnt sich bei einer echten Niederlassung.",
     },
     {
       q: "Was gehört auf eine Seite für Wallbox-Installation?",
@@ -351,6 +351,8 @@ const article: V4Article = {
     { title: "Niederspannungsanschlussverordnung (NAV), § 19 Betrieb von elektrischen Anlagen und Ladeeinrichtungen", publisher: "gesetze.legal", url: "https://gesetze.legal/bund/nav/19" },
     { title: "Bundesinstallateurausschuss Strom: Grundsätze für das Installateurverzeichnis", publisher: "BDEW", url: "https://www.bdew.de/energie/bundesinstallateurausschuss-strom/" },
     { title: "Preisangabenverordnung (PAngV), § 12 Preisangaben für Leistungen (zuletzt geändert 12. Mai 2026)", publisher: "lxgesetze.de", url: "https://lxgesetze.de/pangv/12" },
+    { title: "Gewerbeordnung 1994, § 94 Reglementierte Gewerbe (Z 16 Elektrotechnik)", publisher: "Rechtsinformationssystem des Bundes (RIS), Österreich", url: "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=94" },
+    { title: "Standesregeln für das Gewerbe der Elektrotechnik, BGBl. II Nr. 12/2014 (Kundmachung vom 23. Jänner 2014, § 4 Z 1)", publisher: "Rechtsinformationssystem des Bundes (RIS), Österreich", url: "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2014_II_12/BGBLA_2014_II_12.html" },
     { title: "Standesregeln für das Gewerbe der Elektrotechnik, BGBl. II Nr. 12/2014", publisher: "Wirtschaftskammer Salzburg", url: "https://wko.at/sbg/gewerbe-handwerk/elektro-gebaeude-alarm-kommunikation/standesregel-elektrotechnik.pdf" },
     { title: "Bewilligungen NIV (Stand 31. Oktober 2025)", publisher: "Eidgenössisches Starkstrominspektorat ESTI", url: "https://www.esti.admin.ch/de/themen/bewilligungen-niv-uebersicht/bewilligungen-niv" },
     { title: "Bewilligungsverzeichnisse", publisher: "Eidgenössisches Starkstrominspektorat ESTI", url: "https://www.esti.admin.ch/de/dokumentation/bewilligungsverzeichnisse" },
