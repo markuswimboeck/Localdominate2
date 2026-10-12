@@ -72,8 +72,6 @@ const LocalSeoBasel = lazy(() => import("./pages/blog/LocalSeoBasel"));
 const LocalSeoMehrstufigUnternehmen = lazy(() => import("./pages/blog/LocalSeoMehrstufigUnternehmen"));
 const EEATLokaleUnternehmen = lazy(() => import("./pages/blog/EEATLokaleUnternehmen"));
 const LocalSeoNeugruender = lazy(() => import("./pages/blog/LocalSeoNeugruender"));
-const LokaleEventsMarketing = lazy(() => import("./pages/blog/LokaleEventsMarketing"));
-const LokaleInfluencerKooperationen = lazy(() => import("./pages/blog/LokaleInfluencerKooperationen"));
 const GoogleBusinessProdukteServices = lazy(() => import("./pages/blog/GoogleBusinessProdukteServices"));
 const BewertungsAntwortenVorlagen = lazy(() => import("./pages/blog/BewertungsAntwortenVorlagen"));
 const GoogleBusinessInsightsVerstehen = lazy(() => import("./pages/blog/GoogleBusinessInsightsVerstehen"));
@@ -81,8 +79,6 @@ const GooglePostsRankingFaktor = lazy(() => import("./pages/blog/GooglePostsRank
 
 // Troubleshooting & neue Artikel
 const LocalSeoVsMaps = lazy(() => import("./pages/blog/LocalSeoVsMaps"));
-const LocalSeoVsOrganisch = lazy(() => import("./pages/blog/LocalSeoVsOrganisch"));
-const GoogleMapsSeoVsOrganicSeo = lazy(() => import("./pages/blog/GoogleMapsSeoVsOrganicSeo"));
 const LocalCitations2025 = lazy(() => import("./pages/blog/LocalCitations2025"));
 const LocalSeoHannover = lazy(() => import("./pages/blog/LocalSeoHannover"));
 const LocalSeoReportingTemplate = lazy(() => import("./pages/blog/LocalSeoReportingTemplate"));
@@ -241,15 +237,11 @@ const App = () => (
                 <Route path="/blog/local-seo-mehrstufig-unternehmen" element={<LocalSeoMehrstufigUnternehmen />} />
                 <Route path="/blog/e-e-a-t-lokale-unternehmen" element={<EEATLokaleUnternehmen />} />
                 <Route path="/blog/lokale-seo-fuer-neugruender" element={<LocalSeoNeugruender />} />
-                <Route path="/blog/lokale-events-marketing" element={<LokaleEventsMarketing />} />
-                <Route path="/blog/lokale-influencer-kooperationen" element={<LokaleInfluencerKooperationen />} />
                 <Route path="/blog/google-business-produkte-services" element={<GoogleBusinessProdukteServices />} />
                 <Route path="/blog/bewertungs-antworten-vorlagen" element={<BewertungsAntwortenVorlagen />} />
                 <Route path="/blog/google-business-insights-verstehen" element={<GoogleBusinessInsightsVerstehen />} />
                 <Route path="/blog/google-posts-ranking-faktor" element={<GooglePostsRankingFaktor />} />
                 <Route path="/blog/local-seo-vs-maps-seo" element={<LocalSeoVsMaps />} />
-                <Route path="/blog/local-seo-vs-organisch" element={<LocalSeoVsOrganisch />} />
-                <Route path="/blog/google-maps-seo-vs-organic-seo" element={<GoogleMapsSeoVsOrganicSeo />} />
                 <Route path="/blog/local-citations-2025" element={<LocalCitations2025 />} />
                 <Route path="/blog/local-seo-hannover" element={<LocalSeoHannover />} />
                 <Route path="/blog/local-seo-reporting-template" element={<LocalSeoReportingTemplate />} />
