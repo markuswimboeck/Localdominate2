@@ -925,7 +925,7 @@
   ],
   "ldAuthors": [],
   "ldDatePublished": "2026-03-08",
-  "ldDateModified": "2026-10-10",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/agb",
@@ -6179,7 +6179,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/kostenloses-seo-guide.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-09",
-  "articleModified": "2026-10-10",
+  "articleModified": "2026-10-12",
   "h1": [
    "Kostenloses SEO: Was Sie ohne Budget selbst erledigen können"
   ],
@@ -6207,7 +6207,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-09",
-  "ldDateModified": "2026-10-10",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -6250,7 +6250,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2665,
+  "words": 2664,
   "htmlLang": "de"
  },
  {
@@ -7085,7 +7085,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3272,
+  "words": 3276,
   "htmlLang": "de"
  },
  {
@@ -8693,7 +8693,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-fuer-restaurants.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-07",
-  "articleModified": "2026-10-10",
+  "articleModified": "2026-10-12",
   "h1": [
    "Local SEO für Restaurants: So finden Gäste Ihren Tisch"
   ],
@@ -8721,7 +8721,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-07",
-  "ldDateModified": "2026-10-10",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -8771,7 +8771,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2977,
+  "words": 2980,
   "htmlLang": "de"
  },
  {
@@ -8859,7 +8859,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3063,
+  "words": 3067,
   "htmlLang": "de"
  },
  {
@@ -9856,7 +9856,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2865,
+  "words": 2875,
   "htmlLang": "de"
  },
  {
@@ -11031,34 +11031,27 @@
  {
   "path": "/blog/local-seo-statistiken-daten",
   "finalPath": "/blog/local-seo-statistiken-daten",
-  "title": "Local SEO Statistiken 2026 – 88+ Datenpunkte | LocalDominate",
-  "description": "88+ aktuelle Local SEO Statistiken für 22 Branchen: Ranking-Faktoren, Bewertungs-Daten, Mobile-Trends und branchenspezifische Benchmarks mit Quellenangaben.",
+  "title": "Local-SEO-Zahlen: was belegt ist und was Sie selbst messen",
+  "description": "Welche Local-SEO-Zahlen eine echte Quelle haben, warum viele Statistiken nicht taugen und welche Daten Sie kostenlos selbst erheben, mit Monatsvorlage.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/local-seo-statistiken-daten",
   "hreflang": [],
-  "ogTitle": "Local SEO Statistiken 2026 – 88+ Datenpunkte | LocalDominate",
+  "ogTitle": "Local-SEO-Zahlen: was belegt ist und was Sie selbst messen",
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-statistiken-daten.jpg",
   "ogType": "article",
   "articlePublished": "2026-03-08",
-  "articleModified": "2026-03-08",
+  "articleModified": "2026-10-12",
   "h1": [
-   "Local SEO Statistiken & Daten 2026: 88+ Datenpunkte für 22 Branchen"
+   "Local-SEO-Zahlen: was belegt ist und wie Sie Ihre eigenen Daten erheben"
   ],
-  "jsonLdBlocks": 9,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
@@ -11068,47 +11061,60 @@
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
-   "LocalDominate Redaktion",
-   "LocalDominate"
+   "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-03-08",
-  "ldDateModified": "2026-03-08",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
-   "/blog/ai-suche-lokale-unternehmen",
-   "/blog/google-maps-audit-template",
-   "/blog/google-maps-ranking-verbessern",
-   "/blog/kostenloses-seo-guide",
-   "/blog/local-seo-audit-checkliste",
-   "/blog/local-seo-branchen-hub",
-   "/blog/local-seo-keywords-finden",
-   "/blog/lokale-suchmaschinenoptimierung-2026",
-   "/blog/ultimate-guide-local-seo",
+   "/blog/ai-visibility-index-local-seo-metrik",
+   "/blog/ai-zitat-monitoring-local-seo-2026",
+   "/blog/google-bewertungen-bekommen",
+   "/blog/google-maps-ranking-case-studies",
+   "/blog/google-maps-ranking-tracker",
+   "/blog/google-maps-seo-ranking-faktoren",
+   "/blog/google-my-business-optimieren",
+   "/blog/local-seo-monthly-checklist",
+   "/blog/local-seo-statistiken-daten",
+   "/blog/local-seo-trends-oesterreich",
+   "/creators",
    "/datenschutz",
-   "/handwerker-marketing",
+   "/de",
+   "/de/ki",
    "/impressum",
-   "/restaurant-marketing",
-   "/seo-lexikon"
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
+   "/industries/practices",
+   "/industries/restaurants",
+   "/industries/trades",
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 1761,
-  "htmlLang": "en"
+  "images": [],
+  "words": 2776,
+  "htmlLang": "de"
  },
  {
   "path": "/blog/local-seo-steuerberater",
@@ -15105,7 +15111,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/ultimate-guide-local-seo.jpg",
   "ogType": "article",
   "articlePublished": "2026-03-08",
-  "articleModified": "2026-10-10",
+  "articleModified": "2026-10-12",
   "h1": [
    "Local SEO: Der Leitfaden für lokale Unternehmen"
   ],
@@ -15133,7 +15139,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-03-08",
-  "ldDateModified": "2026-10-10",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -15180,7 +15186,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2667,
+  "words": 2671,
   "htmlLang": "de"
  },
  {
