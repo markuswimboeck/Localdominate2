@@ -11,7 +11,7 @@ const article: V4Article = {
   lead:
     "Für Inhaber kleiner Betriebe, die KI-Assistenten für Bewertungsantworten, Profiltexte, Beiträge und Website-Inhalte einsetzen wollen. Sie erfahren, welche Aufgaben sich eignen, was Google zu KI-Texten und Bewertungsantworten schreibt, welche Daten nicht in ein KI-Werkzeug gehören und wie Sie die Arbeit im Team regeln.",
   answer:
-    "KI-Assistenten wie ChatGPT, Claude, Gemini oder Copilot eignen sich für Entwürfe: Antworten auf Bewertungen, Profilbeschreibung, Beiträge, Gliederungen und die Auswertung vieler Bewertungen. Google verbietet KI-Texte nicht, verlangt aber, dass Sie sie auf Richtigkeit prüfen und keine Massenseiten ohne Mehrwert erzeugen. Kundendaten gehören nicht in private Konten. Wer KI beruflich nutzt, muss außerdem für KI-Kompetenz im Team sorgen.",
+    "KI-Assistenten wie ChatGPT, Claude, Gemini oder Copilot eignen sich für Entwürfe: Antworten auf Bewertungen, Profilbeschreibung, Beiträge, Gliederungen und die Auswertung vieler Bewertungen. Google verbietet KI-Texte nicht, nennt die Prüfung auf Richtigkeit aber entscheidend und zählt Massenseiten ohne Mehrwert zum Spam. Kundendaten gehören nicht in private Konten. Wer KI beruflich nutzt, muss außerdem für KI-Kompetenz im Team sorgen.",
   takeaways: [
     "Google bewertet Inhalte nach Nutzen, nicht nach Herstellungsweise. Viele Seiten mit KI ohne Mehrwert zu erzeugen, nennt Google ausdrücklich als Beispiel für Spam.",
     "Google empfiehlt selbst, alle KI-Inhalte von Hand auf Richtigkeit zu prüfen, auch Seitentitel, Beschreibungen und Alternativtexte.",
@@ -20,7 +20,7 @@ const article: V4Article = {
     "Seit dem 2. Februar 2025 gilt Artikel 4 der KI-Verordnung: Betriebe, die KI beruflich nutzen, müssen Maßnahmen für die KI-Kompetenz ihres Personals ergreifen.",
   ],
   publishedAt: "2026-01-10",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 13,
   sections: [
     {
@@ -234,9 +234,9 @@ const article: V4Article = {
           caption: "Was die Anbieter zur Nutzung Ihrer Eingaben schreiben (Stand 11. Oktober 2026)",
           head: ["Werkzeug", "Private Konten", "Geschäftstarife"],
           rows: [
-            ["ChatGPT (OpenAI)", "Training über „Improve the model for everyone“ in den Datenkontrollen abschaltbar; temporäre Chats bis zu 30 Tage gespeichert", "Business, Enterprise, Edu und API laut OpenAI standardmäßig ohne Training; Auftragsverarbeitungsvertrag wird unterstützt"],
+            ["ChatGPT (OpenAI)", "Training über „Das Modell für alle verbessern“ in den Datenkontrollen abschaltbar; temporäre Chats bis zu 30 Tage gespeichert", "Business, Enterprise, Edu und API laut OpenAI standardmäßig ohne Training; Auftragsverarbeitungsvertrag wird unterstützt"],
             ["Claude (Anthropic)", "Free, Pro und Max: Nutzer entscheiden seit den Verbraucherbedingungen vom August 2025 selbst; bei Zustimmung bis zu fünf Jahre Speicherung", "Kommerzielle Produkte wie Claude for Work und API laut Anthropic ohne Training"],
-            ["Gemini (Google)", "Bei aktivierter Aktivität Nutzung auch zum Training; ein Teil der Chats wird von Menschen gelesen; Google rät, keine vertraulichen Daten einzugeben", "Nicht in diesem Artikel geprüft"],
+            ["Gemini (Google)", "Bei aktivierter Einstellung „Aktivitäten speichern“ Nutzung auch zum Training; ein Teil der Chats wird von Menschen gelesen; Google rät, keine vertraulichen Daten einzugeben", "Nicht in diesem Artikel geprüft"],
             ["Copilot (Microsoft)", "Training außer bei bestimmten Nutzern oder nach Widerspruch, Wirkung bis zu 30 Tage", "Mit Organisationskonto (Entra ID) laut Microsoft vom Training ausgenommen"],
           ],
         },
@@ -316,11 +316,11 @@ const article: V4Article = {
     { title: "Orientierungshilfe Künstliche Intelligenz und Datenschutz, Version 1.0 (6. Mai 2024)", publisher: "Datenschutzkonferenz (DSK)", url: "https://www.datenschutzkonferenz-online.de/media/oh/20240506_DSK_Orientierungshilfe_KI_und_Datenschutz.pdf" },
     { title: "Update: Geltendes Datenschutzgesetz ist auf KI direkt anwendbar (8. Mai 2025)", publisher: "Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)", url: "https://www.edoeb.admin.ch/de/update-geltendes-datenschutzgesetz-ist-auf-ki-direkt-anwendbar" },
     { title: "AI literacy: questions and answers (Stand 27. Juli 2026)", publisher: "Europäische Kommission", url: "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers" },
-    { title: "Data Controls FAQ", publisher: "OpenAI Help Center", url: "https://help.openai.com/en/articles/7730893-data-controls-faq" },
+    { title: "Data Controls FAQ (deutsche Fassung)", publisher: "OpenAI Help Center", url: "https://help.openai.com/de-de/articles/7730893-data-controls-faq" },
     { title: "Business data privacy, security, and compliance", publisher: "OpenAI", url: "https://openai.com/business-data/" },
     { title: "Updates to Consumer Terms and Privacy Policy (28. August 2025)", publisher: "Anthropic", url: "https://www.anthropic.com/news/updates-to-our-consumer-terms" },
     { title: "Is my data used for model training? (Stand 18. August 2026)", publisher: "Anthropic Privacy Center", url: "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training" },
-    { title: "Gemini Apps Privacy Hub", publisher: "Google Gemini Help", url: "https://support.google.com/gemini/answer/13594961?hl=en" },
+    { title: "Privacy Hub für Gemini-Apps", publisher: "Gemini-Apps-Hilfe (Google)", url: "https://support.google.com/gemini/answer/13594961?hl=de" },
     { title: "Privacy FAQ for Microsoft Copilot", publisher: "Microsoft Support", url: "https://support.microsoft.com/en-us/topic/privacy-faq-for-microsoft-copilot-27b3a435-8dc9-4b55-9a4b-58eeb9647a7f" },
   ],
   related: [
