@@ -20,7 +20,7 @@ const article: V4Article = {
     "Bitten Sie jeden Kunden nach der Abnahme um eine Bewertung, ohne Gegenleistung und ohne Druck. Bei Pflegeverträgen eignet sich das Ende der ersten Saison.",
   ],
   publishedAt: "2026-08-08",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 13,
   sections: [
     {
@@ -58,7 +58,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Nach § 39 Abs. 5 Bundesnaturschutzgesetz ist es in Deutschland verboten, Hecken, lebende Zäune, Gebüsche und andere Gehölze in der Zeit vom 1. März bis zum 30. September abzuschneiden, auf den Stock zu setzen oder zu beseitigen. Für Bäume gilt das Verbot, wenn sie außerhalb des Waldes, von Kurzumtriebsplantagen oder gärtnerisch genutzten Grundflächen stehen. Zulässig bleiben schonende Form- und Pflegeschnitte zur Beseitigung des Zuwachses oder zur Gesunderhaltung von Bäumen. Nennen Sie diese Zeiten auf Ihrer Seite zu Rodung und Rückschnitt, damit Kunden rechtzeitig anfragen.",
+          text: "Nach § 39 Abs. 5 Bundesnaturschutzgesetz ist es in Deutschland verboten, Hecken, lebende Zäune, Gebüsche und andere Gehölze in der Zeit vom 1. März bis zum 30. September abzuschneiden, auf den Stock zu setzen oder zu beseitigen. Bäume erfasst das Verbot nur, wenn sie weder im Wald noch in Kurzumtriebsplantagen noch auf gärtnerisch genutzten Grundflächen stehen. Zulässig bleiben schonende Form- und Pflegeschnitte zur Beseitigung des Zuwachses oder zur Gesunderhaltung von Bäumen. Nennen Sie diese Zeiten auf Ihrer Seite zu Rodung und Rückschnitt, damit Kunden rechtzeitig anfragen.",
         },
         {
           t: "table",
@@ -118,7 +118,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Einschätzung",
-          text: "Google veröffentlicht keine vollständige deutsche Kategorienliste. Welche Bezeichnungen für Gartenbetriebe angeboten werden, sehen Sie nur im Profil selbst. Prüfen Sie zusätzlich, welche Hauptkategorie gut sichtbare Mitbewerber in Ihrer Stadt verwenden. Das zeigt, was es gibt, nicht was Sie wählen müssen.",
+          text: "Googles Hilfe zu Kategorien enthält keine Gesamtliste, sondern beschreibt die Auswahl im Profil. Welche Bezeichnungen für Gartenbetriebe angeboten werden, sehen Sie im Profil selbst. Prüfen Sie zusätzlich, welche Hauptkategorie gut sichtbare Mitbewerber in Ihrer Stadt verwenden. Das zeigt, was es gibt, nicht was Sie wählen müssen.",
         },
       ],
     },
@@ -295,7 +295,7 @@ const article: V4Article = {
     },
     {
       q: "Brauche ich für jede Stadt im Einzugsgebiet eine eigene Seite?",
-      a: "Nein. Fast gleiche Seiten, auf denen nur der Ortsname wechselt, können nach Googles Spamrichtlinien als Brückenseiten gelten. Besser sind eine Seite je Leistung mit einer Liste Ihrer Einsatzorte und Projektseiten zu echten Aufträgen mit Ort im Titel.",
+      a: "Nein. Fast gleiche Seiten, auf denen nur der Ortsname wechselt, sind nach unserer Einschätzung riskant, denn Googles Spamrichtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Besser sind eine Seite je Leistung mit einer Liste Ihrer Einsatzorte und Projektseiten zu echten Aufträgen mit Ort im Titel.",
     },
     {
       q: "Wann darf ich Hecken und Bäume stark zurückschneiden?",

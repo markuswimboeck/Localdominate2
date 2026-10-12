@@ -1322,7 +1322,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-02-14",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "💊",
     keywords: ["apotheke seo", "apotheken marketing", "local seo apotheke", "notdienst apotheke"],
     featured: false
@@ -1391,7 +1391,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "\u{1F69A}",
     keywords: [
       "local seo umzugsunternehmen",
@@ -1991,10 +1991,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-vs-organisch",
     de: {
-      title: "Local SEO vs. organisches SEO: Die wichtigsten Unterschiede",
-      metaTitle: "Local SEO vs Organic SEO | Unterschiede 2026",
-      metaDescription: "Was unterscheidet Local SEO von klassischem SEO? Gemeinsamkeiten, Unterschiede und wann Sie welche Strategie brauchen.",
-      excerpt: "Local Pack vs. Organische Suche: Verstehen Sie die Unterschiede.",
+      title: "Local SEO oder organisches SEO: Was Ihr Betrieb zuerst braucht",
+      metaTitle: "Local SEO oder organisches SEO: Was braucht Ihr Betrieb?",
+      metaDescription: "Local SEO oder organisches SEO? Wo beides bei Google erscheint, welcher Betrieb was zuerst braucht, ein Plan nach Priorität und wie Sie beides getrennt messen.",
+      excerpt: "Local SEO oder organisches SEO? Wo beides bei Google erscheint, welcher Betrieb was zuerst braucht, ein Plan nach Priorität und wie Sie beides getrennt messen.",
       category: "Strategie"
     },
     en: {
@@ -2006,7 +2006,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-02-21",
-    updatedAt: "2026-02-21",
+    updatedAt: "2026-10-12",
     icon: "⚖️",
     keywords: ["local seo vs seo", "organische suche", "local pack", "seo unterschiede"],
     featured: false
@@ -2014,10 +2014,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-seo-vs-organic-seo",
     de: {
-      title: "Google Maps SEO vs. Organic SEO: Ranking-Faktoren, Strategien & ROI im Vergleich",
-      metaTitle: "Google Maps SEO vs Organic SEO | Vergleich 2026",
-      metaDescription: "Google Maps SEO vs. Organic SEO: Ranking-Faktoren, Kosten, ROI und die optimale Kombination für lokale Unternehmen. Mit Vergleichstabelle.",
-      excerpt: "Maps oder organische Suche? Ranking-Faktoren, Kosten und ROI im direkten Vergleich.",
+      title: "Google Maps SEO und organisches SEO: Was Google zu den beiden Rankings sagt",
+      metaTitle: "Google Maps SEO vs. organisches SEO: Was Google bewertet",
+      metaDescription: "Wie Google lokale Treffer in Maps und normale Suchergebnisse sortiert, welche Signale beide teilen, welche nicht und was daraus für Profil und Website folgt.",
+      excerpt: "Wie Google lokale Treffer in Maps und normale Suchergebnisse sortiert, welche Signale beide teilen, welche nicht und was daraus für Profil und Website folgt.",
       category: "Strategie"
     },
     en: {
@@ -2027,9 +2027,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Maps or organic search? Ranking factors, costs and ROI in direct comparison.",
       category: "Strategy"
     },
-    readingTime: 14,
+    readingTime: 12,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-12",
     icon: "🗺️",
     keywords: ["google maps seo vs organic seo", "maps ranking faktoren", "organic seo vergleich", "local pack vs organic", "maps seo strategie", "seo vergleich"],
     featured: false
@@ -2755,7 +2755,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-02-03",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "🚨",
     keywords: ["notdienst seo", "emergency keywords", "sofort hilfe", "24 stunden service", "dringende suche"],
     featured: false
@@ -2809,10 +2809,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "lokale-events-marketing",
     de: {
-      title: "Lokale Events für SEO nutzen: Sponsoring & Veranstaltungen",
-      metaTitle: "Lokale Events für SEO | Event-Marketing 2026",
-      metaDescription: "Wie du lokale Events und Sponsoring für bessere Local SEO nutzt. Backlinks, Markenbekanntheit und lokale Autorität aufbauen.",
-      excerpt: "Der Guide zur Nutzung lokaler Events für mehr Sichtbarkeit und bessere Rankings.",
+      title: "Lokales Event-Marketing: So finden Menschen in Ihrer Stadt Ihre Veranstaltung",
+      metaTitle: "Lokale Events bewerben: Profil, Website und Kalender",
+      metaDescription: "So finden Gäste Ihre Veranstaltung: Beitrag im Unternehmensprofil, Event-Daten auf der Website, Stadtkalender und Ticketportale, Zeitplan und Nachbereitung.",
+      excerpt: "So finden Gäste Ihre Veranstaltung: Beitrag im Unternehmensprofil, Event-Daten auf der Website, Stadtkalender und Ticketportale, Zeitplan und Nachbereitung.",
       category: "Strategie"
     },
     en: {
@@ -2822,9 +2822,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The guide to using local events for more visibility and better rankings.",
       category: "Strategy"
     },
-    readingTime: 14,
+    readingTime: 10,
     publishedAt: "2026-02-10",
-    updatedAt: "2026-02-10",
+    updatedAt: "2026-10-12",
     icon: "🎉",
     keywords: ["lokale events seo", "sponsoring marketing", "veranstaltungen", "lokale autorität", "event backlinks"],
     featured: false
@@ -2870,7 +2870,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-02-14",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "👓",
     keywords: ["optiker seo", "hörakustiker marketing", "local seo optiker", "brillen marketing", "augenoptik seo"],
     featured: false
@@ -2916,7 +2916,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-02-18",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "⚡",
     keywords: ["elektriker seo", "elektrotechnik marketing", "local seo elektriker", "elektro notdienst", "elektrofirma marketing"],
     featured: false
@@ -2962,7 +2962,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-02-22",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "🎨",
     keywords: ["maler seo", "lackierer marketing", "local seo maler", "malerbetrieb marketing", "renovierung seo"],
     featured: false
@@ -2970,10 +2970,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "lokale-influencer-kooperationen",
     de: {
-      title: "Lokale Influencer-Marketing: Kooperationen aufbauen",
-      metaTitle: "Lokale Influencer Marketing | Kooperations-Guide 2026",
-      metaDescription: "Wie lokale Unternehmen mit Mikro-Influencern kooperieren. Von der Suche bis zur erfolgreichen Kampagne.",
-      excerpt: "Der Guide für lokale Unternehmen zum Aufbau von Influencer-Kooperationen.",
+      title: "Lokale Influencer-Kooperationen: So arbeiten Betriebe ehrlich und wirksam mit Creators aus der Region",
+      metaTitle: "Lokale Influencer-Kooperationen: ehrlich und messbar",
+      metaDescription: "Wie Café, Hotel, Salon und Handwerksbetrieb mit Creators aus der Region arbeiten: Partner prüfen, Briefing, Nutzungsrechte, Werbekennzeichnung und Messung.",
+      excerpt: "Wie Café, Hotel, Salon und Handwerksbetrieb mit Creators aus der Region arbeiten: Partner prüfen, Briefing, Nutzungsrechte, Werbekennzeichnung und Messung.",
       category: "Strategie"
     },
     en: {
@@ -2983,9 +2983,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The guide for local businesses to build influencer partnerships.",
       category: "Strategy"
     },
-    readingTime: 15,
+    readingTime: 13,
     publishedAt: "2026-02-24",
-    updatedAt: "2026-02-24",
+    updatedAt: "2026-10-12",
     icon: "🤳",
     keywords: ["lokale influencer", "micro influencer", "influencer marketing", "kooperationen", "lokale reichweite"],
     featured: false
@@ -4230,7 +4230,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "\u{1F333}",
     keywords: [
       "local seo garten landschaftsbau",
