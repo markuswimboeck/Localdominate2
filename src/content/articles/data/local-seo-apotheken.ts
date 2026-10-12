@@ -74,7 +74,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Einschätzung",
-          text: "Nach unserer Beobachtung zeigt Google Maps bei öffentlichen Apotheken in Deutschland und Österreich in der Regel die Kategorie „Apotheke“ an. Googles Hilfe zu Kategorien enthält keine Gesamtliste, sondern beschreibt die Auswahl im Profil. Prüfen Sie deshalb im Profil selbst, welche Einträge angeboten werden, und vergleichen Sie mit Apotheken in Ihrer Umgebung.",
+          text: "Nach unserer Beobachtung zeigt Google Maps bei öffentlichen Apotheken in Deutschland und Österreich in der Regel die Kategorie „Apotheke“ an. Googles Hilfe zu Kategorien verweist auf die im Profil angebotene Liste und führt sie nicht einzeln auf. Prüfen Sie deshalb im Profil selbst, welche Einträge angeboten werden, und vergleichen Sie mit Apotheken in Ihrer Umgebung.",
         },
       ],
     },

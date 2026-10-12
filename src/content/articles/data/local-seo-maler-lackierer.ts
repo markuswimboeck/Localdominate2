@@ -84,7 +84,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Googles Hilfe zu Kategorien enthält keine Gesamtliste. Sie finden die passenden Einträge, indem Sie im Feld „Primäre Kategorie“ einen Begriff wie „Maler“ eingeben und die Vorschläge lesen. Eigene Kategorien lassen sich nicht anlegen. Google rät ausdrücklich davon ab, für jede Leistung eine eigene Kategorie zu wählen. Wie Sie systematisch vorgehen, steht im [Kategorien-Leitfaden](/blog/google-business-kategorien-guide#richtige-kategorie-finden).",
+          text: "Googles Hilfe zu Kategorien verweist auf die im Profil angebotene Liste und führt sie nicht einzeln auf. Sie finden die passenden Einträge, indem Sie im Feld „Primäre Kategorie“ einen Begriff wie „Maler“ eingeben und die Vorschläge lesen. Eigene Kategorien lassen sich nicht anlegen. Google rät ausdrücklich davon ab, für jede Leistung eine eigene Kategorie zu wählen. Wie Sie systematisch vorgehen, steht im [Kategorien-Leitfaden](/blog/google-business-kategorien-guide#richtige-kategorie-finden).",
         },
         {
           t: "ul",
