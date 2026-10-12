@@ -1094,7 +1094,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 5457,
+  "words": 5460,
   "htmlLang": "de"
  },
  {
@@ -7349,7 +7349,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 2061,
+  "words": 2062,
   "htmlLang": "de"
  },
  {
@@ -7432,7 +7432,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 815,
+  "words": 816,
   "htmlLang": "de"
  },
  {
@@ -7710,7 +7710,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 1322,
+  "words": 1325,
   "htmlLang": "de"
  },
  {
@@ -7794,7 +7794,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 821,
+  "words": 822,
   "htmlLang": "de"
  },
  {
@@ -8324,7 +8324,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 803,
+  "words": 804,
   "htmlLang": "de"
  },
  {
@@ -8413,18 +8413,18 @@
  {
   "path": "/blog/local-seo-fitness",
   "finalPath": "/blog/local-seo-fitness",
-  "title": "Local SEO für Fitnessstudios und Personal Trainer",
-  "description": "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
+  "title": "Lokales SEO für Fitnessstudios und Personal Trainer",
+  "description": "Lokales SEO für Fitnessstudios und Personal Trainer: passende Kategorie, gepflegtes Profil, Bewertungen nach Googles Regeln und eine Seite fürs Probetraining.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/local-seo-fitness",
   "hreflang": [],
-  "ogTitle": "Local SEO für Fitnessstudios und Personal Trainer",
+  "ogTitle": "Lokales SEO für Fitnessstudios und Personal Trainer",
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-fitness.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-04",
   "articleModified": "2026-10-10",
   "h1": [
-   "Local SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche"
+   "Lokales SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der Umgebung"
   ],
   "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
@@ -8495,7 +8495,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2775,
+  "words": 2774,
   "htmlLang": "de"
  },
  {
@@ -8675,18 +8675,18 @@
  {
   "path": "/blog/local-seo-friseursalon-beauty",
   "finalPath": "/blog/local-seo-friseursalon-beauty",
-  "title": "Local SEO für Friseure und Beauty-Studios: Leitfaden 2026",
-  "description": "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
+  "title": "SEO für Friseure und Beauty-Studios: lokal gefunden werden",
+  "description": "SEO für Friseure und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln, damit Kunden Sie finden.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/local-seo-friseursalon-beauty",
   "hreflang": [],
-  "ogTitle": "Local SEO für Friseure und Beauty-Studios: Leitfaden 2026",
+  "ogTitle": "SEO für Friseure und Beauty-Studios: lokal gefunden werden",
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-friseursalon-beauty.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-08",
   "articleModified": "2026-10-10",
   "h1": [
-   "Local SEO für Friseursalons und Beauty-Studios: So finden Kunden Ihren Salon"
+   "SEO für Friseure und Beauty-Studios: So finden Kunden Ihren Salon"
   ],
   "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
@@ -8753,7 +8753,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2237,
+  "words": 2236,
   "htmlLang": "de"
  },
  {
@@ -9017,7 +9017,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 781,
+  "words": 782,
   "htmlLang": "de"
  },
  {
@@ -9361,7 +9361,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 903,
+  "words": 904,
   "htmlLang": "de"
  },
  {
@@ -9444,7 +9444,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 792,
+  "words": 793,
   "htmlLang": "de"
  },
  {
@@ -10518,7 +10518,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 1780,
+  "words": 1781,
   "htmlLang": "de"
  },
  {
@@ -11103,7 +11103,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 790,
+  "words": 791,
   "htmlLang": "de"
  },
  {
@@ -12946,7 +12946,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 1979,
+  "words": 1980,
   "htmlLang": "de"
  },
  {
