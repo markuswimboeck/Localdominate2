@@ -3673,10 +3673,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "wie-google-maps-ranking-funktioniert",
     de: {
-      title: "Google Maps Algorithmus erklärt: Nähe, Relevanz & Bekanntheit im Detail",
-      metaTitle: "Google Maps Algorithmus erklärt | Nähe, Relevanz, Bekanntheit",
-      metaDescription: "So funktioniert der Google Maps Algorithmus: Die 3 Säulen Nähe, Relevanz und Bekanntheit mit Praxis-Beispielen und Einflussfaktoren-Diagramm.",
-      excerpt: "Der Google Maps Algorithmus basiert auf 3 Säulen: Nähe, Relevanz und Bekanntheit. So spielen sie zusammen — mit Diagrammen und Branchenbeispielen.",
+      title: "Wie Google Maps entscheidet, was Sie sehen: eine Suche Schritt für Schritt",
+      metaTitle: "Wie Google Maps Treffer auswählt: Schritt für Schritt",
+      metaDescription: "Was bei einer Suche in Google Maps passiert: Suchanfrage, Standort, Relevanz, Entfernung, Bekanntheit, Filter, Personalisierung und Anzeigen. Mit Testmethode.",
+      excerpt: "Was bei einer Suche in Google Maps passiert: Suchanfrage, Standort, Relevanz, Entfernung, Bekanntheit, Filter, Personalisierung und Anzeigen. Mit Testmethode.",
       category: "Google Maps"
     },
     en: {
@@ -3686,9 +3686,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The Google Maps algorithm is based on 3 pillars: proximity, relevance and prominence. How they interact — with diagrams and industry examples.",
       category: "Google Maps"
     },
-    readingTime: 18,
+    readingTime: 9,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-12",
     icon: "🗺️",
     keywords: ["google maps algorithmus", "maps algorithmus erklärt", "proximity relevance prominence", "wie google maps funktioniert", "local pack algorithmus"],
     featured: true

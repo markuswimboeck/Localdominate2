@@ -109,7 +109,6 @@ const LocalSeoRankingFaktorenErklaert = lazy(() => import("./pages/blog/LocalSeo
 const LocalLinkBuildingBlueprint = lazy(() => import("./pages/blog/LocalLinkBuildingBlueprint"));
 const LocalSeoChecklisteKomplett = lazy(() => import("./pages/blog/LocalSeoChecklisteKomplett"));
 const HubGoogleMapsSeo = lazy(() => import("./pages/blog/HubGoogleMapsSeo"));
-const WieGoogleMapsRankingFunktioniert = lazy(() => import("./pages/blog/WieGoogleMapsRankingFunktioniert"));
 const SchemaStrategieDokument = lazy(() => import("./pages/blog/SchemaStrategieDokument"));
 const LocalSeoStatistiken = lazy(() => import("./pages/blog/LocalSeoStatistiken"));
 const CitationVerzeichnisse = lazy(() => import("./pages/CitationVerzeichnisse"));
@@ -277,7 +276,6 @@ const App = () => (
                 <Route path="/blog/local-link-building-blueprint" element={<LocalLinkBuildingBlueprint />} />
                 <Route path="/blog/local-seo-checkliste-komplett" element={<LocalSeoChecklisteKomplett />} />
                 <Route path="/blog/google-maps-seo-hub" element={<HubGoogleMapsSeo />} />
-                <Route path="/blog/wie-google-maps-ranking-funktioniert" element={<WieGoogleMapsRankingFunktioniert />} />
                 <Route path="/blog/schema-strategie-dokument" element={<SchemaStrategieDokument />} />
                 <Route path="/blog/local-seo-statistiken-daten" element={<LocalSeoStatistiken />} />
                 <Route path="/blog/faq-hub" element={<FaqHub />} />
