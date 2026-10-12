@@ -317,7 +317,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Förderbedingungen ändern sich oft. Die KfW nennt für die Heizungsförderung (Zuschuss 458) in ihrer Übersicht mit Stand 21. Juli 2026 eine Grundförderung von 30 Prozent. Der Klimageschwindigkeitsbonus und die maximal förderfähigen Kosten sinken ab dem 1. Februar 2027 halbjährlich. Laut Stiftung Warentest sind Effizienzbonus und Emissionsminderungszuschlag ersatzlos entfallen. Schreiben Sie deshalb oben auf Ihre Förderseite „Stand: [Datum]“, verlinken Sie die [Heizungsförderung der KfW](https://www.kfw.de/inlandsfoerderung/Heizungsf%C3%B6rderung/) und versprechen Sie keine Förderhöhe im Einzelfall. In Österreich und der Schweiz verlinken Sie die zuständige Stelle Ihres Landes oder Kantons.",
+          text: "Förderbedingungen ändern sich oft. Die KfW nennt für die Heizungsförderung (Zuschuss 458) in ihrer Übersicht mit Stand 21. Juli 2026 eine Grundförderung von 30 Prozent. Der Klimageschwindigkeitsbonus und die maximal förderfähigen Kosten sinken ab dem 1. Februar 2027 halbjährlich, für Anträge ab dem 1. August 2028 entfällt der Bonus ganz. Laut Stiftung Warentest sind Effizienzbonus und Emissionsminderungszuschlag ersatzlos entfallen. Schreiben Sie deshalb oben auf Ihre Förderseite „Stand: [Datum]“, verlinken Sie die [Heizungsförderung der KfW](https://www.kfw.de/inlandsfoerderung/Heizungsf%C3%B6rderung/) und versprechen Sie keine Förderhöhe im Einzelfall. In Österreich und der Schweiz verlinken Sie die zuständige Stelle Ihres Landes oder Kantons.",
         },
         {
           t: "h3",
@@ -330,7 +330,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Einwilligung festhalten",
-          text: "Nach Art. 7 DSGVO muss, wer sich auf eine Einwilligung stützt, sie nachweisen können, und der Kunde kann sie jederzeit widerrufen. Holen Sie die Zustimmung schriftlich ein und nehmen Sie Fotos nach einem Widerruf herunter. Das ist keine Rechtsberatung. Mehr in [Fotos im Unternehmensprofil](/blog/gbp-fotos-optimieren#datenschutz).",
+          text: "Nach Art. 7 DSGVO muss, wer sich auf eine Einwilligung stützt, sie nachweisen können, und der Kunde kann sie jederzeit widerrufen. Holen Sie die Zustimmung deshalb schriftlich ein, auch wenn Art. 7 keine bestimmte Form vorschreibt, und nehmen Sie Fotos nach einem Widerruf herunter. Das ist keine Rechtsberatung. Mehr in [Fotos im Unternehmensprofil](/blog/gbp-fotos-optimieren#datenschutz).",
         },
         {
           t: "h3",
@@ -338,7 +338,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Schema.org kennt zwei passende Untertypen von LocalBusiness: **HVACBusiness** für Heizung, Lüftung und Klima und **Plumber** für Sanitär. Wählen Sie den Typ, der Ihrem Schwerpunkt entspricht, und tragen Sie nur ein, was sichtbar auf der Seite und gleichlautend im Profil steht: Name, Telefon, Öffnungszeiten, Einzugsgebiet. Die Umsetzung zeigt [LocalBusiness Schema implementieren](/blog/localbusiness-schema-implementierung).",
+          text: "Schema.org kennt zwei passende Untertypen von LocalBusiness (über HomeAndConstructionBusiness): **HVACBusiness** für Heizung, Lüftung und Klima und **Plumber** für Sanitär. Wählen Sie den Typ, der Ihrem Schwerpunkt entspricht, und tragen Sie nur ein, was sichtbar auf der Seite und gleichlautend im Profil steht: Name, Telefon, Öffnungszeiten, Einzugsgebiet. Die Umsetzung zeigt [LocalBusiness Schema implementieren](/blog/localbusiness-schema-implementierung).",
         },
       ],
     },
@@ -401,6 +401,7 @@ const article: V4Article = {
     { title: "Art. 7 DSGVO, Bedingungen für die Einwilligung", publisher: "dejure.org", url: "https://dejure.org/gesetze/DSGVO/7.html" },
     { title: "HVACBusiness", publisher: "Schema.org", url: "https://schema.org/HVACBusiness" },
     { title: "Plumber", publisher: "Schema.org", url: "https://schema.org/Plumber" },
+    { title: "Allgemeine Richtlinien für strukturierte Daten", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/sd-policies?hl=de" },
   ],
   related: [
     { slug: "local-seo-elektrotechnik", title: "Local SEO für Elektriker" },

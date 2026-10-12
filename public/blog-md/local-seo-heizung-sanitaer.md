@@ -204,17 +204,17 @@ Einen Preisrahmen nennen Sie nur, wenn er aus Ihren eigenen Aufträgen stammt. S
 
 ### Förderseite mit Stand-Datum
 
-Förderbedingungen ändern sich oft. Die KfW nennt für die Heizungsförderung (Zuschuss 458) in ihrer Übersicht mit Stand 21. Juli 2026 eine Grundförderung von 30 Prozent. Der Klimageschwindigkeitsbonus und die maximal förderfähigen Kosten sinken ab dem 1. Februar 2027 halbjährlich. Laut Stiftung Warentest sind Effizienzbonus und Emissionsminderungszuschlag ersatzlos entfallen. Schreiben Sie deshalb oben auf Ihre Förderseite „Stand: [Datum]“, verlinken Sie die [Heizungsförderung der KfW](https://www.kfw.de/inlandsfoerderung/Heizungsf%C3%B6rderung/) und versprechen Sie keine Förderhöhe im Einzelfall. In Österreich und der Schweiz verlinken Sie die zuständige Stelle Ihres Landes oder Kantons.
+Förderbedingungen ändern sich oft. Die KfW nennt für die Heizungsförderung (Zuschuss 458) in ihrer Übersicht mit Stand 21. Juli 2026 eine Grundförderung von 30 Prozent. Der Klimageschwindigkeitsbonus und die maximal förderfähigen Kosten sinken ab dem 1. Februar 2027 halbjährlich, für Anträge ab dem 1. August 2028 entfällt der Bonus ganz. Laut Stiftung Warentest sind Effizienzbonus und Emissionsminderungszuschlag ersatzlos entfallen. Schreiben Sie deshalb oben auf Ihre Förderseite „Stand: [Datum]“, verlinken Sie die [Heizungsförderung der KfW](https://www.kfw.de/inlandsfoerderung/Heizungsf%C3%B6rderung/) und versprechen Sie keine Förderhöhe im Einzelfall. In Österreich und der Schweiz verlinken Sie die zuständige Stelle Ihres Landes oder Kantons.
 
 ### Referenzprojekte nur mit Zustimmung
 
 Referenzen aus Orten Ihres Einzugsgebiets sind ehrlicher lokaler Inhalt, anders als kopierte Ortsseiten. Beschreiben Sie Ausgangslage, Lösung und Dauer und nennen Sie den Ort nur grob, etwa „im Süden von Regensburg“. Keine Hausnummern, Namensschilder oder erkennbaren Personen im Bild.
 
-> **Einwilligung festhalten:** Nach Art. 7 DSGVO muss, wer sich auf eine Einwilligung stützt, sie nachweisen können, und der Kunde kann sie jederzeit widerrufen. Holen Sie die Zustimmung schriftlich ein und nehmen Sie Fotos nach einem Widerruf herunter. Das ist keine Rechtsberatung. Mehr in [Fotos im Unternehmensprofil](https://localdominate.org/blog/gbp-fotos-optimieren#datenschutz).
+> **Einwilligung festhalten:** Nach Art. 7 DSGVO muss, wer sich auf eine Einwilligung stützt, sie nachweisen können, und der Kunde kann sie jederzeit widerrufen. Holen Sie die Zustimmung deshalb schriftlich ein, auch wenn Art. 7 keine bestimmte Form vorschreibt, und nehmen Sie Fotos nach einem Widerruf herunter. Das ist keine Rechtsberatung. Mehr in [Fotos im Unternehmensprofil](https://localdominate.org/blog/gbp-fotos-optimieren#datenschutz).
 
 ### Strukturierte Daten: HVACBusiness oder Plumber
 
-Schema.org kennt zwei passende Untertypen von LocalBusiness: **HVACBusiness** für Heizung, Lüftung und Klima und **Plumber** für Sanitär. Wählen Sie den Typ, der Ihrem Schwerpunkt entspricht, und tragen Sie nur ein, was sichtbar auf der Seite und gleichlautend im Profil steht: Name, Telefon, Öffnungszeiten, Einzugsgebiet. Die Umsetzung zeigt [LocalBusiness Schema implementieren](https://localdominate.org/blog/localbusiness-schema-implementierung).
+Schema.org kennt zwei passende Untertypen von LocalBusiness (über HomeAndConstructionBusiness): **HVACBusiness** für Heizung, Lüftung und Klima und **Plumber** für Sanitär. Wählen Sie den Typ, der Ihrem Schwerpunkt entspricht, und tragen Sie nur ein, was sichtbar auf der Seite und gleichlautend im Profil steht: Name, Telefon, Öffnungszeiten, Einzugsgebiet. Die Umsetzung zeigt [LocalBusiness Schema implementieren](https://localdominate.org/blog/localbusiness-schema-implementierung).
 
 ## Bewertungen nach dem Notdiensteinsatz
 
@@ -267,6 +267,7 @@ Die deutsche Preisangabenverordnung verlangt von Anbietern von Leistungen an Ver
 - [Art. 7 DSGVO, Bedingungen für die Einwilligung](https://dejure.org/gesetze/DSGVO/7.html), dejure.org
 - [HVACBusiness](https://schema.org/HVACBusiness), Schema.org
 - [Plumber](https://schema.org/Plumber), Schema.org
+- [Allgemeine Richtlinien für strukturierte Daten](https://developers.google.com/search/docs/appearance/structured-data/sd-policies?hl=de), Google Search Central
 
 ---
 
