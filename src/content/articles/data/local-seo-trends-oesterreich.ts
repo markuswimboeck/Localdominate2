@@ -31,7 +31,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Dieser Artikel beschreibt nur, was für Betriebe in Österreich eigens gilt. Was sich 2025 und 2026 an den Plattformen geändert hat, also KI-Übersichten, KI-Modus, ChatGPT, Apple Business und die Durchsetzung der Bewertungsregeln, steht in [Lokale Suchmaschinenoptimierung 2026](/blog/lokale-suchmaschinenoptimierung-2026). Diese Änderungen gelten in Österreich genauso wie in Deutschland und der Schweiz.",
+          text: "Dieser Artikel beschreibt nur, was für Betriebe in Österreich eigens gilt. Was sich 2025 und 2026 an den Plattformen geändert hat, also Übersichten mit KI, KI-Modus, ChatGPT, Apple Business und die Durchsetzung der Bewertungsregeln, steht in [Lokale Suchmaschinenoptimierung 2026](/blog/lokale-suchmaschinenoptimierung-2026). Diese Änderungen gelten in Österreich genauso wie in Deutschland und der Schweiz.",
         },
         {
           t: "table",

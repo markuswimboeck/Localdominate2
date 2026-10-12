@@ -63,7 +63,7 @@ In der Local-SEO-Praxis gelten übereinstimmende Angaben in Verzeichnissen seit 
 
 ## Einheitliche Daten und KI-Assistenten
 
-KI-Übersichten und Assistenten wie ChatGPT oder Perplexity fassen Angaben aus mehreren Quellen zusammen. Wenn diese Quellen sich widersprechen, steigt aus unserer Erfahrung das Risiko, dass eine falsche Nummer oder Zeit genannt wird.
+Übersichten mit KI und Assistenten wie ChatGPT oder Perplexity fassen Angaben aus mehreren Quellen zusammen. Wenn diese Quellen sich widersprechen, steigt aus unserer Erfahrung das Risiko, dass eine falsche Nummer oder Zeit genannt wird.
 
 Wie einzelne KI-Systeme Quellen gewichten, legen die Anbieter nicht im Detail offen. Belegbar ist nur, dass sie auf öffentlich lesbare Angaben zurückgreifen: Profil, Website, Verzeichnisse, Bewertungen. Die praktische Folgerung ist dieselbe wie für Google. Je weniger Varianten es gibt, desto weniger kann falsch zusammengesetzt werden.
 

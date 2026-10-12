@@ -286,7 +286,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-11",
     icon: "🚀",
     keywords: ["local seo", "search engine optimization", "local seo 2026"],
     featured: true
@@ -449,7 +449,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 9,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-11",
     icon: "🇨🇭",
     keywords: ["local seo trends schweiz", "seo schweiz 2026", "local seo trends", "schweizer seo", "ai search schweiz"],
     featured: true
@@ -472,7 +472,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-11",
     icon: "🇩🇪",
     keywords: ["local seo trends deutschland", "seo deutschland 2026", "local seo trends", "google seo trends", "ai search deutschland"],
     featured: true
@@ -3411,7 +3411,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-11",
     icon: "🤖",
     keywords: ["ai suche vs traditionelle suche", "ai search vs traditional search", "google ai overviews", "zero click search", "geo optimierung", "chatgpt local seo", "ai suchmaschinen vergleich"],
     featured: false
