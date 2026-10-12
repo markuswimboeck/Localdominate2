@@ -1,5 +1,5 @@
 ---
-title: "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden, Verwaltungen und Gemeinden Ihren Betrieb"
+title: "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden und Hausverwaltungen Ihren Betrieb"
 slug: local-seo-garten-landschaftsbau
 url: https://localdominate.org/blog/local-seo-garten-landschaftsbau
 canonical: https://localdominate.org/blog/local-seo-garten-landschaftsbau
@@ -15,7 +15,7 @@ publisher: LocalDominate
 description: "Local SEO für GaLaBau-Betriebe: Profil mit Einzugsgebiet, Projektseiten mit echten Fotos, Pflegeverträge, das Gartenjahr und Bewertungen nach Google-Regeln."
 ---
 
-# Local SEO für Garten- und Landschaftsbau: So finden Privatkunden, Verwaltungen und Gemeinden Ihren Betrieb
+# Local SEO für Garten- und Landschaftsbau: So finden Privatkunden und Hausverwaltungen Ihren Betrieb
 
 Für Inhaber von Garten- und Landschaftsbaubetrieben in Deutschland, Österreich und der Schweiz. Sie erfahren, wie Sie das Google-Unternehmensprofil mit Einzugsgebiet einrichten, wie Projektseiten und Fotos Anfragen bringen, wie Sie Privatkunden und gewerbliche Auftraggeber getrennt ansprechen und was im Gartenjahr zu tun ist.
 
