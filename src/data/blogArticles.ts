@@ -3462,12 +3462,34 @@ export const blogArticles: BlogArticle[] = [
   },
   // === TOPIC HUB PAGES ===
   {
+    slug: "troubleshooting-hub",
+    de: {
+      title: "Probleme mit dem Google-Unternehmensprofil: alle Lösungen im Überblick",
+      metaTitle: "Probleme mit dem Google-Profil: alle Lösungen",
+      metaDescription: "Google-Profil gesperrt, nicht bestätigt, doppelt oder plötzlich unsichtbar? Hier finden Sie für jedes Problem die passende Anleitung mit den offiziellen Wegen.",
+      excerpt: "Google-Profil gesperrt, nicht bestätigt, doppelt oder plötzlich unsichtbar? Hier finden Sie für jedes Problem die passende Anleitung mit den offiziellen Wegen.",
+      category: "Troubleshooting"
+    },
+    en: {
+      title: "Google Business Profile problems: every fix in one place",
+      metaTitle: "Google Business Profile problems: every fix in one place",
+      metaDescription: "Profile suspended, not verified, duplicated or suddenly invisible? Find the right guide for each Google Business Profile problem and the official way to fix it.",
+      excerpt: "Profile suspended, not verified, duplicated or suddenly invisible? Find the right guide for each Google Business Profile problem and the official way to fix it.",
+      category: "Troubleshooting"
+    },
+    readingTime: 5,
+    publishedAt: "2026-03-09",
+    updatedAt: "2026-10-12",
+    icon: "🔧",
+    keywords: []
+  },
+  {
     slug: "google-business-profil-hub",
     de: {
-      title: "Google Business Profil Hub – Alle Guides & Anleitungen",
-      metaTitle: "Google Business Profil Hub – Alle Guides & Anleitungen 2026",
-      metaDescription: "Komplette Sammlung aller Google Business Profil Guides: Profil-Optimierung, Bewertungen, Insights, erweiterte Funktionen und Fehlerbehebung.",
-      excerpt: "Dein zentrales Nachschlagewerk für alle Google Business Profil Themen. 24+ Artikel zu Optimierung, Bewertungen und Fehlerbehebung.",
+      title: "Google-Unternehmensprofil: alle Anleitungen im Überblick",
+      metaTitle: "Google-Unternehmensprofil: alle Anleitungen im Überblick",
+      metaDescription: "Alle Anleitungen zum Google-Unternehmensprofil an einem Ort: einrichten, Kategorie wählen, Fotos, Öffnungszeiten, mehrere Standorte, KI-Funktionen und Probleme.",
+      excerpt: "Alle Anleitungen zum Google-Unternehmensprofil an einem Ort: einrichten, Kategorie wählen, Fotos, Öffnungszeiten, mehrere Standorte, KI-Funktionen und Probleme.",
       category: "Google Business"
     },
     en: {
@@ -3477,9 +3499,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Your central reference for all Google Business Profile topics. 24+ articles on optimization, reviews and troubleshooting.",
       category: "Google Business"
     },
-    readingTime: 5,
+    readingTime: 6,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-03-05",
+    updatedAt: "2026-10-12",
     icon: "🏢",
     keywords: ["google business profil", "gbp optimierung", "google my business guide", "google business hub"]
   },
@@ -3530,10 +3552,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "bewertungen-reputation-hub",
     de: {
-      title: "Bewertungen & Reputation Hub – Alle Guides",
-      metaTitle: "Bewertungen & Reputation Hub – Alle Guides 2026",
-      metaDescription: "Alle Guides zu Google Bewertungen: Generierung, Antwort-Vorlagen, negative Bewertungen, Review-Schema und Ranking-Impact.",
-      excerpt: "Alle Strategien zu Bewertungen – von der Generierung über den Umgang mit Kritik bis zur technischen Implementierung.",
+      title: "Bewertungen und Reputation: alle Anleitungen im Überblick",
+      metaTitle: "Google-Bewertungen: alle Anleitungen im Überblick",
+      metaDescription: "Alles zu Google-Bewertungen an einem Ort: richtig um Rezensionen bitten, auf Kritik antworten, unzulässige Bewertungen melden und was Sterne wirklich bringen.",
+      excerpt: "Alles zu Google-Bewertungen an einem Ort: richtig um Rezensionen bitten, auf Kritik antworten, unzulässige Bewertungen melden und was Sterne wirklich bringen.",
       category: "Bewertungen"
     },
     en: {
@@ -3545,7 +3567,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 5,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-03-05",
+    updatedAt: "2026-10-12",
     icon: "⭐",
     keywords: ["google bewertungen", "bewertungen management", "reputation management", "review strategie", "bewertungen hub"]
   },
@@ -3695,10 +3717,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-seo-hub",
     de: {
-      title: "Google Maps SEO Hub: Alle Guides für lokale Sichtbarkeit",
-      metaTitle: "Google Maps SEO Hub – Alle Guides für Top-Rankings 2026",
-      metaDescription: "Das umfassendste Google Maps SEO Hub: Rankings verbessern, GBP optimieren, Bewertungen managen, Insights analysieren und Probleme lösen. 25+ Artikel.",
-      excerpt: "Dein zentraler Einstiegspunkt für Google Maps SEO: Rankings, GBP-Optimierung, Bewertungen, Analyse und Troubleshooting — 25+ verlinkte Guides.",
+      title: "Google Maps SEO: alle Anleitungen im Überblick",
+      metaTitle: "Google Maps SEO: alle Anleitungen im Überblick",
+      metaDescription: "Google Maps SEO an einem Ort: wie Google lokal sortiert, Ranking messen und verbessern, Konkurrenz analysieren, Spam melden, Vorlagen und Apple sowie Bing.",
+      excerpt: "Google Maps SEO an einem Ort: wie Google lokal sortiert, Ranking messen und verbessern, Konkurrenz analysieren, Spam melden, Vorlagen und Apple sowie Bing.",
       category: "Google Maps"
     },
     en: {
@@ -3708,9 +3730,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Your central entry point for Google Maps SEO: rankings, GBP optimization, reviews, analysis and troubleshooting — 25+ linked guides.",
       category: "Google Maps"
     },
-    readingTime: 8,
+    readingTime: 6,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-12",
     icon: "🗺️",
     keywords: ["google maps seo", "google maps ranking", "maps optimierung", "google maps marketing", "lokale sichtbarkeit google maps"],
     featured: true
@@ -4415,6 +4437,7 @@ export const blogArticles: BlogArticle[] = [
 
 // Slugs that have actual page components and routes
 const PUBLISHED_SLUGS = new Set([
+  "troubleshooting-hub",
   "kostenloses-seo-guide",
   "local-seo-keywords-finden",
   "google-maps-ranking-verbessern",

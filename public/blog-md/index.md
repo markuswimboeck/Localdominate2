@@ -3,7 +3,7 @@ title: "LocalDominate Blog Markdown Corpus"
 url: https://localdominate.org/blog-md/index.md
 language: de-DE
 updated: 2026-08-08
-article_count: 153
+article_count: 154
 license: https://creativecommons.org/licenses/by/4.0/
 ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler ohne JavaScript-Ausführung."
 ---
@@ -31,7 +31,7 @@ ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler o
 - [AI Visibility Index – die neue Local-SEO-Metrik 2026](https://localdominate.org/blog-md/ai-visibility-index-local-seo-metrik.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/ai-visibility-index-local-seo-metrik; Aktualisiert: 2026-05-20
 - [AI-Zitat-Monitoring 2026: Erwähnungen in ChatGPT, Perplexity & Gemini messen](https://localdominate.org/blog-md/ai-zitat-monitoring-local-seo-2026.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/ai-zitat-monitoring-local-seo-2026; Aktualisiert: 2026-08-08
 - [Apple Business Connect: Local SEO für Apple Maps & Siri 2026](https://localdominate.org/blog-md/apple-business-connect-local-seo-2026.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/apple-business-connect-local-seo-2026; Aktualisiert: 2026-05-22
-- [Bewertungen & Reputation Hub – Alle Guides](https://localdominate.org/blog-md/bewertungen-reputation-hub.md) — Kategorie: Bewertungen; HTML: https://localdominate.org/blog/bewertungen-reputation-hub; Aktualisiert: 2026-03-05
+- [Bewertungen und Reputation: alle Anleitungen im Überblick](https://localdominate.org/blog-md/bewertungen-reputation-hub.md) — Kategorie: Bewertungen; HTML: https://localdominate.org/blog/bewertungen-reputation-hub; Aktualisiert: 2026-10-12
 - [Bewertungs-Antworten: 50 Vorlagen für jede Situation](https://localdominate.org/blog-md/bewertungs-antworten-vorlagen.md) — Kategorie: Bewertungen; HTML: https://localdominate.org/blog/bewertungs-antworten-vorlagen; Aktualisiert: 2026-02-16
 - [Bing & Microsoft Copilot 2026: Local SEO für ChatGPT, Edge & Windows](https://localdominate.org/blog-md/bing-copilot-local-seo-2026.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/bing-copilot-local-seo-2026; Aktualisiert: 2026-05-22
 - [ChatGPT Search für lokale Unternehmen 2026 — der komplette Optimierungs-Guide](https://localdominate.org/blog-md/chatgpt-search-lokale-unternehmen-2026.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/chatgpt-search-lokale-unternehmen-2026; Aktualisiert: 2026-05-22
@@ -64,13 +64,13 @@ ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler o
 - [Google Business Kategorien: Welche passt zu deinem Unternehmen?](https://localdominate.org/blog-md/google-business-kategorien-guide.md) — Kategorie: Google Business; HTML: https://localdominate.org/blog/google-business-kategorien-guide; Aktualisiert: 2026-02-05
 - [Google Business Messaging: Kundenkommunikation optimal nutzen](https://localdominate.org/blog-md/google-business-messaging.md) — Kategorie: Google Business; HTML: https://localdominate.org/blog/google-business-messaging; Aktualisiert: 2026-01-30
 - [Google Business Produkte & Services optimal präsentieren](https://localdominate.org/blog-md/google-business-produkte-services.md) — Kategorie: Google Business; HTML: https://localdominate.org/blog/google-business-produkte-services; Aktualisiert: 2026-02-12
-- [Google Business Profil Hub – Alle Guides & Anleitungen](https://localdominate.org/blog-md/google-business-profil-hub.md) — Kategorie: Google Business; HTML: https://localdominate.org/blog/google-business-profil-hub; Aktualisiert: 2026-03-05
+- [Google-Unternehmensprofil: alle Anleitungen im Überblick](https://localdominate.org/blog-md/google-business-profil-hub.md) — Kategorie: Google Business; HTML: https://localdominate.org/blog/google-business-profil-hub; Aktualisiert: 2026-10-12
 - [Google Maps Audit Template: Vollständige Checkliste mit 75+ Punkten](https://localdominate.org/blog-md/google-maps-audit-template.md) — Kategorie: Google Maps; HTML: https://localdominate.org/blog/google-maps-audit-template; Aktualisiert: 2026-03-08
 - [Google Maps Konkurrenzanalyse: So analysierst du Top-Rankings](https://localdominate.org/blog-md/google-maps-konkurrenzanalyse.md) — Kategorie: Google Maps; HTML: https://localdominate.org/blog/google-maps-konkurrenzanalyse; Aktualisiert: 2026-03-08
 - [Google Maps Ranking Case Studies: 6 Branchen, 6 Erfolge](https://localdominate.org/blog-md/google-maps-ranking-case-studies.md) — Kategorie: Google Maps; HTML: https://localdominate.org/blog/google-maps-ranking-case-studies; Aktualisiert: 2026-03-08
 - [Google Maps Ranking Tracker: So trackst du deine lokalen Rankings](https://localdominate.org/blog-md/google-maps-ranking-tracker.md) — Kategorie: Google Maps; HTML: https://localdominate.org/blog/google-maps-ranking-tracker; Aktualisiert: 2026-03-08
 - [Google Maps Ranking verbessern: 7-Schritte-Aktionsplan 2026](https://localdominate.org/blog-md/google-maps-ranking-verbessern.md) — Kategorie: Local SEO; HTML: https://localdominate.org/blog/google-maps-ranking-verbessern; Aktualisiert: 2026-01-07
-- [Google Maps SEO Hub: Alle Guides für lokale Sichtbarkeit](https://localdominate.org/blog-md/google-maps-seo-hub.md) — Kategorie: Google Maps; HTML: https://localdominate.org/blog/google-maps-seo-hub; Aktualisiert: 2026-03-08
+- [Google Maps SEO: alle Anleitungen im Überblick](https://localdominate.org/blog-md/google-maps-seo-hub.md) — Kategorie: Google Maps; HTML: https://localdominate.org/blog/google-maps-seo-hub; Aktualisiert: 2026-10-12
 - [Google Maps SEO 2026: Alle 20 Ranking-Signale mit Gewichtung](https://localdominate.org/blog-md/google-maps-seo-ranking-faktoren.md) — Kategorie: Local SEO; HTML: https://localdominate.org/blog/google-maps-seo-ranking-faktoren; Aktualisiert: 2026-01-28
 - [Google Maps SEO vs. Organic SEO: Ranking-Faktoren, Strategien & ROI im Vergleich](https://localdominate.org/blog-md/google-maps-seo-vs-organic-seo.md) — Kategorie: Strategie; HTML: https://localdominate.org/blog/google-maps-seo-vs-organic-seo; Aktualisiert: 2026-03-08
 - [Google Maps Spam erkennen & melden: Der komplette Guide](https://localdominate.org/blog-md/google-maps-spam-erkennen.md) — Kategorie: Google Maps; HTML: https://localdominate.org/blog/google-maps-spam-erkennen; Aktualisiert: 2026-03-08
@@ -167,6 +167,7 @@ ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler o
 - [Die ultimative SEO-Toolbox: 50+ kostenlose Tools & Ressourcen](https://localdominate.org/blog-md/seo-toolbox-kostenlose-ressourcen.md) — Kategorie: Tools; HTML: https://localdominate.org/blog/seo-toolbox-kostenlose-ressourcen; Aktualisiert: 2026-01-10
 - [Technisches Local SEO: Der komplette Guide für lokale Unternehmen 2026](https://localdominate.org/blog-md/technisches-local-seo-guide.md) — Kategorie: Technik; HTML: https://localdominate.org/blog/technisches-local-seo-guide; Aktualisiert: 2026-03-08
 - [TikTok Search für Local SEO 2026: So wirst du von Gen Z gefunden](https://localdominate.org/blog-md/tiktok-search-local-seo-2026.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/tiktok-search-local-seo-2026; Aktualisiert: 2026-05-22
+- [Probleme mit dem Google-Unternehmensprofil: alle Lösungen im Überblick](https://localdominate.org/blog-md/troubleshooting-hub.md) — Kategorie: Troubleshooting; HTML: https://localdominate.org/blog/troubleshooting-hub; Aktualisiert: 2026-10-12
 - [Local SEO: Der ultimative Leitfaden für lokale Unternehmen 2026](https://localdominate.org/blog-md/ultimate-guide-local-seo.md) — Kategorie: Strategie; HTML: https://localdominate.org/blog/ultimate-guide-local-seo; Aktualisiert: 2026-03-08
 - [Unternehmensprofil & KI 2026: Welche Felder in AI-Antworten landen](https://localdominate.org/blog-md/unternehmensprofil-ki-funktionen-2026.md) — Kategorie: Google Business Profile; HTML: https://localdominate.org/blog/unternehmensprofil-ki-funktionen-2026; Aktualisiert: 2026-08-08
 - [Voice Search 2026: Local SEO für Alexa, Siri & Google Assistant](https://localdominate.org/blog-md/voice-search-sprachassistenten-local-seo-2026.md) — Kategorie: AI & Zukunft; HTML: https://localdominate.org/blog/voice-search-sprachassistenten-local-seo-2026; Aktualisiert: 2026-05-22
