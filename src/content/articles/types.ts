@@ -69,4 +69,10 @@ export type V4Article = {
    * check (/de#check). Articles about AI consulting point to /de/ki#ai-check instead.
    */
   cta: { title: string; text: string; kicker?: string; label?: string; to?: string };
+  /**
+   * Topic hub ("/blog/*-hub"): an overview page that groups the articles of one topic. The page is
+   * marked up as a CollectionPage whose main entity is an ItemList of every /blog link in
+   * `sections`, in reading order.
+   */
+  hub?: boolean;
 };
