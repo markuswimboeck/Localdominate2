@@ -11,7 +11,7 @@ const article: V4Article = {
   lead:
     "Für Inhaber von Handwerks- und Dienstleistungsbetrieben in Deutschland, Österreich und der Schweiz, die einen Notdienst anbieten: Schlüsseldienst, Rohrreinigung, Elektro, Heizung oder Glas. Sie erfahren, wie dringende Suchen ablaufen, welche Suchbegriffe Sie in Ihren eigenen Daten finden, wie Sie Zeiten und Rufnummer ehrlich angeben und wie Sie sich von unseriösen Notdiensten absetzen.",
   answer:
-    "Wer dringend sucht, ruft meist einen der ersten Betriebe an, die nah, jetzt erreichbar und glaubwürdig wirken. Für Notdienst-Keywords zählen deshalb echte Notdienstzeiten im Google-Unternehmensprofil, eine Rufnummer, die direkt zu Ihnen führt, ein ehrliches Einzugsgebiet, eine Notdienstseite mit Preisrahmen und Bewertungen echter Kunden. „24 Stunden“ geben Sie nur an, wenn es stimmt. Eine feste Platzierung kann niemand zusagen.",
+    "Nach unserer Einschätzung ruft, wer dringend sucht, oft einen der ersten Betriebe an, die nah, jetzt erreichbar und glaubwürdig wirken. Für Notdienst-Keywords zählen deshalb echte Notdienstzeiten im Google-Unternehmensprofil, eine Rufnummer, die direkt zu Ihnen führt, ein ehrliches Einzugsgebiet, eine Notdienstseite mit Preisrahmen und Bewertungen echter Kunden. „24 Stunden“ geben Sie nur an, wenn es stimmt. Eine feste Platzierung kann niemand zusagen.",
   takeaways: [
     "Dringende Suchen sind kurz und ortsbezogen. Welche Begriffe Ihre Kunden verwenden, zeigen die Suchanfragen in den Leistungsdaten Ihres Profils und die Search Console, nicht eine fremde Keyword-Liste.",
     "„24 Stunden“ gehört nur in die Öffnungszeiten, wenn wirklich jemand abnimmt und ausrückt, und nie in den Firmennamen. Irreführende Angaben zur Verfügbarkeit können nach § 5 UWG unlauter sein.",
@@ -20,14 +20,14 @@ const article: V4Article = {
     "Statt vieler fast gleicher Ortsseiten hilft eine starke Notdienstseite mit Einsatzorten, Ablauf und Preisen.",
   ],
   publishedAt: "2026-02-03",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 13,
   sections: [
     {
       id: "dringende-suchen",
       title: "Wie sich dringende Suchen von normalen unterscheiden",
       answer:
-        "Bei einer Notdienst-Suche vergleicht kaum jemand lange. Der Kunde tippt einen kurzen Begriff mit Ort, sieht in den Kartenergebnissen, wer geöffnet hat und nah ist, und ruft an. Was in diesen Sekunden fehlt, etwa Zeiten oder eine Nummer, kostet den Anruf.",
+        "Nach unserer Einschätzung vergleicht bei einer Notdienst-Suche kaum jemand lange. Der Kunde tippt einen kurzen Begriff mit Ort, sieht in den Kartenergebnissen, wer geöffnet hat und nah ist, und ruft an. Was in diesen Sekunden fehlt, etwa Zeiten oder eine Nummer, kostet den Anruf.",
       blocks: [
         {
           t: "p",
@@ -35,7 +35,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Google ordnet lokale Ergebnisse nach Relevanz, Entfernung und Bekanntheit. Zur Entfernung schreibt Google, es werde berücksichtigt, wie weit ein Unternehmen vom suchenden Kunden entfernt ist. Ein besseres Ranking lässt sich laut Google nicht einfordern, auch nicht gegen Bezahlung. Google nennt außerdem vollständige und korrekte Angaben, darunter Öffnungszeiten und spezielle Öffnungszeiten, als Voraussetzung dafür, dass ein Profil eher in lokalen Ergebnissen erscheint.",
+          text: "Google ordnet lokale Ergebnisse nach Relevanz, Entfernung und Bekanntheit. Zur Entfernung schreibt Google, es werde berücksichtigt, wie weit ein Unternehmen vom suchenden Kunden entfernt ist. Ein besseres Ranking lässt sich laut Google nicht einfordern, auch nicht gegen Bezahlung. Laut Google erscheinen Profile mit vollständigen und korrekten Angaben, darunter Öffnungszeiten und spezielle Öffnungszeiten, mit größerer Wahrscheinlichkeit in lokalen Ergebnissen.",
         },
         {
           t: "table",
@@ -200,7 +200,7 @@ const article: V4Article = {
             ["Nur 0800- oder Mobilnummer", "Örtliche Nummer, gleich in Profil, Website und Impressum"],
             ["Impressum fehlt oder passt nicht", "Impressum mit demselben Firmennamen wie im Profil"],
             ["Druck zur Barzahlung", "Zahlungsarten vorher genannt, Rechnung mit allen Posten"],
-            ["Preis erst vor der Tür", "Preisrahmen und Zuschläge auf der Website"],
+            ["Hohe Beträge erst nach dem Aufsperren", "Preisrahmen und Zuschläge auf der Website"],
           ],
         },
         {
@@ -250,11 +250,11 @@ const article: V4Article = {
       id: "notdienstseite",
       title: "Eine Notdienstseite statt vieler Ortsseiten",
       answer:
-        "Seiten wie „Schlüsseldienst [Ort]“ für zwanzig Orte, auf denen nur der Ortsname wechselt, fallen leicht unter Googles Regeln gegen Brückenseiten. Besser ist eine starke Notdienstseite, die im ersten Satz sagt, wann und wo Sie kommen, mit Rufnummer, Einsatzorten, Ablauf und Preisen.",
+        "Seiten wie „Schlüsseldienst [Ort]“ für zwanzig Orte, auf denen nur der Ortsname wechselt, können unter Googles Regeln gegen Brückenseiten fallen. Besser ist eine starke Notdienstseite, die im ersten Satz sagt, wann und wo Sie kommen, mit Rufnummer, Einsatzorten, Ablauf und Preisen.",
       blocks: [
         {
           t: "p",
-          text: "Google nennt als Beispiel für Missbrauch von Brückenseiten ausdrücklich mehrere Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind, Nutzer aber alle zur selben Seite führen. Nach unserer Einschätzung sind viele Notdienst-Websites ähnlich gebaut. Eine eigene Ortsseite lohnt sich nur bei einer echten Niederlassung oder echten eigenen Inhalten für diesen Ort.",
+          text: "Google nennt als Beispiele für Missbrauch von Brückenseiten mehrere Domainnamen oder Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind, die Nutzer jedoch alle zur selben Seite weiterleiten, sowie im Wesentlichen ähnliche Seiten. Ob konkrete Ortsseiten darunter fallen, lässt sich von außen nicht sicher sagen. Nach unserer Einschätzung ist das Risiko groß, wenn nur der Ortsname wechselt. Eine eigene Ortsseite lohnt sich nur bei einer echten Niederlassung oder echten eigenen Inhalten für diesen Ort.",
         },
         {
           t: "steps",
@@ -277,7 +277,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Nach einem Notfall sind viele Kunden erleichtert und schreiben gern ein paar Zeilen. Das ist kein Grund, sie an der Haustür zu drängen. Googles Richtlinien untersagen außerdem Bitten um Rezensionen, die bestimmte Mitarbeitende nennen.",
+          text: "Nach einem Notfall sind manche Kunden erleichtert und schreiben gern ein paar Zeilen. Das ist kein Grund, sie an der Haustür zu drängen. Googles Richtlinien untersagen außerdem Bitten um Rezensionen, die bestimmte Mitarbeitende nennen.",
         },
         {
           t: "p",
@@ -326,6 +326,7 @@ const article: V4Article = {
   ],
   sources: [
     { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Einzugsgebiete für Unternehmen ohne festen Standort und Hybridunternehmen verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9157481?hl=de" },
     { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
     { title: "Unternehmenskategorie verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7249669?hl=de" },
     { title: "Spezielle Öffnungszeiten festlegen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/6303076?hl=de" },
@@ -336,7 +337,8 @@ const article: V4Article = {
     { title: "Kampagnendaten mithilfe benutzerdefinierter URLs erfassen", publisher: "Google Analytics-Hilfe", url: "https://support.google.com/analytics/answer/10917952?hl=de" },
     { title: "Spamrichtlinien für die Google Websuche (Missbrauch von Brückenseiten, Stand 2. September 2026)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies?hl=de" },
     { title: "Verbotene und eingeschränkt zulässige Inhalte (Rezensionen)", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
-    { title: "New ways AI helps keep business information trustworthy (7. April 2025, Bilanz 2024)", publisher: "Google Blog", url: "https://blog.google/products/maps/google-business-profiles-ai-fake-reviews/" },
+    { title: "Link oder QR-Code zum Anfordern von Rezensionen erstellen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/16816815?hl=de" },
+    { title: "New ways AI helps keep business information trustworthy (7. April 2025, Bilanz 2024)", publisher: "Google Blog", url: "https://blog.google/products-and-platforms/products/maps/google-business-profiles-ai-fake-reviews/" },
     { title: "Schlüsseldienste: So schützen Sie sich vor überzogen hohen Rechnungen (Stand 21. Januar 2026)", publisher: "Verbraucherzentrale", url: "https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/kundenrechte/schluesseldienste-so-schuetzen-sie-sich-vor-ueberzogen-hohen-rechnungen-6687" },
     { title: "Achtung, Schein-Rohrreiniger: So entlarven Sie falsche Rohrreiniger-Notdienste (Stand 23. September 2026)", publisher: "Verbraucherzentrale NRW", url: "https://www.verbraucherzentrale.nrw/vertraege-reklamation/achtung-scheinrohrreiniger-so-entlarven-sie-falsche-rohrreinigernotdienste-109822" },
     { title: "Gesetz gegen den unlauteren Wettbewerb (UWG), § 5 Irreführende geschäftliche Handlungen (zuletzt geändert 12. Mai 2026)", publisher: "lxgesetze.de", url: "https://lxgesetze.de/uwg/5" },

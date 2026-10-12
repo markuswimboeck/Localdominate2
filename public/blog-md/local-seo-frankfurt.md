@@ -25,10 +25,10 @@ In Frankfurt liegen viele Anbieter derselben Branche nah beieinander, und viele 
 
 ## Das Wichtigste in Kürze
 
-- Die Entfernung zur suchenden Person zählt. In Frankfurt sind Sie deshalb meist nur in einem Teil der Stadt weit oben. Ziel sind die Viertel, aus denen Ihre Kunden kommen.
+- Die Entfernung zur suchenden Person zählt. In Frankfurt sind Sie deshalb nach unserer Einschätzung meist nur in einem Teil der Stadt weit oben. Ziel sind die Viertel, aus denen Ihre Kunden kommen.
 - Frankfurt ist in 16 Ortsbezirke gegliedert, die meist mehrere Stadtteile umfassen. Gesucht wird oft mit dem Stadtteilnamen, etwa Sachsenhausen oder Nordend.
-- Eine Seite je Stadtteil oder Nachbarstadt mit austauschbarem Text ist eine Brückenseite und verstößt gegen Googles Spam-Richtlinien.
-- Fast ein Drittel der Frankfurter hat laut städtischer Statistik keinen deutschen Pass. Englische Seiten lohnen sich, wenn Sie Kunden wirklich auf Englisch bedienen.
+- Eine Seite je Stadtteil oder Nachbarstadt mit austauschbarem Text ist nach unserer Einschätzung riskant. Googles Spam-Richtlinien nennen Seiten für Regionen oder Städte, die alle zum selben Ziel führen, ausdrücklich als Missbrauch von Brückenseiten.
+- Knapp ein Drittel der Frankfurter hatte Ende 2023 laut städtischer Statistik eine ausländische Staatsangehörigkeit. Englische Seiten lohnen sich, wenn Sie Kunden wirklich auf Englisch bedienen.
 - Echte Erwähnungen entstehen über IHK Frankfurt am Main, Handwerkskammer Frankfurt-Rhein-Main, Innungen, Verbände und das Viertel.
 
 ## Was Local SEO in Frankfurt anders macht
@@ -37,7 +37,7 @@ Die Grundlagen sind dieselben wie überall: Unternehmensprofil, Website, einheit
 
 Wenn Sie die Grundlagen noch nicht kennen, beginnen Sie mit dem [Local-SEO-Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo). Dieser Artikel ergänzt ihn um das, was in Frankfurt und im Rhein-Main-Gebiet anders ist.
 
-*Was sich in Frankfurt verschiebt*
+*Was sich in Frankfurt verschiebt (Einschätzung)*
 
 | Thema | Kleinstadt oder Land | Frankfurt am Main |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ Wenn Sie die Grundlagen noch nicht kennen, beginnen Sie mit dem [Local-SEO-Leitf
 | Einzugsgebiet | Ort und Umland | Einige Stadtteile, oft dazu Offenbach, Eschborn, Bad Homburg oder andere Nachbargemeinden |
 | Kundschaft | Überwiegend Einheimische | Einheimische, Pendler, Zugezogene, Messe- und Geschäftsreisende |
 
-> **Keine Marktzahlen ohne Quelle:** Sie finden hier keine Angaben wie „X Prozent mehr Suchen zur Messe“. Belastbare Zahlen dieser Art gibt es nicht frei verfügbar. Wie viele Mitbewerber vor Ihnen stehen, messen Sie selbst mit dem Raster unten.
+> **Keine Marktzahlen ohne Quelle:** Sie finden hier keine Angaben wie „X Prozent mehr Suchen zur Messe“. Uns sind keine belastbaren, frei verfügbaren Zahlen dieser Art bekannt. Wie viele Mitbewerber vor Ihnen stehen, messen Sie selbst mit dem Raster unten.
 
 ## Die Entfernung in einer dichten Stadt
 
@@ -57,14 +57,14 @@ Laut Googles Hilfe zum lokalen Ranking zählen **Relevanz, Entfernung und Belieb
 Eine Suche nach „Zahnarzt“ im Gallus liefert deshalb eine andere Liste als dieselbe Suche in Bergen-Enkheim. Unsere Einschätzung: Ziel ist nicht, überall in Frankfurt oben zu stehen, sondern dort, wo Ihre Kunden herkommen.
 
 - **Relevanz ausbauen**, weil Sie hier den größten Einfluss haben: genaue Hauptkategorie, einzeln eingetragene Leistungen, eine Seite je Leistung auf der Website.
-- **Beliebtheit aufbauen**: echte Bewertungen und Erwähnungen von Kammern, Verbänden und lokalen Medien.
+- **Beliebtheit aufbauen**: echte Bewertungen und Websites, die auf Ihren Betrieb verweisen, etwa von Kammern, Verbänden und lokalen Medien. Beides nennt Googles Hilfe für diesen Faktor.
 - **Suchen mit Ortsangabe abdecken**: Wer „Steuerberater Sachsenhausen“ sucht, nennt den Ort selbst. Dann zählt, ob Website und Profil den Stadtteil glaubwürdig nennen.
 
 ## Ortsbezirke und Stadtteile
 
-Frankfurt ist in 16 Ortsbezirke gegliedert, jeder mit eigenem Ortsbeirat. In elf davon sind mehrere Stadtteile zusammengefasst. Gesucht wird fast immer mit dem Stadtteil, nicht mit dem Ortsbezirk. Nennen Sie Stadtteile nur dort, wo Sie wirklich tätig sind.
+Frankfurt ist in 16 Ortsbezirke gegliedert, jeder mit eigenem Ortsbeirat. In elf davon sind mehrere Stadtteile zusammengefasst. Gesucht wird unserer Einschätzung nach meist mit dem Stadtteil, nicht mit dem Ortsbezirk. Nennen Sie Stadtteile nur dort, wo Sie wirklich tätig sind.
 
-Die Stadt beschreibt in ihrer Wahlanalyse zu den Ortsbeiratswahlen 16 Ortsbezirke, von denen elf mehrere Stadtteile umfassen. Im Alltag sagen die Leute „Sachsenhausen“, „Nordend“, „Bornheim“, „Bockenheim“ oder „Höchst“. Ortsbezirksnummern spielen bei der Suche keine Rolle. Prüfen Sie mit den Vorschlägen der Google-Suche und Ihren eigenen Anfragen, welche Bezeichnungen Ihre Kunden verwenden.
+Die Stadt beschreibt in ihrer Wahlanalyse zu den Ortsbeiratswahlen 2016 16 Ortsbezirke, von denen elf mehrere Stadtteile umfassen. Unsere Einschätzung: Im Alltag sagen die Leute „Sachsenhausen“, „Nordend“, „Bornheim“, „Bockenheim“ oder „Höchst“, und Ortsbezirksnummern spielen bei der Suche kaum eine Rolle. Prüfen Sie mit den Vorschlägen der Google-Suche und Ihren eigenen Anfragen, welche Bezeichnungen Ihre Kunden verwenden.
 
 ### Wo ein Stadtteil hingehört
 
@@ -85,7 +85,7 @@ Wenn Sie in zwei Städten wirklich vertreten sind, mit Personal und Adresse, bra
 
 ## Stadtteilseiten ohne Brückenseiten
 
-Eine Seite je Stadtteil oder Nachbarstadt mit demselben Text und ausgetauschtem Ortsnamen ist eine Brückenseite. Google nennt Seiten, die auf Regionen oder Städte zielen und Nutzer zum selben Ziel führen, sowie im Wesentlichen ähnliche Seiten ausdrücklich als Spam.
+Eine Seite je Stadtteil oder Nachbarstadt mit demselben Text und ausgetauschtem Ortsnamen ist nach unserer Einschätzung riskant. Google nennt als Missbrauch von Brückenseiten Seiten, die auf Regionen oder Städte zielen und Nutzer zum selben Ziel führen, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website.
 
 *Stadtteilseite: sinnvoll oder Brückenseite*
 
@@ -101,7 +101,7 @@ Die Faustregel: Würde ein Kunde aus diesem Stadtteil auf der Seite etwas erfahr
 
 Für das Google-Unternehmensprofil gelten in Frankfurt dieselben Richtlinien wie überall. Drei Punkte sind in der Großstadt besonders oft falsch: Ortsangaben im Namen, ein zu großes Einzugsgebiet und Adressen in virtuellen Büros oder Coworking-Räumen.
 
-1. **Name ohne Ortszusatz.** Googles Richtlinien verbieten unnötige Zusätze im Namen, ausdrücklich auch Ortsangaben. „Elektro Weber Frankfurt Sachsenhausen“ ist nur zulässig, wenn der Betrieb auf Schild und Briefpapier genau so heißt.
+1. **Name ohne Ortszusatz.** Googles Richtlinien verbieten unnötige Zusätze im Namen, ausdrücklich auch Ortsangaben. Ein erfundenes Beispiel: „Elektro Muster Frankfurt Sachsenhausen“ ist nur zulässig, wenn der Betrieb auf Schild und Briefpapier genau so heißt.
 2. **Adresse oder Einzugsgebiet.** Mit Kundenverkehr zeigen Sie die Adresse. Fahren Sie nur zum Kunden, blenden Sie die Adresse aus und legen ein Einzugsgebiet fest, so wie oben beschrieben.
 3. **Kein virtuelles Büro.** Für eine angemietete Postadresse ohne Präsenz darf laut Google kein Profil erstellt werden. Ein Büro im Coworking-Space ist nur zulässig, wenn es klar beschildert ist und dort während der Öffnungszeiten Personal Kunden empfängt.
 4. **Sonderöffnungszeiten pflegen.** Feiertage, Messetage und Stadtfeste in Ihrer Nähe tragen Sie als Sonderöffnungszeiten ein. Details stehen in [Öffnungszeiten an Sondertagen](https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage).
@@ -112,7 +112,7 @@ Kategorien, Leistungen, Beschreibung und Fotos behandelt [Google Unternehmenspro
 
 Ende 2023 hatten laut städtischer Statistik 31,7 Prozent der Frankfurter eine ausländische Staatsangehörigkeit. Englische Inhalte lohnen sich, wenn Sie Kunden tatsächlich auf Englisch bedienen. Dann gehört eine vollständige englische Fassung der wichtigen Seiten auf die Website, mit hreflang verknüpft.
 
-Die Stadt zählte zum 31. Dezember 2023 rund 770.000 Einwohner mit Hauptwohnsitz, davon gut 244.000 mit ausländischer Staatsangehörigkeit. Dazu kommen Pendler, Geschäftsreisende und Messegäste. Bieten Sie Beratung, Termine oder Behandlung auf Englisch an, schreiben Sie das klar auf die Website. Behaupten Sie es nicht, wenn es niemand im Team leisten kann.
+Die Stadt zählte zum 31. Dezember 2023 rund 770.000 Einwohner mit Hauptwohnsitz, davon gut 244.000 mit ausländischer Staatsangehörigkeit. Bis Ende 2025 stieg die Zahl der Einwohner mit Hauptwohnung laut Stadt auf 781.337. Dazu kommen Pendler, Geschäftsreisende und Messegäste. Bieten Sie Beratung, Termine oder Behandlung auf Englisch an, schreiben Sie das klar auf die Website. Behaupten Sie es nicht, wenn es niemand im Team leisten kann.
 
 - **Vollständige Übersetzung** der Seiten, die internationale Kunden brauchen: Leistung, Ablauf, Preise ab, Kontakt, Anfahrt.
 - **hreflang** zwischen deutscher und englischer Fassung. Google empfiehlt, Sprachversionen ausdrücklich anzugeben, und behandelt übersetzte Seiten nicht als Duplikate, wenn der Hauptinhalt übersetzt ist.
@@ -120,9 +120,9 @@ Die Stadt zählte zum 31. Dezember 2023 rund 770.000 Einwohner mit Hauptwohnsitz
 
 ## Messen, Stadtfeste und Saison
 
-Große Messen und Stadtfeste ändern in Frankfurt Anfahrt, Parkplätze, Öffnungszeiten und Nachfrage. Pflegen Sie in diesen Tagen Sonderöffnungszeiten und aktuelle Hinweise. Eine eigene Seite lohnt sich nur, wenn Sie zum Anlass etwas Eigenes anbieten.
+Nach unserer Einschätzung ändern große Messen und Stadtfeste in Frankfurt Anfahrt, Parkplätze, Öffnungszeiten und Nachfrage. Pflegen Sie in diesen Tagen Sonderöffnungszeiten und aktuelle Hinweise. Eine eigene Seite lohnt sich nur, wenn Sie zum Anlass etwas Eigenes anbieten.
 
-Ein Beispiel ist das Museumsuferfest: Laut Pressemitteilung der Tourismus+Congress GmbH Frankfurt fand es 2026 vom 28. bis 30. August entlang des Mainufers statt, mit mehr als 500 Einzelveranstaltungen. Übernehmen Sie Termine immer vom Veranstalter, nicht aus Listen Dritter.
+Ein Beispiel ist das Museumsuferfest: Laut Pressemitteilung der Tourismus+Congress GmbH Frankfurt war es für den 28. bis 30. August 2026 mit mehr als 500 Einzelveranstaltungen angekündigt. Übernehmen Sie Termine immer vom Veranstalter, nicht aus Listen Dritter.
 
 *Was Messe- und Festtage für Ihr Profil bedeuten (Einschätzung)*
 
@@ -135,19 +135,19 @@ Manche Gäste fragen solche Dinge auch Assistenten wie ChatGPT oder die Übersic
 
 ## Erwähnungen von Frankfurter Institutionen
 
-Beliebtheit entsteht auch über Erwähnungen bei Institutionen, in denen Sie ohnehin Mitglied sind oder mitarbeiten. In Frankfurt sind das vor allem die IHK Frankfurt am Main, die Handwerkskammer Frankfurt-Rhein-Main, Innungen, Berufskammern sowie Vereine und lokale Medien im Viertel.
+Googles Hilfe nennt für die Beliebtheit unter anderem Websites, die auf Ihr Unternehmen verweisen. Solche Verweise gibt es oft bei Institutionen, in denen Sie ohnehin Mitglied sind oder mitarbeiten. In Frankfurt sind das vor allem die IHK Frankfurt am Main, die Handwerkskammer Frankfurt-Rhein-Main, Innungen, Berufskammern sowie Vereine und lokale Medien im Viertel.
 
 *Mögliche Quellen für Erwähnungen (Auswahl, ohne Rangfolge)*
 
 | Institution | Für wen | Was Sie prüfen können |
 | --- | --- | --- |
-| IHK Frankfurt am Main | Gewerbebetriebe in Frankfurt, im Hochtaunus- und Main-Taunus-Kreis | Ausbildungsbetrieb, Veranstaltungen, Ehrenamt, Fachausschüsse |
+| IHK Frankfurt am Main | Gewerbesteuerpflichtige Unternehmen in Frankfurt, im Hochtaunuskreis und im Main-Taunus-Kreis (ohne Hochheim) | Ausbildungsbetrieb, Veranstaltungen, Ehrenamt, Fachausschüsse |
 | Handwerkskammer Frankfurt-Rhein-Main | Handwerksbetriebe in Frankfurt, Offenbach, Darmstadt und sieben Landkreisen | Eintrag als Ausbildungsbetrieb, Mitarbeit in Ausschüssen, Meldungen der Kammer |
 | Innungen und Fachverbände | Je nach Gewerk oder Beruf | Mitgliederverzeichnis mit Link auf Ihre Website |
 | Berufskammern | Ärzte, Anwälte, Steuerberater und weitere freie Berufe | Ob es ein öffentliches Verzeichnis gibt und Ihre Daten dort stimmen |
 | Vereine, Gewerbevereine, Stadtteilzeitungen | Alle Betriebe mit echtem Engagement im Viertel | Sponsoring, Veranstaltungen, Berichte über echte Anlässe |
 
-Achten Sie darauf, dass Name, Adresse und Telefonnummer in diesen Einträgen genauso lauten wie im Profil. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo). Gekaufte Linkpakete von Seiten ohne Bezug zu Frankfurt bringen lokal wenig. Ideen für echte Erwähnungen finden Sie in [Local Link Building](https://localdominate.org/blog/local-link-building).
+Achten Sie darauf, dass Name, Adresse und Telefonnummer in diesen Einträgen genauso lauten wie im Profil. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo). Unsere Einschätzung: Gekaufte Linkpakete von Seiten ohne Bezug zu Frankfurt bringen lokal wenig. Ideen für echte Erwähnungen finden Sie in [Local Link Building](https://localdominate.org/blog/local-link-building).
 
 ## Messen mit einem Raster und Vorgehen
 
@@ -170,7 +170,7 @@ Werkzeuge und eine Anleitung von Hand finden Sie in [Google-Maps-Ranking verbess
 
 ### Brauche ich für jeden Frankfurter Stadtteil eine eigene Seite?
 
-Nein. Seiten, die sich nur im Ortsnamen unterscheiden, gelten bei Google als Brückenseiten und damit als Spam. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für diesen Stadtteil gibt. Sonst nennen Sie die Stadtteile auf der Leistungsseite.
+Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für diesen Stadtteil gibt. Sonst nennen Sie die Stadtteile auf der Leistungsseite.
 
 ### Darf ich „Frankfurt“ in den Namen meines Unternehmensprofils schreiben?
 
@@ -195,10 +195,12 @@ Nur wenn das Büro klar beschildert ist und dort während der Öffnungszeiten Pe
 - [Spam-Richtlinien für die Google Websuche (Missbrauch von Brückenseiten)](https://developers.google.com/search/docs/essentials/spam-policies?hl=de), Google Search Central
 - [Lokalisierte Versionen deiner Seiten für Google angeben (hreflang)](https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de), Google Search Central
 - [statistik aktuell 04/2024: Bevölkerung Ende 2023](https://statistikportal.frankfurt.de/download/FSA/2024/FSA_2024_04_Bevölkerung_Ende2023.pdf), Stadt Frankfurt am Main, Bürgeramt, Statistik und Wahlen
+- [statistik aktuell 04/2026: Immer mehr Menschen leben in Frankfurt, Bevölkerung nimmt zu (16.04.2026)](https://statistikportal.frankfurt.de/statistik_aktuell/2026/fsa_2026_04.html), Stadt Frankfurt am Main, Bürgeramt, Statistik und Wahlen
 - [Frankfurter Wahlanalysen 65: Ortsbeiratswahlen 2016](https://frankfurt.de/-/media/frankfurtde/service-und-rathaus/daten-informationen-wissen/pdf/wahlanalysen/fwa65_ortsbeiratswahlen_2016.ashx), Stadt Frankfurt am Main, Bürgeramt, Statistik und Wahlen
 - [Pressemitteilung Museumsuferfest 2026](https://www.visitfrankfurt.travel/fileadmin/Mediendatenbank/Dokumente/PM/PM_MUF_2026.pdf), Tourismus+Congress GmbH Frankfurt am Main
 - [Satzung der Handwerkskammer Frankfurt-Rhein-Main](https://hwk-rhein-main.de/adbimage/18696/asset-original//hwk_frm_satzung_240919.pdf), Handwerkskammer Frankfurt-Rhein-Main
 - [Publikationen der IHK Frankfurt am Main](https://www.frankfurt-main.ihk.de/hauptnavigation/wirtschaftspolitik/publikationen), IHK Frankfurt am Main
+- [IHK-Mitgliedschaft und Beitragspflicht (Bezirk: Frankfurt, Main-Taunus-Kreis ohne Hochheim, Hochtaunuskreis)](https://www.frankfurt-main.ihk.de/ueber-uns/ihk-mitgliedschaft/beitrag-hoehe-und-modalitaeten/ihk-mitgliedschaft-und-beitragspflicht-5270082), IHK Frankfurt am Main
 
 ---
 

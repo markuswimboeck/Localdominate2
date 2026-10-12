@@ -58,4 +58,4 @@ Solche, die Ablauf, Zuverlässigkeit und Umgang mit Zwischenfällen konkret besc
 2. Tag 31–60: Gewerkeseiten und die fünf wichtigsten Location-Seiten veröffentlichen.
 3. Tag 61–90: Bewertungsroutine einführen, Partnerverlinkungen aufbauen, Anfragequellen auswerten.
 
-Verwandt: [Local SEO für Fotografen](https://localdominate.org/blog/local-seo-fotograf), [Local SEO für Konditoreien](https://localdominate.org/blog/local-seo-baeckerei-konditorei)
+Verwandt: [Local SEO für Fotografen](https://localdominate.org/blog/local-seo-fotograf), [Local SEO für Bäckereien und Konditoreien](https://localdominate.org/blog/local-seo-baeckerei)

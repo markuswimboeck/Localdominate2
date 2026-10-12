@@ -1789,21 +1789,6 @@ export const keywordMapping: KeywordAssignment[] = [
     contentType: "cluster"
   },
   {
-    slug: "local-seo-baeckerei-konditorei",
-    primaryKeyword: "local seo konditorei",
-    secondaryKeywords: ["konditorei marketing", "tortenbetrieb seo", "hochzeitstorte keywords"],
-    lsiKeywords: [
-      "spezialitäten marketing", "konditorei google maps", "torten bestellungen seo",
-      "motivtorte keywords", "hochzeitstorte bestellen lokal",
-      "patisserie content marketing", "saisonale torten content",
-      "glutenfrei vegan spezialitäten", "torte online bestellen",
-      "konditor meisterwerk portfolio", "instagram torte portfolio", "custom cake keywords"
-    ],
-    searchIntent: "informational",
-    targetSearchVolume: "low",
-    contentType: "cluster"
-  },
-  {
     slug: "local-seo-baeckerei",
     primaryKeyword: "bäckerei local seo",
     secondaryKeywords: ["bäcker seo", "bäckerei marketing google", "konditorei google"],
@@ -1828,21 +1813,6 @@ export const keywordMapping: KeywordAssignment[] = [
       "brunch café keywords", "café events community",
       "kaffee herkunft storytelling", "coworking café nische",
       "kuchen hausgemacht keywords", "vegane optionen café", "café einrichtung als content"
-    ],
-    searchIntent: "informational",
-    targetSearchVolume: "low",
-    contentType: "cluster"
-  },
-  {
-    slug: "local-seo-sanitaer-heizung",
-    primaryKeyword: "local seo shk betrieb",
-    secondaryKeywords: ["sanitär marketing", "heizung seo", "installateur seo"],
-    lsiKeywords: [
-      "klima marketing", "shk notdienst seo", "saisonale optimierung shk",
-      "wärmepumpe installation keywords", "heizungsmodernisierung content",
-      "rohrbruch notdienst keywords", "badezimmer renovierung seo",
-      "solarthermie keywords", "klima anlage installation",
-      "energieeffizienz beratung content", "shk förderung content", "wartungsvertrag als conversion"
     ],
     searchIntent: "informational",
     targetSearchVolume: "low",

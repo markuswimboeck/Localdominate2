@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-maler-lackierer
 markdown_url: https://localdominate.org/blog-md/local-seo-maler-lackierer.md
 language: de-DE
 published: 2026-02-22
-updated: 2026-10-11
+updated: 2026-10-12
 reading_time_minutes: 12
 category: "Branchen"
 author: LocalDominate Redaktion
@@ -56,7 +56,7 @@ Die meisten Malerbetriebe arbeiten beim Kunden. Google nennt das ein Unternehmen
 
 1. **Adresse prüfen.** Kommen Kunden zu Ihnen? Wenn nicht, Adresse im Profil ausblenden.
 2. **Gebiete eintragen.** Städte, Gemeinden oder Postleitzahlen, in denen Sie wirklich Aufträge annehmen. Höchstens 20, möglichst nicht weiter als zwei Autostunden entfernt.
-3. **Ein Profil je Standort.** Google erlaubt für jeden Standort nicht mehr als ein Profil. Ein zweites Profil ist nur für eine echte Niederlassung mit eigenem Personal und eigenem Einzugsgebiet zulässig.
+3. **Ein Profil je Standort.** Google erlaubt für jeden Standort nicht mehr als ein Profil. Ein zweites Profil setzt einen zweiten echten Standort mit eigenem Personal voraus.
 4. **Name wie auf dem Firmenschild.** „Malerbetrieb Gruber“, nicht „Maler Gruber Fassaden München günstig“. Ort, Leistung oder Slogans im Namen verstoßen gegen Googles Richtlinien.
 
 > **Keine Briefkastenfilialen:** Postfächer und gemietete Postanschriften ohne echten Betrieb dürfen laut Google kein Profil bekommen. Wer so in Nachbarstädten „Filialen“ anlegt, riskiert die Sperrung.
@@ -65,7 +65,7 @@ Die meisten Malerbetriebe arbeiten beim Kunden. Google nennt das ein Unternehmen
 
 Wählen Sie als Hauptkategorie den Eintrag aus Googles Liste, der Ihr Kerngeschäft am genauesten trifft, und nur wenige weitere. Einzelne Arbeiten wie Innenanstrich, Fassade, Tapezieren oder Lackierarbeiten tragen Sie als Leistungen ein.
 
-Google veröffentlicht keine vollständige Kategorienliste. Sie finden die passenden Einträge, indem Sie im Feld „Primäre Kategorie“ einen Begriff wie „Maler“ eingeben und die Vorschläge lesen. Eigene Kategorien lassen sich nicht anlegen. Google rät ausdrücklich davon ab, für jede Leistung eine eigene Kategorie zu wählen. Wie Sie systematisch vorgehen, steht im [Kategorien-Leitfaden](https://localdominate.org/blog/google-business-kategorien-guide#richtige-kategorie-finden).
+Googles Hilfe zu Kategorien enthält keine Gesamtliste. Sie finden die passenden Einträge, indem Sie im Feld „Primäre Kategorie“ einen Begriff wie „Maler“ eingeben und die Vorschläge lesen. Eigene Kategorien lassen sich nicht anlegen. Google rät ausdrücklich davon ab, für jede Leistung eine eigene Kategorie zu wählen. Wie Sie systematisch vorgehen, steht im [Kategorien-Leitfaden](https://localdominate.org/blog/google-business-kategorien-guide#richtige-kategorie-finden).
 
 - **Leistungen:** Nach der Kategorie bietet Google vorgeschlagene Leistungen an. Fehlt etwas, legen Sie eigene an, zum Beispiel „Fassadenanstrich“, „Tapezierarbeiten“, „Lackieren von Türen und Fenstern“, „Bodenbeschichtung“, „Schimmelbehandlung Innenwand“.
 - **Keine Preise oder Telefonnummern in Leistungsnamen.** Google rät davon ab und lehnt eigene Leistungen, die gegen die Richtlinien verstoßen, automatisch ab. Einen Preis können Sie im dafür vorgesehenen Feld angeben.
@@ -117,7 +117,7 @@ Viele Kunden suchen nach Kosten, bevor sie anfragen. Eine Website, die erklärt,
 | § 3 PAngV | Wer Verbrauchern Leistungen anbietet oder unter Angabe von Preisen wirbt, nennt Gesamtpreise | Preise auf Website, im Profil oder in Anzeigen immer mit Umsatzsteuer |
 | § 12 Abs. 1 PAngV | Preisverzeichnis für wesentliche Leistungen oder Verrechnungssätze wie Stundensätze | Stundensätze müssen alle Leistungselemente samt Umsatzsteuer enthalten |
 | § 12 Abs. 4 Nr. 1 PAngV | Keine Pflicht bei Leistungen, die üblicherweise nach schriftlichem Angebot oder Voranschlag erbracht werden | Unsere Einschätzung: individuelle Malerarbeiten nach Aufmaß fallen typischerweise darunter |
-| § 649 BGB | Bei wesentlicher Überschreitung eines Kostenanschlags darf der Kunde kündigen, der Betrieb muss sie unverzüglich anzeigen | Mehrkosten früh melden, nicht erst mit der Schlussrechnung |
+| § 649 BGB | Bei wesentlicher Überschreitung eines Kostenanschlags darf der Kunde kündigen, wenn der Betrieb keine Gewähr für dessen Richtigkeit übernommen hat; der Betrieb muss die Überschreitung unverzüglich anzeigen | Mehrkosten früh melden, nicht erst mit der Schlussrechnung |
 
 Ob ein Kostenvoranschlag bezahlt werden muss, ist in Deutschland im Zweifel zu verneinen, wenn nichts vereinbart ist (§ 632 Abs. 3 BGB), so auch ein Merkblatt der IHK Ostwestfalen. Eine feste Prozentgrenze für eine „wesentliche“ Überschreitung gibt es laut demselben Merkblatt nicht. In Österreich muss ein Verbraucher einen Kostenvoranschlag nach § 5 Konsumentenschutzgesetz nur bezahlen, wenn er vorher darauf hingewiesen wurde, und dessen Richtigkeit gilt als gewährleistet, wenn nicht ausdrücklich etwas anderes erklärt ist. Für die Schweiz prüfen Sie die dortigen Regeln gesondert.
 
@@ -160,7 +160,7 @@ Handwerkerportale und Googles Anzeigen für lokale Dienstleistungen können zus�
 
 Google führt „Maler“ in der Liste der Branchen für Anzeigen für lokale Dienstleistungen und schreibt, dass Sie nur zahlen, wenn ein Interessent über die Anzeige Kontakt aufnimmt. Die Liste nennt aber nicht, in welchen Ländern welche Branche freigeschaltet ist. Prüfen Sie das für Ihren Standort direkt in Googles Hilfe.
 
-Auftragsportale wie MyHammer oder Check24 Profis in Deutschland arbeiten mit unterschiedlichen Gebührenmodellen, die sich ändern. Rechnen Sie mit den aktuellen Konditionen, wie viele Aufträge Sie brauchen, damit sich ein Portal lohnt. Achten Sie darauf, dass Firmenname, Telefonnummer und Einzugsgebiet dort genau so stehen wie im Profil. Wie Sie das prüfen, zeigt [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo).
+Bei Auftragsportalen wie MyHammer oder Check24 Profis in Deutschland prüfen Sie vor dem Start die aktuellen Konditionen. Rechnen Sie damit aus, wie viele Aufträge Sie brauchen, damit sich ein Portal lohnt. Achten Sie darauf, dass Firmenname, Telefonnummer und Einzugsgebiet dort genau so stehen wie im Profil. Wie Sie das prüfen, zeigt [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo).
 
 ## Anfragen messen und KI-Antworten im Blick behalten
 
@@ -208,15 +208,17 @@ Sie dürfen freundlich erwähnen, dass Sie sich über eine Bewertung freuen. Goo
 - [Google Lokale Dienstleistungen im Überblick](https://support.google.com/localservices/answer/6224841?hl=de), Google Lokale Dienstleistungen-Hilfe
 - [Häufig gestellte Fragen zu Google Trends-Daten](https://support.google.com/trends/answer/4365533?hl=de), Google Trends-Hilfe
 - [Preisangabenverordnung, § 3 Pflicht zur Angabe des Gesamtpreises](https://lxgesetze.de/pangv/3), lxgesetze.de
-- [Preisangabenverordnung, § 12 Preisangaben für Leistungen](https://lexmea.de/de/gesetz/pangv/12), LexMea
 - [BGB § 649 Kostenanschlag](https://dejure.org/gesetze/BGB/649.html), dejure.org
+- [BGB § 632 Vergütung (Abs. 3: Kostenanschlag)](https://dejure.org/gesetze/BGB/632.html), dejure.org
+- [Preisangabenverordnung, § 2 Begriffsbestimmungen (Gesamtpreis)](https://lxgesetze.de/pangv/2), lxgesetze.de
+- [Preisangabenverordnung, § 12 Preisangaben für Leistungen](https://lxgesetze.de/pangv/12), lxgesetze.de
+- [Handwerksordnung, Anlage A (zulassungspflichtige Handwerke, Nr. 10 Maler und Lackierer)](https://dejure.org/gesetze/HwO/Anlage_A.html), dejure.org
 - [Merkblatt Kostenvoranschlag (Stand 05/2018)](https://www.ostwestfalen.ihk.de/fileadmin/Dokumente/Recht/Merkblaetter-Recht/Kostenvoranschlag.pdf), IHK Ostwestfalen zu Bielefeld
 - [Konsumentenschutzgesetz § 5 Kostenvoranschläge](https://www.ris.bka.gv.at/eli/bgbl/1979/140/P5/NOR12031487), RIS, Bundeskanzleramt Österreich
-- [Viertes Gesetz zur Änderung der Handwerksordnung, BGBl. 2020 I Nr. 6 (Anlage A)](https://www.hwk-rhein-main.de/adbimage/10621/asset-original//bundesgesetzblatt-jahrgang-2020-teil-i-nr-6.pdf), Bundesgesetzblatt, bereitgestellt von der Handwerkskammer Frankfurt-Rhein-Main
 - [UWG § 5 Irreführende geschäftliche Handlungen](https://dejure.org/gesetze/UWG/5.html), dejure.org
 - [Kunsturhebergesetz § 22](https://lxgesetze.de/kug/22), lxgesetze.de
 - [HousePainter](https://schema.org/HousePainter), schema.org
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
