@@ -3,15 +3,15 @@ import type { V4Article } from "../types";
 const article: V4Article = {
   slug: "local-seo-fitness",
   lang: "de",
-  seoTitle: "Local SEO für Fitnessstudios und Personal Trainer",
+  seoTitle: "Lokales SEO für Fitnessstudios: mehr Probetrainings",
   seoDescription:
-    "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
-  h1: "Local SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche",
+    "Lokales SEO für Fitnessstudios und Personal Trainer: Kategorie, Google-Profil, Bewertungen nach Googles Regeln, Probetraining-Seite und Saisonplanung.",
+  h1: "Lokales SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche",
   kicker: "Branchen",
   lead:
     "Für Inhaber von Fitnessstudios, Kursstudios und Boxen sowie für selbstständige Personal Trainer in Deutschland, Österreich und der Schweiz. Sie erfahren, wie Sie Ihr Google-Unternehmensprofil richtig aufsetzen, wie Sie Bewertungen sammeln, ohne gegen Googles Regeln zu verstoßen, und was Ihre Website für mehr Probetrainings leisten muss.",
   answer:
-    "Wer ein Studio sucht, sucht meist in der Nähe und entscheidet im Kartenblock von Google. Wählen Sie deshalb die genaueste Hauptkategorie, pflegen Sie Öffnungs- und Sonderzeiten, sammeln Sie laufend echte Bewertungen ohne Gegenleistung und führen Sie Besucher auf eine klare Seite für das Probetraining. Personal Trainer brauchen nur dann ein eigenes Profil, wenn sie selbstständig sind und Kunden persönlich treffen.",
+    "Lokales SEO für Fitnessstudios beginnt im Kartenblock von Google, denn wer ein Studio sucht, sucht meist in der Nähe. Wählen Sie deshalb die genaueste Hauptkategorie, pflegen Sie Öffnungs- und Sonderzeiten, sammeln Sie laufend echte Bewertungen ohne Gegenleistung und führen Sie Besucher auf eine klare Seite für das Probetraining. Personal Trainer brauchen nur dann ein eigenes Profil, wenn sie selbstständig sind und Kunden persönlich treffen.",
   takeaways: [
     "Google sortiert lokale Treffer nach Relevanz, Entfernung und Bekanntheit. Ein besseres Ranking lässt sich laut Google nicht kaufen.",
     "Google nennt selbst ein Beispiel: Ein 24-Stunden-Studio bekommt die Kategorie „Fitnessstudio“, nicht zusätzlich „Schwimmbad“, nur weil es ein Becken hat.",
@@ -25,7 +25,7 @@ const article: V4Article = {
   sections: [
     {
       id: "wie-interessenten-suchen",
-      title: "Wie Interessenten ein Studio suchen",
+      title: "Wie Interessenten ein Fitnessstudio in der Nähe suchen",
       answer:
         "Die meisten Interessenten suchen nach „Fitnessstudio“, „Yoga“ oder „Personal Trainer“ und entscheiden zwischen den ersten Einträgen im Kartenblock. Welche Begriffe bei Ihnen ankommen, zeigen Ihnen die Suchanfragen im Leistungsbericht Ihres Profils.",
       blocks: [
