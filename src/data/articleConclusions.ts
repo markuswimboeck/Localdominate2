@@ -700,26 +700,6 @@ export const articleConclusions: Record<string, ArticleConclusionData> = {
       ]
     }
   },
-  "local-seo-sanitaer-heizung": {
-    de: {
-      summary: "SHK-Betriebe profitieren massiv von Notdienst-SEO im Winter und Klima-Keywords im Sommer. Saisonale Optimierung kombiniert mit dauerhafter Präsenz ergibt ganzjährig volle Auftragsbücher.",
-      nextSteps: [
-        "Erstelle separate Landingpages für Heizung, Sanitär und Klima",
-        "Optimiere saisonal: Heizungsnotdienst (Winter), Klimaanlagen (Sommer)",
-        "Dokumentiere abgeschlossene Installationen mit Fotos",
-        "Kooperiere mit Hausverwaltungen für regelmäßige Empfehlungen"
-      ]
-    },
-    en: {
-      summary: "HVAC businesses massively benefit from emergency SEO in winter and cooling keywords in summer. Seasonal optimization combined with permanent presence results in year-round full order books.",
-      nextSteps: [
-        "Create separate landing pages for heating, plumbing and cooling",
-        "Optimize seasonally: heating emergency (winter), AC (summer)",
-        "Document completed installations with photos",
-        "Cooperate with property managers for regular referrals"
-      ]
-    }
-  },
   "local-seo-case-study-baecker": {
     de: {
       summary: "Diese Case Study beweist: Local SEO funktioniert auch für kleine Betriebe mit begrenztem Budget. Die Kombination aus GBP-Optimierung, Bewertungsstrategie und lokalem Content führte zu messbaren Ergebnissen.",

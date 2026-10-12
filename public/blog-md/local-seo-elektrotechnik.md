@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-elektrotechnik
 markdown_url: https://localdominate.org/blog-md/local-seo-elektrotechnik.md
 language: de-DE
 published: 2026-02-18
-updated: 2026-10-11
+updated: 2026-10-12
 reading_time_minutes: 13
 category: "Branchen"
 author: LocalDominate Redaktion
@@ -28,7 +28,7 @@ Ein Elektrobetrieb wird lokal gefunden, wenn das Google-Unternehmensprofil ein e
 - Empfangen Sie keine Kunden im Betrieb, blenden Sie die Adresse aus und wählen Sie bis zu 20 Orte oder Postleitzahlen als Einzugsgebiet. Ein Elektrofachgeschäft mit Verkauf zeigt Adresse und Einzugsgebiet.
 - „Meisterbetrieb“, „24h“ oder Ortsnamen gehören nicht in den Namen im Profil. Google verbietet unnötige Zusätze.
 - Eine eigene Seite für Wallbox, Photovoltaik und Smart Home beantwortet die Fragen der Kunden besser als eine Sammelseite. Fast gleiche Seiten für jeden Nachbarort können nach Googles Spamrichtlinien als Brückenseiten gelten.
-- In Deutschland ist der Meistertitel geschützt, und Arbeiten an der Kundenanlage hinter der Hausanschlusssicherung darf außer dem Netzbetreiber nur ein Unternehmen ausführen, das in das Installateurverzeichnis eines Netzbetreibers eingetragen ist. Beides sind belegbare Vertrauenssignale.
+- In Deutschland ist der Meistertitel geschützt, und Arbeiten an der Kundenanlage hinter der Hausanschlusssicherung darf außer dem Netzbetreiber grundsätzlich nur ein Unternehmen ausführen, das in das Installateurverzeichnis eines Netzbetreibers eingetragen ist. Für Instandhaltungsarbeiten gibt es Ausnahmen. Beides sind belegbare Vertrauenssignale.
 - Bitten Sie jeden Kunden um eine Bewertung, aber nicht vor Ort unter Druck und ohne Gegenleistung.
 
 ## Wie Kunden einen Elektriker suchen
@@ -59,7 +59,7 @@ Fahren Sie nur zu Kunden, blenden Sie die Adresse aus und tragen Sie bis zu 20 O
 | Elektrofachgeschäft mit Verkauf und Montage | Zeigen, Öffnungszeiten des Geschäfts | Zusätzlich angeben |
 | Zweite Niederlassung mit eigenem Team und Kundenverkehr | Eigenes Profil mit eigener Adresse | Eigenes Gebiet |
 
-Einen Radius können Sie laut Google nicht angeben, nur benannte Gebiete. Google rät, dass das Einzugsgebiet nicht weiter als etwa zwei Autostunden vom Betrieb entfernt liegt. Ein Unternehmen ohne festen Standort darf genau ein Profil für sein Einzugsgebiet haben. Zusätzliche Profile gibt es nur für echte Niederlassungen.
+Einen Radius können Sie laut Google nicht angeben, nur benannte Gebiete. Google rät, dass das Einzugsgebiet nicht weiter als etwa zwei Autostunden vom Betrieb entfernt liegt. Ein Unternehmen ohne festen Standort darf genau ein Profil für sein Einzugsgebiet haben. Für zusätzliche Profile brauchen Sie jeweils einen eigenen, echten Standort, denn Google erlaubt für jeden Standort nicht mehr als ein Profil.
 
 > **Einschätzung:** Ziehen Sie das Gebiet so, wie Ihre Monteure tatsächlich fahren. Ein Gebiet, das bis in die nächste Großstadt reicht, bringt vor allem Anfragen, die Sie ablehnen müssen. Google sagt nicht, dass ein größeres Gebiet zu mehr Sichtbarkeit führt.
 
@@ -89,7 +89,7 @@ Tragen Sie Notdienstzeiten nur ein, wenn zu diesen Zeiten jemand abnimmt und aus
 - **Name:** Google verbietet unnötige Zusätze zum Namen, ausdrücklich auch Öffnungszeiten, Leistungen und Ortsangaben. „Elektro Berger GmbH“ ist richtig, „Elektro Berger Notdienst 24h Augsburg“ nicht.
 - **Rufnummer:** Neben der primären Nummer können Sie bis zu zwei weitere angeben, etwa eine Notdienstnummer. Mobil- und Festnetznummern sind möglich.
 
-Die Verbraucherzentrale NRW warnt in ihrem Beitrag über Schein-Rohrreiniger (Stand 23. September 2026) vor Anbietern, die über bezahlte Anzeigen oben in der Suche stehen, nur eine Mobilfunk- oder 0800-Nummer zeigen, kein Impressum haben und zur sofortigen Zahlung in bar oder mit Karte drängen. Der Beitrag betrifft Rohrreinigung. Unsere Einschätzung: Kunden, die das gelesen haben, prüfen auch einen Elektro-Notdienst genauer. Zeigen Sie deshalb Impressum, Festnetznummer, Fotos von Team und Fahrzeugen und eine ordentliche Rechnung als Standard.
+Die Verbraucherzentrale NRW warnt in ihrem Beitrag über Schein-Rohrreiniger (Stand 23. September 2026) vor Anbietern, die über bezahlte Anzeigen oben in der Suche stehen, nur eine Mobilfunk- oder 0800-Nummer zeigen, kein oder ein abweichendes Impressum haben und zur sofortigen Zahlung in bar oder mit Karte drängen. Der Beitrag betrifft Rohrreinigung. Unsere Einschätzung: Kunden, die das gelesen haben, prüfen auch einen Elektro-Notdienst genauer. Zeigen Sie deshalb Impressum, Festnetznummer, Fotos von Team und Fahrzeugen und eine ordentliche Rechnung als Standard.
 
 Wie eine Notdienstseite mit Einsatzorten, Ablauf und Preisen aufgebaut ist, zeigt der Artikel [Heizung Sanitär Notdienst SEO](https://localdominate.org/blog/local-seo-heizung-sanitaer). Der Aufbau passt für Elektrobetriebe genauso. Allgemeine Hinweise zu dringenden Suchen gibt [Notdienst-Keywords](https://localdominate.org/blog/local-seo-notdienst-keywords).
 
@@ -127,13 +127,13 @@ Wer eine Wallbox plant, will wissen, ob sein Hausanschluss reicht, was angemelde
 
 Ein Beispiel für eine belegbare Angabe: Nach § 19 Abs. 2 der deutschen Niederspannungsanschlussverordnung (NAV) sind Ladeeinrichtungen für Elektrofahrzeuge dem Netzbetreiber vor der Inbetriebnahme mitzuteilen. Überschreitet die Summen-Bemessungsleistung 12 Kilovoltampere je elektrischer Anlage, braucht die Inbetriebnahme zusätzlich die vorherige Zustimmung des Netzbetreibers. Schreiben Sie auf die Seite, dass Sie diese Mitteilung übernehmen, wenn Sie das tun.
 
-Förderprogramme für Wallbox oder Speicher ändern sich oft. Nennen Sie sie nur mit Stand-Datum und Link zur fördernden Stelle, wie es der Abschnitt [Förderung erklären](https://localdominate.org/blog/local-seo-sanitaer-heizung#foerderung) für SHK-Betriebe beschreibt.
+Förderprogramme für Wallbox oder Speicher ändern sich oft. Nennen Sie sie nur mit Stand-Datum und Link zur fördernden Stelle.
 
 ### Leistungsseiten und KI-Suche
 
 Für die Übersicht mit KI und den KI-Modus gibt es laut Google keine zusätzlichen Anforderungen. Eine Seite muss indexiert sein und mit Snippet erscheinen können, eine Garantie für die Anzeige gibt es nicht. Eine Leistungsseite, die im ersten Satz sagt, was Sie wo anbieten, kann dort als Quelle dienen, wenn Google sie auswählt. Mehr dazu in [Übersicht mit KI und Local SEO](https://localdominate.org/blog/google-ai-overviews-local-seo).
 
-> **Keine Städteseiten auf Vorrat:** Google nennt in seinen Spamrichtlinien als Missbrauch von Brückenseiten unter anderem Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer zur selben Seite weiterleiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Nennen Sie Ihre Einsatzorte als Liste auf der Leistungsseite statt zwanzig Seiten „Elektriker [Ort]“.
+> **Keine Städteseiten auf Vorrat:** Google nennt in seinen Spamrichtlinien als Missbrauch von Brückenseiten unter anderem Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer zur selben Seite weiterleiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Unsere Einschätzung: Zwanzig fast gleiche Seiten „Elektriker [Ort]“ sind ein Risiko. Nennen Sie Ihre Einsatzorte besser als Liste auf der Leistungsseite.
 
 ## Meistertitel, Installateurverzeichnis und Bewilligung
 
@@ -145,13 +145,13 @@ Im Elektrohandwerk gibt es Nachweise, die Kunden prüfen können: in Deutschland
 | --- | --- | --- |
 | Deutschland | Elektrotechniker ist ein zulassungspflichtiges Handwerk (Anlage A der Handwerksordnung, Nr. 25) | Eintragung in die Handwerksrolle bei Ihrer Handwerkskammer |
 | Deutschland | Den Titel Meister in Verbindung mit einem zulassungspflichtigen Handwerk darf nur führen, wer die Meisterprüfung bestanden hat (§ 51 HwO) | Meistertitel des Inhabers oder Betriebsleiters, nur wenn vorhanden |
-| Deutschland | Arbeiten an der Anlage hinter dem Hausanschluss dürfen außer dem Netzbetreiber nur in ein Installateurverzeichnis eingetragene Unternehmen ausführen (§ 13 Abs. 2 NAV) | Eintragung in das Installateurverzeichnis eines Netzbetreibers, in der Regel am Ort Ihrer Niederlassung |
+| Deutschland | Arbeiten an der Anlage hinter dem Hausanschluss dürfen außer dem Netzbetreiber nur in ein Installateurverzeichnis eingetragene Unternehmen ausführen (§ 13 Abs. 2 NAV). Für Instandhaltungsarbeiten gilt das mit Ausnahme des Bereichs von der Hausanschlusssicherung bis einschließlich der Messeinrichtung nicht | Eintragung in das Installateurverzeichnis eines Netzbetreibers, in der Regel am Ort Ihrer Niederlassung |
 | Österreich | Gewerbe der Elektrotechnik nach § 94 Z 16 GewO 1994 mit eigenen Standesregeln | Gewerbeberechtigung für Elektrotechnik |
 | Schweiz | Wer elektrische Installationen erstellt, ändert oder in Stand stellt, braucht eine Bewilligung des ESTI | Installationsbewilligung; das ESTI führt ein Verzeichnis der Bewilligungen |
 
-Arbeiten Sie im Gebiet mehrerer Netzbetreiber, ist das für Ihr Einzugsgebiet wichtig. Laut den Grundsätzen, die der BDEW zum Installateurverzeichnis veröffentlicht, kann ein eingetragenes Unternehmen im Gebiet eines anderen Netzbetreibers arbeiten, wenn es seine Eintragung bei dem Netzbetreiber am Betriebssitz nachweist. Klären Sie das, bevor Sie Orte in fremden Netzgebieten ins Profil aufnehmen.
+Arbeiten Sie im Gebiet mehrerer Netzbetreiber, ist das für Ihr Einzugsgebiet wichtig. Laut den Grundsätzen, die der BDEW zum Installateurverzeichnis veröffentlicht, kann ein eingetragenes Unternehmen im Gebiet eines anderen Netzbetreibers arbeiten, wenn es seine Eintragung in das Installateurverzeichnis des Netzbetreibers am Ort seiner gewerblichen Niederlassung nachweist. Klären Sie das, bevor Sie Orte in fremden Netzgebieten ins Profil aufnehmen.
 
-Die österreichischen Standesregeln für die Elektrotechnik untersagen absichtlich unrichtige oder irreführende Angaben über die eigenen geschäftlichen Verhältnisse. Unsere Einschätzung: Diese Haltung gilt überall. Schreiben Sie „Meisterbetrieb“ nur, wenn ein Meister im Betrieb tätig ist, und Zertifikate von Herstellern nur, solange sie gültig sind.
+Die österreichischen Standesregeln für die Elektrotechnik untersagen in § 4 Z 1 absichtlich unrichtige oder irreführende Angaben über die eigenen geschäftlichen und wirtschaftlichen Verhältnisse. Unsere Einschätzung: Diese Haltung gilt überall. Schreiben Sie „Meisterbetrieb“ nur, wenn ein Meister im Betrieb tätig ist, und Zertifikate von Herstellern nur, solange sie gültig sind.
 
 > **Keine Rechtsberatung:** Die Tabelle fasst die genannten Vorschriften stark verkürzt zusammen. Ob und wie Sie einen Titel oder eine Eintragung werblich nennen, klären Sie im Zweifel mit Ihrer Handwerkskammer, Innung, Wirtschaftskammer oder einem Rechtsanwalt.
 
@@ -183,7 +183,7 @@ Nach einer gelungenen Wallbox-Montage oder einer schnellen Störungsbehebung sin
 
 ## Portale, Anzeigen und Messung
 
-Anzeigen für lokale Dienstleistungen führt Google auch für Elektriker, aber nur in bestimmten Regionen, und Sie zahlen je Kontakt. Auftragsportale und Verzeichnisse können Anfragen bringen, wenn die Firmendaten überall gleich sind. Messen Sie Anrufe und Anfragen, nicht nur Positionen.
+Googles Anzeigen für lokale Dienstleistungen nennen Elektriker in der Branchenliste, sind aber nur in bestimmten Regionen verfügbar, und Sie zahlen nur bei einem Kontakt. Auftragsportale und Verzeichnisse können Anfragen bringen, wenn die Firmendaten überall gleich sind. Messen Sie Anrufe und Anfragen, nicht nur Positionen.
 
 „Elektriker“ steht in Googles Liste der Branchen für Anzeigen für lokale Dienstleistungen. Ob die Anzeigen für Ihr Gewerk in Ihrer Region verfügbar sind, prüfen Sie über die Verfügbarkeitsprüfung in Googles Hilfe. Sie zahlen laut Google nur, wenn ein Interessent über die Anzeige Kontakt aufnimmt. Rechnen Sie bei Anzeigen und Auftragsportalen vor dem Start mit den aktuellen Konditionen, wie viele Aufträge Sie brauchen, damit sich die Kosten lohnen.
 
@@ -209,7 +209,7 @@ Den Eintrag aus Googles Liste, der Ihr Kerngeschäft am genauesten beschreibt. E
 
 ### Brauche ich für jeden Ort in meinem Einzugsgebiet eine eigene Seite?
 
-Nein. Fast gleiche Seiten, bei denen nur der Ortsname wechselt, können nach Googles Spamrichtlinien als Missbrauch von Brückenseiten gelten. Besser ist eine Seite je Leistung mit einer Liste der Einsatzorte. Eine eigene Ortsseite lohnt sich bei einer echten Niederlassung.
+Nein. Fast gleiche Seiten, bei denen nur der Ortsname wechselt, sind nach unserer Einschätzung riskant, denn Googles Spamrichtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Besser ist eine Seite je Leistung mit einer Liste der Einsatzorte. Eine eigene Ortsseite lohnt sich bei einer echten Niederlassung.
 
 ### Was gehört auf eine Seite für Wallbox-Installation?
 
@@ -244,6 +244,8 @@ Nein. Google schreibt, dass es für die Übersicht mit KI und den KI-Modus keine
 - [Niederspannungsanschlussverordnung (NAV), § 19 Betrieb von elektrischen Anlagen und Ladeeinrichtungen](https://gesetze.legal/bund/nav/19), gesetze.legal
 - [Bundesinstallateurausschuss Strom: Grundsätze für das Installateurverzeichnis](https://www.bdew.de/energie/bundesinstallateurausschuss-strom/), BDEW
 - [Preisangabenverordnung (PAngV), § 12 Preisangaben für Leistungen (zuletzt geändert 12. Mai 2026)](https://lxgesetze.de/pangv/12), lxgesetze.de
+- [Gewerbeordnung 1994, § 94 Reglementierte Gewerbe (Z 16 Elektrotechnik)](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=94), Rechtsinformationssystem des Bundes (RIS), Österreich
+- [Standesregeln für das Gewerbe der Elektrotechnik, BGBl. II Nr. 12/2014 (Kundmachung vom 23. Jänner 2014, § 4 Z 1)](https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2014_II_12/BGBLA_2014_II_12.html), Rechtsinformationssystem des Bundes (RIS), Österreich
 - [Standesregeln für das Gewerbe der Elektrotechnik, BGBl. II Nr. 12/2014](https://wko.at/sbg/gewerbe-handwerk/elektro-gebaeude-alarm-kommunikation/standesregel-elektrotechnik.pdf), Wirtschaftskammer Salzburg
 - [Bewilligungen NIV (Stand 31. Oktober 2025)](https://www.esti.admin.ch/de/themen/bewilligungen-niv-uebersicht/bewilligungen-niv), Eidgenössisches Starkstrominspektorat ESTI
 - [Bewilligungsverzeichnisse](https://www.esti.admin.ch/de/dokumentation/bewilligungsverzeichnisse), Eidgenössisches Starkstrominspektorat ESTI
@@ -251,4 +253,4 @@ Nein. Google schreibt, dass es für die Übersicht mit KI und den KI-Modus keine
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org

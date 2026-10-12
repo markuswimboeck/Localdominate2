@@ -58,7 +58,6 @@ export const SEARCH_INDEX: SearchIndex = {
   "local-seo-hochzeitsdienstleister": { titleDe: "Local SEO für Hochzeitsdienstleister: Florist bis DJ", terms: "hochzeitsdienstleister seo, hochzeit marketing, local seo hochzeit, wedding vendor seo" },
   "local-seo-umzugsunternehmen": { titleDe: "Local SEO für Umzugsunternehmen: In zwei Städten gefunden werden", terms: "local seo umzugsunternehmen, umzugsfirma kunden gewinnen, umzug google ranking, umzugsanfragen generieren, fernumzug marketing" },
   "local-seo-sprachschule": { titleDe: "Local SEO für Sprachschulen & Nachhilfe-Institute", terms: "sprachschule seo, nachhilfe marketing, local seo sprachschule, bildung seo" },
-  "local-seo-baeckerei-konditorei": { titleDe: "Local SEO für Konditoreien & Tortenbetriebe: Spezialitäten vermarkten", terms: "konditorei seo, tortenbetrieb marketing, local seo konditorei, hochzeitstorte keywords" },
   "local-seo-cafe-coffeeshop": { titleDe: "Local SEO für Cafés & Coffee Shops", terms: "cafe seo, coffeeshop marketing, local seo cafe, kaffee seo" },
   "local-seo-hamburg": { titleDe: "Local SEO Hamburg: Der Hanseatische Marketing-Guide", terms: "local seo hamburg, seo hamburg, marketing hamburg, hamburger unternehmen" },
   "local-seo-frankfurt": { titleDe: "Local SEO Frankfurt: Finanzmetropole richtig nutzen", terms: "local seo frankfurt, seo frankfurt, marketing frankfurt, frankfurter unternehmen" },

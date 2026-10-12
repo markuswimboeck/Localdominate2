@@ -5,6 +5,7 @@ import { CheckButton } from "@/components/v4/CheckButton";
 import { StateField } from "@/components/v4/StateField";
 import { SystemLabel } from "@/components/v4/SystemLabel";
 import { CHECK_DE } from "@/lib/check";
+import { audiencesForArticle } from "@/data/v4ArticleAudiences";
 import { faqPageJsonLd } from "@/lib/seoFaq";
 import { Inline, plain } from "@/content/articles/inline";
 import type { Block, Section, V4Article } from "@/content/articles/types";
@@ -244,6 +245,7 @@ function Cta({ title, text, kicker = "Kostenloser Check", label = CHECK_DE.label
 /** A blog article in the V4 design. The data comes from src/content/articles/data/<slug>.ts. */
 export default function ArticleV4({ article: a }: { article: V4Article }) {
   const half = Math.ceil(a.sections.length / 2);
+  const industries = audiencesForArticle(a.slug);
   return (
     <V4Page>
       <SEOHead
@@ -414,27 +416,55 @@ export default function ArticleV4({ article: a }: { article: V4Article }) {
                 Methode. Fehler gefunden? Schreiben Sie an info@localdominate.org.
               </p>
             </div>
-            {a.related.length > 0 && (
+            {(a.related.length > 0 || industries.length > 0) && (
               <div>
-                <h2 className="font-v4-serif text-[length:var(--v4-text-subhead)] font-normal text-v4-ink">Weiterlesen</h2>
-                <ul className="mt-6 flex flex-col">
-                  {a.related.map((r) => (
-                    <li key={r.slug}>
-                      <Link
-                        to={`/blog/${r.slug}`}
-                        className="group flex items-baseline justify-between gap-6 border-t border-v4-ink/10 py-4 font-v4-sans text-base text-v4-ink focus-visible:outline focus-visible:outline-2 focus-visible:outline-v4-ink"
-                      >
-                        <span className="underline-offset-4 group-hover:underline">{r.title}</span>
-                        <span aria-hidden="true" className="text-v4-ink/40 transition-transform group-hover:translate-x-1">
-                          →
-                        </span>
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-                <Link to="/insights" className="mt-6 inline-block font-v4-sans text-sm text-v4-ink/70 underline-offset-4 hover:underline">
-                  Alle Artikel
-                </Link>
+                {a.related.length > 0 && (
+                  <>
+                    <h2 className="font-v4-serif text-[length:var(--v4-text-subhead)] font-normal text-v4-ink">Weiterlesen</h2>
+                    <ul className="mt-6 flex flex-col">
+                      {a.related.map((r) => (
+                        <li key={r.slug}>
+                          <Link
+                            to={`/blog/${r.slug}`}
+                            className="group flex items-baseline justify-between gap-6 border-t border-v4-ink/10 py-4 font-v4-sans text-base text-v4-ink focus-visible:outline focus-visible:outline-2 focus-visible:outline-v4-ink"
+                          >
+                            <span className="underline-offset-4 group-hover:underline">{r.title}</span>
+                            <span aria-hidden="true" className="text-v4-ink/40 transition-transform group-hover:translate-x-1">
+                              →
+                            </span>
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                    <Link to="/insights" className="mt-6 inline-block font-v4-sans text-sm text-v4-ink/70 underline-offset-4 hover:underline">
+                      Alle Artikel
+                    </Link>
+                  </>
+                )}
+                {industries.length > 0 && (
+                  <div className={a.related.length > 0 ? "mt-12" : undefined}>
+                    <h2 id="article-industries" className="font-v4-serif text-[length:var(--v4-text-subhead)] font-normal text-v4-ink">
+                      Für Ihre Branche
+                    </h2>
+                    <ul className="mt-6 flex flex-col" aria-labelledby="article-industries">
+                      {industries.map((ind) => (
+                        <li key={ind.id}>
+                          <Link
+                            to={ind.path}
+                            hrefLang="en"
+                            className="group flex items-baseline justify-between gap-6 border-t border-v4-ink/10 py-4 font-v4-sans text-base text-v4-ink focus-visible:outline focus-visible:outline-2 focus-visible:outline-v4-ink"
+                          >
+                            <span className="underline-offset-4 group-hover:underline">Websites und Google-Profile für {ind.label}</span>
+                            <span aria-hidden="true" className="text-v4-ink/40 transition-transform group-hover:translate-x-1">
+                              →
+                            </span>
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                    <p className="mt-3 font-v4-sans text-xs text-v4-ink/55">Branchenseite auf Englisch.</p>
+                  </div>
+                )}
               </div>
             )}
           </div>

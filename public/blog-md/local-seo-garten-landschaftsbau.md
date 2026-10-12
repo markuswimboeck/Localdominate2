@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-garten-landschaftsbau
 markdown_url: https://localdominate.org/blog-md/local-seo-garten-landschaftsbau.md
 language: de-DE
 published: 2026-08-08
-updated: 2026-10-11
+updated: 2026-10-12
 reading_time_minutes: 13
 category: "Branchen"
 author: LocalDominate Redaktion
@@ -52,7 +52,7 @@ Welche Begriffe in Ihrer Region tatsächlich gesucht werden, finden Sie mit der 
 
 Planen Sie Profil, Website und Inhalte nach dem Gartenjahr: Gestaltungsprojekte werden meist lange vor dem Bau geplant, Pflegearbeiten kurzfristig gesucht. Ein fester rechtlicher Termin ist der Gehölzschnitt, den das Bundesnaturschutzgesetz vom 1. März bis 30. September stark einschränkt.
 
-Nach § 39 Abs. 5 Bundesnaturschutzgesetz ist es in Deutschland verboten, Hecken, lebende Zäune, Gebüsche und andere Gehölze in der Zeit vom 1. März bis zum 30. September abzuschneiden, auf den Stock zu setzen oder zu beseitigen. Für Bäume gilt das Verbot, wenn sie außerhalb des Waldes, von Kurzumtriebsplantagen oder gärtnerisch genutzten Grundflächen stehen. Zulässig bleiben schonende Form- und Pflegeschnitte zur Beseitigung des Zuwachses oder zur Gesunderhaltung von Bäumen. Nennen Sie diese Zeiten auf Ihrer Seite zu Rodung und Rückschnitt, damit Kunden rechtzeitig anfragen.
+Nach § 39 Abs. 5 Bundesnaturschutzgesetz ist es in Deutschland verboten, Hecken, lebende Zäune, Gebüsche und andere Gehölze in der Zeit vom 1. März bis zum 30. September abzuschneiden, auf den Stock zu setzen oder zu beseitigen. Bäume erfasst das Verbot nur, wenn sie weder im Wald noch in Kurzumtriebsplantagen noch auf gärtnerisch genutzten Grundflächen stehen. Zulässig bleiben schonende Form- und Pflegeschnitte zur Beseitigung des Zuwachses oder zur Gesunderhaltung von Bäumen. Nennen Sie diese Zeiten auf Ihrer Seite zu Rodung und Rückschnitt, damit Kunden rechtzeitig anfragen.
 
 *Das Gartenjahr und was Sie online vorbereiten (Einschätzung, je nach Region verschieden)*
 
@@ -85,7 +85,7 @@ Der Profilname ist der echte Firmenname ohne Ort und Leistung. Als Hauptkategori
 - **Weitere Kategorien:** nur für echte eigene Geschäftsbereiche, etwa eine eigenständige Baumpflege mit eigenem Personal. Google rät ausdrücklich davon ab, für jede Leistung eine Kategorie zu wählen.
 - **Leistungen:** Gartenpflege, Heckenschnitt, Baumpflege, Pflaster und Wege, Terrassenbau, Teichbau, Rasen, Bewässerung, Zaunbau und, wenn Sie ihn anbieten, Winterdienst einzeln eintragen. Google erlaubt eigene Leistungen mit Beschreibung. Preise und Telefonnummern gehören nicht in den Namen einer Leistung.
 
-> **Einschätzung:** Google veröffentlicht keine vollständige deutsche Kategorienliste. Welche Bezeichnungen für Gartenbetriebe angeboten werden, sehen Sie nur im Profil selbst. Prüfen Sie zusätzlich, welche Hauptkategorie gut sichtbare Mitbewerber in Ihrer Stadt verwenden. Das zeigt, was es gibt, nicht was Sie wählen müssen.
+> **Einschätzung:** Googles Hilfe zu Kategorien enthält keine Gesamtliste, sondern beschreibt die Auswahl im Profil. Welche Bezeichnungen für Gartenbetriebe angeboten werden, sehen Sie im Profil selbst. Prüfen Sie zusätzlich, welche Hauptkategorie gut sichtbare Mitbewerber in Ihrer Stadt verwenden. Das zeigt, was es gibt, nicht was Sie wählen müssen.
 
 ## Leistungsseiten und Projektseiten statt Städteseiten
 
@@ -187,7 +187,7 @@ Nur wenn Sie wirklich geschlossen haben. Google sieht diesen Status für Saisonb
 
 ### Brauche ich für jede Stadt im Einzugsgebiet eine eigene Seite?
 
-Nein. Fast gleiche Seiten, auf denen nur der Ortsname wechselt, können nach Googles Spamrichtlinien als Brückenseiten gelten. Besser sind eine Seite je Leistung mit einer Liste Ihrer Einsatzorte und Projektseiten zu echten Aufträgen mit Ort im Titel.
+Nein. Fast gleiche Seiten, auf denen nur der Ortsname wechselt, sind nach unserer Einschätzung riskant, denn Googles Spamrichtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Besser sind eine Seite je Leistung mit einer Liste Ihrer Einsatzorte und Projektseiten zu echten Aufträgen mit Ort im Titel.
 
 ### Wann darf ich Hecken und Bäume stark zurückschneiden?
 
@@ -218,4 +218,4 @@ In Deutschland verbietet § 39 Abs. 5 Bundesnaturschutzgesetz, Hecken und andere
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org

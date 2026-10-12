@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-optiker
 markdown_url: https://localdominate.org/blog-md/local-seo-optiker.md
 language: de-DE
 published: 2026-02-14
-updated: 2026-10-11
+updated: 2026-10-12
 reading_time_minutes: 13
 category: "Branchen"
 author: LocalDominate Redaktion
@@ -27,7 +27,7 @@ Local SEO für Optiker und Hörakustiker heißt: ein Google-Unternehmensprofil j
 
 - Ein Profil je Geschäft. Brillen- oder Hörgerätemarken, die Sie verkaufen, bekommen laut Google an Ihrem Standort kein eigenes Profil.
 - Sehtest, Kontaktlinsenanpassung, Hörtest und Anpassung gehören in die Leistungen des Profils und auf eigene Seiten, nicht in den Namen.
-- Betriebe von Augenoptikern gelten nach § 67 FeV als amtlich anerkannte Sehteststellen. Die Bescheinigung darf bei Antragstellung nicht älter als zwei Jahre sein.
+- Betriebe von Augenoptikern gelten nach § 67 FeV als amtlich anerkannte Sehteststellen, wenn sie die Voraussetzungen der Verordnung erfüllen. Die Bescheinigung darf bei Antragstellung nicht älter als zwei Jahre sein.
 - Brillen und Hörgeräte sind Medizinprodukte. Gerichte und die Wettbewerbszentrale haben Gratisbrillen, Payback-Punkte über einem Euro und Gewinnspiele zum Hörtest beanstandet.
 - Google verbietet Anreize für Rezensionen, das gezielte Bitten um positive Rezensionen und Druck auf Kunden, die noch im Geschäft sind.
 
@@ -62,7 +62,7 @@ Jedes Geschäft bekommt genau ein Profil mit dem Namen, der auf dem Ladenschild 
 
 Google erlaubt unter Umständen eigene Profile für Abteilungen innerhalb von Unternehmen. Voraussetzung ist unter anderem, dass sich die passendste Kategorie der Abteilung von den Kategorien des Hauptunternehmens unterscheidet. Nicht zulässig ist laut Google etwa ein eigenes Profil für die Fleischtheke im Supermarkt. In der Hilfe zu Kategorien nennt Google außerdem diese Beispiele: Ein separat betriebenes Café im Fitnessstudio bekommt ein eigenes Profil, eine Bäckerei im Lebensmittelgeschäft wird als weitere Kategorie geführt.
 
-> **Einschätzung:** Eine eigene Hörakustik-Abteilung mit eigenem Personal, eigenem Eingang oder eigener Anmeldung und eigener Kategorie kann nach diesen Regeln ein eigenes Profil haben. Ist die Hörakustik nur ein Tisch im Optikgeschäft, ist eine weitere Kategorie im gemeinsamen Profil der sicherere Weg. Wie Sie die Kategorieliste durchsuchen und Mitbewerber vergleichen, zeigt der [Leitfaden zu Google-Kategorien](https://localdominate.org/blog/google-business-kategorien-guide#richtige-kategorie-finden).
+> **Einschätzung:** Eine eigene Hörakustik-Abteilung mit eigenem Kundeneingang, eigener Kategorie und eigenem Namen kann nach diesen Regeln für ein eigenes Profil in Frage kommen. Ist die Hörakustik nur ein Tisch im Optikgeschäft, ist eine weitere Kategorie im gemeinsamen Profil der sicherere Weg. Wie Sie die Kategorieliste durchsuchen und Mitbewerber vergleichen, zeigt der [Leitfaden zu Google-Kategorien](https://localdominate.org/blog/google-business-kategorien-guide#richtige-kategorie-finden).
 
 ## Leistungen, Produkte und Terminlinks im Profil
 
@@ -80,16 +80,16 @@ Laut Google können Unternehmen bestimmter Kategorien ihre Dienstleistungen im P
 | Hörtest | Ja, ohne Gewinnspiel oder Beigabe | Ablauf, Dauer, wann ein HNO-Arzt der richtige Weg ist |
 | Hörgeräteanpassung und Service | Ja | Probetragen, Nachstellen, Batterien, Reparatur |
 
-1. **Terminlink eintragen.** Unter „Buchen“ im Profil fügen Sie einen Link zu Ihrer Terminvergabe hinzu. Google erlaubt bis zu zehn Links je Kategorie und lässt Sie einen als bevorzugten Link markieren.
+1. **Terminlink eintragen.** Über die Buchungsoption im Profil fügen Sie einen Link zu Ihrer Terminvergabe hinzu. Google erlaubt bis zu zehn Links je Kategorie und lässt Sie einen als bevorzugten Link markieren.
 2. **Fremde Links prüfen.** Manche Links erscheinen automatisch über Partner. Einen unerwünschten Anbieter können Sie entfernen; der Anbieter muss den Link laut Google innerhalb von fünf Tagen entfernen.
-3. **Produkte zeigen.** Der Produkteditor ist laut Google für lokale Geschäfte gedacht, die Waren auch ohne Strichcode verkaufen. Die Produkte müssen den Richtlinien für Shopping-Anzeigen entsprechen, sonst können alle hochgeladenen Produkte entfernt werden.
-4. **Barrierefreiheit eintragen.** Ein Eingang gilt laut Google als rollstuhlgerecht, wenn er mindestens einen Meter breit ist und keine Stufen hat. Messen Sie nach, bevor Sie das Merkmal setzen. Mehr in [Attribute im Unternehmensprofil](https://localdominate.org/blog/gbp-attribute-richtig-nutzen#barrierefreiheit).
+3. **Produkte zeigen.** Der Produkteditor ist laut Google für lokale Geschäfte mit physischen Waren gedacht, die mindestens eine Bedingung erfüllen: kein Onlineshop, Produkte ohne Strichcode oder keine aktuellen Bestandsdaten. Die Produkte müssen den Richtlinien für Shopping-Anzeigen entsprechen, sonst können alle hochgeladenen Produkte entfernt werden.
+4. **Barrierefreiheit eintragen.** Ein Eingang gilt laut Google als rollstuhlgerecht, wenn er einen Meter (drei Fuß) breit ist und keine Stufen oder Treppen hat. Messen Sie nach, bevor Sie das Merkmal setzen. Mehr in [Attribute im Unternehmensprofil](https://localdominate.org/blog/gbp-attribute-richtig-nutzen#barrierefreiheit).
 
 > **Einschätzung:** Wie stark Leistungen und Produkte in das Ranking eingehen, dokumentiert Google nicht. Wir tragen sie trotzdem vollständig ein, weil Kunden im Profil sehen wollen, ob Sie Kontaktlinsen anpassen oder Hörgeräte einstellen.
 
 ## Der Sehtest für den Führerschein
 
-Wer in Deutschland unter anderem die Klassen AM, A, B, BE, L oder T beantragt, braucht einen Sehtest bei einer amtlich anerkannten Sehteststelle. Betriebe von Augenoptikern gelten nach § 67 FeV als amtlich anerkannt. Die Bescheinigung darf bei Antragstellung nicht älter als zwei Jahre sein.
+Wer in Deutschland unter anderem die Klassen AM, A, B, BE, L oder T beantragt, braucht einen Sehtest bei einer amtlich anerkannten Sehteststelle. Betriebe von Augenoptikern gelten nach § 67 FeV als amtlich anerkannt, wenn sie die Voraussetzungen der Verordnung erfüllen. Die Bescheinigung darf bei Antragstellung nicht älter als zwei Jahre sein.
 
 Nach § 12 Abs. 2 FeV müssen Bewerber um die Klassen AM, A1, A2, A, B, BE, L oder T einen Sehtest machen, der der Norm DIN 58220 Teil 6 entspricht. Die Sehteststelle stellt eine Sehtestbescheinigung aus. Nach § 12 Abs. 7 FeV darf sie bei Antragstellung nicht älter als zwei Jahre sein.
 
@@ -110,7 +110,7 @@ Kunden suchen nach Leistungen und Fragen, nicht nach Firmennamen: Gleitsichtbril
 
 Beim Kassenzuschuss lohnt sich Genauigkeit. Laut Techniker Krankenkasse gilt für Brillengläser: Kinder und Jugendliche unter 18 Jahren haben Anspruch, Erwachsene unter anderem bei einem Fernausgleich von mehr als sechs Dioptrien wegen Kurz- oder Weitsichtigkeit oder mehr als vier Dioptrien wegen einer Hornhautverkrümmung. Abgerechnet wird mit augenärztlicher Verordnung bis zur Höhe der Festbeträge. Für Einzelheiten verweisen Sie auf die Kasse des Kunden.
 
-> **Keine Stadtseiten auf Vorrat:** Google nennt in seinen Spamrichtlinien Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer alle zur selben Seite leiten, als Beispiel für Brückenseiten. „Optiker Ort A“ und „Optiker Ort B“ mit fast gleichem Text für ein einziges Geschäft fallen darunter. Eine Seite je echtem Standort und eine je Leistung reichen. Strukturierte Daten dazu erklärt [LocalBusiness Schema implementieren](https://localdominate.org/blog/localbusiness-schema-implementierung).
+> **Keine Stadtseiten auf Vorrat:** Google nennt in seinen Spamrichtlinien Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer alle zur selben Seite leiten, als Beispiel für Brückenseiten. „Optiker Ort A“ und „Optiker Ort B“ mit fast gleichem Text für ein einziges Geschäft können darunter fallen. Eine Seite je echtem Standort und eine je Leistung reichen. Strukturierte Daten dazu erklärt [LocalBusiness Schema implementieren](https://localdominate.org/blog/localbusiness-schema-implementierung).
 
 ## Werberecht: Heilmittelwerbegesetz und Handwerksordnung
 
@@ -124,13 +124,13 @@ Das Heilmittelwerbegesetz gilt für die Werbung für Medizinprodukte, also auch 
 
 | Fall | Ergebnis |
 | --- | --- |
-| Gratisbrille für „Corona-Helden“ einer Optikerkette, OLG Stuttgart, 6. August 2020, Az. 2 W 23/20 (berichtet von WBS.LEGAL) | Untersagt. Die kostenlose Brille ist eine unzulässige Werbegabe für ein Medizinprodukt |
+| Gratisbrille für „Corona-Helden“ einer Optikerkette, OLG Stuttgart, 6. August 2020, Az. 2 W 23/20 (berichtet von WBS.LEGAL) | Im Eilverfahren untersagt. Die kostenlose Brille ist eine unzulässige Werbegabe für ein Medizinprodukt |
 | Payback-Punkte beim Kauf von Hörgeräten, BGH, 17. Juli 2025, Az. I ZR 43/24 (berichtet von der Wettbewerbszentrale) | Punkte im Wert von mehr als einem Euro je Kauf eines Hörgeräts sind unzulässig |
 | Flyer „Hörgeräte testen und Preise gewinnen“, unter anderem eine Brille im Wert von 1.200 Euro (Wettbewerbszentrale, Hörakustik 11/2025) | Beanstandet; das Unternehmen verpflichtete sich, solche Gewinnspiele zu unterlassen |
 
-**Qualitätsaussagen.** Der Bundesgerichtshof hielt die Werbung eines Onlinehändlers mit „Premium-Gleitsichtgläsern in Optiker-Qualität“ für irreführend, soweit Träger dieser Brillen vor Gefahren im Straßenverkehr gewarnt werden müssen (Urteil vom 3. November 2016, Az. I ZR 227/14). Das bloße Wort „hochwertig“ war nicht irreführend.
+**Qualitätsaussagen.** Der Bundesgerichtshof hielt die Werbung eines Onlinehändlers mit „Premium-Gleitsichtgläsern in Optiker-Qualität“ für irreführend nach § 3 HWG, weil Kunden mit „Optiker-Qualität“ die Leistungen eines Optikers verbinden, etwa das Ausmessen von Hornhautscheitelabstand und Einschleifhöhe, der Händler die Brillen aber nur nach den Daten eines Brillenpasses fertigte (Urteil vom 3. November 2016, Az. I ZR 227/14). Das bloße Wort „hochwertig“ war nicht irreführend.
 
-**Handwerksordnung.** Augenoptiker und Hörakustiker sind zulassungspflichtige Handwerke nach Anlage A der Handwerksordnung. Die Wettbewerbszentrale ist laut ihrem Jahresbericht 2017 gegen die Werbung eines Filialisten mit „zertifizierten Augenoptikern“ vorgegangen, ohne dass eine Eintragung in die Handwerksrolle nachgewiesen war. Schreiben Sie „Meisterbetrieb“ nur, wenn es für genau diesen Standort stimmt. Wie Sie Nachweise sichtbar machen, steht in [Local SEO für Handwerker](https://localdominate.org/blog/local-seo-handwerker#nachweise).
+**Handwerksordnung.** Augenoptiker und Hörakustiker sind zulassungspflichtige Handwerke nach Anlage A der Handwerksordnung. Schreiben Sie „Meisterbetrieb“ nur, wenn es für genau diesen Standort stimmt. Wie Sie Nachweise sichtbar machen, steht in [Local SEO für Handwerker](https://localdominate.org/blog/local-seo-handwerker#nachweise).
 
 > **Keine Rechtsberatung:** Ob ein kostenloser Sehtest, ein Rabatt oder eine Zugabe zulässig ist, hängt vom Einzelfall ab. Lassen Sie Aktionen, Gewinnspiele, Bonusprogramme und Aussagen zur Wirkung von Hörgeräten vorher von Ihrer Innung, der Wettbewerbszentrale oder einer Fachanwältin prüfen.
 
@@ -148,11 +148,11 @@ Sie dürfen alle Kunden um eine Bewertung bitten, ohne Gegenleistung und ohne Vo
 | Das Team bitten, auf den Link hinzuweisen | Mitarbeitenden eine Zahl an Bewertungen vorgeben |
 | Um ehrliches Feedback bitten | Darum bitten, bestimmte Mitarbeitende zu nennen |
 
-Google untersagt in Rezensionen medizinische und andere personenbezogene Daten und wertet Bewertungen von Mitarbeitenden oder Angehörigen als Interessenkonflikt. Laut Google können mehr Rezensionen und positive Bewertungen das lokale Ranking verbessern, und hilfreiche Antworten helfen, sich von Mitbewerbern abzuheben. Den Ablauf zum Sammeln beschreibt [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen), den Umgang mit Kritik [Negative Google-Bewertungen](https://localdominate.org/blog/negative-google-bewertungen).
+Google untersagt in Rezensionen medizinische und andere personenbezogene Daten und wertet Bewertungen von Mitarbeitenden oder Angehörigen als Interessenkonflikt. Laut Google können mehr Rezensionen und positive Bewertungen das lokale Ranking verbessern, und positive Rezensionen und hilfreiche Antworten können dazu beitragen, dass Ihr Unternehmen auffällt. Den Ablauf zum Sammeln beschreibt [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen), den Umgang mit Kritik [Negative Google-Bewertungen](https://localdominate.org/blog/negative-google-bewertungen).
 
 ### Kundenstimmen auf der Website
 
-Ein Händler haftet laut Bundesgerichtshof nicht für irreführende Kundenbewertungen zu einem Medizinprodukt auf Amazon, solange er sie weder veranlasst noch sich zu eigen macht (Urteil vom 20. Februar 2020, Az. I ZR 193/18). Wer Bewertungen selbst schreibt, bezahlt oder als eigene Werbung einsetzt, haftet dagegen.
+Ein Händler haftet laut Bundesgerichtshof nicht für irreführende Kundenbewertungen zu Kinesiologie-Tapes auf Amazon, solange er sie weder veranlasst noch sich zu eigen macht (Urteil vom 20. Februar 2020, Az. I ZR 193/18). Der Maßstab gilt laut BGH auch im Heilmittelwerberecht. Wer Bewertungen selbst schreibt, bezahlt oder als eigene Werbung einsetzt, haftet dagegen.
 
 > **Einschätzung:** Zitieren Sie Kundenstimmen auf Ihrer Website, werden sie zu Ihrer eigenen Werbung. Wählen Sie dann Aussagen zu Beratung, Wartezeit und Service, nicht zu Heilwirkung oder Hörerfolg, und lassen Sie die Auswahl im Zweifel prüfen.
 
@@ -160,7 +160,7 @@ Ein Händler haftet laut Bundesgerichtshof nicht für irreführende Kundenbewert
 
 Filialisten verwenden laut Google innerhalb eines Landes für alle Standorte denselben Namen und pflegen je Filiale ein eigenes Profil mit eigenen Zeiten, Leistungen und Terminlinks. Inhabergeführte Geschäfte heben sich mit nachprüfbaren Angaben ab: Meisterbetrieb, Leistungen, Öffnungszeiten, Sprachen, Barrierefreiheit und echte Bewertungen.
 
-Für Ketten gilt die Regel zur Namensgleichheit; Ausnahmen sieht Google für Untermarken und ortsübliche Namen vor. Je Standort darf laut Google nicht mehr als ein Profil bestehen, jede Filiale pflegt also genau eines. Wie Sie viele Standorte verwalten, steht in [Mehrere Standorte bei Google verwalten](https://localdominate.org/blog/gbp-mehrere-standorte).
+Für Ketten gilt die Regel zur Namensgleichheit; Ausnahmen sieht Google für Untermarken, Abteilungen, verschiedene Betriebsarten und einheitlich abweichende Namen an einzelnen Standorten vor. Je Standort darf laut Google nicht mehr als ein Profil bestehen, jede Filiale pflegt also genau eines. Wie Sie viele Standorte verwalten, steht in [Mehrere Standorte bei Google verwalten](https://localdominate.org/blog/gbp-mehrere-standorte).
 
 > **Einschätzung:** Ein Einzelgeschäft kann an der Entfernung nichts ändern. Spielraum hat es bei der Relevanz: vollständige Leistungen, klare Seiten und Antworten auf die Fragen Ihrer Kunden. Ketten prüfen je Filiale, ob zentral vorgegebene Leistungen dort wirklich angeboten werden.
 
@@ -189,11 +189,11 @@ Nicht unbedingt. Google erlaubt eigene Profile für Abteilungen nur, wenn sich u
 
 ### Darf ich einen kostenlosen Hörtest mit einem Gewinnspiel bewerben?
 
-Davon raten wir ab. Die Wettbewerbszentrale hat 2025 ein Gewinnspiel mit Preisen im Wert von 1.400 Euro zur Werbung für einen Hörtest als Verstoß gegen das Zuwendungsverbot des Heilmittelwerbegesetzes beanstandet. Lassen Sie jede Aktion vorher prüfen. Das ist keine Rechtsberatung.
+Davon raten wir ab. Laut Wettbewerbszentrale (Hörakustik 11/2025) hat sie ein Gewinnspiel mit Preisen im Wert von 1.400 Euro zur Werbung für einen kostenlosen Hörtest als Verstoß gegen das Zuwendungsverbot in § 7 HWG beanstandet. Lassen Sie jede Aktion vorher prüfen. Das ist keine Rechtsberatung.
 
 ### Darf ich Marken wie die meiner Fassungen in den Namen bei Google schreiben?
 
-Nein. Google verbietet unnötige Zusätze im Namen, und für verkaufte Marken darf an Ihrem Standort kein eigenes Profil entstehen. Marken nennen Sie in Produkten und auf der Website.
+In der Regel nicht. Google verbietet unnötige Zusätze im Namen, und bei verkauften Marken verwenden Sie nur den Namen Ihres Unternehmens. Für diese Marken darf an Ihrem Standort kein eigenes Profil entstehen. Eine Ausnahme nennt Google für autorisierte, exklusive Anbieter einer Marke, etwa Franchisenehmer. Marken nennen Sie sonst in Produkten und auf der Website.
 
 ### Darf jeder Optiker den Sehtest für den Führerschein machen?
 
@@ -212,15 +212,14 @@ Nach § 67 FeV gelten Betriebe von Augenoptikern als amtlich anerkannte Sehtests
 - [Spamrichtlinien für die Google Websuche (Brückenseiten)](https://developers.google.com/search/docs/essentials/spam-policies?hl=de), Google Search Central
 - [Heilmittelwerbegesetz, § 1 Anwendungsbereich](https://lxgesetze.de/hwg/1), lxgesetze.de
 - [Heilmittelwerbegesetz, § 3 Irreführende Werbung](https://lxgesetze.de/hwg/3), lxgesetze.de
-- [Heilmittelwerbegesetz, § 11](https://lexmea.de/de/gesetz/hwg/11), lexmea.de
-- [§ 11 Abs. 1 S. 2 HWG: Medizinprodukte](https://www.omsels.info/die-verbote-oder-was-darf-ich-nicht/2-heilmittelwerbegesetz/11-hwg-werbung-ausserhalb-der-fachkreise/%c2%a7-11-abs-1-s-2-hwg-medizinprodukte), omsels.info
+- [Heilmittelwerbegesetz, § 7 Zuwendungen und sonstige Werbegaben](https://lxgesetze.de/hwg/7), lxgesetze.de
+- [Heilmittelwerbegesetz, § 11 Werbung außerhalb der Fachkreise (Abs. 1 Satz 2: Medizinprodukte)](https://lxgesetze.de/hwg/11), lxgesetze.de
 - [Fahrerlaubnis-Verordnung, § 12 Sehvermögen](https://lxgesetze.de/fev/12), lxgesetze.de
 - [Fahrerlaubnis-Verordnung, § 67 Sehteststelle](https://lxgesetze.de/fev/67), lxgesetze.de
 - [Pro Optik: keine Brille zum Nulltarif für Corona-Helden (OLG Stuttgart, 2 W 23/20, Entscheidung vom 6. August 2020)](https://www.wbs.legal/wettbewerbsrecht/pro-optik-unlauterer-wettbewerb-keine-brille-zum-nulltarif-fuer-corona-helden-51079/), WBS.LEGAL
 - [Payback-Punkte für Hörgeräte (BGH, I ZR 43/24), Hörakustik 9/2025](https://www.wettbewerbszentrale.de/wp-content/uploads/2025/09/HAK09-2025-Wettbewerbsrecht.pdf), Wettbewerbszentrale
 - [Gewinnspiel zum Hörtest als unzulässige Zuwendung, Hörakustik 11/2025](https://www.wettbewerbszentrale.de/wp-content/uploads/2025/11/HAK11-2025-Wettbewerbsrecht.pdf), Wettbewerbszentrale
-- [Jahresbericht 2017: Gesundheitshandwerke und Medizinprodukte](https://wettbewerbszentrale.de/?p=9309), Wettbewerbszentrale
-- [BGH, Urteil vom 3. November 2016, I ZR 227/14 (Optiker-Qualität)](https://www.anwalt24.de/urteile/bgh/2016-11-03/i-zr-227_14), anwalt24.de
+- [BGH, Urteil vom 3. November 2016, I ZR 227/14 (Optiker-Qualität, § 3 HWG)](https://www.anwalt24.de/urteile/bgh/2016-11-03/i-zr-227_14), anwalt24.de
 - [BGH, Urteil vom 20. Februar 2020, I ZR 193/18 (Kundenbewertungen auf Amazon)](https://betriebs-berater.ruw.de/wirtschaftsrecht/urteile/Kundenbewertungen-auf-Amazon-40523), Betriebs-Berater
 - [Antrag auf Ausübungsberechtigung, Liste der Handwerke nach Anlage A (2026)](https://www.hwk-konstanz.de/wp-content/uploads/hwk-kn-antrag-ausuebungsberechtigung-7a_2026.pdf), Handwerkskammer Konstanz
 - [MPG-FAQ für Augenoptiker und Kontaktlinsenoptiker (12. März 2023)](https://www.wko.at/gewerbe-handwerk/gesundheitsberufe/mpg-faq-augenoptiker-kontaktlinsenoptiker), Wirtschaftskammer Österreich
@@ -228,4 +227,4 @@ Nach § 67 FeV gelten Betriebe von Augenoptikern als amtlich anerkannte Sehtests
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org

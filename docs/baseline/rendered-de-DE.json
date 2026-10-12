@@ -143,7 +143,7 @@
    "/"
   ],
   "images": [],
-  "words": 47,
+  "words": 16,
   "htmlLang": "de"
  },
  {
@@ -288,7 +288,7 @@
    "/admin/ab-test-zentrale"
   ],
   "images": [],
-  "words": 51,
+  "words": 40,
   "htmlLang": "de"
  },
  {
@@ -997,7 +997,6 @@
    "/blog/local-seo-audit-checkliste",
    "/blog/local-seo-autowerkstatt",
    "/blog/local-seo-baeckerei",
-   "/blog/local-seo-baeckerei-konditorei",
    "/blog/local-seo-basel",
    "/blog/local-seo-berlin",
    "/blog/local-seo-branchen-hub",
@@ -1091,7 +1090,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 5457,
+  "words": 5469,
   "htmlLang": "de"
  },
  {
@@ -2743,7 +2742,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 702,
+  "words": 729,
   "htmlLang": "de"
  },
  {
@@ -3000,7 +2999,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 913,
+  "words": 921,
   "htmlLang": "de"
  },
  {
@@ -5706,34 +5705,27 @@
  {
   "path": "/blog/google-maps-seo-vs-organic-seo",
   "finalPath": "/blog/google-maps-seo-vs-organic-seo",
-  "title": "Google Maps SEO vs Organic SEO | Vergleich 2026",
-  "description": "Google Maps SEO vs. Organic SEO: Ranking-Faktoren, Kosten, ROI und die optimale Kombination für lokale Unternehmen. Mit Vergleichstabelle.",
+  "title": "Google Maps SEO vs. organisches SEO: Was Google bewertet",
+  "description": "Wie Google lokale Treffer in Maps und normale Suchergebnisse sortiert, welche Signale beide teilen, welche nicht und was daraus für Profil und Website folgt.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/google-maps-seo-vs-organic-seo",
   "hreflang": [],
-  "ogTitle": "Google Maps SEO vs Organic SEO | Vergleich 2026",
+  "ogTitle": "Google Maps SEO vs. organisches SEO: Was Google bewertet",
   "ogImage": "https://localdominate.org/images/og/blog/google-maps-seo-vs-organic-seo.jpg",
   "ogType": "article",
   "articlePublished": "2026-03-08",
-  "articleModified": "2026-03-08",
+  "articleModified": "2026-10-12",
   "h1": [
-   "Google Maps SEO vs. Organic SEO: Ranking-Faktoren, Strategien & ROI im Vergleich"
+   "Google Maps SEO und organisches SEO: Was Google zu den beiden Rankings sagt"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
@@ -5743,47 +5735,66 @@
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SoftwareApplication",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-03-08",
-  "ldDateModified": "2026-03-08",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
-   "/blog/google-maps-audit-template",
+   "/blog/ai-search-vs-traditional-search",
+   "/blog/apple-business-connect-local-seo-2026",
+   "/blog/bing-copilot-local-seo-2026",
+   "/blog/gbp-mehrere-standorte",
+   "/blog/google-ai-overviews-local-seo",
+   "/blog/google-bewertungen-bekommen",
+   "/blog/google-business-kategorien-guide",
    "/blog/google-maps-ranking-verbessern",
    "/blog/google-maps-seo-ranking-faktoren",
-   "/blog/kostenloses-seo-guide",
-   "/blog/local-seo-audit-checkliste",
-   "/blog/local-seo-fehler",
+   "/blog/google-my-business-optimieren",
+   "/blog/local-link-building",
    "/blog/local-seo-keywords-finden",
-   "/blog/local-seo-strategie-kleine-unternehmen",
-   "/blog/local-seo-vs-maps-seo",
    "/blog/local-seo-vs-organisch",
+   "/blog/mobile-local-seo",
+   "/blog/schema-markup-local-seo",
    "/blog/ultimate-guide-local-seo",
+   "/blog/website-content-ai-suchmaschinen",
+   "/creators",
    "/datenschutz",
+   "/de",
+   "/de/ki",
    "/impressum",
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
    "/industries/practices",
    "/industries/restaurants",
    "/industries/trades",
-   "/seo-lexikon"
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 1509,
+  "images": [],
+  "words": 2773,
   "htmlLang": "de"
  },
  {
@@ -6824,7 +6835,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3012,
+  "words": 3027,
   "htmlLang": "de"
  },
  {
@@ -6919,7 +6930,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3100,
+  "words": 3115,
   "htmlLang": "de"
  },
  {
@@ -6976,7 +6987,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-apotheken.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-14",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "Local SEO für Apotheken: Profil, Notdienst, E-Rezept und Werberecht"
   ],
@@ -7004,7 +7015,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-14",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -7050,7 +7061,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3149,
+  "words": 3272,
   "htmlLang": "de"
  },
  {
@@ -7233,7 +7244,7 @@
    "/work"
   ],
   "images": [],
-  "words": 1918,
+  "words": 1930,
   "htmlLang": "de"
  },
  {
@@ -7324,88 +7335,6 @@
    "/logo.png"
   ],
   "words": 2061,
-  "htmlLang": "de"
- },
- {
-  "path": "/blog/local-seo-baeckerei-konditorei",
-  "finalPath": "/blog/local-seo-baeckerei-konditorei",
-  "title": "Local SEO Konditoreien | Torten-Marketing 2026",
-  "description": "Wie Konditoreien und Tortenbetriebe durch Local SEO mehr Bestellungen erhalten. Hochzeits-Keywords, Spezialitäten-Content und saisonale Kampagnen.",
-  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-  "canonical": "https://localdominate.org/blog/local-seo-baeckerei-konditorei",
-  "hreflang": [],
-  "ogTitle": "Local SEO Konditoreien | Torten-Marketing 2026",
-  "ogImage": "https://localdominate.org/images/og/blog/local-seo-baeckerei-konditorei.jpg",
-  "ogType": "article",
-  "articlePublished": "2026-03-22",
-  "articleModified": "2026-03-22",
-  "h1": [
-   "Local SEO für Konditoreien & Tortenbetriebe: Spezialitäten vermarkten"
-  ],
-  "jsonLdBlocks": 8,
-  "jsonLdInvalid": 0,
-  "schemaTypes": [
-   "Answer",
-   "Article",
-   "Audience",
-   "BreadcrumbList",
-   "BusinessAudience",
-   "ContactPoint",
-   "Country",
-   "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
-   "EntryPoint",
-   "FAQPage",
-   "ImageObject",
-   "ListItem",
-   "Organization",
-   "Person",
-   "PostalAddress",
-   "Question",
-   "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
-   "WebPage",
-   "WebPageElement",
-   "WebSite"
-  ],
-  "ldAuthors": [
-   "LocalDominate Redaktion"
-  ],
-  "ldDatePublished": "2026-03-22",
-  "ldDateModified": "2026-03-22",
-  "internalLinks": [
-   "/",
-   "/about",
-   "/agb",
-   "/blog",
-   "/blog/gbp-fotos-optimieren",
-   "/blog/google-maps-audit-template",
-   "/blog/local-seo-aerzte-praxen",
-   "/blog/local-seo-anwaelte-kanzleien",
-   "/blog/local-seo-baeckerei",
-   "/blog/local-seo-cafe-coffeeshop",
-   "/blog/local-seo-fitness",
-   "/blog/local-seo-handwerker",
-   "/blog/local-seo-hochzeitsdienstleister",
-   "/blog/local-seo-hotels",
-   "/blog/local-seo-immobilienmakler",
-   "/datenschutz",
-   "/impressum",
-   "/industries/practices",
-   "/industries/restaurants",
-   "/industries/trades",
-   "/seo-lexikon"
-  ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 815,
   "htmlLang": "de"
  },
  {
@@ -7581,7 +7510,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2558,
+  "words": 2658,
   "htmlLang": "de"
  },
  {
@@ -7636,7 +7565,6 @@
    "/blog/local-seo-audit-checkliste",
    "/blog/local-seo-autowerkstatt",
    "/blog/local-seo-baeckerei",
-   "/blog/local-seo-baeckerei-konditorei",
    "/blog/local-seo-branchen-hub",
    "/blog/local-seo-cafe-coffeeshop",
    "/blog/local-seo-doener-kebab-imbiss",
@@ -7681,7 +7609,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 1322,
+  "words": 1297,
   "htmlLang": "de"
  },
  {
@@ -7848,7 +7776,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2048,
+  "words": 2063,
   "htmlLang": "de"
  },
  {
@@ -8036,7 +7964,7 @@
    "/work"
   ],
   "images": [],
-  "words": 1766,
+  "words": 1781,
   "htmlLang": "de"
  },
  {
@@ -8137,7 +8065,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-elektrotechnik.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-18",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "Local SEO für Elektriker: So finden Kunden Ihren Elektrobetrieb in der Region"
   ],
@@ -8165,7 +8093,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-18",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -8189,7 +8117,6 @@
    "/blog/local-seo-heizung-sanitaer",
    "/blog/local-seo-keywords-finden",
    "/blog/local-seo-notdienst-keywords",
-   "/blog/local-seo-sanitaer-heizung",
    "/blog/nap-konsistenz-local-seo",
    "/creators",
    "/datenschutz",
@@ -8210,7 +8137,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3101,
+  "words": 3210,
   "htmlLang": "de"
  },
  {
@@ -8636,7 +8563,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2553,
+  "words": 2699,
   "htmlLang": "de"
  },
  {
@@ -8813,7 +8740,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2962,
+  "words": 2977,
   "htmlLang": "de"
  },
  {
@@ -8828,7 +8755,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-garten-landschaftsbau.jpg",
   "ogType": "article",
   "articlePublished": "2026-08-08",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden, Verwaltungen und Gemeinden Ihren Betrieb"
   ],
@@ -8856,7 +8783,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-08-08",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -8901,7 +8828,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3035,
+  "words": 3063,
   "htmlLang": "de"
  },
  {
@@ -9072,7 +8999,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2431,
+  "words": 2572,
   "htmlLang": "de"
  },
  {
@@ -9163,7 +9090,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2640,
+  "words": 2652,
   "htmlLang": "de"
  },
  {
@@ -9391,7 +9318,7 @@
    "/blog/local-content-marketing",
    "/blog/local-seo-aerzte-praxen",
    "/blog/local-seo-anwaelte-kanzleien",
-   "/blog/local-seo-baeckerei-konditorei",
+   "/blog/local-seo-baeckerei",
    "/blog/local-seo-fitness",
    "/blog/local-seo-fotograf",
    "/blog/local-seo-handwerker",
@@ -9407,7 +9334,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 792,
+  "words": 794,
   "htmlLang": "de"
  },
  {
@@ -9506,7 +9433,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3108,
+  "words": 3130,
   "htmlLang": "de"
  },
  {
@@ -9820,7 +9747,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-maler-lackierer.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-22",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "Local SEO für Maler und Lackierer: Einzugsgebiet, Projektgalerie, Preise und Bewertungen"
   ],
@@ -9848,7 +9775,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-22",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -9893,7 +9820,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2850,
+  "words": 2865,
   "htmlLang": "de"
  },
  {
@@ -10224,7 +10151,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-notdienst-keywords.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-03",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "Notdienst-Keywords: So finden Kunden Ihren Betrieb, wenn es dringend ist"
   ],
@@ -10252,7 +10179,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-03",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -10297,7 +10224,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3122,
+  "words": 3170,
   "htmlLang": "de"
  },
  {
@@ -10312,7 +10239,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-optiker.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-14",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "Local SEO für Optiker und Hörakustiker: Profil, Sehtest, Hörtest und Werberecht"
   ],
@@ -10340,7 +10267,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-14",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -10386,7 +10313,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3184,
+  "words": 3267,
   "htmlLang": "de"
  },
  {
@@ -10802,88 +10729,6 @@
   ],
   "images": [],
   "words": 2227,
-  "htmlLang": "de"
- },
- {
-  "path": "/blog/local-seo-sanitaer-heizung",
-  "finalPath": "/blog/local-seo-sanitaer-heizung",
-  "title": "Local SEO SHK | Sanitär Heizung Klima 2026 | LocalDominate",
-  "description": "Local SEO speziell für SHK-Betriebe. Von Notdienst-SEO über Markenpartnerschaften bis zur saisonalen Optimierung.",
-  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-  "canonical": "https://localdominate.org/blog/local-seo-sanitaer-heizung",
-  "hreflang": [],
-  "ogTitle": "Local SEO SHK | Sanitär Heizung Klima 2026 | LocalDominate",
-  "ogImage": "https://localdominate.org/images/og/blog/local-seo-sanitaer-heizung.jpg",
-  "ogType": "article",
-  "articlePublished": "2026-02-26",
-  "articleModified": "2026-02-26",
-  "h1": [
-   "Local SEO für SHK-Betriebe: Sanitär, Heizung, Klima"
-  ],
-  "jsonLdBlocks": 8,
-  "jsonLdInvalid": 0,
-  "schemaTypes": [
-   "Answer",
-   "Article",
-   "Audience",
-   "BreadcrumbList",
-   "BusinessAudience",
-   "ContactPoint",
-   "Country",
-   "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
-   "EntryPoint",
-   "FAQPage",
-   "ImageObject",
-   "ListItem",
-   "Organization",
-   "Person",
-   "PostalAddress",
-   "Question",
-   "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
-   "WebPage",
-   "WebPageElement",
-   "WebSite"
-  ],
-  "ldAuthors": [
-   "LocalDominate Redaktion"
-  ],
-  "ldDatePublished": "2026-02-26",
-  "ldDateModified": "2026-02-26",
-  "internalLinks": [
-   "/",
-   "/about",
-   "/agb",
-   "/blog",
-   "/blog/google-bewertungen-bekommen",
-   "/blog/google-maps-audit-template",
-   "/blog/google-maps-ranking-verbessern",
-   "/blog/google-my-business-optimieren",
-   "/blog/kostenloses-seo-guide",
-   "/blog/local-keyword-research-template",
-   "/blog/local-seo-fuer-restaurants",
-   "/blog/local-seo-keywords-finden",
-   "/blog/local-seo-monthly-checklist",
-   "/blog/nap-konsistenz-local-seo",
-   "/blog/ultimate-guide-local-seo",
-   "/datenschutz",
-   "/impressum",
-   "/industries/practices",
-   "/industries/restaurants",
-   "/industries/trades",
-   "/seo-lexikon"
-  ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 1788,
   "htmlLang": "de"
  },
  {
@@ -11312,7 +11157,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3152,
+  "words": 3167,
   "htmlLang": "de"
  },
  {
@@ -11812,7 +11657,7 @@
    "/work"
   ],
   "images": [],
-  "words": 1888,
+  "words": 1903,
   "htmlLang": "de"
  },
  {
@@ -12209,7 +12054,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-umzugsunternehmen.jpg",
   "ogType": "article",
   "articlePublished": "2026-08-08",
-  "articleModified": "2026-10-11",
+  "articleModified": "2026-10-12",
   "h1": [
    "Local SEO für Umzugsunternehmen: Ehrlich in zwei Städten gefunden werden"
   ],
@@ -12237,7 +12082,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-08-08",
-  "ldDateModified": "2026-10-11",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -12283,7 +12128,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2925,
+  "words": 2980,
   "htmlLang": "de"
  },
  {
@@ -12508,34 +12353,27 @@
  {
   "path": "/blog/local-seo-vs-organisch",
   "finalPath": "/blog/local-seo-vs-organisch",
-  "title": "Local SEO vs Organic SEO | Unterschiede 2026 | LocalDominate",
-  "description": "Was unterscheidet Local SEO von klassischem SEO? Gemeinsamkeiten, Unterschiede und wann Sie welche Strategie brauchen.",
+  "title": "Local SEO oder organisches SEO: Was braucht Ihr Betrieb?",
+  "description": "Local SEO oder organisches SEO? Wo beides bei Google erscheint, welcher Betrieb was zuerst braucht, ein Plan nach Priorität und wie Sie beides getrennt messen.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/local-seo-vs-organisch",
   "hreflang": [],
-  "ogTitle": "Local SEO vs Organic SEO | Unterschiede 2026 | LocalDominate",
+  "ogTitle": "Local SEO oder organisches SEO: Was braucht Ihr Betrieb?",
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-vs-organisch.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-21",
-  "articleModified": "2026-02-21",
+  "articleModified": "2026-10-12",
   "h1": [
-   "Local SEO vs. organisches SEO: Die wichtigsten Unterschiede"
+   "Local SEO oder organisches SEO: Was Ihr Betrieb zuerst braucht"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
@@ -12545,47 +12383,60 @@
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-21",
-  "ldDateModified": "2026-02-21",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
    "/blog/ai-search-vs-traditional-search",
-   "/blog/google-maps-audit-template",
-   "/blog/google-maps-konkurrenzanalyse",
+   "/blog/gbp-mehrere-standorte",
+   "/blog/google-ai-overviews-local-seo",
+   "/blog/google-bewertungen-bekommen",
+   "/blog/google-maps-ranking-verbessern",
+   "/blog/google-maps-seo-vs-organic-seo",
    "/blog/google-my-business-optimieren",
-   "/blog/kostenloses-seo-guide",
-   "/blog/local-seo-audit-checkliste",
+   "/blog/local-link-building",
    "/blog/local-seo-fehler",
-   "/blog/local-seo-keywords-finden",
-   "/blog/local-seo-ranking-faktoren-erklaert",
-   "/blog/local-seo-strategie-kleine-unternehmen",
-   "/blog/local-seo-vs-maps-seo",
+   "/blog/local-seo-roadmap-90-tage",
    "/blog/ultimate-guide-local-seo",
+   "/creators",
    "/datenschutz",
+   "/de",
+   "/de/ki",
    "/impressum",
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
    "/industries/practices",
    "/industries/restaurants",
    "/industries/trades",
-   "/seo-lexikon"
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 1388,
+  "images": [],
+  "words": 2800,
   "htmlLang": "de"
  },
  {
@@ -12674,7 +12525,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2438,
+  "words": 2526,
   "htmlLang": "de"
  },
  {
@@ -13074,113 +12925,27 @@
  {
   "path": "/blog/lokale-events-marketing",
   "finalPath": "/blog/lokale-events-marketing",
-  "title": "Lokale Events für SEO | Event-Marketing 2026 | LocalDominate",
-  "description": "Wie du lokale Events und Sponsoring für bessere Local SEO nutzt. Backlinks, Markenbekanntheit und lokale Autorität aufbauen.",
+  "title": "Lokale Events bewerben: Profil, Website und Kalender",
+  "description": "So finden Gäste Ihre Veranstaltung: Beitrag im Unternehmensprofil, Event-Daten auf der Website, Stadtkalender und Ticketportale, Zeitplan und Nachbereitung.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/lokale-events-marketing",
   "hreflang": [],
-  "ogTitle": "Lokale Events für SEO | Event-Marketing 2026 | LocalDominate",
+  "ogTitle": "Lokale Events bewerben: Profil, Website und Kalender",
   "ogImage": "https://localdominate.org/images/og/blog/lokale-events-marketing.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-10",
-  "articleModified": "2026-02-10",
+  "articleModified": "2026-10-12",
   "h1": [
-   "Lokale Events für SEO nutzen: Sponsoring & Veranstaltungen"
+   "Lokales Event-Marketing: So finden Menschen in Ihrer Stadt Ihre Veranstaltung"
   ],
-  "jsonLdBlocks": 7,
-  "jsonLdInvalid": 0,
-  "schemaTypes": [
-   "Article",
-   "Audience",
-   "BreadcrumbList",
-   "BusinessAudience",
-   "ContactPoint",
-   "Country",
-   "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
-   "EntryPoint",
-   "ImageObject",
-   "ListItem",
-   "Organization",
-   "Person",
-   "PostalAddress",
-   "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
-   "WebPage",
-   "WebPageElement",
-   "WebSite"
-  ],
-  "ldAuthors": [
-   "LocalDominate Redaktion"
-  ],
-  "ldDatePublished": "2026-02-10",
-  "ldDateModified": "2026-02-10",
-  "internalLinks": [
-   "/",
-   "/about",
-   "/agb",
-   "/blog",
-   "/blog/content-marketing-hub",
-   "/blog/e-e-a-t-lokale-unternehmen",
-   "/blog/google-maps-audit-template",
-   "/blog/kostenloses-seo-guide",
-   "/blog/local-content-marketing",
-   "/blog/local-link-building",
-   "/blog/local-seo-audit-checkliste",
-   "/blog/local-seo-fehler",
-   "/blog/local-seo-keywords-finden",
-   "/blog/lokale-suchmaschinenoptimierung-2026",
-   "/blog/ultimate-guide-local-seo",
-   "/datenschutz",
-   "/impressum",
-   "/industries/practices",
-   "/industries/restaurants",
-   "/industries/trades",
-   "/seo-lexikon"
-  ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 1122,
-  "htmlLang": "de"
- },
- {
-  "path": "/blog/lokale-influencer-kooperationen",
-  "finalPath": "/blog/lokale-influencer-kooperationen",
-  "title": "Lokale Influencer Marketing | Kooperations-Guide 2026",
-  "description": "Wie lokale Unternehmen mit Mikro-Influencern kooperieren. Von der Suche bis zur erfolgreichen Kampagne.",
-  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-  "canonical": "https://localdominate.org/blog/lokale-influencer-kooperationen",
-  "hreflang": [],
-  "ogTitle": "Lokale Influencer Marketing | Kooperations-Guide 2026",
-  "ogImage": "https://localdominate.org/images/og/blog/lokale-influencer-kooperationen.jpg",
-  "ogType": "article",
-  "articlePublished": "2026-02-24",
-  "articleModified": "2026-02-24",
-  "h1": [
-   "Lokale Influencer-Marketing: Kooperationen aufbauen"
-  ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
@@ -13190,42 +12955,145 @@
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
+   "WebSite"
+  ],
+  "ldAuthors": [
+   "LocalDominate Redaktion"
+  ],
+  "ldDatePublished": "2026-02-10",
+  "ldDateModified": "2026-10-12",
+  "internalLinks": [
+   "/",
+   "/about",
+   "/agb",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
+   "/blog",
+   "/blog/gbp-oeffnungszeiten-sondertage",
+   "/blog/google-bewertungen-bekommen",
+   "/blog/local-content-marketing",
+   "/blog/local-link-building",
+   "/blog/lokale-influencer-kooperationen",
+   "/blog/nap-konsistenz-local-seo",
+   "/blog/negative-google-bewertungen",
+   "/blog/schema-markup-local-seo",
+   "/creators",
+   "/datenschutz",
+   "/de",
+   "/de/ki",
+   "/impressum",
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
+   "/industries/practices",
+   "/industries/restaurants",
+   "/industries/trades",
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
+  ],
+  "images": [],
+  "words": 2467,
+  "htmlLang": "de"
+ },
+ {
+  "path": "/blog/lokale-influencer-kooperationen",
+  "finalPath": "/blog/lokale-influencer-kooperationen",
+  "title": "Lokale Influencer-Kooperationen: ehrlich und messbar",
+  "description": "Wie Café, Hotel, Salon und Handwerksbetrieb mit Creators aus der Region arbeiten: Partner prüfen, Briefing, Nutzungsrechte, Werbekennzeichnung und Messung.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://localdominate.org/blog/lokale-influencer-kooperationen",
+  "hreflang": [],
+  "ogTitle": "Lokale Influencer-Kooperationen: ehrlich und messbar",
+  "ogImage": "https://localdominate.org/images/og/blog/lokale-influencer-kooperationen.jpg",
+  "ogType": "article",
+  "articlePublished": "2026-02-24",
+  "articleModified": "2026-10-12",
+  "h1": [
+   "Lokale Influencer-Kooperationen: So arbeiten Betriebe ehrlich und wirksam mit Creators aus der Region"
+  ],
+  "jsonLdBlocks": 3,
+  "jsonLdInvalid": 0,
+  "schemaTypes": [
+   "Answer",
+   "Article",
+   "BreadcrumbList",
+   "ContactPoint",
+   "CreativeWork",
+   "EntryPoint",
+   "FAQPage",
+   "ImageObject",
+   "ListItem",
+   "Organization",
+   "Person",
+   "PostalAddress",
+   "Question",
+   "SearchAction",
+   "WebPage",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-24",
-  "ldDateModified": "2026-02-24",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
+   "/blog/gbp-fotos-optimieren",
    "/blog/google-bewertungen-bekommen",
-   "/blog/google-maps-audit-template",
-   "/blog/google-maps-ranking-verbessern",
-   "/blog/kostenloses-seo-guide",
+   "/blog/local-link-building",
+   "/blog/local-seo-friseursalon-beauty",
    "/blog/local-seo-fuer-restaurants",
-   "/blog/local-seo-keywords-finden",
-   "/blog/ultimate-guide-local-seo",
+   "/blog/local-seo-handwerker",
+   "/blog/local-seo-hotels",
+   "/blog/lokale-events-marketing",
+   "/blog/reddit-local-seo-ai-zitate-2026",
+   "/blog/tiktok-search-local-seo-2026",
+   "/creators",
    "/datenschutz",
+   "/de",
+   "/de/ki",
    "/impressum",
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
    "/industries/practices",
    "/industries/restaurants",
    "/industries/trades",
-   "/seo-lexikon"
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 1594,
+  "images": [],
+  "words": 3279,
   "htmlLang": "de"
  },
  {
@@ -14624,7 +14492,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2958,
+  "words": 2972,
   "htmlLang": "de"
  },
  {

@@ -170,7 +170,7 @@ const LocalSeoHochzeitsdienstleister = () => {
         </ol>
         <p className="mt-4">
           Weiterführend: <Link to="/blog/local-seo-fotograf" className="text-primary underline">Local SEO für Fotografen</Link> und{" "}
-          <Link to="/blog/local-seo-baeckerei-konditorei" className="text-primary underline">Local SEO für Konditoreien</Link>.
+          <Link to="/blog/local-seo-baeckerei" className="text-primary underline">Local SEO für Bäckereien und Konditoreien</Link>.
         </p>
       </section>
     </ArticleLayout>

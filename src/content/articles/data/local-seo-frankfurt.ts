@@ -13,10 +13,10 @@ const article: V4Article = {
   answer:
     "In Frankfurt liegen viele Anbieter derselben Branche nah beieinander, und viele Kunden kommen aus dem Umland. Google sortiert lokale Treffer nach **Relevanz, Entfernung und Beliebtheit**, deshalb sieht jemand in Höchst eine andere Liste als jemand in Bornheim. Legen Sie Ihr Einzugsgebiet nach den Stadtteilen und Gemeinden fest, die Sie wirklich bedienen, halten Sie Profil und Website widerspruchsfrei und messen Sie mit einem Raster.",
   takeaways: [
-    "Die Entfernung zur suchenden Person zählt. In Frankfurt sind Sie deshalb meist nur in einem Teil der Stadt weit oben. Ziel sind die Viertel, aus denen Ihre Kunden kommen.",
+    "Die Entfernung zur suchenden Person zählt. In Frankfurt sind Sie deshalb nach unserer Einschätzung meist nur in einem Teil der Stadt weit oben. Ziel sind die Viertel, aus denen Ihre Kunden kommen.",
     "Frankfurt ist in 16 Ortsbezirke gegliedert, die meist mehrere Stadtteile umfassen. Gesucht wird oft mit dem Stadtteilnamen, etwa Sachsenhausen oder Nordend.",
-    "Eine Seite je Stadtteil oder Nachbarstadt mit austauschbarem Text ist eine Brückenseite und verstößt gegen Googles Spam-Richtlinien.",
-    "Fast ein Drittel der Frankfurter hat laut städtischer Statistik keinen deutschen Pass. Englische Seiten lohnen sich, wenn Sie Kunden wirklich auf Englisch bedienen.",
+    "Eine Seite je Stadtteil oder Nachbarstadt mit austauschbarem Text ist nach unserer Einschätzung riskant. Googles Spam-Richtlinien nennen Seiten für Regionen oder Städte, die alle zum selben Ziel führen, ausdrücklich als Missbrauch von Brückenseiten.",
+    "Knapp ein Drittel der Frankfurter hatte Ende 2023 laut städtischer Statistik eine ausländische Staatsangehörigkeit. Englische Seiten lohnen sich, wenn Sie Kunden wirklich auf Englisch bedienen.",
     "Echte Erwähnungen entstehen über IHK Frankfurt am Main, Handwerkskammer Frankfurt-Rhein-Main, Innungen, Verbände und das Viertel.",
   ],
   publishedAt: "2026-01-21",
@@ -35,7 +35,7 @@ const article: V4Article = {
         },
         {
           t: "table",
-          caption: "Was sich in Frankfurt verschiebt",
+          caption: "Was sich in Frankfurt verschiebt (Einschätzung)",
           head: ["Thema", "Kleinstadt oder Land", "Frankfurt am Main"],
           rows: [
             ["Wettbewerb im Kartenblock", "Oft wenige Anbieter im Ort", "Viele Anbieter derselben Kategorie in wenigen Kilometern"],
@@ -47,7 +47,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Keine Marktzahlen ohne Quelle",
-          text: "Sie finden hier keine Angaben wie „X Prozent mehr Suchen zur Messe“. Belastbare Zahlen dieser Art gibt es nicht frei verfügbar. Wie viele Mitbewerber vor Ihnen stehen, messen Sie selbst mit dem Raster unten.",
+          text: "Sie finden hier keine Angaben wie „X Prozent mehr Suchen zur Messe“. Uns sind keine belastbaren, frei verfügbaren Zahlen dieser Art bekannt. Wie viele Mitbewerber vor Ihnen stehen, messen Sie selbst mit dem Raster unten.",
         },
       ],
     },
@@ -69,7 +69,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Relevanz ausbauen**, weil Sie hier den größten Einfluss haben: genaue Hauptkategorie, einzeln eingetragene Leistungen, eine Seite je Leistung auf der Website.",
-            "**Beliebtheit aufbauen**: echte Bewertungen und Erwähnungen von Kammern, Verbänden und lokalen Medien.",
+            "**Beliebtheit aufbauen**: echte Bewertungen und Websites, die auf Ihren Betrieb verweisen, etwa von Kammern, Verbänden und lokalen Medien. Beides nennt Googles Hilfe für diesen Faktor.",
             "**Suchen mit Ortsangabe abdecken**: Wer „Steuerberater Sachsenhausen“ sucht, nennt den Ort selbst. Dann zählt, ob Website und Profil den Stadtteil glaubwürdig nennen.",
           ],
         },
@@ -79,11 +79,11 @@ const article: V4Article = {
       id: "ortsbezirke-und-stadtteile",
       title: "Ortsbezirke und Stadtteile",
       answer:
-        "Frankfurt ist in 16 Ortsbezirke gegliedert, jeder mit eigenem Ortsbeirat. In elf davon sind mehrere Stadtteile zusammengefasst. Gesucht wird fast immer mit dem Stadtteil, nicht mit dem Ortsbezirk. Nennen Sie Stadtteile nur dort, wo Sie wirklich tätig sind.",
+        "Frankfurt ist in 16 Ortsbezirke gegliedert, jeder mit eigenem Ortsbeirat. In elf davon sind mehrere Stadtteile zusammengefasst. Gesucht wird unserer Einschätzung nach meist mit dem Stadtteil, nicht mit dem Ortsbezirk. Nennen Sie Stadtteile nur dort, wo Sie wirklich tätig sind.",
       blocks: [
         {
           t: "p",
-          text: "Die Stadt beschreibt in ihrer Wahlanalyse zu den Ortsbeiratswahlen 16 Ortsbezirke, von denen elf mehrere Stadtteile umfassen. Im Alltag sagen die Leute „Sachsenhausen“, „Nordend“, „Bornheim“, „Bockenheim“ oder „Höchst“. Ortsbezirksnummern spielen bei der Suche keine Rolle. Prüfen Sie mit den Vorschlägen der Google-Suche und Ihren eigenen Anfragen, welche Bezeichnungen Ihre Kunden verwenden.",
+          text: "Die Stadt beschreibt in ihrer Wahlanalyse zu den Ortsbeiratswahlen 2016 16 Ortsbezirke, von denen elf mehrere Stadtteile umfassen. Unsere Einschätzung: Im Alltag sagen die Leute „Sachsenhausen“, „Nordend“, „Bornheim“, „Bockenheim“ oder „Höchst“, und Ortsbezirksnummern spielen bei der Suche kaum eine Rolle. Prüfen Sie mit den Vorschlägen der Google-Suche und Ihren eigenen Anfragen, welche Bezeichnungen Ihre Kunden verwenden.",
         },
         {
           t: "h3",
@@ -135,7 +135,7 @@ const article: V4Article = {
       id: "stadtteilseiten-ohne-brueckenseiten",
       title: "Stadtteilseiten ohne Brückenseiten",
       answer:
-        "Eine Seite je Stadtteil oder Nachbarstadt mit demselben Text und ausgetauschtem Ortsnamen ist eine Brückenseite. Google nennt Seiten, die auf Regionen oder Städte zielen und Nutzer zum selben Ziel führen, sowie im Wesentlichen ähnliche Seiten ausdrücklich als Spam.",
+        "Eine Seite je Stadtteil oder Nachbarstadt mit demselben Text und ausgetauschtem Ortsnamen ist nach unserer Einschätzung riskant. Google nennt als Missbrauch von Brückenseiten Seiten, die auf Regionen oder Städte zielen und Nutzer zum selben Ziel führen, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website.",
       blocks: [
         {
           t: "table",
@@ -164,7 +164,7 @@ const article: V4Article = {
           items: [
             {
               title: "Name ohne Ortszusatz",
-              text: "Googles Richtlinien verbieten unnötige Zusätze im Namen, ausdrücklich auch Ortsangaben. „Elektro Weber Frankfurt Sachsenhausen“ ist nur zulässig, wenn der Betrieb auf Schild und Briefpapier genau so heißt.",
+              text: "Googles Richtlinien verbieten unnötige Zusätze im Namen, ausdrücklich auch Ortsangaben. Ein erfundenes Beispiel: „Elektro Muster Frankfurt Sachsenhausen“ ist nur zulässig, wenn der Betrieb auf Schild und Briefpapier genau so heißt.",
             },
             {
               title: "Adresse oder Einzugsgebiet",
@@ -194,7 +194,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Die Stadt zählte zum 31. Dezember 2023 rund 770.000 Einwohner mit Hauptwohnsitz, davon gut 244.000 mit ausländischer Staatsangehörigkeit. Dazu kommen Pendler, Geschäftsreisende und Messegäste. Bieten Sie Beratung, Termine oder Behandlung auf Englisch an, schreiben Sie das klar auf die Website. Behaupten Sie es nicht, wenn es niemand im Team leisten kann.",
+          text: "Die Stadt zählte zum 31. Dezember 2023 rund 770.000 Einwohner mit Hauptwohnsitz, davon gut 244.000 mit ausländischer Staatsangehörigkeit. Bis Ende 2025 stieg die Zahl der Einwohner mit Hauptwohnung laut Stadt auf 781.337. Dazu kommen Pendler, Geschäftsreisende und Messegäste. Bieten Sie Beratung, Termine oder Behandlung auf Englisch an, schreiben Sie das klar auf die Website. Behaupten Sie es nicht, wenn es niemand im Team leisten kann.",
         },
         {
           t: "ul",
@@ -210,11 +210,11 @@ const article: V4Article = {
       id: "messen-und-feste",
       title: "Messen, Stadtfeste und Saison",
       answer:
-        "Große Messen und Stadtfeste ändern in Frankfurt Anfahrt, Parkplätze, Öffnungszeiten und Nachfrage. Pflegen Sie in diesen Tagen Sonderöffnungszeiten und aktuelle Hinweise. Eine eigene Seite lohnt sich nur, wenn Sie zum Anlass etwas Eigenes anbieten.",
+        "Nach unserer Einschätzung ändern große Messen und Stadtfeste in Frankfurt Anfahrt, Parkplätze, Öffnungszeiten und Nachfrage. Pflegen Sie in diesen Tagen Sonderöffnungszeiten und aktuelle Hinweise. Eine eigene Seite lohnt sich nur, wenn Sie zum Anlass etwas Eigenes anbieten.",
       blocks: [
         {
           t: "p",
-          text: "Ein Beispiel ist das Museumsuferfest: Laut Pressemitteilung der Tourismus+Congress GmbH Frankfurt fand es 2026 vom 28. bis 30. August entlang des Mainufers statt, mit mehr als 500 Einzelveranstaltungen. Übernehmen Sie Termine immer vom Veranstalter, nicht aus Listen Dritter.",
+          text: "Ein Beispiel ist das Museumsuferfest: Laut Pressemitteilung der Tourismus+Congress GmbH Frankfurt war es für den 28. bis 30. August 2026 mit mehr als 500 Einzelveranstaltungen angekündigt. Übernehmen Sie Termine immer vom Veranstalter, nicht aus Listen Dritter.",
         },
         {
           t: "table",
@@ -235,14 +235,14 @@ const article: V4Article = {
       id: "erwaehnungen",
       title: "Erwähnungen von Frankfurter Institutionen",
       answer:
-        "Beliebtheit entsteht auch über Erwähnungen bei Institutionen, in denen Sie ohnehin Mitglied sind oder mitarbeiten. In Frankfurt sind das vor allem die IHK Frankfurt am Main, die Handwerkskammer Frankfurt-Rhein-Main, Innungen, Berufskammern sowie Vereine und lokale Medien im Viertel.",
+        "Googles Hilfe nennt für die Beliebtheit unter anderem Websites, die auf Ihr Unternehmen verweisen. Solche Verweise gibt es oft bei Institutionen, in denen Sie ohnehin Mitglied sind oder mitarbeiten. In Frankfurt sind das vor allem die IHK Frankfurt am Main, die Handwerkskammer Frankfurt-Rhein-Main, Innungen, Berufskammern sowie Vereine und lokale Medien im Viertel.",
       blocks: [
         {
           t: "table",
           caption: "Mögliche Quellen für Erwähnungen (Auswahl, ohne Rangfolge)",
           head: ["Institution", "Für wen", "Was Sie prüfen können"],
           rows: [
-            ["IHK Frankfurt am Main", "Gewerbebetriebe in Frankfurt, im Hochtaunus- und Main-Taunus-Kreis", "Ausbildungsbetrieb, Veranstaltungen, Ehrenamt, Fachausschüsse"],
+            ["IHK Frankfurt am Main", "Gewerbesteuerpflichtige Unternehmen in Frankfurt, im Hochtaunuskreis und im Main-Taunus-Kreis (ohne Hochheim)", "Ausbildungsbetrieb, Veranstaltungen, Ehrenamt, Fachausschüsse"],
             ["Handwerkskammer Frankfurt-Rhein-Main", "Handwerksbetriebe in Frankfurt, Offenbach, Darmstadt und sieben Landkreisen", "Eintrag als Ausbildungsbetrieb, Mitarbeit in Ausschüssen, Meldungen der Kammer"],
             ["Innungen und Fachverbände", "Je nach Gewerk oder Beruf", "Mitgliederverzeichnis mit Link auf Ihre Website"],
             ["Berufskammern", "Ärzte, Anwälte, Steuerberater und weitere freie Berufe", "Ob es ein öffentliches Verzeichnis gibt und Ihre Daten dort stimmen"],
@@ -251,7 +251,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Achten Sie darauf, dass Name, Adresse und Telefonnummer in diesen Einträgen genauso lauten wie im Profil. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo). Gekaufte Linkpakete von Seiten ohne Bezug zu Frankfurt bringen lokal wenig. Ideen für echte Erwähnungen finden Sie in [Local Link Building](/blog/local-link-building).",
+          text: "Achten Sie darauf, dass Name, Adresse und Telefonnummer in diesen Einträgen genauso lauten wie im Profil. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo). Unsere Einschätzung: Gekaufte Linkpakete von Seiten ohne Bezug zu Frankfurt bringen lokal wenig. Ideen für echte Erwähnungen finden Sie in [Local Link Building](/blog/local-link-building).",
         },
       ],
     },
@@ -302,7 +302,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Brauche ich für jeden Frankfurter Stadtteil eine eigene Seite?",
-      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, gelten bei Google als Brückenseiten und damit als Spam. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für diesen Stadtteil gibt. Sonst nennen Sie die Stadtteile auf der Leistungsseite.",
+      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für diesen Stadtteil gibt. Sonst nennen Sie die Stadtteile auf der Leistungsseite.",
     },
     {
       q: "Darf ich „Frankfurt“ in den Namen meines Unternehmensprofils schreiben?",
@@ -327,10 +327,12 @@ const article: V4Article = {
     { title: "Spam-Richtlinien für die Google Websuche (Missbrauch von Brückenseiten)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies?hl=de" },
     { title: "Lokalisierte Versionen deiner Seiten für Google angeben (hreflang)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de" },
     { title: "statistik aktuell 04/2024: Bevölkerung Ende 2023", publisher: "Stadt Frankfurt am Main, Bürgeramt, Statistik und Wahlen", url: "https://statistikportal.frankfurt.de/download/FSA/2024/FSA_2024_04_Bevölkerung_Ende2023.pdf" },
+    { title: "statistik aktuell 04/2026: Immer mehr Menschen leben in Frankfurt, Bevölkerung nimmt zu (16.04.2026)", publisher: "Stadt Frankfurt am Main, Bürgeramt, Statistik und Wahlen", url: "https://statistikportal.frankfurt.de/statistik_aktuell/2026/fsa_2026_04.html" },
     { title: "Frankfurter Wahlanalysen 65: Ortsbeiratswahlen 2016", publisher: "Stadt Frankfurt am Main, Bürgeramt, Statistik und Wahlen", url: "https://frankfurt.de/-/media/frankfurtde/service-und-rathaus/daten-informationen-wissen/pdf/wahlanalysen/fwa65_ortsbeiratswahlen_2016.ashx" },
     { title: "Pressemitteilung Museumsuferfest 2026", publisher: "Tourismus+Congress GmbH Frankfurt am Main", url: "https://www.visitfrankfurt.travel/fileadmin/Mediendatenbank/Dokumente/PM/PM_MUF_2026.pdf" },
     { title: "Satzung der Handwerkskammer Frankfurt-Rhein-Main", publisher: "Handwerkskammer Frankfurt-Rhein-Main", url: "https://hwk-rhein-main.de/adbimage/18696/asset-original//hwk_frm_satzung_240919.pdf" },
     { title: "Publikationen der IHK Frankfurt am Main", publisher: "IHK Frankfurt am Main", url: "https://www.frankfurt-main.ihk.de/hauptnavigation/wirtschaftspolitik/publikationen" },
+    { title: "IHK-Mitgliedschaft und Beitragspflicht (Bezirk: Frankfurt, Main-Taunus-Kreis ohne Hochheim, Hochtaunuskreis)", publisher: "IHK Frankfurt am Main", url: "https://www.frankfurt-main.ihk.de/ueber-uns/ihk-mitgliedschaft/beitrag-hoehe-und-modalitaeten/ihk-mitgliedschaft-und-beitragspflicht-5270082" },
   ],
   related: [
     { slug: "local-seo-muenchen", title: "Local SEO in München" },
