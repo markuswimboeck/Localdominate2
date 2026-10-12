@@ -131,7 +131,7 @@ const article: V4Article = {
             "**Örtliche Nummer** mit Ortsvorwahl oder die Mobilnummer des Betriebs. Google unterstützt Mobil- und Festnetznummern, aber keine Faxnummern.",
             "**Bis zu zwei weitere Nummern** können Sie neben der primären Nummer angeben, etwa eine eigene Notdienstnummer.",
             "**Keine Sonderrufnummern.** Google schließt sie unabhängig von den Kosten für den Anrufer aus.",
-            "**Keine Vermittler.** Eine Nummer, die bei einem Vermittlungsdienst landet, der den Auftrag weitergibt, verbindet nicht direkt mit Ihrem Betrieb.",
+            "**Keine Weiterleitungsnummern.** Google lässt keine Rufnummern zu, über die Anrufer nicht direkt mit Ihrem Betrieb verbunden werden. Eine Nummer, die bei einem Vermittlungsdienst landet, fällt nach unserer Einschätzung darunter.",
           ],
         },
         {
@@ -175,7 +175,7 @@ const article: V4Article = {
       id: "keine-staedteseiten",
       title: "Keine Brückenseiten für jeden Nachbarort",
       answer:
-        "Seiten wie „Notdienst Sanitär [Ort]“ für zwanzig Orte, auf denen nur der Ortsname wechselt, fallen nach Googles Spamrichtlinien leicht unter den Missbrauch von Brückenseiten. Besser ist eine starke Notdienstseite mit allen Einsatzorten und eigene Ortsseiten nur dort, wo Sie wirklich etwas Eigenes zu sagen haben.",
+        "Seiten wie „Notdienst Sanitär [Ort]“ für zwanzig Orte, auf denen nur der Ortsname wechselt, können unter den Missbrauch von Brückenseiten nach Googles Spamrichtlinien fallen, vor allem wenn sie Nutzer zum selben Ziel führen oder eher Suchergebnissen ähneln als einer klaren Gliederung. Google nennt Ortsseiten dieser Art nicht ausdrücklich, das Risiko ist unsere Einschätzung. Besser ist eine starke Notdienstseite mit allen Einsatzorten und eigene Ortsseiten nur dort, wo Sie wirklich etwas Eigenes zu sagen haben.",
       blocks: [
         {
           t: "p",
@@ -225,7 +225,7 @@ const article: V4Article = {
       id: "preise",
       title: "Notdienstpreise offen nennen",
       answer:
-        "Kunden fürchten im Notfall überhöhte Rechnungen, und Verbraucherschützer warnen ausdrücklich vor unseriösen Notdiensten. Wer Anfahrt, Stundensatz und Zuschläge auf der Website nennt, hebt sich ab. In Deutschland verlangt die Preisangabenverordnung außerdem ein Preisverzeichnis für wesentliche Leistungen gegenüber Verbrauchern.",
+        "Kunden fürchten im Notfall überhöhte Rechnungen, und Verbraucherschützer warnen ausdrücklich vor unseriösen Notdiensten. Wer Anfahrt, Stundensatz und Zuschläge auf der Website nennt, hebt sich ab. In Deutschland verlangt die Preisangabenverordnung außerdem ein Preisverzeichnis für wesentliche Leistungen gegenüber Verbrauchern, sofern diese nicht üblicherweise nach individuellem Angebot erbracht werden.",
       blocks: [
         {
           t: "p",
@@ -378,7 +378,7 @@ const article: V4Article = {
     },
     {
       q: "Muss ich meine Notdienstpreise im Internet veröffentlichen?",
-      a: "Die deutsche Preisangabenverordnung verlangt von Anbietern von Leistungen an Verbraucher ein Preisverzeichnis für wesentliche Leistungen oder Verrechnungssätze. Wo und wie Sie es zeigen müssen, klären Sie mit Ihrer Kammer oder einem Anwalt. Offene Preise auf der Website schaffen zudem Vertrauen, weil Verbraucherschützer vor unseriösen Notdiensten warnen.",
+      a: "§ 12 der Preisangabenverordnung verlangt von Anbietern von Leistungen an Verbraucher ein Preisverzeichnis für wesentliche Leistungen oder Verrechnungssätze, außer bei Leistungen, die üblicherweise nach einem individuellen schriftlichen Angebot erbracht werden. Es ist in den Geschäftsräumen oder am sonstigen Ort des Leistungsangebots anzubringen. Eine ausdrückliche Pflicht, es im Internet zu veröffentlichen, nennt die Vorschrift nicht. Ob Ihre Notdienstleistungen unter die Ausnahme fallen, klären Sie mit Ihrer Innung, Kammer oder einem Anwalt. Offene Preise auf der Website schaffen zudem Vertrauen, weil Verbraucherschützer vor unseriösen Notdiensten warnen.",
     },
   ],
   sources: [

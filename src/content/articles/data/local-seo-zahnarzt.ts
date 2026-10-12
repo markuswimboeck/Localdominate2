@@ -13,7 +13,7 @@ const article: V4Article = {
   answer:
     "Local SEO für Zahnärzte heißt: ein korrektes Google-Unternehmensprofil mit passender Kategorie, die Behandlungen als Leistungen im Profil und als eigene Seiten auf der Website, echte Bewertungen und klare Angaben zu Barrierefreiheit und Notdienst. Für Zahnärzte kommen Regeln hinzu: Heilmittelwerbegesetz und Berufsordnung verbieten Erfolgsversprechen und anpreisende Werbung, und die Schweigepflicht gilt auch bei Antworten auf Bewertungen.",
   takeaways: [
-    "Google zählt Zahnärzte zu den unabhängigen Fachkräften. Ein Profil je Standort für die Praxis, eigene Profile nur für Zahnärzte mit eigenem Patientenkontakt, die am Standort direkt erreichbar sind, keine Profile je Fachgebiet.",
+    "Google zählt Zahnärzte zu den unabhängigen Fachkräften. Ein Profil je Standort für die Praxis, eigene Profile nur für Zahnärzte mit Kundenverkehr (bei Zahnärzten also Patientenverkehr), die am Standort direkt erreichbar sind, keine Profile je Fachgebiet.",
     "Behandlungen wie Implantate oder Zahnreinigung gehören in die Leistungen des Profils und auf eigene Seiten der Website, nicht in Kategorie oder Praxisnamen.",
     "Die Berufsordnung erlaubt sachangemessene Information und verbietet anpreisende, irreführende, herabsetzende oder vergleichende Werbung. Das HWG verbietet den Eindruck, ein Erfolg sei sicher.",
     "Google verbietet Anreize für Rezensionen, das gezielte Bitten um positive Rezensionen und Druck auf Patienten, die noch in der Praxis sind.",
@@ -60,7 +60,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google nennt Zahnärzte ausdrücklich als Beispiel für unabhängige Fachkräfte. Eine Zahnärztin mit eigenem Patientenkontakt, die während der Öffnungszeiten am Standort direkt erreichbar ist, darf neben dem Praxisprofil ein eigenes Profil haben. Ist sie die einzige Zahnärztin mit Patientenkontakt an diesem Standort und tritt die Praxis unter einer eigenen Marke auf, teilen sich Praxis und Zahnärztin laut Google ein Profil mit dem Namen im Format „[Praxisname]: [Name der Zahnärztin]“. Arbeiten mehrere Zahnärzte am Standort, enthält der Name ihrer eigenen Profile nur den Namen der Person. Angestellte dürfen laut Google keine eigenen Profile erstellen, und niemand darf mehrere Profile für verschiedene Fachgebiete anlegen.",
+          text: "Google nennt Zahnärzte ausdrücklich als Beispiel für unabhängige Fachkräfte. Eine Zahnärztin mit Kundenverkehr (bei Zahnärzten also Patientenverkehr), die während der Öffnungszeiten am Standort direkt erreichbar ist, darf neben dem Praxisprofil ein eigenes Profil haben. Ist sie die einzige Zahnärztin mit Kundenverkehr an diesem Standort und tritt die Praxis unter einer eigenen Marke auf, teilen sich Praxis und Zahnärztin laut Google ein Profil, dessen Name nach dem Muster „[Marke oder Praxisname]: [Name der Zahnärztin]“ gebildet wird. Arbeiten mehrere Zahnärzte am Standort, enthält der Name ihrer eigenen Profile nur den Namen der Person. Angestellte dürfen laut Google keine eigenen Profile erstellen, und niemand darf mehrere Profile für verschiedene Fachgebiete anlegen.",
         },
         {
           t: "ul",
@@ -145,7 +145,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "**Heilmittelwerbegesetz.** § 3 HWG nennt Werbung irreführend, wenn fälschlich der Eindruck erweckt wird, ein Erfolg könne mit Sicherheit erwartet werden. Das Oberlandesgericht Frankfurt am Main hat 2020 die Werbung für eine kieferorthopädische Aligner-Behandlung mit „perfekten Zähnen“ in diesem Sinn als unzulässiges Erfolgsversprechen gewertet (Urteil vom 27. Februar 2020, Az. 6 U 219/19). Für operative plastisch-chirurgische Eingriffe ohne medizinische Notwendigkeit ist Werbung mit Vorher-Nachher-Vergleichen gegenüber Laien verboten. Der Bundesgerichtshof hat am 31. Juli 2025 entschieden, dass auch Unterspritzungen mit Hyaluron an Nase und Kinn darunter fallen (Az. I ZR 170/24).",
+          text: "**Heilmittelwerbegesetz.** § 3 HWG nennt Werbung irreführend, wenn fälschlich der Eindruck erweckt wird, ein Erfolg könne mit Sicherheit erwartet werden. Das Oberlandesgericht Frankfurt am Main hat 2020 im Eilverfahren die Werbung einer Kieferorthopädin für ein Zahnschienen-System mit „perfekten Zähnen“ in diesem Sinn als unzulässiges Erfolgsversprechen gewertet (Urteil vom 27. Februar 2020, Az. 6 U 219/19). Für operative plastisch-chirurgische Eingriffe ohne medizinische Notwendigkeit ist Werbung mit Vorher-Nachher-Vergleichen gegenüber Laien verboten. Der Bundesgerichtshof hat am 31. Juli 2025 entschieden, dass auch Unterspritzungen mit Hyaluron an Nase und Kinn darunter fallen (Az. I ZR 170/24).",
         },
         {
           t: "table",

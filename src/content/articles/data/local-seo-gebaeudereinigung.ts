@@ -15,7 +15,7 @@ const article: V4Article = {
   takeaways: [
     "Empfangen Sie keine Kunden im Büro, blenden Sie die Adresse im Profil aus. Google erlaubt bis zu 20 Einzugsgebiete und empfiehlt, dass sie nicht weiter als etwa zwei Autostunden vom Betrieb entfernt liegen.",
     "Der Profilname ist der echte Firmenname, ohne Ort, Leistung oder Zusätze wie „24h“. Suchbegriffe gehören in Leistungen und Website.",
-    "Bauen Sie eine Seite je Reinigungsart. Viele fast gleiche Städteseiten können Google als Brückenseiten gelten.",
+    "Bauen Sie eine Seite je Reinigungsart. Viele fast gleiche Städteseiten können nach Googles Spamrichtlinien als Brückenseiten gelten.",
     "Nennen Sie Zertifikate, Gütezeichen und Mitgliedschaften nur, wenn sie bestehen und gültig sind. Falsche Angaben können nach § 5 UWG irreführend und damit unlauter sein (keine Rechtsberatung).",
     "Bitten Sie jeden Auftraggeber um eine Bewertung, ohne Rabatt und ohne Vorauswahl. Quoten für Mitarbeiter verbietet Google.",
   ],
@@ -83,7 +83,7 @@ const article: V4Article = {
         {
           t: "ul",
           items: [
-            "**Name:** „Berger Gebäudeservice GmbH“ ist richtig. „Berger Büroreinigung Glasreinigung Regensburg“ verstößt gegen Googles Richtlinien, die Standortinformationen und Angaben zu Dienstleistungen im Namen ausdrücklich ausschließen.",
+            "**Name:** „Muster Gebäudeservice“ (ein frei erfundenes Beispiel) ist richtig, wenn so auf dem Firmenschild steht. Rechtsformzusätze wie „GmbH“ gehören laut Google nicht in den Namen, es sei denn, Sie können sie belegen. „Muster Büroreinigung Glasreinigung Regensburg“ verstößt gegen Googles Richtlinien, die Standortinformationen und Angaben zu Dienstleistungen im Namen ausdrücklich ausschließen.",
             "**Hauptkategorie:** Google verlangt so wenige Kategorien wie möglich und die genaueste, die Ihr Kerngeschäft beschreibt. Der Prüfsatz lautet: „Dieses Unternehmen IST …“. Tippen Sie Begriffe wie „Gebäudereinigung“ oder „Reinigung“ in das Kategoriefeld und wählen Sie den passendsten Vorschlag. Eigene Kategorien lassen sich nicht anlegen. Mehr im [Kategorien-Leitfaden](/blog/google-business-kategorien-guide#googles-regeln).",
             "**Weitere Kategorien:** nur für echte eigene Geschäftsbereiche, etwa wenn Sie neben der Gebäudereinigung tatsächlich einen Hausmeisterdienst betreiben. Nicht für jede einzelne Leistung.",
             "**Leistungen:** Unterhaltsreinigung, Glasreinigung, Treppenhausreinigung, Bauendreinigung, Grundreinigung und Teppichreinigung einzeln eintragen. Google erlaubt eigene Leistungen. Einträge, die gegen die Richtlinien verstoßen, lehnt Google automatisch ab; Preise, Telefonnummern oder sinnlose Inhalte gehören deshalb nicht in den Namen der Leistung.",
@@ -93,7 +93,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Einschätzung",
-          text: "Google veröffentlicht keine vollständige deutsche Kategorienliste. Welche Bezeichnungen für Reinigungsbetriebe angeboten werden, sehen Sie nur im Profil selbst. Prüfen Sie zusätzlich, welche Hauptkategorie gut sichtbare Mitbewerber in Ihrer Stadt verwenden. Das zeigt, was es gibt, nicht was Sie wählen müssen.",
+          text: "Im Kategoriefeld Ihres Profils wählen Sie aus einer Liste, eigene Kategorien lassen sich nicht anlegen. Prüfen Sie zusätzlich, welche Hauptkategorie gut sichtbare Mitbewerber in Ihrer Stadt verwenden. Das zeigt, was es gibt, nicht was Sie wählen müssen.",
         },
       ],
     },

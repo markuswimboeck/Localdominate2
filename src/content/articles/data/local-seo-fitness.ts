@@ -20,7 +20,7 @@ const article: V4Article = {
     "Die Website braucht vor allem eine Seite für das Probetraining, einen lesbaren Kursplan und transparente Preise. Wer Verträge online verkauft, braucht in Deutschland den Kündigungsbutton.",
   ],
   publishedAt: "2026-02-04",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-12",
   readingTime: 13,
   sections: [
     {
@@ -117,7 +117,7 @@ const article: V4Article = {
           rows: [
             ["Angestellt in einem Studio", "Kein eigenes Profil. Sie erscheinen über das Profil und die Website des Studios."],
             ["Selbstständig mit eigenem Trainingsraum und Schild", "Eigenes Profil mit Adresse, wenn Sie während der angegebenen Zeiten dort erreichbar sind."],
-            ["Selbstständig, Training bei Kunden zu Hause oder im Park", "Profil als Unternehmen mit Einzugsgebiet, die Privatadresse wird ausgeblendet. Das Einzugsgebiet soll in der Regel nicht weiter als etwa zwei Autostunden reichen."],
+            ["Selbstständig, Training bei Kunden zu Hause", "Profil als Unternehmen mit Einzugsgebiet, die Privatadresse wird ausgeblendet. Das Einzugsgebiet soll in der Regel nicht weiter als etwa zwei Autostunden reichen."],
             ["Selbstständig, aber Training nur online", "Kein Unternehmensprofil, weil kein persönlicher Kundenkontakt stattfindet."],
             ["Mehrere selbstständige Trainer in einem gemeinsamen Raum", "Der Standort kann ein eigenes Profil haben. Profile der einzelnen Trainer tragen nur den Namen der Person."],
           ],
@@ -136,7 +136,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Laut Google können mehr Rezensionen und positive Bewertungen das lokale Ranking verbessern. Gleichzeitig sind Googles Regeln gerade bei den in Studios beliebten Aktionen streng. Ein Gratis-Shake, ein Monat geschenkt oder eine Verlosung unter allen, die bewerten, gilt als Anreiz und ist verboten. Google kann solche Rezensionen entfernen und das Profil einschränken, etwa indem es für eine Zeit keine neuen Rezensionen annimmt oder einen Warnhinweis anzeigt.",
+          text: "Laut Google können mehr Rezensionen und positive Bewertungen das lokale Ranking verbessern. Gleichzeitig sind Googles Regeln gerade bei den in Studios beliebten Aktionen streng. Ein Gratis-Shake, ein geschenkter Monat oder ein Rabatt für eine Bewertung gilt als Anreiz und ist verboten. Das gilt nach unserer Einschätzung auch für eine Verlosung unter allen, die bewerten. Google kann solche Rezensionen entfernen und das Profil einschränken, etwa indem es für eine Zeit keine neuen Rezensionen annimmt oder einen Warnhinweis anzeigt.",
         },
         {
           t: "table",
@@ -144,9 +144,9 @@ const article: V4Article = {
           head: ["Erlaubt", "Nicht erlaubt"],
           rows: [
             ["Alle Mitglieder um eine ehrliche Bewertung bitten", "Nur Mitglieder fragen, von denen Sie Lob erwarten"],
-            ["Link in der Willkommensmail oder QR-Code am Empfang", "Mitglieder vor Ort drängen, die Bewertung sofort zu schreiben"],
-            ["Auf jede Bewertung sachlich antworten", "Getränke, Rabatte, Probemonate oder Verlosungen als Gegenleistung"],
-            ["Trainer erinnern, auf den Bewertungslink hinzuweisen", "Trainern Quoten vorgeben oder um Bewertungen bitten, die ihren Namen nennen"],
+            ["Link in der Willkommensmail, in der Nachfass-Mail oder auf der Rechnung", "Mitglieder im Studio auffordern oder drängen, die Bewertung sofort zu schreiben"],
+            ["Auf jede Bewertung sachlich antworten", "Getränke, Rabatte oder Probemonate als Gegenleistung (Verlosungen nach unserer Einschätzung ebenfalls)"],
+            ["Trainer über die Regeln informieren, keine Quote und keine Vorgaben zum Inhalt", "Trainern Quoten vorgeben oder um Bewertungen bitten, die ihren Namen nennen"],
           ],
         },
         {
@@ -220,7 +220,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Pflichtbilder:** Außenansicht und Eingang, Empfang, Trainingsfläche zu einer normalen Zeit, Kursräume, Umkleiden, Team.",
-            "**Mitglieder im Bild** nur mit Einwilligung. In Deutschland verlangt § 22 KUG die Einwilligung der abgebildeten Person, bewahren Sie sie schriftlich auf.",
+            "**Mitglieder im Bild** nur mit Einwilligung. In Deutschland verlangt § 22 KUG grundsätzlich die Einwilligung der abgebildeten Person. Bewahren Sie sie nachweisbar auf, am besten schriftlich. Daneben kann die DSGVO gelten, lassen Sie das im Zweifel rechtlich prüfen.",
             "**Keine Fremdbilder** als eigene ausgeben. Stockfotos von fremden Studios täuschen und widersprechen Googles Regeln gegen irreführende Inhalte.",
           ],
         },
@@ -258,17 +258,17 @@ const article: V4Article = {
     },
     {
       id: "partner",
-      title: "Lokale Partner und Erwähnungen",
+      title: "Lokale Partner und Verweise auf Ihre Website",
       answer:
         "Google zählt Websites, die auf Ihr Unternehmen verweisen, zur Bekanntheit. Für Studios entstehen solche Verweise am ehesten aus echten Kooperationen in der Nachbarschaft.",
       blocks: [
         {
           t: "ul",
           items: [
-            "**Physiotherapie und Arztpraxen:** gegenseitige Empfehlung für Training nach der Therapie, mit Nennung auf der Partnerseite.",
+            "**Physiotherapie und Arztpraxen:** gegenseitige Empfehlung für Training nach der Therapie, mit Link auf der Partnerseite.",
             "**Betriebe in der Nähe:** Firmenfitness mit einer Seite im Intranet oder auf der Karriereseite des Arbeitgebers.",
-            "**Sportvereine:** Krafttraining für Mannschaften in der Vorbereitung, Erwähnung auf der Vereinsseite.",
-            "**Lokale Medien:** Bericht zu einem echten Anlass wie Eröffnung, Umbau oder einem offenen Lauftreff.",
+            "**Sportvereine:** Krafttraining für Mannschaften in der Vorbereitung, Link auf der Vereinsseite.",
+            "**Lokale Medien:** Bericht mit Link auf Ihre Website zu einem echten Anlass wie Eröffnung, Umbau oder einem offenen Lauftreff.",
           ],
         },
         {
@@ -288,7 +288,7 @@ const article: V4Article = {
           items: [
             { title: "Woche 1: Ausgangslage", text: "Suchanfragen, Anrufe, Routen und Website-Klicks im Leistungsbericht notieren. Probetrainings des letzten Monats zählen." },
             { title: "Woche 1: Profil", text: "Name, Hauptkategorie, Öffnungs- und Sonderzeiten, Leistungen, Attribute und aktuelle Fotos prüfen." },
-            { title: "Woche 2: Bewertungen", text: "Bewertungslink in Willkommensmail und Nachfass-Mail einbauen, QR-Code am Empfang aushängen, Team kurz einweisen, was erlaubt ist." },
+            { title: "Woche 2: Bewertungen", text: "Bewertungslink in Willkommensmail und Nachfass-Mail einbauen, Team kurz einweisen, was erlaubt ist." },
             { title: "Woche 3: Website", text: "Seite für das Probetraining, Kursplan als Text, Preise transparent, Kündigungsbutton prüfen." },
             { title: "Woche 4: Partner", text: "Zwei bis drei Kooperationen ansprechen, die Sie ohnehin pflegen oder pflegen wollen." },
             { title: "Danach monatlich", text: "Zahlen vergleichen, auf neue Bewertungen antworten, Saisonangebote vorbereiten." },
@@ -312,7 +312,7 @@ const article: V4Article = {
     },
     {
       q: "Darf ich für Bewertungen einen Probemonat verlosen?",
-      a: "Nein. Google wertet Verlosungen, Rabatte, Gratisleistungen und Geschenke für Bewertungen als Anreiz. Solche Rezensionen werden entfernt, und Google kann das Profil einschränken. Bitten Sie alle Mitglieder ohne Gegenleistung.",
+      a: "Nein. Google verbietet Anreize wie Zahlungen, Rabatte und kostenlose Produkte oder Dienstleistungen für Bewertungen. Ein Probemonat fällt darunter, eine Verlosung unter Bewertenden ist nach unserer Einschätzung ebenfalls ein Anreiz. Solche Rezensionen werden entfernt, und Google kann das Profil einschränken. Bitten Sie alle Mitglieder ohne Gegenleistung.",
     },
     {
       q: "Hilft Instagram beim Google-Ranking?",
