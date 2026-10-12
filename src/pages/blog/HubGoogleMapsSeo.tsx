@@ -6,7 +6,14 @@ const groups: HubArticleGroup[] = [
     title: "Google Maps Ranking & Optimierung",
     description: "Rankings verbessern, Ranking-Faktoren verstehen und Maps-SEO von organischem SEO abgrenzen",
     icon: "📍",
-    slugs: ["google-maps-ranking-verbessern", "google-maps-seo-ranking-faktoren", "local-seo-vs-maps-seo"],
+    slugs: [
+      "google-maps-ranking-verbessern",
+      "google-maps-seo-ranking-faktoren",
+      "local-seo-vs-maps-seo",
+      "lokale-suchmaschinenoptimierung-2026",
+      "google-maps-konkurrenzanalyse",
+      "google-maps-spam-erkennen",
+    ],
   },
   {
     title: "Google Business Profil optimieren",
@@ -43,6 +50,7 @@ const groups: HubArticleGroup[] = [
       "local-seo-audit-checkliste",
       "google-maps-audit-template",
       "google-maps-ranking-tracker",
+      "google-maps-ranking-case-studies",
     ],
   },
   {
