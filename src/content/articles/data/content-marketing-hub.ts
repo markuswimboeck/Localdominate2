@@ -17,7 +17,7 @@ const article: V4Article = {
     "Beginnen Sie bei den Suchbegriffen Ihrer Kunden und ordnen Sie jedem wichtigen Begriff genau eine Seite zu.",
     "Google empfiehlt Inhalte aus eigener Erfahrung, die über Allgemeinwissen hinausgehen.",
     "Google nennt die Zahl der Websites, die auf ein Unternehmen verweisen, als Teil der Bekanntheit.",
-    "Gekaufte oder getauschte Links verstoßen gegen Googles Spamrichtlinien.",
+    "Links, die nur fürs Ranking gekauft oder massenhaft getauscht werden, verstoßen gegen Googles Spamrichtlinien.",
     "Dass einheitliche Firmendaten in Verzeichnissen helfen, ist Branchenpraxis. Google selbst spricht von vollständigen und korrekten Angaben.",
   ],
   publishedAt: "2026-03-09",
@@ -79,7 +79,7 @@ const article: V4Article = {
       id: "eintraege",
       title: "Firmeneinträge und Verzeichnisse",
       answer:
-        "Name, Adresse und Telefonnummer sollten überall gleich lauten: im Profil, auf der Website, im Impressum und in Verzeichnissen. Widersprüche kosten vor allem Vertrauen und Anrufe.",
+        "Name, Adresse und Telefonnummer sollten überall gleich lauten: im Profil, auf der Website, im Impressum und in Verzeichnissen. Widersprüchliche Angaben verwirren Kunden und können Anrufe kosten.",
       blocks: [
         {
           t: "ul",
@@ -95,7 +95,7 @@ const article: V4Article = {
       id: "kanaele",
       title: "Weitere Kanäle",
       answer:
-        "Neben Website und Profil spielen auch TikTok und Reddit eine Rolle: Auf TikTok suchen viele Menschen gezielt nach Orten, Reddit-Diskussionen können in KI-Antworten auftauchen. Auf beiden zählt: offen als Betrieb auftreten, keine gefälschten Empfehlungen.",
+        "Neben Website und Profil spielen auch TikTok und Reddit eine Rolle: Reddit-Diskussionen können in KI-Antworten auftauchen, und auch auf TikTok werden lokale Tipps geteilt. Auf beiden zählt: offen als Betrieb auftreten, keine gefälschten Empfehlungen.",
       blocks: [
         {
           t: "ul",
@@ -111,11 +111,11 @@ const article: V4Article = {
   faq: [
     {
       q: "Brauche ich für jede Stadt in meinem Einzugsgebiet eine eigene Seite?",
-      a: "Nur, wenn Sie dort etwas Eigenes zu sagen haben, etwa einen Standort oder Projekte vor Ort. Seiten, die sich nur im Ortsnamen unterscheiden, wertet Google als Brückenseiten.",
+      a: "Nur, wenn Sie dort etwas Eigenes zu sagen haben, etwa einen Standort oder Projekte vor Ort. Mehrere Seiten, die nur einzelne Orte ansteuern und Nutzer zum selben Ergebnis führen, nennt Google als Beispiel für Brückenseiten (Doorway-Missbrauch).",
     },
     {
       q: "Darf ich Links von anderen Websites kaufen?",
-      a: "Nein. Gekaufte oder getauschte Links verstoßen gegen Googles Spamrichtlinien. Lokale Links entstehen über echte Beziehungen wie Mitgliedschaften, Partner und Vereine.",
+      a: "Nein. Links, die nur fürs Ranking gekauft oder massenhaft getauscht werden, verstoßen gegen Googles Spamrichtlinien. Lokale Links entstehen über echte Beziehungen wie Mitgliedschaften, Partner und Vereine.",
     },
     {
       q: "Darf ich Texte mit KI schreiben?",

@@ -15,10 +15,10 @@ const article: V4Article = {
     "Die Grundlagen der lokalen Suche gelten für alle Branchen: Google sortiert nach Relevanz, Entfernung und Bekanntheit. Unterschiede gibt es bei der Kategorie, die je nach Branche Funktionen wie Speisekarte, Buchungsschaltfläche oder Hotelausstattung freischaltet, bei den Pflichtangaben und beim Berufsrecht, etwa für Praxen, Kanzleien, Steuerberater und Apotheken. Die Branchenleitfäden zeigen, was das für Ihren Betrieb konkret heißt.",
   takeaways: [
     "Die Hauptkategorie beschreibt, was Ihr Betrieb ist. Die Kategorie schaltet je nach Branche eigene Funktionen im Profil frei.",
-    "Für Arztpraxen, Kanzleien, Steuerberater und Apotheken gelten zusätzlich Berufs- und Werberecht, für Optiker und Hörakustiker das Heilmittelwerbegesetz.",
+    "In Deutschland gelten für Arztpraxen, Kanzleien, Steuerberater und Apotheken zusätzlich Berufs- und Werberecht, für Optiker und Hörakustiker das Heilmittelwerbegesetz. In Österreich und der Schweiz gelten andere Vorschriften.",
     "Handwerksbetriebe ohne Kundenverkehr am Standort geben ein Einzugsgebiet an statt einer sichtbaren Adresse.",
-    "Hotels geben laut Google keine Öffnungszeiten im Profil an.",
-    "Seiten, die sich nur im Ortsnamen unterscheiden, wertet Google als Brückenseiten.",
+    "Laut Google sollten Hotels keine Öffnungszeiten im Profil angeben.",
+    "Mehrere Seiten, die nur einzelne Orte ansteuern und Nutzer zum selben Ergebnis führen, nennt Google als Beispiel für Brückenseiten (Doorway-Missbrauch).",
   ],
   publishedAt: "2026-03-05",
   updatedAt: "2026-10-12",
@@ -33,7 +33,7 @@ const article: V4Article = {
         {
           t: "ul",
           items: [
-            "[Local SEO für Hotels](/blog/local-seo-hotels): mehr Direktbuchungen über Google.",
+            "[Local SEO für Hotels](/blog/local-seo-hotels): Profil und Buchungsweg für Hotels.",
             "[SEO für Ferienwohnungen](/blog/seo-ferienwohnungen): so kommen Gäste direkt zu Ihnen.",
             "[Local SEO für Restaurants](/blog/local-seo-fuer-restaurants): so finden Gäste Ihren Tisch.",
             "[Local SEO für Cafés](/blog/local-seo-cafe-coffeeshop)",
@@ -70,7 +70,7 @@ const article: V4Article = {
       id: "gesundheit",
       title: "Praxen, Apotheken und Gesundheit",
       answer:
-        "Für Arztpraxen und Apotheken gelten Berufsrecht, Schweigepflicht und Werberecht, für Optiker das Heilmittelwerbegesetz. Die Leitfäden zeigen, was das für Profil, Bewertungen und Website heißt.",
+        "In Deutschland gelten für Arztpraxen und Apotheken Berufsrecht, Schweigepflicht und Werberecht, für Optiker das Heilmittelwerbegesetz; in Österreich und der Schweiz gelten andere Regeln. Die Leitfäden zeigen, was das für Profil, Bewertungen und Website heißt.",
       blocks: [
         {
           t: "ul",
@@ -89,7 +89,7 @@ const article: V4Article = {
       id: "beratung",
       title: "Kanzleien, Steuerberatung und Immobilien",
       answer:
-        "Bei beratenden Berufen wählen Mandanten sorgfältig. Profil und Website müssen erklären, wer Sie sind und was Sie tun, bei Kanzleien und Steuerberatern im Rahmen des Berufsrechts.",
+        "Bei beratenden Berufen wählen Mandanten sorgfältig. Profil und Website müssen erklären, wer Sie sind und was Sie tun, bei Kanzleien und Steuerberatern im Rahmen des in Deutschland geltenden Berufsrechts.",
       blocks: [
         {
           t: "ul",
@@ -157,9 +157,9 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
     { title: "Unternehmenskategorie verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7249669?hl=de" },
-    { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
+    { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
     { title: "Spamrichtlinien für die Google-Websuche", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies?hl=de" },
   ],
   related: [

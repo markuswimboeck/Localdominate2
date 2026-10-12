@@ -18,7 +18,7 @@ const article: V4Article = {
     "Die Übersicht mit KI zeigt Google in Deutschland, Österreich und der Schweiz seit März 2025, den KI-Modus seit dem 8. Oktober 2025.",
     "Wer in KI-Antworten als Quelle erscheinen will, lässt die Such-Crawler der Anbieter zu. Das Training sperren Sie getrennt.",
     "llms.txt ist ein freiwilliger Vorschlag. Google schreibt, dass die Google-Suche die Datei ignoriert.",
-    "Einen offiziellen Index für Sichtbarkeit in KI-Antworten gibt es nicht. Sie messen mit festen Stichproben und den Berichten von Google und Bing.",
+    "Anbieterübergreifend gibt es keinen einheitlichen Messwert für Sichtbarkeit in KI-Antworten. Sie messen mit festen Stichproben und den Berichten von Google und Bing.",
   ],
   publishedAt: "2026-03-09",
   updatedAt: "2026-10-12",
@@ -70,7 +70,7 @@ const article: V4Article = {
       id: "technik",
       title: "Technik: Crawler, strukturierte Daten und llms.txt",
       answer:
-        "Technisch entscheidet zuerst, ob die Such-Crawler der Anbieter Ihre Seiten abrufen dürfen und ob die Inhalte als Text lesbar sind. Strukturierte Daten helfen beim Verstehen, garantieren aber keine Nennung.",
+        "Technisch entscheidet zuerst, ob die Such-Crawler der Anbieter Ihre Seiten abrufen dürfen und ob die Inhalte als Text lesbar sind. Für die KI-Funktionen der Google-Suche sind strukturierte Daten nicht erforderlich, eine Nennung garantieren sie nicht.",
       blocks: [
         {
           t: "ul",
@@ -123,7 +123,7 @@ const article: V4Article = {
       id: "ki-im-betrieb",
       title: "KI im eigenen Betrieb nutzen",
       answer:
-        "Neben der Sichtbarkeit in KI-Antworten geht es um die Arbeit im Betrieb: Entwürfe, Auswertungen und Routinen. Wer KI beruflich nutzt, muss Maßnahmen zur KI-Kompetenz im Team ergreifen.",
+        "Neben der Sichtbarkeit in KI-Antworten geht es um die Arbeit im Betrieb: Entwürfe, Auswertungen und Routinen. Unternehmen, die KI-Systeme einsetzen, müssen Maßnahmen ergreifen, um die KI-Kompetenz ihrer Mitarbeitenden zu fördern.",
       blocks: [
         {
           t: "ul",

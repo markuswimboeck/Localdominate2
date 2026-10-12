@@ -16,7 +16,7 @@ const article: V4Article = {
   takeaways: [
     "Mehr Rezensionen und positive Bewertungen können laut Google das lokale Ranking verbessern.",
     "Zahlungen, Rabatte oder kostenlose Leistungen für Rezensionen und das gezielte Fragen nur zufriedener Kunden verstoßen gegen Googles Richtlinien.",
-    "Löschen kann eine Rezension nur der Verfasser. Google entfernt nur Rezensionen, die gegen die Richtlinien verstoßen oder rechtswidrig sind.",
+    "Löschen kann eine Rezension nur der Verfasser. Google entfernt gemeldete Rezensionen, wenn sie gegen die Inhaltsrichtlinien verstoßen. Sachlich korrekte, aber negative Rezensionen werden nicht entfernt.",
     "Bei Erpressungsversuchen mit negativen Rezensionen zahlen Sie nicht und melden den Fall an Google.",
     "Bewertungssterne in den normalen Suchtreffern zeigt Google für selbst eingebundene Bewertungen über den eigenen Betrieb seit 2019 nicht mehr.",
   ],
@@ -43,7 +43,7 @@ const article: V4Article = {
       id: "kritik",
       title: "Mit Kritik umgehen",
       answer:
-        "Eine sachliche Antwort auf eine negative Rezension lesen vor allem künftige Kunden. Melden lohnt nur bei echten Richtlinienverstößen wie Spam, Hassrede oder Interessenkonflikten.",
+        "Eine sachliche Antwort auf eine negative Rezension ist für alle sichtbar, die das Profil ansehen. Melden lohnt nur bei echten Richtlinienverstößen wie Spam, Hassrede oder Interessenkonflikten.",
       blocks: [
         {
           t: "ul",
@@ -90,7 +90,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Darf ich Kunden für eine Bewertung einen Rabatt geben?",
-      a: "Nein. Google verbietet Zahlungen, Rabatte, kostenlose Produkte oder Leistungen als Gegenleistung für Rezensionen. Auch Gewinnspiele, bei denen eine Bewertung die Teilnahme ist, fallen darunter. Erlaubt ist die einfache Bitte ohne Gegenleistung.",
+      a: "Nein. Google verbietet Zahlungen, Rabatte, kostenlose Produkte oder Leistungen als Gegenleistung für Rezensionen. Ein Gewinnspiel mit Bewertung als Teilnahmebedingung ist ebenfalls eine Gegenleistung und sollte deshalb vermieden werden. Erlaubt ist die einfache Bitte ohne Gegenleistung.",
     },
     {
       q: "Darf ich nur zufriedene Kunden um eine Bewertung bitten?",
@@ -98,12 +98,13 @@ const article: V4Article = {
     },
     {
       q: "Kann ich eine negative Bewertung selbst löschen?",
-      a: "Nein. Löschen kann sie nur der Verfasser. Verstößt sie gegen Googles Richtlinien oder ist sie rechtswidrig, können Sie sie melden. Google entscheidet dann über die Entfernung.",
+      a: "Nein. Löschen kann sie nur der Verfasser. Verstößt sie gegen Googles Richtlinien, können Sie sie melden. Google entscheidet dann über die Entfernung. Sachlich korrekte, aber negative Rezensionen entfernt Google nicht.",
     },
   ],
   sources: [
     { title: "Verbotene und eingeschränkt zulässige Inhalte (Richtlinien für Rezensionen)", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
     { title: "Link oder QR-Code zum Anfordern von Rezensionen erstellen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/16816815?hl=de" },
+    { title: "Rezensionen und Bewertungen auf Google Maps hinzufügen, bearbeiten oder löschen", publisher: "Google Maps-Hilfe", url: "https://support.google.com/maps/answer/6230175?hl=de" },
     { title: "Unangemessene Rezensionen in Ihrem Unternehmensprofil melden", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/4596773?hl=de" },
     { title: "Erpressungsversuche mit negativen Rezensionen über das Unternehmensprofil melden", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/16404809?hl=de" },
     { title: "Making Review Rich Results more helpful (16. September 2019)", publisher: "Google Search Central Blog", url: "https://developers.google.com/search/blog/2019/09/making-review-rich-results-more-helpful" },

@@ -66,7 +66,7 @@ const article: V4Article = {
       id: "kontakt-und-ki",
       title: "Kontakt, Leistungsdaten und KI-Funktionen",
       answer:
-        "Seit dem Ende des Chats im Profil zählen andere Kontaktwege. Gleichzeitig nennt Google Profilangaben, Rezensionen und Ihre Website als Grundlage seiner KI-Funktionen.",
+        "Seit dem Ende des Chats im Profil zählen andere Kontaktwege. Außerdem fasst Google Rezensionen mit KI zusammen.",
       blocks: [
         {
           t: "ul",
@@ -124,7 +124,7 @@ const article: V4Article = {
     },
     {
       q: "Kann ich ein besseres Ranking im Profil kaufen?",
-      a: "Nein. Google schreibt, dass sich ein besseres lokales Ranking weder anfordern noch bezahlen lässt. Bezahlt werden nur Anzeigen, die getrennt vom Profil gebucht werden.",
+      a: "Nein. Google schreibt, dass sich ein besseres lokales Ranking weder anfordern noch bezahlen lässt. Anzeigen sind ein getrenntes Produkt.",
     },
     {
       q: "Darf ich Suchbegriffe in den Firmennamen schreiben?",
@@ -132,7 +132,7 @@ const article: V4Article = {
     },
     {
       q: "Womit fange ich an, wenn ich wenig Zeit habe?",
-      a: "Mit Bestätigung, Hauptkategorie und korrekten Stammdaten. Diese drei Punkte entscheiden darüber, ob das Profil überhaupt richtig erscheint. Fotos, Attribute und Beiträge folgen danach.",
+      a: "Mit Bestätigung, Hauptkategorie und korrekten Stammdaten. Diese drei Punkte erhöhen nach Googles Angaben die Chance, dass das Profil in der lokalen Suche erscheint. Fotos, Attribute und Beiträge folgen danach.",
     },
   ],
   sources: [

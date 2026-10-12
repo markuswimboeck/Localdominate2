@@ -12,7 +12,7 @@ const article: V4Article = {
   lead:
     "Für alle, die eine schnelle Antwort suchen. Die wichtigsten Fragen beantworten wir direkt auf dieser Seite. Ausführliche Antworten stehen in den Leitfäden und in den Fragensammlungen zu den einzelnen Themen.",
   answer:
-    "Local SEO sind alle Maßnahmen, mit denen ein Betrieb bei ortsbezogenen Suchen in Google Maps, im Kartenblock der Suche und in KI-Antworten erscheint. Google sortiert nach **Relevanz, Entfernung und Bekanntheit**, und ein besseres Ranking lässt sich laut Google nicht kaufen. Den größten Hebel haben ein vollständiges Unternehmensprofil, eine klare Website, einheitliche Firmendaten und echte Bewertungen.",
+    "Local SEO sind alle Maßnahmen, mit denen ein Betrieb bei ortsbezogenen Suchen in Google Maps, im Kartenblock der Suche und in KI-Antworten erscheint. Google sortiert nach **Relevanz, Entfernung und Bekanntheit**, und ein besseres Ranking lässt sich laut Google nicht kaufen. Wichtig sind ein vollständiges Unternehmensprofil, eine klare Website, einheitliche Firmendaten und echte Bewertungen.",
   takeaways: [
     "Die kurzen Antworten unten stammen aus unseren geprüften Leitfäden und verlinken jeweils dorthin.",
     "Für jedes große Thema gibt es eine eigene Übersicht mit allen Anleitungen.",
@@ -81,7 +81,7 @@ const article: V4Article = {
     },
     {
       q: "Mein Profil ist gesperrt. Was tun?",
-      a: "Zuerst den Verstoß beheben, dann im Einspruchstool von Google Einspruch einlegen und Nachweise hochladen. Legen Sie währenddessen kein neues Profil an. Mehr in [Profil gesperrt](/blog/gbp-suspendiert-reaktivieren).",
+      a: "Zuerst den Verstoß beheben, dann im Einspruchstool von Google Einspruch einlegen und Nachweise hochladen. Legen Sie, solange Ihr Einspruch geprüft wird, kein neues Profil an. Mehr in [Profil gesperrt](/blog/gbp-suspendiert-reaktivieren).",
     },
     {
       q: "Brauche ich für die KI-Suche eine eigene Optimierung?",
@@ -97,6 +97,8 @@ const article: V4Article = {
     { title: "Verbotene und eingeschränkt zulässige Inhalte (Richtlinien für Rezensionen)", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
     { title: "Einspruch gegen eingeschränkte oder gesperrte Profile", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/4569145?hl=de" },
     { title: "AI features and your website", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/ai-features" },
+    { title: "Unterschied zwischen Google-Suchergebnissen und Anzeigen", publisher: "Google Ads-Hilfe", url: "https://support.google.com/google-ads/answer/1722080?hl=de" },
+    { title: "Review snippet (Review, AggregateRating) structured data", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/review-snippet" },
     { title: "Making Review Rich Results more helpful (16. September 2019)", publisher: "Google Search Central Blog", url: "https://developers.google.com/search/blog/2019/09/making-review-rich-results-more-helpful" },
   ],
   related: [

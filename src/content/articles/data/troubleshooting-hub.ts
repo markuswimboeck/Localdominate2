@@ -14,11 +14,11 @@ const article: V4Article = {
   answer:
     "Bei Problemen mit dem Google-Unternehmensprofil lohnt der Blick auf drei Stellen: den Status des Profils, Angaben, die nicht zur Wirklichkeit passen, und Verstöße gegen Googles Richtlinien. Prüfen Sie deshalb zuerst den Status im Profil, beheben Sie dann falsche Angaben und legen Sie erst danach Einspruch ein. Zahlen Sie niemandem Geld für eine versprochene Reaktivierung.",
   takeaways: [
-    "Erscheint das Profil nicht einmal bei der Suche nach Name und Ort, liegt fast immer ein Statusproblem vor. Erscheint es dort, aber nicht bei allgemeinen Suchen, geht es um das Ranking.",
+    "Erscheint das Profil nicht einmal bei der Suche nach Name und Ort, liegt häufig ein Statusproblem vor. Erscheint es dort, aber nicht bei allgemeinen Suchen, geht es um das Ranking.",
     "Bei einer Sperrung beheben Sie zuerst den Verstoß und legen dann im Einspruchstool von Google Einspruch mit Nachweisen ein.",
     "Legen Sie während eines laufenden Einspruchs kein neues Profil an.",
-    "Scheitert die Bestätigung, passen meist Name, Schild oder Adresse nicht zum Profil.",
-    "Falsche Angaben in KI-Antworten korrigieren Sie an der Quelle, aus der der KI-Dienst sie hat.",
+    "Bei der Videobestätigung müssen Standort, Ausstattung und Ihre Berechtigung erkennbar sein. Passen die Profilangaben nicht dazu, kann sie scheitern.",
+    "Falsche Angaben in KI-Antworten korrigieren Sie zuerst dort, wo der KI-Dienst sie herhat: im Profil, auf der Website oder in Verzeichnissen.",
   ],
   publishedAt: "2026-03-09",
   updatedAt: "2026-10-12",
@@ -37,7 +37,7 @@ const article: V4Article = {
           rows: [
             ["Hinweis auf Sperrung oder Einschränkung im Profil", "Verstoß gegen die Richtlinien oder fehlende Nachweise", "[Profil gesperrt: Einspruch einlegen](/blog/gbp-suspendiert-reaktivieren)"],
             ["Bestätigung scheitert oder bricht ab", "Angaben passen nicht zu Schild, Standort oder Video", "[Profil lässt sich nicht bestätigen](/blog/gbp-verifizierung-fehlgeschlagen)"],
-            ["Profil erscheint nicht einmal bei der Suche nach dem Namen", "Status: nicht bestätigt, in Prüfung, gesperrt oder Duplikat", "[Profil nicht in der Suche sichtbar](/blog/gbp-nicht-in-suche-sichtbar)"],
+            ["Profil erscheint nicht einmal bei der Suche nach dem Namen", "Status: nicht bestätigt, in Prüfung oder gesperrt, oder ein doppelter Eintrag", "[Profil nicht in der Suche sichtbar](/blog/gbp-nicht-in-suche-sichtbar)"],
             ["Zwei Einträge für denselben Standort", "Altes Profil nach Umzug, Profil in fremdem oder altem Agenturkonto, getrennte Profile je Leistung", "[Doppelte Einträge entfernen](/blog/duplicate-listing-entfernen)"],
             ["Positionen in Maps sind plötzlich eingebrochen", "Statusänderung, eigene Änderungen, Wettbewerber oder Updates", "[Plötzlich nicht mehr in Google Maps](/blog/ranking-ploetzlich-verschwunden)"],
             ["Eine Rezension verstößt gegen die Richtlinien", "Spam, Beleidigung, Interessenkonflikt", "[Google-Bewertung löschen lassen](/blog/gbp-bewertung-loeschen-anleitung)"],
@@ -58,8 +58,8 @@ const article: V4Article = {
           t: "steps",
           items: [
             { title: "Problem bestätigen", text: "Suchen Sie nach Ihrem Namen und Ort und messen Sie die allgemeinen Suchen an mehreren Punkten im Einzugsgebiet. Wie das geht, beschreibt der [Google-Maps-Ranking-Tracker](/blog/google-maps-ranking-tracker)." },
-            { title: "Status im Profil prüfen", text: "Bestätigt, in Prüfung, eingeschränkt, gesperrt oder als Duplikat markiert. Der Status entscheidet, welche Anleitung passt." },
-            { title: "Eigene Änderungen prüfen", text: "Wurden kurz vorher Name, Adresse oder Kategorie geändert? Solche Änderungen prüft Google vorab, und danach kann eine erneute Bestätigung nötig werden." },
+            { title: "Status im Profil prüfen", text: "Bestätigt, in Prüfung, eingeschränkt oder gesperrt. Doppelte Einträge lösen Sie über den separaten Duplikat-Ablauf. Der Status entscheidet, welche Anleitung passt." },
+            { title: "Eigene Änderungen prüfen", text: "Wurden kurz vorher Name, Adresse oder Kategorie geändert? Google prüft Änderungen vor der Veröffentlichung. Nach einer Namensänderung kann, nach einem Umzug muss das Unternehmen erneut bestätigt werden." },
             { title: "Erst dann auf andere schauen", text: "Erst wenn Status und eigene Angaben stimmen, prüfen Sie Wettbewerber, Spam und bestätigte Google-Updates." },
           ],
         },
@@ -80,7 +80,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "[Local SEO Fehler](/blog/local-seo-fehler): warum ein Betrieb lokal nicht gefunden wird und was Sie stattdessen tun.",
-            "[Google-Maps-Audit](/blog/google-maps-audit-template): zweimal im Jahr das ganze Profil mit einer Vorlage durchgehen.",
+            "[Google-Maps-Audit](/blog/google-maps-audit-template): Wir empfehlen, zweimal im Jahr das ganze Profil mit einer Vorlage durchzugehen.",
             "Alle Anleitungen zum Profil: [Google-Unternehmensprofil im Überblick](/blog/google-business-profil-hub).",
           ],
         },
@@ -90,7 +90,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Soll ich ein neues Profil anlegen, wenn mein altes gesperrt ist?",
-      a: "Nein. Legen Sie während einer Sperrung kein neues Profil an. Beheben Sie den Verstoß und legen Sie im Einspruchstool von Google Einspruch ein.",
+      a: "Nein. Legen Sie, solange Ihr Einspruch geprüft wird, kein neues Profil an. Beheben Sie den Verstoß und legen Sie im Einspruchstool von Google Einspruch ein.",
     },
     {
       q: "Welche Nachweise verlangt Google bei einem Einspruch?",
@@ -106,6 +106,8 @@ const article: V4Article = {
     { title: "Unternehmen bei Google bestätigen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7107242?hl=de" },
     { title: "Probleme mit doppelten Profilen und Eigentumsrechten beheben", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/12756178?hl=de" },
     { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Unternehmensprofil bearbeiten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3039617?hl=de" },
+    { title: "Help protect your Google Business Profile", publisher: "Google Business Profile Help (EN)", url: "https://support.google.com/business/answer/14509283" },
     { title: "Änderungen an Chat und Anrufverlauf im Unternehmensprofil", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/14919056?hl=de" },
   ],
   related: [

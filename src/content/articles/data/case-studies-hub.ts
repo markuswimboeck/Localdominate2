@@ -17,7 +17,7 @@ const article: V4Article = {
     "Prüfen Sie bei jeder Fallstudie: Ausgangslage, Suchbegriffe, Messpunkte, Zeitraum, Änderungsprotokoll und Leistungsdaten.",
     "Positionen allein sagen wenig. Anrufe, Routen und Websiteklicks aus dem Unternehmensprofil zeigen, ob aus Sichtbarkeit Kontakte werden.",
     "Weil die Entfernung zum Suchenden zählt, messen Sie an mehreren Punkten im Einzugsgebiet.",
-    "Wir veröffentlichen Ergebnisse von Kunden nur, wenn wir sie belegen können.",
+    "Wir veröffentlichen Ergebnisse erst, wenn der Kunde zugestimmt hat und wir sie belegen können. Aktuell zeigen wir keine Kundenergebnisse.",
   ],
   publishedAt: "2026-03-09",
   updatedAt: "2026-10-12",
@@ -71,7 +71,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Unsere Projekte",
-          text: "Was wir selbst gebaut haben, steht auf der Seite [Work](/work). Jedes Projekt ist dort danach gekennzeichnet, was es ist: Kundenprojekt, Beratung, Plattformaufbau, Rolle oder Konzept.",
+          text: "Auf der Seite [Work](/work) (auf Englisch) stehen unsere Projekte, jeweils als Kundenprojekt, Plattformaufbau, Rolle oder Konzept gekennzeichnet. Ergebnisse zeigen wir dort noch nicht.",
         },
       ],
     },

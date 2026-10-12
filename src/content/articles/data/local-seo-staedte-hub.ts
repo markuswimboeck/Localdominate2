@@ -17,8 +17,8 @@ const article: V4Article = {
     "Google sortiert lokale Treffer nach Relevanz, Entfernung und Bekanntheit. Das gilt in allen drei Ländern.",
     "In Deutschland steht das Impressum seit Mai 2024 im Digitale-Dienste-Gesetz. In Österreich gilt das E-Commerce-Gesetz, in der Schweiz eigenes Recht.",
     "Neben Google zählen nationale Verzeichnisse, etwa Herold und WKO Firmen A-Z in Österreich oder local.ch und search.ch in der Schweiz.",
-    "In der Schweiz braucht eine mehrsprachige Website saubere hreflang-Angaben wie de-CH oder fr-CH.",
-    "Seiten, die sich nur im Ortsnamen unterscheiden, wertet Google als Brückenseiten. Nennen Sie Stadtteile nur mit echtem Bezug.",
+    "Bei einer mehrsprachigen Schweizer Website empfiehlt Google hreflang-Angaben wie de-CH oder fr-CH, damit die passende Sprachversion angezeigt wird.",
+    "Mehrere Seiten, die nur einzelne Orte ansteuern und Nutzer zum selben Ergebnis führen, nennt Google als Beispiel für Brückenseiten (Doorway-Missbrauch). Nennen Sie Stadtteile nur mit echtem Bezug.",
   ],
   publishedAt: "2026-03-05",
   updatedAt: "2026-10-12",
@@ -66,7 +66,7 @@ const article: V4Article = {
       id: "oesterreich-schweiz",
       title: "Städte in Österreich und der Schweiz",
       answer:
-        "Wien und Zürich haben dichte Märkte, in denen viele Anbieter derselben Branche auf engem Raum liegen. Schon der Nachbarbezirk oder ein anderes Quartier kann eine andere Liste zeigen.",
+        "In Städten wie Wien und Zürich können Anbieter derselben Branche nah beieinanderliegen. Schon der Nachbarbezirk oder ein anderes Quartier kann eine andere Liste zeigen.",
       blocks: [
         {
           t: "ul",
@@ -98,7 +98,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Brauche ich für jede Stadt in meinem Einzugsgebiet eine eigene Seite?",
-      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, wertet Google als Brückenseiten. Legen Sie eigene Seiten nur dort an, wo Sie einen Standort oder echten Bezug haben.",
+      a: "Nein, nicht ohne eigenen Inhalt je Ort. Mehrere Seiten, die nur einzelne Orte ansteuern und Nutzer zum selben Ergebnis führen, nennt Google als Beispiel für Brückenseiten. Legen Sie eigene Seiten nur dort an, wo Sie einen Standort oder echten Bezug haben.",
     },
     {
       q: "Warum sehe ich meinen Betrieb in einem Bezirk oben und im anderen nicht?",
@@ -110,10 +110,10 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
     { title: "Spam policies for Google web search (Doorway abuse)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies" },
-    { title: "Lokalisierte Versionen deiner Seiten für Google angeben (hreflang)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de" },
+    { title: "Lokalisierte Versionen deiner Seiten", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de" },
   ],
   related: [
     { slug: "local-seo-trends-deutschland", title: "Local SEO in Deutschland 2026" },

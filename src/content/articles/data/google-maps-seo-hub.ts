@@ -17,7 +17,7 @@ const article: V4Article = {
     "Die drei Faktoren nennt Google selbst: Relevanz, Entfernung und Bekanntheit. Die Entfernung können Sie nicht beeinflussen, die anderen beiden schon.",
     "Gemessen wird mit festen Suchbegriffen an mehreren Punkten im Einzugsgebiet, jeden Monat nach derselben Methode.",
     "Eine Konkurrenzanalyse liefert keine Formel, sondern Lücken: Stellen, an denen Ihr Profil schwächer ist als das der Betriebe vor Ihnen.",
-    "Spam wie Zusätze im Firmennamen oder Scheinadressen können Sie bei Google melden. Belege sammeln Sie vorher.",
+    "Spam wie Zusätze im Firmennamen oder Scheinadressen verstößt gegen Googles Richtlinien. Wenn Sie ihn melden, sammeln Sie vorher Belege.",
     "Apple Karten und Bing haben eigene Einträge: Apple Business und Bing Places for Business.",
   ],
   publishedAt: "2026-03-08",
@@ -78,7 +78,7 @@ const article: V4Article = {
       id: "spam-und-verluste",
       title: "Spam melden und Verluste aufklären",
       answer:
-        "Stehen Wettbewerber mit erfundenen Namen oder Scheinadressen vor Ihnen, können Sie das melden. Verschwindet Ihr eigener Eintrag, prüfen Sie zuerst den Profilstatus.",
+        "Stehen Wettbewerber mit erfundenen Namen oder Scheinadressen vor Ihnen, kann das ein Richtlinienverstoß sein, den Sie vor einer Meldung belegen sollten. Verschwindet Ihr eigener Eintrag, prüfen Sie zuerst den Profilstatus.",
       blocks: [
         {
           t: "ul",

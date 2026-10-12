@@ -15,7 +15,7 @@ const article: V4Article = {
     "Für Local SEO brauchen Sie wenige, aber feste Werkzeuge: ein Audit für die Bestandsaufnahme, einen Plan mit Reihenfolge, eine Liste Ihrer Suchbegriffe und Firmeneinträge, ein Protokoll für Positionen und Änderungen und eine monatliche Routine. Die wichtigsten Programme dafür sind kostenlos: das Google-Unternehmensprofil, die Google Search Console und PageSpeed Insights. Entscheidend ist, dass Sie jeden Monat nach derselben Methode arbeiten.",
   takeaways: [
     "Mit Google-Unternehmensprofil, Search Console und PageSpeed Insights haben Sie die wichtigsten Werkzeuge kostenlos.",
-    "Ein Audit prüft Profil, Website, Einträge, Bewertungen, Grundlagen für KI-Antworten und Messung. Mit der Checkliste dauert das etwa ein bis zwei Stunden.",
+    "Ein Audit prüft Profil, Website, Einträge, Bewertungen, Grundlagen für KI-Antworten und Messung. Je nach Größe des Betriebs planen Sie dafür einige Stunden ein.",
     "Der 12-Wochen-Plan legt das Fundament. Eine bestimmte Position nach zwölf Wochen kann niemand zusagen.",
     "Die Monatsroutine teilt die Pflege auf vier Wochen auf. Wichtiger als Vollständigkeit ist, dass sie jeden Monat stattfindet.",
   ],

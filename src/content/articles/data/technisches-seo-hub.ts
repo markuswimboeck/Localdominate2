@@ -18,7 +18,7 @@ const article: V4Article = {
     "LocalBusiness mit dem genauesten Untertyp reicht für die meisten Betriebe. FAQ- und Anleitungs-Snippets zeigt Google nicht mehr.",
     "Bewertungssterne für das eigene Unternehmen zeigt Google nicht an, auch nicht bei eingebundenen Google-Bewertungen.",
     "Für die KI-Funktionen der Google-Suche brauchen Sie laut Google kein besonderes Schema Markup.",
-    "Den eingestellten Test auf Optimierung für Mobilgeräte ersetzt die Prüfung am eigenen Gerät und in der Search Console.",
+    "Den eingestellten Test auf Optimierung für Mobilgeräte ersetzt die Prüfung am eigenen Gerät, zum Beispiel mit Lighthouse in Chrome. Auch den Mobile-Usability-Bericht der Search Console gibt es nicht mehr.",
   ],
   publishedAt: "2026-03-09",
   updatedAt: "2026-10-12",
@@ -59,7 +59,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Stand 2026",
-          text: "FAQ-Rich-Results zeigt Google seit dem 7. Mai 2026 nicht mehr an. FAQPage-Markup schadet nicht, bringt aber keine Darstellung in den Suchergebnissen mehr.",
+          text: "FAQ-Rich-Results zeigt Google seit dem 7. Mai 2026 nicht mehr an. Vorhandenes FAQPage-Markup müssen Sie nicht zwingend entfernen, für die Google-Suche bringt es aber keine Darstellung mehr.",
         },
       ],
     },
@@ -82,7 +82,7 @@ const article: V4Article = {
       id: "seitenstruktur",
       title: "Seitenstruktur: Leistungs- und Standortseiten",
       answer:
-        "Jede wichtige Leistung und jeder echte Standort bekommt eine eigene Seite mit eigenem Inhalt. Seiten, die sich nur im Ortsnamen unterscheiden, wertet Google als Brückenseiten, die gegen die Spamrichtlinien verstoßen.",
+        "Jede wichtige Leistung und jeder echte Standort bekommt eine eigene Seite mit eigenem Inhalt. Mehrere Seiten, die nur einzelne Orte ansteuern und Besucher zum selben Ergebnis führen, nennt Google als Beispiel für Brückenseiten, die gegen die Spamrichtlinien verstoßen.",
       blocks: [
         {
           t: "ul",
@@ -98,7 +98,7 @@ const article: V4Article = {
       id: "sprache-und-ki",
       title: "Sprachsuche und KI-Crawler",
       answer:
-        "Gesprochene Fragen werden aus denselben Daten beantwortet wie die normale Suche. Für KI-Antworten zählt technisch vor allem, dass die Crawler der Anbieter Ihre Seiten abrufen dürfen.",
+        "Sprachassistenten greifen je nach Anbieter auf unterschiedliche Quellen zu. Einheitliche, vollständige Firmendaten helfen deshalb überall. Für KI-Antworten zählt technisch vor allem, dass die Crawler der Anbieter Ihre Seiten abrufen dürfen.",
       blocks: [
         {
           t: "ul",
@@ -134,17 +134,18 @@ const article: V4Article = {
     },
     {
       q: "Lohnt sich FAQPage-Markup noch?",
-      a: "Für die Darstellung in der Google-Suche nicht mehr, weil Google FAQ-Rich-Results seit dem 7. Mai 2026 nicht mehr zeigt. Das Markup darf bleiben.",
+      a: "Für die Darstellung in der Google-Suche nicht mehr, weil Google FAQ-Rich-Results seit dem 7. Mai 2026 nicht mehr zeigt. Vorhandenes Markup müssen Sie nicht zwingend entfernen.",
     },
     {
       q: "Wie prüfe ich, ob meine Website mobil funktioniert?",
-      a: "Am eigenen Smartphone: Adresse, Öffnungszeiten, Anruf und Route müssen funktionieren. Dazu kommen die Berichte in der Search Console. Den früheren Test auf Optimierung für Mobilgeräte gibt es nicht mehr.",
+      a: "Am eigenen Smartphone: Adresse, Öffnungszeiten, Anruf und Route müssen funktionieren. Dazu können Sie Lighthouse in Chrome nutzen. Den früheren Test auf Optimierung für Mobilgeräte und den Mobile-Usability-Bericht der Search Console hat Google eingestellt.",
     },
   ],
   sources: [
     { title: "Strukturierte Daten für lokale Unternehmen (LocalBusiness)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/local-business?hl=de" },
     { title: "Updates zur Google-Suchdokumentation (FAQ-Rich-Results eingestellt, Mai 2026)", publisher: "Google Search Central", url: "https://developers.google.com/search/updates" },
     { title: "Making Review Rich Results more helpful (16. September 2019)", publisher: "Google Search Central Blog", url: "https://developers.google.com/search/blog/2019/09/making-review-rich-results-more-helpful" },
+    { title: "Review snippet (Review, AggregateRating) structured data", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/review-snippet" },
     { title: "AI features and your website", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/ai-features" },
     { title: "Spamrichtlinien für die Google-Websuche", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies?hl=de" },
   ],
