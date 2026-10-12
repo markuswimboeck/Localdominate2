@@ -1092,7 +1092,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 5373,
+  "words": 5457,
   "htmlLang": "de"
  },
  {
@@ -1452,7 +1452,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/ai-search-vs-traditional-search.jpg",
   "ogType": "article",
   "articlePublished": "2026-03-08",
-  "articleModified": "2026-10-10",
+  "articleModified": "2026-10-11",
   "h1": [
    "KI-Suche oder klassische Suche: Was lokale Betriebe anders machen sollten"
   ],
@@ -1480,7 +1480,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-03-08",
-  "ldDateModified": "2026-10-10",
+  "ldDateModified": "2026-10-11",
   "internalLinks": [
    "/",
    "/about",
@@ -1536,7 +1536,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2669,
+  "words": 2796,
   "htmlLang": "de"
  },
  {
@@ -7093,7 +7093,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2839,
+  "words": 2841,
   "htmlLang": "de"
  },
  {
@@ -7435,90 +7435,94 @@
    "/assets/local-seo-basel-HI4ME9t0.webp",
    "/logo.png"
   ],
-  "words": 828,
+  "words": 868,
   "htmlLang": "de"
  },
  {
   "path": "/blog/local-seo-berlin",
   "finalPath": "/blog/local-seo-berlin",
-  "title": "Local SEO Berlin | Hauptstadt-Guide 2026 | LocalDominate",
-  "description": "Local SEO speziell für Berlin. Kiez-Keywords, Bezirks-Strategien und lokale Sichtbarkeit in Deutschlands größter Stadt.",
+  "title": "Local SEO Berlin: gefunden werden in Bezirk und Kiez",
+  "description": "Local SEO für Betriebe in Berlin: wie die Entfernung in zwölf Bezirken wirkt, wie Sie Kieze ohne Brückenseiten nennen und Ihre Sichtbarkeit im Raster messen.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/local-seo-berlin",
   "hreflang": [],
-  "ogTitle": "Local SEO Berlin | Hauptstadt-Guide 2026 | LocalDominate",
+  "ogTitle": "Local SEO Berlin: gefunden werden in Bezirk und Kiez",
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-berlin.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-09",
-  "articleModified": "2026-01-09",
+  "articleModified": "2026-10-12",
   "h1": [
-   "Local SEO Berlin: Der Hauptstadt-Guide für Unternehmen"
+   "Local SEO in Berlin: sichtbar in den Bezirken und Kiezen, die Sie wirklich bedienen"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
-   "City",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
    "ListItem",
    "Organization",
    "Person",
-   "Place",
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-09",
-  "ldDateModified": "2026-01-09",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
+   "/ai",
+   "/ai-visibility-audit",
    "/anwalt-marketing",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
-   "/blog/google-maps-audit-template",
-   "/blog/local-seo-hamburg",
-   "/blog/local-seo-hannover",
-   "/blog/local-seo-koeln",
+   "/blog/gbp-oeffnungszeiten-sondertage",
+   "/blog/google-ai-overviews-local-seo",
+   "/blog/google-bewertungen-bekommen",
+   "/blog/google-maps-ranking-verbessern",
+   "/blog/google-my-business-optimieren",
+   "/blog/local-link-building",
+   "/blog/local-seo-keywords-finden",
    "/blog/local-seo-muenchen",
-   "/blog/local-seo-schweiz",
-   "/blog/local-seo-staedte-hub",
-   "/blog/local-seo-zuerich",
-   "/blog/lokale-suchmaschinenoptimierung-2026",
+   "/blog/lokale-landing-pages",
+   "/blog/nap-konsistenz-local-seo",
+   "/blog/ultimate-guide-local-seo",
+   "/creators",
    "/datenschutz",
+   "/de",
+   "/de/ki",
    "/handwerker-marketing",
    "/impressum",
+   "/industries",
+   "/insights",
    "/restaurant-marketing",
-   "/seo-lexikon"
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 2178,
+  "images": [],
+  "words": 2558,
   "htmlLang": "de"
  },
  {
@@ -8059,7 +8063,7 @@
    "/assets/local-seo-duesseldorf-oJ1hRCOf.webp",
    "/logo.png"
   ],
-  "words": 839,
+  "words": 879,
   "htmlLang": "de"
  },
  {
@@ -8482,83 +8486,89 @@
  {
   "path": "/blog/local-seo-frankfurt",
   "finalPath": "/blog/local-seo-frankfurt",
-  "title": "Local SEO Frankfurt | Finance-Hub Guide 2026 | LocalDominate",
-  "description": "Local SEO speziell für Frankfurt am Main. B2B-Keywords, Finanzdienstleister-Strategien und lokale Sichtbarkeit in der Mainmetropole.",
+  "title": "Local SEO Frankfurt: in Ihren Stadtteilen gefunden werden",
+  "description": "Local SEO für Betriebe in Frankfurt am Main: Stadtteile und Umland ehrlich abdecken, Messen und Feste einplanen, Kammern nutzen und die Sichtbarkeit messen.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/local-seo-frankfurt",
   "hreflang": [],
-  "ogTitle": "Local SEO Frankfurt | Finance-Hub Guide 2026 | LocalDominate",
+  "ogTitle": "Local SEO Frankfurt: in Ihren Stadtteilen gefunden werden",
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-frankfurt.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-21",
-  "articleModified": "2026-01-21",
+  "articleModified": "2026-10-12",
   "h1": [
-   "Local SEO Frankfurt: Finanzmetropole richtig nutzen"
+   "Local SEO in Frankfurt am Main: sichtbar in den Stadtteilen und Gemeinden, die Sie wirklich bedienen"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
-   "City",
    "ContactPoint",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
    "ListItem",
    "Organization",
    "Person",
-   "Place",
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-21",
-  "ldDateModified": "2026-01-21",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
+   "/ai",
+   "/ai-visibility-audit",
    "/anwalt-marketing",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
-   "/blog/google-maps-audit-template",
-   "/blog/local-seo-berlin",
-   "/blog/local-seo-hamburg",
-   "/blog/local-seo-hannover",
+   "/blog/ai-suche-lokale-unternehmen",
+   "/blog/gbp-mehrere-standorte",
+   "/blog/gbp-oeffnungszeiten-sondertage",
+   "/blog/google-bewertungen-bekommen",
+   "/blog/google-maps-ranking-verbessern",
+   "/blog/google-my-business-optimieren",
+   "/blog/local-link-building",
+   "/blog/local-seo-keywords-finden",
    "/blog/local-seo-muenchen",
-   "/blog/local-seo-schweiz",
-   "/blog/local-seo-staedte-hub",
-   "/blog/local-seo-zuerich",
-   "/blog/lokale-suchmaschinenoptimierung-2026",
+   "/blog/lokale-landing-pages",
+   "/blog/nap-konsistenz-local-seo",
+   "/blog/ultimate-guide-local-seo",
+   "/creators",
    "/datenschutz",
+   "/de",
+   "/de/ki",
    "/handwerker-marketing",
    "/impressum",
+   "/industries",
+   "/insights",
    "/restaurant-marketing",
-   "/seo-lexikon"
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 1635,
+  "images": [],
+  "words": 2553,
   "htmlLang": "de"
  },
  {
@@ -8731,7 +8741,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2960,
+  "words": 2962,
   "htmlLang": "de"
  },
  {
@@ -8906,85 +8916,88 @@
  {
   "path": "/blog/local-seo-hamburg",
   "finalPath": "/blog/local-seo-hamburg",
-  "title": "Local SEO Hamburg | Der Hansestadt-Guide 2026",
-  "description": "Local SEO speziell für Hamburg. Stadtteil-Keywords von Altona bis Winterhude, Hamburger Verzeichnisse und Strategien für die Elbmetropole.",
+  "title": "Local SEO Hamburg: sichtbar in Bezirk und Stadtteil",
+  "description": "Local SEO für Betriebe in Hamburg: wie Entfernung über Bezirke und Elbe wirkt, wie Sie Stadtteile ohne Brückenseiten nennen und Ihre Sichtbarkeit messen.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/local-seo-hamburg",
   "hreflang": [],
-  "ogTitle": "Local SEO Hamburg | Der Hansestadt-Guide 2026",
+  "ogTitle": "Local SEO Hamburg: sichtbar in Bezirk und Stadtteil",
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-hamburg.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-13",
-  "articleModified": "2026-01-13",
+  "articleModified": "2026-10-12",
   "h1": [
-   "Local SEO Hamburg: Der Hanseatische Marketing-Guide"
+   "Local SEO in Hamburg: gefunden werden in den Bezirken und Stadtteilen, die Sie bedienen"
   ],
-  "jsonLdBlocks": 9,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
-   "City",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
    "ListItem",
    "Organization",
    "Person",
-   "Place",
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-13",
-  "ldDateModified": "2026-01-13",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
+   "/ai",
+   "/ai-visibility-audit",
    "/anwalt-marketing",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
-   "/blog/google-maps-audit-template",
-   "/blog/local-seo-berlin",
-   "/blog/local-seo-frankfurt",
-   "/blog/local-seo-hannover",
-   "/blog/local-seo-koeln",
+   "/blog/gbp-mehrere-standorte",
+   "/blog/gbp-oeffnungszeiten-sondertage",
+   "/blog/google-bewertungen-bekommen",
+   "/blog/google-maps-ranking-verbessern",
+   "/blog/google-my-business-optimieren",
+   "/blog/local-link-building",
+   "/blog/local-seo-keywords-finden",
    "/blog/local-seo-muenchen",
-   "/blog/local-seo-schweiz",
-   "/blog/local-seo-staedte-hub",
-   "/blog/local-seo-zuerich",
-   "/blog/lokale-suchmaschinenoptimierung-2026",
+   "/blog/lokale-landing-pages",
+   "/blog/nap-konsistenz-local-seo",
+   "/blog/ultimate-guide-local-seo",
+   "/creators",
    "/datenschutz",
+   "/de",
+   "/de/ki",
    "/handwerker-marketing",
    "/impressum",
+   "/industries",
+   "/insights",
    "/restaurant-marketing",
-   "/seo-lexikon"
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 1938,
+  "images": [],
+  "words": 2431,
   "htmlLang": "de"
  },
  {
@@ -9154,7 +9167,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 945,
+  "words": 1008,
   "htmlLang": "de"
  },
  {
@@ -9713,7 +9726,7 @@
    "/assets/local-seo-koeln-B8BpMChg.webp",
    "/logo.png"
   ],
-  "words": 1753,
+  "words": 1793,
   "htmlLang": "de"
  },
  {
@@ -11038,7 +11051,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 594,
+  "words": 678,
   "htmlLang": "de"
  },
  {
@@ -11504,7 +11517,7 @@
    "/assets/local-seo-stuttgart-Dt5wUfRh.webp",
    "/logo.png"
   ],
-  "words": 893,
+  "words": 933,
   "htmlLang": "de"
  },
  {
@@ -11808,7 +11821,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-trends-deutschland.jpg",
   "ogType": "article",
   "articlePublished": "2026-03-08",
-  "articleModified": "2026-10-10",
+  "articleModified": "2026-10-11",
   "h1": [
    "Local SEO in Deutschland 2026: Was hierzulande anders ist"
   ],
@@ -11836,7 +11849,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-03-08",
-  "ldDateModified": "2026-10-10",
+  "ldDateModified": "2026-10-11",
   "internalLinks": [
    "/",
    "/about",
@@ -11893,7 +11906,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2826,
+  "words": 2869,
   "htmlLang": "de"
  },
  {
@@ -11988,7 +12001,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2472,
+  "words": 2474,
   "htmlLang": "de"
  },
  {
@@ -12003,7 +12016,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-trends-schweiz.jpg",
   "ogType": "article",
   "articlePublished": "2026-03-08",
-  "articleModified": "2026-10-10",
+  "articleModified": "2026-10-11",
   "h1": [
    "Local SEO in der Schweiz 2026: Was neu ist und was es für KMU bedeutet"
   ],
@@ -12031,7 +12044,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-03-08",
-  "ldDateModified": "2026-10-10",
+  "ldDateModified": "2026-10-11",
   "internalLinks": [
    "/",
    "/about",
@@ -12086,7 +12099,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2867,
+  "words": 2948,
   "htmlLang": "de"
  },
  {
@@ -12481,89 +12494,88 @@
  {
   "path": "/blog/local-seo-wien",
   "finalPath": "/blog/local-seo-wien",
-  "title": "Local SEO Wien | Österreich-Guide 2026 | LocalDominate",
-  "description": "Local SEO speziell für Wien und Österreich. Bezirks-Keywords, österreichische Verzeichnisse und Strategien für die Donaumetropole.",
+  "title": "Local SEO Wien: sichtbar in Ihrem Bezirk und Grätzl",
+  "description": "Local SEO in Wien: wie Sie in den 23 Bezirken ehrlich sichtbar werden, Bezirksseiten ohne Brückenseiten bauen, Herold und WK Wien nutzen und richtig messen.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/local-seo-wien",
   "hreflang": [],
-  "ogTitle": "Local SEO Wien | Österreich-Guide 2026 | LocalDominate",
+  "ogTitle": "Local SEO Wien: sichtbar in Ihrem Bezirk und Grätzl",
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-wien.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-06",
-  "articleModified": "2026-02-06",
+  "articleModified": "2026-10-12",
   "h1": [
-   "Local SEO Wien: Der Österreich-Guide für KMUs"
+   "Local SEO in Wien: gefunden werden in den Bezirken, die Sie bedienen"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
-   "City",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
    "ListItem",
    "Organization",
    "Person",
-   "Place",
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-06",
-  "ldDateModified": "2026-02-06",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
+   "/ai",
+   "/ai-visibility-audit",
    "/anwalt-marketing",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/arztpraxis-marketing",
    "/blog",
-   "/blog/google-maps-audit-template",
-   "/blog/local-seo-basel",
-   "/blog/local-seo-berlin",
-   "/blog/local-seo-duesseldorf",
-   "/blog/local-seo-hamburg",
-   "/blog/local-seo-hannover",
-   "/blog/local-seo-koeln",
+   "/blog/gbp-oeffnungszeiten-sondertage",
+   "/blog/google-bewertungen-bekommen",
+   "/blog/google-maps-ranking-verbessern",
+   "/blog/google-my-business-optimieren",
+   "/blog/local-link-building",
+   "/blog/local-seo-keywords-finden",
    "/blog/local-seo-muenchen",
-   "/blog/local-seo-schweiz",
-   "/blog/local-seo-staedte-hub",
-   "/blog/local-seo-stuttgart",
+   "/blog/local-seo-trends-oesterreich",
    "/blog/local-seo-zuerich",
-   "/blog/lokale-suchmaschinenoptimierung-2026",
+   "/blog/lokale-landing-pages",
+   "/blog/ultimate-guide-local-seo",
+   "/creators",
    "/datenschutz",
+   "/de",
+   "/de/ki",
    "/handwerker-marketing",
    "/impressum",
+   "/industries",
+   "/insights",
    "/restaurant-marketing",
-   "/seo-lexikon"
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/assets/local-seo-wien-C_U3hvp1.webp",
-   "/logo.png"
-  ],
-  "words": 1616,
+  "images": [],
+  "words": 2438,
   "htmlLang": "de"
  },
  {
@@ -13338,7 +13350,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/lokale-suchmaschinenoptimierung-2026.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-07",
-  "articleModified": "2026-10-10",
+  "articleModified": "2026-10-11",
   "h1": [
    "Lokale Suchmaschinenoptimierung 2026: Was sich geändert hat und was Sie jetzt tun sollten"
   ],
@@ -13366,7 +13378,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-07",
-  "ldDateModified": "2026-10-10",
+  "ldDateModified": "2026-10-11",
   "internalLinks": [
    "/",
    "/about",
@@ -13418,7 +13430,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2649,
+  "words": 2840,
   "htmlLang": "de"
  },
  {
@@ -13628,7 +13640,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2886,
+  "words": 2888,
   "htmlLang": "de"
  },
  {
@@ -15124,7 +15136,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2661,
+  "words": 2667,
   "htmlLang": "de"
  },
  {

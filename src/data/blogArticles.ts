@@ -1500,10 +1500,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-hamburg",
     de: {
-      title: "Local SEO Hamburg: Der Hanseatische Marketing-Guide",
-      metaTitle: "Local SEO Hamburg | Der Hansestadt-Guide 2026",
-      metaDescription: "Local SEO speziell für Hamburg. Stadtteil-Keywords von Altona bis Winterhude, Hamburger Verzeichnisse und Strategien für die Elbmetropole.",
-      excerpt: "Von der Reeperbahn bis zur Hafencity: So werden Sie in Hamburg gefunden.",
+      title: "Local SEO in Hamburg: gefunden werden in den Bezirken und Stadtteilen, die Sie bedienen",
+      metaTitle: "Local SEO Hamburg: sichtbar in Bezirk und Stadtteil",
+      metaDescription: "Local SEO für Betriebe in Hamburg: wie Entfernung über Bezirke und Elbe wirkt, wie Sie Stadtteile ohne Brückenseiten nennen und Ihre Sichtbarkeit messen.",
+      excerpt: "Local SEO für Betriebe in Hamburg: wie Entfernung über Bezirke und Elbe wirkt, wie Sie Stadtteile ohne Brückenseiten nennen und Ihre Sichtbarkeit messen.",
       category: "Regionen"
     },
     en: {
@@ -1513,9 +1513,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "From Reeperbahn to Hafencity: How to be found in Hamburg.",
       category: "Regions"
     },
-    readingTime: 16,
+    readingTime: 10,
     publishedAt: "2026-01-13",
-    updatedAt: "2026-01-13",
+    updatedAt: "2026-10-12",
     icon: "⚓",
     keywords: ["local seo hamburg", "seo hamburg", "marketing hamburg", "hamburger unternehmen"],
     featured: false
@@ -1523,10 +1523,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-frankfurt",
     de: {
-      title: "Local SEO Frankfurt: Finanzmetropole richtig nutzen",
-      metaTitle: "Local SEO Frankfurt | Finance-Hub Guide 2026",
-      metaDescription: "Local SEO speziell für Frankfurt am Main. B2B-Keywords, Finanzdienstleister-Strategien und lokale Sichtbarkeit in der Mainmetropole.",
-      excerpt: "So nutzen Sie das Potenzial der Finanzmetropole für Ihr Unternehmen.",
+      title: "Local SEO in Frankfurt am Main: sichtbar in den Stadtteilen und Gemeinden, die Sie wirklich bedienen",
+      metaTitle: "Local SEO Frankfurt: in Ihren Stadtteilen gefunden werden",
+      metaDescription: "Local SEO für Betriebe in Frankfurt am Main: Stadtteile und Umland ehrlich abdecken, Messen und Feste einplanen, Kammern nutzen und die Sichtbarkeit messen.",
+      excerpt: "Local SEO für Betriebe in Frankfurt am Main: Stadtteile und Umland ehrlich abdecken, Messen und Feste einplanen, Kammern nutzen und die Sichtbarkeit messen.",
       category: "Regionen"
     },
     en: {
@@ -1536,9 +1536,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How to leverage the potential of the financial metropolis for your business.",
       category: "Regions"
     },
-    readingTime: 15,
+    readingTime: 10,
     publishedAt: "2026-01-21",
-    updatedAt: "2026-01-21",
+    updatedAt: "2026-10-12",
     icon: "🏦",
     keywords: ["local seo frankfurt", "seo frankfurt", "marketing frankfurt", "frankfurter unternehmen"],
     featured: false
@@ -1569,10 +1569,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-wien",
     de: {
-      title: "Local SEO Wien: Der Österreich-Guide für KMUs",
-      metaTitle: "Local SEO Wien | Österreich-Guide 2026",
-      metaDescription: "Local SEO speziell für Wien und Österreich. Bezirks-Keywords, österreichische Verzeichnisse und Strategien für die Donaumetropole.",
-      excerpt: "Der komplette Guide für Wiener Unternehmen zur lokalen Sichtbarkeit.",
+      title: "Local SEO in Wien: gefunden werden in den Bezirken, die Sie bedienen",
+      metaTitle: "Local SEO Wien: sichtbar in Ihrem Bezirk und Grätzl",
+      metaDescription: "Local SEO in Wien: wie Sie in den 23 Bezirken ehrlich sichtbar werden, Bezirksseiten ohne Brückenseiten bauen, Herold und WK Wien nutzen und richtig messen.",
+      excerpt: "Local SEO in Wien: wie Sie in den 23 Bezirken ehrlich sichtbar werden, Bezirksseiten ohne Brückenseiten bauen, Herold und WK Wien nutzen und richtig messen.",
       category: "Regionen"
     },
     en: {
@@ -1582,9 +1582,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide for Viennese businesses for local visibility.",
       category: "Regions"
     },
-    readingTime: 17,
+    readingTime: 11,
     publishedAt: "2026-02-06",
-    updatedAt: "2026-02-06",
+    updatedAt: "2026-10-12",
     icon: "🇦🇹",
     keywords: ["local seo wien", "seo wien", "marketing wien", "österreich seo"],
     featured: false
@@ -2528,10 +2528,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-berlin",
     de: {
-      title: "Local SEO Berlin: Der Hauptstadt-Guide für Unternehmen",
-      metaTitle: "Local SEO Berlin | Hauptstadt-Guide 2026",
-      metaDescription: "Local SEO speziell für Berlin. Kiez-Keywords, Bezirks-Strategien und lokale Sichtbarkeit in Deutschlands größter Stadt.",
-      excerpt: "Von Mitte bis Neukölln: So werden Sie in ganz Berlin gefunden.",
+      title: "Local SEO in Berlin: sichtbar in den Bezirken und Kiezen, die Sie wirklich bedienen",
+      metaTitle: "Local SEO Berlin: gefunden werden in Bezirk und Kiez",
+      metaDescription: "Local SEO für Betriebe in Berlin: wie die Entfernung in zwölf Bezirken wirkt, wie Sie Kieze ohne Brückenseiten nennen und Ihre Sichtbarkeit im Raster messen.",
+      excerpt: "Local SEO für Betriebe in Berlin: wie die Entfernung in zwölf Bezirken wirkt, wie Sie Kieze ohne Brückenseiten nennen und Ihre Sichtbarkeit im Raster messen.",
       category: "Regionen"
     },
     en: {
@@ -2541,9 +2541,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "From Mitte to Neukölln: How to be found throughout Berlin.",
       category: "Regions"
     },
-    readingTime: 17,
+    readingTime: 11,
     publishedAt: "2026-01-09",
-    updatedAt: "2026-01-09",
+    updatedAt: "2026-10-12",
     icon: "🐻",
     keywords: ["local seo berlin", "seo berlin", "marketing berlin", "berliner unternehmen"],
     featured: true

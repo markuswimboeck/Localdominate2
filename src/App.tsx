@@ -67,12 +67,8 @@ const LokaleLandingPages = lazy(() => import("./pages/blog/LokaleLandingPages"))
 const LocalSeoTrackingKpis = lazy(() => import("./pages/blog/LocalSeoTrackingKpis"));
 const WhatsappBusinessLocalSeo2026 = lazy(() => import("./pages/blog/WhatsappBusinessLocalSeo2026"));
 
-const LocalSeoHamburg = lazy(() => import("./pages/blog/LocalSeoHamburg"));
-const LocalSeoFrankfurt = lazy(() => import("./pages/blog/LocalSeoFrankfurt"));
 const CoreWebVitalsLocalSeo = lazy(() => import("./pages/blog/CoreWebVitalsLocalSeo"));
-const LocalSeoBerlin = lazy(() => import("./pages/blog/LocalSeoBerlin"));
 const LocalSeoKoeln = lazy(() => import("./pages/blog/LocalSeoKoeln"));
-const LocalSeoWien = lazy(() => import("./pages/blog/LocalSeoWien"));
 const SeoToolbox = lazy(() => import("./pages/blog/SeoToolbox"));
 const LocalSeoStuttgart = lazy(() => import("./pages/blog/LocalSeoStuttgart"));
 const LocalSeoDuesseldorf = lazy(() => import("./pages/blog/LocalSeoDuesseldorf"));
@@ -251,12 +247,8 @@ const App = () => (
                 <Route path="/ueber-uns" element={<UeberUns />} />
                 <Route path="/seo-lexikon" element={<SeoLexikon />} />
                 <Route path="/blog" element={<Blog />} />
-                <Route path="/blog/local-seo-hamburg" element={<LocalSeoHamburg />} />
-                <Route path="/blog/local-seo-frankfurt" element={<LocalSeoFrankfurt />} />
                 <Route path="/blog/core-web-vitals-local-seo" element={<CoreWebVitalsLocalSeo />} />
-                <Route path="/blog/local-seo-berlin" element={<LocalSeoBerlin />} />
                 <Route path="/blog/local-seo-koeln" element={<LocalSeoKoeln />} />
-                <Route path="/blog/local-seo-wien" element={<LocalSeoWien />} />
                 <Route path="/blog/seo-toolbox-kostenlose-ressourcen" element={<SeoToolbox />} />
                 <Route path="/blog/local-seo-stuttgart" element={<LocalSeoStuttgart />} />
                 <Route path="/blog/local-seo-duesseldorf" element={<LocalSeoDuesseldorf />} />
