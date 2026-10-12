@@ -75,13 +75,11 @@ export const articleReviewDates: Record<string, ArticleReviewMeta> = {
   "local-seo-umzugsunternehmen": { lastReviewedAt: "2026-03-04", lastReviewedBy: EDITORIAL_TEAM, reviewCycle: "biannual" },
   "local-seo-reinigungsunternehmen": { lastReviewedAt: "2026-03-08", lastReviewedBy: EDITORIAL_TEAM, reviewCycle: "biannual" },
   "local-seo-sprachschule": { lastReviewedAt: "2026-03-08", lastReviewedBy: EDITORIAL_TEAM, reviewCycle: "biannual" },
-  "local-seo-baeckerei-konditorei": { lastReviewedAt: "2026-03-08", lastReviewedBy: EDITORIAL_TEAM, reviewCycle: "biannual" },
   "local-seo-cafe-coffeeshop": { lastReviewedAt: "2026-03-08", lastReviewedBy: EDITORIAL_TEAM, reviewCycle: "biannual" },
   "local-seo-zahnarzt": { lastReviewedAt: "2026-02-15", lastReviewedBy: YMYL_REVIEWER, reviewCycle: "monthly" },
   "local-seo-optiker": { lastReviewedAt: "2026-02-15", lastReviewedBy: EDITORIAL_TEAM, reviewCycle: "biannual" },
   "local-seo-elektrotechnik": { lastReviewedAt: "2026-02-18", lastReviewedBy: EDITORIAL_TEAM, reviewCycle: "biannual" },
   "local-seo-maler-lackierer": { lastReviewedAt: "2026-02-22", lastReviewedBy: EDITORIAL_TEAM, reviewCycle: "biannual" },
-  "local-seo-sanitaer-heizung": { lastReviewedAt: "2026-02-26", lastReviewedBy: EDITORIAL_TEAM, reviewCycle: "biannual" },
   "local-seo-baeckerei": { lastReviewedAt: "2026-02-16", lastReviewedBy: EDITORIAL_TEAM, reviewCycle: "biannual" },
   "local-seo-physiotherapie": { lastReviewedAt: "2026-02-08", lastReviewedBy: YMYL_REVIEWER, reviewCycle: "monthly" },
 
