@@ -60,7 +60,7 @@ Jede Apotheke bekommt ein Profil je Standort mit dem Namen, der auch am Apotheke
 
 Die Österreichische Apothekerkammer nennt in ihrer Broschüre zur Apothekenwerbung Begriffe wie „Wellness“ oder „Beauty“ im Firmennamen als unzulässig. Auch deshalb sollte der Profilname exakt dem eingetragenen Namen entsprechen. Wie Sie die Kategorieliste durchsuchen und Mitbewerber vergleichen, zeigt der [Leitfaden zu Google-Kategorien](https://localdominate.org/blog/google-business-kategorien-guide).
 
-> **Einschätzung:** Nach unserer Beobachtung zeigt Google Maps bei öffentlichen Apotheken in Deutschland und Österreich in der Regel die Kategorie „Apotheke“ an. Googles Hilfe zu Kategorien enthält keine Gesamtliste, sondern beschreibt die Auswahl im Profil. Prüfen Sie deshalb im Profil selbst, welche Einträge angeboten werden, und vergleichen Sie mit Apotheken in Ihrer Umgebung.
+> **Einschätzung:** Nach unserer Beobachtung zeigt Google Maps bei öffentlichen Apotheken in Deutschland und Österreich in der Regel die Kategorie „Apotheke“ an. Googles Hilfe zu Kategorien verweist auf die im Profil angebotene Liste und führt sie nicht einzeln auf. Prüfen Sie deshalb im Profil selbst, welche Einträge angeboten werden, und vergleichen Sie mit Apotheken in Ihrer Umgebung.
 
 ## Notdienst: wie er veröffentlicht wird und was Sie zeigen
 
