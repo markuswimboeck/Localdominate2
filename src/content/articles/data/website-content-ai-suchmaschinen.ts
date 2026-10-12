@@ -11,7 +11,7 @@ const article: V4Article = {
   lead:
     "Für Inhaber von Handwerksbetrieben, Praxen, Restaurants, Hotels und Dienstleistern, die ihre Website so aufbauen wollen, dass Google, ChatGPT und andere KI-Dienste sie korrekt zusammenfassen. Sie erfahren, was die Anbieter selbst empfehlen, welche Seiten ein lokaler Betrieb braucht und woran Sie eine gute Seite erkennen.",
   answer:
-    "Google sagt, dass Sie für KI-Funktionen nicht anders schreiben müssen als für Menschen. Was hilft, ist Sorgfalt: Die Antwort steht im ersten Satz, wichtige Fakten stehen als Text auf der Seite, jede Kundenfrage hat ihren Platz und die Angaben sind eigene Erfahrung statt Allgemeinwissen. Eine Nennung in KI-Antworten garantiert keiner der Anbieter.",
+    "Google sagt, dass Sie für KI-Funktionen nicht anders schreiben müssen als für Menschen. Sinnvoll ist Sorgfalt: Die Antwort steht im ersten Satz, wichtige Fakten stehen als Text auf der Seite und jede Kundenfrage hat ihren Platz. Google rät zu Inhalten aus eigener Erfahrung, die über Allgemeinwissen hinausgehen. Eine Nennung in KI-Antworten garantiert keiner der Anbieter.",
   takeaways: [
     "Google nennt für die Übersicht mit KI und den KI-Modus keine zusätzlichen Anforderungen. Kein besonderer Schreibstil, keine Aufteilung in kleine Stücke, kein spezielles Markup.",
     "Wichtige Inhalte gehören laut Google als Text auf die Seite. Microsoft rät, entscheidende Angaben nicht nur in PDFs oder Bildern zu zeigen.",
@@ -20,7 +20,7 @@ const article: V4Article = {
     "Texte mit KI-Hilfe sind erlaubt, wenn Sie jede Angabe prüfen. Massenhaft erzeugte Seiten ohne Mehrwert sind es nicht.",
   ],
   publishedAt: "2026-03-05",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 12,
   sections: [
     {
@@ -93,7 +93,7 @@ const article: V4Article = {
             "**Listen, Schritte und Tabellen** zerlegen komplexe Angaben in gut verwendbare Teile.",
             "**Sätze, die allein stehen.** Eine Aussage soll auch ohne den Absatz davor verständlich sein.",
             "**Genauigkeit.** Wörter wie „innovativ“ oder „öko“ sagen ohne Einzelheiten wenig.",
-            "**Kein verstecktes Wissen.** Entscheidende Angaben nicht nur in PDFs oder Bildern; versteckte Inhalte werden von KI-Systemen möglicherweise nicht gelesen.",
+            "**Kein verstecktes Wissen.** Wichtige Antworten nicht in Reitern oder aufklappbaren Menüs verstecken, denn KI-Systeme stellen versteckte Inhalte laut Microsoft möglicherweise nicht dar. Kerninformationen nicht nur in Bildern zeigen und sich bei ihnen nicht auf PDFs verlassen.",
           ],
         },
         {
@@ -232,7 +232,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Texte mit KI-Hilfe zu schreiben ist nach Googles Leitlinien erlaubt. Google verlangt aber, alle KI-erzeugten Inhalte vor der Veröffentlichung von Hand auf Fakten zu prüfen, auch Titel und Beschreibung. Viele Seiten mit generativer KI ohne Mehrwert zu erzeugen, kann gegen die Richtlinie zu massenhaft erstellten Inhalten verstoßen. Welche Werkzeuge sich im Alltag eignen, steht in [KI-Tools für Local SEO](/blog/ki-tools-local-seo).",
+          text: "Texte mit KI-Hilfe zu schreiben ist nach Googles Leitlinien erlaubt. Google nennt es aber entscheidend, alle KI-erzeugten Inhalte vor der Veröffentlichung von Hand auf Richtigkeit zu prüfen, auch Metadaten wie Titel und Beschreibung. Viele Seiten mit generativer KI ohne Mehrwert zu erzeugen, kann gegen die Richtlinie zu massenhaft erstellten Inhalten verstoßen. Welche Werkzeuge sich im Alltag eignen, steht in [KI-Tools für Local SEO](/blog/ki-tools-local-seo).",
         },
         {
           t: "note",
@@ -304,11 +304,11 @@ const article: V4Article = {
     },
     {
       q: "Darf ich Website-Texte mit ChatGPT oder anderen KI-Werkzeugen schreiben?",
-      a: "Ja, Google erlaubt das. Sie müssen aber jede Angabe vor der Veröffentlichung prüfen. Viele Seiten mit KI zu erzeugen, die Nutzern nichts bieten, kann gegen Googles Spam-Richtlinien verstoßen.",
+      a: "Ja, Google erlaubt das. Google nennt es aber entscheidend, jede Angabe vor der Veröffentlichung von Hand zu prüfen. Viele Seiten mit KI zu erzeugen, die Nutzern nichts bieten, kann gegen Googles Spam-Richtlinien verstoßen.",
     },
     {
       q: "Kann ich garantieren, dass meine Seite in KI-Antworten genannt wird?",
-      a: "Nein. Google, Microsoft und OpenAI sagen übereinstimmend, dass weder Anzeige noch Platzierung garantiert sind. Gute Inhalte erhöhen nach unserer Einschätzung die Chance, korrekt wiedergegeben zu werden, mehr nicht.",
+      a: "Nein. Google schreibt, dass Indexierung und Anzeige nicht garantiert sind, Microsoft, dass nichts die Auswahl garantiert, und OpenAI, dass die Platzierung nicht garantiert ist. Gute Inhalte erhöhen nach unserer Einschätzung die Chance, korrekt wiedergegeben zu werden, mehr nicht.",
     },
   ],
   sources: [

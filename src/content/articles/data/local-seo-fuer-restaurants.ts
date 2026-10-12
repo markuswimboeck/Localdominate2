@@ -283,7 +283,7 @@ const article: V4Article = {
       id: "ki-assistenten",
       title: "Wenn KI-Assistenten Restaurants empfehlen",
       answer:
-        "Viele Menschen fragen ChatGPT, Gemini oder die KI-Übersichten in der Google-Suche nach einem Restaurant, und diese Systeme stützen sich auf dieselben Quellen wie Gäste: Profil, Speisekarte, Rezensionen, Website und Plattformen. Eindeutige und überall gleiche Angaben erhöhen die Chance, richtig genannt zu werden.",
+        "Viele Menschen fragen ChatGPT, Gemini oder die Übersichten mit KI in der Google-Suche nach einem Restaurant, und diese Systeme stützen sich auf dieselben Quellen wie Gäste: Profil, Speisekarte, Rezensionen, Website und Plattformen. Eindeutige und überall gleiche Angaben erhöhen die Chance, richtig genannt zu werden.",
       blocks: [
         {
           t: "p",

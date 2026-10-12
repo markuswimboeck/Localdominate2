@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/ai-search-optimization-2026
 markdown_url: https://localdominate.org/blog-md/ai-search-optimization-2026.md
 language: de-DE
 published: 2026-02-16
-updated: 2026-10-11
+updated: 2026-10-12
 reading_time_minutes: 12
 category: "KI-Suche"
 author: LocalDominate Redaktion
@@ -21,14 +21,14 @@ Ein Lagebericht für Inhaber lokaler Betriebe in Deutschland, Österreich und de
 
 ## Die kurze Antwort
 
-Zwischen Oktober 2025 und Oktober 2026 startete der KI-Modus in Deutschland, Österreich und der Schweiz, Google veröffentlichte einen Leitfaden für KI-Funktionen und eigene Messdaten in der Search Console, und OpenAI kündigte Anzeigen in ChatGPT auch für Deutschland und Österreich an. Viele neue Funktionen, etwa Buchen im KI-Modus oder Ask Maps, gibt es in DACH noch nicht. Die Grundlagen der lokalen Suche bleiben gültig.
+Zwischen Oktober 2025 und Oktober 2026 startete der KI-Modus in Deutschland, Österreich und der Schweiz, Google veröffentlichte einen Leitfaden für KI-Funktionen und eigene Messdaten in der Search Console, und OpenAI kündigte Anzeigen in ChatGPT auch für Deutschland und Österreich an. Viele neue Funktionen, etwa Buchen im KI-Modus oder Ask Maps, nennt Google für DACH noch nicht. Die Grundlagen der lokalen Suche bleiben gültig.
 
 ## Das Wichtigste in Kürze
 
-- Der KI-Modus ist seit dem 8. Oktober 2025 in Deutschland, Österreich und der Schweiz verfügbar. Restaurantbuchungen darin gibt es laut Google bisher nur in den USA und in Großbritannien.
+- Der KI-Modus ist seit dem 8. Oktober 2025 in Deutschland, Österreich und der Schweiz verfügbar. Restaurantbuchungen darin nennt Google bisher für die USA und Großbritannien.
 - Google sagt seit Mai 2026 ausdrücklich: Für Übersichten mit KI und den KI-Modus braucht es keine besonderen Dateien und kein spezielles Markup. Seit Juni 2026 steht dort auch, dass die Google-Suche llms.txt ignoriert.
 - Seit dem 31. August 2026 zeigt die Search Console allen Websites Impressionen in Übersichten mit KI und im KI-Modus.
-- Die alte Funktion für Fragen und Antworten baut Google weitgehend ab, die Schnittstelle ist seit November 2025 abgeschaltet. Ask Maps und die Profilverwaltung mit Gemini gibt es in Deutschland nicht.
+- Die alte Funktion für Fragen und Antworten baut Google weitgehend ab, die Schnittstelle ist seit November 2025 abgeschaltet. Ask Maps nennt Google für Deutschland bisher nicht, die Profilverwaltung mit Gemini ist im Europäischen Wirtschaftsraum nicht verfügbar.
 - Kein Anbieter garantiert eine Platzierung in KI-Antworten, und keiner hat Rangfaktoren dafür veröffentlicht.
 
 ## Das Jahr in Kürze
@@ -43,7 +43,7 @@ Das Jahr brachte neue KI-Funktionen für Suchende, klarere Regeln der Anbieter f
 | Regeln von Google | Seite „AI features and your website“ | Zusätzlich ein Leitfaden vom Mai 2026 zu llms.txt, Markup und GEO |
 | Messung | Keine eigenen KI-Berichte | KI-Bericht in der Search Console, „AI Performance“ in Bing |
 | Unternehmensprofil | Fragen und Antworten noch vorhanden | Schnittstelle abgeschaltet, Antworten in Maps automatisch |
-| ChatGPT | Suche ohne Anzeigen | Anzeigen laut OpenAI seit Ende August 2026 in 31 europäischen Märkten; Reservierungen über OpenTable weltweit |
+| ChatGPT | Suche ohne Anzeigen | Anzeigen am 18. August 2026 für 31 europäische Märkte angekündigt; Reservierungen über OpenTable weltweit |
 
 Diese Seite ist ein Lagebericht mit Datum. Was Sie in den einzelnen Diensten konkret tun, steht in den verlinkten Fachartikeln. Den praktischen Gesamtüberblick gibt [KI-Suche für lokale Unternehmen](https://localdominate.org/blog/ai-suche-lokale-unternehmen), die Änderungen der lokalen Suche ohne KI-Schwerpunkt fasst [Lokale Suchmaschinenoptimierung 2026](https://localdominate.org/blog/lokale-suchmaschinenoptimierung-2026) zusammen.
 
@@ -58,7 +58,7 @@ Die Tabelle nennt jede Änderung mit Datum und dem Gebiet, für das der Anbieter
 | 3. Okt. 2025 | Bing Places zieht nach bing.com/forbusiness um | Keine Länderliste |
 | 8. Okt. 2025 | KI-Modus startet in mehr als 40 weiteren Ländern | Deutschland, Österreich, Schweiz |
 | 3. Nov. 2025 | Schnittstelle für Fragen und Antworten im Unternehmensprofil abgeschaltet | Allgemein |
-| 18. Nov. 2025 | Restaurantreservierungen im KI-Modus für alle Nutzer, Tickets und Termine im Test über Search Labs | Nur USA |
+| 17. Nov. 2025 | Restaurantreservierungen im KI-Modus ohne Anmeldung bei Search Labs, Tickets und Termine im Test über Search Labs | Nur USA |
 | 19. Nov. 2025 | Google Maps zeigt Tipps, die Gemini aus Rezensionen erstellt | Zuerst USA; laut Fachpresse 2026 auch Deutschland und Österreich |
 | 9. Dez. 2025 | EU-Kommission eröffnet Kartellverfahren zu Inhalten in Übersicht mit KI und KI-Modus | EU |
 | 9. Feb. 2026 | OpenAI testet Anzeigen in ChatGPT | USA |
@@ -98,11 +98,11 @@ Seit dem 31. August 2026 zeigt die Search Console allen Websites, wie oft Links 
 
 | Bericht | Seit | Was er zeigt | Grenzen |
 | --- | --- | --- | --- |
-| Search Console, Bericht für generative KI | Juni 2026 für einen Teil der Websites (laut Fachpresse), 31. August 2026 für alle | Impressionen in Übersichten mit KI und KI-Modus nach Seite, Land, Datum, Gerät | Laut Hilfe keine Klicks, keine Daten aus Search Labs |
+| Search Console, Bericht für generative KI | Juni 2026 für einen Teil der Websites (laut Fachpresse), 31. August 2026 für alle | Impressionen in Übersichten mit KI und KI-Modus nach Seite, Land, Datum, Gerät | Die Hilfe beschreibt nur Impressionen, keine Klicks; keine Daten aus Search Labs |
 | Search Console, Einstellung „Search generative AI“ | 31. August 2026 | Ausschluss der Website aus KI-Funktionen innerhalb von ein bis zwei Tagen | Kein Einfluss auf KI-Training, kein Rankingsignal für die übrige Suche |
 | Bing Webmaster Tools, AI Performance | 10. Februar 2026, öffentliche Vorschau | Zitate in Copilot und KI-Zusammenfassungen in Bing; Suchanfragen als Stichprobe | Laut Microsoft keine Aussage über Ranking oder Autorität |
 
-Für ChatGPT gibt es keinen solchen Bericht; Besuche erkennen Sie am Parameter utm_source=chatgpt.com in der Web-Analyse. Wie Sie die Berichte mit eigenen Stichproben verbinden, zeigt [KI-Zitate überwachen](https://localdominate.org/blog/ai-zitat-monitoring-local-seo-2026).
+Klicks aus KI-Funktionen weist Google laut Dokumentation im Leistungsbericht unter dem Suchtyp „Web“ aus, nicht gesondert. Für ChatGPT gibt es keinen solchen Bericht; Besuche erkennen Sie am Parameter utm_source=chatgpt.com in der Web-Analyse. Wie Sie die Berichte mit eigenen Stichproben verbinden, zeigt [KI-Zitate überwachen](https://localdominate.org/blog/ai-zitat-monitoring-local-seo-2026).
 
 > **Einschätzung:** Den Ausschluss aus den KI-Funktionen halten wir für lokale Betriebe selten für sinnvoll, weil Wettbewerber weiter genannt werden können. Kleine Websites sehen im Bericht oft nichts: Laut Google fehlt er meist, wenn eine Website zu wenige Impressionen in KI-Funktionen hat.
 
@@ -128,7 +128,7 @@ Laut OpenAI kann ChatGPT seit dem 10. August 2026 freie Tische suchen: mit OpenT
 
 Anzeigen testet OpenAI seit dem 9. Februar 2026 in den USA, in Großbritannien führt OpenAI sie seit Juni 2026 ein. Am 18. August 2026 kündigte OpenAI sie für 31 europäische Märkte an, darunter Deutschland und Österreich. Die Ankündigung nennt nur neun der 31 Märkte namentlich, die Schweiz ist nicht darunter. Anzeigen sehen nur Nutzer der Tarife Free und Go, sie sind als gesponsert gekennzeichnet und beeinflussen laut OpenAI die Antworten nicht. Personalisierte Anzeigen gibt es im EWR und in der Schweiz zunächst nicht.
 
-Bing Places läuft seit dem 3. Oktober 2025 unter bing.com/forbusiness, mit verbessertem Import aus Google; Einzelheiten in [Bing, Copilot und Local SEO](https://localdominate.org/blog/bing-copilot-local-seo-2026). In der Ankündigung von „AI Performance“ betont Microsoft, dass korrekte Firmendaten bei ortsbezogenen KI-Antworten besonders wichtig sind. Laut Search Engine Journal nennen Bings Richtlinien seit Februar 2026 GEO ausdrücklich und halten fest, dass GEO keine Zitate garantiert. Apple hat Apple Business Connect am 14. April 2026 durch Apple Business ersetzt, bestehende Daten wurden übernommen.
+Bing Places läuft seit dem 3. Oktober 2025 unter bing.com/forbusiness, mit verbessertem Import aus Google; Einzelheiten in [Bing, Copilot und Local SEO](https://localdominate.org/blog/bing-copilot-local-seo-2026). In der Ankündigung von „AI Performance“ betont Microsoft, dass korrekte Firmendaten bei ortsbezogenen KI-Antworten besonders wichtig sind. Laut Search Engine Journal nennen Bings Richtlinien seit Februar 2026 GEO ausdrücklich und halten fest, dass GEO keine Zitate garantiert. Apple hat Apple Business Connect am 14. April 2026 durch Apple Business ersetzt; bestehende Daten werden laut Ankündigung automatisch übernommen.
 
 ## Crawler, Hoster und Regulierung
 
@@ -140,18 +140,18 @@ Die EU-Kommission prüft seit dem 9. Dezember 2025, ob Google Inhalte von Websit
 
 ## Was in DACH nicht angekommen ist
 
-Buchen im KI-Modus, Ask Maps, die Profilverwaltung mit Gemini und Anzeigen innerhalb der Übersicht mit KI gibt es in Deutschland bisher nicht. Ebenfalls nicht passiert: Kein Anbieter hat Rangfaktoren für KI-Antworten veröffentlicht oder eine Platzierung zugesagt.
+Buchen im KI-Modus, Ask Maps und Anzeigen innerhalb der Übersicht mit KI nennt Google für Deutschland bisher nicht, die Profilverwaltung mit Gemini ist im Europäischen Wirtschaftsraum nicht verfügbar. Ebenfalls nicht passiert: Kein Anbieter hat Rangfaktoren für KI-Antworten veröffentlicht oder eine Platzierung zugesagt.
 
 *Verbreitete Erwartungen und der Stand am 11. Oktober 2026*
 
 | Erwartung | Stand laut Quellen |
 | --- | --- |
 | „Der KI-Modus bucht bald Tische in Deutschland“ | Restaurantbuchung gibt es laut Google in den USA und in Großbritannien. Für DACH haben wir keine Ankündigung gefunden. |
-| „Ask Maps kommt 2026 nach Deutschland“ | Im August 2026 nicht unter den neuen Ländern; ein Datum für die EU gibt es nicht. |
+| „Ask Maps kommt 2026 nach Deutschland“ | Im August 2026 nicht unter den sechs genannten neuen Ländern; Deutschland wird laut onlinemarketing.de nicht aufgeführt. Ein Datum für die EU haben wir nicht gefunden. |
 | „Google zeigt Anzeigen in der Übersicht mit KI“ | Laut Google-Ads-Hilfe nur auf Englisch in zwölf Ländern, nicht in DACH. |
 | „Mit llms.txt kommt man in die KI-Suche“ | Die Google-Suche ignoriert llms.txt laut Google ausdrücklich. |
 | „Für KI braucht man spezielles Schema“ | Laut Google gibt es kein besonderes Markup für KI-Funktionen. |
-| „Platzierung in KI-Antworten lässt sich kaufen“ | Google, Microsoft und OpenAI garantieren keine Platzierung. ChatGPT-Anzeigen sind getrennt gekennzeichnet. |
+| „Platzierung in KI-Antworten lässt sich kaufen“ | Google schreibt, Indexierung und Anzeige seien nicht garantiert, Microsoft, nichts garantiere die Auswahl, OpenAI, die Platzierung sei nicht garantiert. ChatGPT-Anzeigen sind getrennt gekennzeichnet. |
 
 > **Korrektur zur früheren Fassung:** Eine frühere Version dieses Artikels nannte ohne Quelle Anteile von Suchen mit Übersicht mit KI und Klickverluste und empfahl FAQ- und HowTo-Markup sowie llms.txt. Diese Angaben haben wir gestrichen. Belegte Zahlen zu Klicks aus KI-Antworten für DACH haben wir nicht gefunden.
 
@@ -179,7 +179,7 @@ Für Google nicht. Laut Googles Leitfaden sind keine besonderen Dateien oder Mar
 
 ### Kann ich sehen, wie oft meine Website in KI-Antworten erscheint?
 
-Teilweise. Die Search Console zeigt seit dem 31. August 2026 allen Websites Impressionen in Übersichten mit KI und im KI-Modus, aber keine Klicks. Bing Webmaster Tools zeigen Zitate in Copilot, für ChatGPT bleibt der Parameter utm_source=chatgpt.com.
+Teilweise. Die Search Console zeigt seit dem 31. August 2026 allen Websites Impressionen in Übersichten mit KI und im KI-Modus; zu Klicks sagt die Hilfe dieses Berichts nichts, sie zählen laut Google im Leistungsbericht unter dem Suchtyp „Web“. Bing Webmaster Tools zeigen Zitate in Copilot, für ChatGPT bleibt der Parameter utm_source=chatgpt.com.
 
 ### Gibt es Anzeigen in ChatGPT auch in Deutschland?
 
@@ -196,10 +196,12 @@ Für Deutschland, Österreich und die Schweiz haben wir bis zum 11. Oktober 2026
 - [Übersicht mit KI: Verfügbarkeit](https://support.google.com/websearch/answer/14901683?hl=en), Google Suche Hilfe
 - [Updates zur Google-Suchdokumentation (Oktober 2025 bis Oktober 2026)](https://developers.google.com/search/updates), Google Search Central
 - [Google’s Guide to Optimizing for Generative AI Features on Google Search (Stand 10. Juli 2026)](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide), Google Search Central
+- [AI features and your website (Stand 10. Dezember 2025)](https://developers.google.com/search/docs/appearance/ai-features), Google Search Central
 - [Preferred sources (Stand 18. September 2026)](https://developers.google.com/search/docs/appearance/preferred-sources), Google Search Central
 - [Search generative AI control](https://support.google.com/webmasters/answer/16908024?hl=en), Search Console Hilfe
 - [Generative AI performance report (Search)](https://support.google.com/webmasters/answer/16984139), Search Console Hilfe
 - [Google finally gives Search Console its own generative AI visibility reports (3. Juni 2026)](https://ppc.land/google-finally-gives-search-console-its-own-generative-ai-visibility-reports/), PPC Land
+- [Agentic booking, travel planning and canvas in AI Mode (17. November 2025)](https://blog.google/products-and-platforms/products/search/agentic-plans-booking-travel-canvas-ai-mode/), Google Blog
 - [Booking restaurants in the UK just got easier with AI in Search (10. April 2026)](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/ai-mode-restaurants-uk/), Google Blog UK
 - [Google KI-Modus startet Buchungsfunktion (5. November 2025)](https://www.tageskarte.io/technologie/detail/google-ki-modus-startet-buchungsfunktion.html), Tageskarte
 - [Ads in AI Overviews](https://support.google.com/google-ads/answer/16297775?hl=en), Google Ads Hilfe
@@ -228,4 +230,4 @@ Für Deutschland, Österreich und die Schweiz haben wir bis zum 11. Oktober 2026
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
