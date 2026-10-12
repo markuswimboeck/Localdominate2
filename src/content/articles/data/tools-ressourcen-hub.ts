@@ -51,7 +51,6 @@ const article: V4Article = {
           items: [
             "[Local-SEO-Strategie planen](/blog/local-seo-strategy-planner): ein Plan, der zu Ihrem Betrieb passt.",
             "[Local SEO in 12 Wochen](/blog/local-seo-roadmap-90-tage): der Wochenplan zum Abarbeiten.",
-            "[Local SEO Strategie für kleine Unternehmen](/blog/local-seo-strategie-kleine-unternehmen): der Aktionsplan.",
             "[Local SEO für Neugründer](/blog/lokale-seo-fuer-neugruender): von null zur lokalen Sichtbarkeit.",
           ],
         },

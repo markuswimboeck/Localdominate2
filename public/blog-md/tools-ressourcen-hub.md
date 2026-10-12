@@ -45,7 +45,6 @@ Ein Plan beantwortet, wo Sie stehen, was Sie messbar erreichen wollen, in welche
 
 - [Local-SEO-Strategie planen](https://localdominate.org/blog/local-seo-strategy-planner): ein Plan, der zu Ihrem Betrieb passt.
 - [Local SEO in 12 Wochen](https://localdominate.org/blog/local-seo-roadmap-90-tage): der Wochenplan zum Abarbeiten.
-- [Local SEO Strategie für kleine Unternehmen](https://localdominate.org/blog/local-seo-strategie-kleine-unternehmen): der Aktionsplan.
 - [Local SEO für Neugründer](https://localdominate.org/blog/lokale-seo-fuer-neugruender): von null zur lokalen Sichtbarkeit.
 
 ## Listen führen: Suchbegriffe und Einträge
