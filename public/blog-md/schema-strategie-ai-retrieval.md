@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/schema-strategie-ai-retrieval
 markdown_url: https://localdominate.org/blog-md/schema-strategie-ai-retrieval.md
 language: de-DE
 published: 2026-05-20
-updated: 2026-10-11
+updated: 2026-10-12
 reading_time_minutes: 11
 category: "KI-Suche"
 author: LocalDominate Redaktion
@@ -55,7 +55,7 @@ Laut Google sind strukturierte Daten für die generative KI-Suche nicht erforder
 
 Im Mai 2026 hat Google einen eigenen Leitfaden zur Optimierung für generative KI-Funktionen veröffentlicht, auch auf Deutsch unter dem Titel „Website für generative KI-Funktionen in der Google Suche optimieren“. Dort heißt es sinngemäß: Strukturierte Daten sind für die generative KI-Suche nicht erforderlich, und es gibt kein besonderes schema.org-Markup, das Sie hinzufügen müssen. Es sei aber sinnvoll, sie als Teil der gesamten Suchmaschinenoptimierung weiter zu verwenden, weil sie für Rich-Suchergebnisse in Frage kommen.
 
-Auf der Seite „KI-Funktionen und Ihre Website“ nennt Google eine Liste bewährter Verfahren, die auch für die [Übersicht mit KI](https://localdominate.org/blog/google-ai-overviews-local-seo) und den [KI-Modus](https://localdominate.org/blog/google-ai-mode-local-seo-2026) gelten. Darin stehen unter anderem: Crawling erlauben, wichtige Inhalte als Text anbieten, strukturierte Daten an den sichtbaren Text anpassen und die Angaben im Unternehmensprofil aktuell halten.
+Auf der Seite „KI-Funktionen und deine Website“ nennt Google eine Liste bewährter Verfahren, die auch für die [Übersicht mit KI](https://localdominate.org/blog/google-ai-overviews-local-seo) und den [KI-Modus](https://localdominate.org/blog/google-ai-mode-local-seo-2026) gelten. Darin stehen unter anderem: Crawling erlauben, wichtige Inhalte als Text anbieten, strukturierte Daten an den sichtbaren Text anpassen und die Angaben im Unternehmensprofil aktuell halten.
 
 > **Für lokale Betriebe wichtig:** Im Leitfaden zur Optimierung für generative KI-Funktionen schreibt Google, dass Merchant Center und Unternehmensprofile Produkten und Leistungen helfen können, in KI-Antworten und anderen Suchergebnissen sichtbar zu werden. Für einen Handwerksbetrieb oder eine Praxis ist das gepflegte [Google-Unternehmensprofil](https://localdominate.org/blog/google-my-business-optimieren) deshalb wichtiger als jede Zeile Markup.
 
@@ -63,7 +63,7 @@ Google schreibt außerdem, dass weder spezielle Textdateien für KI noch eine Au
 
 ## Was strukturierte Daten bei der KI-Suche realistisch leisten
 
-Strukturierte Daten machen Fakten über Ihren Betrieb eindeutig: Name, Adresse, Telefon, Öffnungszeiten und Verbindungen zu Ihren Profilen. Wie stark einzelne KI-Systeme diese Daten beim Abruf nutzen, legt kein Anbieter im Detail offen.
+Strukturierte Daten machen Fakten über Ihren Betrieb eindeutig: Name, Adresse, Telefon, Öffnungszeiten und Verbindungen zu Ihren Profilen. Wie stark einzelne KI-Systeme diese Daten beim Abruf nutzen, legt keiner der hier geprüften Anbieter im Detail offen.
 
 Google beschreibt den Zweck strukturierter Daten allgemein: Sie helfen, den Inhalt einer Seite zu verstehen und Informationen über das Web und die Welt zu erfassen. Für Organization schreibt Google, das Markup helfe, die Verwaltungsangaben eines Unternehmens zu verstehen und es in den Suchergebnissen von anderen zu unterscheiden. Das ist für lokale Betriebe mit häufigen Namen wie „Malerbetrieb Huber“ oder „Physiotherapie am Markt“ besonders nützlich.
 
@@ -71,7 +71,7 @@ Google beschreibt den Zweck strukturierter Daten allgemein: Sie helfen, den Inha
 - **Rich-Suchergebnisse.** Für bestimmte Typen kann Google besondere Darstellungen zeigen. Eine Garantie dafür gibt es laut Google nicht.
 - **Abgleich.** Wenn Markup, Seitentext und Profil dieselben Angaben enthalten, entstehen keine widersprüchlichen Daten über Ihren Betrieb.
 
-> **Einschätzung:** KI-Antworten geben vor allem wieder, was als Text auf Seiten und in Profilen steht. Ob ein Sprachmodell beim Abruf den JSON-LD-Block selbst sieht oder nur den sichtbaren Text, dokumentiert keiner der Anbieter. Unsere Folgerung: Jede wichtige Angabe muss als lesbarer Text auf der Seite stehen. Markup bestätigt diese Angaben, ersetzt sie aber nicht. Wie Sie Seiten so schreiben, dass sie richtig zitiert werden, zeigt [Website-Inhalte für KI-Suchmaschinen](https://localdominate.org/blog/website-content-ai-suchmaschinen).
+> **Einschätzung:** KI-Antworten geben vor allem wieder, was als Text auf Seiten und in Profilen steht. Ob ein Sprachmodell beim Abruf den JSON-LD-Block selbst sieht oder nur den sichtbaren Text, beschreibt keiner der hier geprüften Anbieter im Detail. Unsere Folgerung: Jede wichtige Angabe muss als lesbarer Text auf der Seite stehen. Markup bestätigt diese Angaben, ersetzt sie aber nicht. Wie Sie Seiten so schreiben, dass sie richtig zitiert werden, zeigt [Website-Inhalte für KI-Suchmaschinen](https://localdominate.org/blog/website-content-ai-suchmaschinen).
 
 ## Die Grundausstattung für lokale Betriebe
 
@@ -198,4 +198,4 @@ Nein. Google schreibt, dass Indexierung und Ausspielung nicht garantiert sind, s
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org

@@ -11,16 +11,16 @@ const article: V4Article = {
   lead:
     "Für Inhaber von Praxen, Hotels, Handwerksbetrieben und Geschäften, die wissen wollen, ob KI-Antworten von Google, ChatGPT, Perplexity und Copilot eine eigene Strategie brauchen. Sie bekommen einen nüchternen Vergleich und eine Liste, was Sie wirklich anders machen sollten und was nicht.",
   answer:
-    "KI-Suchen fassen eine Antwort aus mehreren Quellen zusammen und verlinken einige davon, die klassische Suche zeigt eine sortierte Liste. Die Grundlage ist dieselbe: Google schreibt, dass für KI-Übersichten und den KI-Modus **keine spezielle Optimierung** nötig ist. Anders wird vor allem dreierlei: Ihre Website muss für mehrere Crawler erreichbar sein, Antworten auf Detailfragen zählen mehr, und Sie messen an mehr Stellen.",
+    "KI-Suchen fassen eine Antwort aus mehreren Quellen zusammen und verlinken einige davon, die klassische Suche zeigt eine sortierte Liste. Die Grundlage ist dieselbe: Google schreibt, dass für Übersichten mit KI und den KI-Modus **keine spezielle Optimierung** nötig ist. Anders wird vor allem dreierlei: Ihre Website muss für mehrere Crawler erreichbar sein, Antworten auf Detailfragen zählen mehr, und Sie messen an mehr Stellen.",
   takeaways: [
     "Klassische Suche liefert eine Rangliste, KI-Suche eine zusammengefasste Antwort mit einigen verlinkten Quellen. Beide greifen auf Webseiten, Profile und Bewertungen zurück.",
-    "Google nennt für KI-Übersichten und den KI-Modus keine zusätzlichen Anforderungen. Die Seite muss indexiert und für ein Snippet geeignet sein.",
+    "Google nennt für Übersichten mit KI und den KI-Modus keine zusätzlichen Anforderungen. Die Seite muss indexiert und für ein Snippet geeignet sein.",
     "ChatGPT, Perplexity und Copilot haben eigene Crawler oder Indizes. Wer sie in der robots.txt oder per Firewall aussperrt, kann dort nicht als Quelle erscheinen.",
     "Ob Sie durch KI-Antworten weniger Klicks bekommen, lässt sich für Ihren Betrieb nicht pauschal sagen. Messen Sie Anfragen, nicht nur Besuche.",
     "Neu hinzu kommen vor allem: Detailfragen auf der Website beantworten, Crawler-Zugang prüfen, Verweise aus KI-Diensten in der Analyse sichtbar machen.",
   ],
   publishedAt: "2026-03-08",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-11",
   readingTime: 11,
   sections: [
     {
@@ -31,15 +31,15 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Mit **klassischer Suche** meinen wir in diesem Artikel die normalen Google-Treffer, den Kartenblock mit lokalen Betrieben und Google Maps. Mit **KI-Suche** meinen wir die KI-Übersichten und den KI-Modus in der Google-Suche, die Suche in ChatGPT, Perplexity und Microsoft Copilot.",
+          text: "Mit **klassischer Suche** meinen wir in diesem Artikel die normalen Google-Treffer, den Kartenblock mit lokalen Betrieben und Google Maps. Mit **KI-Suche** meinen wir die Übersichten mit KI und den KI-Modus in der Google-Suche, die Suche in ChatGPT, Perplexity und Microsoft Copilot.",
         },
         {
           t: "p",
-          text: "Die Abgrenzung ist nicht scharf. KI-Übersichten erscheinen auf derselben Ergebnisseite wie der Kartenblock. Und ChatGPT schreibt laut OpenAI eine Frage in gezielte Suchanfragen um und schickt sie teils an andere Suchanbieter. Auch eine KI-Antwort beginnt also meistens mit einer ganz normalen Suche.",
+          text: "Die Abgrenzung ist nicht scharf. Übersichten mit KI erscheinen auf derselben Ergebnisseite wie der Kartenblock. Und ChatGPT schreibt laut OpenAI eine Frage in gezielte Suchanfragen um und schickt sie teils an andere Suchanbieter. Auch eine KI-Antwort beginnt also meistens mit einer ganz normalen Suche.",
         },
         {
           t: "p",
-          text: "Was sich seit 2024 in der lokalen Suche insgesamt verändert hat, mit Daten zur Einführung der KI-Übersichten und des KI-Modus in der DACH-Region, steht in [Lokale Suchmaschinenoptimierung 2026](/blog/lokale-suchmaschinenoptimierung-2026). Hier geht es um den direkten Vergleich und die Frage, was Sie anders machen sollten.",
+          text: "Was sich seit 2024 in der lokalen Suche insgesamt verändert hat, mit Daten zur Einführung der Übersichten mit KI und des KI-Modus in der DACH-Region, steht in [Lokale Suchmaschinenoptimierung 2026](/blog/lokale-suchmaschinenoptimierung-2026). Hier geht es um den direkten Vergleich und die Frage, was Sie anders machen sollten.",
         },
       ],
     },
@@ -72,7 +72,7 @@ const article: V4Article = {
             [
               "Wie messen Sie?",
               "Leistungsdaten im Profil, Search Console, Web-Analyse.",
-              "Bei Google in denselben Berichten, nicht getrennt. Bei ChatGPT über einen Verweis-Parameter, bei Copilot über einen eigenen Bericht in den Bing Webmaster Tools.",
+              "Bei Google Klicks in denselben Berichten, nicht getrennt, dazu seit dem 31. August 2026 ein eigener Bericht mit Impressionen. Bei ChatGPT über einen Verweis-Parameter, bei Copilot über einen eigenen Bericht in den Bing Webmaster Tools.",
             ],
           ],
         },
@@ -81,7 +81,7 @@ const article: V4Article = {
           caption: "Was die Anbieter selbst dokumentieren (Stand Oktober 2026)",
           head: ["Plattform", "Quellen in der Antwort", "Zugang für Ihre Website", "Messung"],
           rows: [
-            ["Google KI-Übersichten und KI-Modus", "Links zu unterstützenden Websites", "Googlebot, Seite indexiert und Snippet erlaubt", "Search Console, Suchtyp „Web“, zusammen mit normalen Klicks"],
+            ["Übersichten mit KI und KI-Modus (Google)", "Links zu unterstützenden Websites", "Googlebot, Seite indexiert und Snippet erlaubt", "Search Console: Klicks im Suchtyp „Web“ zusammen mit normalen Klicks, Impressionen zusätzlich im Bericht zu generativen KI-Funktionen"],
             ["ChatGPT-Suche", "Zitate im Text und eine Schaltfläche „Quellen“, in den Apps teils eine Karte", "OAI-SearchBot erlauben, auch in Firewall oder CDN", "Verweise tragen den Parameter utm_source=chatgpt.com"],
             ["Perplexity", "Nummerierte Quellenverweise zu jeder Antwort", "PerplexityBot erlauben", "Keine eigene Auswertung dokumentiert, Verweise in der Web-Analyse"],
             ["Microsoft Copilot", "Ihre Inhalte als zitierte Quelle", "Website in den Bing Webmaster Tools anmelden", "Bericht „AI Performance“ in den Bing Webmaster Tools mit Zahl der Zitierungen"],
@@ -102,7 +102,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google beschreibt für KI-Übersichten und den KI-Modus das sogenannte **Fan-out**: Die Frage wird in mehrere verwandte Suchen zu Teilthemen und Datenquellen aufgeteilt. OpenAI beschreibt für ChatGPT etwas Ähnliches: Die Frage wird in gezielte Suchanfragen umgeschrieben. Perplexity schreibt, dass es das Web durchsucht und jede Antwort mit nummerierten Quellen versieht.",
+          text: "Google beschreibt für Übersichten mit KI und den KI-Modus das sogenannte **Fan-out**: Die Frage wird in mehrere verwandte Suchen zu Teilthemen und Datenquellen aufgeteilt. OpenAI beschreibt für ChatGPT etwas Ähnliches: Die Frage wird in gezielte Suchanfragen umgeschrieben. Perplexity schreibt, dass es das Web durchsucht und jede Antwort mit nummerierten Quellen versieht.",
         },
         {
           t: "p",
@@ -139,7 +139,7 @@ const article: V4Article = {
       id: "was-gleich-bleibt",
       title: "Was gleich bleibt",
       answer:
-        "Die Grundlagen bleiben dieselben. Google schreibt, dass für KI-Übersichten und den KI-Modus keine spezielle Optimierung erforderlich ist, und nennt die üblichen SEO-Grundsätze. Ausdrücklich gehört dazu, die Angaben im Unternehmensprofil aktuell zu halten.",
+        "Die Grundlagen bleiben dieselben. Google schreibt, dass für Übersichten mit KI und den KI-Modus keine spezielle Optimierung erforderlich ist, und nennt die üblichen SEO-Grundsätze. Ausdrücklich gehört dazu, die Angaben im Unternehmensprofil aktuell zu halten.",
       blocks: [
         {
           t: "p",
@@ -187,7 +187,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Ob KI-Antworten Ihnen Besucher wegnehmen, hängt von der Art der Frage ab. Wer „Zahnarzt Notdienst“ sucht, will anrufen. Wer fragt, wie lange eine Wurzelbehandlung dauert, ist mit einer Zusammenfassung oft zufrieden. Google schreibt, Klicks von Ergebnisseiten mit KI-Übersichten seien hochwertiger, weil Nutzer mehr Zeit auf der Website verbringen. Belastbare Zahlen zu Klickraten für lokale Betriebe veröffentlicht Google nicht.",
+          text: "Ob KI-Antworten Ihnen Besucher wegnehmen, hängt von der Art der Frage ab. Wer „Zahnarzt Notdienst“ sucht, will anrufen. Wer fragt, wie lange eine Wurzelbehandlung dauert, ist mit einer Zusammenfassung oft zufrieden. Google schreibt, Klicks von Ergebnisseiten, auf denen eine Übersicht mit KI erscheint, seien hochwertiger, weil Nutzer mehr Zeit auf der Website verbringen. Belastbare Zahlen zu Klickraten für lokale Betriebe veröffentlicht Google nicht.",
         },
         {
           t: "note",
@@ -200,7 +200,7 @@ const article: V4Article = {
       id: "messen",
       title: "So messen Sie beide Welten",
       answer:
-        "Bei Google zählt die Search Console Zugriffe aus KI-Übersichten und KI-Modus unter dem Suchtyp „Web“ mit, getrennt ausweisen lassen sie sich nicht. ChatGPT hängt an Verweise den Parameter utm_source=chatgpt.com. Für Copilot gibt es in den Bing Webmaster Tools seit Februar 2026 einen eigenen Bericht zu Zitierungen.",
+        "Bei Google zählt die Search Console Klicks aus Übersichten mit KI und KI-Modus unter dem Suchtyp „Web“ mit, nicht getrennt, und zeigt seit dem 31. August 2026 in einem eigenen Bericht, wie oft Links zu Ihrer Website dort angezeigt wurden. ChatGPT hängt an Verweise den Parameter utm_source=chatgpt.com. Für Copilot gibt es in den Bing Webmaster Tools seit Februar 2026 einen eigenen Bericht zu Zitierungen.",
       blocks: [
         {
           t: "table",
@@ -208,6 +208,7 @@ const article: V4Article = {
           head: ["Was Sie wissen wollen", "Wo Sie es sehen"],
           rows: [
             ["Klicks aus der Google-Suche, inklusive KI-Funktionen", "Search Console, Leistungsbericht, Suchtyp „Web“"],
+            ["Wie oft Links zu Ihrer Website in Übersichten mit KI und KI-Modus angezeigt wurden", "Search Console, Leistungsbericht zu generativen KI-Funktionen (seit 31. August 2026, ohne Klicks)"],
             ["Anrufe, Routen und Website-Klicks aus Maps und Kartenblock", "Leistungsdaten im Unternehmensprofil"],
             ["Besuche aus ChatGPT", "Web-Analyse, Quelle chatgpt.com über den Parameter utm_source"],
             ["Besuche aus Perplexity und anderen Assistenten", "Web-Analyse, Verweis-Domains"],
@@ -269,7 +270,7 @@ const article: V4Article = {
           caption: "Angebote rund um KI-Suche und was davon zu halten ist",
           head: ["Angebot", "Einordnung"],
           rows: [
-            ["„Spezielles KI-Schema“ für Google", "Google schreibt, dass für KI-Übersichten und KI-Modus keine speziellen strukturierten Daten nötig sind. Normales LocalBusiness-Markup passend zum sichtbaren Text genügt, siehe [Schema Markup für Local SEO](/blog/schema-markup-local-seo)."],
+            ["„Spezielles KI-Schema“ für Google", "Google schreibt, dass für Übersichten mit KI und KI-Modus keine speziellen strukturierten Daten nötig sind. Normales LocalBusiness-Markup passend zum sichtbaren Text genügt, siehe [Schema Markup für Local SEO](/blog/schema-markup-local-seo)."],
             ["Garantierte Empfehlung in ChatGPT", "OpenAI schreibt, dass eine Platzierung nicht garantiert ist. Niemand außerhalb von OpenAI kann sie zusagen."],
             ["Eine Seite je Nachbarort mit gleichem Text", "Das sind Brückenseiten, die gegen Googles Spam-Richtlinien verstoßen. Sie helfen auch keiner KI, weil sie keine neue Information enthalten."],
             ["llms.txt als Pflicht", "Google nennt eine solche Datei in seiner Dokumentation zu KI-Funktionen nicht. Ob sie Ihnen woanders nützt, erklärt [llms.txt für lokale Unternehmen](/blog/llms-txt-lokale-unternehmen-2026)."],
@@ -285,15 +286,15 @@ const article: V4Article = {
   faq: [
     {
       q: "Ersetzt die KI-Suche die klassische Google-Suche?",
-      a: "Nicht für lokale Betriebe. KI-Übersichten erscheinen auf derselben Ergebnisseite wie der Kartenblock, und auch ChatGPT schickt Fragen an Suchanbieter. Beide Arten von Suche greifen auf dieselben Grundlagen zurück: Profil, Website, Bewertungen und Firmendaten.",
+      a: "Nicht für lokale Betriebe. Übersichten mit KI erscheinen auf derselben Ergebnisseite wie der Kartenblock, und auch ChatGPT schickt Fragen an Suchanbieter. Beide Arten von Suche greifen auf dieselben Grundlagen zurück: Profil, Website, Bewertungen und Firmendaten.",
     },
     {
-      q: "Muss ich meine Website für KI-Übersichten extra optimieren?",
+      q: "Muss ich meine Website für Übersichten mit KI extra optimieren?",
       a: "Laut Google nicht. Die Seite muss indexiert und für ein Snippet geeignet sein, weitere technische Anforderungen gibt es nicht. Die üblichen Grundsätze gelten weiter: Inhalte als Text, gute interne Verlinkung, aktuelle Angaben im Unternehmensprofil.",
     },
     {
-      q: "Kann ich sehen, wie viele Klicks aus KI-Übersichten kommen?",
-      a: "Nicht getrennt. Die Search Console zählt diese Zugriffe im Leistungsbericht unter dem Suchtyp „Web“ zusammen mit den normalen Klicks. Für ChatGPT erkennen Sie Besuche am Parameter utm_source=chatgpt.com, für Copilot zeigen die Bing Webmaster Tools Zitierungen.",
+      q: "Kann ich sehen, wie viele Klicks aus Übersichten mit KI kommen?",
+      a: "Nicht getrennt. Die Search Console zählt diese Klicks im Leistungsbericht unter dem Suchtyp „Web“ zusammen mit den normalen Klicks. Seit dem 31. August 2026 zeigt ein eigener Bericht aber, wie oft Links zu Ihrer Website in Übersichten mit KI und im KI-Modus angezeigt wurden. Für ChatGPT erkennen Sie Besuche am Parameter utm_source=chatgpt.com, für Copilot zeigen die Bing Webmaster Tools Zitierungen.",
     },
     {
       q: "Bekomme ich durch KI-Antworten weniger Besucher?",
@@ -310,6 +311,7 @@ const article: V4Article = {
   ],
   sources: [
     { title: "KI-Funktionen und Ihre Website", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/ai-features?hl=de" },
+    { title: "Leistungsbericht zu generativen KI-Funktionen (Google Suche)", publisher: "Search Console-Hilfe", url: "https://support.google.com/webmasters/answer/16984139?hl=de" },
     { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
     { title: "Search in ChatGPT", publisher: "OpenAI Help Center", url: "https://help.openai.com/en/articles/9237897-search-in-chatgpt" },
     { title: "Publishers and Developers FAQ", publisher: "OpenAI Help Center", url: "https://help.openai.com/en/articles/12627856-publishers-and-developers-faq" },

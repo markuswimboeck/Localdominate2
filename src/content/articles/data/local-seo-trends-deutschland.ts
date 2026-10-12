@@ -20,7 +20,7 @@ const article: V4Article = {
     "Gelbe Seiten, Das Örtliche und Das Telefonbuch können Daten enthalten, die Ihr Telefonanbieter weitergegeben hat. Fehler korrigieren Sie deshalb auch beim Anbieter.",
   ],
   publishedAt: "2026-03-08",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-11",
   readingTime: 11,
   sections: [
     {
@@ -31,7 +31,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Dieser Artikel ersetzt den früheren Trend-Report. Er behandelt nur, was für Betriebe in Deutschland gilt. Wie Google lokale Ergebnisse grundsätzlich sortiert, steht im [Local SEO Leitfaden](/blog/ultimate-guide-local-seo). Was sich 2025 und 2026 auf den Plattformen geändert hat, also KI-Übersichten, KI-Modus, ChatGPT und Apple Business, beschreibt [Lokale Suchmaschinenoptimierung 2026](/blog/lokale-suchmaschinenoptimierung-2026).",
+          text: "Dieser Artikel ersetzt den früheren Trend-Report. Er behandelt nur, was für Betriebe in Deutschland gilt. Wie Google lokale Ergebnisse grundsätzlich sortiert, steht im [Local SEO Leitfaden](/blog/ultimate-guide-local-seo). Was sich 2025 und 2026 auf den Plattformen geändert hat, also Übersichten mit KI, KI-Modus, ChatGPT und Apple Business, beschreibt [Lokale Suchmaschinenoptimierung 2026](/blog/lokale-suchmaschinenoptimierung-2026).",
         },
         {
           t: "table",
@@ -206,13 +206,13 @@ const article: V4Article = {
     },
     {
       id: "ki-uebersichten-deutsch",
-      title: "KI-Übersichten auf Deutsch seit März 2025",
+      title: "Übersichten mit KI auf Deutsch seit März 2025",
       answer:
-        "Seit dem 25. März 2025 zeigt Google angemeldeten Nutzern ab 18 Jahren in Deutschland KI-Übersichten auf Deutsch und Englisch. Für deutsche Betriebe heißt das: Die deutschen Texte auf Ihrer Website sind die Quelle, aus der diese Antworten schöpfen können.",
+        "Seit dem 25. März 2025 zeigt Google in Deutschland Übersichten mit KI auf Deutsch und Englisch, anfangs nur angemeldeten Nutzern ab 18 Jahren und laut Google-Hilfe heute allen Nutzern. Für deutsche Betriebe heißt das: Die deutschen Texte auf Ihrer Website sind die Quelle, aus der diese Antworten schöpfen können.",
       blocks: [
         {
           t: "p",
-          text: "Was KI-Übersichten und der KI-Modus für lokale Betriebe bedeuten, steht ausführlich in [Lokale Suchmaschinenoptimierung 2026](/blog/lokale-suchmaschinenoptimierung-2026) und in [Google AI Overviews und Local SEO](/blog/google-ai-overviews-local-seo). Hier nur der Teil, der für Deutschland spezifisch ist: die Sprache.",
+          text: "Was Übersichten mit KI und der KI-Modus für lokale Betriebe bedeuten, steht ausführlich in [Lokale Suchmaschinenoptimierung 2026](/blog/lokale-suchmaschinenoptimierung-2026) und in [Google AI Overviews und Local SEO](/blog/google-ai-overviews-local-seo). Hier nur der Teil, der für Deutschland spezifisch ist: die Sprache.",
         },
         {
           t: "ul",
@@ -287,8 +287,8 @@ const article: V4Article = {
       a: "Das hängt davon ab, ob das Widget Informationen auf dem Gerät speichert oder ausliest. Dann verlangt § 25 TDDDG grundsätzlich eine Einwilligung, außer es ist für den gewünschten Dienst unbedingt erforderlich. Prüfen Sie das mit Ihrem Consent-Tool oder Ihrem Datenschutzberater.",
     },
     {
-      q: "Seit wann gibt es KI-Übersichten in Deutschland?",
-      a: "Seit dem 25. März 2025, für angemeldete Nutzer ab 18 Jahren, auf Deutsch und Englisch. Was das für lokale Betriebe bedeutet, steht in unserem Artikel zur lokalen Suchmaschinenoptimierung 2026.",
+      q: "Seit wann gibt es Übersichten mit KI in Deutschland?",
+      a: "Seit dem 25. März 2025, auf Deutsch und Englisch. Anfangs sahen sie nur angemeldete Nutzer ab 18 Jahren, laut Google-Hilfe heute alle Nutzer. Was das für lokale Betriebe bedeutet, steht in unserem Artikel zur lokalen Suchmaschinenoptimierung 2026.",
     },
   ],
   sources: [
@@ -300,6 +300,7 @@ const article: V4Article = {
     { title: "Praxis Recht: Barrierefreiheit von Webseiten", publisher: "Zentralverband des Deutschen Handwerks (ZDH)", url: "https://www.zdh.de/ueber-uns/fachbereich-organisation-und-recht/praxis-recht-/-leitfaeden/praxis-recht-barrierefreiheit-von-webseiten/" },
     { title: "Häufige Fragen", publisher: "Gelbe Seiten", url: "https://www.gelbeseiten.de/gsservice/haeufige-fragen" },
     { title: "We’re bringing the helpfulness of AI Overviews to more countries in Europe (25. März 2025)", publisher: "Google Blog", url: "https://blog.google/feed/were-bringing-the-helpfulness-of-ai-overviews-to-more-countries-in-europe/" },
+    { title: "Übersicht mit KI: Informationen in der Google Suche schneller und einfacher finden", publisher: "Google Suche Hilfe", url: "https://support.google.com/websearch/answer/14901683?hl=de" },
   ],
   related: [
     { slug: "lokale-suchmaschinenoptimierung-2026", title: "Lokale Suchmaschinenoptimierung 2026: Was sich geändert hat" },

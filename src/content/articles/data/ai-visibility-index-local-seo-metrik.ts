@@ -13,7 +13,7 @@ const article: V4Article = {
   answer:
     "Einen offiziellen Index für die Sichtbarkeit in KI-Antworten gibt es nicht. Sinnvoll ist eine eigene Nennungsquote: Sie stellen jeden Monat dieselben Fragen mit Ortsangabe mehrfach an feste Dienste und zählen, in wie vielen Antworten Ihr Betrieb vorkommt, ob die Angaben stimmen und ob Ihre Website verlinkt ist. Weil Antworten stark schwanken, zählt der Verlauf über Monate, nicht ein einzelner Wert.",
   takeaways: [
-    "Kein KI-Anbieter weist eine Rangposition innerhalb der Antworten aus. Messbar ist, wie oft Sie in einer festen Stichprobe genannt werden.",
+    "In den von uns geprüften Unterlagen weist kein KI-Anbieter eine Rangposition innerhalb der Antworten aus. Messbar ist, wie oft Sie in einer festen Stichprobe genannt werden.",
     "In einer Studie von SparkToro und Gumshoe lag die Chance, bei ChatGPT oder Googles KI zweimal dieselbe Empfehlungsliste zu bekommen, unter eins zu hundert. Positionen in KI-Antworten taugen deshalb nicht als Kennzahl.",
     "Drei Werte reichen: Nennungsquote, Anteil richtiger Angaben und Anteil der Antworten, die Ihre eigene Website verlinken.",
     "Jede Frage mehrfach stellen, Ort immer in die Frage schreiben, ohne Anmeldung oder Personalisierung fragen.",
@@ -21,14 +21,14 @@ const article: V4Article = {
     "Ergänzen Sie die Stichprobe um die kostenlosen Berichte von Google und Microsoft und um Ihren Anfrageeingang.",
   ],
   publishedAt: "2026-05-20",
-  updatedAt: "2026-10-11",
+  updatedAt: "2026-10-12",
   readingTime: 13,
   sections: [
     {
       id: "warum-eigene-kennzahl",
       title: "Warum es keinen offiziellen KI-Index gibt",
       answer:
-        "Weder Google noch OpenAI, Microsoft oder Anthropic weisen aus, an welcher Stelle Ihr Betrieb innerhalb einer KI-Antwort steht. Google und Microsoft zählen in ihren KI-Berichten, wie oft Ihre Seiten als Link oder Quelle erschienen. Wer wissen will, was in den Antworten über ihn steht, muss selbst fragen und zählen.",
+        "In den von uns geprüften Unterlagen weisen weder Google noch OpenAI, Microsoft oder Anthropic aus, an welcher Stelle Ihr Betrieb innerhalb einer KI-Antwort steht. Google und Microsoft zählen in ihren KI-Berichten, wie oft Ihre Seiten als Link oder Quelle erschienen. Wer wissen will, was in den Antworten über ihn steht, muss selbst fragen und zählen.",
       blocks: [
         {
           t: "p",
@@ -36,7 +36,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Wie stark Antworten schwanken, hat eine Untersuchung von SparkToro und dem Anbieter Gumshoe im Januar 2026 gezeigt. Rund 600 Freiwillige stellten 12 Empfehlungsfragen an ChatGPT, Claude und Googles KI, insgesamt 2.961 Mal. Die Chance, bei ChatGPT oder Google zweimal dieselbe Liste zu bekommen, lag unter eins zu hundert, dieselbe Reihenfolge noch deutlich seltener. Stabiler war dagegen, **wie oft** eine Marke über viele Durchläufe vorkam. Die Autoren halten diesen Anteil, gemessen über Dutzende bis Hunderte mehrfach gestellte Fragen, für eine vertretbare Kennzahl, eine „Position in der KI“ dagegen nicht.",
+          text: "Wie stark Antworten schwanken, hat eine Untersuchung von SparkToro und dem Anbieter Gumshoe im Januar 2026 gezeigt. Rund 600 Freiwillige stellten 12 Empfehlungsfragen an ChatGPT, Claude und Googles KI, insgesamt 2.961 Mal. Die Chance, bei ChatGPT oder Google zweimal dieselbe Liste zu bekommen, lag unter eins zu hundert, dieselbe Reihenfolge noch deutlich seltener. Stabiler war dagegen, **wie oft** eine Marke über viele Durchläufe vorkam. Rand Fishkin von SparkToro hält diesen Anteil, gemessen über Dutzende bis Hunderte mehrfach gestellte Fragen, für eine vertretbare Kennzahl, eine „Position in der KI“ dagegen nicht.",
         },
         {
           t: "note",
@@ -117,10 +117,10 @@ const article: V4Article = {
           caption: "Was die Anbieter zu Standort und Personalisierung dokumentieren",
           head: ["Dienst", "Dokumentierter Einfluss", "So neutralisieren Sie ihn"],
           rows: [
-            ["ChatGPT", "Ungefährer Standort aus der IP-Adresse; bei aktiviertem Gedächtnis können gespeicherte Erinnerungen und Ortsangaben die Suche beeinflussen", "Temporären Chat in der Variante ohne Personalisierung nutzen oder abgemeldet fragen"],
+            ["ChatGPT", "Ungefährer Standort aus der IP-Adresse; bei aktiviertem Gedächtnis können gespeicherte Erinnerungen und Ortsangaben die Suche beeinflussen", "Temporären Chat in der Variante ohne Personalisierung nutzen oder abgemeldet fragen. Ob dort die Websuche verfügbar ist, schreibt OpenAI nicht: Prüfen Sie, ob die Antwort Quellen verlinkt"],
             ["Google KI-Modus", "Personalisierung ab 18 Jahren mit aktiviertem Suchverlauf und personalisierten Empfehlungen", "Privates Browserfenster ohne Anmeldung"],
             ["Google Suche mit Übersicht mit KI", "Erscheint nicht bei jeder Frage", "Notieren, ob überhaupt eine Übersicht erschien"],
-            ["Claude", "Ungefährer Standort aus der IP-Adresse; Zitate nur mit eingeschalteter Websuche", "Websuche einschalten, Ort in die Frage schreiben"],
+            ["Claude", "Ungefährer Standort aus der IP-Adresse bei lokalen Anfragen; Quellenangaben beschreibt Anthropic im Zusammenhang mit der Websuche", "Websuche einschalten, Ort in die Frage schreiben"],
             ["Perplexity, Copilot", "Eigene Regeln, siehe die Artikel zu den Diensten", "Neues Gespräch, Ort in der Frage"],
           ],
         },
@@ -143,7 +143,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Eine einzelne Antwort ist ein Zufallstreffer. Erst die Wiederholung macht aus Antworten eine Quote. Eine genaue Zahl nennen auch die Autoren der SparkToro-Studie nicht. Als grobe Orientierung halten sie meist mindestens 60 bis 100 Durchläufe je Frage für nötig, von Hand ist das für einen kleinen Betrieb kaum machbar. Unsere Einschätzung: Drei Durchläufe je Frage und Dienst sind ein vertretbarer Kompromiss, der nur große Veränderungen sichtbar macht.",
+          text: "Eine einzelne Antwort ist ein Zufallstreffer. Erst die Wiederholung macht aus Antworten eine Quote. Eine genaue Zahl nennt auch die SparkToro-Studie nicht. Als grobe Orientierung nennt Rand Fishkin meist mindestens 60 bis 100 Durchläufe je Frage, von Hand ist das für einen kleinen Betrieb kaum machbar. Unsere Einschätzung: Drei Durchläufe je Frage und Dienst sind ein vertretbarer Kompromiss, der nur große Veränderungen sichtbar macht.",
         },
         {
           t: "steps",
@@ -226,14 +226,14 @@ const article: V4Article = {
       id: "offizielle-daten",
       title: "Kostenlose Daten von Google und Microsoft ergänzen",
       answer:
-        "Die Search Console zeigt seit dem 31. August 2026 allen Websites, wie oft Links zu ihnen in Übersichten mit KI und im KI-Modus angezeigt wurden. Die Bing Webmaster Tools zählen im Bericht AI Performance Zitierungen in Copilot. Besuche aus ChatGPT erkennen Sie am Parameter utm_source=chatgpt.com.",
+        "Die Search Console zeigt seit dem 31. August 2026 allen Websites, wie oft Links zu ihnen in Übersichten mit KI und im KI-Modus angezeigt wurden. Die Bing Webmaster Tools zählen im Bericht AI Performance, der im Februar 2026 als öffentliche Vorschau eingeführt wurde, Zitierungen in Copilot und in KI-Zusammenfassungen von Bing. Besuche aus ChatGPT erkennen Sie am Parameter utm_source=chatgpt.com.",
       blocks: [
         {
           t: "table",
           caption: "Was die Berichte zeigen und was nicht",
           head: ["Quelle", "Was sie zeigt", "Was sie nicht zeigt"],
           rows: [
-            ["Search Console, Bericht für generative KI-Funktionen", "Impressionen nach Seite, Land, Gerät und Datum", "Was in der Antwort über Sie steht; Klicks und Suchanfragen beschreibt die Hilfeseite nicht"],
+            ["Search Console, Leistungsbericht zu generativen KI-Funktionen (Google Suche)", "Impressionen nach Seite, Land, Gerät und Datum", "Was in der Antwort über Sie steht; Klicks und Suchanfragen beschreibt die Hilfeseite nicht, ebenso keine getrennte Auswertung nach Übersichten mit KI und KI-Modus"],
             ["Bing Webmaster Tools, AI Performance", "Zitierungen, zitierte Seiten, eine Auswahl der Grounding Queries", "Die Stelle in der Antwort; laut Microsoft keine Aussage über Rang oder Bedeutung"],
             ["Web-Analyse mit utm_source=chatgpt.com", "Besuche über Links in ChatGPT", "Nennungen ohne Klick"],
             ["Ihr Anfrageeingang", "Ob Kunden über KI-Antworten zu Ihnen finden", "Hängt davon ab, dass Sie nachfragen und es notieren"],
@@ -254,17 +254,17 @@ const article: V4Article = {
         {
           t: "ul",
           items: [
-            "**Keine Nachfrage.** Kein KI-Anbieter veröffentlicht, wie oft eine Frage gestellt wird. Eine hohe Quote bei einer Frage, die niemand stellt, ist wertlos.",
+            "**Keine Nachfrage.** Wie oft eine Frage gestellt wird, haben wir bei keinem KI-Anbieter gefunden. Eine hohe Quote bei einer Frage, die niemand stellt, ist wertlos.",
             "**Keine Ursache.** Steigt die Quote nach einer neuen Leistungsseite, kann auch ein Modellwechsel des Anbieters dahinterstehen. Die Kennzahl misst Ergebnisse, nicht Gründe.",
             "**Kein Abbild echter Kunden.** Personalisierung, Standort und Verlauf fehlen in Ihrer neutralen Messung absichtlich.",
-            "**Kein Vergleich mit anderen Betrieben.** Ihre Quote gilt nur für Ihr Fragenset. Branchenwerte oder „gute“ Quoten gibt es nicht.",
+            "**Kein Vergleich mit anderen Betrieben.** Ihre Quote gilt nur für Ihr Fragenset. Belegte Branchenwerte oder „gute“ Quoten kennen wir nicht.",
             "**Kein Ersatz für Umsatzzahlen.** Am Ende zählen Anrufe, Anfragen und Buchungen.",
           ],
         },
         {
           t: "note",
           label: "Vorsicht bei Werkzeugen",
-          text: "Es gibt Dienste, die solche Stichproben automatisch fahren. Fragen Sie vor dem Kauf, welche Fragen gestellt werden, wie oft, mit welchem Standort und ob über die Programmierschnittstelle oder wie ein Nutzer gefragt wird. Die Autoren der SparkToro-Studie halten Angebote, die eine Rangposition in KI-Antworten ausweisen, für nicht seriös.",
+          text: "Es gibt Dienste, die solche Stichproben automatisch fahren. Fragen Sie vor dem Kauf, welche Fragen gestellt werden, wie oft, mit welchem Standort und ob über die Programmierschnittstelle oder wie ein Nutzer gefragt wird. Rand Fishkin von SparkToro schreibt, jedes Werkzeug mit einer „Position in der KI“ sei „full of baloney“, also Unsinn.",
         },
       ],
     },
@@ -279,7 +279,7 @@ const article: V4Article = {
           items: [
             { title: "Stichprobe fahren", text: "Festes Fragenset, feste Dienste, drei Durchläufe je Frage und Dienst in der Messwoche." },
             { title: "Bewerten und rechnen", text: "Jede Antwort nach Schema eintragen, Nennungsquote, Richtigkeitsquote und Eigenquellen-Quote mit Spanne berechnen." },
-            { title: "Berichte ablesen", text: "Impressionen im Bericht für generative KI-Funktionen der Search Console, Zitierungen in AI Performance, Besuche mit utm_source=chatgpt.com." },
+            { title: "Berichte ablesen", text: "Impressionen im Leistungsbericht zu generativen KI-Funktionen der Search Console, Zitierungen in AI Performance, Besuche mit utm_source=chatgpt.com." },
             { title: "Falsche Angaben zuerst", text: "Jede falsche Angabe an ihrer Quelle korrigieren. Das wirkt direkt auf die Richtigkeitsquote." },
             { title: "Lücken schließen", text: "Fehlen Sie bei bestimmten Fragen, prüfen Sie, ob Ihre Website die Frage überhaupt als Text beantwortet. Hinweise dazu in [Website-Inhalte für KI-Suchmaschinen](/blog/website-content-ai-suchmaschinen)." },
             { title: "Verlauf festhalten", text: "Die Monatswerte in eine Übersicht übertragen. Ein Muster wie in der [Google-Maps-Ranking-Tracker-Vorlage](/blog/google-maps-ranking-tracker) hilft, Verläufe über Monate zu lesen." },
@@ -295,29 +295,29 @@ const article: V4Article = {
   faq: [
     {
       q: "Gibt es einen offiziellen AI Visibility Index?",
-      a: "Nein. Weder Google noch OpenAI, Microsoft oder Anthropic veröffentlichen so einen Index. Wer einen anbietet, hat eine eigene Formel gebaut. Fragen Sie dann, wie die Zahl entsteht und wie groß ihre Schwankung ist.",
+      a: "Nein. In den von uns geprüften Unterlagen veröffentlichen weder Google noch OpenAI, Microsoft oder Anthropic so einen Index. Wer einen anbietet, hat eine eigene Formel gebaut. Fragen Sie dann, wie die Zahl entsteht und wie groß ihre Schwankung ist.",
     },
     {
       q: "Warum messe ich keine Position in der KI-Antwort?",
-      a: "Weil sie bei gleicher Frage fast jedes Mal wechselt. In der Studie von SparkToro und Gumshoe kam dieselbe Reihenfolge nur etwa in einem von tausend Durchläufen vor. Stabiler ist der Anteil der Antworten, in denen Sie überhaupt vorkommen.",
+      a: "Weil sie bei gleicher Frage fast jedes Mal wechselt. In der Studie von SparkToro und Gumshoe kam dieselbe Reihenfolge in weniger als einem von tausend Durchläufen vor. Stabiler ist der Anteil der Antworten, in denen Sie überhaupt vorkommen.",
     },
     {
       q: "Wie viele Fragen und Durchläufe brauche ich?",
-      a: "Eine feste Zahl dazu gibt es nicht. Die Autoren der SparkToro-Studie nennen als grobe Orientierung meist mindestens 60 bis 100 Durchläufe je Frage, von Hand ist das kaum machbar. Unsere Einschätzung: zehn bis fünfzehn Fragen, drei bis fünf Dienste, drei Durchläufe je Frage und Dienst. Das ergibt rund hundert Antworten und reicht, um große Veränderungen zu erkennen.",
+      a: "Eine belegte feste Zahl kennen wir nicht. Rand Fishkin von SparkToro nennt als grobe Orientierung meist mindestens 60 bis 100 Durchläufe je Frage, von Hand ist das kaum machbar. Unsere Einschätzung: zehn bis fünfzehn Fragen, drei bis fünf Dienste, drei Durchläufe je Frage und Dienst. Das ergibt rund hundert Antworten und reicht, um große Veränderungen zu erkennen.",
     },
     {
       q: "Welche Nennungsquote ist gut?",
-      a: "Dafür gibt es keinen belegten Richtwert. Ihre Quote hängt vom Fragenset, von der Zahl der Mitbewerber und von den Diensten ab. Vergleichen Sie sich nur mit Ihren eigenen Vormonaten.",
+      a: "Einen belegten Richtwert kennen wir nicht. Ihre Quote hängt vom Fragenset, von der Zahl der Mitbewerber und von den Diensten ab. Vergleichen Sie sich nur mit Ihren eigenen Vormonaten.",
     },
     {
       q: "Kann ich die Messung automatisieren?",
-      a: "Teilweise, mit Werkzeugen oder Programmierschnittstellen der Anbieter. Ob Antworten über eine Schnittstelle denen in der normalen Oberfläche entsprechen, ist laut den Autoren der SparkToro-Studie nicht geklärt. Prüfen Sie stichprobenartig von Hand nach.",
+      a: "Teilweise, mit Werkzeugen oder Programmierschnittstellen der Anbieter. Ob Antworten über eine Schnittstelle denen in der normalen Oberfläche entsprechen, ist laut Rand Fishkin von SparkToro noch nicht geklärt. Prüfen Sie stichprobenartig von Hand nach.",
     },
   ],
   sources: [
     { title: "New Research: AIs are highly inconsistent when recommending brands or products (27. Januar 2026)", publisher: "SparkToro", url: "https://sparktoro.com/blog/new-research-ais-are-highly-inconsistent-when-recommending-brands-or-products-marketers-should-take-care-when-tracking-ai-visibility/" },
     { title: "AI recommendation lists repeat less than 1% of the time: Study (28. Januar 2026)", publisher: "Search Engine Land", url: "https://searchengineland.com/ai-recommendation-lists-rarely-repeat-study-468076" },
-    { title: "Generative AI performance report (Search)", publisher: "Google Search Console-Hilfe", url: "https://support.google.com/webmasters/answer/16984139?hl=en" },
+    { title: "Leistungsbericht zu generativen KI-Funktionen (Google Suche)", publisher: "Search Console-Hilfe", url: "https://support.google.com/webmasters/answer/16984139?hl=de" },
     { title: "AI features and your website", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/ai-features" },
     { title: "Get AI-powered responses with AI Mode in Google Search", publisher: "Google Search-Hilfe", url: "https://support.google.com/websearch/answer/16011537?hl=en" },
     { title: "Introducing AI Performance in Bing Webmaster Tools Public Preview (10. Februar 2026)", publisher: "Microsoft Bing Webmaster Blog", url: "https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview" },
