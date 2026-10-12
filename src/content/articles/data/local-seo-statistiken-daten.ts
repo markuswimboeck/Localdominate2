@@ -15,9 +15,9 @@ const article: V4Article = {
   takeaways: [
     "Laut Eurostat nutzten 2025 in der EU 94 % der Menschen von 16 bis 74 Jahren das Internet in den letzten drei Monaten. Das ist eine amtliche Zahl mit Jahr, Region und Altersgruppe.",
     "Die bekannte Verbraucherumfrage von BrightLocal befragte 2026 laut eigener Angabe 1.002 Erwachsene in den USA. Für Deutschland, Österreich und die Schweiz ist sie höchstens ein Hinweis.",
-    "Google veröffentlicht keinen Anteil „lokaler Suchen“ an allen Suchen. Zahlen wie „46 % aller Suchen sind lokal“ sollten Sie ohne Originalquelle nicht verwenden.",
+    "Google veröffentlicht keinen aktuellen Anteil „lokaler Suchen“ an allen Suchen. Die letzte Angabe von Google stammt von 2016 und betraf nur mobile Suchen. Zahlen wie „46 % aller Suchen sind lokal“ sollten Sie ohne Originalquelle nicht verwenden.",
     "Eine Zahl ohne Herausgeber, Jahr, Land und Stichprobe ist keine Statistik, sondern eine Behauptung.",
-    "Ihre eigenen Daten aus Unternehmensprofil, Search Console und Web-Analyse sagen mehr über Ihren Betrieb als jede Branchenstatistik. Eine Tabelle mit sechs Werten pro Monat reicht für den Anfang.",
+    "Ihre eigenen Daten aus Unternehmensprofil, Search Console und Web-Analyse sagen mehr über Ihren Betrieb als jede Branchenstatistik. Eine Tabelle mit sechs bis acht Werten pro Monat reicht für den Anfang.",
   ],
   publishedAt: "2026-03-08",
   updatedAt: "2026-10-12",
@@ -84,9 +84,9 @@ const article: V4Article = {
           head: ["Aussage laut BrightLocal", "Wert", "Was Sie daraus ableiten können"],
           rows: [
             ["Befragte, die Online-Bewertungen lesen", "97 %", "Bewertungen sind für fast alle Befragten Teil der Entscheidung, zumindest in den USA"],
-            ["Anteil, der Google zum Lesen von Bewertungen nutzt", "71 % (2025: 83 %)", "Google bleibt die wichtigste Plattform, andere Quellen gewinnen an Gewicht"],
+            ["Anteil von Google als Quelle für Bewertungen", "71 % (2025: 83 %)", "Google bleibt die wichtigste Plattform, andere Quellen gewinnen an Gewicht"],
             ["Befragte, die Bewertungen der letzten drei Monate suchen", "74 %", "Laufende Bewertungen zählen mehr als eine große, alte Zahl"],
-            ["Nutzung von ChatGPT und anderer generativer KI für lokale Empfehlungen", "45 % (Vorjahr: 6 %)", "Ein starker Sprung in einem Jahr. Lesen Sie die genaue Frage im Bericht nach, bevor Sie die Zahl weitergeben"],
+            ["Nutzung von ChatGPT und anderer generativer KI für lokale Empfehlungen", "45 % (Vorjahr: 6 %)", "Ein starker Sprung in einem Jahr. BrightLocal nennt die genaue Fragestellung auf der Ergebnisseite nicht, zitieren Sie die Zahl deshalb vorsichtig"],
           ],
         },
         {
@@ -104,7 +104,7 @@ const article: V4Article = {
       id: "was-google-angibt",
       title: "Was Google selbst angibt und was nicht",
       answer:
-        "Google veröffentlicht keinen Anteil lokaler Suchen an allen Suchen und keine Gewichtung von Rankingfaktoren. Google dokumentiert aber genau, was die Leistungsdaten im Unternehmensprofil und die Berichte der Search Console zählen. Diese Definitionen sind die verlässlichste Grundlage für eigene Zahlen.",
+        "Google veröffentlicht keinen aktuellen Anteil lokaler Suchen an allen Suchen und keine Gewichtung von Rankingfaktoren. Google dokumentiert aber genau, was die Leistungsdaten im Unternehmensprofil und die Berichte der Search Console zählen. Diese Definitionen sind die verlässlichste Grundlage für eigene Zahlen.",
       blocks: [
         {
           t: "p",
@@ -220,7 +220,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Zugriffsquellen** in Google Analytics oder einem anderen Werkzeug monatlich ablesen: organische Suche, Verweise und direkte Zugriffe.",
-            "**ChatGPT** hängt laut OpenAI an Links in Suchantworten automatisch utm_source=chatgpt.com an. So sehen Sie diese Besuche getrennt.",
+            "**ChatGPT** hängt laut OpenAI an Links in Suchantworten automatisch utm_source=chatgpt.com an. So sehen Sie diese Besuche getrennt. Voraussetzung ist laut OpenAI, dass Sie OAI-SearchBot den Zugriff erlauben.",
             "**Website-Link im Profil** mit eigenen UTM-Parametern versehen, damit Besuche aus dem Unternehmensprofil nicht in der organischen Suche verschwinden. Das ist eine verbreitete Praxis, keine Vorgabe von Google.",
             "**Anfragen im Betrieb** zählen: Kontaktformulare, Anrufe, Terminbuchungen. Fragen Sie neue Kunden kurz, wie sie Sie gefunden haben.",
           ],
@@ -288,6 +288,7 @@ const article: V4Article = {
     { title: "Leistung und Statistiken Ihres Unternehmensprofils", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9918094?hl=de" },
     { title: "Leistungsbericht (Google Suche)", publisher: "Search Console-Hilfe", url: "https://support.google.com/webmasters/answer/7576553?hl=de" },
     { title: "Leistungsbericht zu generativen KI-Funktionen (Google Suche)", publisher: "Search Console-Hilfe", url: "https://support.google.com/webmasters/answer/16984139?hl=de" },
+    { title: "4 things small businesses should know", publisher: "Google Blog (2016)", url: "https://blog.google/outreach-initiatives/small-business/4-things-small-businesses-should-know" },
     { title: "Publishers and Developers FAQ", publisher: "OpenAI Help Center", url: "https://help.openai.com/en/articles/12627856-publishers-and-developers-faq" },
   ],
   related: [
