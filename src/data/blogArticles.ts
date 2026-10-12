@@ -574,10 +574,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-fitness",
     de: {
-      title: "Local SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche",
-      metaTitle: "Local SEO für Fitnessstudios und Personal Trainer",
-      metaDescription: "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
-      excerpt: "Wie Fitnessstudios und Personal Trainer in Google Maps gefunden werden: Kategorie, Profil, Bewertungen nach Googles Regeln, Probetraining-Seite, Saisonplanung.",
+      title: "Lokales SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche",
+      metaTitle: "Lokales SEO für Fitnessstudios: mehr Probetrainings",
+      metaDescription: "Lokales SEO für Fitnessstudios und Personal Trainer: Kategorie, Google-Profil, Bewertungen nach Googles Regeln, Probetraining-Seite und Saisonplanung.",
+      excerpt: "Lokales SEO für Fitnessstudios und Personal Trainer: Kategorie, Google-Profil, Bewertungen nach Googles Regeln, Probetraining-Seite und Saisonplanung.",
       category: "Branchen"
     },
     en: {
@@ -1119,10 +1119,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-friseursalon-beauty",
     de: {
-      title: "Local SEO für Friseursalons und Beauty-Studios: So finden Kunden Ihren Salon",
-      metaTitle: "Local SEO für Friseure und Beauty-Studios: Leitfaden 2026",
-      metaDescription: "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
-      excerpt: "Local SEO für Friseursalons und Beauty-Studios: Unternehmensprofil, Leistungsseiten, echte Bewertungen und Online-Termine nach Googles Regeln.",
+      title: "SEO für Friseure und Kosmetikstudios: So finden Kunden Ihren Salon über Google",
+      metaTitle: "SEO für Friseure und Kosmetikstudios: der Leitfaden",
+      metaDescription: "SEO für Friseure, Kosmetik- und Nagelstudios: Google-Unternehmensprofil, eine Seite je Leistung, echte Bewertungen und Online-Termine nach Googles Regeln.",
+      excerpt: "SEO für Friseure, Kosmetik- und Nagelstudios: Google-Unternehmensprofil, eine Seite je Leistung, echte Bewertungen und Online-Termine nach Googles Regeln.",
       category: "Beauty & Wellness"
     },
     en: {
@@ -1475,10 +1475,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-cafe-coffeeshop",
     de: {
-      title: "Local SEO für Cafés & Coffee Shops",
-      metaTitle: "Local SEO für Cafés | Mehr Gäste 2026",
-      metaDescription: "Wie Cafés durch Local SEO mehr Gäste gewinnen. Atmosphären-Keywords, Instagram-Integration und Arbeitsplatz-Positionierung.",
-      excerpt: "Der Guide für Cafés: So werden Sie zum Treffpunkt der Nachbarschaft.",
+      title: "SEO für Cafés und Coffee Shops: So finden Gäste Ihr Café auf Google",
+      metaTitle: "SEO für Cafés: Google-Profil, Karte und Bewertungen",
+      metaDescription: "SEO für Cafés: Kategorie, Öffnungszeiten, Speisekarte als Text, Attribute wie WLAN, Fotos, Bewertungen und Instagram im Google-Profil richtig pflegen.",
+      excerpt: "SEO für Cafés: Kategorie, Öffnungszeiten, Speisekarte als Text, Attribute wie WLAN, Fotos, Bewertungen und Instagram im Google-Profil richtig pflegen.",
       category: "Branchen"
     },
     en: {
@@ -1490,7 +1490,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-03-28",
-    updatedAt: "2026-03-28",
+    updatedAt: "2026-10-11",
     icon: "☕",
     keywords: ["cafe seo", "coffeeshop marketing", "local seo cafe", "kaffee seo"],
     featured: false
@@ -1686,10 +1686,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "technisches-local-seo-guide",
     de: {
-      title: "Technisches Local SEO: Der komplette Guide für lokale Unternehmen 2026",
-      metaTitle: "Technisches Local SEO | Komplett-Guide 2026",
-      metaDescription: "Technical Local SEO Guide: LocalBusiness Schema, Core Web Vitals, Mobile-First, interne Verlinkung & Indexierung. Mit 40-Punkte-Checkliste.",
-      excerpt: "Alles über technisches Local SEO: Von LocalBusiness Schema und Geo-Markup über Core Web Vitals und Mobile-Optimierung bis zu interner Verlinkung und Indexierungsstrategien — mit 40-Punkte-Checkliste.",
+      title: "Technisches Local SEO: die Prüfliste für die Website eines lokalen Betriebs",
+      metaTitle: "Technisches Local SEO: die Prüfliste für Ihre Website",
+      metaDescription: "Technisches Local SEO Schritt für Schritt: Search Console, Indexierung, Sitemap, Canonicals, HTTPS, Core Web Vitals, Standortseiten und KI-Crawler nach Google.",
+      excerpt: "Technisches Local SEO Schritt für Schritt: Search Console, Indexierung, Sitemap, Canonicals, HTTPS, Core Web Vitals, Standortseiten und KI-Crawler nach Google.",
       category: "Technik"
     },
     en: {
@@ -1699,9 +1699,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Everything about technical Local SEO: From LocalBusiness Schema and Geo Markup to Core Web Vitals, mobile optimization, internal linking and indexing strategies.",
       category: "Technical"
     },
-    readingTime: 25,
+    readingTime: 13,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-11",
     icon: "⚙️",
     keywords: ["technical seo", "technisches seo", "localbusiness schema", "schema markup", "core web vitals", "mobile seo", "interne verlinkung local seo", "geo markup", "indexierung local seo", "site speed lokale website"],
     featured: true
@@ -1710,10 +1710,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "localbusiness-schema-implementierung",
     de: {
-      title: "LocalBusiness Schema implementieren: Komplette Anleitung mit Code-Beispielen",
-      metaTitle: "LocalBusiness Schema Markup | Implementierung Guide 2026",
-      metaDescription: "LocalBusiness Schema Markup richtig implementieren: JSON-LD Code-Beispiele für jede Branche, Öffnungszeiten, Bewertungen & Multi-Location. Kopierfertig!",
-      excerpt: "Schritt-für-Schritt Anleitung zur LocalBusiness Schema Implementierung mit kopierfertigen JSON-LD Code-Beispielen für alle Branchen.",
+      title: "LocalBusiness Schema implementieren: ein vollständiges Beispiel, Feld für Feld erklärt und getestet",
+      metaTitle: "LocalBusiness Schema einbauen: Anleitung mit Beispiel",
+      metaDescription: "LocalBusiness Schema Schritt für Schritt einbauen: ein vollständiges JSON-LD-Beispiel, jedes Feld erklärt, Einbau in HTML oder CMS, Test und typische Fehler.",
+      excerpt: "LocalBusiness Schema Schritt für Schritt einbauen: ein vollständiges JSON-LD-Beispiel, jedes Feld erklärt, Einbau in HTML oder CMS, Test und typische Fehler.",
       category: "Technik"
     },
     en: {
@@ -1723,9 +1723,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Step-by-step guide to LocalBusiness Schema implementation with copy-ready JSON-LD code examples for all industries.",
       category: "Technical"
     },
-    readingTime: 22,
+    readingTime: 12,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-03-05",
+    updatedAt: "2026-10-11",
     icon: "🏢",
     keywords: ["localbusiness schema", "schema markup", "json-ld", "structured data", "local seo schema", "rich snippets"],
     featured: false
@@ -2740,10 +2740,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-physiotherapie",
     de: {
-      title: "Local SEO für Physiotherapie & Heilpraktiker: Patienten gewinnen",
-      metaTitle: "Local SEO Physiotherapie | Heilpraktiker Marketing 2026",
-      metaDescription: "Local SEO speziell für Physiotherapeuten und Heilpraktiker. Von Behandlungs-Keywords bis zu Gesundheitsportalen.",
-      excerpt: "Der branchenspezifische Guide für Physiotherapeuten zur lokalen Patientengewinnung.",
+      title: "SEO für Physiotherapie und Heilpraktiker: Leistungen, Verordnung, Hausbesuche und Werberecht",
+      metaTitle: "SEO Physiotherapie: Google-Profil, Rezept und Werberecht",
+      metaDescription: "SEO für Physiotherapie und Heilpraktiker: Google-Profil mit Hausbesuchen, eine Seite je Leistung, Verordnung verständlich erklärt, Werberecht und Bewertungen.",
+      excerpt: "SEO für Physiotherapie und Heilpraktiker: Google-Profil mit Hausbesuchen, eine Seite je Leistung, Verordnung verständlich erklärt, Werberecht und Bewertungen.",
       category: "Branchen"
     },
     en: {
@@ -2753,9 +2753,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The industry-specific guide for physical therapists on local patient acquisition.",
       category: "Industries"
     },
-    readingTime: 14,
+    readingTime: 13,
     publishedAt: "2026-02-01",
-    updatedAt: "2026-02-01",
+    updatedAt: "2026-10-11",
     icon: "🏃",
     keywords: ["physiotherapie seo", "heilpraktiker marketing", "local seo therapie", "patientengewinnung", "wellness marketing"],
     featured: false
@@ -2809,10 +2809,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-zahnarzt",
     de: {
-      title: "Local SEO für Zahnärzte: Mehr Patienten durch Google",
-      metaTitle: "Local SEO Zahnarzt | Zahnarzt Marketing 2026",
-      metaDescription: "Local SEO speziell für Zahnarztpraxen. Von Behandlungs-Keywords über Arztbewertungsportale bis zur Website-Optimierung.",
-      excerpt: "Der branchenspezifische Guide für Zahnärzte zur lokalen Patientengewinnung.",
+      title: "Local SEO für Zahnärzte: Profil, Behandlungen, Bewertungen und Notdienst im Rahmen des Berufsrechts",
+      metaTitle: "Local SEO Zahnarzt: Profil, Leistungen, Bewertungen, Recht",
+      metaDescription: "Local SEO für Zahnarztpraxen: Kategorie und Leistungen im Google-Profil, Werberecht nach HWG und Berufsordnung, Bewertungen, Jameda, Doctolib und Notdienst.",
+      excerpt: "Local SEO für Zahnarztpraxen: Kategorie und Leistungen im Google-Profil, Werberecht nach HWG und Berufsordnung, Bewertungen, Jameda, Doctolib und Notdienst.",
       category: "Branchen"
     },
     en: {
@@ -2822,9 +2822,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The industry-specific guide for dentists on local patient acquisition.",
       category: "Industries"
     },
-    readingTime: 15,
+    readingTime: 13,
     publishedAt: "2026-02-08",
-    updatedAt: "2026-02-08",
+    updatedAt: "2026-10-11",
     icon: "🦷",
     keywords: ["zahnarzt seo", "dental marketing", "local seo zahnarzt", "patientengewinnung zahnarzt", "zahnarztpraxis marketing"],
     featured: false
@@ -3016,10 +3016,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-sanitaer-heizung",
     de: {
-      title: "Local SEO für SHK-Betriebe: Sanitär, Heizung, Klima",
-      metaTitle: "Local SEO SHK | Sanitär Heizung Klima 2026",
-      metaDescription: "Local SEO speziell für SHK-Betriebe. Von Notdienst-SEO über Markenpartnerschaften bis zur saisonalen Optimierung.",
-      excerpt: "Der branchenspezifische Guide für SHK-Betriebe zur lokalen Auftragsgewinnung.",
+      title: "SEO für SHK-Betriebe: Mit Projektseiten und Beratung zu mehr Anfragen für Heizung und Bad",
+      metaTitle: "SEO für SHK-Betriebe: Mehr Projektanfragen aus der Region",
+      metaDescription: "SEO für SHK-Betriebe: eigene Seiten für Heizungstausch, Wärmepumpe und Bad, Förderseite mit Stand-Datum, Referenzprojekte mit Zustimmung und echte Bewertungen.",
+      excerpt: "SEO für SHK-Betriebe: eigene Seiten für Heizungstausch, Wärmepumpe und Bad, Förderseite mit Stand-Datum, Referenzprojekte mit Zustimmung und echte Bewertungen.",
       category: "Branchen"
     },
     en: {
@@ -3029,9 +3029,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The industry-specific guide for HVAC businesses on local job acquisition.",
       category: "Industries"
     },
-    readingTime: 15,
+    readingTime: 12,
     publishedAt: "2026-02-26",
-    updatedAt: "2026-02-26",
+    updatedAt: "2026-10-11",
     icon: "🔧",
     keywords: ["shk seo", "sanitär marketing", "heizung seo", "klima marketing", "installateur seo"],
     featured: false
@@ -3328,10 +3328,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-baeckerei",
     de: {
-      title: "Local SEO für Bäckereien: Mehr Kunden durch Google (2026)",
-      metaTitle: "Local SEO für Bäckereien | Branchenguide 2026",
-      metaDescription: "Wie Bäckereien durch Local SEO mehr Kunden gewinnen. Öffnungszeiten, Food-Fotos, Sonntagsbrötchen-Keywords und saisonales Marketing.",
-      excerpt: "Der Branchenguide für Bäckereien und Konditoreien mit spezifischen SEO-Strategien für mehr Laufkundschaft.",
+      title: "Local SEO für Bäckereien: mehrere Filialen, frühe Öffnungszeiten und Vorbestellung",
+      metaTitle: "Local SEO Bäckerei: Filialen, Öffnungszeiten, Vorbestellung",
+      metaDescription: "Local SEO für Filialbäckereien: ein Google-Profil je Filiale, frühe Öffnungszeiten und Feiertage pflegen, Sortiment zeigen und die Vorbestellung verlinken.",
+      excerpt: "Local SEO für Filialbäckereien: ein Google-Profil je Filiale, frühe Öffnungszeiten und Feiertage pflegen, Sortiment zeigen und die Vorbestellung verlinken.",
       category: "Branchen"
     },
     en: {
@@ -3341,9 +3341,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The industry guide for bakeries and pastry shops with specific SEO strategies for more walk-in customers.",
       category: "Industries"
     },
-    readingTime: 14,
+    readingTime: 12,
     publishedAt: "2026-02-16",
-    updatedAt: "2026-02-16",
+    updatedAt: "2026-10-11",
     icon: "🥐",
     keywords: ["bäckerei seo", "bäcker local seo", "bäckerei marketing", "konditorei google", "brot seo"]
   },
@@ -3599,10 +3599,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-ranking-faktoren-erklaert",
     de: {
-      title: "Local SEO Ranking-Faktoren erklärt: Alle Signale im Detail 2026",
-      metaTitle: "Local SEO Ranking-Faktoren 2026 | Alle Signale",
-      metaDescription: "Alle Local SEO Ranking-Faktoren: GBP (36 %), On-Page (18 %), Bewertungen (17 %), Links (13 %), Citations (7 %). Vergleichstabellen & Aktionsplan.",
-      excerpt: "Die vollständige Analyse aller lokalen Ranking-Faktoren: Google Business Profil, On-Page, Bewertungen, Links, Citations und Verhaltens-Signale — mit Gewichtung und Vergleichstabellen.",
+      title: "Local SEO Ranking Faktoren erklärt: Relevanz, Entfernung und Bekanntheit mit Beispielen",
+      metaTitle: "Local SEO Ranking Faktoren einfach erklärt",
+      metaDescription: "Local SEO Ranking Faktoren für Einsteiger: Relevanz, Entfernung und Bekanntheit mit Beispielen, was Sie beeinflussen können und welche Mythen nicht stimmen.",
+      excerpt: "Local SEO Ranking Faktoren für Einsteiger: Relevanz, Entfernung und Bekanntheit mit Beispielen, was Sie beeinflussen können und welche Mythen nicht stimmen.",
       category: "Strategie"
     },
     en: {
@@ -3612,9 +3612,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Complete analysis of all local ranking factors: Google Business Profile, on-page, reviews, links, citations and behavioral signals — with weighting and comparison tables.",
       category: "Strategy"
     },
-    readingTime: 20,
+    readingTime: 11,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-11",
     icon: "📊",
     keywords: ["local seo ranking faktoren", "lokale ranking faktoren", "google local ranking", "local pack ranking faktoren", "local seo signale", "ranking faktoren local seo 2026", "gbp ranking faktoren"],
     featured: true
@@ -4201,10 +4201,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-heizung-sanitaer",
     de: {
-      title: "Local SEO für Heizung & Sanitär (SHK): Notdienst und Projekte",
-      metaTitle: "Local SEO Heizung Sanitaer 2026 | SHK-Betriebe",
-      metaDescription: "Local SEO fuer SHK-Betriebe: Kategorien, Notdienstseite, Waermepumpen-Projekte, Bewertungen und ein 90-Tage-Plan fuer planbare Auftraege.",
-      excerpt: "Notfall und Sanierungsprojekt sind zwei getrennte Suchanlaesse. So bedient ein SHK-Betrieb beide sauber und gewinnt Einsaetze wie Projektauftraege.",
+      title: "Heizung Sanitär Notdienst SEO: So finden Kunden im Notfall Ihren Betrieb",
+      metaTitle: "Heizung Sanitär Notdienst SEO: Gefunden im Einzugsgebiet",
+      metaDescription: "Notdienst für Heizung und Sanitär sichtbar machen: echte Zeiten, eine direkte Rufnummer, ein ehrliches Einzugsgebiet ohne Städteseiten und klare Preise.",
+      excerpt: "Notdienst für Heizung und Sanitär sichtbar machen: echte Zeiten, eine direkte Rufnummer, ein ehrliches Einzugsgebiet ohne Städteseiten und klare Preise.",
       category: "Branchen"
     },
     en: {
@@ -4214,9 +4214,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Emergency calls and renovation projects are two separate search occasions. How to serve both properly and win jobs on either side.",
       category: "Industries"
     },
-    readingTime: 11,
+    readingTime: 13,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-08-08",
+    updatedAt: "2026-10-11",
     icon: "\u{1F525}",
     keywords: [
       "local seo heizung sanitaer",
@@ -4231,10 +4231,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-gebaeudereinigung",
     de: {
-      title: "Local SEO für Gebäudereinigung: Objektanfragen statt Klicks",
-      metaTitle: "Local SEO Gebaeudereinigung 2026 | B2B-Anfragen",
-      metaDescription: "Local SEO fuer Reinigungsbetriebe: Leistungsseiten je Reinigungsart, Referenzstruktur, Servicegebiet und ein Anfrageformular, das Kalkulation ermoeglicht.",
-      excerpt: "Gebaeudereinigung ist ein Vertragsgeschaeft. So entstehen qualifizierte Objektanfragen mit Flaeche, Turnus und Standort statt reiner Preisabfragen.",
+      title: "Lokale SEO für Gebäudereinigung: So finden Firmenkunden und Verwaltungen Ihren Betrieb",
+      metaTitle: "Lokale SEO Gebäudereinigung: Anfragen von Firmenkunden",
+      metaDescription: "SEO für Reinigungsfirmen: Profil mit Einzugsgebiet, passende Kategorie, eine Seite je Reinigungsart, echte Nachweise und Bewertungen von Geschäftskunden.",
+      excerpt: "SEO für Reinigungsfirmen: Profil mit Einzugsgebiet, passende Kategorie, eine Seite je Reinigungsart, echte Nachweise und Bewertungen von Geschäftskunden.",
       category: "Branchen"
     },
     en: {
@@ -4246,7 +4246,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-08-08",
+    updatedAt: "2026-10-11",
     icon: "\u{1F9FD}",
     keywords: [
       "local seo gebaeudereinigung",
