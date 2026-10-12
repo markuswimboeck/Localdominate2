@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-umzugsunternehmen
 markdown_url: https://localdominate.org/blog-md/local-seo-umzugsunternehmen.md
 language: de-DE
 published: 2026-08-08
-updated: 2026-10-11
+updated: 2026-10-12
 reading_time_minutes: 12
 category: "Branchen"
 author: LocalDominate Redaktion
@@ -28,7 +28,7 @@ Ein Umzugsunternehmen braucht ein Google-Unternehmensprofil mit echter Adresse o
 - Empfangen Sie keine Kunden im Büro, blenden Sie die Adresse aus und tragen Sie bis zu 20 Einzugsgebiete ein. Google empfiehlt höchstens etwa zwei Autostunden um Ihren Standort.
 - Ein Profil gibt es nur für einen echten Standort. Virtuelle Büros, Postfächer und unbesetzte Coworking-Plätze sind laut Google nicht zulässig.
 - Für Fernumzüge außerhalb Ihres Einzugsgebiets arbeitet die Website: Seiten für Strecken, die Sie wirklich fahren, mit echtem Inhalt statt austauschbarer Städteseiten.
-- Im Umzugsrecht gelten Sonderregeln: In Deutschland ist die gesetzliche Haftung für Verlust und Beschädigung auf 620 Euro je benötigtem Kubikmeter Laderaum begrenzt, eine höhere Haftung kann vereinbart werden. Verbraucher müssen darüber bei Vertragsschluss unterrichtet werden.
+- Im Umzugsrecht gelten Sonderregeln: In Deutschland ist die gesetzliche Haftung für Verlust und Beschädigung auf 620 Euro je benötigtem Kubikmeter Laderaum begrenzt, eine höhere Haftung kann vereinbart werden. Verbraucher müssen darüber vor Vertragsschluss unterrichtet werden.
 - Bitten Sie jeden Kunden nach dem Umzug um eine Bewertung, ohne Rabatt, ohne Vorauswahl und ohne Druck am Umzugstag.
 
 ## Wie Umzugskunden suchen
@@ -52,7 +52,7 @@ Welche Begriffe in Ihrer Region wirklich gesucht werden, ermitteln Sie mit der M
 
 Empfangen Sie an Ihrer Adresse keine Kunden, fordert Google Sie auf, die Adresse aus dem Profil zu entfernen und stattdessen höchstens 20 Einzugsgebiete angeben. Haben Sie ein beschildertes Büro mit Kundenverkehr, dürfen Sie Adresse und Einzugsgebiet zusammen zeigen.
 
-Umzugsunternehmen arbeiten beim Kunden, manche haben zusätzlich ein Büro, in das Kunden zur Beratung kommen. Google unterscheidet deshalb Unternehmen ohne festen Standort und Hybridunternehmen. Ohne gut sichtbare Beschilderung zählt ein Ort nicht als Ladengeschäft.
+Umzugsunternehmen arbeiten beim Kunden, manche haben zusätzlich ein Büro, in das Kunden zur Beratung kommen. Google unterscheidet deshalb Unternehmen ohne festen Standort und Hybridunternehmen. Wer die Adresse zeigt, braucht dort laut Google eine ganzjährige feste Beschilderung mit dem Namen des Unternehmens.
 
 *Welche Profilform passt zu Ihrem Betrieb*
 
@@ -93,11 +93,11 @@ Der Profilname ist der echte Firmenname ohne Ort und ohne Leistung. Als Hauptkat
 - **Leistungen:** Privatumzug, Fernumzug, Firmenumzug, Möbelmontage, Verpackung, Einlagerung und Entrümpelung einzeln eintragen, sofern Sie sie anbieten. Google erlaubt eigene Leistungen mit Beschreibung, aber keine Preise oder Telefonnummern im Namen der Leistung.
 - **Fotos:** eigene Fahrzeuge, Team bei der Arbeit, Lager. Keine Symbolbilder.
 
-> **Einschätzung:** Google veröffentlicht keine vollständige deutsche Kategorienliste. Welche Bezeichnungen es für Umzugsbetriebe gibt, sehen Sie nur im Profil selbst oder bei gut sichtbaren Mitbewerbern.
+> **Einschätzung:** Welche Bezeichnungen es für Umzugsbetriebe gibt, sehen Sie, wenn Sie im Feld „Primäre Kategorie“ einen Begriff eingeben und aus der Liste wählen. Ergänzend lohnt der Blick auf gut sichtbare Mitbewerber.
 
 ## Leistungsseiten und Streckenseiten statt Städteseiten auf Vorrat
 
-Jede Umzugsart bekommt eine eigene Seite, und für Strecken, die Sie regelmäßig fahren, lohnt sich eine Streckenseite mit echtem Inhalt. Dutzende fast gleicher Seiten, auf denen nur der Ortsname wechselt, können Google als Brückenseiten gelten.
+Jede Umzugsart bekommt eine eigene Seite, und für Strecken, die Sie regelmäßig fahren, lohnt sich eine Streckenseite mit echtem Inhalt. Dutzende fast gleicher Seiten, auf denen nur der Ortsname wechselt, können als Brückenseiten gelten.
 
 Google nennt in den Spamrichtlinien als Missbrauch von Brückenseiten unter anderem Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer zur selben Seite führen, sowie im Wesentlichen ähnliche Seiten. Fünfzig Seiten „Umzug [Ort]“ mit gleichem Text sind deshalb ein Risiko. Eine Streckenseite lohnt sich, wenn sie etwas sagt, das nur für diese Strecke gilt.
 
@@ -130,12 +130,12 @@ Die Verbraucherzentrale rät Privatkunden, alle Teilleistungen schriftlich festz
 
 Kunden vertrauen Ihnen ihren Hausrat an. Deshalb zählen prüfbare Angaben zu Haftung, Zusatzversicherung, Erlaubnis für den Güterkraftverkehr und Verbandsmitgliedschaft, und zwar nur solche, die stimmen.
 
-In Deutschland regelt das Handelsgesetzbuch den Umzugsvertrag in den §§ 451 ff. Die Haftung für Verlust oder Beschädigung ist nach § 451e HGB auf 620 Euro je Kubikmeter Laderaum begrenzt. Ist der Kunde Verbraucher, muss er nach § 451g HGB bei Vertragsschluss über die Haftungsregeln und die Möglichkeit einer höheren Haftung oder einer Versicherung unterrichtet werden, drucktechnisch deutlich hervorgehoben. Spätestens bei der Ablieferung ist der Empfänger über Form und Frist der Schadensanzeige zu informieren. Sonst kann sich der Frachtführer auf die Begrenzungen und Fristen nicht berufen. Erkennbare Schäden müssen spätestens am Tag nach der Ablieferung angezeigt werden, verdeckte innerhalb von vierzehn Tagen.
+In Deutschland regelt das Handelsgesetzbuch den Umzugsvertrag in den §§ 451 ff. Die Haftung für Verlust oder Beschädigung ist nach § 451e HGB auf 620 Euro je Kubikmeter Laderaum begrenzt. Ist der Kunde Verbraucher, muss der Frachtführer ihn nach § 451g HGB vor Vertragsschluss über die Haftungsregeln und die Möglichkeit einer höheren Haftung oder einer Versicherung unterrichten, drucktechnisch deutlich hervorgehoben. Fehlt diese Information, kann er sich insoweit nicht auf die Haftungsbegrenzungen berufen. Spätestens bei der Ablieferung ist der Empfänger über Form und Frist der Schadensanzeige zu informieren, sonst kann sich der Frachtführer nicht auf die Ausschlussfrist berufen. Nach § 451f HGB erlöschen Ansprüche wegen Verlust oder Beschädigung, wenn erkennbare Schäden nicht spätestens am Tag nach der Ablieferung und verdeckte nicht innerhalb von vierzehn Tagen angezeigt werden.
 
 Erklären Sie diese Regeln verständlich auf einer Seite „Haftung und Versicherung“. Laut Verbraucherzentrale ist bei höherem Absicherungsbedarf meist eine Zusatzversicherung über den Spediteur möglich. Bieten Sie eine an, beschreiben Sie sie dort.
 
 - **Erlaubnis für den Güterkraftverkehr:** Wer gewerblich Güter mit Fahrzeugen über 3,5 Tonnen zulässiger Gesamtmasse befördert, braucht in Deutschland eine Erlaubnis; im grenzüberschreitenden Verkehr liegt die Grenze laut IHK bei 2,5 Tonnen. Haben Sie die Erlaubnis oder eine Gemeinschaftslizenz, dürfen Sie das nennen.
-- **Verbände und Prüfzeichen:** In Deutschland vergibt der Bundesverband Möbelspedition und Logistik (AMÖ) an Mitgliedsbetriebe, die sich einer jährlichen Prüfung unterziehen, das Qualitätskennzeichen „geprüfter AMÖ-Spediteur“. Nennen Sie Mitgliedschaften und Prüfzeichen nur, wenn sie bestehen und gültig sind.
+- **Verbände und Prüfzeichen:** In Deutschland vergibt der Bundesverband Möbelspedition und Logistik (AMÖ) das Qualitätskennzeichen „geprüfter amoe:spediteur“. Laut der Urkunde eines Mitgliedsbetriebs setzt die Nutzung eine jährliche Prüfung voraus. Nennen Sie Mitgliedschaften und Prüfzeichen nur, wenn sie bestehen und gültig sind.
 
 > **Rechtlicher Hinweis:** Nach § 5 UWG ist eine geschäftliche Handlung irreführend, wenn sie unwahre oder täuschende Angaben etwa über den Preis oder dessen Berechnung oder über Befähigung, Status, Zulassung, Mitgliedschaften oder Auszeichnungen enthält. Ein abgelaufenes Zertifikat oder ein Festpreis, der später nicht gilt, kann darunter fallen. Dies ist keine Rechtsberatung. In Österreich und der Schweiz gelten für Haftung und Berufszugang eigene Regeln, die wir hier nicht darstellen.
 
@@ -143,7 +143,7 @@ Erklären Sie diese Regeln verständlich auf einer Seite „Haftung und Versiche
 
 Bitten Sie jeden Kunden nach dem Umzug per Nachricht um eine Bewertung, mit dem direkten Bewertungslink aus Ihrem Profil. Bieten Sie nichts dafür an, fragen Sie nicht nur zufriedene Kunden und setzen Sie niemanden unter Druck, solange Ihr Team noch vor Ort ist.
 
-Am Umzugstag hat kaum ein Kunde Ruhe für eine Bewertung. Schicken Sie den Link einen oder zwei Tage später per E-Mail oder Kurznachricht, zusammen mit dem Hinweis, wohin sich der Kunde bei einem Schaden wendet. Wie Sie Link und QR-Code im Profil erzeugen, steht in [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen#bewertungslink).
+Am Umzugstag haben viele Kunden keine Ruhe für eine Bewertung. Schicken Sie den Link einen oder zwei Tage später per E-Mail oder Kurznachricht, zusammen mit dem Hinweis, wohin sich der Kunde bei einem Schaden wendet. Wie Sie Link und QR-Code im Profil erzeugen, steht in [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen#bewertungslink).
 
 *Was Googles Richtlinien zu Rezensionen verbieten*
 
@@ -219,14 +219,16 @@ Einen oder zwei Tage nach dem Umzug per Nachricht mit dem direkten Bewertungslin
 - [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/9918094?hl=de), Google Unternehmensprofil-Hilfe
 - [Umzugsunternehmen: So fallen Sie nicht auf Umzugs-Abzocker rein (Stand 11. Juni 2025)](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/kundenrechte/umzugsunternehmen-so-fallen-sie-nicht-auf-umzugsabzocker-rein-10470), Verbraucherzentrale
 - [Handelsgesetzbuch, § 451e Haftungshöchstbetrag](https://dejure.org/gesetze/HGB/451e.html), dejure.org
-- [§ 451g HGB: Haftungsbestimmungen beim Umzugsvertrag](https://www.gesetze-im-internet.de/hgb/__451g.html), Bundesministerium der Justiz, Gesetze im Internet
+- [Handelsgesetzbuch, § 451g Wegfall der Haftungsbefreiungen und -begrenzungen](https://lxgesetze.de/hgb/451g), lxgesetze.de
+- [Handelsgesetzbuch, § 451f Schadensanzeige](https://dejure.org/gesetze/HGB/451f.html), dejure.org
 - [Erlaubnispflicht im Güterkraftverkehr (Stand 13. Februar 2026)](https://www.ihk.de/heilbronn-franken/produktmarken/branchen/verkehr/gueterverkehr/erlaubnispflicht-im-gueterkraftverkehr-4901500), IHK Heilbronn-Franken
 - [Preisangabenverordnung, § 3 Pflicht zur Angabe des Gesamtpreises](https://lxgesetze.de/pangv/3), lxgesetze.de
-- [Preisangabenverordnung, § 12 Preisverzeichnis](https://lxgesetze.de/pangv/12), lxgesetze.de
+- [Preisangabenverordnung, § 12 Preisangaben für Leistungen](https://lxgesetze.de/pangv/12), lxgesetze.de
 - [Gesetz gegen den unlauteren Wettbewerb, § 5 Irreführende geschäftliche Handlungen](https://lxgesetze.de/uwg/5), lxgesetze.de
 - [Qualitätskennzeichen „geprüfter amoe:spediteur“ (Urkunde eines Mitgliedsbetriebs vom 8. September 2025)](https://www.kurz-logistik.de/wp-content/uploads/2026/02/Qualitaetskennzeichen-gepruefter-amoe-spediteur_Friedrich-Kurz-GmbH.pdf), Friedrich Kurz GmbH
+- [Geprüfter amoe:spediteur: das Qualitätskennzeichen der AMÖ (6. August 2026)](https://www.verkehrsrundschau.de/nachrichten/transport-logistik/gepruefter-amoe-spediteur-das-qualitaetskennzeichen-der-amoe-3885289), Verkehrsrundschau
 - [Umzugsunternehmen in Bochum (Portalverzeichnis)](https://www.my-hammer.de/umzugsunternehmen/bochum/), MyHammer
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-11. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org

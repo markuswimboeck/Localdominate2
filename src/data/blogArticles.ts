@@ -1322,7 +1322,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-02-14",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "💊",
     keywords: ["apotheke seo", "apotheken marketing", "local seo apotheke", "notdienst apotheke"],
     featured: false
@@ -1391,7 +1391,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "\u{1F69A}",
     keywords: [
       "local seo umzugsunternehmen",
@@ -2755,7 +2755,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-02-03",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "🚨",
     keywords: ["notdienst seo", "emergency keywords", "sofort hilfe", "24 stunden service", "dringende suche"],
     featured: false
@@ -2870,7 +2870,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-02-14",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "👓",
     keywords: ["optiker seo", "hörakustiker marketing", "local seo optiker", "brillen marketing", "augenoptik seo"],
     featured: false
@@ -2916,7 +2916,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-02-18",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "⚡",
     keywords: ["elektriker seo", "elektrotechnik marketing", "local seo elektriker", "elektro notdienst", "elektrofirma marketing"],
     featured: false
@@ -2962,7 +2962,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-02-22",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "🎨",
     keywords: ["maler seo", "lackierer marketing", "local seo maler", "malerbetrieb marketing", "renovierung seo"],
     featured: false
@@ -4362,7 +4362,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-10-11",
+    updatedAt: "2026-10-12",
     icon: "\u{1F333}",
     keywords: [
       "local seo garten landschaftsbau",

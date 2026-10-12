@@ -15,7 +15,7 @@ const article: V4Article = {
   takeaways: [
     "In Wien wirkt die Entfernung stark, weil der nächste Wettbewerber oft nur wenige Gassen entfernt ist.",
     "Wien hat 23 Gemeindebezirke. Die Postleitzahl zeigt den Bezirk, etwa 1070 für Neubau. Planen Sie Einzugsgebiet, Inhalte und Messpunkte auf Bezirksebene.",
-    "Fast gleiche Seiten für jeden Bezirk, bei denen nur der Name getauscht ist, gelten bei Google als Brückenseiten. Eine Bezirksseite braucht einen echten Standort oder echten eigenen Inhalt.",
+    "Fast gleiche Seiten für jeden Bezirk, bei denen nur der Name getauscht ist, sind nach unserer Einschätzung riskant. Googles Spam-Richtlinien nennen Seiten für Regionen oder Städte, die alle zum selben Ziel führen, als Missbrauch von Brückenseiten. Eine Bezirksseite braucht einen echten Standort oder echten eigenen Inhalt.",
     "Die Wirtschaftskammer Wien hat Ansprechpersonen in den 23 Bezirken. Das ist ein naheliegender Weg zu Kontakten und Erwähnungen im eigenen Bezirk.",
     "Weitere Sprachen lohnen sich in Wien nur, wenn Sie Kunden tatsächlich darin bedienen.",
   ],
@@ -27,11 +27,11 @@ const article: V4Article = {
       id: "was-in-wien-anders-ist",
       title: "Was in Wien anders ist",
       answer:
-        "Die Regeln sind dieselben wie überall: Google sortiert lokale Treffer nach Relevanz, Entfernung und Beliebtheit. In Wien verschiebt sich die Gewichtung im Alltag, weil viele Anbieter auf engem Raum liegen und schon der Nachbarbezirk eine andere Trefferliste ergibt.",
+        "Die Regeln sind dieselben wie überall: Google sortiert lokale Treffer nach Relevanz, Entfernung und Beliebtheit. In Wien verschiebt sich die Gewichtung nach unserer Einschätzung im Alltag, weil viele Anbieter auf engem Raum liegen und schon der Nachbarbezirk eine andere Trefferliste ergibt.",
       blocks: [
         {
           t: "p",
-          text: "Google nennt in seiner Hilfe drei Faktoren für das lokale Ranking: **Relevanz** (passt das Profil zur Suche), **Entfernung** (wie weit ist der Betrieb vom Suchenden entfernt) und **Beliebtheit** (wie bekannt und geschätzt der Betrieb ist). Ein besseres lokales Ranking lässt sich laut Google nicht kaufen. Wie diese Faktoren allgemein wirken, erklärt der [Local-SEO-Leitfaden](/blog/ultimate-guide-local-seo).",
+          text: "Google nennt in seiner Hilfe drei Faktoren für das lokale Ranking: **Relevanz** (passt das Profil zur Suche), **Entfernung** (wie weit ist der Betrieb vom Suchenden entfernt) und **Beliebtheit** (wie bekannt der Betrieb ist). Ein besseres lokales Ranking lässt sich laut Google nicht einfordern, auch nicht gegen Bezahlung. Wie diese Faktoren allgemein wirken, erklärt der [Local-SEO-Leitfaden](/blog/ultimate-guide-local-seo).",
         },
         {
           t: "p",
@@ -40,7 +40,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Wettbewerb ohne erfundene Zahlen",
-          text: "Es gibt keine verlässliche öffentliche Rangliste, in welchem Bezirk der Wettbewerb „am kleinsten“ ist. Das hängt von Ihrer Branche ab. Zählen Sie selbst: Suchen Sie Ihre Hauptleistung an drei Punkten in Ihrem Bezirk und notieren Sie, welche Betriebe in der Kartenansicht erscheinen.",
+          text: "Uns ist keine verlässliche öffentliche Rangliste bekannt, in welchem Bezirk der Wettbewerb „am kleinsten“ ist. Das hängt von Ihrer Branche ab. Zählen Sie selbst: Suchen Sie Ihre Hauptleistung an drei Punkten in Ihrem Bezirk und notieren Sie, welche Betriebe in der Kartenansicht erscheinen.",
         },
       ],
     },
@@ -52,7 +52,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Viele Wienerinnen und Wiener nennen den Bezirk mit Nummer („im Zehnten“), mit Namen („in Ottakring“) oder mit der Postleitzahl („1070“). Suchanfragen folgen oft derselben Logik. Die Postleitzahlen sind vierstellig: Die 1 steht für Wien, die beiden mittleren Ziffern meist für den Bezirk. Die Grenzen decken sich nicht überall genau mit den Bezirksgrenzen, und Sondernummern wie 1300 für den Flughafen oder 1400 für die UNO-City folgen diesem Schema nicht.",
+          text: "Viele Wienerinnen und Wiener nennen den Bezirk mit Nummer („im Zehnten“), mit Namen („in Ottakring“) oder mit der Postleitzahl („1070“). Suchanfragen folgen oft derselben Logik. Die Postleitzahlen sind vierstellig: Die 1 steht für Wien, die beiden mittleren Ziffern meist für den Bezirk. Sondernummern wie 1300 für den Flughafen oder 1400 für die UNO-City folgen diesem Schema nicht.",
         },
         {
           t: "table",
@@ -123,11 +123,11 @@ const article: V4Article = {
       id: "bezirksseiten-ohne-brueckenseiten",
       title: "Bezirke nennen, ohne Brückenseiten zu bauen",
       answer:
-        "Nennen Sie einen Bezirk auf Ihrer Website nur, wenn Sie dort wirklich arbeiten oder einen Standort haben, und sagen Sie dann etwas Eigenes dazu. Dreiundzwanzig fast gleiche Seiten „Installateur 1010“ bis „Installateur 1230“ gelten bei Google als Brückenseiten und verstoßen gegen die Spam-Richtlinien.",
+        "Nennen Sie einen Bezirk auf Ihrer Website nur, wenn Sie dort wirklich arbeiten oder einen Standort haben, und sagen Sie dann etwas Eigenes dazu. Dreiundzwanzig fast gleiche Seiten „Installateur 1010“ bis „Installateur 1230“ sind nach unserer Einschätzung riskant, denn Google nennt Seiten für Regionen oder Städte, die alle zum selben Ziel führen, als Missbrauch von Brückenseiten.",
       blocks: [
         {
           t: "p",
-          text: "Google beschreibt Brückenseiten (englisch „doorway pages“) als Seiten, die erstellt werden, um bei bestimmten, ähnlichen Suchanfragen zu erscheinen, und die Nutzer zu weniger hilfreichen Zwischenseiten führen. Als Beispiel nennt Google ausdrücklich mehrere Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und alle zum selben Ziel führen, sowie im Wesentlichen ähnliche Seiten.",
+          text: "Google beschreibt Brückenseiten (englisch „doorway pages“) als Seiten, die erstellt werden, um bei bestimmten, ähnlichen Suchanfragen zu erscheinen, und die Nutzer zu weniger hilfreichen Zwischenseiten führen. Als Beispiel nennt Google ausdrücklich mehrere Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und alle zum selben Ziel führen, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten Hierarchie. Unsere Einschätzung: Dreiundzwanzig fast gleiche Bezirksseiten sind deshalb riskant.",
         },
         {
           t: "table",
@@ -153,7 +153,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Die Statistik der Stadt Wien nach Geburtsland zeigt große Gruppen aus Ost-EU-Staaten, dem früheren Jugoslawien, der Türkei und Deutschland. Dazu kommen Gäste: Für 2025 wurden laut Bericht von vienna.at 20,07 Millionen Nächtigungen registriert, 83 Prozent der Gäste kamen aus dem Ausland, die stärksten Märkte waren Deutschland, Österreich und die USA.",
+          text: "Die Statistik der Stadt Wien nach Geburtsland zeigt große Gruppen aus Ost-EU-Staaten, dem früheren Jugoslawien (ohne Kroatien und Slowenien), der Türkei und Deutschland. Dazu kommen Gäste: Für 2025 wurden laut Bericht von vienna.at 20,07 Millionen Nächtigungen registriert, 83 Prozent der Gäste kamen aus dem Ausland, die stärksten Märkte waren Deutschland, Österreich und die USA.",
         },
         {
           t: "ul",
@@ -190,7 +190,7 @@ const article: V4Article = {
       id: "lokale-erwaehnungen",
       title: "Echte Erwähnungen im Bezirk",
       answer:
-        "Beliebtheit entsteht in Wien über reale Verbindungen im Bezirk: Kontakte über die Wirtschaftskammer Wien, Bezirksmedien, Vereine, Geschäftsstraßen und Partner im selben Grätzl. Solche Erwähnungen zeigen Google und Kunden, dass Ihr Betrieb vor Ort eine Rolle spielt.",
+        "Googles Hilfe nennt für die Beliebtheit unter anderem Websites, die auf Ihr Unternehmen verweisen. Echte Verbindungen im Bezirk liefern solche Verweise: Kontakte über die Wirtschaftskammer Wien, Bezirksmedien, Vereine, Geschäftsstraßen und Partner im selben Grätzl. Unsere Einschätzung: Sie zeigen auch Kunden, dass Ihr Betrieb vor Ort eine Rolle spielt.",
       blocks: [
         {
           t: "ul",
@@ -234,7 +234,7 @@ const article: V4Article = {
       id: "bewertungen",
       title: "Bewertungen, wenn nahe Anbieter gleichauf liegen",
       answer:
-        "Wenn mehrere Anbieter ähnlich nah am Suchenden liegen, tragen Bewertungen zu Relevanz und Beliebtheit bei. Bitten Sie alle Kundinnen und Kunden auf dieselbe Weise um eine Bewertung, ohne Gegenleistung, ohne Vorauswahl und ohne Druck vor Ort.",
+        "Wenn mehrere Anbieter ähnlich nah am Suchenden liegen, tragen Bewertungen zur Beliebtheit bei. Bitten Sie alle Kundinnen und Kunden auf dieselbe Weise um eine Bewertung, ohne Gegenleistung, ohne Vorauswahl und ohne Druck vor Ort.",
       blocks: [
         {
           t: "p",
@@ -275,7 +275,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Soll ich für jeden Wiener Bezirk eine eigene Seite anlegen?",
-      a: "Nein, nicht ohne echten Grund. Eine eigene Seite lohnt sich für einen echten Standort oder wenn Sie zu einem Bezirk wirklich Eigenes sagen können, etwa Referenzen oder Anfahrt. Fast gleiche Seiten pro Bezirk oder Postleitzahl gelten bei Google als Brückenseiten.",
+      a: "Nein, nicht ohne echten Grund. Eine eigene Seite lohnt sich für einen echten Standort oder wenn Sie zu einem Bezirk wirklich Eigenes sagen können, etwa Referenzen oder Anfahrt. Fast gleiche Seiten pro Bezirk oder Postleitzahl sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten Hierarchie.",
     },
     {
       q: "Darf ich „Wien“ oder den Bezirk in meinen Firmennamen im Profil schreiben?",
@@ -301,7 +301,8 @@ const article: V4Article = {
     { title: "Gemeindebezirk", publisher: "Wien Geschichte Wiki (Stadt Wien)", url: "https://www.geschichtewiki.wien.gv.at/Gemeindebezirk" },
     { title: "Districts of Vienna (Postleitzahlen)", publisher: "Wikipedia", url: "https://en.wikipedia.org/wiki/Districts_of_Vienna" },
     { title: "Alle Ansprechpartner: Bezirksobfrauen und Bezirksobmänner", publisher: "Wirtschaftskammer Wien", url: "https://www.wko.at/wien/alle-ansprechpartner" },
-    { title: "Weihnachtsmärkte in Wien", publisher: "WienTourismus", url: "https://www.wien.info/de/aktuell/weihnachten/weihnachtsmaerkte-365008" },
+    { title: "Christkindlmärkte in Wien (Termine 2026)", publisher: "WienTourismus", url: "https://www.wien.info/de/jetzt-in-wien/weihnachten/christkindlmaerkte-342664" },
+    { title: "Wiener Christkindlmarkt am Rathausplatz 2026", publisher: "WienTourismus", url: "https://www.wien.info/de/aktuell/veranstaltungen/wiener-christkindlmarkt-1001446" },
     { title: "2025 war für Wiens Tourismus historisch", publisher: "vienna.at (APA)", url: "https://www.vienna.at/2025-war-fuer-wiens-tourismus-historisch/9953051" },
   ],
   related: [
