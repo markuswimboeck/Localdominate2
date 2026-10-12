@@ -6,7 +6,7 @@ const article: V4Article = {
   seoTitle: "Local SEO für Garten- und Landschaftsbau: das Gartenjahr",
   seoDescription:
     "Local SEO für GaLaBau-Betriebe: Profil mit Einzugsgebiet, Projektseiten mit echten Fotos, Pflegeverträge, das Gartenjahr und Bewertungen nach Google-Regeln.",
-  h1: "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden und Hausverwaltungen Ihren Betrieb",
+  h1: "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden, Verwaltungen und Gemeinden Ihren Betrieb",
   kicker: "Branchen",
   lead:
     "Für Inhaber von Garten- und Landschaftsbaubetrieben in Deutschland, Österreich und der Schweiz. Sie erfahren, wie Sie das Google-Unternehmensprofil mit Einzugsgebiet einrichten, wie Projektseiten und Fotos Anfragen bringen, wie Sie Privatkunden und gewerbliche Auftraggeber getrennt ansprechen und was im Gartenjahr zu tun ist.",
