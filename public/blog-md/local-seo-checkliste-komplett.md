@@ -70,7 +70,7 @@ Suchen Sie zuerst, ob Google schon ein Profil für Ihren Betrieb hat, und beansp
 2. **Inhaberschaft anfordern, falls nötig.** Verwaltet jemand anderes das Profil, etwa eine frühere Agentur, fordern Sie über dasselbe Formular den Zugriff an. Laut Google hat der bisherige Inhaber drei Tage Zeit zu antworten. Warum: So behalten Sie die vorhandenen Bewertungen.
 3. **Neues Profil anlegen.** Nur wenn es keines gibt, über „Unternehmen zu Google hinzufügen“. Warum: Name, Kategorie und Adresse bestimmen, für welche Suchen Sie infrage kommen.
 4. **Bestätigen.** Google wählt die Methode automatisch: Telefon oder SMS, E-Mail, Video oder Postkarte. Ist eine Videobestätigung möglich, empfiehlt Google sie. Warum: Erst die Bestätigung zeigt Google, dass Sie den Betrieb vertreten dürfen.
-5. **Während der Prüfung nichts ändern.** Bei der Postkarte gilt der Code 30 Tage. Bis Sie ihn eingegeben haben, ändern Sie laut Google weder Name noch Adresse noch Kategorie, sonst funktioniert der Code nicht. Warum: Jede Änderung kann die Prüfung neu starten.
+5. **Während der Prüfung nichts ändern.** Bei der Postkarte gilt der Code 30 Tage. Bis Sie ihn eingegeben haben, ändern Sie laut Google weder Name noch Adresse noch Kategorie, sonst funktioniert der Code nicht. Warum: Wer Name, Adresse oder Kategorie ändert, macht den Code unbrauchbar.
 
 Die Prüfung dauert laut Google bis zu fünf Werktage, in seltenen Fällen länger. Was bei einer abgelehnten oder hängenden Bestätigung hilft, steht in [Verifizierung fehlgeschlagen](https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen).
 
@@ -149,7 +149,7 @@ Notieren Sie, wo Sie welchen Eintrag mit welchem Zugang angelegt haben. Welche V
 Erstellen Sie den Bewertungslink und den QR-Code im Profil und legen Sie einen festen Moment fest, an dem jeder Kunde gefragt wird. Google erlaubt die Bitte um echte Bewertungen, verbietet aber Anreize, Vorauswahl, Quoten und Druck vor Ort.
 
 1. **Link und QR-Code erstellen.** Im Profil unter „Rezensionen lesen“ und „Mehr Rezensionen erhalten“. Den QR-Code erzeugt Google laut Hilfe nur im Browser am Computer. Warum: Ein direkter Link senkt die Hürde für Kunden.
-2. **Festen Moment wählen.** Rechnung, Dankesmail oder Abschlussnachricht. Google nennt solche Stellen selbst als Beispiele. Warum: Wer jeden Kunden zum gleichen Zeitpunkt fragt, wählt nicht nach Zufriedenheit aus.
+2. **Festen Moment wählen.** Rechnung, Dankesmail oder Abschlussnachricht sind unsere Beispiele. Warum: Wer jeden Kunden zum gleichen Zeitpunkt fragt, wählt nicht nach Zufriedenheit aus.
 3. **Team einweisen.** Wer fragt, mit welchem Satz, über welchen Kanal. Keine Vorgaben zu einer Anzahl. Warum: Quoten verbietet Google ausdrücklich.
 4. **Antworten einplanen.** Antworten ist erst nach der Bestätigung möglich. Legen Sie fest, wer antwortet. Warum: Google schreibt, dass Antworten zeigen, dass Sie Rückmeldungen ernst nehmen.
 

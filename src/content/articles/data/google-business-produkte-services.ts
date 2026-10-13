@@ -16,9 +16,9 @@ const article: V4Article = {
     "Dienstleistungen, Produkte und Speisekarte sind drei getrennte Bereiche. Welcher erscheint, hängt laut Google von Ihrem Unternehmenstyp ab.",
     "Bei Dienstleistungen schlägt Google passende Einträge vor. Fehlt eine Leistung, legen Sie eine benutzerdefinierte an, ohne Preise oder Telefonnummern im Namen.",
     "Der Produkteditor ist für Ladengeschäfte mit physischen Waren gedacht. Produkte müssen den Richtlinien für Shopping-Anzeigen entsprechen, sonst können alle hochgeladenen Produkte entfernt werden.",
-    "Regulierte Produkte wie Alkohol, Tabak, Arzneimittel oder Medizinprodukte lässt Google im Profil nicht als Produkte zu.",
+    "Regulierte Produkte wie Alkohol, Tabak, Arzneimittel oder Medizinprodukte nennt Google in den Richtlinien für Unternehmensprofile als nicht erlaubt. In den Shopping-Richtlinien gelten Tabakprodukte und Waffen zudem als unzulässige Produkte.",
     "Preise im Profil sollten genau denen auf Website und Aushang entsprechen. Abweichungen verunsichern Kunden.",
-    "Google sagt nicht, dass Produkte oder Dienstleistungen direkt das Ranking verbessern. Google empfiehlt aber, das Profil so vollständig wie möglich auszufüllen.",
+    "Eine Aussage von Google, dass Produkte oder Dienstleistungen direkt das Ranking verbessern, haben wir nicht gefunden. Google empfiehlt aber, das Profil so vollständig wie möglich auszufüllen.",
   ],
   publishedAt: "2026-02-12",
   updatedAt: "2026-10-13",
@@ -54,7 +54,7 @@ const article: V4Article = {
       id: "kategorie-entscheidet",
       title: "Welche Bereiche Ihre Kategorie freischaltet",
       answer:
-        "Laut Google können Unternehmen in bestimmten Kategorien, etwa Dienstleistungsunternehmen, ihre Dienstleistungen im Profil zeigen. Eine vollständige Liste der Kategorien veröffentlicht Google nicht. Sie sehen im Profil selbst, welche Bereiche angeboten werden.",
+        "Laut Google können Unternehmen in bestimmten Kategorien, etwa Dienstleistungsunternehmen, ihre Dienstleistungen im Profil zeigen. Eine vollständige Liste der Kategorien haben wir in Googles Hilfe nicht gefunden. Sie sehen im Profil selbst, welche Bereiche angeboten werden.",
       blocks: [
         {
           t: "p",
@@ -103,7 +103,7 @@ const article: V4Article = {
           items: [
             "**Ein Name, eine Leistung.** „Badsanierung“ statt „Badsanierung, Badumbau, Bad renovieren, Bad modernisieren“.",
             "**Die Worte Ihrer Kunden.** Welche Begriffe gesucht werden, zeigen die Suchanfragen in den Leistungsdaten Ihres Profils.",
-            "**Beschreibung in zwei oder drei Sätzen.** Was gehört dazu, für wen ist die Leistung, wie läuft sie ab. Eine Zeichengrenze nennt die Hilfeseite nicht, kurz ist auf dem Handy besser lesbar.",
+            "**Beschreibung in zwei oder drei Sätzen.** Was gehört dazu, für wen ist die Leistung, wie läuft sie ab. Eine Zeichengrenze haben wir auf der Hilfeseite nicht gefunden; kurz ist auf dem Handy besser lesbar.",
                       ],
         },
       ],
@@ -116,7 +116,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Welche Felder das Formular im Einzelnen abfragt, beschreibt Googles Hilfe nicht. Fachbeiträge nennen derzeit Produktkategorie, Foto, Name, Preis, Beschreibung und eine optionale Schaltfläche mit Link. Prüfen Sie die Felder in Ihrem eigenen Profil, sie können sich ändern.",
+          text: "Welche Felder das Formular im Einzelnen abfragt, haben wir in Googles Hilfe nicht gefunden. Fachbeiträge nennen derzeit Produktkategorie, Foto, Name, Preis, Beschreibung und eine optionale Schaltfläche mit Link. Prüfen Sie die Felder in Ihrem eigenen Profil, sie können sich ändern.",
         },
         {
           t: "table",
@@ -133,7 +133,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Produkte durchlaufen eine Prüfung. Zeigt ein Produkt „Nicht genehmigt“, öffnen Sie es und lesen den Grund. Nach dem Bearbeiten und Speichern prüft Google den Eintrag laut Hilfe automatisch innerhalb von 24 Stunden erneut. Über die Option zur erneuten Überprüfung („Request Review“ in der englischen Hilfe) können Sie eine Prüfung auch selbst anstoßen.",
+          text: "Produkte durchlaufen eine Prüfung. Zeigt ein Produkt „Nicht genehmigt“, öffnen Sie es und lesen den Grund. Nach dem Bearbeiten und Speichern prüft Google den Eintrag laut Hilfe automatisch innerhalb von 24 Stunden erneut. Über die Option „Überprüfung beantragen“ können Sie eine Prüfung auch selbst anstoßen.",
         },
       ],
     },
@@ -153,7 +153,7 @@ const article: V4Article = {
           head: ["Weg", "Für wen", "Hinweis"],
           rows: [
             ["Produkteditor", "Einzelne Produkte, kleines Sortiment", "Einträge einzeln von Hand"],
-            ["Merchant Center", "Händler, die Produkte über mehrere Geschäfte verwalten", "Zugriff auf das verknüpfte Konto nötig"],
+            ["Merchant Center", "Händler mit verknüpftem Merchant Center-Konto", "Zugriff auf das verknüpfte Konto nötig"],
             ["App „Lokales Inventar“", "Geschäfte mit Kassensystem und Herstellerbarcodes", "Laut Google nur USA, Kanada, Großbritannien, Irland, Australien"],
           ],
         },
@@ -167,7 +167,7 @@ const article: V4Article = {
       id: "richtlinien",
       title: "Was Sie eintragen dürfen und was nicht",
       answer:
-        "Produkte müssen den Richtlinien für Shopping-Anzeigen entsprechen, und regulierte Produkte wie Alkohol, Tabak, Glücksspiel, Finanzdienstleistungen, Arzneimittel, nicht zugelassene Nahrungsergänzungsmittel sowie Gesundheits- und Medizinprodukte lässt Google im Produktbereich nicht zu. Alle Angaben müssen Ihren Betrieb korrekt darstellen.",
+        "Produkte müssen den Richtlinien für Shopping-Anzeigen entsprechen, und regulierte Produkte wie Alkohol, Tabak, Glücksspiel, Finanzdienstleistungen, Arzneimittel, nicht zugelassene Nahrungsergänzungsmittel sowie Gesundheits- und Medizinprodukte nennt Google in den Richtlinien für Unternehmensprofile als nicht erlaubt. Tabakprodukte und Waffen führen die Shopping-Richtlinien zudem als unzulässige Produkte. Alle Angaben müssen Ihren Betrieb korrekt darstellen.",
       blocks: [
         {
           t: "table",
@@ -183,7 +183,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Produkte, die die Anforderungen nicht erfüllen, können laut Google Warnungen, Ablehnungen, eingeschränkte Sichtbarkeit oder eine Sperrung bekommen. Wird das ganze Profil gesperrt, gelten alle Produkte als nicht genehmigt. Was bei einer Sperrung zu tun ist, steht in [Profil gesperrt](/blog/gbp-suspendiert-reaktivieren).",
+          text: "Produkte, die die Anforderungen nicht erfüllen, können laut Google Warnungen, Ablehnungen, eingeschränkte Sichtbarkeit oder eine Sperrung bekommen. Wird das ganze Profil gesperrt, gelten alle Produkte als nicht genehmigt; nach der Reaktivierung sind sie laut Hilfe innerhalb von 5 Tagen wieder verfügbar. Was bei einer Sperrung zu tun ist, steht in [Profil gesperrt](/blog/gbp-suspendiert-reaktivieren).",
         },
         {
           t: "note",
@@ -283,7 +283,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Google nennt als Faktoren für das lokale Ranking Relevanz, Entfernung und Bekanntheit und schreibt, dass ein besseres Ranking nicht eingefordert werden kann, auch nicht gegen Bezahlung. Google empfiehlt, die Unternehmensinformationen so vollständig wie möglich anzugeben. Dass Produkte oder Dienstleistungen für sich die Position verbessern, sagt Google nicht. Mehr dazu in [Google-Maps-Ranking-Faktoren](/blog/google-maps-seo-ranking-faktoren).",
+          text: "Google nennt als Faktoren für das lokale Ranking Relevanz, Entfernung und Bekanntheit und schreibt, dass ein besseres Ranking nicht eingefordert werden kann, auch nicht gegen Bezahlung. Google empfiehlt, die Unternehmensinformationen so vollständig wie möglich anzugeben. Dass Produkte oder Dienstleistungen für sich die Position verbessern, haben wir bei Google nicht gefunden. Mehr dazu in [Google-Maps-Ranking-Faktoren](/blog/google-maps-seo-ranking-faktoren).",
         },
         {
           t: "note",
@@ -304,7 +304,7 @@ const article: V4Article = {
     },
     {
       q: "Verbessern Produkte und Dienstleistungen mein Ranking bei Google?",
-      a: "Das sagt Google nicht. Google nennt Relevanz, Entfernung und Bekanntheit als Faktoren und empfiehlt, das Profil so vollständig wie möglich auszufüllen. Eine bestimmte Position kann niemand zusagen. Gepflegte Leistungen helfen aber Kunden, schneller zu entscheiden.",
+      a: "Eine solche Aussage haben wir bei Google nicht gefunden. Google nennt Relevanz, Entfernung und Bekanntheit als Faktoren und empfiehlt, das Profil so vollständig wie möglich auszufüllen. Eine bestimmte Position kann niemand zusagen. Gepflegte Leistungen helfen aber Kunden, schneller zu entscheiden.",
     },
     {
       q: "Kann ich meine Ladenprodukte automatisch aus der Kasse übertragen?",

@@ -11,13 +11,13 @@ const article: V4Article = {
   lead:
     "Für Inhaber kleiner Betriebe in Deutschland, Österreich und der Schweiz, die wissen wollen, ob sich Beiträge im Google-Unternehmensprofil lohnen. Sie erfahren, was Google dokumentiert und was nicht, welche Inhaltsregeln gelten, wie ein schlanker Inhaltsplan aussieht und wie Sie Beiträge mit fünf Vorlagen schnell schreiben.",
   answer:
-    "Google nennt Beiträge nirgends als Ranking-Faktor. Die Ranking-Hilfe nennt Relevanz, Entfernung und Bekanntheit und erwähnt Beiträge nicht. Ein veröffentlichter Test fand keinen messbaren Effekt auf die Platzierung. Beiträge sind trotzdem nützlich: Sie zeigen Kunden, die Ihr Profil bereits sehen, Neuigkeiten, Angebote und Termine. Schreiben Sie sie für Kunden, wenn Sie etwas mitzuteilen haben, nicht als Ranking-Hebel.",
+    "In Googles Dokumentation haben wir Beiträge nirgends als Ranking-Faktor gefunden. Die Ranking-Hilfe nennt Relevanz, Entfernung und Bekanntheit und erwähnt Beiträge nicht. Ein veröffentlichter Test fand keinen messbaren Effekt auf die Platzierung. Beiträge sind trotzdem nützlich: Sie zeigen Kunden, die Ihr Profil bereits sehen, Neuigkeiten, Angebote und Termine. Schreiben Sie sie für Kunden, wenn Sie etwas mitzuteilen haben, nicht als Ranking-Hebel.",
   takeaways: [
     "Googles Hilfe zum lokalen Ranking nennt Relevanz, Entfernung und Bekanntheit. Beiträge kommen dort nicht vor, und eine bessere Position lässt sich laut Google nicht kaufen.",
     "Es gibt drei Beitragsarten: Update, Angebot und Veranstaltung. Beiträge ohne Datumsbereich archiviert Google nach sechs Monaten.",
     "Seit der Richtlinienänderung, über die im Oktober 2026 berichtet wurde, sind E-Mail-Adressen, Telefonnummern, Social-Media-Links und Links in Beiträgen unzulässig, wenn sie keinen Bezug zu Ihrem Betrieb haben. Für Anrufe gibt es den Button „Jetzt anrufen“.",
     "Seit September 2026 führt Google laut eigener Ankündigung schrittweise wieder ein, wie oft ein Beitrag gesehen wurde. Klicks zählen Sie über einen markierten Link.",
-    "Google nennt keinen Takt. Planen Sie Beiträge entlang echter Anlässe: Saison, Termine, neue Leistungen, geänderte Abläufe.",
+    "Einen Takt haben wir bei Google nicht gefunden. Planen Sie Beiträge entlang echter Anlässe: Saison, Termine, neue Leistungen, geänderte Abläufe.",
   ],
   publishedAt: "2026-01-31",
   updatedAt: "2026-10-13",
@@ -39,7 +39,7 @@ const article: V4Article = {
           head: ["Thema", "In der Ranking-Hilfe erwähnt?", "In welchem Zusammenhang"],
           rows: [
             ["Vollständige Profilangaben", "Ja", "Als Teil der Relevanz"],
-            ["Rezensionen", "Ja", "Zahl und Qualität als Teil der Bekanntheit, Antworten als Mittel, sich abzuheben"],
+            ["Rezensionen", "Ja", "Zahl und Qualität als Teil der Bekanntheit; Antworten zeigen, dass Ihnen Feedback wichtig ist"],
             ["Fotos und Videos", "Ja", "Um Kunden zu zeigen, was Sie anbieten, ohne Ranking-Zusage"],
             ["Beiträge", "Nein", "Kommen auf der Seite nicht vor"],
           ],
@@ -54,7 +54,7 @@ const article: V4Article = {
       id: "was-google-nicht-sagt",
       title: "Was Google nicht sagt und was Tests zeigen",
       answer:
-        "Google sagt weder, dass Beiträge das Ranking verbessern, noch, dass sie es sicher nicht tun. Der bekannteste veröffentlichte Test fand bei wöchentlichen Beiträgen über neun Wochen keinen messbaren Effekt auf die Positionen im Kartenblock.",
+        "Wir haben bei Google weder die Aussage gefunden, dass Beiträge das Ranking verbessern, noch die, dass sie es sicher nicht tun. Der bekannteste veröffentlichte Test fand bei wöchentlichen Beiträgen über neun Wochen keinen messbaren Effekt auf die Positionen im Kartenblock.",
       blocks: [
         {
           t: "p",
@@ -65,16 +65,16 @@ const article: V4Article = {
           caption: "Verbreitete Aussagen über Beiträge im Faktencheck",
           head: ["Behauptung", "Was belegt ist"],
           rows: [
-            ["Regelmäßige Beiträge zeigen Google, dass der Betrieb aktiv ist, und verbessern das Ranking", "Keine Aussage von Google. Der Test von Sterling Sky fand keinen Effekt."],
-            ["Keywords in Beiträgen verbessern das Ranking für diese Begriffe", "Keine Google-Quelle. Sterling Sky rät ausdrücklich davon ab, Beiträge dafür zu nutzen."],
-            ["Man muss täglich oder wöchentlich posten", "Google nennt keinen Rhythmus. Die Hilfe bietet Wiederholungen an, schreibt aber keinen Takt vor."],
-            ["Beiträge erscheinen in der Übersicht mit KI", "Google dokumentiert das nicht. Wir können es weder bestätigen noch ausschließen."],
+            ["Regelmäßige Beiträge zeigen Google, dass der Betrieb aktiv ist, und verbessern das Ranking", "Keine Aussage von Google gefunden. Der Test von Sterling Sky fand keinen Effekt."],
+            ["Keywords in Beiträgen verbessern das Ranking für diese Begriffe", "Keine Google-Quelle gefunden. Sterling Sky rät ausdrücklich davon ab, Beiträge dafür zu nutzen."],
+            ["Man muss täglich oder wöchentlich posten", "Einen Rhythmus haben wir bei Google nicht gefunden. Die Hilfe bietet Wiederholungen an, schreibt aber keinen Takt vor."],
+            ["Beiträge erscheinen in der Übersicht mit KI", "Eine Aussage dazu haben wir bei Google nicht gefunden. Wir können es weder bestätigen noch ausschließen."],
           ],
         },
         {
           t: "note",
           label: "Unsere Einschätzung",
-          text: "Ein indirekter Nutzen ist plausibel: Wer im Profil sieht, dass heute geöffnet ist, dass es ein Angebot gibt oder wann die nächste Veranstaltung stattfindet, ruft eher an oder kommt vorbei. Das ist ein Nutzen für Ihre Kunden und Ihren Umsatz. Ob Google solches Verhalten in das Ranking einbezieht, sagt Google nicht. Planen Sie deshalb nicht mit einem Ranking-Effekt und versprechen Sie sich keinen.",
+          text: "Ein indirekter Nutzen ist plausibel: Wer im Profil sieht, dass heute geöffnet ist, dass es ein Angebot gibt oder wann die nächste Veranstaltung stattfindet, ruft eher an oder kommt vorbei. Das ist ein Nutzen für Ihre Kunden und Ihren Umsatz. Ob Google solches Verhalten in das Ranking einbezieht, haben wir in Googles Dokumentation nicht gefunden. Planen Sie deshalb nicht mit einem Ranking-Effekt und versprechen Sie sich keinen.",
         },
       ],
     },
@@ -82,11 +82,11 @@ const article: V4Article = {
       id: "beitragsarten-anzeige",
       title: "Beitragsarten und wo Kunden sie sehen",
       answer:
-        "Es gibt drei Arten: Update, Angebot und Veranstaltung. Beiträge erscheinen auf dem Smartphone im Tab „Updates“ oder „Übersicht“ des Profils und am Computer im Abschnitt „Vom Inhaber“, jeweils in der Suche und in Google Maps.",
+        "Es gibt drei Arten: Update, Angebot und Veranstaltung. Beiträge erscheinen auf dem Smartphone im Tab „Aktuelle Informationen“ oder „Übersicht“ des Profils und am Computer im Abschnitt „Vom Inhaber“, jeweils in der Suche und in Google Maps.",
       blocks: [
         {
           t: "p",
-          text: "Die Grundlagen stehen auch im Abschnitt [Beiträge](/blog/google-my-business-optimieren#beitraege) unserer Anleitung zum Unternehmensprofil. Die Google-Hilfe zu Beiträgen war bei unserer Prüfung nur auf Englisch abrufbar; die Bezeichnungen in Ihrer deutschen Oberfläche können leicht abweichen.",
+          text: "Die Grundlagen stehen auch im Abschnitt [Beiträge](/blog/google-my-business-optimieren#beitraege) unserer Anleitung zum Unternehmensprofil. Die Google-Hilfe nennt die erste Beitragsart „Aktuelles“; wir sagen hier kurz „Update“.",
         },
         {
           t: "table",
@@ -95,7 +95,7 @@ const article: V4Article = {
           rows: [
             ["Update", "Keine Pflichtfelder genannt", "Beschreibung, Foto, Video, Button mit Link", "Neuigkeiten, geänderte Abläufe, neue Leistung"],
             ["Angebot", "Titel, Datum und Uhrzeit", "Beschreibung, Foto, Video, Gutscheincode, Link, Bedingungen; der Button „Angebot ansehen“ kommt automatisch", "Befristete Aktionen"],
-            ["Veranstaltung", "Titel, Start- und Enddatum, Uhrzeiten", "Beschreibung, Foto, Video, Button", "Termine, Kurse, Tag der offenen Tür"],
+            ["Veranstaltung", "Titel, Start- und Enddatum", "Uhrzeiten, Beschreibung, Foto, Video, Button", "Termine, Kurse, Tag der offenen Tür"],
           ],
         },
         {
@@ -103,7 +103,7 @@ const article: V4Article = {
           items: [
             "**Laufzeit:** Beiträge, die älter als sechs Monate sind, archiviert Google, sofern Sie keinen Datumsbereich festlegen. Eine Veranstaltung ohne Uhrzeiten gilt an ihren Tagen als ganztägig.",
             "**Planen und wiederholen:** Sie können das Veröffentlichungsdatum festlegen und Beiträge wöchentlich, monatlich oder in einem eigenen Rhythmus wiederholen lassen.",
-            "**Status:** „Live“ ist sichtbar, „Ausstehend“ ist noch in Verarbeitung oder das Profil ist nicht bestätigt, „Nicht genehmigt“ ist abgelehnt. Ein Fragezeichen neben dem Status nennt die verletzte Richtlinie.",
+            "**Status:** „Live“ ist sichtbar, „Ausstehend“ ist noch in Verarbeitung oder das Profil ist nicht bestätigt, „Nicht freigegeben“ ist abgelehnt. Ein Fragezeichen neben dem Status nennt die verletzte Richtlinie.",
             "**Hervorgehobene Beiträge:** Google zeigt auf dem Smartphone teils „Featured Posts“ aus eigenen Beiträgen oder sozialen Netzwerken. Laut Hilfe gilt das derzeit nur auf Englisch für Gastronomiebetriebe mit einem Standort in den USA, Großbritannien, Kanada, Australien und Neuseeland, also nicht im DACH-Raum.",
           ],
         },
@@ -117,7 +117,7 @@ const article: V4Article = {
       id: "inhaltsregeln",
       title: "Die Inhaltsregeln für Beiträge, Stand Oktober 2026",
       answer:
-        "Kontaktdaten und Links ohne Bezug zu Ihrem Betrieb sind in Beiträgen untersagt, und Kontaktdaten, die Google nicht bestätigen kann, führen oft zur Ablehnung. Angebote und Updates mit werblichem Inhalt sind in Beiträgen dagegen ausdrücklich erlaubt, außer für Hotels.",
+        "Kontaktdaten und Links ohne Bezug zu Ihrem Betrieb sind in Beiträgen untersagt, und Kontaktdaten, die Google nicht bestätigen kann, können dazu führen, dass der Beitrag abgelehnt oder entfernt wird. Angebote und Updates mit werblichem Inhalt sind in Beiträgen dagegen ausdrücklich erlaubt, außer für Hotels.",
       blocks: [
         {
           t: "p",
@@ -138,11 +138,11 @@ const article: V4Article = {
         {
           t: "note",
           label: "Hotels",
-          text: "Hotels dürfen laut Google Beiträge mit aktuellen Informationen erstellen, aber keine Angebotsbeiträge und keine Beiträge, die Deals, Aktionen oder Rabatte erwähnen oder darauf verlinken. Google begründet das damit, dass Gäste sonst nicht wissen, wo im Hotelprofil reguläre und Aktionspreise stehen. Mehr zur Sichtbarkeit von Hotels in [Local SEO für Hotels](/blog/local-seo-hotels).",
+          text: "Hotels dürfen laut Google Beiträge mit aktuellen Informationen erstellen, aber keine Angebotsbeiträge und keine Beiträge, die Deals, Aktionen oder Rabatte erwähnen oder darauf verlinken. Google begründet das damit, dass Preise aus der organischen Suche und aus Anzeigen immer an derselben Stelle des Hoteleintrags stehen sollen. Mehr zur Sichtbarkeit von Hotels in [Local SEO für Hotels](/blog/local-seo-hotels).",
         },
         {
           t: "p",
-          text: "Google prüft Beiträge laut Hilfe nach dem Einreichen auf diese Richtlinien. Bei Verstößen kann Google Inhalte ausblenden oder den Zugriff auf das Profil einschränken. Für Fotos in Beiträgen gelten dieselben Regeln wie für alle Profilfotos, siehe [Echte Fotos statt Stockbilder](/blog/gbp-fotos-optimieren#echt-statt-stock).",
+          text: "Google prüft Beiträge laut Hilfe nach dem Veröffentlichen auf diese Richtlinien. Bei Verstößen kann Google Inhalte ausblenden oder den Zugriff auf das Profil einschränken. Für Fotos in Beiträgen gelten dieselben Regeln wie für alle Profilfotos, siehe [Echte Fotos statt Stockbilder](/blog/gbp-fotos-optimieren#echt-statt-stock).",
         },
       ],
     },
@@ -164,7 +164,7 @@ const article: V4Article = {
             ["Neue Dauerleistung, etwa Wärmepumpen-Wartung", "Leistungen im Profil plus ein Update mit Link zur Leistungsseite", "Das Feld beschreibt, der Beitrag kündigt an"],
             ["Betriebsurlaub oder Feiertage", "Spezielle Öffnungszeiten plus ein kurzes Update", "Die Zeiten müssen im Feld stimmen, der Beitrag erklärt"],
             ["Saisonaktion mit Enddatum", "Angebot (nicht für Hotels)", "Läuft mit Datum ab und wirkt nicht veraltet"],
-            ["Kurs, Verkostung, Tag der offenen Tür", "Veranstaltung", "Datum und Uhrzeit sind Pflicht und sofort sichtbar"],
+            ["Kurs, Verkostung, Tag der offenen Tür", "Veranstaltung", "Start- und Enddatum sind Pflicht und sofort sichtbar"],
           ],
         },
         {
@@ -178,7 +178,7 @@ const article: V4Article = {
       id: "inhaltsplan",
       title: "Ein kurzer Inhaltsplan für das ganze Jahr",
       answer:
-        "Legen Sie einmal im Jahr eine Liste echter Anlässe an und planen Sie daraus Beiträge vor. Für die meisten kleinen Betriebe reichen ein bis vier Beiträge im Monat, je nachdem, wie viel tatsächlich passiert.",
+        "Legen Sie einmal im Jahr eine Liste echter Anlässe an und planen Sie daraus Beiträge vor. Nach unserer Einschätzung reichen den meisten kleinen Betrieben ein bis vier Beiträge im Monat, je nachdem, wie viel tatsächlich passiert.",
       blocks: [
         {
           t: "steps",
@@ -258,7 +258,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google hatte die Statistiken zu Beiträgen laut Search Engine Roundtable im Januar 2023 abgeschaltet. Im Small-Business-Bulletin vom 10. September 2026 kündigte Google an, wieder anzuzeigen, wie oft Kunden Beiträge gesehen haben, über alle Beitragsarten, für die letzten 18 Monate und zusammengefasst für Suche und Maps. Laut PPC Land erscheinen die Zahlen im Profil auf jeder Beitragskarte; über die Schnittstelle (API) waren sie zunächst nicht abrufbar. Klicks auf Beiträge zeigt Google nach diesen Berichten weiterhin nicht.",
+          text: "Google hatte die Statistiken zu Beiträgen laut Search Engine Roundtable im Januar 2023 abgeschaltet. Im Small-Business-Bulletin vom 10. September 2026 kündigte Google an, wieder anzuzeigen, wie oft Kunden Beiträge gesehen haben, über alle Beitragsarten, für die letzten 18 Monate und zusammengefasst für Suche und Maps. Laut PPC Land erscheinen die Zahlen im Profil auf jeder Beitragskarte; über die Schnittstelle (API) waren sie zunächst nicht abrufbar. Klicks auf Beiträge zeigt Google nach diesen Berichten weiterhin nicht; in den Leistungsdaten des Profils führt Google nur für Angebote eine Kennzahl mit Ansichten und Klicks auf.",
         },
         {
           t: "table",
@@ -285,7 +285,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Verbessern Google-Beiträge mein Ranking in Google Maps?",
-      a: "Google sagt das nicht. Die Hilfe zum lokalen Ranking nennt Relevanz, Entfernung und Bekanntheit und erwähnt Beiträge nicht. Ein veröffentlichter Test von Sterling Sky fand keinen messbaren Effekt. Nutzen Sie Beiträge für Ihre Kunden, nicht als Ranking-Hebel.",
+      a: "Google sagt das nicht, jedenfalls haben wir keine Aussage gefunden. Die Hilfe zum lokalen Ranking nennt Relevanz, Entfernung und Bekanntheit und erwähnt Beiträge nicht. Ein veröffentlichter Test von Sterling Sky fand keinen messbaren Effekt. Nutzen Sie Beiträge für Ihre Kunden, nicht als Ranking-Hebel.",
     },
     {
       q: "Wie lange bleibt ein Beitrag sichtbar?",
@@ -297,7 +297,7 @@ const article: V4Article = {
     },
     {
       q: "Wie oft sollte ich Beiträge veröffentlichen?",
-      a: "Google nennt keinen Rhythmus. Veröffentlichen Sie einen Beitrag, wenn es etwas Neues gibt: ein Angebot, einen Termin, eine Änderung oder eine neue Leistung. Für viele kleine Betriebe sind das ein bis vier Beiträge im Monat.",
+      a: "Einen Rhythmus haben wir bei Google nicht gefunden. Veröffentlichen Sie einen Beitrag, wenn es etwas Neues gibt: ein Angebot, einen Termin, eine Änderung oder eine neue Leistung. Nach unserer Einschätzung sind das für viele kleine Betriebe ein bis vier Beiträge im Monat.",
     },
     {
       q: "Kann ich sehen, wie viele Menschen meine Beiträge gesehen haben?",
@@ -306,7 +306,7 @@ const article: V4Article = {
   ],
   sources: [
     { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
-    { title: "Create & manage posts on your Business Profile (Beiträge erstellen und verwalten)", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7342169?hl=de" },
+    { title: "Beiträge in Ihrem Unternehmensprofil erstellen und verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7342169?hl=de" },
     { title: "Business Profile photos, videos & posts content policy", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7213077?hl=de" },
     { title: "Prohibited & restricted content (Advertising & solicitation)", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=en" },
     { title: "All Business Profile policies & guidelines", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7667250?hl=de" },

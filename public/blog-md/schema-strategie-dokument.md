@@ -237,7 +237,7 @@ Die Stammdaten pflegt am besten die Person, die auch das Google-Unternehmensprof
 - [Strukturierte Daten für Organisationen (Organization)](https://developers.google.com/search/docs/appearance/structured-data/organization?hl=de), Google Search Central
 - [Strukturierte Daten für Artikel (Article, BlogPosting)](https://developers.google.com/search/docs/appearance/structured-data/article?hl=de), Google Search Central
 - [Strukturierte Daten für Navigationspfade (BreadcrumbList)](https://developers.google.com/search/docs/appearance/structured-data/breadcrumb?hl=de), Google Search Central
-- [Rezensions-Snippet (Review, AggregateRating; zuletzt aktualisiert 2. Oktober 2026)](https://developers.google.com/search/docs/appearance/structured-data/review-snippet?hl=de), Google Search Central
+- [Rezensions-Snippet (Review, AggregateRating; zuletzt aktualisiert 8. September 2026)](https://developers.google.com/search/docs/appearance/structured-data/review-snippet?hl=de), Google Search Central
 - [Strukturierte Daten für Produkte](https://developers.google.com/search/docs/appearance/structured-data/product?hl=de), Google Search Central
 - [Unterstützte Funktionen für strukturierte Daten](https://developers.google.com/search/docs/appearance/structured-data/search-gallery?hl=de), Google Search Central
 - [Latest documentation updates (FAQ-Snippets ab 7. Mai 2026 eingestellt, HowTo-Dokumentation 2023 entfernt)](https://developers.google.com/search/updates), Google Search Central

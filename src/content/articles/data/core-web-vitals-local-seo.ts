@@ -58,7 +58,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google schreibt, dass seine Ranking-Systeme die Core Web Vitals verwenden, und empfiehlt Website-Inhabern, gute Werte anzustreben. Die Seite zur Nutzerfreundlichkeit ergänzt die Grenzen: Gute Werte in der Search Console oder in anderen Tools garantieren nicht, dass Ihre Seiten ganz oben stehen. Google ist bestrebt, immer die relevantesten Inhalte zu zeigen, auch wenn die Nutzerfreundlichkeit nicht optimal ist. Eine gute Nutzerfreundlichkeit hilft vor allem dort, wo viele Seiten ähnlich hilfreiche Inhalte bieten.",
+          text: "Google schreibt, dass gute Core Web Vitals zu dem passen, was seine Kernranking-Systeme belohnen wollen, und empfiehlt Website-Inhabern, gute Werte anzustreben. Die Seite zur Nutzerfreundlichkeit ergänzt die Grenzen: Gute Werte in der Search Console oder in anderen Tools garantieren nicht, dass Ihre Seiten ganz oben stehen. Google ist bestrebt, immer die relevantesten Inhalte zu zeigen, auch wenn die Nutzerfreundlichkeit nicht optimal ist. Eine gute Nutzerfreundlichkeit hilft vor allem dort, wo viele Seiten ähnlich hilfreiche Inhalte bieten.",
         },
         {
           t: "p",
@@ -251,7 +251,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Sind die Core Web Vitals ein Rankingfaktor?",
-      a: "Google schreibt, dass seine Ranking-Systeme die Core Web Vitals verwenden. Es gibt aber kein einzelnes Signal für die Nutzerfreundlichkeit, und gute Werte garantieren keine Top-Position. Relevante Inhalte gehen vor.",
+      a: "Google schreibt, dass gute Core Web Vitals zu dem passen, was seine Kernranking-Systeme belohnen wollen. Es gibt aber kein einzelnes Signal für die Nutzerfreundlichkeit, und gute Werte garantieren keine Top-Position. Relevante Inhalte gehen vor.",
     },
     {
       q: "Warum zeigt PageSpeed Insights für meine Website keine Felddaten?",
@@ -267,8 +267,8 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Core Web Vitals und Google-Suchergebnisse (Stand 18. Dezember 2025)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/core-web-vitals?hl=de" },
-    { title: "Understanding page experience in Google Search results (Stand 22. September 2026)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/page-experience" },
+    { title: "Core Web Vitals und Google-Suchergebnisse (Stand 10. Dezember 2025)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/core-web-vitals?hl=de" },
+    { title: "Understanding page experience in Google Search results (Stand 24. September 2026)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/page-experience" },
     { title: "How the Core Web Vitals metrics thresholds were defined", publisher: "web.dev", url: "https://web.dev/articles/defining-core-web-vitals-thresholds" },
     { title: "Interaction to Next Paint is officially a Core Web Vital", publisher: "web.dev", url: "https://web.dev/blog/inp-cwv-launch" },
     { title: "About PageSpeed Insights", publisher: "Google for Developers", url: "https://developers.google.com/speed/docs/insights/v5/about" },

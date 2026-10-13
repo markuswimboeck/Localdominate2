@@ -82,7 +82,7 @@ const article: V4Article = {
             { title: "Inhaberschaft anfordern, falls nötig", text: "Verwaltet jemand anderes das Profil, etwa eine frühere Agentur, fordern Sie über dasselbe Formular den Zugriff an. Laut Google hat der bisherige Inhaber drei Tage Zeit zu antworten. Warum: So behalten Sie die vorhandenen Bewertungen." },
             { title: "Neues Profil anlegen", text: "Nur wenn es keines gibt, über „Unternehmen zu Google hinzufügen“. Warum: Name, Kategorie und Adresse bestimmen, für welche Suchen Sie infrage kommen." },
             { title: "Bestätigen", text: "Google wählt die Methode automatisch: Telefon oder SMS, E-Mail, Video oder Postkarte. Ist eine Videobestätigung möglich, empfiehlt Google sie. Warum: Erst die Bestätigung zeigt Google, dass Sie den Betrieb vertreten dürfen." },
-            { title: "Während der Prüfung nichts ändern", text: "Bei der Postkarte gilt der Code 30 Tage. Bis Sie ihn eingegeben haben, ändern Sie laut Google weder Name noch Adresse noch Kategorie, sonst funktioniert der Code nicht. Warum: Jede Änderung kann die Prüfung neu starten." },
+            { title: "Während der Prüfung nichts ändern", text: "Bei der Postkarte gilt der Code 30 Tage. Bis Sie ihn eingegeben haben, ändern Sie laut Google weder Name noch Adresse noch Kategorie, sonst funktioniert der Code nicht. Warum: Wer Name, Adresse oder Kategorie ändert, macht den Code unbrauchbar." },
           ],
         },
         {
@@ -208,7 +208,7 @@ const article: V4Article = {
           t: "steps",
           items: [
             { title: "Link und QR-Code erstellen", text: "Im Profil unter „Rezensionen lesen“ und „Mehr Rezensionen erhalten“. Den QR-Code erzeugt Google laut Hilfe nur im Browser am Computer. Warum: Ein direkter Link senkt die Hürde für Kunden." },
-            { title: "Festen Moment wählen", text: "Rechnung, Dankesmail oder Abschlussnachricht. Google nennt solche Stellen selbst als Beispiele. Warum: Wer jeden Kunden zum gleichen Zeitpunkt fragt, wählt nicht nach Zufriedenheit aus." },
+            { title: "Festen Moment wählen", text: "Rechnung, Dankesmail oder Abschlussnachricht sind unsere Beispiele. Warum: Wer jeden Kunden zum gleichen Zeitpunkt fragt, wählt nicht nach Zufriedenheit aus." },
             { title: "Team einweisen", text: "Wer fragt, mit welchem Satz, über welchen Kanal. Keine Vorgaben zu einer Anzahl. Warum: Quoten verbietet Google ausdrücklich." },
             { title: "Antworten einplanen", text: "Antworten ist erst nach der Bestätigung möglich. Legen Sie fest, wer antwortet. Warum: Google schreibt, dass Antworten zeigen, dass Sie Rückmeldungen ernst nehmen." },
           ],
