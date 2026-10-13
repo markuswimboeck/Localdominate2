@@ -1,114 +1,247 @@
 ---
-title: "Local SEO Reporting Template: Monatlicher Report + KPI-Vorlage"
+title: "Local-SEO-Reporting: die Vorlage für einen Monatsbericht auf einer Seite"
 slug: local-seo-reporting-template
 url: https://localdominate.org/blog/local-seo-reporting-template
 canonical: https://localdominate.org/blog/local-seo-reporting-template
 markdown_url: https://localdominate.org/blog-md/local-seo-reporting-template.md
 language: de-DE
 published: 2026-03-05
-updated: 2026-03-05
-reading_time_minutes: 16
-category: "Strategie"
-author: LocalDominate
+updated: 2026-10-13
+reading_time_minutes: 13
+category: "Messen"
+author: LocalDominate Redaktion
+accountable: Markus Wimböck
 publisher: LocalDominate
-license: https://creativecommons.org/licenses/by/4.0/
-citation: "LocalDominate (2026-03-05). Local SEO Reporting Template: Monatlicher Report + KPI-Vorlage. https://localdominate.org/blog/local-seo-reporting-template"
-keywords: ["local seo reporting", "local seo report vorlage", "local seo kpis", "seo reporting template", "google business report", "local seo metriken"]
-area_served: [Deutschland, Österreich, Schweiz]
-ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
+description: "Vorlage für einen einseitigen Local-SEO-Monatsbericht: welche Zahl woher kommt, wie Sie Saison und kleine Zahlen lesen und was in die nächsten Schritte gehört."
 ---
 
-<!--
-JSON-LD (Schema.org Article):
+# Local-SEO-Reporting: die Vorlage für einen Monatsbericht auf einer Seite
 
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "@id": "https://localdominate.org/blog/local-seo-reporting-template#article",
-  "headline": "Local SEO Reporting Template: Monatlicher Report + KPI-Vorlage",
-  "description": "Kostenlose Local SEO Report-Vorlage mit 10 KPIs, wöchentlicher Checkliste und ROI-Berechnung. Monatlichen Report erstellen wie ein Profi.",
-  "url": "https://localdominate.org/blog/local-seo-reporting-template",
-  "inLanguage": "de-DE",
-  "datePublished": "2026-03-05",
-  "dateModified": "2026-03-05",
-  "timeRequired": "PT16M",
-  "keywords": "local seo reporting, local seo report vorlage, local seo kpis, seo reporting template, google business report, local seo metriken",
-  "author": {
-    "@type": "Organization",
-    "name": "LocalDominate",
-    "url": "https://localdominate.org"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "LocalDominate",
-    "url": "https://localdominate.org",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://localdominate.org/logo.png"
-    }
-  },
-  "isAccessibleForFree": true,
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creditText": "Quelle: LocalDominate (localdominate.org)",
-  "encoding": {
-    "@type": "MediaObject",
-    "encodingFormat": "text/markdown",
-    "contentUrl": "https://localdominate.org/blog-md/local-seo-reporting-template.md"
-  },
-  "about": {
-    "@type": "Thing",
-    "name": "Strategie"
-  },
-  "areaServed": [
-    {
-      "@type": "Country",
-      "name": "Deutschland",
-      "sameAs": "https://www.wikidata.org/wiki/Q183"
-    },
-    {
-      "@type": "Country",
-      "name": "Österreich",
-      "sameAs": "https://www.wikidata.org/wiki/Q40"
-    },
-    {
-      "@type": "Country",
-      "name": "Schweiz",
-      "sameAs": "https://www.wikidata.org/wiki/Q39"
-    }
-  ]
-}
-```
--->
+Für Inhaber lokaler Betriebe, die jeden Monat entscheiden wollen, was als Nächstes zu tun ist, und für Agenturen, die einem Inhaber berichten. Sie bekommen eine Vorlage für eine Seite, erfahren, welche Zahl Sie aus welchem Werkzeug holen, wie Sie Saison und kleine Zahlen richtig lesen und wie Sie den Teil „Maßnahmen und nächste Schritte“ schreiben.
 
-# Local SEO Reporting Template: Monatlicher Report + KPI-Vorlage
+## Die kurze Antwort
 
-> Kanonische URL: https://localdominate.org/blog/local-seo-reporting-template
-> Aktualisiert: 2026-03-05 · Lesezeit: 16 Min · Kategorie: Strategie
-> Lizenz: CC-BY 4.0 — Zitate mit Quellenangabe erlaubt.
+Ein guter Local-SEO-Monatsbericht passt auf eine Seite und dient einer Entscheidung. Er enthält wenige Zahlen aus dem Google-Unternehmensprofil, der Search Console, der Web-Analyse und dem eigenen Anfrage- und Buchungseingang, jeweils mit Vorjahresmonat. Darunter steht, was im Monat geändert wurde, was die Zahlen zeigen und welche zwei oder drei Schritte als Nächstes folgen, mit Verantwortlichem und Termin.
 
-## Kurzbeschreibung
+## Das Wichtigste in Kürze
 
-Kostenlose Local SEO Report-Vorlage mit 10 KPIs, wöchentlicher Checkliste und ROI-Berechnung. Monatlichen Report erstellen wie ein Profi.
+- Der Bericht dient einer Entscheidung, nicht der Sammlung. Sechs bis zehn Zahlen auf einer Seite reichen, dazu ein kurzer Text mit Maßnahmen und nächsten Schritten.
+- Die Leistungsdaten im Unternehmensprofil zählen Klicks auf die Anruftaste, nicht geführte Gespräche, und enthalten laut Google auch Aufrufe und Aktionen aus Google Ads.
+- Vergleichen Sie mit dem Vorjahresmonat, nicht nur mit dem Vormonat. Die Search Console speichert laut Google nur 16 Monate, notieren Sie die Werte deshalb jeden Monat.
+- Bei kleinen Zahlen sind Schwankungen von wenigen Anrufen oder Anfragen normal. Zeigen Sie absolute Werte und ziehen Sie Schlüsse erst über mehrere Monate.
+- Der wichtigste Teil steht unten: was geändert wurde, was die Zahlen zeigen und was als Nächstes kommt, mit Namen und Datum.
 
-## Zusammenfassung
+## Wozu ein Monatsbericht auf einer Seite
 
-Die komplette Vorlage für professionelles Local SEO Reporting: 10 KPIs, monatlicher Report-Aufbau, Wettbewerber-Vergleich und ROI-Berechnung.
+Ein Monatsbericht soll eine Frage beantworten: Machen wir weiter wie bisher, ändern wir etwas oder hören wir mit etwas auf? Dafür braucht es wenige, gut erklärte Zahlen und einen klaren Text, keine dreißig Diagramme.
 
-## Schlüsselbegriffe
+Viele Berichte zeigen alles, was ein Werkzeug hergibt, und der Inhaber weiß danach nicht, was er tun soll. Ein einseitiger Bericht zwingt zur Auswahl: Nur was eine Entscheidung stützt, kommt hinein.
 
-- local seo reporting
-- local seo report vorlage
-- local seo kpis
-- seo reporting template
-- google business report
-- local seo metriken
+Dieser Artikel ergänzt drei andere. Welche Zahlen zur lokalen Suche überhaupt eine Quelle haben und wie Sie Ihre Rohdaten monatlich erheben, steht in [Local-SEO-Zahlen](https://localdominate.org/blog/local-seo-statistiken-daten#monatstabelle). Wie Sie Positionen in Google Maps über Ihr Einzugsgebiet messen, zeigt der [Google-Maps-Ranking-Tracker](https://localdominate.org/blog/google-maps-ranking-tracker). Welche Kennzahlen sich grundsätzlich eignen, beschreibt [Local SEO Tracking und KPIs](https://localdominate.org/blog/local-seo-tracking-kpis). Hier geht es um den nächsten Schritt: aus diesen Daten einen Bericht zu machen, nach dem jemand handelt.
 
-## Quelle und Autor
+## Die Vorlage: fünf Blöcke auf einer Seite
 
-Verfasst und veröffentlicht von **LocalDominate** — Spezialagentur für Local SEO, Google Business Profil und Generative Engine Optimization (GEO) im DACH-Raum.
+Die Vorlage hat fünf Blöcke: Kopf mit Zeitraum, Ergebnis im Betrieb, Sichtbarkeit im Unternehmensprofil, Website und Suche, und zum Schluss Maßnahmen und nächste Schritte. Jede Zahl steht neben dem Vorjahresmonat.
 
-- Webseite: https://localdominate.org
-- Vollständiger Artikel (HTML): https://localdominate.org/blog/local-seo-reporting-template
-- Maschinenlesbare Fassung (Markdown): https://localdominate.org/blog-md/local-seo-reporting-template.md
-- Zitiervorlage: LocalDominate (2026-03-05). Local SEO Reporting Template: Monatlicher Report + KPI-Vorlage. https://localdominate.org/blog/local-seo-reporting-template
+*Vorlage Monatsbericht (Platzhalter in eckigen Klammern ersetzen)*
+
+| Block | Zeile | Quelle | [Monat Jahr] | [Vorjahresmonat] | [Vormonat] |
+| --- | --- | --- | --- | --- | --- |
+| 1 Kopf | Betrieb, Standort, Zeitraum, erstellt am |  |  |  |  |
+| 2 Ergebnis | Anfragen, Termine oder Aufträge mit Quelle Google | Eigener Eingang, Anmeldebogen |  |  |  |
+| 2 Ergebnis | Buchungen online | Buchungssystem |  |  |  |
+| 3 Profil | Aufrufe | Unternehmensprofil, Leistung |  |  |  |
+| 3 Profil | Anrufe (Klicks auf die Anruftaste) | Unternehmensprofil, Leistung |  |  |  |
+| 3 Profil | Wegbeschreibungen | Unternehmensprofil, Leistung |  |  |  |
+| 3 Profil | Website-Klicks | Unternehmensprofil, Leistung |  |  |  |
+| 3 Profil | Neue Bewertungen, Durchschnitt | Unternehmensprofil |  |  |  |
+| 4 Website | Klicks aus der Google Suche, ohne Markensuchen | Search Console, Leistung |  |  |  |
+| 4 Website | Impressionen in Übersichten mit KI und KI-Modus | Search Console, generative KI-Funktionen |  |  |  |
+| 4 Website | Besuche über den Profil-Link, Schlüsselereignisse | Web-Analyse |  |  |  |
+| 5 Text | Was wir geändert haben, was die Zahlen zeigen, nächste Schritte | Eigene Notiz |  |  |  |
+
+Ergebnis steht bewusst vor Sichtbarkeit: Anfragen und Buchungen sind das, wofür der Betrieb bezahlt, Aufrufe und Klicks erklären, woher sie kommen könnten. Fehlt eine Zeile, weil Sie etwa keine Online-Buchung haben, streichen Sie sie, statt sie leer zu lassen.
+
+> **Einschätzung:** Positionen aus einem Ranking-Tracker gehören nur in den Bericht, wenn Sie sie nach derselben Methode jeden Monat messen. Eine einzelne Position vom eigenen Handy ist für einen Bericht ungeeignet, weil die Entfernung zum Suchenden in das lokale Ranking einfließt.
+
+## Welche Zahl Sie woher nehmen
+
+Das Unternehmensprofil liefert Aufrufe, Suchbegriffe, Anrufe, Wegbeschreibungen, Website-Klicks und je nach Branche Buchungen, die Search Console Klicks und Impressionen der Website, die Web-Analyse Besuche und Schlüsselereignisse. Jede Zahl misst etwas anderes, deshalb werden sie nie addiert.
+
+*Werte im Leistungsbericht des Unternehmensprofils laut Google-Hilfe*
+
+| Wert | Was Google zählt | Was Sie im Bericht dazuschreiben |
+| --- | --- | --- |
+| Aufrufe | Personen, die Ihr Profil in Suche und Maps angesehen haben, je Person höchstens einmal pro Tag | Reichweite, kein Interesse |
+| Suchanfragen | Suchbegriffe, über die Ihr Profil gefunden wurde. Aktualisierung zu Monatsbeginn, Anzeige bis zu fünf Tage später | Die drei häufigsten Begriffe ohne Ihren Namen |
+| Anrufe | Klicks auf die Anrufschaltfläche im Profil | Ein Klick ist noch kein Gespräch |
+| Wegbeschreibungen | Routenanfragen, bereinigt um Mehrfachtipps, Abbrüche und Spam | Wichtig bei Kundenverkehr vor Ort |
+| Website-Klicks | Klicks auf den Website-Link im Profil | Mit den Besuchen in der Web-Analyse vergleichen |
+| Buchungen | Abgeschlossene Buchungen über einen angebundenen Buchungsanbieter | Nur wenn eingerichtet |
+
+Zwei Hinweise aus Googles Hilfe sind für Berichte wichtig. Die Leistungsdaten gibt es nur für bestätigte Profile. Und sie enthalten Aufrufe, Suchen und Aktionen aus den organischen Ergebnissen **und aus Google Ads**. Schalten Sie Anzeigen, schreiben Sie das in den Kopf des Berichts, sonst schreiben Sie einen Anstieg womöglich der Profilpflege zu, obwohl er aus der Werbung kommt.
+
+*Search Console und Web-Analyse*
+
+| Zahl | Wo Sie sie finden | Was Sie wissen sollten |
+| --- | --- | --- |
+| Klicks, Impressionen, Klickrate, durchschnittliche Position | Search Console, Leistung, Suchergebnisse | Standardansicht sind die letzten drei Monate. Die neuesten Daten können vorläufig sein |
+| Klicks ohne Markensuchen | Search Console, Filter für Markensuchanfragen | Nicht für Unterverzeichnis-Properties und Websites mit wenigen Impressionen. Google ordnet die Suchanfragen automatisch zu, einzelne können laut Google falsch eingeordnet sein |
+| Impressionen in Übersichten mit KI und KI-Modus | Search Console, Leistungsbericht zu generativen KI-Funktionen | Laut Google seit 31. August 2026 für alle Websites. Erscheint bei zu wenigen Impressionen meist nicht |
+| Besuche über den Profil-Link | Web-Analyse, Kampagnen | Nur wenn der Website-Link im Profil UTM-Parameter trägt |
+| Schlüsselereignisse | Google Analytics 4 | Zum Beispiel Formular gesendet oder Telefonnummer angetippt. Bis zu 30 in Standard-Properties |
+
+Für den markierten Profil-Link verlangt Google Analytics immer utm_source, utm_medium und utm_campaign, und die Werte unterscheiden Groß- und Kleinschreibung. Legen Sie die Schreibweise einmal fest und ändern Sie sie nicht mehr, sonst zerfallen Ihre Monatswerte in mehrere Zeilen. Wie Sie den KI-Bericht der Search Console im Detail lesen, steht in [KI-Zitate überwachen](https://localdominate.org/blog/ai-zitat-monitoring-local-seo-2026#search-console).
+
+## Anrufe und Buchungen: die Zahlen aus dem Betrieb
+
+Die wichtigsten Zahlen stehen in keinem Google-Werkzeug: angenommene Anrufe, Anfragen und Buchungen, die tatsächlich bei Ihnen ankommen. Halten Sie sie im eigenen Eingang fest und fragen Sie neue Kunden, wie sie Sie gefunden haben.
+
+- **Telefonanlage oder Mobilfunkvertrag:** angenommene und verpasste Anrufe pro Monat. Viele verpasste Anrufe zu bestimmten Zeiten sind oft wichtiger als jede Sichtbarkeitszahl.
+- **Frage nach der Quelle:** im Anmeldebogen, im Buchungsformular oder am Telefon. Die Antwort „Google“ unterscheidet nicht zwischen Profil, Suche und Anzeige, ist aber die einzige Zahl, die einen echten Kunden mit Google verbindet.
+- **Buchungssystem:** Buchungen pro Monat, wenn möglich nach Quelle getrennt.
+- **Anfragen per Formular und E-Mail:** Anzahl, und wie viele davon aus Ihrem Einzugsgebiet kamen und zu Ihrem Angebot passten.
+
+Laut Googles Richtlinien muss die Telefonnummer im Profil unter der direkten Kontrolle des Betriebs stehen und zu Ihrem Standort führen. Weiterleitungsnummern, über die Anrufer nicht direkt mit Ihrem Betrieb verbunden werden, sind nicht erlaubt. Neben der primären Nummer können Sie bis zu zwei weitere angeben.
+
+> **Einschätzung zu Tracking-Nummern:** Google regelt Tracking-Nummern in den Richtlinien nicht ausdrücklich. Wir raten, im Profil Ihre echte Nummer zu lassen, weil die Anrufe aus dem Profil ohnehin in den Leistungsdaten gezählt werden. Wer Anrufe von der Website getrennt messen will, setzt eine eigene Nummer besser nur auf der Website ein und klärt den Datenschutz mit dem Anbieter.
+
+## Die Zahlen richtig lesen: Saison und Vorjahr
+
+Vergleichen Sie jeden Monat mit demselben Monat im Vorjahr, weil lokale Nachfrage oft saisonal schwankt. Der Vergleich mit dem Vormonat zeigt vor allem die Saison, nicht Ihre Arbeit.
+
+Ein Gartenbaubetrieb hat im März mehr Anfragen als im Januar, eine Heizungsfirma im Oktober mehr als im Juni. Das sagt nichts über die Wirkung von Maßnahmen. Google empfiehlt selbst, bei einem Rückgang einen längeren Zeitraum anzusehen, um wiederkehrende Muster im Jahr auszuschließen, und mit Google Trends zu prüfen, ob sich das Interesse in Ihrer Branche insgesamt verändert hat.
+
+*Lesehilfen für den Bericht*
+
+| Situation | So lesen Sie sie |
+| --- | --- |
+| Vormonat schlechter, Vorjahresmonat besser | Wahrscheinlich Saison. Kein Grund zum Umsteuern |
+| Vorjahresmonat schlechter, mehrere Monate in Folge | Echter Rückgang möglich. Profil, Website und Wettbewerb prüfen |
+| Aufrufe steigen, Anrufe und Anfragen nicht | Sichtbar, aber nicht überzeugend. Fotos, Bewertungen, Öffnungszeiten und Website aus Kundensicht prüfen |
+| Ein Wert springt in einem einzigen Monat | Sondereffekt suchen: Feiertage, Betriebsurlaub, Anzeigen, Presseartikel, Messfehler |
+| Website-Klicks im Profil und Besuche in der Web-Analyse weichen ab | Normal. Sie zählen Verschiedenes, und Besuche ohne Einwilligung können je nach Einrichtung in der Analyse fehlen |
+
+Die Search Console hält laut Google nur die letzten 16 Monate vor. Für den Unternehmensprofil-Bericht nennt die Hilfeseite keinen Zeitraum. Tragen Sie die Werte deshalb jeden Monat in Ihre eigene Tabelle ein, so haben Sie den Vorjahresmonat auch in zwei Jahren noch. Wer mehrere Profile verwaltet, kann die Leistungsdaten laut Google im Business Profile Manager als Tabelle herunterladen.
+
+> **Gut zu wissen:** Der Leistungsbericht zu generativen KI-Funktionen ist laut Google seit dem 31. August 2026 für alle Websites verfügbar. Prüfen Sie, ab welchem Datum er für Ihre Website Werte zeigt. Fehlt der Vorjahresmonat, schreiben Sie in diese Zeile „neu, noch kein Vergleich“, statt einen Trend zu behaupten.
+
+## Kleine Zahlen ehrlich darstellen
+
+Bei kleinen Betrieben ist ein Unterschied von wenigen Anrufen oder Anfragen meist Zufall. Zeigen Sie absolute Zahlen statt Prozenten und urteilen Sie erst über drei Monate oder den Vorjahresvergleich.
+
+Von 8 auf 12 Formularanfragen sind rechnerisch 50 % mehr. Das klingt nach Erfolg, sind aber vier Anfragen. Schon eine Woche Urlaub, ein Feiertag oder ein einzelner Großkunde erklärt solche Unterschiede.
+
+- **Absolut statt relativ:** „12 statt 8 Anfragen“ ist ehrlicher als „+50 %“.
+- **Drei Monate zusammen:** Summieren Sie zusätzlich die letzten drei Monate und vergleichen Sie mit denselben drei Monaten im Vorjahr.
+- **Richtung statt Ausschlag:** Erst wenn ein Wert mehrere Monate in dieselbe Richtung läuft, ist er eine Aussage.
+- **Keine Branchenwerte als Maßstab:** Prozentwerte wie „gute Klickrate“ ohne Quelle für Ihre Branche und Region taugen nicht als Ziel. Ihr eigener Vorjahreswert ist der bessere Vergleich.
+
+> **Einschätzung:** Eine feste Grenze, ab der eine Veränderung „echt“ ist, gibt es für Monatsberichte kleiner Betriebe nicht. Als Faustregel nutzen wir: Je kleiner die Zahl, desto mehr Monate brauchen Sie, bevor Sie eine Entscheidung darauf stützen.
+
+## Der Teil „Maßnahmen und nächste Schritte“
+
+Unter den Zahlen stehen drei kurze Absätze: was im Monat geändert wurde (mit Datum), was die Zahlen zeigen und was nicht, und zwei bis drei nächste Schritte mit Verantwortlichem und Termin. Dieser Teil ist der Grund, warum es den Bericht gibt.
+
+1. **Was wir geändert haben.** Jede Änderung mit Datum: neue Leistungsseite online am 9., Hauptkategorie geändert am 14., Sonderöffnungszeiten eingetragen. Ohne Datum lässt sich ein Ausschlag später keiner Ursache zuordnen.
+2. **Was die Zahlen zeigen.** Zwei bis vier Sätze, nüchtern. Was ist gegenüber dem Vorjahresmonat anders, was ist vermutlich Saison, was ist zu klein für eine Aussage.
+3. **Was wir noch nicht wissen.** Offen benennen, was der Bericht nicht beantworten kann, etwa ob eine Änderung schon wirkt.
+4. **Nächste Schritte.** Höchstens drei, jeder mit Verantwortlichem und Termin. Dazu, woran Sie in den nächsten Berichten sehen, ob der Schritt etwas gebracht hat.
+
+*Formulierungen im Vergleich*
+
+| Unbrauchbar | Brauchbar |
+| --- | --- |
+| „Sichtbarkeit deutlich verbessert“ | „Aufrufe 1.180 statt 1.050 im Vorjahresmonat, Anrufe fast gleich“ |
+| „Ranking optimiert“ | „Hauptkategorie am 14. geändert. Wirkung frühestens im nächsten Bericht prüfbar“ |
+| „Weiter Content erstellen“ | „Leistungsseite Rückenschmerzen bis 20. November, verantwortlich: Praxisleitung“ |
+| „KI-Sichtbarkeit gestiegen“ | „Bericht zu KI-Funktionen zeigt 210 Impressionen, neu, noch kein Vergleich“ |
+
+Nächste Schritte sollten aus Ihrer Routine kommen, nicht aus einer Ideenliste. Was sich monatlich prüfen lässt, steht in [Local SEO jeden Monat](https://localdominate.org/blog/local-seo-monthly-checklist#woche-4-messen). Und kein Bericht kann eine bestimmte Position oder eine Nennung in KI-Antworten zusagen. Google schreibt, dass ein besseres lokales Ranking nicht eingefordert werden kann, auch nicht gegen Bezahlung.
+
+## Ausgefülltes Beispiel (erfunden)
+
+Das folgende Beispiel zeigt, wie ein ausgefüllter Bericht aussehen kann. Betrieb und alle Zahlen sind erfunden, sie sind weder ein Ergebnis noch ein Richtwert.
+
+> **Erfundenes Beispiel:** „Physiotherapie Beispiel“ in Wels gibt es nicht. Die Zahlen sind ausgedacht und bewusst klein gewählt, wie sie bei einer Praxis mit einem Standort vorkommen können. Ziehen Sie daraus keine Schlüsse für Ihren Betrieb.
+
+*Monatsbericht September 2026, Physiotherapie Beispiel, Wels (erfundene Werte). Keine Google Ads im Zeitraum*
+
+| Zeile | Sep. 2026 | Sep. 2025 | Aug. 2026 |
+| --- | --- | --- | --- |
+| Neue Patienten mit Angabe „Google“ (Anmeldebogen) | 14 | 12 | 9 |
+| Online-Terminbuchungen | 6 | 5 | 4 |
+| Profil: Aufrufe | 1.180 | 1.050 | 1.010 |
+| Profil: Anrufe (Klicks) | 64 | 58 | 47 |
+| Profil: Wegbeschreibungen | 31 | 29 | 26 |
+| Profil: Website-Klicks | 88 | 70 | 72 |
+| Profil: neue Bewertungen, Durchschnitt gesamt | 5, 4,8 | 3, 4,7 | 2, 4,8 |
+| Search Console: Klicks ohne Markensuchen | 142 | 118 | 121 |
+| Search Console: Impressionen in KI-Funktionen | 210 | nicht verfügbar | nicht verfügbar |
+| Web-Analyse: Besuche über Profil-Link, Terminanfragen | 79, 9 | 61, 7 | 64, 6 |
+
+### Maßnahmen und nächste Schritte (Beispieltext)
+
+**Geändert:** Am 9. September ging die Seite „Physiotherapie nach Knie-OP“ online. Am 14. September haben wir die Leistungen im Profil vervollständigt. Seit 1. September schickt die Praxis jedem Patienten nach der letzten Behandlung den Bewertungslink per E-Mail, ohne Gegenleistung.
+
+**Was die Zahlen zeigen:** Fast alle Werte liegen etwas über dem Vorjahresmonat, die Unterschiede sind aber klein. Der Abstand zum August ist größer. Das kann Saison sein und ist kein Beleg für unsere Maßnahmen. Ob die neue Seite wirkt, lässt sich nach drei Wochen nicht sagen.
+
+**Nächste Schritte:** Erstens die Suchbegriffe der neuen Seite in der Search Console im Oktober und November beobachten (Agentur, Bericht Anfang Dezember). Zweitens verpasste Anrufe zwischen 12 und 14 Uhr aus der Telefonanlage auswerten, weil Patienten von Rückrufproblemen berichten (Praxisleitung, bis 31. Oktober). Drittens keine weitere Leistungsseite, bevor die erste bewertet ist.
+
+## Wenn eine Agentur Ihnen berichtet
+
+Verlangen Sie von einer Agentur einen Bericht, den Sie selbst nachprüfen können: eigener Zugang zu Profil, Search Console und Analyse, Definitionen jeder Zahl, Vorjahresvergleich und einen ehrlichen Teil zu dem, was nicht funktioniert hat.
+
+*Prüffragen an einen Agenturbericht*
+
+| Frage | Warum sie wichtig ist |
+| --- | --- |
+| Habe ich selbst Zugriff auf Profil, Search Console und Analyse? | Nur dann können Sie die Zahlen prüfen und behalten die Daten bei einem Wechsel |
+| Steht bei jeder Zahl die Quelle und was sie zählt? | Ein Anruf-Klick ist kein Gespräch, ein Aufruf kein Kunde |
+| Sind Anzeigen und organische Werte getrennt? | Die Leistungsdaten im Profil enthalten laut Google auch Werte aus Google Ads |
+| Wird mit dem Vorjahresmonat verglichen? | Sonst sieht jeder Saisonanstieg wie ein Erfolg aus |
+| Werden Branchenwerte ohne Quelle als Ziel genannt? | Solche Werte lassen sich nicht prüfen |
+| Wird eine Platzierung garantiert? | Google schließt bezahlte Verbesserungen des lokalen Rankings aus |
+
+Ein guter Bericht nennt auch, welche Maßnahme nichts gebracht hat und deshalb eingestellt wird. Wer zusätzlich Nennungen in KI-Antworten messen will, findet eine prüfbare Methode in [Sichtbarkeit in KI-Antworten messen](https://localdominate.org/blog/ai-visibility-index-local-seo-metrik).
+
+## Häufige Fragen
+
+### Wie viele Kennzahlen gehören in einen Local-SEO-Monatsbericht?
+
+Für einen Betrieb mit einem Standort reichen sechs bis zehn Zahlen auf einer Seite. Wichtiger als die Menge ist, dass jede Zahl eine Quelle, einen Vorjahreswert und eine Bedeutung für eine Entscheidung hat. Alles andere gehört in die Messtabelle, nicht in den Bericht.
+
+### Warum zeigt mein Profil andere Website-Klicks als Google Analytics?
+
+Die beiden Werkzeuge zählen Verschiedenes. Das Profil zählt Klicks auf den Website-Link, die Analyse zählt Besuche, die je nach Einrichtung und Einwilligung erfasst werden. Zeigen Sie beide Werte nebeneinander und addieren Sie sie nie.
+
+### Sollte ich mit dem Vormonat oder dem Vorjahresmonat vergleichen?
+
+Mit beiden, aber entscheiden Sie anhand des Vorjahresmonats. Der Vormonat zeigt vor allem saisonale Schwankungen. Weil die Search Console laut Google nur 16 Monate speichert, tragen Sie die Werte jeden Monat in eine eigene Tabelle ein.
+
+### Gehört der Bericht zu generativen KI-Funktionen in den Monatsbericht?
+
+Ja, als eine Zeile, wenn er für Ihre Website angezeigt wird. Er zeigt laut Google, wie oft Links zu Ihrer Website in Übersichten mit KI und im KI-Modus angezeigt wurden. Bei wenigen Impressionen fehlt der Bericht meist. Ob ein Vorjahresvergleich möglich ist, hängt davon ab, ab wann der Bericht für Ihre Website Werte zeigt.
+
+### Wie oft sollte eine Agentur berichten?
+
+Monatlich reicht für die meisten lokalen Betriebe. Die Suchbegriffe im Unternehmensprofil werden laut Google ohnehin nur zu Monatsbeginn aktualisiert. Wöchentliche Berichte zeigen vor allem Zufallsschwankungen.
+
+## Quellen
+
+- [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/9918094?hl=de), Google Unternehmensprofil-Hilfe
+- [Leistungsbericht (Google-Suchergebnisse)](https://support.google.com/webmasters/answer/7576553?hl=de), Search Console-Hilfe
+- [Leistungsbericht (Suchergebnisse): Dimensionen und Datengruppierungen (Filter für Markensuchanfragen)](https://support.google.com/webmasters/answer/17011259), Search Console-Hilfe
+- [Leistungsbericht zu generativen KI-Funktionen (Google Suche)](https://support.google.com/webmasters/answer/16984139?hl=de), Search Console-Hilfe
+- [Was sind Impressionen, Position und Klicks?](https://support.google.com/webmasters/answer/7042828?hl=de), Search Console-Hilfe
+- [Bericht „Suchanfragen“ mit Search Console-Daten (16 Monate Speicherdauer)](https://support.google.com/analytics/answer/13682862?hl=en), Google Analytics-Hilfe
+- [Rückgänge bei der Zugriffszahl aus der Google Suche analysieren (Stand 18. Dezember 2025)](https://developers.google.com/search/docs/monitor-debug/debugging-search-traffic-drops?hl=de), Google Search Central
+- [Kampagnendaten mithilfe benutzerdefinierter URLs erfassen](https://support.google.com/analytics/answer/10917952?hl=de), Google Analytics-Hilfe
+- [Ereignisse als Schlüsselereignisse markieren](https://support.google.com/analytics/answer/13128484?hl=de), Google Analytics-Hilfe
+- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Telefonnummer hinzufügen](https://support.google.com/business/answer/16750496?hl=de), Google Unternehmensprofil-Hilfe
+- [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+
+---
+
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-13. Fehler gefunden? info@localdominate.org
