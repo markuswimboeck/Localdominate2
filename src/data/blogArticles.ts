@@ -1782,10 +1782,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-posts-ranking-faktor",
     de: {
-      title: "Google Posts optimal nutzen: Der unterschätzte Ranking-Faktor",
-      metaTitle: "Google Posts | Unterschätzter Ranking-Faktor 2026",
-      metaDescription: "Wie Google Posts Ihr lokales Ranking verbessern. Content-Strategien, Posting-Frequenz und Conversion-Optimierung.",
-      excerpt: "Der vergessene Hebel für lokale Rankings: Google Posts richtig nutzen.",
+      title: "Beiträge im Google-Unternehmensprofil: was sie leisten und was nicht",
+      metaTitle: "Google-Beiträge im Unternehmensprofil: Regeln und Wirkung",
+      metaDescription: "Beiträge im Google-Unternehmensprofil: Arten, Pflichtangaben, Richtlinien, was Google zum Ranking sagt und wie Sie die Wirkung in den Leistungsdaten prüfen.",
+      excerpt: "Beiträge im Google-Unternehmensprofil: Arten, Pflichtangaben, Richtlinien, was Google zum Ranking sagt und wie Sie die Wirkung in den Leistungsdaten prüfen.",
       category: "Technik"
     },
     en: {
@@ -1795,9 +1795,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The forgotten lever for local rankings: Using Google Posts correctly.",
       category: "Technical"
     },
-    readingTime: 12,
+    readingTime: 9,
     publishedAt: "2026-01-31",
-    updatedAt: "2026-01-31",
+    updatedAt: "2026-10-13",
     icon: "📝",
     keywords: ["google posts", "gbp posts", "google business posts", "lokale posts"],
     featured: false
@@ -2832,10 +2832,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-business-produkte-services",
     de: {
-      title: "Google Business Produkte & Services optimal präsentieren",
-      metaTitle: "Google Business Produkte & Services | Guide 2026",
-      metaDescription: "So nutzt du Produkte und Services in deinem Google Business Profil. Katalog erstellen, Preise, Beschreibungen und mehr.",
-      excerpt: "Der komplette Guide zur optimalen Nutzung von Produkten und Services im GBP.",
+      title: "Produkte, Leistungen und Speisekarte im Google-Unternehmensprofil",
+      metaTitle: "Produkte und Leistungen im Google-Unternehmensprofil",
+      metaDescription: "Leistungen, Produkte und Speisekarte im Google-Unternehmensprofil: welcher Editor für wen, Richtlinien für eingeschränkte Waren, Prüfung, Wirkung und Messung.",
+      excerpt: "Leistungen, Produkte und Speisekarte im Google-Unternehmensprofil: welcher Editor für wen, Richtlinien für eingeschränkte Waren, Prüfung, Wirkung und Messung.",
       category: "Google Business"
     },
     en: {
@@ -2845,9 +2845,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide to optimal use of products and services in GBP.",
       category: "Google Business"
     },
-    readingTime: 13,
+    readingTime: 9,
     publishedAt: "2026-02-12",
-    updatedAt: "2026-02-12",
+    updatedAt: "2026-10-13",
     icon: "🛍️",
     keywords: ["google business produkte", "gbp services", "produktkatalog", "dienstleistungen präsentieren", "preise google"],
     featured: false
@@ -2878,10 +2878,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "bewertungs-antworten-vorlagen",
     de: {
-      title: "Bewertungs-Antworten: 50 Vorlagen für jede Situation",
-      metaTitle: "Bewertungs-Antworten Vorlagen | 50 Templates 2026",
-      metaDescription: "50 Vorlagen für professionelle Antworten auf Google Bewertungen. Positive, negative und neutrale Rezensionen richtig beantworten.",
-      excerpt: "Die ultimative Sammlung von Antwort-Vorlagen für alle Arten von Google Bewertungen.",
+      title: "Auf Google-Bewertungen antworten: Regeln, Grenzen und Vorlagen",
+      metaTitle: "Auf Google-Bewertungen antworten: Vorlagen und Regeln",
+      metaDescription: "Auf Google-Bewertungen antworten: was Google empfiehlt, wie Antworten erscheinen, wo Datenschutz und Schweigepflicht Grenzen ziehen, mit Vorlagen auf Deutsch.",
+      excerpt: "Auf Google-Bewertungen antworten: was Google empfiehlt, wie Antworten erscheinen, wo Datenschutz und Schweigepflicht Grenzen ziehen, mit Vorlagen auf Deutsch.",
       category: "Bewertungen"
     },
     en: {
@@ -2891,9 +2891,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The ultimate collection of response templates for all types of Google reviews.",
       category: "Reviews"
     },
-    readingTime: 18,
+    readingTime: 10,
     publishedAt: "2026-02-16",
-    updatedAt: "2026-02-16",
+    updatedAt: "2026-10-13",
     icon: "📝",
     keywords: ["bewertungen antworten", "review response", "antwort vorlagen", "google rezensionen", "kundenfeedback"],
     featured: true
@@ -3237,10 +3237,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-citations-2025",
     de: {
-      title: "Top-Verzeichnisse DACH 2026: Branchenspezifische Citation-Quellen nach Relevanz sortiert",
-      metaTitle: "Top Verzeichnisse DACH 2026 | Branchenspezifisch sortiert",
-      metaDescription: "Welche Branchenbücher sind 2026 noch relevant? Nach Branche sortierte Verzeichnisliste mit Relevanz-Score und DA-Werten für DACH.",
-      excerpt: "Branchenspezifisch priorisierte Verzeichnisliste für DACH: Relevanz-Score, Domain Authority und Eintragungstipps.",
+      title: "Local Citations: Welche Verzeichnisse in Deutschland, Österreich und der Schweiz zählen und wie Sie sie pflegen",
+      metaTitle: "Local Citations: Firmeneinträge in DACH richtig pflegen",
+      metaDescription: "Local Citations erklärt: was Google zu Verweisen und Firmendaten schreibt, woher Verzeichnisse in DACH ihre Daten haben und wie Sie Einträge sauber bereinigen.",
+      excerpt: "Local Citations erklärt: was Google zu Verweisen und Firmendaten schreibt, woher Verzeichnisse in DACH ihre Daten haben und wie Sie Einträge sauber bereinigen.",
       category: "Local SEO"
     },
     en: {
@@ -3250,9 +3250,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Industry-specifically prioritized directory list for DACH: relevance scores, domain authority and listing tips.",
       category: "Local SEO"
     },
-    readingTime: 14,
+    readingTime: 9,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-02-08",
+    updatedAt: "2026-10-13",
     icon: "📚",
     keywords: ["top verzeichnisse dach", "branchenbücher 2026", "citation quellen", "verzeichnis relevanz", "nap einträge branche"]
   },
