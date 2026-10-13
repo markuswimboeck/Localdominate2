@@ -44,7 +44,7 @@ Wer vor einer Änderung misst und das Datum festhält, kann die Wirkung später 
 1. **Ausgangslage festhalten.** Profil, Website und Einträge mit dem [Google-Maps-Audit](https://localdominate.org/blog/google-maps-audit-template) aufnehmen.
 2. **Messung einrichten.** Suchbegriffe und Messpunkte festlegen und monatlich protokollieren: [Google-Maps-Ranking-Tracker](https://localdominate.org/blog/google-maps-ranking-tracker).
 3. **Änderungen protokollieren.** Jede Änderung mit Datum notieren: an Profil und Website im Änderungsprotokoll des Ranking-Trackers, an Einträgen in der [Citation-Tracking-Vorlage](https://localdominate.org/blog/citation-tracking-template).
-4. **Nach festem Zeitraum vergleichen.** Dieselben Messungen wiederholen und mit den Leistungsdaten vergleichen. Den Monatsbericht strukturiert das [Local SEO Reporting Template](https://localdominate.org/blog/local-seo-reporting-template).
+4. **Nach festem Zeitraum vergleichen.** Dieselben Messungen wiederholen und mit den Leistungsdaten vergleichen.
 
 ## Methoden am Beispiel
 

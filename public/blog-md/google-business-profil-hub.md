@@ -50,8 +50,6 @@ Jedes Feld im Profil hat eigene Regeln. Die folgenden Anleitungen gehen Feld fü
 - [Öffnungszeiten, Feiertage und Sonderzeiten](https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage): reguläre Zeiten, Feiertage, Saisonbetriebe und vorübergehende Schließungen.
 - [Attribute richtig nutzen](https://localdominate.org/blog/gbp-attribute-richtig-nutzen): Merkmale wie Barrierefreiheit, Zahlungsarten oder Sitzplätze im Freien.
 - [Fotos und Videos einsetzen](https://localdominate.org/blog/gbp-fotos-optimieren): Formate, Größen und welche Motive Kunden wirklich weiterhelfen.
-- [Produkte und Dienstleistungen präsentieren](https://localdominate.org/blog/google-business-produkte-services): Leistungen und Produkte im Profil anlegen.
-- [Google Posts nutzen](https://localdominate.org/blog/google-posts-ranking-faktor): Beiträge für Angebote, Neuigkeiten und Veranstaltungen.
 
 ## Kontakt, Leistungsdaten und KI-Funktionen
 
@@ -67,7 +65,6 @@ Seit dem Ende des Chats im Profil zählen andere Kontaktwege. Außerdem fasst Go
 Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Profil. Alle Standorte tragen denselben Namen und möglichst dieselben Kategorien.
 
 - [Mehrere Standorte bei Google verwalten](https://localdominate.org/blog/gbp-mehrere-standorte): Unternehmensgruppen, Rollen und Sammelbestätigung ab zehn Standorten.
-- [Franchise-SEO und mehrere Standorte](https://localdominate.org/blog/local-seo-mehrstufig-unternehmen): Markenführung über viele Filialen.
 
 ## Wenn etwas schiefgeht
 

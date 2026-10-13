@@ -63,29 +63,18 @@ const LokaleLandingPages = lazy(() => import("./pages/blog/LokaleLandingPages"))
 const LocalSeoTrackingKpis = lazy(() => import("./pages/blog/LocalSeoTrackingKpis"));
 const WhatsappBusinessLocalSeo2026 = lazy(() => import("./pages/blog/WhatsappBusinessLocalSeo2026"));
 
-const CoreWebVitalsLocalSeo = lazy(() => import("./pages/blog/CoreWebVitalsLocalSeo"));
 const SeoToolbox = lazy(() => import("./pages/blog/SeoToolbox"));
-const LocalSeoMehrstufigUnternehmen = lazy(() => import("./pages/blog/LocalSeoMehrstufigUnternehmen"));
 const EEATLokaleUnternehmen = lazy(() => import("./pages/blog/EEATLokaleUnternehmen"));
 const LocalSeoNeugruender = lazy(() => import("./pages/blog/LocalSeoNeugruender"));
-const GoogleBusinessProdukteServices = lazy(() => import("./pages/blog/GoogleBusinessProdukteServices"));
-const BewertungsAntwortenVorlagen = lazy(() => import("./pages/blog/BewertungsAntwortenVorlagen"));
 const GoogleBusinessInsightsVerstehen = lazy(() => import("./pages/blog/GoogleBusinessInsightsVerstehen"));
-const GooglePostsRankingFaktor = lazy(() => import("./pages/blog/GooglePostsRankingFaktor"));
 
 // Troubleshooting & neue Artikel
 const LocalSeoVsMaps = lazy(() => import("./pages/blog/LocalSeoVsMaps"));
-const LocalCitations2025 = lazy(() => import("./pages/blog/LocalCitations2025"));
-const LocalSeoReportingTemplate = lazy(() => import("./pages/blog/LocalSeoReportingTemplate"));
 const Partner = lazy(() => import("./pages/Partner"));
 const Redaktionsrichtlinien = lazy(() => import("./pages/Redaktionsrichtlinien"));
 const Forschungsmethodik = lazy(() => import("./pages/Forschungsmethodik"));
 const UeberUns = lazy(() => import("./pages/UeberUns"));
 const LocalSeoStrategieKleineUnternehmen = lazy(() => import("./pages/blog/LocalSeoStrategieKleineUnternehmen"));
-const LocalLinkBuildingBlueprint = lazy(() => import("./pages/blog/LocalLinkBuildingBlueprint"));
-const LocalSeoChecklisteKomplett = lazy(() => import("./pages/blog/LocalSeoChecklisteKomplett"));
-const SchemaStrategieDokument = lazy(() => import("./pages/blog/SchemaStrategieDokument"));
-const LocalSeoStatistiken = lazy(() => import("./pages/blog/LocalSeoStatistiken"));
 const CitationVerzeichnisse = lazy(() => import("./pages/CitationVerzeichnisse"));
 const FaqSubHub = lazy(() => import("./pages/blog/FaqSubHub"));
 
@@ -210,23 +199,12 @@ const App = () => (
                 <Route path="/ueber-uns" element={<UeberUns />} />
                 <Route path="/seo-lexikon" element={<SeoLexikon />} />
                 <Route path="/blog" element={<Blog />} />
-                <Route path="/blog/core-web-vitals-local-seo" element={<CoreWebVitalsLocalSeo />} />
                 <Route path="/blog/seo-toolbox-kostenlose-ressourcen" element={<SeoToolbox />} />
-                <Route path="/blog/local-seo-mehrstufig-unternehmen" element={<LocalSeoMehrstufigUnternehmen />} />
                 <Route path="/blog/e-e-a-t-lokale-unternehmen" element={<EEATLokaleUnternehmen />} />
                 <Route path="/blog/lokale-seo-fuer-neugruender" element={<LocalSeoNeugruender />} />
-                <Route path="/blog/google-business-produkte-services" element={<GoogleBusinessProdukteServices />} />
-                <Route path="/blog/bewertungs-antworten-vorlagen" element={<BewertungsAntwortenVorlagen />} />
                 <Route path="/blog/google-business-insights-verstehen" element={<GoogleBusinessInsightsVerstehen />} />
-                <Route path="/blog/google-posts-ranking-faktor" element={<GooglePostsRankingFaktor />} />
                 <Route path="/blog/local-seo-vs-maps-seo" element={<LocalSeoVsMaps />} />
-                <Route path="/blog/local-citations-2025" element={<LocalCitations2025 />} />
-                <Route path="/blog/local-seo-reporting-template" element={<LocalSeoReportingTemplate />} />
                 <Route path="/blog/local-seo-strategie-kleine-unternehmen" element={<LocalSeoStrategieKleineUnternehmen />} />
-                <Route path="/blog/local-link-building-blueprint" element={<LocalLinkBuildingBlueprint />} />
-                <Route path="/blog/local-seo-checkliste-komplett" element={<LocalSeoChecklisteKomplett />} />
-                <Route path="/blog/schema-strategie-dokument" element={<SchemaStrategieDokument />} />
-                <Route path="/blog/local-seo-statistiken-daten" element={<LocalSeoStatistiken />} />
                 <Route path="/blog/faq-local-seo-grundlagen" element={<FaqSubHub />} />
                 <Route path="/blog/faq-google-business-profil" element={<FaqSubHub />} />
                 <Route path="/blog/faq-bewertungen-reputation" element={<FaqSubHub />} />

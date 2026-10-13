@@ -1736,10 +1736,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "core-web-vitals-local-seo",
     de: {
-      title: "Core Web Vitals für lokale Websites: Performance-Guide",
-      metaTitle: "Core Web Vitals Local SEO | Performance 2026",
-      metaDescription: "Wie lokale Unternehmen ihre Core Web Vitals optimieren. LCP, FID, CLS für bessere Rankings und mehr Conversions.",
-      excerpt: "Der technische Guide zur Website-Performance für lokale Rankings.",
+      title: "Core Web Vitals für lokale Websites: messen, verstehen, verbessern",
+      metaTitle: "Core Web Vitals für lokale Websites: messen und verbessern",
+      metaDescription: "LCP, INP und CLS für kleine lokale Websites: Grenzwerte, was Google zum Ranking sagt, wie Sie richtig messen und welche Ursachen Sie zuerst beheben sollten.",
+      excerpt: "LCP, INP und CLS für kleine lokale Websites: Grenzwerte, was Google zum Ranking sagt, wie Sie richtig messen und welche Ursachen Sie zuerst beheben sollten.",
       category: "Technik"
     },
     en: {
@@ -1749,9 +1749,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The technical guide to website performance for local rankings.",
       category: "Technical"
     },
-    readingTime: 18,
+    readingTime: 11,
     publishedAt: "2026-01-17",
-    updatedAt: "2026-01-17",
+    updatedAt: "2026-10-13",
     icon: "⚡",
     keywords: ["core web vitals", "page speed", "local seo performance", "lcp fid cls"],
     featured: false
@@ -1782,10 +1782,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-posts-ranking-faktor",
     de: {
-      title: "Google Posts optimal nutzen: Der unterschätzte Ranking-Faktor",
-      metaTitle: "Google Posts | Unterschätzter Ranking-Faktor 2026",
-      metaDescription: "Wie Google Posts Ihr lokales Ranking verbessern. Content-Strategien, Posting-Frequenz und Conversion-Optimierung.",
-      excerpt: "Der vergessene Hebel für lokale Rankings: Google Posts richtig nutzen.",
+      title: "Beiträge im Google-Unternehmensprofil: Was sie für Ranking und Kunden wirklich leisten",
+      metaTitle: "Google-Beiträge: Ranking-Faktor oder Kundeninfo?",
+      metaDescription: "Sind Beiträge im Google-Unternehmensprofil ein Ranking-Faktor? Was Google dazu sagt, welche Regeln seit 2026 gelten, dazu ein Inhaltsplan und fünf Vorlagen.",
+      excerpt: "Sind Beiträge im Google-Unternehmensprofil ein Ranking-Faktor? Was Google dazu sagt, welche Regeln seit 2026 gelten, dazu ein Inhaltsplan und fünf Vorlagen.",
       category: "Technik"
     },
     en: {
@@ -1797,7 +1797,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-01-31",
-    updatedAt: "2026-01-31",
+    updatedAt: "2026-10-13",
     icon: "📝",
     keywords: ["google posts", "gbp posts", "google business posts", "lokale posts"],
     featured: false
@@ -2625,10 +2625,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-mehrstufig-unternehmen",
     de: {
-      title: "Franchise-SEO Strategie: GBP-Management & Markenkonsistenz bei mehreren Standorten",
-      metaTitle: "Franchise SEO | GBP-Management & Markenkonsistenz 2026",
-      metaDescription: "Wie Franchise-Unternehmen GBP-Profile zentral steuern, Markenkonsistenz sichern und lokale Autonomie ermöglichen. Strategie-Guide.",
-      excerpt: "Der Strategie-Guide für Franchise und Filialketten: Zentrale GBP-Steuerung, NAP-Konsistenz und lokale Anpassung.",
+      title: "Local SEO für Franchise-Systeme und Marken mit mehreren Betreibern",
+      metaTitle: "Franchise und Marken bei Google: Profile richtig regeln",
+      metaDescription: "Franchise-Systeme bei Google: wem das Unternehmensprofil gehört, welche Rollen Zentrale und Partner brauchen, Namensregeln, Standortseiten und Bewertungen.",
+      excerpt: "Franchise-Systeme bei Google: wem das Unternehmensprofil gehört, welche Rollen Zentrale und Partner brauchen, Namensregeln, Standortseiten und Bewertungen.",
       category: "Strategie"
     },
     en: {
@@ -2638,9 +2638,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The strategy guide for franchise and chain businesses: Central GBP management, NAP consistency and local adaptation.",
       category: "Strategy"
     },
-    readingTime: 16,
+    readingTime: 11,
     publishedAt: "2026-01-14",
-    updatedAt: "2026-01-14",
+    updatedAt: "2026-10-13",
     icon: "🏢",
     keywords: ["franchise seo strategie", "gbp management filialen", "markenkonsistenz multi location", "franchise google business"],
     featured: false
@@ -2832,10 +2832,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-business-produkte-services",
     de: {
-      title: "Google Business Produkte & Services optimal präsentieren",
-      metaTitle: "Google Business Produkte & Services | Guide 2026",
-      metaDescription: "So nutzt du Produkte und Services in deinem Google Business Profil. Katalog erstellen, Preise, Beschreibungen und mehr.",
-      excerpt: "Der komplette Guide zur optimalen Nutzung von Produkten und Services im GBP.",
+      title: "Produkte und Dienstleistungen im Google-Unternehmensprofil richtig eintragen",
+      metaTitle: "Produkte und Leistungen im Google-Unternehmensprofil",
+      metaDescription: "Produkte und Dienstleistungen im Google-Unternehmensprofil richtig eintragen: Editoren je Branche, eigene Leistungen, Preise, Richtlinien und typische Fehler.",
+      excerpt: "Produkte und Dienstleistungen im Google-Unternehmensprofil richtig eintragen: Editoren je Branche, eigene Leistungen, Preise, Richtlinien und typische Fehler.",
       category: "Google Business"
     },
     en: {
@@ -2845,9 +2845,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide to optimal use of products and services in GBP.",
       category: "Google Business"
     },
-    readingTime: 13,
+    readingTime: 11,
     publishedAt: "2026-02-12",
-    updatedAt: "2026-02-12",
+    updatedAt: "2026-10-13",
     icon: "🛍️",
     keywords: ["google business produkte", "gbp services", "produktkatalog", "dienstleistungen präsentieren", "preise google"],
     featured: false
@@ -2878,10 +2878,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "bewertungs-antworten-vorlagen",
     de: {
-      title: "Bewertungs-Antworten: 50 Vorlagen für jede Situation",
-      metaTitle: "Bewertungs-Antworten Vorlagen | 50 Templates 2026",
-      metaDescription: "50 Vorlagen für professionelle Antworten auf Google Bewertungen. Positive, negative und neutrale Rezensionen richtig beantworten.",
-      excerpt: "Die ultimative Sammlung von Antwort-Vorlagen für alle Arten von Google Bewertungen.",
+      title: "Antworten auf Google-Bewertungen: Vorlagen für jede Situation",
+      metaTitle: "Antworten auf Google-Bewertungen: 13 Vorlagen",
+      metaDescription: "Vorlagen für Antworten auf Google-Bewertungen: von fünf Sternen bis zur unfairen Kritik, mit Googles Regeln, Hinweisen zum Datenschutz und Tipps zum Anpassen.",
+      excerpt: "Vorlagen für Antworten auf Google-Bewertungen: von fünf Sternen bis zur unfairen Kritik, mit Googles Regeln, Hinweisen zum Datenschutz und Tipps zum Anpassen.",
       category: "Bewertungen"
     },
     en: {
@@ -2891,9 +2891,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The ultimate collection of response templates for all types of Google reviews.",
       category: "Reviews"
     },
-    readingTime: 18,
+    readingTime: 12,
     publishedAt: "2026-02-16",
-    updatedAt: "2026-02-16",
+    updatedAt: "2026-10-13",
     icon: "📝",
     keywords: ["bewertungen antworten", "review response", "antwort vorlagen", "google rezensionen", "kundenfeedback"],
     featured: true
@@ -3237,10 +3237,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-citations-2025",
     de: {
-      title: "Top-Verzeichnisse DACH 2026: Branchenspezifische Citation-Quellen nach Relevanz sortiert",
-      metaTitle: "Top Verzeichnisse DACH 2026 | Branchenspezifisch sortiert",
-      metaDescription: "Welche Branchenbücher sind 2026 noch relevant? Nach Branche sortierte Verzeichnisliste mit Relevanz-Score und DA-Werten für DACH.",
-      excerpt: "Branchenspezifisch priorisierte Verzeichnisliste für DACH: Relevanz-Score, Domain Authority und Eintragungstipps.",
+      title: "Verzeichnisse in DACH 2026: Welche Branchenbücher und Portale für Ihren Betrieb zählen",
+      metaTitle: "Verzeichnisse DACH 2026: Welche Branchenbücher zählen",
+      metaDescription: "Welche Branchenbücher und Portale 2026 in Deutschland, Österreich und der Schweiz zählen: nach Land und Branche geordnet, mit Auswahlmethode statt Scores.",
+      excerpt: "Welche Branchenbücher und Portale 2026 in Deutschland, Österreich und der Schweiz zählen: nach Land und Branche geordnet, mit Auswahlmethode statt Scores.",
       category: "Local SEO"
     },
     en: {
@@ -3250,9 +3250,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Industry-specifically prioritized directory list for DACH: relevance scores, domain authority and listing tips.",
       category: "Local SEO"
     },
-    readingTime: 14,
+    readingTime: 11,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-02-08",
+    updatedAt: "2026-10-13",
     icon: "📚",
     keywords: ["top verzeichnisse dach", "branchenbücher 2026", "citation quellen", "verzeichnis relevanz", "nap einträge branche"]
   },
@@ -3395,10 +3395,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-reporting-template",
     de: {
-      title: "Local SEO Reporting Template: Monatlicher Report + KPI-Vorlage",
-      metaTitle: "Local SEO Reporting Template | KPI-Vorlage 2026",
-      metaDescription: "Kostenlose Local SEO Report-Vorlage mit 10 KPIs, wöchentlicher Checkliste und ROI-Berechnung. Monatlichen Report erstellen wie ein Profi.",
-      excerpt: "Die komplette Vorlage für professionelles Local SEO Reporting: 10 KPIs, monatlicher Report-Aufbau, Wettbewerber-Vergleich und ROI-Berechnung.",
+      title: "Local-SEO-Reporting: die Vorlage für einen Monatsbericht auf einer Seite",
+      metaTitle: "Local-SEO-Reporting: Monatsbericht auf einer Seite",
+      metaDescription: "Vorlage für einen einseitigen Local-SEO-Monatsbericht: welche Zahl woher kommt, wie Sie Saison und kleine Zahlen lesen und was in die nächsten Schritte gehört.",
+      excerpt: "Vorlage für einen einseitigen Local-SEO-Monatsbericht: welche Zahl woher kommt, wie Sie Saison und kleine Zahlen lesen und was in die nächsten Schritte gehört.",
       category: "Strategie"
     },
     en: {
@@ -3408,9 +3408,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete template for professional Local SEO reporting: 10 KPIs, monthly report structure, competitor comparison and ROI calculation.",
       category: "Strategy"
     },
-    readingTime: 16,
+    readingTime: 13,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-03-05",
+    updatedAt: "2026-10-13",
     icon: "📊",
     keywords: ["local seo reporting", "local seo report vorlage", "local seo kpis", "seo reporting template", "google business report", "local seo metriken"]
   },
@@ -3733,10 +3733,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-link-building-blueprint",
     de: {
-      title: "Local Link Building Blueprint: Der komplette Leitfaden für lokale Backlinks 2026",
-      metaTitle: "Local Link Building Blueprint | DACH-Guide 2026",
-      metaDescription: "Local-Linkbuilding-Guide für DACH: Partnerschaften, Sponsoring, PR, Events, IHK-Links & Outreach-Templates. Mit 90-Tage-Plan.",
-      excerpt: "Alle lokalen Linkbuilding-Strategien in einem Blueprint: Von IHK-Links über Vereinssponsoring und lokale PR bis zu Outreach-Templates — mit 90-Tage-Aktionsplan für den DACH-Markt.",
+      title: "Local Link Building Blueprint: Der 90-Tage-Plan mit Vorlagen für lokale Links",
+      metaTitle: "Lokale Links in 90 Tagen: Wochenplan und Vorlagen",
+      metaDescription: "90-Tage-Plan für lokale Links: Kammern, Vereine, Partner, Presse und Veranstaltungen Woche für Woche, mit Tracking-Tabelle und E-Mail-Vorlagen auf Deutsch.",
+      excerpt: "90-Tage-Plan für lokale Links: Kammern, Vereine, Partner, Presse und Veranstaltungen Woche für Woche, mit Tracking-Tabelle und E-Mail-Vorlagen auf Deutsch.",
       category: "Content & Marketing"
     },
     en: {
@@ -3746,9 +3746,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "All local link building strategies in one blueprint: From chamber of commerce links to sponsorships, local PR and outreach templates — with a 90-day action plan.",
       category: "Content & Marketing"
     },
-    readingTime: 22,
+    readingTime: 12,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-13",
     icon: "🔗",
     keywords: ["local link building", "lokale backlinks", "lokales linkbuilding", "ihk backlink", "vereinssponsoring seo", "lokale pr linkbuilding", "backlinks lokale unternehmen", "link building dach"],
     featured: true
@@ -3757,10 +3757,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-checkliste-komplett",
     de: {
-      title: "Local SEO Implementierungs-Checkliste: 80+ Maßnahmen in 8 Phasen systematisch umsetzen",
-      metaTitle: "Local SEO Implementierungs-Checkliste | 80+ Maßnahmen 2026",
-      metaDescription: "Die systematische Local SEO Implementierung: 80+ Maßnahmen in 8 Phasen — von GBP-Setup über Schema Markup bis Reporting. Branchenspezifisch priorisiert.",
-      excerpt: "Systematische Local SEO Implementierung: 80+ Maßnahmen in 8 Phasen — mit branchenspezifischer Priorisierung und Zeitplan.",
+      title: "Local SEO Checkliste: Die komplette Ersteinrichtung für lokale Betriebe",
+      metaTitle: "Local SEO Checkliste: Die Ersteinrichtung in 6 Phasen",
+      metaDescription: "Die Checkliste für die erste Einrichtung: Unternehmensprofil, Website, Verzeichnisse, Bewertungen, Messung und KI-Suche, jeder Punkt mit Begründung.",
+      excerpt: "Die Checkliste für die erste Einrichtung: Unternehmensprofil, Website, Verzeichnisse, Bewertungen, Messung und KI-Suche, jeder Punkt mit Begründung.",
       category: "Strategie"
     },
     en: {
@@ -3770,9 +3770,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Systematic Local SEO implementation: 80+ actions in 8 phases — with industry-specific prioritization and timeline.",
       category: "Strategy"
     },
-    readingTime: 20,
+    readingTime: 12,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-13",
     icon: "📋",
     keywords: ["local seo implementierung", "local seo maßnahmen", "lokale seo umsetzung", "local seo schritt für schritt", "seo implementierungsplan", "local seo phasen"],
     featured: true
@@ -3829,10 +3829,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "schema-strategie-dokument",
     de: {
-      title: "Schema-Strategie: Wann Article, FAQPage, HowTo & LocalBusiness einsetzen",
-      metaTitle: "Schema-Strategie: Article, FAQ, HowTo & LocalBusiness",
-      metaDescription: "Siteweite Schema-Strategie für lokale Websites: Entscheidungsmatrix, Implementierungsleitfaden und Fehler-Checkliste für Article, FAQPage, HowTo und LocalBusiness.",
-      excerpt: "Welches Schema Markup gehört auf welche Seite? Entscheidungsmatrix, Code-Beispiele und Implementierungsleitfaden für die 4 wichtigsten Schema-Typen im Local SEO.",
+      title: "Schema-Strategie als Dokument: Welche Seite welche strukturierten Daten bekommt und wer sie pflegt",
+      metaTitle: "Schema-Plan für lokale Websites: Vorlage und Pflege",
+      metaDescription: "Ein schriftlicher Plan für strukturierte Daten: welcher Seitentyp welches Markup bekommt, wer es pflegt und wie Sie es mit Googles Werkzeugen regelmäßig prüfen.",
+      excerpt: "Ein schriftlicher Plan für strukturierte Daten: welcher Seitentyp welches Markup bekommt, wer es pflegt und wie Sie es mit Googles Werkzeugen regelmäßig prüfen.",
       category: "Technisches SEO"
     },
     en: {
@@ -3842,9 +3842,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Which schema markup belongs on which page? Decision matrix, code examples and implementation guide for the 4 most important schema types in Local SEO.",
       category: "Technical SEO"
     },
-    readingTime: 14,
+    readingTime: 12,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-13",
     icon: "🏗️",
     keywords: ["schema strategie", "structured data strategie", "article schema", "faqpage schema", "howto schema", "localbusiness schema", "schema markup guide", "json-ld strategie"],
   },

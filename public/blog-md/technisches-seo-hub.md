@@ -46,7 +46,6 @@ Strukturierte Daten beschreiben Ihren Betrieb in einer Form, die Maschinen lesen
 - [LocalBusiness Schema implementieren](https://localdominate.org/blog/localbusiness-schema-implementierung): Anleitung mit Code-Beispielen.
 - [Review Schema richtig einsetzen](https://localdominate.org/blog/review-schema-implementierung): wann Google Bewertungssterne zeigt.
 - [Schema-Strategie für die KI-Suche](https://localdominate.org/blog/schema-strategie-ai-retrieval): was strukturierte Daten für KI-Antworten leisten und was ein Mythos ist.
-- [Schema-Strategie: welcher Typ wann](https://localdominate.org/blog/schema-strategie-dokument): Article, FAQPage, HowTo und LocalBusiness im Vergleich.
 - [Entity SEO](https://localdominate.org/blog/entity-seo-guide): wie Google Ihren Betrieb eindeutig erkennt, mit sameAs und einheitlichen Daten.
 
 > **Stand 2026:** FAQ-Rich-Results zeigt Google seit dem 7. Mai 2026 nicht mehr an. Vorhandenes FAQPage-Markup müssen Sie nicht zwingend entfernen, für die Google-Suche bringt es aber keine Darstellung mehr.
@@ -56,7 +55,6 @@ Strukturierte Daten beschreiben Ihren Betrieb in einer Form, die Maschinen lesen
 Google bewertet Websites anhand ihrer mobilen Version. Auf dem Handy müssen Anruf und Route mit einem Tippen funktionieren und die Seite muss schnell und stabil laden.
 
 - [Mobile Local SEO](https://localdominate.org/blog/mobile-local-seo): der Weg vom Suchtreffer zum Anruf auf dem Smartphone.
-- [Core Web Vitals für lokale Websites](https://localdominate.org/blog/core-web-vitals-local-seo): Ladezeit, Reaktionszeit und stabile Darstellung.
 
 ## Seitenstruktur: Leistungs- und Standortseiten
 
@@ -80,7 +78,6 @@ Sprachassistenten greifen je nach Anbieter auf unterschiedliche Quellen zu. Einh
 Technische Verbesserungen sehen Sie in der Search Console und in den Leistungsdaten des Unternehmensprofils, nicht im Gefühl, oben zu stehen.
 
 - [Local SEO Tracking](https://localdominate.org/blog/local-seo-tracking-kpis): Kennzahlen und Berichte einrichten.
-- [Local SEO Reporting Template](https://localdominate.org/blog/local-seo-reporting-template): die Vorlage für den Monatsbericht.
 
 ## Häufige Fragen
 

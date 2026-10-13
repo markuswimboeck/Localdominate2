@@ -36,7 +36,6 @@ Bitten Sie **alle Kunden** nach einer echten Erfahrung um eine Rezension und mac
 Der wichtigste Hebel ist eine feste Routine: jeden Kunden zum passenden Zeitpunkt fragen, mit einem direkten Link. Was dabei erlaubt ist, regeln Googles Richtlinien für Rezensionen.
 
 - [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen): wann und wie Sie fragen, Bewertungslink und QR-Code, was verboten ist.
-- [Bewertungs-Antworten: Vorlagen](https://localdominate.org/blog/bewertungs-antworten-vorlagen): Antwortvorlagen für typische Situationen, die Sie an Ihren Betrieb anpassen.
 
 ## Mit Kritik umgehen
 
