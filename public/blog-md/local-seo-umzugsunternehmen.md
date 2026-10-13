@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-umzugsunternehmen
 markdown_url: https://localdominate.org/blog-md/local-seo-umzugsunternehmen.md
 language: de-DE
 published: 2026-08-08
-updated: 2026-10-12
+updated: 2026-10-13
 reading_time_minutes: 12
 category: "Branchen"
 author: LocalDominate Redaktion
@@ -99,7 +99,7 @@ Der Profilname ist der echte Firmenname ohne Ort und ohne Leistung. Als Hauptkat
 
 Jede Umzugsart bekommt eine eigene Seite, und für Strecken, die Sie regelmäßig fahren, lohnt sich eine Streckenseite mit echtem Inhalt. Dutzende fast gleicher Seiten, auf denen nur der Ortsname wechselt, können als Brückenseiten gelten.
 
-Google nennt in den Spamrichtlinien als Missbrauch von Brückenseiten unter anderem Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer zur selben Seite führen, sowie im Wesentlichen ähnliche Seiten. Fünfzig Seiten „Umzug [Ort]“ mit gleichem Text sind deshalb ein Risiko. Eine Streckenseite lohnt sich, wenn sie etwas sagt, das nur für diese Strecke gilt.
+Google nennt in den Spamrichtlinien als Missbrauch von Brückenseiten unter anderem Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer zur selben Seite führen, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie. Unsere Einschätzung: Fünfzig Seiten „Umzug [Ort]“ mit gleichem Text sind deshalb ein Risiko. Eine Streckenseite lohnt sich, wenn sie etwas sagt, das nur für diese Strecke gilt.
 
 *Seitentypen für Umzugsunternehmen (Beispiel)*
 
@@ -231,4 +231,4 @@ Einen oder zwei Tage nach dem Umzug per Nachricht mit dem direkten Bewertungslin
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-13. Fehler gefunden? info@localdominate.org

@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-notdienst-keywords
 markdown_url: https://localdominate.org/blog-md/local-seo-notdienst-keywords.md
 language: de-DE
 published: 2026-02-03
-updated: 2026-10-12
+updated: 2026-10-13
 reading_time_minutes: 13
 category: "Strategie"
 author: LocalDominate Redaktion
@@ -168,7 +168,7 @@ Nach § 12 der deutschen Preisangabenverordnung hat, wer Verbrauchern Leistungen
 
 Seiten wie „Schlüsseldienst [Ort]“ für zwanzig Orte, auf denen nur der Ortsname wechselt, können unter Googles Regeln gegen Brückenseiten fallen. Besser ist eine starke Notdienstseite, die im ersten Satz sagt, wann und wo Sie kommen, mit Rufnummer, Einsatzorten, Ablauf und Preisen.
 
-Google nennt als Beispiele für Missbrauch von Brückenseiten mehrere Domainnamen oder Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind, die Nutzer jedoch alle zur selben Seite weiterleiten, sowie im Wesentlichen ähnliche Seiten. Ob konkrete Ortsseiten darunter fallen, lässt sich von außen nicht sicher sagen. Nach unserer Einschätzung ist das Risiko groß, wenn nur der Ortsname wechselt. Eine eigene Ortsseite lohnt sich nur bei einer echten Niederlassung oder echten eigenen Inhalten für diesen Ort.
+Google nennt als Beispiele für Missbrauch von Brückenseiten mehrere Domainnamen oder Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind, die Nutzer jedoch alle zur selben Seite weiterleiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie. Ob konkrete Ortsseiten darunter fallen, lässt sich von außen nicht sicher sagen. Nach unserer Einschätzung ist das Risiko groß, wenn nur der Ortsname wechselt. Eine eigene Ortsseite lohnt sich nur bei einer echten Niederlassung oder echten eigenen Inhalten für diesen Ort.
 
 1. **Erster Satz.** „Schlüsselnotdienst für Freiburg und zwölf Orte im Umkreis, Montag bis Sonntag von 6 bis 24 Uhr.“ Nur, wenn das stimmt.
 2. **Rufnummer oben.** Als Link zum Anrufen, auf dem Handy ohne Scrollen sichtbar.
@@ -215,7 +215,7 @@ Zeigen Sie, was Verbraucherschützer als Warnzeichen nennen, im Gegenteil: echte
 
 ### Brauche ich für jeden Ort im Einzugsgebiet eine eigene Notdienstseite?
 
-Nein. Seiten für einzelne Städte, die Nutzer zur selben Seite führen, und im Wesentlichen ähnliche Seiten nennt Google als Beispiele für Missbrauch von Brückenseiten. Eine Notdienstseite mit einer Liste der Einsatzorte und Anfahrtszeiten ist der bessere Weg.
+Nein. Seiten für einzelne Städte, die Nutzer zur selben Seite führen, und im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie, nennt Google als Beispiele für Missbrauch von Brückenseiten. Eine Notdienstseite mit einer Liste der Einsatzorte und Anfahrtszeiten ist der bessere Weg.
 
 ## Quellen
 
@@ -241,4 +241,4 @@ Nein. Seiten für einzelne Städte, die Nutzer zur selben Seite führen, und im 
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-13. Fehler gefunden? info@localdominate.org

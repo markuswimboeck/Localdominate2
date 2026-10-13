@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-koeln
 markdown_url: https://localdominate.org/blog-md/local-seo-koeln.md
 language: de-DE
 published: 2026-01-27
-updated: 2026-10-12
+updated: 2026-10-13
 reading_time_minutes: 11
 category: "Städte"
 author: LocalDominate Redaktion
@@ -25,10 +25,10 @@ Köln hat neun Stadtbezirke und 86 Stadtteile. Google sortiert lokale Treffer na
 
 ## Das Wichtigste in Kürze
 
-- Köln zählte am 31.12.2025 laut Stadt Köln 1.100.076 Einwohner in neun Stadtbezirken und 86 Stadtteilen. Ihr Markt ist meist nur ein Teil davon.
+- Köln zählte am 31.12.2025 laut Stadt Köln 1.100.076 Menschen (mit Haupt- und Nebenwohnsitz) in neun Stadtbezirken und 86 Stadtteilen. Ihr Markt ist meist nur ein Teil davon.
 - Nach unserer Einschätzung entscheidet in Köln oft die Entfernung, wer im Kartenblock erscheint. Ziel ist Sichtbarkeit dort, wo Ihre Kunden sind.
 - Gesucht wird oft mit dem Veedel, etwa Sülz, Nippes oder Deutz, nicht mit dem Bezirk. Nennen Sie die Namen, die Ihre Kunden verwenden, und nur dort, wo Sie tätig sind.
-- Eine Seite je Veedel mit austauschbarem Text ist nach unserer Einschätzung riskant. Googles Spam-Richtlinien nennen im Wesentlichen ähnliche Seiten und Seiten für einzelne Städte, die zum selben Ziel führen, als Beispiele für Missbrauch von Brückenseiten.
+- Eine Seite je Veedel mit austauschbarem Text ist nach unserer Einschätzung riskant. Googles Spam-Richtlinien nennen Seiten für einzelne Städte, die zum selben Ziel führen, und im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie, als Beispiele für Missbrauch von Brückenseiten.
 - Weiberfastnacht und Rosenmontag sind in NRW keine gesetzlichen Feiertage. Wenn Sie an diesen Tagen anders öffnen, tragen Sie Sonderöffnungszeiten ein.
 
 ## Was Local SEO in Köln anders macht
@@ -58,7 +58,7 @@ Laut Googles Hilfe basieren lokale Ergebnisse hauptsächlich auf **Relevanz, Ent
 Eine Suche nach „Physiotherapie“ am Zülpicher Platz liefert deshalb eine andere Liste als dieselbe Suche in Mülheim. Unsere Einschätzung: Viele Kölner denken in links- und rechtsrheinisch, und eine Brücke dazwischen fühlt sich weiter an, als die Karte zeigt. Es ist normal, dass Sie in Ihrem Veedel gut sichtbar sind und auf der anderen Rheinseite kaum. Beeinflussen können Sie vor allem drei Dinge:
 
 - **Relevanz**: genaue Hauptkategorie, einzeln eingetragene Leistungen, eine eigene Seite je Leistung auf der Website.
-- **Beliebtheit**: echte Bewertungen und Websites, die auf Ihren Betrieb verweisen, etwa von Kammern, Verbänden, Vereinen und lokalen Medien. Beides nennt Googles Hilfe für diesen Faktor.
+- **Beliebtheit**: echte Bewertungen und Websites, die auf Ihren Betrieb verweisen. Beides nennt Googles Hilfe für diesen Faktor. Welche Seiten das in Köln sein können, etwa Kammern, Verbände, Vereine oder lokale Medien, ist unsere Einschätzung.
 - **Suchen mit Ortsangabe**: Wer „Steuerberater Lindenthal“ sucht, nennt den Ort selbst. Dann zählt, ob Website und Profil das Veedel glaubwürdig nennen.
 
 Wie Sie diese Hebel im Einzelnen angehen, zeigt [Google-Maps-Ranking verbessern](https://localdominate.org/blog/google-maps-ranking-verbessern).
@@ -67,7 +67,7 @@ Wie Sie diese Hebel im Einzelnen angehen, zeigt [Google-Maps-Ranking verbessern]
 
 Köln ist amtlich in neun Stadtbezirke mit zusammen 86 Stadtteilen gegliedert. Bezirk und Stadtteil tragen oft denselben Namen, meinen aber verschiedene Gebiete. Nennen Sie auf Website und im Profil die Namen, die Ihre Kunden tatsächlich verwenden.
 
-*Die neun Kölner Stadtbezirke, Einwohner am 31.12.2025 und Beispiele für Stadtteile (Stadt Köln, Kölner Stadtteilinformationen 2025)*
+*Die neun Kölner Stadtbezirke, Bevölkerung insgesamt am 31.12.2025 (Haupt- und Nebenwohnsitz) und Beispiele für Stadtteile (Stadt Köln, Kölner Stadtteilinformationen 2025)*
 
 | Stadtbezirk | Einwohner | Stadtteile | Beispiele |
 | --- | --- | --- | --- |
@@ -91,7 +91,7 @@ Die Tabelle zeigt, warum Bezirksnamen allein nicht reichen. Der Stadtbezirk Mül
 
 ## Seiten für Veedel ohne Brückenseiten
 
-Viele Seiten mit demselben Text und ausgetauschtem Veedelnamen sind nach unserer Einschätzung riskant. Google nennt als Missbrauch von Brückenseiten Seiten, die auf bestimmte Regionen oder Städte zielen und Nutzer zur selben Seite leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Eine eigene Seite lohnt sich nur mit Inhalten, die es nur für diesen Ort gibt.
+Viele Seiten mit demselben Text und ausgetauschtem Veedelnamen sind nach unserer Einschätzung riskant. Google nennt als Missbrauch von Brückenseiten Seiten, die auf bestimmte Regionen oder Städte zielen und Nutzer zur selben Seite leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie. Eine eigene Seite lohnt sich nur mit Inhalten, die es nur für diesen Ort gibt.
 
 *Veedelseite: sinnvoll oder Brückenseite*
 
@@ -116,7 +116,7 @@ Weiberfastnacht und Rosenmontag sind in Nordrhein-Westfalen keine gesetzlichen F
 
 Das Feiertagsgesetz NRW zählt in § 2 elf gesetzliche Feiertage auf, darunter Fronleichnam und Allerheiligen. Weiberfastnacht und Rosenmontag stehen nicht in der Liste. Google kennt Ihre Öffnungszeiten an diesen Tagen nur, wenn Sie sie eintragen.
 
-1. **Termine der Session prüfen.** Die Karnevalstage liegen jedes Jahr an anderen Daten. Die Stadt Köln informiert auf ihrer Karnevalsseite über die Session 2027 und verweist auf die Termine.
+1. **Termine der Session prüfen.** Die Karnevalstage liegen jedes Jahr an anderen Daten. Die Stadt Köln nennt auf ihrer Seite „Termine der Karnevalssession“ für 2027 Weiberfastnacht am Donnerstag, 4. Februar, und Rosenmontag am Montag, 8. Februar.
 2. **Sonderöffnungszeiten eintragen.** Tragen Sie für jeden betroffenen Tag die tatsächlichen Zeiten ein, auch „geschlossen“. Dieselben Zeiten gehören auf die Website. Wie das geht, steht in [Öffnungszeiten an Sondertagen](https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage).
 3. **Fronleichnam und Allerheiligen nicht vergessen.** Beide sind in NRW gesetzliche Feiertage. Wenn Ihre regulären Zeiten an Feiertagen nicht gelten, pflegen Sie auch diese Tage.
 
@@ -166,7 +166,7 @@ Beginnen Sie mit einer Ausgangsmessung, korrigieren Sie dann Profil und Firmenda
 
 ### Brauche ich für jedes Kölner Veedel eine eigene Seite?
 
-Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für dieses Veedel gibt. Sonst nennen Sie die Veedel auf der Leistungsseite.
+Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für dieses Veedel gibt. Sonst nennen Sie die Veedel auf der Leistungsseite.
 
 ### Darf ich „Köln“ oder mein Veedel in den Namen des Unternehmensprofils schreiben?
 
@@ -190,7 +190,7 @@ Nur wenn das Büro klar beschildert ist und dort während der Öffnungszeiten ei
 - [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
 - [Spam policies for Google web search (Doorway abuse)](https://developers.google.com/search/docs/essentials/spam-policies), Google Search Central
 - [Kölner Stadtteilinformationen: Bevölkerung 2025 (Stichtag 31.12.2025)](https://www.stadt-koeln.de/mediaasset/content/pdf15/statistik-einwohner-und-haushalte/koelner_stadtteilinformationen_-_zahlen_2025_bevölkerung.pdf), Stadt Köln, Kölner Statistische Nachrichten 4/2026
-- [Karneval in Köln](https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/karneval/), Stadt Köln
+- [Termine der Karnevalssession](https://www.stadt-koeln.de/artikel/08212/index.html), Stadt Köln
 - [Feiertagsgesetz NRW, § 2 Gesetzliche Feiertage](https://lexmea.de/de/gesetz/feiertg-nrw/2), lexmea.de
 - [Ihre IHK](https://www.ihk.de/koeln/hauptnavigation/ihre-ihk), IHK Köln
 - [§ 2 IHKG erklärt: Kammerzugehörigkeit und Beitragspflicht](https://www.ihk.de/blueprint/servlet/cbihk24/ueber-uns/ihk-mitgliedschaft/kammerzugehoerigkeit-und-beitragspflicht-6226470), IHK Cottbus
@@ -198,4 +198,4 @@ Nur wenn das Büro klar beschildert ist und dort während der Öffnungszeiten ei
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-13. Fehler gefunden? info@localdominate.org

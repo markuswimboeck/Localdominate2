@@ -20,7 +20,7 @@ const article: V4Article = {
     "Fasnacht und Herbstmesse verändern den Alltag in der Stadt. Pflegen Sie dafür Sonderöffnungszeiten, wenn Sie anders öffnen.",
   ],
   publishedAt: "2026-02-24",
-  updatedAt: "2026-10-12",
+  updatedAt: "2026-10-13",
   readingTime: 11,
   sections: [
     {
@@ -35,7 +35,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Laut Statistischem Amt lebten Ende 2025 im Kanton Basel-Stadt rund 210'500 Menschen. Der Kanton umfasst die Stadt Basel und die beiden Landgemeinden Riehen und Bettingen. Laut Kanton ist die grenzüberschreitende Agglomeration mit Gemeinden in der Schweiz, in Deutschland und in Frankreich deutlich grösser: rund 800'000 Einwohnerinnen und Einwohner.",
+          text: "Laut Statistischem Amt lebten Ende 2025 im Kanton Basel-Stadt gut 210'500 Menschen. Der Kanton umfasst die Stadt Basel und die beiden Landgemeinden Riehen und Bettingen. Laut Kanton ist die grenzüberschreitende Agglomeration mit Gemeinden in der Schweiz, in Deutschland und in Frankreich deutlich grösser: rund 800'000 Einwohnerinnen und Einwohner.",
         },
         {
           t: "table",
@@ -186,7 +186,7 @@ const article: V4Article = {
       id: "quartierseiten",
       title: "Seiten für Quartiere und Grenzorte ohne Brückenseiten",
       answer:
-        "Eine eigene Seite für ein Quartier oder einen Ort jenseits der Grenze lohnt sich nur mit Inhalten, die es nur dort gibt. Google nennt als Missbrauch von Brückenseiten Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer zur selben Seite leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website.",
+        "Eine eigene Seite für ein Quartier oder einen Ort jenseits der Grenze lohnt sich nur mit Inhalten, die es nur dort gibt. Google nennt als Missbrauch von Brückenseiten Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer zur selben Seite leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie.",
       blocks: [
         {
           t: "table",
@@ -218,7 +218,7 @@ const article: V4Article = {
             ["Handelskammer beider Basel (HKBB)", "Handelskammer der Region, bietet laut Kanton unter anderem Unterstützung bei Export und Import", "Ob eine Mitgliedschaft passt, Veranstaltungen, Mitarbeit in Gremien"],
             ["Gewerbeverband Basel-Stadt", "Gewerbeverband, laut Kanton Partner beim KMU-Förderprogramm Basel2037", "Ob eine Mitgliedschaft passt, Anlässe, Mitteilungen"],
             ["Berufs- und Branchenverbände", "Je nach Gewerk oder Beruf", "Mitgliederverzeichnis mit Link auf Ihre Website"],
-            ["Quartierorganisationen", "Der Kanton unterstützt laut Mitteilung von 2023 für die Jahre 2024 bis 2027 unter anderem die Stadtteilsekretariate Kleinbasel und Basel-West sowie die Gundeldinger Koordination", "Anlässe im Quartier, Engagement, Berichte über echte Anlässe"],
+            ["Quartierorganisationen", "Der Regierungsrat beantragte laut Mitteilung von 2023 für die Jahre 2024 bis 2027 Beiträge unter anderem für die Stadtteilsekretariate Kleinbasel und Basel-West sowie die Gundeldinger Koordination", "Anlässe im Quartier, Engagement, Berichte über echte Anlässe"],
             ["local.ch und search.ch", "Verbreitete allgemeine Verzeichnisse in der Schweiz", "Ob alte Adressen, Telefonnummern oder Firmennamen dort noch stehen"],
           ],
         },
@@ -238,7 +238,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Fasnacht**: Sie beginnt laut Basel Tourismus am Montag nach Aschermittwoch um 4 Uhr mit dem Morgestraich und gehört zum immateriellen Kulturerbe der UNESCO. Unsere Einschätzung: Betriebe in der Innenstadt öffnen in diesen Tagen oft anders, Anfahrt und Parkieren sind schwieriger.",
-            "**Herbstmesse**: Der Kanton beschreibt sie als Messe mit über 550-jähriger Tradition auf sieben Messeplätzen, darunter der Münsterplatz.",
+            "**Herbstmesse**: Der Kanton beschreibt sie als Messe mit über 550-jähriger Tradition auf sieben Messeplätzen.",
           ],
         },
         {
@@ -299,7 +299,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Brauche ich für jedes Basler Quartier eine eigene Seite?",
-      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten Seiten für einzelne Regionen oder Städte, die alle zum selben Ziel führen, und im Wesentlichen ähnliche Seiten, die eher wie Suchergebnisse wirken. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für dieses Quartier gibt.",
+      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten Seiten für einzelne Regionen oder Städte, die alle zum selben Ziel führen, und im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für dieses Quartier gibt.",
     },
     {
       q: "Wie spreche ich Kunden aus Lörrach, Weil am Rhein oder Saint-Louis an?",
