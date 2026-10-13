@@ -22,16 +22,10 @@ export default defineConfig(({ mode }) => ({
       output: {
         manualChunks: {
           // Core React
-          'react-vendor': ['react', 'react-dom', 'react-router-dom'],
-          // UI Components (Radix)
-          'ui-vendor': [
-            '@radix-ui/react-dialog',
-            '@radix-ui/react-dropdown-menu',
-            '@radix-ui/react-accordion',
-            '@radix-ui/react-tabs',
-            '@radix-ui/react-tooltip',
-            '@radix-ui/react-select',
-          ],
+          // tslib is shared by Supabase and Radix (react-remove-scroll); in the Supabase chunk it made dialogs load Supabase.
+          'react-vendor': ['react', 'react-dom', 'react-router-dom', 'tslib'],
+          // Radix UI is deliberately NOT a manual chunk: the forced group pulled shared helpers
+          // (Portal, Presence, the JSX runtime) into it, so every page loaded all six Radix packages.
           // Forms
           'forms-vendor': ['react-hook-form', 'zod', '@hookform/resolvers'],
           // Dates
