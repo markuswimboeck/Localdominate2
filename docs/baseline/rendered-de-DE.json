@@ -1093,7 +1093,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 5542,
+  "words": 5700,
   "htmlLang": "de"
  },
  {
@@ -2168,40 +2168,33 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 582,
+  "words": 591,
   "htmlLang": "de"
  },
  {
   "path": "/blog/bewertungs-antworten-vorlagen",
   "finalPath": "/blog/bewertungs-antworten-vorlagen",
-  "title": "Bewertungs-Antworten Vorlagen | 50 Templates 2026",
-  "description": "50 Vorlagen für professionelle Antworten auf Google Bewertungen. Positive, negative und neutrale Rezensionen richtig beantworten.",
+  "title": "Auf Google-Bewertungen antworten: Vorlagen und Regeln",
+  "description": "Auf Google-Bewertungen antworten: was Google empfiehlt, wie Antworten erscheinen, wo Datenschutz und Schweigepflicht Grenzen ziehen, mit Vorlagen auf Deutsch.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/bewertungs-antworten-vorlagen",
   "hreflang": [],
-  "ogTitle": "Bewertungs-Antworten Vorlagen | 50 Templates 2026",
+  "ogTitle": "Auf Google-Bewertungen antworten: Vorlagen und Regeln",
   "ogImage": "https://localdominate.org/images/og/blog/bewertungs-antworten-vorlagen.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-16",
-  "articleModified": "2026-02-16",
+  "articleModified": "2026-10-13",
   "h1": [
-   "Bewertungs-Antworten: 50 Vorlagen für jede Situation"
+   "Auf Google-Bewertungen antworten: Regeln, Grenzen und Vorlagen"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
@@ -2211,49 +2204,53 @@
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-16",
-  "ldDateModified": "2026-02-16",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
-   "/blog/bewertungen-reputation-hub",
+   "/blog/gbp-bewertung-loeschen-anleitung",
    "/blog/google-bewertungen-bekommen",
-   "/blog/google-business-profil-hub",
-   "/blog/google-maps-audit-template",
-   "/blog/google-maps-ranking-verbessern",
-   "/blog/google-maps-seo-hub",
-   "/blog/google-maps-seo-ranking-faktoren",
-   "/blog/kostenloses-seo-guide",
-   "/blog/local-seo-keywords-finden",
-   "/blog/local-seo-vs-maps-seo",
-   "/blog/lokale-suchmaschinenoptimierung-2026",
+   "/blog/local-seo-aerzte-praxen",
    "/blog/negative-google-bewertungen",
-   "/blog/ultimate-guide-local-seo",
+   "/creators",
    "/datenschutz",
-   "/handwerker-marketing",
+   "/de",
+   "/de/ki",
    "/impressum",
-   "/restaurant-marketing",
-   "/seo-lexikon"
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
+   "/industries/practices",
+   "/industries/restaurants",
+   "/industries/trades",
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 2248,
+  "images": [],
+  "words": 2413,
   "htmlLang": "de"
  },
  {
@@ -2750,7 +2747,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 729,
+  "words": 750,
   "htmlLang": "de"
  },
  {
@@ -4744,7 +4741,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 965,
+  "words": 970,
   "htmlLang": "de"
  },
  {
@@ -4935,84 +4932,94 @@
  {
   "path": "/blog/google-business-produkte-services",
   "finalPath": "/blog/google-business-produkte-services",
-  "title": "Google Business Produkte & Services | Guide 2026",
-  "description": "So nutzt du Produkte und Services in deinem Google Business Profil. Katalog erstellen, Preise, Beschreibungen und mehr.",
+  "title": "Produkte und Leistungen im Google-Unternehmensprofil",
+  "description": "Leistungen, Produkte und Speisekarte im Google-Unternehmensprofil: welcher Editor für wen, Richtlinien für eingeschränkte Waren, Prüfung, Wirkung und Messung.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/google-business-produkte-services",
   "hreflang": [],
-  "ogTitle": "Google Business Produkte & Services | Guide 2026",
+  "ogTitle": "Produkte und Leistungen im Google-Unternehmensprofil",
   "ogImage": "https://localdominate.org/images/og/blog/google-business-produkte-services.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-12",
-  "articleModified": "2026-02-12",
+  "articleModified": "2026-10-13",
   "h1": [
-   "Google Business Produkte & Services optimal präsentieren"
+   "Produkte, Leistungen und Speisekarte im Google-Unternehmensprofil"
   ],
-  "jsonLdBlocks": 7,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
+   "Answer",
    "Article",
-   "Audience",
-   "Brand",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
+   "FAQPage",
    "ImageObject",
    "ListItem",
    "Organization",
    "Person",
    "PostalAddress",
+   "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-12",
-  "ldDateModified": "2026-02-12",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
-   "/blog/gbp-fotos-optimieren",
-   "/blog/gbp-mehrere-standorte",
-   "/blog/google-business-insights-verstehen",
+   "/blog/gbp-suspendiert-reaktivieren",
    "/blog/google-business-kategorien-guide",
-   "/blog/google-business-messaging",
-   "/blog/google-business-profil-hub",
-   "/blog/google-maps-audit-template",
    "/blog/google-maps-ranking-verbessern",
-   "/blog/google-maps-seo-hub",
    "/blog/google-maps-seo-ranking-faktoren",
    "/blog/google-my-business-optimieren",
-   "/blog/local-seo-vs-maps-seo",
-   "/blog/lokale-suchmaschinenoptimierung-2026",
+   "/blog/google-posts-ranking-faktor",
+   "/blog/local-seo-apotheken",
+   "/blog/local-seo-baeckerei",
+   "/blog/local-seo-cafe-coffeeshop",
+   "/blog/local-seo-friseursalon-beauty",
+   "/blog/local-seo-fuer-restaurants",
+   "/blog/local-seo-handwerker",
+   "/blog/local-seo-monthly-checklist",
+   "/blog/local-seo-optiker",
+   "/blog/unternehmensprofil-ki-funktionen-2026",
+   "/creators",
    "/datenschutz",
-   "/handwerker-marketing",
+   "/de",
+   "/de/ki",
    "/impressum",
-   "/restaurant-marketing",
-   "/seo-lexikon"
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
+   "/industries/practices",
+   "/industries/restaurants",
+   "/industries/trades",
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 968,
+  "images": [],
+  "words": 2216,
   "htmlLang": "de"
  },
  {
@@ -5106,7 +5113,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 1017,
+  "words": 1043,
   "htmlLang": "de"
  },
  {
@@ -5638,7 +5645,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 1174,
+  "words": 1200,
   "htmlLang": "de"
  },
  {
@@ -5996,35 +6003,27 @@
  {
   "path": "/blog/google-posts-ranking-faktor",
   "finalPath": "/blog/google-posts-ranking-faktor",
-  "title": "Google Posts | Unterschätzter Ranking-Faktor 2026",
-  "description": "Wie Google Posts Ihr lokales Ranking verbessern. Content-Strategien, Posting-Frequenz und Conversion-Optimierung.",
+  "title": "Google-Beiträge im Unternehmensprofil: Regeln und Wirkung",
+  "description": "Beiträge im Google-Unternehmensprofil: Arten, Pflichtangaben, Richtlinien, was Google zum Ranking sagt und wie Sie die Wirkung in den Leistungsdaten prüfen.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/google-posts-ranking-faktor",
   "hreflang": [],
-  "ogTitle": "Google Posts | Unterschätzter Ranking-Faktor 2026",
+  "ogTitle": "Google-Beiträge im Unternehmensprofil: Regeln und Wirkung",
   "ogImage": "https://localdominate.org/images/og/blog/google-posts-ranking-faktor.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-31",
-  "articleModified": "2026-01-31",
+  "articleModified": "2026-10-13",
   "h1": [
-   "Google Posts optimal nutzen: Der unterschätzte Ranking-Faktor"
+   "Beiträge im Google-Unternehmensprofil: was sie leisten und was nicht"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
-   "Brand",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
@@ -6034,49 +6033,62 @@
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-31",
-  "ldDateModified": "2026-01-31",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
-   "/blog/core-web-vitals-local-seo",
-   "/blog/google-business-profil-hub",
-   "/blog/google-maps-audit-template",
+   "/blog/gbp-fotos-optimieren",
+   "/blog/gbp-mehrere-standorte",
+   "/blog/gbp-oeffnungszeiten-sondertage",
+   "/blog/google-business-produkte-services",
+   "/blog/google-maps-ranking-tracker",
    "/blog/google-maps-ranking-verbessern",
-   "/blog/google-maps-seo-hub",
-   "/blog/google-maps-seo-ranking-faktoren",
-   "/blog/local-seo-vs-maps-seo",
-   "/blog/localbusiness-schema-implementierung",
-   "/blog/lokale-suchmaschinenoptimierung-2026",
-   "/blog/mobile-local-seo",
-   "/blog/review-schema-implementierung",
-   "/blog/schema-markup-local-seo",
-   "/blog/technisches-local-seo-guide",
+   "/blog/google-my-business-optimieren",
+   "/blog/local-seo-fuer-restaurants",
+   "/blog/local-seo-hotels",
+   "/blog/local-seo-monthly-checklist",
+   "/blog/lokale-events-marketing",
+   "/blog/unternehmensprofil-ki-funktionen-2026",
+   "/blog/wie-google-maps-ranking-funktioniert",
+   "/creators",
    "/datenschutz",
-   "/handwerker-marketing",
+   "/de",
+   "/de/ki",
    "/impressum",
-   "/restaurant-marketing",
-   "/seo-lexikon"
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
+   "/industries/practices",
+   "/industries/restaurants",
+   "/industries/trades",
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 1283,
+  "images": [],
+  "words": 2120,
   "htmlLang": "de"
  },
  {
@@ -6344,89 +6356,87 @@
  {
   "path": "/blog/local-citations-2025",
   "finalPath": "/blog/local-citations-2025",
-  "title": "Local Citations 2026: Die wichtigsten Verzeichnisse | Guide",
-  "description": "Welche Branchenverzeichnisse sind 2026 noch relevant für Local SEO? Die aktualisierte Liste der wichtigsten Citations für DACH mit Priorisierung.",
+  "title": "Local Citations: Firmeneinträge in DACH richtig pflegen",
+  "description": "Local Citations erklärt: was Google zu Verweisen und Firmendaten schreibt, woher Verzeichnisse in DACH ihre Daten haben und wie Sie Einträge sauber bereinigen.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/local-citations-2025",
   "hreflang": [],
-  "ogTitle": "Local Citations 2026: Die wichtigsten Verzeichnisse | Guide",
+  "ogTitle": "Local Citations: Firmeneinträge in DACH richtig pflegen",
   "ogImage": "https://localdominate.org/images/og/blog/local-citations-2025.jpg",
   "ogType": "article",
   "articlePublished": "2025-01-10",
-  "articleModified": "2026-02-08",
+  "articleModified": "2026-10-13",
   "h1": [
-   "Local Citations 2026: Welche Verzeichnisse sind noch wichtig?"
+   "Local Citations: Welche Verzeichnisse in Deutschland, Österreich und der Schweiz zählen und wie Sie sie pflegen"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
    "ListItem",
    "Organization",
    "Person",
-   "Place",
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2025-01-10",
-  "ldDateModified": "2026-02-08",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
+   "/blog/apple-business-connect-local-seo-2026",
+   "/blog/bing-copilot-local-seo-2026",
    "/blog/citation-tracking-template",
-   "/blog/content-marketing-hub",
-   "/blog/google-maps-audit-template",
-   "/blog/google-maps-ranking-verbessern",
-   "/blog/google-maps-seo-ranking-faktoren",
-   "/blog/kostenloses-seo-guide",
-   "/blog/local-seo-audit-checkliste",
-   "/blog/local-seo-vs-maps-seo",
-   "/blog/localbusiness-schema-implementierung",
+   "/blog/duplicate-listing-entfernen",
+   "/blog/local-link-building",
    "/blog/nap-konsistenz-local-seo",
-   "/blog/review-schema-implementierung",
-   "/blog/schema-markup-local-seo",
-   "/blog/technisches-local-seo-guide",
-   "/blog/technisches-seo-hub",
    "/blog/ultimate-guide-local-seo",
+   "/blog/wie-google-maps-ranking-funktioniert",
+   "/creators",
    "/datenschutz",
-   "/handwerker-marketing",
+   "/de",
+   "/de/ki",
    "/impressum",
-   "/restaurant-marketing",
-   "/seo-lexikon"
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
+   "/industries/practices",
+   "/industries/restaurants",
+   "/industries/trades",
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 1788,
+  "images": [],
+  "words": 2111,
   "htmlLang": "de"
  },
  {
@@ -7355,7 +7365,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2943,
+  "words": 2965,
   "htmlLang": "de"
  },
  {
@@ -7726,7 +7736,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3007,
+  "words": 3047,
   "htmlLang": "de"
  },
  {
@@ -8356,7 +8366,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-fitness.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-04",
-  "articleModified": "2026-10-10",
+  "articleModified": "2026-10-12",
   "h1": [
    "Lokales SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche"
   ],
@@ -8384,7 +8394,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-04",
-  "ldDateModified": "2026-10-10",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -8429,7 +8439,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2785,
+  "words": 2849,
   "htmlLang": "de"
  },
  {
@@ -8618,7 +8628,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-friseursalon-beauty.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-08",
-  "articleModified": "2026-10-10",
+  "articleModified": "2026-10-12",
   "h1": [
    "SEO für Friseure und Kosmetikstudios: So finden Kunden Ihren Salon über Google"
   ],
@@ -8646,7 +8656,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-08",
-  "ldDateModified": "2026-10-10",
+  "ldDateModified": "2026-10-12",
   "internalLinks": [
    "/",
    "/about",
@@ -8687,7 +8697,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2247,
+  "words": 2255,
   "htmlLang": "de"
  },
  {
@@ -8957,7 +8967,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2649,
+  "words": 2674,
   "htmlLang": "de"
  },
  {
@@ -9324,7 +9334,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3457,
+  "words": 3543,
   "htmlLang": "de"
  },
  {
@@ -10485,7 +10495,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3053,
+  "words": 3108,
   "htmlLang": "de"
  },
  {
@@ -10578,7 +10588,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2548,
+  "words": 2574,
   "htmlLang": "de"
  },
  {
@@ -11057,7 +11067,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 678,
+  "words": 784,
   "htmlLang": "de"
  },
  {
@@ -12393,7 +12403,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 1203,
+  "words": 1224,
   "htmlLang": "de"
  },
  {
@@ -12825,7 +12835,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3168,
+  "words": 3181,
   "htmlLang": "de"
  },
  {
@@ -13005,7 +13015,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2804,
+  "words": 2815,
   "htmlLang": "de"
  },
  {
@@ -14796,7 +14806,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2977,
+  "words": 3011,
   "htmlLang": "de"
  },
  {
@@ -14878,7 +14888,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 741,
+  "words": 762,
   "htmlLang": "de"
  },
  {
@@ -15051,7 +15061,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 757,
+  "words": 766,
   "htmlLang": "de"
  },
  {
@@ -16742,7 +16752,7 @@
   ],
   "ldAuthors": [],
   "ldDatePublished": "2025-01-01",
-  "ldDateModified": "2026-10-12",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/agb",
