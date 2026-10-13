@@ -13,14 +13,14 @@ const article: V4Article = {
   answer:
     "Köln hat neun Stadtbezirke und 86 Stadtteile. Google sortiert lokale Treffer nach **Relevanz, Entfernung und Beliebtheit**, deshalb sieht jemand in Porz eine andere Liste als jemand in Ehrenfeld. Legen Sie Ihr Einzugsgebiet nach den Bezirken und Veedeln fest, die Sie wirklich bedienen, halten Sie Profil und Website widerspruchsfrei und messen Sie mit einem Raster über genau diese Gebiete.",
   takeaways: [
-    "Köln zählte am 31.12.2025 laut Stadt Köln 1.100.076 Einwohner in neun Stadtbezirken und 86 Stadtteilen. Ihr Markt ist meist nur ein Teil davon.",
+    "Köln zählte am 31.12.2025 laut Stadt Köln 1.100.076 Menschen (mit Haupt- und Nebenwohnsitz) in neun Stadtbezirken und 86 Stadtteilen. Ihr Markt ist meist nur ein Teil davon.",
     "Nach unserer Einschätzung entscheidet in Köln oft die Entfernung, wer im Kartenblock erscheint. Ziel ist Sichtbarkeit dort, wo Ihre Kunden sind.",
     "Gesucht wird oft mit dem Veedel, etwa Sülz, Nippes oder Deutz, nicht mit dem Bezirk. Nennen Sie die Namen, die Ihre Kunden verwenden, und nur dort, wo Sie tätig sind.",
-    "Eine Seite je Veedel mit austauschbarem Text ist nach unserer Einschätzung riskant. Googles Spam-Richtlinien nennen im Wesentlichen ähnliche Seiten und Seiten für einzelne Städte, die zum selben Ziel führen, als Beispiele für Missbrauch von Brückenseiten.",
+    "Eine Seite je Veedel mit austauschbarem Text ist nach unserer Einschätzung riskant. Googles Spam-Richtlinien nennen Seiten für einzelne Städte, die zum selben Ziel führen, und im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie, als Beispiele für Missbrauch von Brückenseiten.",
     "Weiberfastnacht und Rosenmontag sind in NRW keine gesetzlichen Feiertage. Wenn Sie an diesen Tagen anders öffnen, tragen Sie Sonderöffnungszeiten ein.",
   ],
   publishedAt: "2026-01-27",
-  updatedAt: "2026-10-12",
+  updatedAt: "2026-10-13",
   readingTime: 11,
   sections: [
     {
@@ -72,7 +72,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Relevanz**: genaue Hauptkategorie, einzeln eingetragene Leistungen, eine eigene Seite je Leistung auf der Website.",
-            "**Beliebtheit**: echte Bewertungen und Websites, die auf Ihren Betrieb verweisen, etwa von Kammern, Verbänden, Vereinen und lokalen Medien. Beides nennt Googles Hilfe für diesen Faktor.",
+            "**Beliebtheit**: echte Bewertungen und Websites, die auf Ihren Betrieb verweisen. Beides nennt Googles Hilfe für diesen Faktor. Welche Seiten das in Köln sein können, etwa Kammern, Verbände, Vereine oder lokale Medien, ist unsere Einschätzung.",
             "**Suchen mit Ortsangabe**: Wer „Steuerberater Lindenthal“ sucht, nennt den Ort selbst. Dann zählt, ob Website und Profil das Veedel glaubwürdig nennen.",
           ],
         },
@@ -90,7 +90,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "table",
-          caption: "Die neun Kölner Stadtbezirke, Einwohner am 31.12.2025 und Beispiele für Stadtteile (Stadt Köln, Kölner Stadtteilinformationen 2025)",
+          caption: "Die neun Kölner Stadtbezirke, Bevölkerung insgesamt am 31.12.2025 (Haupt- und Nebenwohnsitz) und Beispiele für Stadtteile (Stadt Köln, Kölner Stadtteilinformationen 2025)",
           head: ["Stadtbezirk", "Einwohner", "Stadtteile", "Beispiele"],
           rows: [
             ["1 Innenstadt", "127.889", "5", "Altstadt-Nord, Neustadt-Süd, Deutz"],
@@ -126,7 +126,7 @@ const article: V4Article = {
       id: "veedelseiten",
       title: "Seiten für Veedel ohne Brückenseiten",
       answer:
-        "Viele Seiten mit demselben Text und ausgetauschtem Veedelnamen sind nach unserer Einschätzung riskant. Google nennt als Missbrauch von Brückenseiten Seiten, die auf bestimmte Regionen oder Städte zielen und Nutzer zur selben Seite leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Eine eigene Seite lohnt sich nur mit Inhalten, die es nur für diesen Ort gibt.",
+        "Viele Seiten mit demselben Text und ausgetauschtem Veedelnamen sind nach unserer Einschätzung riskant. Google nennt als Missbrauch von Brückenseiten Seiten, die auf bestimmte Regionen oder Städte zielen und Nutzer zur selben Seite leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie. Eine eigene Seite lohnt sich nur mit Inhalten, die es nur für diesen Ort gibt.",
       blocks: [
         {
           t: "table",
@@ -183,7 +183,7 @@ const article: V4Article = {
           items: [
             {
               title: "Termine der Session prüfen",
-              text: "Die Karnevalstage liegen jedes Jahr an anderen Daten. Die Stadt Köln informiert auf ihrer Karnevalsseite über die Session 2027 und verweist auf die Termine.",
+              text: "Die Karnevalstage liegen jedes Jahr an anderen Daten. Die Stadt Köln nennt auf ihrer Seite „Termine der Karnevalssession“ für 2027 Weiberfastnacht am Donnerstag, 4. Februar, und Rosenmontag am Montag, 8. Februar.",
             },
             {
               title: "Sonderöffnungszeiten eintragen",
@@ -285,7 +285,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Brauche ich für jedes Kölner Veedel eine eigene Seite?",
-      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für dieses Veedel gibt. Sonst nennen Sie die Veedel auf der Leistungsseite.",
+      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für dieses Veedel gibt. Sonst nennen Sie die Veedel auf der Leistungsseite.",
     },
     {
       q: "Darf ich „Köln“ oder mein Veedel in den Namen des Unternehmensprofils schreiben?",
@@ -309,7 +309,7 @@ const article: V4Article = {
     { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
     { title: "Spam policies for Google web search (Doorway abuse)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies" },
     { title: "Kölner Stadtteilinformationen: Bevölkerung 2025 (Stichtag 31.12.2025)", publisher: "Stadt Köln, Kölner Statistische Nachrichten 4/2026", url: "https://www.stadt-koeln.de/mediaasset/content/pdf15/statistik-einwohner-und-haushalte/koelner_stadtteilinformationen_-_zahlen_2025_bevölkerung.pdf" },
-    { title: "Karneval in Köln", publisher: "Stadt Köln", url: "https://www.stadt-koeln.de/leben-in-koeln/freizeit-natur-sport/karneval/" },
+    { title: "Termine der Karnevalssession", publisher: "Stadt Köln", url: "https://www.stadt-koeln.de/artikel/08212/index.html" },
     { title: "Feiertagsgesetz NRW, § 2 Gesetzliche Feiertage", publisher: "lexmea.de", url: "https://lexmea.de/de/gesetz/feiertg-nrw/2" },
     { title: "Ihre IHK", publisher: "IHK Köln", url: "https://www.ihk.de/koeln/hauptnavigation/ihre-ihk" },
     { title: "§ 2 IHKG erklärt: Kammerzugehörigkeit und Beitragspflicht", publisher: "IHK Cottbus", url: "https://www.ihk.de/blueprint/servlet/cbihk24/ueber-uns/ihk-mitgliedschaft/kammerzugehoerigkeit-und-beitragspflicht-6226470" },

@@ -20,7 +20,7 @@ const article: V4Article = {
     "Statt vieler fast gleicher Ortsseiten hilft eine starke Notdienstseite mit Einsatzorten, Ablauf und Preisen.",
   ],
   publishedAt: "2026-02-03",
-  updatedAt: "2026-10-12",
+  updatedAt: "2026-10-13",
   readingTime: 13,
   sections: [
     {
@@ -254,7 +254,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google nennt als Beispiele für Missbrauch von Brückenseiten mehrere Domainnamen oder Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind, die Nutzer jedoch alle zur selben Seite weiterleiten, sowie im Wesentlichen ähnliche Seiten. Ob konkrete Ortsseiten darunter fallen, lässt sich von außen nicht sicher sagen. Nach unserer Einschätzung ist das Risiko groß, wenn nur der Ortsname wechselt. Eine eigene Ortsseite lohnt sich nur bei einer echten Niederlassung oder echten eigenen Inhalten für diesen Ort.",
+          text: "Google nennt als Beispiele für Missbrauch von Brückenseiten mehrere Domainnamen oder Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind, die Nutzer jedoch alle zur selben Seite weiterleiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie. Ob konkrete Ortsseiten darunter fallen, lässt sich von außen nicht sicher sagen. Nach unserer Einschätzung ist das Risiko groß, wenn nur der Ortsname wechselt. Eine eigene Ortsseite lohnt sich nur bei einer echten Niederlassung oder echten eigenen Inhalten für diesen Ort.",
         },
         {
           t: "steps",
@@ -321,7 +321,7 @@ const article: V4Article = {
     },
     {
       q: "Brauche ich für jeden Ort im Einzugsgebiet eine eigene Notdienstseite?",
-      a: "Nein. Seiten für einzelne Städte, die Nutzer zur selben Seite führen, und im Wesentlichen ähnliche Seiten nennt Google als Beispiele für Missbrauch von Brückenseiten. Eine Notdienstseite mit einer Liste der Einsatzorte und Anfahrtszeiten ist der bessere Weg.",
+      a: "Nein. Seiten für einzelne Städte, die Nutzer zur selben Seite führen, und im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie, nennt Google als Beispiele für Missbrauch von Brückenseiten. Eine Notdienstseite mit einer Liste der Einsatzorte und Anfahrtszeiten ist der bessere Weg.",
     },
   ],
   sources: [
