@@ -1093,7 +1093,7 @@
   "images": [
    "/logo.png"
   ],
-  "words": 5741,
+  "words": 5811,
   "htmlLang": "de"
  },
  {
@@ -2002,7 +2002,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 1361,
+  "words": 1369,
   "htmlLang": "de"
  },
  {
@@ -2253,7 +2253,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2702,
+  "words": 2736,
   "htmlLang": "de"
  },
  {
@@ -2750,7 +2750,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 744,
+  "words": 759,
   "htmlLang": "de"
  },
  {
@@ -2833,7 +2833,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2557,
+  "words": 2567,
   "htmlLang": "de"
  },
  {
@@ -2934,34 +2934,27 @@
  {
   "path": "/blog/e-e-a-t-lokale-unternehmen",
   "finalPath": "/blog/e-e-a-t-lokale-unternehmen",
-  "title": "E-E-A-T für lokale Unternehmen | Trust-Guide 2026",
-  "description": "Wie lokale Unternehmen E-E-A-T (Experience, Expertise, Authority, Trust) für bessere Google Rankings nutzen.",
+  "title": "E-E-A-T für lokale Unternehmen: was Google wirklich meint",
+  "description": "E-E-A-T ist kein Rankingfaktor, sondern ein Maßstab aus Googles Richtlinien für Prüfer. Wie lokale Betriebe Erfahrung, Fachwissen und Vertrauen belegen.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/e-e-a-t-lokale-unternehmen",
   "hreflang": [],
-  "ogTitle": "E-E-A-T für lokale Unternehmen | Trust-Guide 2026",
+  "ogTitle": "E-E-A-T für lokale Unternehmen: was Google wirklich meint",
   "ogImage": "https://localdominate.org/images/og/blog/e-e-a-t-lokale-unternehmen.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-18",
-  "articleModified": "2026-01-18",
+  "articleModified": "2026-10-13",
   "h1": [
-   "E-E-A-T für lokale Unternehmen: Expertise beweisen & Vertrauen aufbauen"
+   "E-E-A-T für lokale Unternehmen: Erfahrung, Fachwissen und Vertrauen sichtbar machen"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
@@ -2971,48 +2964,55 @@
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-18",
-  "ldDateModified": "2026-01-18",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
-   "/blog/ai-zukunft-hub",
-   "/blog/content-marketing-hub",
-   "/blog/google-maps-audit-template",
-   "/blog/kostenloses-seo-guide",
-   "/blog/local-content-marketing",
+   "/blog/entity-seo-guide",
+   "/blog/google-bewertungen-bekommen",
    "/blog/local-link-building",
-   "/blog/local-seo-audit-checkliste",
-   "/blog/local-seo-fehler",
-   "/blog/local-seo-keywords-finden",
-   "/blog/lokale-events-marketing",
-   "/blog/lokale-suchmaschinenoptimierung-2026",
-   "/blog/ultimate-guide-local-seo",
+   "/blog/local-seo-aerzte-praxen",
+   "/blog/nap-konsistenz-local-seo",
+   "/blog/semantic-seo-topical-authority",
+   "/creators",
    "/datenschutz",
-   "/handwerker-marketing",
+   "/de",
+   "/de/ki",
    "/impressum",
-   "/restaurant-marketing",
-   "/seo-lexikon"
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
+   "/industries/practices",
+   "/industries/restaurants",
+   "/industries/trades",
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 921,
+  "images": [],
+  "words": 2221,
   "htmlLang": "de"
  },
  {
@@ -4667,35 +4667,27 @@
  {
   "path": "/blog/google-business-insights-verstehen",
   "finalPath": "/blog/google-business-insights-verstehen",
-  "title": "Google Business Insights | Analytics Guide 2026",
-  "description": "So interpretierst du Google Business Insights richtig. Alle Metriken erklärt, Benchmarks und Optimierungstipps.",
+  "title": "Google Business Insights: Leistungsdaten richtig lesen",
+  "description": "Was die Leistungsdaten im Google-Unternehmensprofil zählen: Aufrufe, Suchanfragen, Anrufe, Wegbeschreibungen, Websiteklicks. Mit Googles Einschränkungen.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/google-business-insights-verstehen",
   "hreflang": [],
-  "ogTitle": "Google Business Insights | Analytics Guide 2026",
+  "ogTitle": "Google Business Insights: Leistungsdaten richtig lesen",
   "ogImage": "https://localdominate.org/images/og/blog/google-business-insights-verstehen.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-20",
-  "articleModified": "2026-02-20",
+  "articleModified": "2026-10-13",
   "h1": [
-   "Google Business Insights richtig verstehen & nutzen"
+   "Google Business Insights verstehen: die Leistungsdaten im Unternehmensprofil richtig lesen"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
-   "Brand",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
@@ -4705,49 +4697,57 @@
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-20",
-  "ldDateModified": "2026-02-20",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
-   "/blog/gbp-fotos-optimieren",
-   "/blog/gbp-mehrere-standorte",
+   "/blog/gbp-verifizierung-fehlgeschlagen",
    "/blog/google-business-kategorien-guide",
    "/blog/google-business-messaging",
    "/blog/google-business-produkte-services",
-   "/blog/google-business-profil-hub",
-   "/blog/google-maps-audit-template",
-   "/blog/google-maps-ranking-verbessern",
-   "/blog/google-maps-seo-hub",
-   "/blog/google-maps-seo-ranking-faktoren",
-   "/blog/google-my-business-optimieren",
-   "/blog/local-seo-vs-maps-seo",
-   "/blog/lokale-suchmaschinenoptimierung-2026",
+   "/blog/google-maps-ranking-tracker",
+   "/blog/google-posts-ranking-faktor",
+   "/blog/local-seo-reporting-template",
+   "/blog/local-seo-tracking-kpis",
+   "/creators",
    "/datenschutz",
-   "/handwerker-marketing",
+   "/de",
+   "/de/ki",
    "/impressum",
-   "/restaurant-marketing",
-   "/seo-lexikon"
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
+   "/industries/practices",
+   "/industries/restaurants",
+   "/industries/trades",
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 970,
+  "images": [],
+  "words": 2520,
   "htmlLang": "de"
  },
  {
@@ -5020,7 +5020,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2608,
+  "words": 2662,
   "htmlLang": "de"
  },
  {
@@ -5114,7 +5114,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 1064,
+  "words": 1070,
   "htmlLang": "de"
  },
  {
@@ -5646,7 +5646,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 1215,
+  "words": 1221,
   "htmlLang": "de"
  },
  {
@@ -6086,7 +6086,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2822,
+  "words": 2883,
   "htmlLang": "de"
  },
  {
@@ -6436,7 +6436,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2564,
+  "words": 2601,
   "htmlLang": "de"
  },
  {
@@ -6774,7 +6774,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2740,
+  "words": 2775,
   "htmlLang": "de"
  },
  {
@@ -7374,7 +7374,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-basel.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-24",
-  "articleModified": "2026-10-12",
+  "articleModified": "2026-10-13",
   "h1": [
    "Local SEO in Basel: gefunden werden im Quartier, im Kanton und jenseits der Grenze"
   ],
@@ -7402,7 +7402,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-24",
-  "ldDateModified": "2026-10-12",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
@@ -7447,7 +7447,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2909,
+  "words": 2914,
   "htmlLang": "de"
  },
  {
@@ -7906,7 +7906,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2925,
+  "words": 2924,
   "htmlLang": "de"
  },
  {
@@ -8004,7 +8004,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-duesseldorf.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-18",
-  "articleModified": "2026-10-12",
+  "articleModified": "2026-10-13",
   "h1": [
    "Local SEO in Düsseldorf: sichtbar in den Stadtteilen, die Sie wirklich bedienen"
   ],
@@ -8032,7 +8032,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-18",
-  "ldDateModified": "2026-10-12",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
@@ -8079,7 +8079,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2657,
+  "words": 2680,
   "htmlLang": "de"
  },
  {
@@ -9142,7 +9142,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-hannover.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-16",
-  "articleModified": "2026-10-12",
+  "articleModified": "2026-10-13",
   "h1": [
    "Local SEO in Hannover: sichtbar in den Stadtbezirken und Umlandorten, die Sie wirklich bedienen"
   ],
@@ -9170,7 +9170,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-16",
-  "ldDateModified": "2026-10-12",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
@@ -9217,7 +9217,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2686,
+  "words": 2709,
   "htmlLang": "de"
  },
  {
@@ -9724,7 +9724,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-koeln.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-27",
-  "articleModified": "2026-10-12",
+  "articleModified": "2026-10-13",
   "h1": [
    "Local SEO in Köln: sichtbar in den Bezirken und Veedeln, die Sie wirklich bedienen"
   ],
@@ -9752,7 +9752,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-27",
-  "ldDateModified": "2026-10-12",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
@@ -9799,7 +9799,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2563,
+  "words": 2612,
   "htmlLang": "de"
  },
  {
@@ -9973,7 +9973,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2645,
+  "words": 2687,
   "htmlLang": "de"
  },
  {
@@ -10220,7 +10220,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-notdienst-keywords.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-03",
-  "articleModified": "2026-10-12",
+  "articleModified": "2026-10-13",
   "h1": [
    "Notdienst-Keywords: So finden Kunden Ihren Betrieb, wenn es dringend ist"
   ],
@@ -10248,7 +10248,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-03",
-  "ldDateModified": "2026-10-12",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
@@ -10293,7 +10293,7 @@
    "/work"
   ],
   "images": [],
-  "words": 3170,
+  "words": 3190,
   "htmlLang": "de"
  },
  {
@@ -10653,7 +10653,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2982,
+  "words": 3008,
   "htmlLang": "de"
  },
  {
@@ -11058,7 +11058,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-statistiken-daten.jpg",
   "ogType": "article",
   "articlePublished": "2026-03-08",
-  "articleModified": "2026-10-12",
+  "articleModified": "2026-10-13",
   "h1": [
    "Local-SEO-Zahlen: was belegt ist und wie Sie Ihre eigenen Daten erheben"
   ],
@@ -11086,7 +11086,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-03-08",
-  "ldDateModified": "2026-10-12",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
@@ -11131,7 +11131,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2776,
+  "words": 2823,
   "htmlLang": "de"
  },
  {
@@ -11231,34 +11231,27 @@
  {
   "path": "/blog/local-seo-strategie-kleine-unternehmen",
   "finalPath": "/blog/local-seo-strategie-kleine-unternehmen",
-  "title": "Local SEO Strategie KMU | Aktionsplan 2026 | LocalDominate",
-  "description": "Die komplette Local-SEO-Strategie für KMU im DACH-Raum: 90-Tage-Plan, Checklisten, Tools & Branchenbeispiele. Kostenlos umsetzbar — ohne Agentur.",
+  "title": "Local-SEO-Strategie für kleine Unternehmen mit wenig Zeit",
+  "description": "Local SEO für kleine Betriebe mit einem Standort und wenig Zeit: was zuerst kommt, was laufend reicht, was Sie weglassen können und wie Sie Fortschritt messen.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/local-seo-strategie-kleine-unternehmen",
   "hreflang": [],
-  "ogTitle": "Local SEO Strategie KMU | Aktionsplan 2026 | LocalDominate",
+  "ogTitle": "Local-SEO-Strategie für kleine Unternehmen mit wenig Zeit",
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-strategie-kleine-unternehmen.jpg",
   "ogType": "article",
   "articlePublished": "2026-03-08",
-  "articleModified": "2026-03-08",
+  "articleModified": "2026-10-13",
   "h1": [
-   "Local SEO Strategie für kleine Unternehmen: Der komplette Aktionsplan 2026"
+   "Local-SEO-Strategie für kleine Unternehmen: Prioritäten für einen Standort mit wenig Zeit"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
@@ -11268,81 +11261,66 @@
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-03-08",
-  "ldDateModified": "2026-03-08",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
-   "/blog/bewertungs-antworten-vorlagen",
-   "/blog/core-web-vitals-local-seo",
-   "/blog/duplicate-listing-entfernen",
-   "/blog/gbp-attribute-richtig-nutzen",
-   "/blog/gbp-fotos-optimieren",
    "/blog/gbp-oeffnungszeiten-sondertage",
    "/blog/google-bewertungen-bekommen",
    "/blog/google-business-insights-verstehen",
    "/blog/google-business-kategorien-guide",
-   "/blog/google-business-produkte-services",
-   "/blog/google-maps-audit-template",
    "/blog/google-my-business-optimieren",
-   "/blog/google-posts-ranking-faktor",
-   "/blog/ki-tools-local-seo",
-   "/blog/kostenloses-seo-guide",
-   "/blog/local-content-marketing",
    "/blog/local-link-building",
-   "/blog/local-seo-aerzte-praxen",
-   "/blog/local-seo-anwaelte-kanzleien",
    "/blog/local-seo-audit-checkliste",
-   "/blog/local-seo-branchen-hub",
    "/blog/local-seo-checkliste-komplett",
    "/blog/local-seo-fehler",
-   "/blog/local-seo-fitness",
-   "/blog/local-seo-friseursalon-beauty",
-   "/blog/local-seo-fuer-restaurants",
-   "/blog/local-seo-handwerker",
-   "/blog/local-seo-hotels",
    "/blog/local-seo-keywords-finden",
-   "/blog/local-seo-ranking-faktoren-erklaert",
-   "/blog/local-seo-reporting-template",
+   "/blog/local-seo-monthly-checklist",
    "/blog/local-seo-roadmap-90-tage",
-   "/blog/local-seo-steuerberater",
    "/blog/local-seo-strategy-planner",
-   "/blog/local-seo-vs-organisch",
    "/blog/localbusiness-schema-implementierung",
-   "/blog/lokale-events-marketing",
-   "/blog/lokale-seo-fuer-neugruender",
+   "/blog/lokale-landing-pages",
    "/blog/nap-konsistenz-local-seo",
-   "/blog/negative-google-bewertungen",
-   "/blog/review-schema-implementierung",
-   "/blog/seo-toolbox-kostenlose-ressourcen",
    "/blog/technisches-local-seo-guide",
-   "/blog/ultimate-guide-local-seo",
-   "/citation-verzeichnisse",
+   "/creators",
    "/datenschutz",
-   "/handwerker-marketing",
+   "/de",
+   "/de/ki",
    "/impressum",
-   "/restaurant-marketing",
-   "/seo-lexikon"
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
+   "/industries/practices",
+   "/industries/restaurants",
+   "/industries/trades",
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 3178,
+  "images": [],
+  "words": 2211,
   "htmlLang": "de"
  },
  {
@@ -11445,7 +11423,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-stuttgart.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-12",
-  "articleModified": "2026-10-12",
+  "articleModified": "2026-10-13",
   "h1": [
    "Local SEO in Stuttgart: sichtbar in den Stadtbezirken und Gemeinden, die Sie wirklich bedienen"
   ],
@@ -11473,7 +11451,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-12",
-  "ldDateModified": "2026-10-12",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
@@ -11520,7 +11498,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2685,
+  "words": 2706,
   "htmlLang": "de"
  },
  {
@@ -11735,35 +11713,27 @@
  {
   "path": "/blog/local-seo-tracking-kpis",
   "finalPath": "/blog/local-seo-tracking-kpis",
-  "title": "Local SEO KPIs | Tracking & Reporting 2026 | LocalDominate",
-  "description": "Die wichtigsten KPIs für Local SEO und wie Sie sie messen. Google Analytics, Search Console und GBP Insights richtig nutzen.",
+  "title": "Local SEO KPIs: was Sie messen und woher die Zahl kommt",
+  "description": "Welche Local-SEO-KPIs zählen, aus welcher Quelle sie stammen und wie Sie sie lesen: Unternehmensprofil, Search Console mit KI-Bericht, GA4 und Anrufe.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/local-seo-tracking-kpis",
   "hreflang": [],
-  "ogTitle": "Local SEO KPIs | Tracking & Reporting 2026 | LocalDominate",
+  "ogTitle": "Local SEO KPIs: was Sie messen und woher die Zahl kommt",
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-tracking-kpis.jpg",
   "ogType": "article",
   "articlePublished": "2026-03-30",
-  "articleModified": "2026-03-30",
+  "articleModified": "2026-10-13",
   "h1": [
-   "Local SEO Tracking: KPIs und Reporting richtig aufsetzen"
+   "Local SEO Tracking: die richtigen KPIs, ihre Quellen und wie Sie sie lesen"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
-   "Brand",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
@@ -11773,47 +11743,55 @@
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SoftwareApplication",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-03-30",
-  "ldDateModified": "2026-03-30",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
-   "/blog/google-maps-audit-template",
-   "/blog/local-seo-audit-checkliste",
+   "/blog/ai-zitat-monitoring-local-seo-2026",
+   "/blog/google-business-insights-verstehen",
+   "/blog/google-maps-ranking-tracker",
    "/blog/local-seo-reporting-template",
-   "/blog/localbusiness-schema-implementierung",
-   "/blog/lokale-landing-pages",
-   "/blog/mobile-local-seo",
+   "/blog/local-seo-statistiken-daten",
    "/blog/nap-konsistenz-local-seo",
-   "/blog/review-schema-implementierung",
-   "/blog/schema-markup-local-seo",
-   "/blog/technisches-local-seo-guide",
+   "/creators",
    "/datenschutz",
-   "/handwerker-marketing",
+   "/de",
+   "/de/ki",
    "/impressum",
-   "/restaurant-marketing",
-   "/seo-lexikon"
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
+   "/industries/practices",
+   "/industries/restaurants",
+   "/industries/trades",
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 775,
+  "images": [],
+  "words": 2550,
   "htmlLang": "de"
  },
  {
@@ -12127,7 +12105,7 @@
   "ogImage": "https://localdominate.org/images/og/blog/local-seo-umzugsunternehmen.jpg",
   "ogType": "article",
   "articlePublished": "2026-08-08",
-  "articleModified": "2026-10-12",
+  "articleModified": "2026-10-13",
   "h1": [
    "Local SEO für Umzugsunternehmen: Ehrlich in zwei Städten gefunden werden"
   ],
@@ -12155,7 +12133,7 @@
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-08-08",
-  "ldDateModified": "2026-10-12",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
@@ -12201,7 +12179,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2980,
+  "words": 2992,
   "htmlLang": "de"
  },
  {
@@ -13171,34 +13149,27 @@
  {
   "path": "/blog/lokale-landing-pages",
   "finalPath": "/blog/lokale-landing-pages",
-  "title": "Lokale Landing Pages | Standort-Seiten 2026 | LocalDominate",
-  "description": "Wie Sie effektive lokale Landing Pages erstellen. Stadteil-Seiten, Geo-Keywords und Conversion-Optimierung für Multi-Location.",
+  "title": "Lokale Landing Pages: Standortseiten ohne Brückenseiten",
+  "description": "Wann sich eine Seite je Standort oder Ort lohnt, was Google als Brückenseite wertet, was auf eine gute Standortseite gehört und wie Profil und Schema passen.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/lokale-landing-pages",
   "hreflang": [],
-  "ogTitle": "Lokale Landing Pages | Standort-Seiten 2026 | LocalDominate",
+  "ogTitle": "Lokale Landing Pages: Standortseiten ohne Brückenseiten",
   "ogImage": "https://localdominate.org/images/og/blog/lokale-landing-pages.jpg",
   "ogType": "article",
   "articlePublished": "2026-02-10",
-  "articleModified": "2026-02-10",
+  "articleModified": "2026-10-13",
   "h1": [
-   "Lokale Landing Pages erstellen: One-Page pro Standort"
+   "Lokale Landing Pages erstellen: Standortseiten, die Kunden wirklich helfen"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
@@ -13208,45 +13179,58 @@
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-02-10",
-  "ldDateModified": "2026-02-10",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
    "/blog/gbp-mehrere-standorte",
-   "/blog/google-maps-audit-template",
    "/blog/local-content-marketing",
-   "/blog/local-seo-tracking-kpis",
+   "/blog/local-seo-berlin",
+   "/blog/local-seo-handwerker",
+   "/blog/local-seo-reporting-template",
    "/blog/localbusiness-schema-implementierung",
-   "/blog/mobile-local-seo",
+   "/blog/nap-konsistenz-local-seo",
    "/blog/review-schema-implementierung",
-   "/blog/schema-markup-local-seo",
    "/blog/technisches-local-seo-guide",
+   "/creators",
    "/datenschutz",
-   "/handwerker-marketing",
+   "/de",
+   "/de/ki",
    "/impressum",
-   "/restaurant-marketing",
-   "/seo-lexikon"
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
+   "/industries/practices",
+   "/industries/restaurants",
+   "/industries/trades",
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 805,
+  "images": [],
+  "words": 2316,
   "htmlLang": "de"
  },
  {
@@ -13294,34 +13278,27 @@
  {
   "path": "/blog/lokale-seo-fuer-neugruender",
   "finalPath": "/blog/lokale-seo-fuer-neugruender",
-  "title": "Local SEO für Neugründer | Startup Guide 2026",
-  "description": "Der komplette Local SEO Guide für Gründer und neue Unternehmen. Von der ersten Minute an lokal sichtbar werden.",
+  "title": "Local SEO für Neugründer: die ersten Schritte in DACH",
+  "description": "Neu gegründet und lokal noch unsichtbar? Was Sie zuerst einrichten: Firmendaten, Google-Profil mit Eröffnungsdatum, Apple Business, Bing Places und Impressum.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/lokale-seo-fuer-neugruender",
   "hreflang": [],
-  "ogTitle": "Local SEO für Neugründer | Startup Guide 2026",
+  "ogTitle": "Local SEO für Neugründer: die ersten Schritte in DACH",
   "ogImage": "https://localdominate.org/images/og/blog/lokale-seo-fuer-neugruender.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-20",
-  "articleModified": "2026-01-20",
+  "articleModified": "2026-10-13",
   "h1": [
-   "Local SEO für Neugründer: Von Null zur lokalen Sichtbarkeit"
+   "Local SEO für Neugründer: was Sie vor und nach der Eröffnung einrichten"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
@@ -13331,50 +13308,56 @@
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-20",
-  "ldDateModified": "2026-01-20",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
-   "/blog/content-marketing-hub",
-   "/blog/e-e-a-t-lokale-unternehmen",
-   "/blog/google-maps-audit-template",
-   "/blog/kostenloses-seo-guide",
-   "/blog/local-content-marketing",
-   "/blog/local-seo-audit-checkliste",
-   "/blog/local-seo-fehler",
-   "/blog/local-seo-keywords-finden",
-   "/blog/local-seo-roadmap-90-tage",
-   "/blog/local-seo-strategie-kleine-unternehmen",
-   "/blog/lokale-events-marketing",
-   "/blog/lokale-suchmaschinenoptimierung-2026",
-   "/blog/tools-ressourcen-hub",
-   "/blog/ultimate-guide-local-seo",
+   "/blog/apple-business-connect-local-seo-2026",
+   "/blog/gbp-verifizierung-fehlgeschlagen",
+   "/blog/google-bewertungen-bekommen",
+   "/blog/local-citations-2025",
+   "/blog/local-seo-checkliste-komplett",
+   "/blog/nap-konsistenz-local-seo",
+   "/blog/technisches-local-seo-guide",
+   "/creators",
    "/datenschutz",
-   "/handwerker-marketing",
+   "/de",
+   "/de/ki",
    "/impressum",
-   "/restaurant-marketing",
-   "/seo-lexikon"
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
+   "/industries/practices",
+   "/industries/restaurants",
+   "/industries/trades",
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/logo.png"
-  ],
-  "words": 1373,
+  "images": [],
+  "words": 2191,
   "htmlLang": "de"
  },
  {
@@ -14620,34 +14603,27 @@
  {
   "path": "/blog/seo-toolbox-kostenlose-ressourcen",
   "finalPath": "/blog/seo-toolbox-kostenlose-ressourcen",
-  "title": "SEO Toolbox | 50+ Kostenlose Tools & Links 2026",
-  "description": "Deine komplette SEO-Toolbox: Über 50 kostenlose Tools für Local SEO, GEO, Google Business & mehr. Mit direkten Links und Anleitungen.",
+  "title": "Kostenlose SEO-Tools 2026: die geprüfte Toolbox",
+  "description": "Kostenlose SEO-Tools für lokale Betriebe, beim Anbieter geprüft: Profile, Search Console, Keyword-Planer, Crawler, Ladezeit, Bilder und KI-Berichte mit Grenzen.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/seo-toolbox-kostenlose-ressourcen",
   "hreflang": [],
-  "ogTitle": "SEO Toolbox | 50+ Kostenlose Tools & Links 2026",
+  "ogTitle": "Kostenlose SEO-Tools 2026: die geprüfte Toolbox",
   "ogImage": "https://localdominate.org/images/og/blog/seo-toolbox-kostenlose-ressourcen.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-10",
-  "articleModified": "2026-01-10",
+  "articleModified": "2026-10-13",
   "h1": [
-   "Die ultimative SEO-Toolbox: 50+ kostenlose Tools & Ressourcen"
+   "Die SEO-Toolbox 2026: kostenlose Werkzeuge für lokale Betriebe, beim Anbieter geprüft"
   ],
-  "jsonLdBlocks": 8,
+  "jsonLdBlocks": 3,
   "jsonLdInvalid": 0,
   "schemaTypes": [
    "Answer",
    "Article",
-   "Audience",
    "BreadcrumbList",
-   "BusinessAudience",
    "ContactPoint",
-   "Country",
    "CreativeWork",
-   "Dataset",
-   "DefinedTerm",
-   "DefinedTermSet",
-   "DigitalDocument",
    "EntryPoint",
    "FAQPage",
    "ImageObject",
@@ -14657,47 +14633,55 @@
    "PostalAddress",
    "Question",
    "SearchAction",
-   "Service",
-   "ServiceChannel",
-   "SpeakableSpecification",
-   "Thing",
    "WebPage",
-   "WebPageElement",
    "WebSite"
   ],
   "ldAuthors": [
    "LocalDominate Redaktion"
   ],
   "ldDatePublished": "2026-01-10",
-  "ldDateModified": "2026-01-10",
+  "ldDateModified": "2026-10-13",
   "internalLinks": [
    "/",
    "/about",
    "/agb",
-   "/anwalt-marketing",
-   "/arztpraxis-marketing",
+   "/ai",
+   "/ai-visibility-audit",
+   "/approach",
+   "/approach/build",
+   "/approach/create",
+   "/approach/diagnose",
+   "/approach/grow",
+   "/approach/launch",
+   "/approach/position",
+   "/approach/scale",
    "/blog",
-   "/blog/google-maps-audit-template",
-   "/blog/google-maps-ranking-verbessern",
-   "/blog/ki-tools-local-seo",
+   "/blog/gbp-fotos-optimieren",
+   "/blog/google-maps-ranking-tracker",
    "/blog/kostenloses-seo-guide",
-   "/blog/local-seo-audit-checkliste",
+   "/blog/local-citations-2025",
    "/blog/local-seo-keywords-finden",
-   "/blog/local-seo-reporting-template",
-   "/blog/lokale-suchmaschinenoptimierung-2026",
-   "/blog/tools-ressourcen-hub",
-   "/blog/ultimate-guide-local-seo",
+   "/blog/technisches-local-seo-guide",
+   "/creators",
    "/datenschutz",
-   "/handwerker-marketing",
+   "/de",
+   "/de/ki",
    "/impressum",
-   "/restaurant-marketing",
-   "/seo-lexikon"
+   "/industries",
+   "/industries/holiday-rentals",
+   "/industries/hotels",
+   "/industries/online-stores",
+   "/industries/practices",
+   "/industries/restaurants",
+   "/industries/trades",
+   "/insights",
+   "/seo-lexikon",
+   "/services",
+   "/start-a-project",
+   "/work"
   ],
-  "images": [
-   "/assets/seo-toolbox-DRQondsG.jpg",
-   "/logo.png"
-  ],
-  "words": 1400,
+  "images": [],
+  "words": 1887,
   "htmlLang": "de"
  },
  {
@@ -14869,7 +14853,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 784,
+  "words": 817,
   "htmlLang": "de"
  },
  {
@@ -15042,7 +15026,7 @@
    "/favicon.png",
    "/logo.png"
   ],
-  "words": 778,
+  "words": 793,
   "htmlLang": "de"
  },
  {

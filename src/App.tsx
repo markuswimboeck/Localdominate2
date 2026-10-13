@@ -59,14 +59,8 @@ const Campsites = lazy(() => import("./pages/Campsites"));
 const LocalSeoFahrschule = lazy(() => import("./pages/blog/LocalSeoFahrschule"));
 const LocalSeoSprachschule = lazy(() => import("./pages/blog/LocalSeoSprachschule"));
 const LocalSeoHochzeitsdienstleister = lazy(() => import("./pages/blog/LocalSeoHochzeitsdienstleister"));
-const LokaleLandingPages = lazy(() => import("./pages/blog/LokaleLandingPages"));
-const LocalSeoTrackingKpis = lazy(() => import("./pages/blog/LocalSeoTrackingKpis"));
 const WhatsappBusinessLocalSeo2026 = lazy(() => import("./pages/blog/WhatsappBusinessLocalSeo2026"));
 
-const SeoToolbox = lazy(() => import("./pages/blog/SeoToolbox"));
-const EEATLokaleUnternehmen = lazy(() => import("./pages/blog/EEATLokaleUnternehmen"));
-const LocalSeoNeugruender = lazy(() => import("./pages/blog/LocalSeoNeugruender"));
-const GoogleBusinessInsightsVerstehen = lazy(() => import("./pages/blog/GoogleBusinessInsightsVerstehen"));
 
 // Troubleshooting & neue Artikel
 const LocalSeoVsMaps = lazy(() => import("./pages/blog/LocalSeoVsMaps"));
@@ -84,7 +78,6 @@ const Partner = lazy(() => import("./pages/Partner"));
 const Redaktionsrichtlinien = lazy(() => import("./pages/Redaktionsrichtlinien"));
 const Forschungsmethodik = lazy(() => import("./pages/Forschungsmethodik"));
 const UeberUns = lazy(() => import("./pages/UeberUns"));
-const LocalSeoStrategieKleineUnternehmen = lazy(() => import("./pages/blog/LocalSeoStrategieKleineUnternehmen"));
 const HubGoogleMapsSeo = lazy(() => import("./pages/blog/HubGoogleMapsSeo"));
 const CitationVerzeichnisse = lazy(() => import("./pages/CitationVerzeichnisse"));
 const FaqHub = lazy(() => import("./pages/blog/FaqHub"));
@@ -195,8 +188,6 @@ const App = () => (
                 <Route path="/blog/local-seo-fahrschule" element={<LocalSeoFahrschule />} />
                 <Route path="/blog/local-seo-sprachschule" element={<LocalSeoSprachschule />} />
                 <Route path="/blog/local-seo-hochzeitsdienstleister" element={<LocalSeoHochzeitsdienstleister />} />
-                <Route path="/blog/lokale-landing-pages" element={<LokaleLandingPages />} />
-                <Route path="/blog/local-seo-tracking-kpis" element={<LocalSeoTrackingKpis />} />
                 <Route path="/ai-visibility-audit" element={<AIVisibilityAudit />} />
                 <Route path="/anwalt-marketing" element={<AnwaltMarketing />} />
                 <Route path="/diy-toolkit" element={<DIYToolkit />} />
@@ -211,10 +202,6 @@ const App = () => (
                 <Route path="/ueber-uns" element={<UeberUns />} />
                 <Route path="/seo-lexikon" element={<SeoLexikon />} />
                 <Route path="/blog" element={<Blog />} />
-                <Route path="/blog/seo-toolbox-kostenlose-ressourcen" element={<SeoToolbox />} />
-                <Route path="/blog/e-e-a-t-lokale-unternehmen" element={<EEATLokaleUnternehmen />} />
-                <Route path="/blog/lokale-seo-fuer-neugruender" element={<LocalSeoNeugruender />} />
-                <Route path="/blog/google-business-insights-verstehen" element={<GoogleBusinessInsightsVerstehen />} />
                 <Route path="/blog/local-seo-vs-maps-seo" element={<LocalSeoVsMaps />} />
                 <Route path="/blog/google-business-profil-hub" element={<HubGoogleBusinessProfil />} />
                 <Route path="/blog/local-seo-branchen-hub" element={<HubBranchen />} />
@@ -226,7 +213,6 @@ const App = () => (
                 <Route path="/blog/ai-zukunft-hub" element={<HubAiZukunft />} />
                 <Route path="/blog/troubleshooting-hub" element={<HubTroubleshooting />} />
                 <Route path="/blog/case-studies-hub" element={<HubCaseStudies />} />
-                <Route path="/blog/local-seo-strategie-kleine-unternehmen" element={<LocalSeoStrategieKleineUnternehmen />} />
                 <Route path="/blog/google-maps-seo-hub" element={<HubGoogleMapsSeo />} />
                 <Route path="/blog/faq-hub" element={<FaqHub />} />
                 <Route path="/blog/faq-local-seo-grundlagen" element={<FaqSubHub />} />

@@ -1805,10 +1805,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "lokale-landing-pages",
     de: {
-      title: "Lokale Landing Pages erstellen: One-Page pro Standort",
-      metaTitle: "Lokale Landing Pages | Standort-Seiten 2026",
-      metaDescription: "Wie Sie effektive lokale Landing Pages erstellen. Stadteil-Seiten, Geo-Keywords und Conversion-Optimierung für Multi-Location.",
-      excerpt: "Der Guide zur Erstellung von Location-Pages, die ranken und konvertieren.",
+      title: "Lokale Landing Pages erstellen: Standortseiten, die Kunden wirklich helfen",
+      metaTitle: "Lokale Landing Pages: Standortseiten ohne Brückenseiten",
+      metaDescription: "Wann sich eine Seite je Standort oder Ort lohnt, was Google als Brückenseite wertet, was auf eine gute Standortseite gehört und wie Profil und Schema passen.",
+      excerpt: "Wann sich eine Seite je Standort oder Ort lohnt, was Google als Brückenseite wertet, was auf eine gute Standortseite gehört und wie Profil und Schema passen.",
       category: "Technik"
     },
     en: {
@@ -1818,9 +1818,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The guide to creating location pages that rank and convert.",
       category: "Technical"
     },
-    readingTime: 16,
+    readingTime: 10,
     publishedAt: "2026-02-10",
-    updatedAt: "2026-02-10",
+    updatedAt: "2026-10-13",
     icon: "🎯",
     keywords: ["lokale landing pages", "standort seiten", "geo landing pages", "multi location seo"],
     featured: false
@@ -1897,10 +1897,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-tracking-kpis",
     de: {
-      title: "Local SEO Tracking: KPIs und Reporting richtig aufsetzen",
-      metaTitle: "Local SEO KPIs | Tracking & Reporting 2026",
-      metaDescription: "Die wichtigsten KPIs für Local SEO und wie Sie sie messen. Google Analytics, Search Console und GBP Insights richtig nutzen.",
-      excerpt: "Was messen, wie messen, wie berichten: Der KPI-Guide für Local SEO.",
+      title: "Local SEO Tracking: die richtigen KPIs, ihre Quellen und wie Sie sie lesen",
+      metaTitle: "Local SEO KPIs: was Sie messen und woher die Zahl kommt",
+      metaDescription: "Welche Local-SEO-KPIs zählen, aus welcher Quelle sie stammen und wie Sie sie lesen: Unternehmensprofil, Search Console mit KI-Bericht, GA4 und Anrufe.",
+      excerpt: "Welche Local-SEO-KPIs zählen, aus welcher Quelle sie stammen und wie Sie sie lesen: Unternehmensprofil, Search Console mit KI-Bericht, GA4 und Anrufe.",
       category: "Technik"
     },
     en: {
@@ -1910,9 +1910,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "What to measure, how to measure, how to report: The KPI guide for Local SEO.",
       category: "Technical"
     },
-    readingTime: 16,
+    readingTime: 11,
     publishedAt: "2026-03-30",
-    updatedAt: "2026-03-30",
+    updatedAt: "2026-10-13",
     icon: "📈",
     keywords: ["local seo kpis", "seo tracking", "local seo reporting", "google analytics lokal"],
     featured: false
@@ -2575,10 +2575,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "seo-toolbox-kostenlose-ressourcen",
     de: {
-      title: "Die ultimative SEO-Toolbox: 50+ kostenlose Tools & Ressourcen",
-      metaTitle: "SEO Toolbox | 50+ Kostenlose Tools & Links 2026",
-      metaDescription: "Deine komplette SEO-Toolbox: Über 50 kostenlose Tools für Local SEO, GEO, Google Business & mehr. Mit direkten Links und Anleitungen.",
-      excerpt: "Alle Tools, die du für erfolgreiches SEO brauchst - komplett kostenlos und sofort einsetzbar.",
+      title: "Die SEO-Toolbox 2026: kostenlose Werkzeuge für lokale Betriebe, beim Anbieter geprüft",
+      metaTitle: "Kostenlose SEO-Tools 2026: die geprüfte Toolbox",
+      metaDescription: "Kostenlose SEO-Tools für lokale Betriebe, beim Anbieter geprüft: Profile, Search Console, Keyword-Planer, Crawler, Ladezeit, Bilder und KI-Berichte mit Grenzen.",
+      excerpt: "Kostenlose SEO-Tools für lokale Betriebe, beim Anbieter geprüft: Profile, Search Console, Keyword-Planer, Crawler, Ladezeit, Bilder und KI-Berichte mit Grenzen.",
       category: "Tools"
     },
     en: {
@@ -2588,9 +2588,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "All the tools you need for successful SEO - completely free and ready to use.",
       category: "Tools"
     },
-    readingTime: 22,
+    readingTime: 9,
     publishedAt: "2026-01-10",
-    updatedAt: "2026-01-10",
+    updatedAt: "2026-10-13",
     icon: "🧰",
     keywords: ["seo tools", "kostenlose seo tools", "seo toolbox", "local seo tools", "geo tools", "google business tools"],
     featured: true
@@ -2648,10 +2648,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "e-e-a-t-lokale-unternehmen",
     de: {
-      title: "E-E-A-T für lokale Unternehmen: Expertise beweisen & Vertrauen aufbauen",
-      metaTitle: "E-E-A-T für lokale Unternehmen | Trust-Guide 2026",
-      metaDescription: "Wie lokale Unternehmen E-E-A-T (Experience, Expertise, Authority, Trust) für bessere Google Rankings nutzen.",
-      excerpt: "So baust du als lokales Unternehmen Glaubwürdigkeit und Autorität für bessere Rankings auf.",
+      title: "E-E-A-T für lokale Unternehmen: Erfahrung, Fachwissen und Vertrauen sichtbar machen",
+      metaTitle: "E-E-A-T für lokale Unternehmen: was Google wirklich meint",
+      metaDescription: "E-E-A-T ist kein Rankingfaktor, sondern ein Maßstab aus Googles Richtlinien für Prüfer. Wie lokale Betriebe Erfahrung, Fachwissen und Vertrauen belegen.",
+      excerpt: "E-E-A-T ist kein Rankingfaktor, sondern ein Maßstab aus Googles Richtlinien für Prüfer. Wie lokale Betriebe Erfahrung, Fachwissen und Vertrauen belegen.",
       category: "Strategie"
     },
     en: {
@@ -2661,9 +2661,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How to build credibility and authority as a local business for better rankings.",
       category: "Strategy"
     },
-    readingTime: 15,
+    readingTime: 9,
     publishedAt: "2026-01-18",
-    updatedAt: "2026-01-18",
+    updatedAt: "2026-10-13",
     icon: "🏆",
     keywords: ["e-e-a-t", "expertise", "authority", "trust", "lokale autorität", "vertrauen aufbauen"],
     featured: false
@@ -2671,10 +2671,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "lokale-seo-fuer-neugruender",
     de: {
-      title: "Local SEO für Neugründer: Von Null zur lokalen Sichtbarkeit",
-      metaTitle: "Local SEO für Neugründer | Startup Guide 2026",
-      metaDescription: "Der komplette Local SEO Guide für Gründer und neue Unternehmen. Von der ersten Minute an lokal sichtbar werden.",
-      excerpt: "So startest du als Neugründer mit Local SEO durch - Schritt für Schritt von Null an.",
+      title: "Local SEO für Neugründer: was Sie vor und nach der Eröffnung einrichten",
+      metaTitle: "Local SEO für Neugründer: die ersten Schritte in DACH",
+      metaDescription: "Neu gegründet und lokal noch unsichtbar? Was Sie zuerst einrichten: Firmendaten, Google-Profil mit Eröffnungsdatum, Apple Business, Bing Places und Impressum.",
+      excerpt: "Neu gegründet und lokal noch unsichtbar? Was Sie zuerst einrichten: Firmendaten, Google-Profil mit Eröffnungsdatum, Apple Business, Bing Places und Impressum.",
       category: "Strategie"
     },
     en: {
@@ -2684,9 +2684,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "How to succeed with Local SEO as a startup - step by step from zero.",
       category: "Strategy"
     },
-    readingTime: 18,
+    readingTime: 9,
     publishedAt: "2026-01-20",
-    updatedAt: "2026-01-20",
+    updatedAt: "2026-10-13",
     icon: "🚀",
     keywords: ["neugründer seo", "startup local seo", "existenzgründung", "neue firma", "lokales marketing startup"],
     featured: false
@@ -2924,10 +2924,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-business-insights-verstehen",
     de: {
-      title: "Google Business Insights richtig verstehen & nutzen",
-      metaTitle: "Google Business Insights | Analytics Guide 2026",
-      metaDescription: "So interpretierst du Google Business Insights richtig. Alle Metriken erklärt, Benchmarks und Optimierungstipps.",
-      excerpt: "Der komplette Guide zum Verstehen und Nutzen von Google Business Insights.",
+      title: "Google Business Insights verstehen: die Leistungsdaten im Unternehmensprofil richtig lesen",
+      metaTitle: "Google Business Insights: Leistungsdaten richtig lesen",
+      metaDescription: "Was die Leistungsdaten im Google-Unternehmensprofil zählen: Aufrufe, Suchanfragen, Anrufe, Wegbeschreibungen, Websiteklicks. Mit Googles Einschränkungen.",
+      excerpt: "Was die Leistungsdaten im Google-Unternehmensprofil zählen: Aufrufe, Suchanfragen, Anrufe, Wegbeschreibungen, Websiteklicks. Mit Googles Einschränkungen.",
       category: "Google Business"
     },
     en: {
@@ -2937,9 +2937,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "The complete guide to understanding and using Google Business Insights.",
       category: "Google Business"
     },
-    readingTime: 15,
+    readingTime: 10,
     publishedAt: "2026-02-20",
-    updatedAt: "2026-02-20",
+    updatedAt: "2026-10-13",
     icon: "📊",
     keywords: ["google business insights", "gbp analytics", "statistiken verstehen", "performance messen", "google metriken"],
     featured: false
@@ -3529,10 +3529,10 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-strategie-kleine-unternehmen",
     de: {
-      title: "Local SEO Strategie für kleine Unternehmen: Der komplette Aktionsplan 2026",
-      metaTitle: "Local SEO Strategie KMU | Aktionsplan 2026",
-      metaDescription: "Die komplette Local-SEO-Strategie für KMU im DACH-Raum: 90-Tage-Plan, Checklisten, Tools & Branchenbeispiele. Kostenlos umsetzbar — ohne Agentur.",
-      excerpt: "Schritt-für-Schritt Local-SEO-Strategie für kleine Unternehmen: Google Business Profil, Bewertungen, Citations, Content & Linkbuilding — mit 90-Tage-Aktionsplan für den DACH-Markt.",
+      title: "Local-SEO-Strategie für kleine Unternehmen: Prioritäten für einen Standort mit wenig Zeit",
+      metaTitle: "Local-SEO-Strategie für kleine Unternehmen mit wenig Zeit",
+      metaDescription: "Local SEO für kleine Betriebe mit einem Standort und wenig Zeit: was zuerst kommt, was laufend reicht, was Sie weglassen können und wie Sie Fortschritt messen.",
+      excerpt: "Local SEO für kleine Betriebe mit einem Standort und wenig Zeit: was zuerst kommt, was laufend reicht, was Sie weglassen können und wie Sie Fortschritt messen.",
       category: "Strategie"
     },
     en: {
@@ -3542,9 +3542,9 @@ export const blogArticles: BlogArticle[] = [
       excerpt: "Step-by-step Local SEO strategy for small businesses: Google Business Profile, reviews, citations, content & link building — with a 90-day action plan for the DACH market.",
       category: "Strategy"
     },
-    readingTime: 22,
+    readingTime: 10,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-13",
     icon: "🏪",
     keywords: ["local seo strategie", "local seo kleine unternehmen", "local seo kmu", "lokale seo strategie", "local seo aktionsplan", "local seo dach", "local seo kostenlos", "seo für kleine unternehmen"],
     featured: true
