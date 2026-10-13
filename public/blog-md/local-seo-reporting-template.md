@@ -86,7 +86,7 @@ Zwei Hinweise aus Googles Hilfe sind für Berichte wichtig. Die Leistungsdaten g
 | Zahl | Wo Sie sie finden | Was Sie wissen sollten |
 | --- | --- | --- |
 | Klicks, Impressionen, Klickrate, durchschnittliche Position | Search Console, Leistung, Suchergebnisse | Standardansicht sind die letzten drei Monate. Die neuesten Daten können vorläufig sein |
-| Klicks ohne Markensuchen | Search Console, Filter für Markensuchanfragen | Nicht für Unterverzeichnis-Properties und Websites mit wenigen Impressionen. Google ordnet die Suchanfragen automatisch zu, einzelne können laut Google falsch eingeordnet sein |
+| Klicks ohne Markensuchen | Search Console, Filter für Markensuchanfragen | Nicht verfügbar für Websites mit wenigen Impressionen. Google ordnet die Suchanfragen automatisch zu, einzelne können laut Google falsch eingeordnet sein |
 | Impressionen in Übersichten mit KI und KI-Modus | Search Console, Leistungsbericht zu generativen KI-Funktionen | Laut Google seit 31. August 2026 für alle Websites. Erscheint bei zu wenigen Impressionen meist nicht |
 | Besuche über den Profil-Link | Web-Analyse, Kampagnen | Nur wenn der Website-Link im Profil UTM-Parameter trägt |
 | Schlüsselereignisse | Google Analytics 4 | Zum Beispiel Formular gesendet oder Telefonnummer angetippt. Bis zu 30 in Standard-Properties |
@@ -104,13 +104,13 @@ Die wichtigsten Zahlen stehen in keinem Google-Werkzeug: angenommene Anrufe, Anf
 
 Laut Googles Richtlinien muss die Telefonnummer im Profil unter der direkten Kontrolle des Betriebs stehen und zu Ihrem Standort führen. Weiterleitungsnummern, über die Anrufer nicht direkt mit Ihrem Betrieb verbunden werden, sind nicht erlaubt. Neben der primären Nummer können Sie bis zu zwei weitere angeben.
 
-> **Einschätzung zu Tracking-Nummern:** Google regelt Tracking-Nummern in den Richtlinien nicht ausdrücklich. Wir raten, im Profil Ihre echte Nummer zu lassen, weil die Anrufe aus dem Profil ohnehin in den Leistungsdaten gezählt werden. Wer Anrufe von der Website getrennt messen will, setzt eine eigene Nummer besser nur auf der Website ein und klärt den Datenschutz mit dem Anbieter.
+> **Einschätzung zu Tracking-Nummern:** Eine ausdrückliche Regel zu Tracking-Nummern haben wir in den Richtlinien nicht gefunden. Wir raten, im Profil Ihre echte Nummer zu lassen, weil die Anrufe aus dem Profil ohnehin in den Leistungsdaten gezählt werden. Wer Anrufe von der Website getrennt messen will, setzt eine eigene Nummer besser nur auf der Website ein und klärt den Datenschutz mit dem Anbieter.
 
 ## Die Zahlen richtig lesen: Saison und Vorjahr
 
 Vergleichen Sie jeden Monat mit demselben Monat im Vorjahr, weil lokale Nachfrage oft saisonal schwankt. Der Vergleich mit dem Vormonat zeigt vor allem die Saison, nicht Ihre Arbeit.
 
-Ein Gartenbaubetrieb hat im März mehr Anfragen als im Januar, eine Heizungsfirma im Oktober mehr als im Juni. Das sagt nichts über die Wirkung von Maßnahmen. Google empfiehlt selbst, bei einem Rückgang einen längeren Zeitraum anzusehen, um wiederkehrende Muster im Jahr auszuschließen, und mit Google Trends zu prüfen, ob sich das Interesse in Ihrer Branche insgesamt verändert hat.
+Bei einem Gartenbaubetrieb sind im März oft mehr Anfragen zu erwarten als im Januar, bei einer Heizungsfirma im Oktober mehr als im Juni (Annahme, keine Messung). Solche Unterschiede sagen nichts über die Wirkung von Maßnahmen. Google empfiehlt selbst, bei einem Rückgang einen längeren Zeitraum anzusehen, um wiederkehrende Muster im Jahr auszuschließen, und mit Google Trends zu prüfen, ob sich das Interesse in Ihrer Branche insgesamt verändert hat.
 
 *Lesehilfen für den Bericht*
 
@@ -130,7 +130,7 @@ Die Search Console hält laut Google nur die letzten 16 Monate vor. Für den Unt
 
 Bei kleinen Betrieben ist ein Unterschied von wenigen Anrufen oder Anfragen meist Zufall. Zeigen Sie absolute Zahlen statt Prozenten und urteilen Sie erst über drei Monate oder den Vorjahresvergleich.
 
-Von 8 auf 12 Formularanfragen sind rechnerisch 50 % mehr. Das klingt nach Erfolg, sind aber vier Anfragen. Schon eine Woche Urlaub, ein Feiertag oder ein einzelner Großkunde erklärt solche Unterschiede.
+Angenommen, ein Betrieb zählt statt 8 nun 12 Formularanfragen (erfundenes Rechenbeispiel): Das sind rechnerisch 50 % mehr. Das klingt nach Erfolg, sind aber vier Anfragen. Schon eine Woche Urlaub, ein Feiertag oder ein einzelner Großkunde erklärt solche Unterschiede.
 
 - **Absolut statt relativ:** „12 statt 8 Anfragen“ ist ehrlicher als „+50 %“.
 - **Drei Monate zusammen:** Summieren Sie zusätzlich die letzten drei Monate und vergleichen Sie mit denselben drei Monaten im Vorjahr.
@@ -148,7 +148,7 @@ Unter den Zahlen stehen drei kurze Absätze: was im Monat geändert wurde (mit D
 3. **Was wir noch nicht wissen.** Offen benennen, was der Bericht nicht beantworten kann, etwa ob eine Änderung schon wirkt.
 4. **Nächste Schritte.** Höchstens drei, jeder mit Verantwortlichem und Termin. Dazu, woran Sie in den nächsten Berichten sehen, ob der Schritt etwas gebracht hat.
 
-*Formulierungen im Vergleich*
+*Formulierungen im Vergleich (Zahlen erfunden)*
 
 | Unbrauchbar | Brauchbar |
 | --- | --- |
@@ -225,7 +225,7 @@ Ja, als eine Zeile, wenn er für Ihre Website angezeigt wird. Er zeigt laut Goog
 
 ### Wie oft sollte eine Agentur berichten?
 
-Monatlich reicht für die meisten lokalen Betriebe. Die Suchbegriffe im Unternehmensprofil werden laut Google ohnehin nur zu Monatsbeginn aktualisiert. Wöchentliche Berichte zeigen vor allem Zufallsschwankungen.
+Monatlich reicht für die meisten lokalen Betriebe. Die Suchbegriffe im Unternehmensprofil werden laut Google ohnehin nur zu Monatsbeginn aktualisiert. Wöchentliche Berichte zeigen aus unserer Sicht vor allem Zufallsschwankungen.
 
 ## Quellen
 

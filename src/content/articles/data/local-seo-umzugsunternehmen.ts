@@ -20,7 +20,7 @@ const article: V4Article = {
     "Bitten Sie jeden Kunden nach dem Umzug um eine Bewertung, ohne Rabatt, ohne Vorauswahl und ohne Druck am Umzugstag.",
   ],
   publishedAt: "2026-08-08",
-  updatedAt: "2026-10-12",
+  updatedAt: "2026-10-13",
   readingTime: 12,
   sections: [
     {
@@ -140,7 +140,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google nennt in den Spamrichtlinien als Missbrauch von Brückenseiten unter anderem Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer zur selben Seite führen, sowie im Wesentlichen ähnliche Seiten. Fünfzig Seiten „Umzug [Ort]“ mit gleichem Text sind deshalb ein Risiko. Eine Streckenseite lohnt sich, wenn sie etwas sagt, das nur für diese Strecke gilt.",
+          text: "Google nennt in den Spamrichtlinien als Missbrauch von Brückenseiten unter anderem Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer zur selben Seite führen, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie. Unsere Einschätzung: Fünfzig Seiten „Umzug [Ort]“ mit gleichem Text sind deshalb ein Risiko. Eine Streckenseite lohnt sich, wenn sie etwas sagt, das nur für diese Strecke gilt.",
         },
         {
           t: "table",

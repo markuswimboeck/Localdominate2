@@ -28,9 +28,9 @@ Im Google-Unternehmensprofil gibt es drei Bereiche für Ihr Angebot: Dienstleist
 - Dienstleistungen, Produkte und Speisekarte sind drei getrennte Bereiche. Welcher erscheint, hängt laut Google von Ihrem Unternehmenstyp ab.
 - Bei Dienstleistungen schlägt Google passende Einträge vor. Fehlt eine Leistung, legen Sie eine benutzerdefinierte an, ohne Preise oder Telefonnummern im Namen.
 - Der Produkteditor ist für Ladengeschäfte mit physischen Waren gedacht. Produkte müssen den Richtlinien für Shopping-Anzeigen entsprechen, sonst können alle hochgeladenen Produkte entfernt werden.
-- Regulierte Produkte wie Alkohol, Tabak, Arzneimittel oder Medizinprodukte lässt Google im Profil nicht als Produkte zu.
+- Regulierte Produkte wie Alkohol, Tabak, Arzneimittel oder Medizinprodukte nennt Google in den Richtlinien für Unternehmensprofile als nicht erlaubt. In den Shopping-Richtlinien gelten Tabakprodukte und Waffen zudem als unzulässige Produkte.
 - Preise im Profil sollten genau denen auf Website und Aushang entsprechen. Abweichungen verunsichern Kunden.
-- Google sagt nicht, dass Produkte oder Dienstleistungen direkt das Ranking verbessern. Google empfiehlt aber, das Profil so vollständig wie möglich auszufüllen.
+- Eine Aussage von Google, dass Produkte oder Dienstleistungen direkt das Ranking verbessern, haben wir nicht gefunden. Google empfiehlt aber, das Profil so vollständig wie möglich auszufüllen.
 
 ## Dienstleistungen, Produkte, Speisekarte: was wohin gehört
 
@@ -50,7 +50,7 @@ Der Bereich ergänzt die übrigen Profilangaben, er ersetzt sie nicht. Die Grund
 
 ## Welche Bereiche Ihre Kategorie freischaltet
 
-Laut Google können Unternehmen in bestimmten Kategorien, etwa Dienstleistungsunternehmen, ihre Dienstleistungen im Profil zeigen. Eine vollständige Liste der Kategorien veröffentlicht Google nicht. Sie sehen im Profil selbst, welche Bereiche angeboten werden.
+Laut Google können Unternehmen in bestimmten Kategorien, etwa Dienstleistungsunternehmen, ihre Dienstleistungen im Profil zeigen. Eine vollständige Liste der Kategorien haben wir in Googles Hilfe nicht gefunden. Sie sehen im Profil selbst, welche Bereiche angeboten werden.
 
 Google schlägt Dienstleistungen passend zum Unternehmenstyp vor. Ein Sanitärbetrieb bekommt laut Hilfeseite zum Beispiel Vorschläge wie „Installation von Armaturen“ und „Toilettenreparatur“. Den Menüeditor beschreibt Google als Funktion für Lebensmittel- und Gastronomiebetriebe, den Produkteditor als Werkzeug für Ladengeschäfte mit physischen Waren.
 
@@ -75,13 +75,13 @@ Unter „Dienstleistungen bearbeiten“ wählen Sie zuerst aus den Vorschlägen,
 
 - **Ein Name, eine Leistung.** „Badsanierung“ statt „Badsanierung, Badumbau, Bad renovieren, Bad modernisieren“.
 - **Die Worte Ihrer Kunden.** Welche Begriffe gesucht werden, zeigen die Suchanfragen in den Leistungsdaten Ihres Profils.
-- **Beschreibung in zwei oder drei Sätzen.** Was gehört dazu, für wen ist die Leistung, wie läuft sie ab. Eine Zeichengrenze nennt die Hilfeseite nicht, kurz ist auf dem Handy besser lesbar.
+- **Beschreibung in zwei oder drei Sätzen.** Was gehört dazu, für wen ist die Leistung, wie läuft sie ab. Eine Zeichengrenze haben wir auf der Hilfeseite nicht gefunden; kurz ist auf dem Handy besser lesbar.
 
 ## Produkte anlegen mit dem Produkteditor
 
 Der Produkteditor ist laut Google für Ladengeschäfte mit physischen Waren gedacht, besonders wenn Sie keinen Onlineshop haben, Ihre Produkte keine Barcodes tragen oder Sie keine aktuellen Bestandsdaten haben. Sie füllen ein Formular aus und klicken auf „Veröffentlichen“. Die Produkte erscheinen im Profil in der Google-Suche.
 
-Welche Felder das Formular im Einzelnen abfragt, beschreibt Googles Hilfe nicht. Fachbeiträge nennen derzeit Produktkategorie, Foto, Name, Preis, Beschreibung und eine optionale Schaltfläche mit Link. Prüfen Sie die Felder in Ihrem eigenen Profil, sie können sich ändern.
+Welche Felder das Formular im Einzelnen abfragt, haben wir in Googles Hilfe nicht gefunden. Fachbeiträge nennen derzeit Produktkategorie, Foto, Name, Preis, Beschreibung und eine optionale Schaltfläche mit Link. Prüfen Sie die Felder in Ihrem eigenen Profil, sie können sich ändern.
 
 *So füllen Sie die üblichen Felder aus*
 
@@ -94,7 +94,7 @@ Welche Felder das Formular im Einzelnen abfragt, beschreibt Googles Hilfe nicht.
 | Beschreibung | Zwei oder drei Sätze zu Größe, Material, Herkunft oder Besonderheit |
 | Schaltfläche | Nur mit Link auf die passende Seite, nicht auf die Startseite |
 
-Produkte durchlaufen eine Prüfung. Zeigt ein Produkt „Nicht genehmigt“, öffnen Sie es und lesen den Grund. Nach dem Bearbeiten und Speichern prüft Google den Eintrag laut Hilfe automatisch innerhalb von 24 Stunden erneut. Über die Option zur erneuten Überprüfung („Request Review“ in der englischen Hilfe) können Sie eine Prüfung auch selbst anstoßen.
+Produkte durchlaufen eine Prüfung. Zeigt ein Produkt „Nicht genehmigt“, öffnen Sie es und lesen den Grund. Nach dem Bearbeiten und Speichern prüft Google den Eintrag laut Hilfe automatisch innerhalb von 24 Stunden erneut. Über die Option „Überprüfung beantragen“ können Sie eine Prüfung auch selbst anstoßen.
 
 ## Für Händler: Merchant Center und lokales Inventar
 
@@ -107,14 +107,14 @@ Für Geschäfte in Deutschland, Österreich und der Schweiz bleiben damit zwei W
 | Weg | Für wen | Hinweis |
 | --- | --- | --- |
 | Produkteditor | Einzelne Produkte, kleines Sortiment | Einträge einzeln von Hand |
-| Merchant Center | Händler, die Produkte über mehrere Geschäfte verwalten | Zugriff auf das verknüpfte Konto nötig |
+| Merchant Center | Händler mit verknüpftem Merchant Center-Konto | Zugriff auf das verknüpfte Konto nötig |
 | App „Lokales Inventar“ | Geschäfte mit Kassensystem und Herstellerbarcodes | Laut Google nur USA, Kanada, Großbritannien, Irland, Australien |
 
 Für Einzelhändler schreibt Google in den Tipps zum lokalen Ranking, dass im Geschäft erhältliche Produkte möglicherweise in den lokalen Suchergebnissen angezeigt werden, sofern die Funktion im Land verfügbar ist. Für Produkte über das Merchant Center gilt zudem: Google verlangt, dass Sie den Betrag und die Währung einreichen, die auf der Landingpage und auf der Zahlungsseite stehen.
 
 ## Was Sie eintragen dürfen und was nicht
 
-Produkte müssen den Richtlinien für Shopping-Anzeigen entsprechen, und regulierte Produkte wie Alkohol, Tabak, Glücksspiel, Finanzdienstleistungen, Arzneimittel, nicht zugelassene Nahrungsergänzungsmittel sowie Gesundheits- und Medizinprodukte lässt Google im Produktbereich nicht zu. Alle Angaben müssen Ihren Betrieb korrekt darstellen.
+Produkte müssen den Richtlinien für Shopping-Anzeigen entsprechen, und regulierte Produkte wie Alkohol, Tabak, Glücksspiel, Finanzdienstleistungen, Arzneimittel, nicht zugelassene Nahrungsergänzungsmittel sowie Gesundheits- und Medizinprodukte nennt Google in den Richtlinien für Unternehmensprofile als nicht erlaubt. Tabakprodukte und Waffen führen die Shopping-Richtlinien zudem als unzulässige Produkte. Alle Angaben müssen Ihren Betrieb korrekt darstellen.
 
 *Regeln für Produkte und Dienstleistungen im Überblick*
 
@@ -126,7 +126,7 @@ Produkte müssen den Richtlinien für Shopping-Anzeigen entsprechen, und regulie
 | Saubere Namen von Dienstleistungen | Keine Preise, Telefonnummern, personenbezogenen Daten oder sinnlosen Inhalte im Namen |
 | Name des Betriebs bleibt der echte Name | Produkt- und Leistungsangaben im Firmennamen sind laut Google nicht zulässig |
 
-Produkte, die die Anforderungen nicht erfüllen, können laut Google Warnungen, Ablehnungen, eingeschränkte Sichtbarkeit oder eine Sperrung bekommen. Wird das ganze Profil gesperrt, gelten alle Produkte als nicht genehmigt. Was bei einer Sperrung zu tun ist, steht in [Profil gesperrt](https://localdominate.org/blog/gbp-suspendiert-reaktivieren).
+Produkte, die die Anforderungen nicht erfüllen, können laut Google Warnungen, Ablehnungen, eingeschränkte Sichtbarkeit oder eine Sperrung bekommen. Wird das ganze Profil gesperrt, gelten alle Produkte als nicht genehmigt; nach der Reaktivierung sind sie laut Hilfe innerhalb von 5 Tagen wieder verfügbar. Was bei einer Sperrung zu tun ist, steht in [Profil gesperrt](https://localdominate.org/blog/gbp-suspendiert-reaktivieren).
 
 > **Einschätzung:** Die Speisekarte eines Cafés darf Wein oder Bier enthalten, denn sie soll laut Google das vollständige Angebot zeigen. Die Regel zu regulierten Produkten betrifft nach unserem Verständnis den Produktbereich. Legen Sie Getränke mit Alkohol deshalb in der Speisekarte an und nicht als Produkt.
 
@@ -183,7 +183,7 @@ Die häufigsten Fehler sind Keyword-Listen statt echter Leistungen, Preise, die 
 | Preis oder Telefonnummer im Namen der Leistung | Benutzerdefinierte Dienstleistungen mit solchen Angaben lehnt Google ab | Preis im Preisfeld, Nummer in den Kontaktangaben |
 | Einmal eingetragen, nie geprüft | Ausgelaufene Produkte und alte Preise bleiben sichtbar | Feste Prüfung, etwa bei jeder Preisänderung und einmal im Quartal |
 
-Google nennt als Faktoren für das lokale Ranking Relevanz, Entfernung und Bekanntheit und schreibt, dass ein besseres Ranking nicht eingefordert werden kann, auch nicht gegen Bezahlung. Google empfiehlt, die Unternehmensinformationen so vollständig wie möglich anzugeben. Dass Produkte oder Dienstleistungen für sich die Position verbessern, sagt Google nicht. Mehr dazu in [Google-Maps-Ranking-Faktoren](https://localdominate.org/blog/google-maps-seo-ranking-faktoren).
+Google nennt als Faktoren für das lokale Ranking Relevanz, Entfernung und Bekanntheit und schreibt, dass ein besseres Ranking nicht eingefordert werden kann, auch nicht gegen Bezahlung. Google empfiehlt, die Unternehmensinformationen so vollständig wie möglich anzugeben. Dass Produkte oder Dienstleistungen für sich die Position verbessern, haben wir bei Google nicht gefunden. Mehr dazu in [Google-Maps-Ranking-Faktoren](https://localdominate.org/blog/google-maps-seo-ranking-faktoren).
 
 > **Unsere Einschätzung:** Vollständige, genaue Leistungen helfen vor allem Menschen bei der Entscheidung, ob sie anrufen. Ob sie zusätzlich die Relevanz für bestimmte Suchen stärken, lässt sich von außen nicht belegen. Vergleichen Sie deshalb Klicks auf die Anruftaste, Routenanfragen und Website-Klicks in den Leistungsdaten vor und nach der Überarbeitung, statt eine bestimmte Position zu erwarten.
 
@@ -199,7 +199,7 @@ Ja. Über „Benutzerdefinierte Dienstleistung hinzufügen“ legen Sie Leistung
 
 ### Verbessern Produkte und Dienstleistungen mein Ranking bei Google?
 
-Das sagt Google nicht. Google nennt Relevanz, Entfernung und Bekanntheit als Faktoren und empfiehlt, das Profil so vollständig wie möglich auszufüllen. Eine bestimmte Position kann niemand zusagen. Gepflegte Leistungen helfen aber Kunden, schneller zu entscheiden.
+Eine solche Aussage haben wir bei Google nicht gefunden. Google nennt Relevanz, Entfernung und Bekanntheit als Faktoren und empfiehlt, das Profil so vollständig wie möglich auszufüllen. Eine bestimmte Position kann niemand zusagen. Gepflegte Leistungen helfen aber Kunden, schneller zu entscheiden.
 
 ### Kann ich meine Ladenprodukte automatisch aus der Kasse übertragen?
 

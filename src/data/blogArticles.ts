@@ -1391,7 +1391,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-08-08",
-    updatedAt: "2026-10-12",
+    updatedAt: "2026-10-13",
     icon: "\u{1F69A}",
     keywords: [
       "local seo umzugsunternehmen",
@@ -1538,7 +1538,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-01-27",
-    updatedAt: "2026-10-12",
+    updatedAt: "2026-10-13",
     icon: "🎭",
     keywords: ["local seo köln", "seo köln", "marketing köln", "kölner unternehmen"],
     featured: false
@@ -1584,7 +1584,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-02-12",
-    updatedAt: "2026-10-12",
+    updatedAt: "2026-10-13",
     icon: "🚙",
     keywords: ["local seo stuttgart", "seo stuttgart", "marketing stuttgart", "schwaben seo"],
     featured: false
@@ -1607,7 +1607,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-02-18",
-    updatedAt: "2026-10-12",
+    updatedAt: "2026-10-13",
     icon: "👔",
     keywords: ["local seo düsseldorf", "seo düsseldorf", "marketing düsseldorf", "nrw seo"],
     featured: false
@@ -1630,7 +1630,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-02-24",
-    updatedAt: "2026-10-12",
+    updatedAt: "2026-10-13",
     icon: "🌉",
     keywords: ["local seo basel", "seo basel", "marketing basel", "dreiländereck seo"],
     featured: false
@@ -2755,7 +2755,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-02-03",
-    updatedAt: "2026-10-12",
+    updatedAt: "2026-10-13",
     icon: "🚨",
     keywords: ["notdienst seo", "emergency keywords", "sofort hilfe", "24 stunden service", "dringende suche"],
     featured: false
@@ -3319,7 +3319,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-02-16",
-    updatedAt: "2026-10-12",
+    updatedAt: "2026-10-13",
     icon: "🏛️",
     keywords: ["local seo hannover", "seo hannover", "marketing hannover", "google ranking hannover", "messe hannover seo"],
     featured: true
@@ -3735,7 +3735,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-10-12",
+    updatedAt: "2026-10-13",
     icon: "📊",
     keywords: ["local seo statistiken", "local seo daten", "local seo benchmarks", "ranking faktoren 2026", "bewertungsstatistiken", "lokale suche zahlen", "google business profil statistiken", "branchenspezifische seo daten"],
     featured: true,

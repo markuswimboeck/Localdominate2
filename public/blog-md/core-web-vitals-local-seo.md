@@ -51,7 +51,7 @@ Dazwischen gilt ein Wert als verbesserungswürdig. Bewertet wird nicht der Durch
 
 Google empfiehlt Website-Inhabern, gute Core Web Vitals anzustreben. Zugleich schreibt Google, dass es kein einzelnes Signal für die Nutzerfreundlichkeit gibt, gute Werte keine Top-Position garantieren und die relevantesten Inhalte auch bei schwächerer Nutzerfreundlichkeit gezeigt werden.
 
-Google schreibt, dass seine Ranking-Systeme die Core Web Vitals verwenden, und empfiehlt Website-Inhabern, gute Werte anzustreben. Die Seite zur Nutzerfreundlichkeit ergänzt die Grenzen: Gute Werte in der Search Console oder in anderen Tools garantieren nicht, dass Ihre Seiten ganz oben stehen. Google ist bestrebt, immer die relevantesten Inhalte zu zeigen, auch wenn die Nutzerfreundlichkeit nicht optimal ist. Eine gute Nutzerfreundlichkeit hilft vor allem dort, wo viele Seiten ähnlich hilfreiche Inhalte bieten.
+Google schreibt, dass gute Core Web Vitals zu dem passen, was seine Kernranking-Systeme belohnen wollen, und empfiehlt Website-Inhabern, gute Werte anzustreben. Die Seite zur Nutzerfreundlichkeit ergänzt die Grenzen: Gute Werte in der Search Console oder in anderen Tools garantieren nicht, dass Ihre Seiten ganz oben stehen. Google ist bestrebt, immer die relevantesten Inhalte zu zeigen, auch wenn die Nutzerfreundlichkeit nicht optimal ist. Eine gute Nutzerfreundlichkeit hilft vor allem dort, wo viele Seiten ähnlich hilfreiche Inhalte bieten.
 
 Für das lokale Ranking im Kartenblock und in Google Maps nennt Google drei andere Faktoren: Relevanz, Entfernung und Beliebtheit. Eine bessere Position lässt sich dort weder einfordern noch kaufen. Wie diese Faktoren zusammenspielen, erklärt [Wie das Google-Maps-Ranking funktioniert](https://localdominate.org/blog/wie-google-maps-ranking-funktioniert).
 
@@ -161,7 +161,7 @@ Die Core Web Vitals sind ein Baustein unter vielen. Wo sie im gesamten technisch
 
 ### Sind die Core Web Vitals ein Rankingfaktor?
 
-Google schreibt, dass seine Ranking-Systeme die Core Web Vitals verwenden. Es gibt aber kein einzelnes Signal für die Nutzerfreundlichkeit, und gute Werte garantieren keine Top-Position. Relevante Inhalte gehen vor.
+Google schreibt, dass gute Core Web Vitals zu dem passen, was seine Kernranking-Systeme belohnen wollen. Es gibt aber kein einzelnes Signal für die Nutzerfreundlichkeit, und gute Werte garantieren keine Top-Position. Relevante Inhalte gehen vor.
 
 ### Warum zeigt PageSpeed Insights für meine Website keine Felddaten?
 
@@ -177,8 +177,8 @@ Die Felddaten umfassen die letzten 28 Tage. Nach einer Korrektur mischen sich da
 
 ## Quellen
 
-- [Core Web Vitals und Google-Suchergebnisse (Stand 18. Dezember 2025)](https://developers.google.com/search/docs/appearance/core-web-vitals?hl=de), Google Search Central
-- [Understanding page experience in Google Search results (Stand 22. September 2026)](https://developers.google.com/search/docs/appearance/page-experience), Google Search Central
+- [Core Web Vitals und Google-Suchergebnisse (Stand 10. Dezember 2025)](https://developers.google.com/search/docs/appearance/core-web-vitals?hl=de), Google Search Central
+- [Understanding page experience in Google Search results (Stand 24. September 2026)](https://developers.google.com/search/docs/appearance/page-experience), Google Search Central
 - [How the Core Web Vitals metrics thresholds were defined](https://web.dev/articles/defining-core-web-vitals-thresholds), web.dev
 - [Interaction to Next Paint is officially a Core Web Vital](https://web.dev/blog/inp-cwv-launch), web.dev
 - [About PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about), Google for Developers

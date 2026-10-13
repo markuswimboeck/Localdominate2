@@ -21,7 +21,7 @@ const article: V4Article = {
     "Messen Sie mit festen Punkten über Ihre Stadtteile, nicht mit einer Suche vom eigenen Schreibtisch.",
   ],
   publishedAt: "2026-02-18",
-  updatedAt: "2026-10-12",
+  updatedAt: "2026-10-13",
   readingTime: 11,
   sections: [
     {
@@ -36,7 +36,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Die Stadtkämmerei weist in den bezirksbezogenen Haushaltsansätzen 2025 für den 31. Dezember 2023 insgesamt 655.717 Einwohnerinnen und Einwohner aus. Neuere Zahlen der Stadt liegen nach Medienberichten etwas höher. Ihr Markt als Betrieb ist deshalb meist nicht „Düsseldorf“, sondern einige Stadtteile und vielleicht das Umland.",
+          text: "Nach der Bevölkerungsstatistik der Landeshauptstadt hatten am 31. Dezember 2024 laut einem Medienbericht 658.245 Menschen ihren Hauptwohnsitz in Düsseldorf. Ihr Markt als Betrieb ist deshalb meist nicht „Düsseldorf“, sondern einige Stadtteile und vielleicht das Umland.",
         },
         {
           t: "table",
@@ -128,7 +128,7 @@ const article: V4Article = {
       id: "stadtteilseiten",
       title: "Seiten für Stadtteile ohne Brückenseiten",
       answer:
-        "50 Stadtteilseiten mit demselben Text und ausgetauschtem Ortsnamen sind nach unserer Einschätzung riskant. Google nennt als Missbrauch von Brückenseiten Seiten, die auf bestimmte Regionen oder Städte zielen und Nutzer zur selben Seite leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Eine eigene Seite lohnt sich nur mit Inhalten, die es nur für diesen Ort gibt.",
+        "50 Stadtteilseiten mit demselben Text und ausgetauschtem Ortsnamen sind nach unserer Einschätzung riskant. Google nennt als Missbrauch von Brückenseiten Seiten, die auf bestimmte Regionen oder Städte zielen und Nutzer zur selben Seite leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie. Eine eigene Seite lohnt sich nur mit Inhalten, die es nur für diesen Ort gibt.",
       blocks: [
         {
           t: "table",
@@ -182,7 +182,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "table",
-          caption: "Beispiele für Termine laut Düsseldorf Tourismus (Stand 12. Oktober 2026)",
+          caption: "Beispiele für Termine laut Düsseldorf Tourismus (Seite abgerufen am 13. Oktober 2026)",
           head: ["Anlass", "Termin", "Was Sie prüfen können"],
           rows: [
             ["Hoppeditz-Erwachen", "11. November 2026, 11:11 Uhr, Marktplatz", "Öffnungszeiten in der Altstadt, Hinweis auf der Website"],
@@ -302,7 +302,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Brauche ich für jeden Düsseldorfer Stadtteil eine eigene Seite?",
-      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für diesen Stadtteil gibt. Sonst nennen Sie die Stadtteile auf der Leistungsseite.",
+      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten auch im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für diesen Stadtteil gibt. Sonst nennen Sie die Stadtteile auf der Leistungsseite.",
     },
     {
       q: "Darf ich „Düsseldorf“ oder meinen Stadtteil in den Namen des Unternehmensprofils schreiben?",
@@ -323,6 +323,7 @@ const article: V4Article = {
     { title: "Spam policies for Google web search (Doorway abuse)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies" },
     { title: "Lokalisierte Versionen deiner Seiten für Google angeben (hreflang)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de" },
     { title: "Bezirksbezogene Haushaltsansätze 2025", publisher: "Landeshauptstadt Düsseldorf, Stadtkämmerei (Pflichtexemplar ULB Düsseldorf)", url: "https://e-pflicht.ulb.hhu.de/download/pdf/427568" },
+    { title: "658.245 Menschen haben ihren Hauptwohnsitz in Düsseldorf (Stichtag 31.12.2024, 11.04.2025)", publisher: "Ddorf-Aktuell, nach der Bevölkerungsstatistik der Landeshauptstadt Düsseldorf", url: "https://www.ddorf-aktuell.de/2025/04/11/658-245-menschen-haben-ihren-hauptwohnsitz-in-duesseldorf/" },
     { title: "Adressliste Düsseldorf (Open Data, Stadtbezirke und Stadtteile)", publisher: "Landeshauptstadt Düsseldorf, Open-Data-Team", url: "https://prod.ckan259.open.nrw.de/ne/dataset/adressliste-dusseldorf-d" },
     { title: "Karneval in Düsseldorf: Termine der Session", publisher: "Düsseldorf Tourismus GmbH", url: "https://www.visitduesseldorf.de/erleben/veranstaltungen/karneval" },
     { title: "MEDICA im Veranstaltungskalender", publisher: "Düsseldorf Tourismus GmbH", url: "https://www.visitduesseldorf.de/en/calendar-of-events/medica-c7a6ba6949" },

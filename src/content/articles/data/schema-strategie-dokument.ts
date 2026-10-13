@@ -302,7 +302,7 @@ const article: V4Article = {
     { title: "Strukturierte Daten für Organisationen (Organization)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/organization?hl=de" },
     { title: "Strukturierte Daten für Artikel (Article, BlogPosting)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/article?hl=de" },
     { title: "Strukturierte Daten für Navigationspfade (BreadcrumbList)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/breadcrumb?hl=de" },
-    { title: "Rezensions-Snippet (Review, AggregateRating; zuletzt aktualisiert 2. Oktober 2026)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/review-snippet?hl=de" },
+    { title: "Rezensions-Snippet (Review, AggregateRating; zuletzt aktualisiert 8. September 2026)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/review-snippet?hl=de" },
     { title: "Strukturierte Daten für Produkte", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/product?hl=de" },
     { title: "Unterstützte Funktionen für strukturierte Daten", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/search-gallery?hl=de" },
     { title: "Latest documentation updates (FAQ-Snippets ab 7. Mai 2026 eingestellt, HowTo-Dokumentation 2023 entfernt)", publisher: "Google Search Central", url: "https://developers.google.com/search/updates" },

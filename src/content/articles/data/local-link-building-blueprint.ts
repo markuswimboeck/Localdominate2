@@ -31,7 +31,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google zählt zur Bekanntheit eines Betriebs auch Informationen wie die **Anzahl der Websites, die auf Ihr Unternehmen verweisen**. Wie stark das im Vergleich zu Profil, Bewertungen und Entfernung wirkt, legt Google nicht offen. Ein besseres lokales Ranking lässt sich laut Google auch nicht gegen Bezahlung erreichen. Die Hintergründe, die Quellenarten und die Grenzen des Erlaubten stehen in [Local Link Building: Lokale Links ohne Regelverstoß](/blog/local-link-building).",
+          text: "Google zählt zur Bekanntheit eines Betriebs auch Informationen wie die **Anzahl der Websites, die auf Ihr Unternehmen verweisen**. Wie stark das im Vergleich zu Profil, Bewertungen und Entfernung wirkt, haben wir bei Google nicht gefunden. Ein besseres lokales Ranking lässt sich laut Google auch nicht gegen Bezahlung erreichen. Die Hintergründe, die Quellenarten und die Grenzen des Erlaubten stehen in [Local Link Building: Lokale Links ohne Regelverstoß](/blog/local-link-building).",
         },
         {
           t: "table",
@@ -67,7 +67,7 @@ const article: V4Article = {
             ["Gibt es eine echte Verbindung (Mitgliedschaft, Zusammenarbeit, Anlass)?", "Nicht anfragen", "Google nennt Partnerseiten nur zum gegenseitigen Verlinken als Linkspam"],
             ["Biete ich nichts für den Link an (kein Geld, keine Ware, kein Gutschein, kein Gegenlink)?", "Angebot streichen", "Geld, Waren oder Leistungen gegen Links gelten als gekaufte Links"],
             ["Bei Bezahlung (Sponsoring, Anzeige): Darf der Link gekennzeichnet werden?", "Kennzeichnung ausdrücklich zulassen", "Bezahlte Links sind erlaubt, wenn sie „sponsored“ oder „nofollow“ tragen"],
-            ["Bitte ich um Firmennamen oder Website-Adresse als Linktext statt um ein Keyword?", "Linktext-Wunsch streichen", "Optimierte Ankertexte in Gastbeiträgen und Pressemitteilungen nennt Google als Beispiel"],
+            ["Bitte ich um Firmennamen oder Website-Adresse als Linktext statt um ein Keyword?", "Linktext-Wunsch streichen", "Bezahlte Beiträge mit optimierten Ankertexten, auch in Pressemitteilungen, nennt Google als Beispiel für Linkspam"],
             ["Würde ein Kunde den Link nützlich finden?", "Andere Quelle wählen", "Laut Google entstehen Links auf eine Website im Lauf der Zeit von selbst"],
           ],
         },
@@ -158,7 +158,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Eine Mitgliedschaft, die Sie ohnehin bezahlen, ist keine gekaufte Platzierung. Sie treten nicht bei, um einen Link zu bekommen, sondern bekommen den Eintrag, weil Sie Mitglied sind.",
+          text: "Unsere Einschätzung: Eine Mitgliedschaft, die Sie ohnehin bezahlen, ist keine gekaufte Platzierung, solange Sie nicht nur wegen des Links beitreten. Sie treten nicht bei, um einen Link zu bekommen, sondern bekommen den Eintrag, weil Sie Mitglied sind.",
         },
       ],
     },
@@ -216,7 +216,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Kein Linktext mit Keywords",
-          text: "Nennen Sie Ihre Website-Adresse als Text. Setzen Sie keine Links wie „Heizungsnotdienst Musterstadt“ in die Meldung. Google nennt optimierte Ankertexte in Pressemitteilungen, die auf anderen Websites verbreitet werden, als Beispiel für Linkspam.",
+          text: "Nennen Sie Ihre Website-Adresse als Text. Setzen Sie keine Links wie „Heizungsnotdienst Musterstadt“ in die Meldung. Google nennt bezahlte Beiträge mit optimierten Ankertexten, auch in Pressemitteilungen, die auf anderen Websites verbreitet werden, als Beispiel für Linkspam. Bei unbezahlten Meldungen sind Keyword-Links unnötig und wirken werblich.",
         },
       ],
     },
@@ -267,7 +267,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Rechnen Sie nicht damit, dass sich das Ranking im Kartenblock nach 90 Tagen messbar verändert. Google nennt keine Frist und keine Gewichtung. Werten Sie Links deshalb auch nach Besuchern und Anfragen. Wie Sie das in einen monatlichen Bericht einbauen, zeigt die [Reporting-Vorlage](/blog/local-seo-reporting-template).",
+          text: "Rechnen Sie nicht damit, dass sich das Ranking im Kartenblock nach 90 Tagen messbar verändert. Eine Frist oder Gewichtung haben wir bei Google nicht gefunden. Werten Sie Links deshalb auch nach Besuchern und Anfragen. Wie Sie das in einen monatlichen Bericht einbauen, zeigt die [Reporting-Vorlage](/blog/local-seo-reporting-template).",
         },
       ],
     },
@@ -301,7 +301,7 @@ const article: V4Article = {
     },
     {
       q: "Wie viele Links sollte ich nach 90 Tagen haben?",
-      a: "Eine Zielzahl nennt Google nicht, und wir nennen auch keine. Google schreibt nur, dass die Zahl der Websites, die auf Ihr Unternehmen verweisen, zur Bekanntheit beiträgt. Messen Sie den Fortschritt an angefragten und erledigten Quellen, korrekten Firmendaten und Besuchern über die Links.",
+      a: "Eine Zielzahl haben wir bei Google nicht gefunden, und wir nennen auch keine. Google schreibt nur, dass die Zahl der Websites, die auf Ihr Unternehmen verweisen, zur Bekanntheit beiträgt. Messen Sie den Fortschritt an angefragten und erledigten Quellen, korrekten Firmendaten und Besuchern über die Links.",
     },
     {
       q: "Ist ein Sponsorenlink mit „sponsored“ verschenkt?",

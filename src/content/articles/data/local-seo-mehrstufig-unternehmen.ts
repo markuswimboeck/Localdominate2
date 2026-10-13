@@ -13,7 +13,7 @@ const article: V4Article = {
   answer:
     "In einem Franchise-System sollte vorab geregelt sein, wer jedes Google-Unternehmensprofil besitzt, wer es verwaltet und was beim Betreiberwechsel geschieht. Wir empfehlen in der Regel: Die Zentrale hält die Inhaberschaft über eine Unternehmensgruppe, der Franchisenehmer pflegt sein Profil als Manager. Name und Hauptkategorie sind überall gleich, Öffnungszeiten, Telefonnummer, Fotos und Standortseite sind lokal.",
   takeaways: [
-    "Franchisenehmer dürfen laut Google den Markennamen im Profil verwenden. Alle Standorte eines Landes tragen denselben Namen. Ein Ortszusatz gehört nur hinein, wenn der Standort in der realen Welt durchgehend so heißt.",
+    "Autorisierte Franchisenehmer, die ausschließlich die Marke führen, dürfen laut Google den Markennamen im Profil verwenden. Alle Standorte eines Landes tragen denselben Namen. Ein Ortszusatz gehört nur hinein, wenn der Standort in der realen Welt durchgehend so heißt.",
     "Ein Profil hat genau einen primären Inhaber. Legen Sie im Vertrag oder Handbuch fest, wer das ist und wie der Zugriff beim Betreiberwechsel übergeben wird.",
     "Unternehmensgruppen bündeln die Profile der Marke. Organisationskonten sind laut Google für Dritte gedacht, die Standorte im Auftrag der Inhaber verwalten, etwa Agenturen.",
     "Die Sammelbestätigung funktioniert nur für Profile, die nicht schon jemand anderem gehören. Bereits bestätigte Profile von Partnern müssen zuerst übertragen werden.",
@@ -55,7 +55,7 @@ const article: V4Article = {
       id: "inhaberschaft",
       title: "Wem gehört das Unternehmensprofil?",
       answer:
-        "Google legt nicht fest, ob Zentrale oder Franchisenehmer das Profil besitzt. Jedes Profil hat aber genau einen primären Inhaber, und nur dieser kann die primäre Inhaberschaft übertragen. Das System sollte diese Rolle deshalb bewusst vergeben.",
+        "Eine Vorgabe von Google, ob Zentrale oder Franchisenehmer das Profil besitzt, haben wir nicht gefunden. Jedes Profil hat aber genau einen primären Inhaber, und nur dieser kann die primäre Inhaberschaft übertragen. Das System sollte diese Rolle deshalb bewusst vergeben.",
       blocks: [
         {
           t: "p",
@@ -129,7 +129,7 @@ const article: V4Article = {
           rows: [
             ["Markenname, wie auf allen Schildern", "Ja", "Einheitlicher, echter Name"],
             ["Markenname plus Stadtteil, nur im Profil", "Nein", "Ortsangabe, die nicht zum realen Namen gehört"],
-            ["Markenname plus Name der Betreiber-GmbH", "Nur wenn der Standort im Alltag so auftritt", "Der Name folgt dem realen Auftritt, nicht dem Handelsregister"],
+            ["Markenname plus Name der Betreiber-GmbH", "In der Regel nein", "Unnötige rechtliche Zusätze wie GmbH sind laut Google nicht erlaubt, es sei denn, Schild oder Rechnung belegen, dass sie zum Namen gehören"],
             ["Untermarke wie „Marke Express“ an allen Express-Standorten", "Ja", "Einheitlich angewendete Untermarke"],
             ["Markenname plus Leistung oder Slogan", "Nein", "Zusätzliche Angaben im Namen sind nicht erlaubt"],
           ],
@@ -141,7 +141,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Auch die Hauptkategorie ist laut Google für alle Standorte einer Marke gleich, wenn sie dieselbe Leistung anbieten. Welche Kategorie passt, zeigt der [Kategorien-Leitfaden](/blog/google-business-kategorien-guide).",
+          text: "Auch die Kategorien sind laut Google an allen Standorten einer Marke dieselben, wenn sie dieselben Leistungen anbieten. Welche Kategorie passt, zeigt der [Kategorien-Leitfaden](/blog/google-business-kategorien-guide).",
         },
       ],
     },
@@ -188,7 +188,7 @@ const article: V4Article = {
           items: [
             "**Crawlbare Links:** Google kann laut eigener Dokumentation Links in der Regel nur verfolgen, wenn sie als HTML-Element „a“ mit „href“-Attribut angelegt sind. Ergänzen Sie das Suchfeld des Store Locators deshalb um eine Übersicht aller Standorte mit normalen Links, etwa nach Land und Stadt geordnet.",
             "**Eigene Inhalte je Standort:** Adresse, Telefon und Zeiten wie im Profil, dazu Team, Anfahrt und Parken, Barrierefreiheit, Leistungen nur dieses Standorts und eigene Fotos. Der Partner liefert die Inhalte, die Zentrale das Format.",
-            "**Ein Markenauftritt statt vieler Domains:** Google nennt mehrere Domains oder Seiten für einzelne Städte, die Besucher auf eine Seite leiten, ausdrücklich als Brückenseiten. Eigene Partner-Websites mit fast gleichem Inhalt sind deshalb ein Risiko.",
+            "**Ein Markenauftritt statt vieler Domains:** Google nennt mehrere Domains oder Seiten für einzelne Städte, die Besucher auf eine Seite leiten, ausdrücklich als Brückenseiten. Eigene Partner-Websites mit fast gleichem Inhalt können aus unserer Sicht deshalb ein Risiko sein.",
             "**Strukturierte Daten:** Google empfiehlt, jeden Standort als eigenes LocalBusiness zu definieren. Eine Anzeige in der Suche ist damit laut Google nicht garantiert.",
           ],
         },
@@ -211,7 +211,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Googles Richtlinien verbieten Inhalte, die gegen Bezahlung oder andere Vorteile entstanden sind, Inhalte aus Interessenkonflikten, wozu laut Google auch ein aktuelles oder früheres Arbeitsverhältnis zählt, sowie das Abhalten von negativen Bewertungen und das gezielte Einholen positiver. Weder Zentrale noch Partner dürfen also Mitarbeitende, Familie oder andere Franchisenehmer um Bewertungen bitten.",
+          text: "Googles Richtlinien verbieten Inhalte, die gegen Bezahlung oder andere Vorteile entstanden sind, Inhalte aus Interessenkonflikten, wozu laut Google auch ein aktuelles oder früheres Arbeitsverhältnis zählt, sowie das Abhalten von negativen Bewertungen und das gezielte Einholen positiver. Weder Zentrale noch Partner sollten also Mitarbeitende, Familie oder andere Franchisenehmer um Bewertungen bitten, denn Google nennt Arbeits-, Vertrags- und familiäre Beziehungen als Interessenkonflikt.",
         },
         {
           t: "table",
@@ -221,7 +221,7 @@ const article: V4Article = {
             ["Jeder Standort fragt alle Kunden mit eigenem Link oder QR-Code", "Ja", "Bewertung landet beim richtigen Standort"],
             ["Antwortbausteine mit Pflicht zur Anpassung an den Fall", "Ja", "Einheitlicher Ton, trotzdem konkret"],
             ["Eskalation kritischer Bewertungen an die Zentrale binnen fester Frist", "Ja", "Klare Zuständigkeit"],
-            ["Wettbewerb zwischen Standorten um die meisten Sterne mit Prämie", "Nein", "Erzeugt Druck auf Kunden und Anreize für Mitarbeitende"],
+            ["Wettbewerb zwischen Standorten um die meisten Sterne mit Prämie", "Besser nicht", "Kann Druck auf Kunden und Mitarbeitende erzeugen. Google verbietet Quoten für Mitarbeitende"],
             ["Nur zufriedene Kunden nach einer Vorabfrage zu Google schicken", "Nein", "Gezieltes Einholen positiver Bewertungen"],
             ["Rabatt für eine Bewertung", "Nein", "Anreize sind ausdrücklich verboten"],
           ],
@@ -290,7 +290,7 @@ const article: V4Article = {
     },
     {
       q: "Sollte die Zentrale oder der Franchisenehmer primärer Inhaber sein?",
-      a: "Google schreibt das nicht vor. Wir halten es für robuster, wenn die Zentrale primärer Inhaber ist und der Partner als Manager arbeitet, weil der Zugriff dann beim Betreiberwechsel erhalten bleibt. Entscheidend ist, dass es schriftlich geregelt ist.",
+      a: "Eine Vorgabe von Google dazu haben wir nicht gefunden. Wir halten es für robuster, wenn die Zentrale primärer Inhaber ist und der Partner als Manager arbeitet, weil der Zugriff dann beim Betreiberwechsel erhalten bleibt. Entscheidend ist, dass es schriftlich geregelt ist.",
     },
     {
       q: "Brauchen wir als Marke ein Organisationskonto?",
