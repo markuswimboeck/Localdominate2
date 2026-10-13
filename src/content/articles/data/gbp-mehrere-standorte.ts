@@ -11,7 +11,7 @@ const article: V4Article = {
   lead:
     "Für Betriebe mit zwei bis fünfzig Standorten: Filialisten, Praxisgruppen, Handwerksbetriebe mit mehreren Niederlassungen und Hotels mit mehreren Häusern. Sie erfahren, welcher Standort ein eigenes Profil bekommt, wie Sie Namen, Zugriffe und Bestätigung sauber regeln und wie die Website dazu passt.",
   answer:
-    "Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Unternehmensprofil. Alle Standorte tragen denselben Namen, ohne Ortszusatz, und möglichst dieselben Kategorien. Verwalten Sie die Profile in einer Unternehmensgruppe mit klaren Rollen. Ab zehn Standorten ist eine Sammelbestätigung möglich. Auf der Website bekommt jeder Standort eine eigene Seite mit eigenen Inhalten.",
+    "Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Unternehmensprofil. Alle Standorte tragen denselben echten Namen, mit Ortszusatz nur, wenn der Standort in der realen Welt durchgehend so heißt, und möglichst dieselben Kategorien. Verwalten Sie die Profile in einer Unternehmensgruppe mit klaren Rollen. Ab zehn Standorten ist eine Sammelbestätigung möglich. Auf der Website bekommt jeder Standort eine eigene Seite mit eigenen Inhalten.",
   takeaways: [
     "Ein Profil je Standort, aber nur für Standorte, an denen Ihr Team während der Öffnungszeiten erreichbar ist. Mehr als ein Profil je Standort verbietet Google.",
     "Alle Standorte in einem Land tragen denselben Namen. Ortszusätze wie „München Schwabing“ im Namen sind laut Google nicht zulässig.",

@@ -21,7 +21,7 @@ Für Betriebe mit zwei bis fünfzig Standorten: Filialisten, Praxisgruppen, Hand
 
 ## Die kurze Antwort
 
-Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Unternehmensprofil. Alle Standorte tragen denselben Namen, ohne Ortszusatz, und möglichst dieselben Kategorien. Verwalten Sie die Profile in einer Unternehmensgruppe mit klaren Rollen. Ab zehn Standorten ist eine Sammelbestätigung möglich. Auf der Website bekommt jeder Standort eine eigene Seite mit eigenen Inhalten.
+Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Unternehmensprofil. Alle Standorte tragen denselben echten Namen, mit Ortszusatz nur, wenn der Standort in der realen Welt durchgehend so heißt, und möglichst dieselben Kategorien. Verwalten Sie die Profile in einer Unternehmensgruppe mit klaren Rollen. Ab zehn Standorten ist eine Sammelbestätigung möglich. Auf der Website bekommt jeder Standort eine eigene Seite mit eigenen Inhalten.
 
 ## Das Wichtigste in Kürze
 
