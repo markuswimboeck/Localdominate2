@@ -27,7 +27,7 @@ Eine gute Antwort auf eine Google-Bewertung ist kurz, freundlich und greift auf,
 
 - Antworten können Sie nur mit einem bestätigten Unternehmensprofil. Google prüft jede Antwort, bevor sie öffentlich unter der Rezension erscheint.
 - Google rät: kurz, höflich, persönlich, zeitnah und ohne Angebote oder Rabatte in der Antwort.
-- Keine privaten Daten in Antworten. Praxen und Kanzleien bestätigen nicht einmal, dass jemand Patient oder Mandant war.
+- Keine privaten Daten in Antworten. Nach unserer Einschätzung bestätigen Praxen und Kanzleien nicht einmal, dass jemand Patient oder Mandant war.
 - Eine Vorlage ist ein Gerüst. Ein konkretes Detail aus der Rezension macht daraus eine Antwort.
 - Ihre Antwort können Sie später bearbeiten oder löschen, etwa wenn sich ein Problem geklärt hat.
 
@@ -52,12 +52,12 @@ In seinen Tipps zu Rezensionen wird Google konkreter: Antworten sollen **profess
 
 ## Datenschutz und Schweigepflicht in Antworten
 
-Schreiben Sie in eine Antwort nichts, was Sie nur aus dem Kundenkontakt wissen: keine Termine, Diagnosen, Auftragsdetails oder Namen von Begleitpersonen. Praxen und Kanzleien bestätigen nicht einmal, dass jemand Patient oder Mandant war.
+Schreiben Sie in eine Antwort nichts, was Sie nur aus dem Kundenkontakt wissen: keine Termine, Diagnosen, Auftragsdetails oder Namen von Begleitpersonen. Nach unserer Einschätzung bestätigen Praxen und Kanzleien nicht einmal, dass jemand Patient oder Mandant war.
 
 Googles Richtlinien für Inhalte in Maps untersagen, persönliche Informationen ohne Einwilligung zu verbreiten. Erlaubt sind geschäftliche Kontaktdaten, also etwa die Telefonnummer oder E-Mail-Adresse des Betriebs. Daraus ergibt sich eine einfache Regel: Alles, was die Person nicht selbst öffentlich geschrieben hat, gehört nicht in Ihre Antwort.
 
 - **Nicht nennen:** Nachname, Zimmernummer, Termin, Rechnungsbetrag, Auftrags- oder Kundennummer, Diagnose, Behandlung, Mandatsinhalt, Begleitpersonen.
-- **Nicht bestätigen:** dass und wann jemand bei Ihnen war, wenn Sie einer Schweigepflicht unterliegen. Das gilt auch bei positiven Rezensionen.
+- **Nicht bestätigen:** dass und wann jemand bei Ihnen war, wenn Sie einer Schweigepflicht unterliegen. Das ist unsere vorsichtige Einschätzung und gilt auch bei positiven Rezensionen; im Zweifel fragen Sie Ihre Kammer.
 - **Nicht widerlegen mit Interna:** „Laut unseren Unterlagen waren Sie erst um 10:40 Uhr da“ verrät mehr, als nötig ist. Bieten Sie stattdessen ein Gespräch an.
 
 > **Kein Rechtsrat:** Für Ärzte, Zahnärzte, Therapeuten, Anwälte und Steuerberater gelten berufliche Verschwiegenheitspflichten, auch auf Google. Was das für Antworten bedeutet, steht im Abschnitt [Praxen, Kanzleien und Steuerberatung](https://localdominate.org/blog/negative-google-bewertungen#berufsgeheimnis). Verbindliche Auskunft gibt Ihre Kammer oder eine Anwältin. Diese Vorlagen ersetzen keine Rechtsberatung.
@@ -69,7 +69,7 @@ Eine Antwort darf kein Angebot im Tausch gegen eine bessere Bewertung enthalten.
 Ein Satz wie „Der nächste Besuch geht aufs Haus“ wirkt unter einer schlechten Rezension schnell wie ein Tausch. Google nennt in seinen Tipps ausdrücklich, dass Rabatte oder kostenlose Waren und Leistungen für Rezensionen, für Änderungen an Rezensionen oder für das Entfernen negativer Rezensionen verboten sind. Die Richtlinien für Inhalte in Maps sagen dasselbe.
 
 - **Nicht schreiben:** „Wenn Sie Ihre Bewertung anpassen, erstatten wir Ihnen …“ oder „Für eine neue Bewertung erhalten Sie …“.
-- **Keine Gegenleistung** für eine geänderte Bewertung. Nach einer echten Klärung dürfen Sie darauf hinweisen, dass die Person ihre Rezension aktualisieren kann. Ob sie das tut, ist ihre Entscheidung.
+- **Keine Gegenleistung** für eine geänderte Bewertung. Nach einer echten Klärung ist nach unserer Einschätzung ein neutraler Hinweis unproblematisch, dass die Person ihre Rezension aktualisieren kann, solange Sie nichts dafür anbieten. Ob sie das tut, ist ihre Entscheidung.
 - **Erlaubt und sinnvoll:** ein Gesprächsangebot über einen direkten Kontakt. Was Sie im Gespräch zur Wiedergutmachung vereinbaren, gehört nicht in die öffentliche Antwort und darf nicht an die Bewertung geknüpft sein.
 
 Wie Sie Bewertungen regelkonform anfragen, beschreibt [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen#regeln).
@@ -202,7 +202,7 @@ Legen Sie fest, wer antwortet, wann geantwortet wird und wer kritische Antworten
 | Antwort im ersten Ärger | Einen Tag Abstand, zweite Person liest gegen |
 
 1. **Verantwortung festlegen.** Eine Person beantwortet Rezensionen, eine Vertretung übernimmt im Urlaub.
-2. **Termin einplanen.** Zum Beispiel zweimal pro Woche. Google rät, zeitnah zu antworten, nennt aber keine Frist.
+2. **Termin einplanen.** Zum Beispiel zweimal pro Woche. Google rät, zeitnah zu antworten; eine Frist haben wir dort nicht gefunden.
 3. **Vorlagen ablegen.** Diese 13 Vorlagen in Ihrer Sprache und mit Ihrer Unterschrift, an einer Stelle für das Team.
 4. **Kritik eskalieren.** Bei drei Sternen oder weniger liest die Inhaberin oder der Inhaber vor dem Absenden mit.
 5. **Monatlich auswerten.** Welche Kritik wiederholt sich? Die Lösung liegt dann im Betrieb, nicht in der Antwort. Eine Vorlage für den Monatsbericht finden Sie im [Local-SEO-Reporting-Template](https://localdominate.org/blog/local-seo-reporting-template).
@@ -211,7 +211,7 @@ Legen Sie fest, wer antwortet, wann geantwortet wird und wer kritische Antworten
 
 ### Muss ich auf jede Google-Bewertung antworten?
 
-Eine Pflicht gibt es nicht. Google beschreibt Antworten als Weg, zu zeigen, dass Sie das Feedback Ihrer Kunden schätzen, und rät, die Antworten dort zu setzen, wo sie etwas beitragen. Kritische Rezensionen sollten Sie in jedem Fall beantworten, weil künftige Kunden Ihre Reaktion lesen.
+Eine Pflicht gibt es nicht. Google beschreibt Antworten als Weg, zu zeigen, dass Sie das Feedback Ihrer Kunden schätzen, und rät, die Antworten dort zu setzen, wo sie etwas beitragen. Kritische Rezensionen sollten Sie nach unserer Einschätzung in jedem Fall beantworten, weil künftige Kunden Ihre Reaktion lesen.
 
 ### Warum erscheint meine Antwort nicht sofort?
 
@@ -227,7 +227,7 @@ Google empfiehlt, die Person mit Namen anzusprechen. Verwenden Sie dafür nur de
 
 ### Darf ich Antworten mit KI schreiben lassen?
 
-Google sagt dazu in seiner Hilfe zu Antworten nichts. Unsere Einschätzung: Ein KI-Entwurf kann helfen, wenn ein Mensch ihn liest, das konkrete Detail ergänzt und prüft, dass keine persönlichen Daten enthalten sind.
+Hinweise dazu haben wir in Googles Hilfe zu Antworten nicht gefunden. Unsere Einschätzung: Ein KI-Entwurf kann helfen, wenn ein Mensch ihn liest, das konkrete Detail ergänzt und prüft, dass keine persönlichen Daten enthalten sind.
 
 ## Quellen
 

@@ -35,7 +35,7 @@ Ein 90-Tage-Plan für lokale Links arbeitet Ihre bestehenden Verbindungen der Re
 
 Der Plan teilt die Arbeit in sechs Blöcke über zwölf Wochen. Jeder Block hat ein Ziel, feste Aufgaben und eine Vorlage. Warum lokale Links zählen und welche Arten es gibt, erklärt der Grundlagenartikel; hier geht es nur um die Umsetzung.
 
-Google zählt zur Bekanntheit eines Betriebs auch Informationen wie die **Anzahl der Websites, die auf Ihr Unternehmen verweisen**. Wie stark das im Vergleich zu Profil, Bewertungen und Entfernung wirkt, legt Google nicht offen. Ein besseres lokales Ranking lässt sich laut Google auch nicht gegen Bezahlung erreichen. Die Hintergründe, die Quellenarten und die Grenzen des Erlaubten stehen in [Local Link Building: Lokale Links ohne Regelverstoß](https://localdominate.org/blog/local-link-building).
+Google zählt zur Bekanntheit eines Betriebs auch Informationen wie die **Anzahl der Websites, die auf Ihr Unternehmen verweisen**. Wie stark das im Vergleich zu Profil, Bewertungen und Entfernung wirkt, haben wir bei Google nicht gefunden. Ein besseres lokales Ranking lässt sich laut Google auch nicht gegen Bezahlung erreichen. Die Hintergründe, die Quellenarten und die Grenzen des Erlaubten stehen in [Local Link Building: Lokale Links ohne Regelverstoß](https://localdominate.org/blog/local-link-building).
 
 *Der Plan im Überblick*
 
@@ -61,7 +61,7 @@ Bevor Sie um einen Link bitten, prüfen Sie fünf Fragen. Sie folgen direkt aus 
 | Gibt es eine echte Verbindung (Mitgliedschaft, Zusammenarbeit, Anlass)? | Nicht anfragen | Google nennt Partnerseiten nur zum gegenseitigen Verlinken als Linkspam |
 | Biete ich nichts für den Link an (kein Geld, keine Ware, kein Gutschein, kein Gegenlink)? | Angebot streichen | Geld, Waren oder Leistungen gegen Links gelten als gekaufte Links |
 | Bei Bezahlung (Sponsoring, Anzeige): Darf der Link gekennzeichnet werden? | Kennzeichnung ausdrücklich zulassen | Bezahlte Links sind erlaubt, wenn sie „sponsored“ oder „nofollow“ tragen |
-| Bitte ich um Firmennamen oder Website-Adresse als Linktext statt um ein Keyword? | Linktext-Wunsch streichen | Optimierte Ankertexte in Gastbeiträgen und Pressemitteilungen nennt Google als Beispiel |
+| Bitte ich um Firmennamen oder Website-Adresse als Linktext statt um ein Keyword? | Linktext-Wunsch streichen | Bezahlte Beiträge mit optimierten Ankertexten, auch in Pressemitteilungen, nennt Google als Beispiel für Linkspam |
 | Würde ein Kunde den Link nützlich finden? | Andere Quelle wählen | Laut Google entstehen Links auf eine Website im Lauf der Zeit von selbst |
 
 Die Attribute selbst sind schnell erklärt: „sponsored“ steht laut Google für Werbung und bezahlte Platzierungen, „ugc“ für Inhalte von Nutzern wie Kommentare, „nofollow“ für alle anderen Fälle. Mehrere Werte dürfen kombiniert werden. Welche Praktiken Google genau als Linkspam aufzählt, finden Sie im Abschnitt [Was Google als Linkspam wertet](https://localdominate.org/blog/local-link-building#was-verboten-ist).
@@ -126,7 +126,7 @@ Vielen Dank und freundliche Grüße
 [Firmenname], [Telefon]
 ```
 
-Eine Mitgliedschaft, die Sie ohnehin bezahlen, ist keine gekaufte Platzierung. Sie treten nicht bei, um einen Link zu bekommen, sondern bekommen den Eintrag, weil Sie Mitglied sind.
+Unsere Einschätzung: Eine Mitgliedschaft, die Sie ohnehin bezahlen, ist keine gekaufte Platzierung, solange Sie nicht nur wegen des Links beitreten. Sie treten nicht bei, um einen Link zu bekommen, sondern bekommen den Eintrag, weil Sie Mitglied sind.
 
 ## Woche 5 bis 6: Partnerbetriebe und Vereine
 
@@ -206,7 +206,7 @@ Freundliche Grüße
 [Name]
 ```
 
-> **Kein Linktext mit Keywords:** Nennen Sie Ihre Website-Adresse als Text. Setzen Sie keine Links wie „Heizungsnotdienst Musterstadt“ in die Meldung. Google nennt optimierte Ankertexte in Pressemitteilungen, die auf anderen Websites verbreitet werden, als Beispiel für Linkspam.
+> **Kein Linktext mit Keywords:** Nennen Sie Ihre Website-Adresse als Text. Setzen Sie keine Links wie „Heizungsnotdienst Musterstadt“ in die Meldung. Google nennt bezahlte Beiträge mit optimierten Ankertexten, auch in Pressemitteilungen, die auf anderen Websites verbreitet werden, als Beispiel für Linkspam. Bei unbezahlten Meldungen sind Keyword-Links unnötig und wirken werblich.
 
 ## Woche 9: Veranstaltungen
 
@@ -247,7 +247,7 @@ Freundliche Grüße
 | Sind die Firmendaten überall korrekt? | Spalte „Daten korrekt“ |
 | Welcher Typ hat am besten funktioniert? | Tabelle nach „Typ“ filtern |
 
-Rechnen Sie nicht damit, dass sich das Ranking im Kartenblock nach 90 Tagen messbar verändert. Google nennt keine Frist und keine Gewichtung. Werten Sie Links deshalb auch nach Besuchern und Anfragen. Wie Sie das in einen monatlichen Bericht einbauen, zeigt die [Reporting-Vorlage](https://localdominate.org/blog/local-seo-reporting-template).
+Rechnen Sie nicht damit, dass sich das Ranking im Kartenblock nach 90 Tagen messbar verändert. Eine Frist oder Gewichtung haben wir bei Google nicht gefunden. Werten Sie Links deshalb auch nach Besuchern und Anfragen. Wie Sie das in einen monatlichen Bericht einbauen, zeigt die [Reporting-Vorlage](https://localdominate.org/blog/local-seo-reporting-template).
 
 ## Regeln für Ihre Nachrichten
 
@@ -268,7 +268,7 @@ Ja, wenn Sie mehr Zeit pro Woche haben. Die Reihenfolge sollten Sie beibehalten,
 
 ### Wie viele Links sollte ich nach 90 Tagen haben?
 
-Eine Zielzahl nennt Google nicht, und wir nennen auch keine. Google schreibt nur, dass die Zahl der Websites, die auf Ihr Unternehmen verweisen, zur Bekanntheit beiträgt. Messen Sie den Fortschritt an angefragten und erledigten Quellen, korrekten Firmendaten und Besuchern über die Links.
+Eine Zielzahl haben wir bei Google nicht gefunden, und wir nennen auch keine. Google schreibt nur, dass die Zahl der Websites, die auf Ihr Unternehmen verweisen, zur Bekanntheit beiträgt. Messen Sie den Fortschritt an angefragten und erledigten Quellen, korrekten Firmendaten und Besuchern über die Links.
 
 ### Ist ein Sponsorenlink mit „sponsored“ verschenkt?
 
