@@ -20,7 +20,7 @@ const article: V4Article = {
     "Regelwidrige Rezensionen melden Sie über Googles offizielles Verfahren. Echte, aber unangenehme Kritik entfernt Google nicht.",
   ],
   publishedAt: "2026-01-07",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-14",
   readingTime: 11,
   sections: [
     {
@@ -85,7 +85,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "§ 5b Abs. 3 UWG verlangt: Wenn ein Unternehmer Bewertungen von Verbrauchern zugänglich macht, muss er informieren, ob und wie er sicherstellt, dass sie von Kunden stammen, die die Ware oder Leistung tatsächlich genutzt oder erworben haben. Für die Rezensionen auf Google selbst ist das Googles Aufgabe. Binden Sie Google-Bewertungen aber per Widget auf Ihrer Website ein oder werben aktiv damit, kann die Pflicht Sie treffen. Ein kurzer Hinweis direkt bei den Bewertungen, etwa „Die Bewertungen stammen aus unserem Google-Unternehmensprofil, wir prüfen sie nicht selbst“, ist ein gängiger Weg.",
+          text: "§ 5b Abs. 3 UWG verlangt: Wenn ein Unternehmer Bewertungen von Verbrauchern zugänglich macht, muss er informieren, ob und wie er sicherstellt, dass sie von Kunden stammen, die die Ware oder Leistung tatsächlich genutzt oder erworben haben. Die Rezensionen auf Google selbst zeigt Google, nicht Sie. Binden Sie Google-Bewertungen aber per Widget auf Ihrer Website ein oder werben aktiv damit, kann die Pflicht nach verbreiteter Rechtsauffassung auch Sie treffen. Ein kurzer Hinweis direkt bei den Bewertungen, etwa „Die Bewertungen stammen aus unserem Google-Unternehmensprofil, wir prüfen sie nicht selbst“, ist ein gängiger Weg.",
         },
         {
           t: "p",
@@ -123,7 +123,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Eine Bitte, die vom Zufall abhängt, wird selten gestellt. Legen Sie deshalb einen Moment fest, an dem jeder Kunde den Link bekommt, unabhängig davon, wie das Gespräch gelaufen ist. Google selbst nennt Belege, Dankesmails, das Ende eines Chats und gedruckte Codes im Geschäft als Orte für den Link.",
+          text: "Eine Bitte, die vom Zufall abhängt, wird selten gestellt. Legen Sie deshalb einen Moment fest, an dem jeder Kunde den Link bekommt, unabhängig davon, wie das Gespräch gelaufen ist. Google nennt für den Link unter anderem E-Mail, WhatsApp-Nachrichten und Facebook-Beiträge, Belege, das Ende eines Chats und gedruckte Codes im Geschäft sind gängige Orte.",
         },
         {
           t: "table",
@@ -280,7 +280,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Darf ich Kunden für eine Google-Bewertung belohnen?",
-      a: "Nein. Google verbietet Zahlungen, Rabatte, kostenlose Produkte oder Leistungen als Gegenleistung für Rezensionen und entfernt solche Rezensionen. Auch Gewinnspiele, bei denen eine Bewertung die Teilnahme ist, fallen darunter. Erlaubt ist die einfache Bitte ohne Gegenleistung.",
+      a: "Nein. Google verbietet Zahlungen, Rabatte, kostenlose Produkte oder Leistungen als Gegenleistung für Rezensionen und entfernt solche Rezensionen. Auch Gewinnspiele, bei denen eine Bewertung die Teilnahme ist, fallen nach unserer Einschätzung darunter. Erlaubt ist die einfache Bitte ohne Gegenleistung.",
     },
     {
       q: "Darf ich nur zufriedene Kunden um eine Bewertung bitten?",
@@ -300,7 +300,7 @@ const article: V4Article = {
     },
     {
       q: "Wie viele Google-Bewertungen brauche ich?",
-      a: "Eine Mindestzahl nennt Google nicht. Google schreibt nur, dass mehr Rezensionen und positive Bewertungen das lokale Ranking verbessern können. Vergleichen Sie sich mit den Betrieben, die bei Ihren wichtigsten Suchen im Kartenblock stehen, und achten Sie auf regelmäßige neue Rezensionen.",
+      a: "Eine Mindestzahl haben wir in Googles Hilfe nicht gefunden. Google schreibt, dass mehr Rezensionen und positive Bewertungen das lokale Ranking verbessern können. Vergleichen Sie sich mit den Betrieben, die bei Ihren wichtigsten Suchen im Kartenblock stehen, und achten Sie auf regelmäßige neue Rezensionen.",
     },
   ],
   sources: [

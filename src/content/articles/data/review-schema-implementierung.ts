@@ -20,7 +20,7 @@ const article: V4Article = {
     "Wer in Deutschland Kundenbewertungen auf der Website zeigt, muss nach § 5b Abs. 3 UWG angeben, ob und wie er deren Echtheit prüft.",
   ],
   publishedAt: "2026-03-05",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-14",
   readingTime: 11,
   sections: [
     {
@@ -181,7 +181,7 @@ const article: V4Article = {
       id: "korrekt-umsetzen",
       title: "Review und AggregateRating korrekt umsetzen, wo es erlaubt ist",
       answer:
-        "Betten Sie die Bewertung in den Typ des bewerteten Objekts ein, etwa in Product oder Recipe. Zeichnen Sie nur Bewertungen aus, die auf der Seite sichtbar sind, nehmen Sie alle sichtbaren auf und halten Sie Durchschnitt und Anzahl mit der Anzeige gleich.",
+        "Betten Sie die Bewertung in den Typ des bewerteten Objekts ein, etwa in Product oder Recipe. Zeichnen Sie nur Bewertungen aus, die auf der Seite sichtbar sind, nehmen Sie möglichst alle sichtbaren auf und halten Sie Durchschnitt und Anzahl mit der Anzeige gleich.",
       blocks: [
         {
           t: "steps",
@@ -192,7 +192,7 @@ const article: V4Article = {
             },
             {
               title: "Bewertungen sichtbar machen",
-              text: "Die Bewertungen und der Durchschnitt müssen auf derselben Seite für Besucher lesbar sein. Google verlangt außerdem, dass das Markup alle sichtbaren Bewertungen umfasst.",
+              text: "Die Bewertungen und der Durchschnitt müssen auf derselben Seite für Besucher lesbar sein. Google verlangt, dass ausgezeichnete Bewertungen für Besucher sichtbar sind. Empfehlenswert ist, alle sichtbaren Bewertungen aufzunehmen, damit Markup und Anzeige übereinstimmen.",
             },
             {
               title: "Markup einbetten",
@@ -284,7 +284,7 @@ const article: V4Article = {
           rows: [
             ["Bewertungen im Markup, die auf der Seite nicht zu sehen sind", "Nicht sichtbare Inhalte dürfen nicht ausgezeichnet werden"],
             ["Erfundene Bewertungen oder Wertungen nicht von echten Nutzern", "Kann zu einer manuellen Maßnahme führen"],
-            ["Nur ausgewählte Bewertungen ins Markup, andere sichtbare weglassen", "Alle sichtbaren Bewertungen sollen enthalten sein"],
+            ["Nur ausgewählte Bewertungen ins Markup, andere sichtbare weglassen", "Eine ausdrückliche Pflicht dazu haben wir in den Richtlinien nicht gefunden. Markup und sichtbare Bewertungen sollten übereinstimmen"],
             ["Bewertungen von anderen Websites zusammenfassen", "Ausdrücklich nicht erlaubt"],
             ["Ein Rating für eine ganze Kategorie oder Liste statt für ein Objekt", "Bewertungen müssen ein bestimmtes Objekt betreffen"],
             ["Self-serving Markup für den eigenen Betrieb", "Keine Sterne, aber allein dafür keine manuelle Maßnahme"],
@@ -316,7 +316,7 @@ const article: V4Article = {
     },
     {
       q: "Beeinflussen Sterne das Ranking?",
-      a: "Sterne sind eine Darstellungsform im Suchergebnis. Google nennt Bewertungsmarkup nicht als Rankingfaktor. Eine manuelle Maßnahme wegen strukturierter Daten kostet laut Google die Rich-Suchergebnisse, nicht die Position in der Websuche.",
+      a: "Sterne sind eine Darstellungsform im Suchergebnis. Einen Hinweis, dass Bewertungsmarkup das Ranking beeinflusst, haben wir in Googles Dokumentation nicht gefunden. Eine manuelle Maßnahme wegen strukturierter Daten kostet laut Google die Rich-Suchergebnisse, nicht die Position in der Websuche.",
     },
     {
       q: "Zeigt der Test für Rich-Suchergebnisse, ob ich Sterne bekomme?",

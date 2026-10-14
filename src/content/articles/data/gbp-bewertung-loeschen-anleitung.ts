@@ -20,7 +20,7 @@ const article: V4Article = {
     "In Deutschland zeigt Google im Profil einen Hinweis, wenn Rezensionen nach Beschwerden wegen Diffamierung entfernt wurden.",
   ],
   publishedAt: "2025-01-10",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-14",
   readingTime: 11,
   sections: [
     {
@@ -292,7 +292,7 @@ const article: V4Article = {
     },
     {
       q: "Wie lange dauert die Prüfung einer gemeldeten Bewertung?",
-      a: "Laut Google dauert die Überprüfung in der Regel mehrere Tage. Den Stand sehen Sie im Tool zum Verwalten von Bewertungen. Das Ergebnis eines Einspruchs bekommen Sie per E-Mail. Feste Fristen nennt Google nicht.",
+      a: "Laut Google dauert die Überprüfung in der Regel mehrere Tage. Den Stand sehen Sie im Tool zum Verwalten von Bewertungen. Das Ergebnis eines Einspruchs bekommen Sie per E-Mail. Feste Fristen haben wir in Googles Hilfe nicht gefunden.",
     },
     {
       q: "Wie oft kann ich Einspruch einlegen?",
@@ -304,7 +304,7 @@ const article: V4Article = {
     },
     {
       q: "Hilft es, eine Bewertung mehrmals zu melden?",
-      a: "Google beschreibt keinen Vorteil durch wiederholte Meldungen. Sinnvoller ist eine Meldung mit dem genau passenden Grund, danach der Status im Tool und bei Ablehnung ein begründeter Einspruch.",
+      a: "In Googles Hilfe haben wir keinen Vorteil durch wiederholte Meldungen gefunden. Sinnvoller ist eine Meldung mit dem genau passenden Grund, danach der Status im Tool und bei Ablehnung ein begründeter Einspruch.",
     },
     {
       q: "Was ist, wenn eine echte positive Bewertung verschwunden ist?",
