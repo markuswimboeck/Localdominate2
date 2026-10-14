@@ -111,7 +111,6 @@ export const HUB_OF: Readonly<Record<string, { slug: string; label: string }>> =
   "local-seo-trends-schweiz": { slug: "local-seo-staedte-hub", label: "Local SEO nach Stadt und Land" },
   "local-seo-umzugsunternehmen": { slug: "local-seo-branchen-hub", label: "Local SEO nach Branche" },
   "local-seo-voice-search": { slug: "technisches-seo-hub", label: "Technisches Local SEO" },
-  "local-seo-vs-maps-seo": { slug: "google-maps-seo-hub", label: "Google Maps SEO" },
   "local-seo-vs-organisch": { slug: "google-maps-seo-hub", label: "Google Maps SEO" },
   "local-seo-wien": { slug: "local-seo-staedte-hub", label: "Local SEO nach Stadt und Land" },
   "local-seo-yoga-studios": { slug: "local-seo-branchen-hub", label: "Local SEO nach Branche" },

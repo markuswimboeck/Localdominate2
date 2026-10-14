@@ -35,7 +35,6 @@ const article: V4Article = {
           items: [
             "[Google-Maps-Ranking-Faktoren](/blog/google-maps-seo-ranking-faktoren): was Google bestätigt, was Fachleute vermuten und was verboten ist.",
             "[Lokale Suchmaschinenoptimierung 2026](/blog/lokale-suchmaschinenoptimierung-2026): was sich in der lokalen Suche geändert hat und was Sie jetzt tun sollten.",
-            "[Local SEO und Maps SEO: der Unterschied](/blog/local-seo-vs-maps-seo): wann Sie was brauchen.",
             "[Wie Google Maps Treffer auswählt](/blog/wie-google-maps-ranking-funktioniert): eine Suche Schritt für Schritt, von der Eingabe bis zur Liste.",
             "[Google Maps SEO und organisches SEO](/blog/google-maps-seo-vs-organic-seo): was Google jeweils bewertet.",
             "[Local SEO oder organisches SEO](/blog/local-seo-vs-organisch): was Ihr Betrieb braucht.",
