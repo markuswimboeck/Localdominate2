@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-steuerberater
 markdown_url: https://localdominate.org/blog-md/local-seo-steuerberater.md
 language: de-DE
 published: 2026-01-15
-updated: 2026-10-10
+updated: 2026-10-14
 reading_time_minutes: 13
 category: "Branchen"
 author: LocalDominate Redaktion
@@ -79,7 +79,7 @@ Die Fachberaterordnung kennt zwei amtliche Bezeichnungen: Fachberater für Inter
 
 ## Google-Profil je Standort und für einzelne Berater
 
-Jeder echte Standort mit Mandantenverkehr kann ein eigenes Profil haben. Einzelne Steuerberater brauchen nur dann ein eigenes Profil, wenn sie mit eigenem Mandantenstamm am Standort direkt erreichbar sind. Angestellte legen keine eigenen Profile an.
+Jeder echte Standort mit Mandantenverkehr kann ein eigenes Profil haben. Einzelne Steuerberater brauchen nur dann ein eigenes Profil, wenn sie mit eigenem Mandantenstamm am Standort direkt erreichbar sind. Kanzleipersonal ohne eigenen Mandantenstamm legt keine eigenen Profile an.
 
 Google beschreibt unabhängige Fachkräfte als Experten mit Kundenverkehr und üblicherweise eigenem Kundenstamm und nennt als Beispiele Ärzte, Anwälte und Finanzberater. Steuerberater stehen nicht ausdrücklich in der Liste. Wenn Sie der Beschreibung entsprechen, gelten für Sie dieselben Regeln, die der [Kanzleiartikel](https://localdominate.org/blog/local-seo-anwaelte-kanzleien) im Detail erklärt: ein Profil für den Standort, Personenprofile nur mit dem Namen der Person, keine mehreren Profile für verschiedene Fachgebiete.
 
@@ -217,4 +217,4 @@ Bei LocalDominate kostet der Profil Quick-Fix 79 €, die vollständige Profil-O
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-14. Fehler gefunden? info@localdominate.org

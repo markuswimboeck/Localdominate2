@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/seo-ferienwohnungen
 markdown_url: https://localdominate.org/blog-md/seo-ferienwohnungen.md
 language: de-DE
 published: 2026-02-25
-updated: 2026-10-10
+updated: 2026-10-14
 reading_time_minutes: 12
 category: "Branche"
 author: LocalDominate Redaktion
@@ -25,7 +25,7 @@ Eine einzelne Ferienwohnung bekommt laut Google kein Unternehmensprofil, ein Ver
 
 ## Das Wichtigste in Kürze
 
-- Google nennt Ferienwohnungen ausdrücklich als nicht berechtigt für ein Unternehmensprofil. Ein Vermietungsbüro mit Kundenkontakt zu festen Zeiten kann eines haben, aber nur eines, nicht je Wohnung.
+- Google nennt Mietobjekte wie Ferienhäuser ausdrücklich als nicht berechtigt für ein Unternehmensprofil, eine einzelne Ferienwohnung zählt nach unserer Lesart dazu. Ein Vermietungsbüro mit Kundenkontakt zu festen Zeiten kann eines haben, aber nur eines, nicht je Wohnung.
 - Die eigene Website ist der Kern: eine Seite je Wohnung, Preise und Verfügbarkeit sichtbar, Hausregeln und Anreise als Text.
 - In Googles Ferienunterkunftssuche erscheinen nur Anbieter, deren Buchungssystem oder Portal mit Google verbunden ist. Einzelne private Vermieter können laut Google nicht direkt teilnehmen.
 - Portale sind ein Vertriebskanal mit Kosten. Rechnen Sie mit Ihrem eigenen Vertrag, nicht mit Prozentzahlen aus dem Internet.
@@ -50,7 +50,7 @@ Die allgemeinen Grundlagen der lokalen Suche erklärt der [Local-SEO-Leitfaden](
 
 ## Google-Unternehmensprofil: wer eines bekommt
 
-Googles Berechtigungsrichtlinien nennen Ferienhäuser und zu vermietende Wohnungen ausdrücklich als nicht berechtigt. Vermietungsbüros sind dagegen zulässig, wenn sie Kunden zu den angegebenen Zeiten persönlich empfangen. Ein Profil je Wohnung ist in keinem Fall erlaubt.
+Googles Berechtigungsrichtlinien nennen Miet- und Verkaufsobjekte wie Ferienhäuser, Musterhäuser und leerstehende Wohnungen ausdrücklich als nicht berechtigt. Vermietungsbüros sind dagegen zulässig, wenn sie Kunden zu den angegebenen Zeiten persönlich empfangen. Ein Profil je Wohnung ist in keinem Fall erlaubt.
 
 Die Grundregel steht in Googles Richtlinien zur Berechtigung: Ein Betrieb muss während seiner angegebenen Zeiten **persönlichen Kontakt mit Kunden** haben. Ferienhäuser, Musterhäuser und leerstehende Wohnungen sind als Beispiele für nicht berechtigte Standorte genannt. Verkaufs- und Vermietungsbüros können dagegen bestätigt werden.
 
@@ -131,7 +131,7 @@ Einen Ablauf zum Bitten um Bewertungen beschreibt [Google-Bewertungen bekommen](
 Fotos entscheiden bei Ferienwohnungen oft vor dem Preis. Zeigen Sie jedes Zimmer, das Bad, die Küche, den Außenbereich und den Blick aus dem Fenster. Echte, aktuelle Bilder vermeiden Enttäuschungen und damit schlechte Bewertungen.
 
 - Jede Wohnung mit eigenem Fotosatz, kein Austausch von Bildern zwischen Objekten.
-- Mindestens ein Foto je Schlafzimmer, Bad und Wohnbereich. Google verlangt in seinen Vorgaben für Ferienunterkünfte von angebundenen Partnern ebenfalls mindestens acht Bilder, darunter Schlafzimmer, Bad und Gemeinschaftsbereich.
+- Mindestens ein Foto je Schlafzimmer, Bad und Wohnbereich. Googles Dokumentation zu den strukturierten Daten für Ferienunterkünfte (VacationRental) verlangt mindestens acht Bilder, darunter Schlafzimmer, Bad und Gemeinschaftsbereich.
 - Jahreszeiten zeigen, wenn Sie Sommer und Winter vermieten.
 - Dateinamen und Alternativtexte mit Inhalt („Wohnküche mit Blick auf den See“) statt „IMG_4711“.
 - Bilder für das Web verkleinern, damit die Seite auf dem Handy schnell lädt.
@@ -180,7 +180,7 @@ Wenn Sie mehrere Objekte vermieten und mehr Gäste direkt buchen lassen wollen, 
 
 ### Bekommt meine Ferienwohnung ein Google-Unternehmensprofil?
 
-Eine einzelne Ferienwohnung nicht. Google nennt Ferienhäuser und zu vermietende Wohnungen ausdrücklich als nicht berechtigt. Ein Vermietungsbüro, das Gäste zu festen Zeiten persönlich empfängt, kann ein Profil haben, und zwar eines für das Büro, nicht eines je Wohnung.
+Eine einzelne Ferienwohnung nicht. Google nennt Miet- und Verkaufsobjekte wie Ferienhäuser, Musterhäuser und leerstehende Wohnungen ausdrücklich als nicht berechtigt. Ein Vermietungsbüro, das Gäste zu festen Zeiten persönlich empfängt, kann ein Profil haben, und zwar eines für das Büro, nicht eines je Wohnung.
 
 ### Wie erscheint meine Ferienwohnung in Googles Unterkunftssuche?
 
@@ -215,4 +215,4 @@ Die Website in 5 Tagen für Ferienwohnungen und Hotels kostet ab 1.490 €. Wenn
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-14. Fehler gefunden? info@localdominate.org

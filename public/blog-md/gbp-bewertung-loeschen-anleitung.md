@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung
 markdown_url: https://localdominate.org/blog-md/gbp-bewertung-loeschen-anleitung.md
 language: de-DE
 published: 2025-01-10
-updated: 2026-10-10
+updated: 2026-10-14
 reading_time_minutes: 11
 category: "Bewertungen"
 author: LocalDominate Redaktion
@@ -193,7 +193,7 @@ Nein. Als Unternehmen können Sie Rezensionen melden und beantworten, aber nicht
 
 ### Wie lange dauert die Prüfung einer gemeldeten Bewertung?
 
-Laut Google dauert die Überprüfung in der Regel mehrere Tage. Den Stand sehen Sie im Tool zum Verwalten von Bewertungen. Das Ergebnis eines Einspruchs bekommen Sie per E-Mail. Feste Fristen nennt Google nicht.
+Laut Google dauert die Überprüfung in der Regel mehrere Tage. Den Stand sehen Sie im Tool zum Verwalten von Bewertungen. Das Ergebnis eines Einspruchs bekommen Sie per E-Mail. Feste Fristen haben wir in Googles Hilfe nicht gefunden.
 
 ### Wie oft kann ich Einspruch einlegen?
 
@@ -205,7 +205,7 @@ Prüfen Sie Ihre Unterlagen und sichern Sie Belege. Gibt es Hinweise auf Spam od
 
 ### Hilft es, eine Bewertung mehrmals zu melden?
 
-Google beschreibt keinen Vorteil durch wiederholte Meldungen. Sinnvoller ist eine Meldung mit dem genau passenden Grund, danach der Status im Tool und bei Ablehnung ein begründeter Einspruch.
+In Googles Hilfe haben wir keinen Vorteil durch wiederholte Meldungen gefunden. Sinnvoller ist eine Meldung mit dem genau passenden Grund, danach der Status im Tool und bei Ablehnung ein begründeter Einspruch.
 
 ### Was ist, wenn eine echte positive Bewertung verschwunden ist?
 
@@ -224,4 +224,4 @@ Google entfernt mit automatischer Spamerkennung manchmal auch echte Rezensionen.
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-14. Fehler gefunden? info@localdominate.org

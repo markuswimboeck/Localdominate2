@@ -13,14 +13,14 @@ const article: V4Article = {
   answer:
     "Eine einzelne Ferienwohnung bekommt laut Google kein Unternehmensprofil, ein Vermietungsbüro mit Kundenkontakt schon. Der wichtigste Baustein ist deshalb die **eigene Website**: eine Seite je Wohnung mit Fotos, Preisen, Verfügbarkeit und Hausregeln als Text. Portale bringen neue Gäste, die eigene Website holt sie zurück. Bewertungen, Erwähnungen beim Tourismusverband und gepflegte Stammgäste verstärken beides.",
   takeaways: [
-    "Google nennt Ferienwohnungen ausdrücklich als nicht berechtigt für ein Unternehmensprofil. Ein Vermietungsbüro mit Kundenkontakt zu festen Zeiten kann eines haben, aber nur eines, nicht je Wohnung.",
+    "Google nennt Mietobjekte wie Ferienhäuser ausdrücklich als nicht berechtigt für ein Unternehmensprofil, eine einzelne Ferienwohnung zählt nach unserer Lesart dazu. Ein Vermietungsbüro mit Kundenkontakt zu festen Zeiten kann eines haben, aber nur eines, nicht je Wohnung.",
     "Die eigene Website ist der Kern: eine Seite je Wohnung, Preise und Verfügbarkeit sichtbar, Hausregeln und Anreise als Text.",
     "In Googles Ferienunterkunftssuche erscheinen nur Anbieter, deren Buchungssystem oder Portal mit Google verbunden ist. Einzelne private Vermieter können laut Google nicht direkt teilnehmen.",
     "Portale sind ein Vertriebskanal mit Kosten. Rechnen Sie mit Ihrem eigenen Vertrag, nicht mit Prozentzahlen aus dem Internet.",
     "Stammgäste sind der günstigste Direktkanal. Wer schon einmal da war, braucht keine Suchmaschine, nur einen Grund und einen Link.",
   ],
   publishedAt: "2026-02-25",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-14",
   readingTime: 12,
   sections: [
     {
@@ -54,7 +54,7 @@ const article: V4Article = {
       id: "unternehmensprofil",
       title: "Google-Unternehmensprofil: wer eines bekommt",
       answer:
-        "Googles Berechtigungsrichtlinien nennen Ferienhäuser und zu vermietende Wohnungen ausdrücklich als nicht berechtigt. Vermietungsbüros sind dagegen zulässig, wenn sie Kunden zu den angegebenen Zeiten persönlich empfangen. Ein Profil je Wohnung ist in keinem Fall erlaubt.",
+        "Googles Berechtigungsrichtlinien nennen Miet- und Verkaufsobjekte wie Ferienhäuser, Musterhäuser und leerstehende Wohnungen ausdrücklich als nicht berechtigt. Vermietungsbüros sind dagegen zulässig, wenn sie Kunden zu den angegebenen Zeiten persönlich empfangen. Ein Profil je Wohnung ist in keinem Fall erlaubt.",
       blocks: [
         {
           t: "p",
@@ -220,7 +220,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "Jede Wohnung mit eigenem Fotosatz, kein Austausch von Bildern zwischen Objekten.",
-            "Mindestens ein Foto je Schlafzimmer, Bad und Wohnbereich. Google verlangt in seinen Vorgaben für Ferienunterkünfte von angebundenen Partnern ebenfalls mindestens acht Bilder, darunter Schlafzimmer, Bad und Gemeinschaftsbereich.",
+            "Mindestens ein Foto je Schlafzimmer, Bad und Wohnbereich. Googles Dokumentation zu den strukturierten Daten für Ferienunterkünfte (VacationRental) verlangt mindestens acht Bilder, darunter Schlafzimmer, Bad und Gemeinschaftsbereich.",
             "Jahreszeiten zeigen, wenn Sie Sommer und Winter vermieten.",
             "Dateinamen und Alternativtexte mit Inhalt („Wohnküche mit Blick auf den See“) statt „IMG_4711“.",
             "Bilder für das Web verkleinern, damit die Seite auf dem Handy schnell lädt.",
@@ -316,7 +316,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Bekommt meine Ferienwohnung ein Google-Unternehmensprofil?",
-      a: "Eine einzelne Ferienwohnung nicht. Google nennt Ferienhäuser und zu vermietende Wohnungen ausdrücklich als nicht berechtigt. Ein Vermietungsbüro, das Gäste zu festen Zeiten persönlich empfängt, kann ein Profil haben, und zwar eines für das Büro, nicht eines je Wohnung.",
+      a: "Eine einzelne Ferienwohnung nicht. Google nennt Miet- und Verkaufsobjekte wie Ferienhäuser, Musterhäuser und leerstehende Wohnungen ausdrücklich als nicht berechtigt. Ein Vermietungsbüro, das Gäste zu festen Zeiten persönlich empfängt, kann ein Profil haben, und zwar eines für das Büro, nicht eines je Wohnung.",
     },
     {
       q: "Wie erscheint meine Ferienwohnung in Googles Unterkunftssuche?",

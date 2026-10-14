@@ -220,7 +220,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-14",
     icon: "⭐",
     keywords: ["google reviews", "get reviews", "customer reviews"]
   },
@@ -520,7 +520,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-01-18",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-14",
     icon: "🏥",
     keywords: ["arzt seo", "praxis marketing", "local seo ärzte", "patientengewinnung", "jameda"],
     featured: false
@@ -543,7 +543,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-01-30",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-14",
     icon: "⚖️",
     keywords: ["anwalt seo", "kanzlei marketing", "local seo anwälte", "mandantengewinnung", "anwalt.de"],
     featured: false
@@ -614,7 +614,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-01-16",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-14",
     icon: "🏗️",
     keywords: ["schema markup", "strukturierte daten", "local business schema", "rich snippets", "json-ld"],
     featured: false
@@ -1015,7 +1015,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-01-20",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-14",
     icon: "😤",
     keywords: ["negative bewertungen", "bewertungen beantworten", "reputation management", "schlechte bewertung", "bewertung löschen"],
     featured: false
@@ -1184,7 +1184,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-01-15",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-14",
     icon: "📊",
     keywords: ["steuerberater seo", "buchhalter marketing", "local seo steuerberater", "mandantengewinnung"],
     featured: false
@@ -1253,7 +1253,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 9,
     publishedAt: "2026-01-29",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-14",
     icon: "📸",
     keywords: ["fotograf seo", "fotografen marketing", "local seo fotograf", "hochzeitsfotograf seo"],
     featured: false
@@ -1726,7 +1726,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-14",
     icon: "⭐",
     keywords: ["review schema", "aggregaterating", "sterne google", "rich snippets bewertungen", "schema markup bewertungen", "json-ld review"],
     featured: false
@@ -3032,7 +3032,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-14",
     icon: "🚫",
     keywords: ["gbp suspendiert", "google business suspendiert", "profil reaktivieren", "suspension beheben", "google appeal"]
   },
@@ -3098,7 +3098,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-14",
     icon: "🗑️",
     keywords: ["google bewertung löschen", "fake bewertung melden", "bewertung entfernen", "negative bewertung löschen", "google review löschen"]
   },
@@ -3388,7 +3388,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-02-25",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-14",
     icon: "🏔️",
     keywords: ["seo ferienwohnungen", "ferienwohnung seo schweiz", "vacation rental seo", "direktbuchungen seo", "google my business ferienwohnung", "local seo tourismus"]
   },

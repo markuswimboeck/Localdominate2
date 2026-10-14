@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-aerzte-praxen
 markdown_url: https://localdominate.org/blog-md/local-seo-aerzte-praxen.md
 language: de-DE
 published: 2026-01-18
-updated: 2026-10-10
+updated: 2026-10-14
 reading_time_minutes: 13
 category: "Branchen"
 author: LocalDominate Redaktion
@@ -25,7 +25,7 @@ Praxen werden lokal gefunden wie jeder andere Betrieb: über ein korrektes Googl
 
 ## Das Wichtigste in Kürze
 
-- Google zählt Ärzte und Zahnärzte zu den unabhängigen Fachkräften. Wer mit eigenem Patientenstamm direkt erreichbar ist, darf ein eigenes Profil neben dem Praxisprofil haben, angestellte Ärzte nicht.
+- Google zählt Ärzte und Zahnärzte zu den unabhängigen Fachkräften. Wer mit eigenem Patientenstamm direkt erreichbar ist, darf ein eigenes Profil neben dem Praxisprofil haben, Praxispersonal ohne eigene Patienten nicht.
 - Mehrere Profile für verschiedene Fachgebiete einer Person verbietet Google. Ein Profil je Standort und je berechtigter Person ist die Regel.
 - Werbung für Behandlungen darf nicht irreführen und keinen sicheren Erfolg versprechen. Vorher-Nachher-Bilder sind bei operativen Schönheitseingriffen in Deutschland ausdrücklich verboten.
 - Antworten Sie auf Bewertungen so, dass Sie weder bestätigen, dass jemand Patient ist, noch Details zur Behandlung nennen.
@@ -49,7 +49,7 @@ Wie Google lokale Treffer sortiert und welche Bausteine zählen, steht ausführl
 
 ## Praxisprofil oder Arztprofil: die Regeln von Google
 
-Google zählt Ärzte und Zahnärzte zu den unabhängigen Fachkräften. Eine Fachkraft mit Patientenverkehr, die am Standort direkt erreichbar ist, darf ein eigenes Profil haben. Angestellte dürfen das nicht, und niemand darf mehrere Profile für verschiedene Fachgebiete anlegen.
+Google zählt Ärzte und Zahnärzte zu den unabhängigen Fachkräften. Eine Fachkraft mit Patientenverkehr, die am Standort direkt erreichbar ist, darf ein eigenes Profil haben. Praxispersonal ohne eigene Patienten soll keines anlegen, und niemand soll mehrere Profile für verschiedene Fachgebiete anlegen.
 
 In den Richtlinien für die Darstellung von Unternehmen nennt Google Ärzte und Zahnärzte ausdrücklich als Beispiele für unabhängige Fachkräfte. Damit gibt es an einem Praxisstandort zwei Arten von Profilen: das Profil der Praxis und, wo erlaubt, die Profile einzelner Ärztinnen und Ärzte.
 
@@ -58,7 +58,7 @@ In den Richtlinien für die Darstellung von Unternehmen nennt Google Ärzte und 
 | Situation | Was Google vorsieht |
 | --- | --- |
 | Gemeinschaftspraxis oder Praxis mit mehreren Inhabern | Ein Profil für die Praxis. Zusätzlich darf jede Ärztin, die mit eigenem Patientenstamm direkt erreichbar ist, ein eigenes Profil haben. Der Profilname enthält dann nur den Namen der Person, ein Titel wie Dr. med. ist erlaubt. |
-| Angestellte Ärztinnen und Ärzte | Kein eigenes Profil. Stellen Sie sie auf der Website und mit Fotos im Praxisprofil vor. |
+| Angestellte ohne eigenen Patientenstamm, Praxispersonal | Kein eigenes Profil. Stellen Sie sie auf der Website und mit Fotos im Praxisprofil vor. |
 | Einzelpraxis, nur eine Ärztin hat Patientenkontakt | Ein gemeinsames Profil. Google empfiehlt das Format „Praxisname: Name der Ärztin“. |
 | Eine Person mit mehreren Schwerpunkten | Ein Profil. Mehrere Profile für verschiedene Fachgebiete sind nicht erlaubt. |
 | Abteilungen einer Klinik | Eigene Profile möglich, wenn der Name sich vom Namen der Klinik und von anderen Abteilungen unterscheidet. Abweichende Zeiten gehören dann in das jeweilige Abteilungsprofil. |
@@ -84,7 +84,7 @@ Sachliche Information über Qualifikation, Leistungen und Organisation ist erlau
 
 **Deutschland.** Die Musterberufsordnung der Bundesärztekammer erlaubt in § 27 sachliche berufsbezogene Informationen und nennt anpreisende, irreführende oder vergleichende Werbung ausdrücklich berufswidrig. Ärzte dürfen solche Werbung auch nicht durch andere veranlassen oder dulden, das betrifft auch Agenturen und Portale. Rechtlich bindend ist die Berufsordnung Ihrer Landesärztekammer, die sich an diesem Muster orientiert. Für Zahnärzte und Psychotherapeuten gelten die Berufsordnungen ihrer eigenen Kammern.
 
-Das **Heilmittelwerbegesetz (HWG)** gilt für alle, die für Behandlungen werben, nicht nur für Ärzte. § 3 nennt es irreführend, wenn fälschlich der Eindruck erweckt wird, ein Erfolg könne mit Sicherheit erwartet werden. § 11 regelt Werbung gegenüber Patienten, zum Beispiel mit Krankengeschichten, Bildern von Veränderungen des Körpers oder Äußerungen Dritter, wenn diese missbräuchlich, abstoßend oder irreführend sind. Für operative plastisch-chirurgische Eingriffe ist Werbung mit Vorher-Nachher-Vergleichen ausdrücklich verboten.
+Das **Heilmittelwerbegesetz (HWG)** gilt für alle, die für Behandlungen werben, nicht nur für Ärzte. § 3 nennt es irreführend, wenn fälschlich der Eindruck erweckt wird, ein Erfolg könne mit Sicherheit erwartet werden. § 11 regelt Werbung gegenüber Patienten, zum Beispiel mit Krankengeschichten, Bildern von Veränderungen des Körpers oder Äußerungen Dritter, wenn diese missbräuchlich, abstoßend oder irreführend sind. Für operative plastisch-chirurgische Eingriffe ist Werbung mit Vorher-Nachher-Vergleichen ausdrücklich verboten. Der Bundesgerichtshof zählt dazu auch Unterspritzungen mit Hyaluronsäure, die Form oder Aussehen verändern (Urteil vom 31. Juli 2025, I ZR 170/24).
 
 **Österreich.** Das Ärztegesetz verpflichtet in § 53, sich jeder unsachlichen, unwahren oder das Standesansehen beeinträchtigenden Information zu enthalten. Die Österreichische Ärztekammer kann dazu nähere Vorschriften erlassen. **Schweiz.** Die Standesordnung der FMH erlaubt, Qualifikationen zurückhaltend und unaufdringlich bekanntzugeben, und verlangt, unsachliche oder unwahre Werbung zu unterlassen. Details stehen in den FMH-Richtlinien „Information und Werbung“.
 
@@ -95,7 +95,7 @@ Das **Heilmittelwerbegesetz (HWG)** gilt für alle, die für Behandlungen werben
 | „Fachärztin für Dermatologie, Tätigkeitsschwerpunkt Allergologie“ (wie von der Kammer anerkannt) | „Die beste Hautärztin der Stadt“ |
 | „Wir bieten Wurzelkanalbehandlungen unter dem Mikroskop an.“ | „Schmerzfrei und garantiert erfolgreich“ |
 | Ablauf, Dauer und Kostenübernahme sachlich beschreiben | Patientenzitate oder Fallgeschichten als Werbemittel |
-| Fotos von Praxis und Team | Vorher-Nachher-Bilder, bei Schönheitsoperationen in Deutschland verboten |
+| Fotos von Praxis und Team | Vorher-Nachher-Bilder, bei operativen Schönheitseingriffen in Deutschland verboten |
 
 > **Kein Rechtsrat:** Ob eine konkrete Formulierung zulässig ist, hängt vom Einzelfall und vom Land ab. Bei Bildern von Behandlungsergebnissen, Patientenstimmen und Aussagen zur Wirksamkeit lassen Sie die Texte vor der Veröffentlichung juristisch prüfen.
 
@@ -184,7 +184,7 @@ Eine Prüfliste für den Ist-Zustand finden Sie in der [Local-SEO-Audit-Checklis
 
 ### Darf jede Ärztin einer Gemeinschaftspraxis ein eigenes Google-Profil haben?
 
-Ja, wenn sie mit eigenem Patientenstamm am Standort direkt erreichbar ist. Angestellte Ärztinnen und Ärzte dürfen laut Google kein eigenes Profil anlegen. Mehrere Profile für verschiedene Fachgebiete einer Person sind ebenfalls nicht erlaubt.
+Ja, wenn sie mit eigenem Patientenstamm am Standort direkt erreichbar ist. Praxispersonal ohne eigene Patienten soll laut Google kein eigenes Profil anlegen. Mehrere Profile für verschiedene Fachgebiete einer Person sind ebenfalls nicht vorgesehen.
 
 ### Darf ich Patienten um eine Google-Bewertung bitten?
 
@@ -223,4 +223,4 @@ Bei LocalDominate kostet der Profil Quick-Fix 79 €, die vollständige Profil-O
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-14. Fehler gefunden? info@localdominate.org

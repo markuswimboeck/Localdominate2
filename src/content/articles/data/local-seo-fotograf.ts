@@ -21,7 +21,7 @@ const article: V4Article = {
     "Messen Sie Aufrufe, Anrufe, Routenanfragen und Anfragen, nicht nur Ihre Position.",
   ],
   publishedAt: "2026-01-29",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-14",
   readingTime: 9,
   sections: [
     {
@@ -142,7 +142,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Vorsicht bei Städteseiten",
-          text: "Eine Seite je Stadt mit gleichem Text und nur ausgetauschtem Ortsnamen ist das Muster, das Google als Doorway-Missbrauch beschreibt. Legen Sie Ortsseiten nur für Orte an, in denen Sie tatsächlich arbeiten, und mit eigenen Angaben zu Anfahrt, Location oder Erfahrung.",
+          text: "Eine Seite je Stadt mit gleichem Text und nur ausgetauschtem Ortsnamen entspricht dem Muster, das Google in seinen Spam-Richtlinien als Doorway-Missbrauch einordnet. Legen Sie Ortsseiten nur für Orte an, in denen Sie tatsächlich arbeiten, und mit eigenen Angaben zu Anfahrt, Location oder Erfahrung.",
         },
         {
           t: "p",
@@ -192,7 +192,7 @@ const article: V4Article = {
           head: ["Erlaubt", "Nicht erlaubt"],
           rows: [
             ["Kunden nach der Übergabe um eine Bewertung bitten", "Geld, Rabatte oder Gratisleistungen für eine Bewertung anbieten"],
-            ["Einen direkten Google-Link zum Bewerten schicken", "Bewertungen ändern lassen oder negative Bewertungen entfernen lassen"],
+            ["Einen direkten Google-Link zum Bewerten schicken", "Anreize für das Ändern oder Entfernen von Bewertungen bieten"],
           ],
         },
         {
@@ -239,7 +239,7 @@ const article: V4Article = {
     },
     {
       q: "Darf ich Kunden um eine Bewertung bitten?",
-      a: "Ja. Google erlaubt es, Kunden um eine Bewertung zu bitten. Verboten sind Anreize wie Geld, Rabatte oder Gratisleistungen dafür sowie das Ändern oder Entfernen von Bewertungen.",
+      a: "Ja. Google erlaubt es, Kunden um eine Bewertung zu bitten. Verboten sind Anreize wie Geld, Rabatte oder Gratisleistungen dafür, auch für das Ändern oder Entfernen einer Bewertung.",
     },
     {
       q: "Wie lange dauert es, bis Änderungen im Profil sichtbar sind?",

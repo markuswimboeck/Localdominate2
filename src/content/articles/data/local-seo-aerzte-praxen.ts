@@ -13,14 +13,14 @@ const article: V4Article = {
   answer:
     "Praxen werden lokal gefunden wie jeder andere Betrieb: über ein korrektes Google-Unternehmensprofil, eine Website mit einer Seite je Leistung und echte Bewertungen. Drei Dinge sind anders. Google hat eigene Regeln für Ärzte als **unabhängige Fachkräfte**, das Werberecht verbietet Heilversprechen und irreführende Darstellungen, und die **Schweigepflicht** gilt auch in jeder Antwort auf eine Bewertung.",
   takeaways: [
-    "Google zählt Ärzte und Zahnärzte zu den unabhängigen Fachkräften. Wer mit eigenem Patientenstamm direkt erreichbar ist, darf ein eigenes Profil neben dem Praxisprofil haben, angestellte Ärzte nicht.",
+    "Google zählt Ärzte und Zahnärzte zu den unabhängigen Fachkräften. Wer mit eigenem Patientenstamm direkt erreichbar ist, darf ein eigenes Profil neben dem Praxisprofil haben, Praxispersonal ohne eigene Patienten nicht.",
     "Mehrere Profile für verschiedene Fachgebiete einer Person verbietet Google. Ein Profil je Standort und je berechtigter Person ist die Regel.",
     "Werbung für Behandlungen darf nicht irreführen und keinen sicheren Erfolg versprechen. Vorher-Nachher-Bilder sind bei operativen Schönheitseingriffen in Deutschland ausdrücklich verboten.",
     "Antworten Sie auf Bewertungen so, dass Sie weder bestätigen, dass jemand Patient ist, noch Details zur Behandlung nennen.",
     "Ein Kontaktformular, das nach Beschwerden oder Diagnosen fragt, verarbeitet Gesundheitsdaten. Fragen Sie nur ab, was Sie für die Terminvergabe brauchen.",
   ],
   publishedAt: "2026-01-18",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-14",
   readingTime: 13,
   sections: [
     {
@@ -54,7 +54,7 @@ const article: V4Article = {
       id: "praxisprofil-oder-arztprofil",
       title: "Praxisprofil oder Arztprofil: die Regeln von Google",
       answer:
-        "Google zählt Ärzte und Zahnärzte zu den unabhängigen Fachkräften. Eine Fachkraft mit Patientenverkehr, die am Standort direkt erreichbar ist, darf ein eigenes Profil haben. Angestellte dürfen das nicht, und niemand darf mehrere Profile für verschiedene Fachgebiete anlegen.",
+        "Google zählt Ärzte und Zahnärzte zu den unabhängigen Fachkräften. Eine Fachkraft mit Patientenverkehr, die am Standort direkt erreichbar ist, darf ein eigenes Profil haben. Praxispersonal ohne eigene Patienten soll keines anlegen, und niemand soll mehrere Profile für verschiedene Fachgebiete anlegen.",
       blocks: [
         {
           t: "p",
@@ -66,7 +66,7 @@ const article: V4Article = {
           head: ["Situation", "Was Google vorsieht"],
           rows: [
             ["Gemeinschaftspraxis oder Praxis mit mehreren Inhabern", "Ein Profil für die Praxis. Zusätzlich darf jede Ärztin, die mit eigenem Patientenstamm direkt erreichbar ist, ein eigenes Profil haben. Der Profilname enthält dann nur den Namen der Person, ein Titel wie Dr. med. ist erlaubt."],
-            ["Angestellte Ärztinnen und Ärzte", "Kein eigenes Profil. Stellen Sie sie auf der Website und mit Fotos im Praxisprofil vor."],
+            ["Angestellte ohne eigenen Patientenstamm, Praxispersonal", "Kein eigenes Profil. Stellen Sie sie auf der Website und mit Fotos im Praxisprofil vor."],
             ["Einzelpraxis, nur eine Ärztin hat Patientenkontakt", "Ein gemeinsames Profil. Google empfiehlt das Format „Praxisname: Name der Ärztin“."],
             ["Eine Person mit mehreren Schwerpunkten", "Ein Profil. Mehrere Profile für verschiedene Fachgebiete sind nicht erlaubt."],
             ["Abteilungen einer Klinik", "Eigene Profile möglich, wenn der Name sich vom Namen der Klinik und von anderen Abteilungen unterscheidet. Abweichende Zeiten gehören dann in das jeweilige Abteilungsprofil."],
@@ -132,7 +132,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Das **Heilmittelwerbegesetz (HWG)** gilt für alle, die für Behandlungen werben, nicht nur für Ärzte. § 3 nennt es irreführend, wenn fälschlich der Eindruck erweckt wird, ein Erfolg könne mit Sicherheit erwartet werden. § 11 regelt Werbung gegenüber Patienten, zum Beispiel mit Krankengeschichten, Bildern von Veränderungen des Körpers oder Äußerungen Dritter, wenn diese missbräuchlich, abstoßend oder irreführend sind. Für operative plastisch-chirurgische Eingriffe ist Werbung mit Vorher-Nachher-Vergleichen ausdrücklich verboten.",
+          text: "Das **Heilmittelwerbegesetz (HWG)** gilt für alle, die für Behandlungen werben, nicht nur für Ärzte. § 3 nennt es irreführend, wenn fälschlich der Eindruck erweckt wird, ein Erfolg könne mit Sicherheit erwartet werden. § 11 regelt Werbung gegenüber Patienten, zum Beispiel mit Krankengeschichten, Bildern von Veränderungen des Körpers oder Äußerungen Dritter, wenn diese missbräuchlich, abstoßend oder irreführend sind. Für operative plastisch-chirurgische Eingriffe ist Werbung mit Vorher-Nachher-Vergleichen ausdrücklich verboten. Der Bundesgerichtshof zählt dazu auch Unterspritzungen mit Hyaluronsäure, die Form oder Aussehen verändern (Urteil vom 31. Juli 2025, I ZR 170/24).",
         },
         {
           t: "p",
@@ -146,7 +146,7 @@ const article: V4Article = {
             ["„Fachärztin für Dermatologie, Tätigkeitsschwerpunkt Allergologie“ (wie von der Kammer anerkannt)", "„Die beste Hautärztin der Stadt“"],
             ["„Wir bieten Wurzelkanalbehandlungen unter dem Mikroskop an.“", "„Schmerzfrei und garantiert erfolgreich“"],
             ["Ablauf, Dauer und Kostenübernahme sachlich beschreiben", "Patientenzitate oder Fallgeschichten als Werbemittel"],
-            ["Fotos von Praxis und Team", "Vorher-Nachher-Bilder, bei Schönheitsoperationen in Deutschland verboten"],
+            ["Fotos von Praxis und Team", "Vorher-Nachher-Bilder, bei operativen Schönheitseingriffen in Deutschland verboten"],
           ],
         },
         {
@@ -307,7 +307,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Darf jede Ärztin einer Gemeinschaftspraxis ein eigenes Google-Profil haben?",
-      a: "Ja, wenn sie mit eigenem Patientenstamm am Standort direkt erreichbar ist. Angestellte Ärztinnen und Ärzte dürfen laut Google kein eigenes Profil anlegen. Mehrere Profile für verschiedene Fachgebiete einer Person sind ebenfalls nicht erlaubt.",
+      a: "Ja, wenn sie mit eigenem Patientenstamm am Standort direkt erreichbar ist. Praxispersonal ohne eigene Patienten soll laut Google kein eigenes Profil anlegen. Mehrere Profile für verschiedene Fachgebiete einer Person sind ebenfalls nicht vorgesehen.",
     },
     {
       q: "Darf ich Patienten um eine Google-Bewertung bitten?",

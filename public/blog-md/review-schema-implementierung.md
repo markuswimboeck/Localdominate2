@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/review-schema-implementierung
 markdown_url: https://localdominate.org/blog-md/review-schema-implementierung.md
 language: de-DE
 published: 2026-03-05
-updated: 2026-10-10
+updated: 2026-10-14
 reading_time_minutes: 11
 category: "Technik"
 author: LocalDominate Redaktion
@@ -115,10 +115,10 @@ Google schreibt in seiner Hilfe zum lokalen Ranking, dass mehr Rezensionen und p
 
 ## Review und AggregateRating korrekt umsetzen, wo es erlaubt ist
 
-Betten Sie die Bewertung in den Typ des bewerteten Objekts ein, etwa in Product oder Recipe. Zeichnen Sie nur Bewertungen aus, die auf der Seite sichtbar sind, nehmen Sie alle sichtbaren auf und halten Sie Durchschnitt und Anzahl mit der Anzeige gleich.
+Betten Sie die Bewertung in den Typ des bewerteten Objekts ein, etwa in Product oder Recipe. Zeichnen Sie nur Bewertungen aus, die auf der Seite sichtbar sind, nehmen Sie möglichst alle sichtbaren auf und halten Sie Durchschnitt und Anzahl mit der Anzeige gleich.
 
 1. **Berechtigung prüfen.** Ist das bewertete Objekt ein unterstützter Typ (Produkt, Rezept, Kurs, Buch, Veranstaltung, Software)? Bewerten die Kunden dieses Objekt und nicht Ihren Betrieb als Ganzes? Nur dann weitermachen.
-2. **Bewertungen sichtbar machen.** Die Bewertungen und der Durchschnitt müssen auf derselben Seite für Besucher lesbar sein. Google verlangt außerdem, dass das Markup alle sichtbaren Bewertungen umfasst.
+2. **Bewertungen sichtbar machen.** Die Bewertungen und der Durchschnitt müssen auf derselben Seite für Besucher lesbar sein. Google verlangt, dass ausgezeichnete Bewertungen für Besucher sichtbar sind. Empfehlenswert ist, alle sichtbaren Bewertungen aufzunehmen, damit Markup und Anzeige übereinstimmen.
 3. **Markup einbetten.** AggregateRating und einzelne Reviews gehören als Eigenschaft in das Objekt, das bewertet wird. Dann entfällt itemReviewed, Google übernimmt den Namen des übergeordneten Objekts.
 4. **Werte automatisch erzeugen.** Lassen Sie Durchschnitt und Anzahl aus derselben Datenquelle berechnen, die auch die Anzeige speist. Von Hand gepflegte Zahlen weichen schnell ab.
 5. **Testen und veröffentlichen.** Code im Test für Rich-Suchergebnisse prüfen, einige Seiten live stellen, mit der URL-Prüfung in der Search Console kontrollieren, dann ausrollen.
@@ -170,7 +170,7 @@ Verstößt Markup gegen Googles Richtlinien, kann Google eine manuelle Maßnahme
 | --- | --- |
 | Bewertungen im Markup, die auf der Seite nicht zu sehen sind | Nicht sichtbare Inhalte dürfen nicht ausgezeichnet werden |
 | Erfundene Bewertungen oder Wertungen nicht von echten Nutzern | Kann zu einer manuellen Maßnahme führen |
-| Nur ausgewählte Bewertungen ins Markup, andere sichtbare weglassen | Alle sichtbaren Bewertungen sollen enthalten sein |
+| Nur ausgewählte Bewertungen ins Markup, andere sichtbare weglassen | Eine ausdrückliche Pflicht dazu haben wir in den Richtlinien nicht gefunden. Markup und sichtbare Bewertungen sollten übereinstimmen |
 | Bewertungen von anderen Websites zusammenfassen | Ausdrücklich nicht erlaubt |
 | Ein Rating für eine ganze Kategorie oder Liste statt für ein Objekt | Bewertungen müssen ein bestimmtes Objekt betreffen |
 | Self-serving Markup für den eigenen Betrieb | Keine Sterne, aber allein dafür keine manuelle Maßnahme |
@@ -197,7 +197,7 @@ Für Produkte im eigenen Shop, Rezepte, Bücher, Kurse, Veranstaltungen, Filme u
 
 ### Beeinflussen Sterne das Ranking?
 
-Sterne sind eine Darstellungsform im Suchergebnis. Google nennt Bewertungsmarkup nicht als Rankingfaktor. Eine manuelle Maßnahme wegen strukturierter Daten kostet laut Google die Rich-Suchergebnisse, nicht die Position in der Websuche.
+Sterne sind eine Darstellungsform im Suchergebnis. Einen Hinweis, dass Bewertungsmarkup das Ranking beeinflusst, haben wir in Googles Dokumentation nicht gefunden. Eine manuelle Maßnahme wegen strukturierter Daten kostet laut Google die Rich-Suchergebnisse, nicht die Position in der Websuche.
 
 ### Zeigt der Test für Rich-Suchergebnisse, ob ich Sterne bekomme?
 
@@ -216,4 +216,4 @@ Nein. Er zeigt, ob der Code gültig ist und die Pflichtangaben enthält. Ob Goog
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-14. Fehler gefunden? info@localdominate.org

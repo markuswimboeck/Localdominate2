@@ -20,7 +20,7 @@ const article: V4Article = {
     "Google empfiehlt JSON-LD und kann es auch lesen, wenn es per JavaScript eingefügt wird.",
   ],
   publishedAt: "2026-01-16",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-14",
   readingTime: 11,
   sections: [
     {
@@ -85,7 +85,7 @@ const article: V4Article = {
           caption: "Felder für LocalBusiness laut Google Search Central",
           head: ["Feld", "Status", "Worauf Sie achten"],
           rows: [
-            ["@type", "Pflicht", "So genau wie möglich, etwa Restaurant, Dentist, HealthClub oder Plumber. Mehrere Typen als Liste, additionalType unterstützt Google nicht"],
+            ["@type", "Voraussetzung", "So genau wie möglich, etwa Restaurant, Dentist, HealthClub oder Plumber. Mehrere Typen als Liste, additionalType unterstützt Google nicht"],
             ["name", "Pflicht", "Der echte Name, wie im Unternehmensprofil und auf dem Schild"],
             ["address", "Pflicht", "Vollständige Postanschrift mit Straße, Ort, Postleitzahl und Land"],
             ["geo", "Empfohlen", "Breiten- und Längengrad mit mindestens fünf Nachkommastellen"],
