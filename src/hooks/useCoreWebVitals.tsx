@@ -1,5 +1,4 @@
 import { useEffect, useCallback, useRef } from "react";
-import { supabase } from "@/integrations/supabase/client";
 
 interface WebVitalMetric {
   name: string;
@@ -74,6 +73,8 @@ export const useCoreWebVitals = (trackToDatabase = false) => {
     // Optionally track to database
     if (trackToDatabase) {
       try {
+        // Loaded only when needed, so pages without database tracking do not download the Supabase client.
+        const { supabase } = await import("@/integrations/supabase/client");
         await supabase.from("analytics_events").insert({
           session_id: sessionId.current,
           event_type: "web_vital",

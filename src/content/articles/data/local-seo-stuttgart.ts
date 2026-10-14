@@ -17,10 +17,10 @@ const article: V4Article = {
     "Nach unserer Einschätzung entscheidet oft die Entfernung, wer im Kartenblock erscheint. Ziel ist Sichtbarkeit dort, wo Ihre Kunden sind, nicht in der ganzen Region.",
     "Viele Betriebe bedienen auch Gemeinden in den Landkreisen Böblingen, Esslingen, Göppingen, Ludwigsburg und Rems-Murr. Nennen Sie nur die, in denen Sie tatsächlich arbeiten.",
     "Eine Seite je Stadtbezirk mit austauschbarem Text ist nach unserer Einschätzung riskant. Googles Spam-Richtlinien nennen Seiten für Regionen oder Städte, die alle zum selben Ziel führen, als Missbrauch von Brückenseiten.",
-    "Frühlingsfest, Weindorf, Cannstatter Volksfest und Weihnachtsmarkt haben feste Termine. Pflegen Sie Öffnungszeiten und Hinweise rechtzeitig, wenn sie Ihren Betrieb betreffen.",
+    "Frühlingsfest, Weindorf, Cannstatter Volksfest und Weihnachtsmarkt kehren jedes Jahr wieder, die Termine veröffentlicht Stuttgart-Marketing jährlich neu. Pflegen Sie Öffnungszeiten und Hinweise rechtzeitig, wenn sie Ihren Betrieb betreffen.",
   ],
   publishedAt: "2026-02-12",
-  updatedAt: "2026-10-12",
+  updatedAt: "2026-10-13",
   readingTime: 11,
   sections: [
     {
@@ -73,7 +73,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Relevanz**: genaue Hauptkategorie, einzeln eingetragene Leistungen, eine eigene Seite je Leistung auf der Website.",
-            "**Beliebtheit**: echte Bewertungen und Websites, die auf Ihren Betrieb verweisen, etwa von Kammern, Verbänden, Vereinen und lokalen Medien. Beides nennt Googles Hilfe für diesen Faktor.",
+            "**Beliebtheit**: echte Bewertungen und Websites, die auf Ihren Betrieb verweisen. Beides nennt Googles Hilfe für diesen Faktor. Welche Seiten das in Stuttgart sein können, etwa Kammern, Verbände, Vereine oder lokale Medien, ist unsere Einschätzung.",
             "**Suchen mit Ortsangabe**: Wer „Elektriker Feuerbach“ oder „Zahnarzt Vaihingen“ sucht, nennt den Ort selbst. Dann zählt, ob Website und Profil den Bezirk glaubwürdig nennen.",
           ],
         },
@@ -155,7 +155,7 @@ const article: V4Article = {
       id: "bezirksseiten",
       title: "Seiten für Bezirke und Gemeinden ohne Brückenseiten",
       answer:
-        "23 Bezirksseiten mit demselben Text und ausgetauschtem Ortsnamen sind nach unserer Einschätzung riskant. Google nennt als Missbrauch von Brückenseiten Seiten, die auf bestimmte Regionen oder Städte zielen und Nutzer zur selben Seite leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website. Eine eigene Seite lohnt sich nur mit Inhalten, die es nur für diesen Ort gibt.",
+        "23 Bezirksseiten mit demselben Text und ausgetauschtem Ortsnamen sind nach unserer Einschätzung riskant. Google nennt als Missbrauch von Brückenseiten Seiten, die auf bestimmte Regionen oder Städte zielen und Nutzer zur selben Seite leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie. Eine eigene Seite lohnt sich nur mit Inhalten, die es nur für diesen Ort gibt.",
       blocks: [
         {
           t: "table",
@@ -176,7 +176,7 @@ const article: V4Article = {
       id: "feste-und-saison",
       title: "Feste und Saison: Wasen, Weindorf und Weihnachtsmarkt",
       answer:
-        "Stuttgart hat große, wiederkehrende Feste mit festen Terminen. Wenn sie Ihre Öffnungszeiten, Ihre Erreichbarkeit oder Ihr Angebot betreffen, pflegen Sie Sonderöffnungszeiten und Hinweise im Profil und auf der Website rechtzeitig.",
+        "Stuttgart hat große, jedes Jahr wiederkehrende Feste. Wenn sie Ihre Öffnungszeiten, Ihre Erreichbarkeit oder Ihr Angebot betreffen, pflegen Sie Sonderöffnungszeiten und Hinweise im Profil und auf der Website rechtzeitig.",
       blocks: [
         {
           t: "table",
@@ -287,7 +287,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Brauche ich für jeden Stuttgarter Stadtbezirk eine eigene Seite?",
-      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten Seiten für einzelne Regionen oder Städte, die alle zum selben Ziel führen, und im Wesentlichen ähnliche Seiten, die eher wie Suchergebnisse wirken. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für diesen Bezirk gibt. Sonst nennen Sie die Bezirke auf der Leistungsseite.",
+      a: "Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten Seiten für einzelne Regionen oder Städte, die alle zum selben Ziel führen, und im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für diesen Bezirk gibt. Sonst nennen Sie die Bezirke auf der Leistungsseite.",
     },
     {
       q: "Darf ich „Stuttgart“ oder meinen Stadtbezirk in den Namen des Unternehmensprofils schreiben?",

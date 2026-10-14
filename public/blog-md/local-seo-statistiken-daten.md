@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-statistiken-daten
 markdown_url: https://localdominate.org/blog-md/local-seo-statistiken-daten.md
 language: de-DE
 published: 2026-03-08
-updated: 2026-10-12
+updated: 2026-10-13
 reading_time_minutes: 12
 category: "Daten"
 author: LocalDominate Redaktion
@@ -27,7 +27,7 @@ Belastbare Zahlen zur lokalen Suche sind selten. Amtliche Statistiken zeigen, wi
 
 - Laut Eurostat nutzten 2025 in der EU 94 % der Menschen von 16 bis 74 Jahren das Internet in den letzten drei Monaten. Das ist eine amtliche Zahl mit Jahr, Region und Altersgruppe.
 - Die bekannte Verbraucherumfrage von BrightLocal befragte 2026 laut eigener Angabe 1.002 Erwachsene in den USA. Für Deutschland, Österreich und die Schweiz ist sie höchstens ein Hinweis.
-- Google veröffentlicht keinen aktuellen Anteil „lokaler Suchen“ an allen Suchen. Die letzte Angabe von Google stammt von 2016 und betraf nur mobile Suchen. Zahlen wie „46 % aller Suchen sind lokal“ sollten Sie ohne Originalquelle nicht verwenden.
+- Wir haben keine aktuelle Angabe von Google zum Anteil „lokaler Suchen“ an allen Suchen gefunden. Die einzige, die wir gefunden haben, stammt von 2016 und betraf nur mobile Suchen: Laut Google bezog sich damals fast ein Drittel davon auf einen Ort. Zahlen wie „46 % aller Suchen sind lokal“ sollten Sie ohne Originalquelle nicht verwenden.
 - Eine Zahl ohne Herausgeber, Jahr, Land und Stichprobe ist keine Statistik, sondern eine Behauptung.
 - Ihre eigenen Daten aus Unternehmensprofil, Search Console und Web-Analyse sagen mehr über Ihren Betrieb als jede Branchenstatistik. Eine Tabelle mit sechs bis acht Werten pro Monat reicht für den Anfang.
 
@@ -67,7 +67,7 @@ Die meistzitierte Umfrage zu Bewertungen ist der Local Consumer Review Survey vo
 | Aussage laut BrightLocal | Wert | Was Sie daraus ableiten können |
 | --- | --- | --- |
 | Befragte, die Online-Bewertungen lesen | 97 % | Bewertungen sind für fast alle Befragten Teil der Entscheidung, zumindest in den USA |
-| Anteil von Google als Quelle für Bewertungen | 71 % (2025: 83 %) | Google bleibt die wichtigste Plattform, andere Quellen gewinnen an Gewicht |
+| Anteil von Google als Quelle für Bewertungen | 71 % (2025: 83 %) | Google bleibt laut BrightLocal mit Abstand die meistgenutzte Quelle, verliert aber Anteile, während etwa Videoplattformen zulegen |
 | Befragte, die Bewertungen der letzten drei Monate suchen | 74 % | Laufende Bewertungen zählen mehr als eine große, alte Zahl |
 | Nutzung von ChatGPT und anderer generativer KI für lokale Empfehlungen | 45 % (Vorjahr: 6 %) | Ein starker Sprung in einem Jahr. BrightLocal nennt die genaue Fragestellung auf der Ergebnisseite nicht, zitieren Sie die Zahl deshalb vorsichtig |
 
@@ -77,7 +77,7 @@ So verwendet ist die Umfrage nützlich: als Richtung, nicht als Messwert für Ih
 
 ## Was Google selbst angibt und was nicht
 
-Google veröffentlicht keinen aktuellen Anteil lokaler Suchen an allen Suchen und keine Gewichtung von Rankingfaktoren. Google dokumentiert aber genau, was die Leistungsdaten im Unternehmensprofil und die Berichte der Search Console zählen. Diese Definitionen sind die verlässlichste Grundlage für eigene Zahlen.
+Eine aktuelle Angabe von Google zum Anteil lokaler Suchen an allen Suchen und eine Gewichtung von Rankingfaktoren haben wir nicht gefunden. Google dokumentiert aber genau, was die Leistungsdaten im Unternehmensprofil und die Berichte der Search Console zählen. Diese Definitionen sind die verlässlichste Grundlage für eigene Zahlen.
 
 Viele Statistiken werden Google zugeschrieben, ohne dass es eine Google-Seite dazu gibt. Typisch sind Sätze wie „fast die Hälfte aller Google-Suchen hat lokale Absicht“. Eine aktuelle Veröffentlichung von Google mit dieser Zahl haben wir nicht gefunden. Was Google zum lokalen Ranking tatsächlich schreibt und was nur vermutet wird, ordnet [Google-Maps-Ranking-Faktoren](https://localdominate.org/blog/google-maps-seo-ranking-faktoren) ein.
 
@@ -173,7 +173,7 @@ Wer zusätzlich Positionen in Google Maps verfolgen will, findet die Methode in 
 
 ### Wie viele Google-Suchen sind lokal?
 
-Dafür gibt es keine aktuelle, von Google veröffentlichte Zahl. Werte wie „46 %“ kursieren seit Jahren ohne nachvollziehbare Originalquelle. Verwenden Sie stattdessen Ihre eigenen Suchanfragen im Unternehmensprofil und in der Search Console.
+Eine aktuelle, von Google veröffentlichte Zahl dafür haben wir nicht gefunden. Die einzige Angabe von Google, die wir kennen, stammt von 2016 und betraf mobile Suchen. Werte wie „46 %“ kursieren seit Jahren ohne nachvollziehbare Originalquelle. Verwenden Sie stattdessen Ihre eigenen Suchanfragen im Unternehmensprofil und in der Search Console.
 
 ### Kann ich die BrightLocal-Zahlen für meinen Betrieb in Deutschland verwenden?
 
@@ -204,4 +204,4 @@ Wir haben sie entfernt, weil für die meisten keine nachvollziehbare Originalque
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-13. Fehler gefunden? info@localdominate.org

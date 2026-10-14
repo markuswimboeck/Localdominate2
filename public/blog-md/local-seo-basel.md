@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-basel
 markdown_url: https://localdominate.org/blog-md/local-seo-basel.md
 language: de-DE
 published: 2026-02-24
-updated: 2026-10-12
+updated: 2026-10-13
 reading_time_minutes: 11
 category: "Städte"
 author: LocalDominate Redaktion
@@ -37,7 +37,7 @@ Die Grundlagen sind dieselben wie überall: Unternehmensprofil, Website, einheit
 
 Wenn Sie die Grundlagen noch nicht kennen, beginnen Sie mit dem [Local-SEO-Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo). Was in der ganzen Schweiz gilt, etwa zu Sprachen, Verzeichnissen und Impressum, steht in [Local SEO in der Schweiz](https://localdominate.org/blog/local-seo-schweiz). Dieser Artikel ergänzt beides um das, was in Basel anders ist.
 
-Laut Statistischem Amt lebten Ende 2025 im Kanton Basel-Stadt rund 210'500 Menschen. Der Kanton umfasst die Stadt Basel und die beiden Landgemeinden Riehen und Bettingen. Laut Kanton ist die grenzüberschreitende Agglomeration mit Gemeinden in der Schweiz, in Deutschland und in Frankreich deutlich grösser: rund 800'000 Einwohnerinnen und Einwohner.
+Laut Statistischem Amt lebten Ende 2025 im Kanton Basel-Stadt gut 210'500 Menschen. Der Kanton umfasst die Stadt Basel und die beiden Landgemeinden Riehen und Bettingen. Laut Kanton ist die grenzüberschreitende Agglomeration mit Gemeinden in der Schweiz, in Deutschland und in Frankreich deutlich grösser: rund 800'000 Einwohnerinnen und Einwohner.
 
 *Was sich in Basel verschiebt (Einschätzung)*
 
@@ -109,7 +109,7 @@ Die vollständige Anleitung zu Kategorien, Leistungen, Fotos und Beschreibung st
 
 ## Seiten für Quartiere und Grenzorte ohne Brückenseiten
 
-Eine eigene Seite für ein Quartier oder einen Ort jenseits der Grenze lohnt sich nur mit Inhalten, die es nur dort gibt. Google nennt als Missbrauch von Brückenseiten Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer zur selben Seite leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar gegliederten Website.
+Eine eigene Seite für ein Quartier oder einen Ort jenseits der Grenze lohnt sich nur mit Inhalten, die es nur dort gibt. Google nennt als Missbrauch von Brückenseiten Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind und Nutzer zur selben Seite leiten, sowie im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie.
 
 *Orts- oder Quartierseite: hilfreich oder Brückenseite*
 
@@ -132,7 +132,7 @@ Googles Hilfe nennt für die Beliebtheit unter anderem Websites, die auf Ihr Unt
 | Handelskammer beider Basel (HKBB) | Handelskammer der Region, bietet laut Kanton unter anderem Unterstützung bei Export und Import | Ob eine Mitgliedschaft passt, Veranstaltungen, Mitarbeit in Gremien |
 | Gewerbeverband Basel-Stadt | Gewerbeverband, laut Kanton Partner beim KMU-Förderprogramm Basel2037 | Ob eine Mitgliedschaft passt, Anlässe, Mitteilungen |
 | Berufs- und Branchenverbände | Je nach Gewerk oder Beruf | Mitgliederverzeichnis mit Link auf Ihre Website |
-| Quartierorganisationen | Der Kanton unterstützt laut Mitteilung von 2023 für die Jahre 2024 bis 2027 unter anderem die Stadtteilsekretariate Kleinbasel und Basel-West sowie die Gundeldinger Koordination | Anlässe im Quartier, Engagement, Berichte über echte Anlässe |
+| Quartierorganisationen | Der Regierungsrat beantragte laut Mitteilung von 2023 für die Jahre 2024 bis 2027 Beiträge unter anderem für die Stadtteilsekretariate Kleinbasel und Basel-West sowie die Gundeldinger Koordination | Anlässe im Quartier, Engagement, Berichte über echte Anlässe |
 | local.ch und search.ch | Verbreitete allgemeine Verzeichnisse in der Schweiz | Ob alte Adressen, Telefonnummern oder Firmennamen dort noch stehen |
 
 Achten Sie darauf, dass Name, Adresse und Telefonnummer überall genauso lauten wie im Profil. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo). Unsere Einschätzung: Gekaufte Linkpakete von Seiten ohne Bezug zur Region bringen lokal wenig. Ideen für echte Erwähnungen finden Sie in [Local Link Building](https://localdominate.org/blog/local-link-building).
@@ -142,7 +142,7 @@ Achten Sie darauf, dass Name, Adresse und Telefonnummer überall genauso lauten 
 Die Basler Fasnacht dauert laut Basel Tourismus genau 72 Stunden und ist 2027 für den 15. bis 17. Februar angekündigt. Die Herbstmesse läuft laut Kanton 2026 vom 24. Oktober bis 8. November. Wenn Sie in dieser Zeit anders öffnen, gehört das als Sonderöffnungszeit ins Profil.
 
 - **Fasnacht**: Sie beginnt laut Basel Tourismus am Montag nach Aschermittwoch um 4 Uhr mit dem Morgestraich und gehört zum immateriellen Kulturerbe der UNESCO. Unsere Einschätzung: Betriebe in der Innenstadt öffnen in diesen Tagen oft anders, Anfahrt und Parkieren sind schwieriger.
-- **Herbstmesse**: Der Kanton beschreibt sie als Messe mit über 550-jähriger Tradition auf sieben Messeplätzen, darunter der Münsterplatz.
+- **Herbstmesse**: Der Kanton beschreibt sie als Messe mit über 550-jähriger Tradition auf sieben Messeplätzen.
 
 Tragen Sie geänderte Zeiten früh als Sonderöffnungszeiten ein, damit Google und KI-Antworten keine falschen Zeiten zeigen. Wie das geht, steht in [Öffnungszeiten an Sondertagen](https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage). Ein Beitrag oder Foto zu einem Anlass ist nur sinnvoll, wenn Ihr Betrieb tatsächlich dazu etwas anbietet.
 
@@ -171,7 +171,7 @@ Weil die Entfernung zählt, sagt eine Suche vom eigenen Laden wenig. Legen Sie M
 
 ### Brauche ich für jedes Basler Quartier eine eigene Seite?
 
-Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten Seiten für einzelne Regionen oder Städte, die alle zum selben Ziel führen, und im Wesentlichen ähnliche Seiten, die eher wie Suchergebnisse wirken. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für dieses Quartier gibt.
+Nein. Seiten, die sich nur im Ortsnamen unterscheiden, sind nach unserer Einschätzung riskant, denn Googles Spam-Richtlinien nennen als Missbrauch von Brückenseiten Seiten für einzelne Regionen oder Städte, die alle zum selben Ziel führen, und im Wesentlichen ähnliche Seiten, die eher Suchergebnissen ähneln als einer klar definierten, durchsuchbaren Hierarchie. Eine eigene Seite lohnt sich nur bei einem echten Standort oder bei Inhalten, die es nur für dieses Quartier gibt.
 
 ### Wie spreche ich Kunden aus Lörrach, Weil am Rhein oder Saint-Louis an?
 
@@ -206,4 +206,4 @@ Google berücksichtigt die Entfernung zwischen Betrieb und suchender Person. In 
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-13. Fehler gefunden? info@localdominate.org

@@ -15,7 +15,7 @@ const article: V4Article = {
   takeaways: [
     "Antworten können Sie nur mit einem bestätigten Unternehmensprofil. Google prüft jede Antwort, bevor sie öffentlich unter der Rezension erscheint.",
     "Google rät: kurz, höflich, persönlich, zeitnah und ohne Angebote oder Rabatte in der Antwort.",
-    "Keine privaten Daten in Antworten. Praxen und Kanzleien bestätigen nicht einmal, dass jemand Patient oder Mandant war.",
+    "Keine privaten Daten in Antworten. Nach unserer Einschätzung bestätigen Praxen und Kanzleien nicht einmal, dass jemand Patient oder Mandant war.",
     "Eine Vorlage ist ein Gerüst. Ein konkretes Detail aus der Rezension macht daraus eine Antwort.",
     "Ihre Antwort können Sie später bearbeiten oder löschen, etwa wenn sich ein Problem geklärt hat.",
   ],
@@ -57,7 +57,7 @@ const article: V4Article = {
       id: "datenschutz",
       title: "Datenschutz und Schweigepflicht in Antworten",
       answer:
-        "Schreiben Sie in eine Antwort nichts, was Sie nur aus dem Kundenkontakt wissen: keine Termine, Diagnosen, Auftragsdetails oder Namen von Begleitpersonen. Praxen und Kanzleien bestätigen nicht einmal, dass jemand Patient oder Mandant war.",
+        "Schreiben Sie in eine Antwort nichts, was Sie nur aus dem Kundenkontakt wissen: keine Termine, Diagnosen, Auftragsdetails oder Namen von Begleitpersonen. Nach unserer Einschätzung bestätigen Praxen und Kanzleien nicht einmal, dass jemand Patient oder Mandant war.",
       blocks: [
         {
           t: "p",
@@ -67,7 +67,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Nicht nennen:** Nachname, Zimmernummer, Termin, Rechnungsbetrag, Auftrags- oder Kundennummer, Diagnose, Behandlung, Mandatsinhalt, Begleitpersonen.",
-            "**Nicht bestätigen:** dass und wann jemand bei Ihnen war, wenn Sie einer Schweigepflicht unterliegen. Das gilt auch bei positiven Rezensionen.",
+            "**Nicht bestätigen:** dass und wann jemand bei Ihnen war, wenn Sie einer Schweigepflicht unterliegen. Das ist unsere vorsichtige Einschätzung und gilt auch bei positiven Rezensionen; im Zweifel fragen Sie Ihre Kammer.",
             "**Nicht widerlegen mit Interna:** „Laut unseren Unterlagen waren Sie erst um 10:40 Uhr da“ verrät mehr, als nötig ist. Bieten Sie stattdessen ein Gespräch an.",
           ],
         },
@@ -92,7 +92,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Nicht schreiben:** „Wenn Sie Ihre Bewertung anpassen, erstatten wir Ihnen …“ oder „Für eine neue Bewertung erhalten Sie …“.",
-            "**Keine Gegenleistung** für eine geänderte Bewertung. Nach einer echten Klärung dürfen Sie darauf hinweisen, dass die Person ihre Rezension aktualisieren kann. Ob sie das tut, ist ihre Entscheidung.",
+            "**Keine Gegenleistung** für eine geänderte Bewertung. Nach einer echten Klärung ist nach unserer Einschätzung ein neutraler Hinweis unproblematisch, dass die Person ihre Rezension aktualisieren kann, solange Sie nichts dafür anbieten. Ob sie das tut, ist ihre Entscheidung.",
             "**Erlaubt und sinnvoll:** ein Gesprächsangebot über einen direkten Kontakt. Was Sie im Gespräch zur Wiedergutmachung vereinbaren, gehört nicht in die öffentliche Antwort und darf nicht an die Bewertung geknüpft sein.",
           ],
         },
@@ -276,7 +276,7 @@ const article: V4Article = {
           t: "steps",
           items: [
             { title: "Verantwortung festlegen", text: "Eine Person beantwortet Rezensionen, eine Vertretung übernimmt im Urlaub." },
-            { title: "Termin einplanen", text: "Zum Beispiel zweimal pro Woche. Google rät, zeitnah zu antworten, nennt aber keine Frist." },
+            { title: "Termin einplanen", text: "Zum Beispiel zweimal pro Woche. Google rät, zeitnah zu antworten; eine Frist haben wir dort nicht gefunden." },
             { title: "Vorlagen ablegen", text: "Diese 13 Vorlagen in Ihrer Sprache und mit Ihrer Unterschrift, an einer Stelle für das Team." },
             { title: "Kritik eskalieren", text: "Bei drei Sternen oder weniger liest die Inhaberin oder der Inhaber vor dem Absenden mit." },
             { title: "Monatlich auswerten", text: "Welche Kritik wiederholt sich? Die Lösung liegt dann im Betrieb, nicht in der Antwort. Eine Vorlage für den Monatsbericht finden Sie im [Local-SEO-Reporting-Template](/blog/local-seo-reporting-template)." },
@@ -288,7 +288,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Muss ich auf jede Google-Bewertung antworten?",
-      a: "Eine Pflicht gibt es nicht. Google beschreibt Antworten als Weg, zu zeigen, dass Sie das Feedback Ihrer Kunden schätzen, und rät, die Antworten dort zu setzen, wo sie etwas beitragen. Kritische Rezensionen sollten Sie in jedem Fall beantworten, weil künftige Kunden Ihre Reaktion lesen.",
+      a: "Eine Pflicht gibt es nicht. Google beschreibt Antworten als Weg, zu zeigen, dass Sie das Feedback Ihrer Kunden schätzen, und rät, die Antworten dort zu setzen, wo sie etwas beitragen. Kritische Rezensionen sollten Sie nach unserer Einschätzung in jedem Fall beantworten, weil künftige Kunden Ihre Reaktion lesen.",
     },
     {
       q: "Warum erscheint meine Antwort nicht sofort?",
@@ -304,7 +304,7 @@ const article: V4Article = {
     },
     {
       q: "Darf ich Antworten mit KI schreiben lassen?",
-      a: "Google sagt dazu in seiner Hilfe zu Antworten nichts. Unsere Einschätzung: Ein KI-Entwurf kann helfen, wenn ein Mensch ihn liest, das konkrete Detail ergänzt und prüft, dass keine persönlichen Daten enthalten sind.",
+      a: "Hinweise dazu haben wir in Googles Hilfe zu Antworten nicht gefunden. Unsere Einschätzung: Ein KI-Entwurf kann helfen, wenn ein Mensch ihn liest, das konkrete Detail ergänzt und prüft, dass keine persönlichen Daten enthalten sind.",
     },
   ],
   sources: [

@@ -15,12 +15,12 @@ const article: V4Article = {
   takeaways: [
     "Laut Eurostat nutzten 2025 in der EU 94 % der Menschen von 16 bis 74 Jahren das Internet in den letzten drei Monaten. Das ist eine amtliche Zahl mit Jahr, Region und Altersgruppe.",
     "Die bekannte Verbraucherumfrage von BrightLocal befragte 2026 laut eigener Angabe 1.002 Erwachsene in den USA. Für Deutschland, Österreich und die Schweiz ist sie höchstens ein Hinweis.",
-    "Google veröffentlicht keinen aktuellen Anteil „lokaler Suchen“ an allen Suchen. Die letzte Angabe von Google stammt von 2016 und betraf nur mobile Suchen. Zahlen wie „46 % aller Suchen sind lokal“ sollten Sie ohne Originalquelle nicht verwenden.",
+    "Wir haben keine aktuelle Angabe von Google zum Anteil „lokaler Suchen“ an allen Suchen gefunden. Die einzige, die wir gefunden haben, stammt von 2016 und betraf nur mobile Suchen: Laut Google bezog sich damals fast ein Drittel davon auf einen Ort. Zahlen wie „46 % aller Suchen sind lokal“ sollten Sie ohne Originalquelle nicht verwenden.",
     "Eine Zahl ohne Herausgeber, Jahr, Land und Stichprobe ist keine Statistik, sondern eine Behauptung.",
     "Ihre eigenen Daten aus Unternehmensprofil, Search Console und Web-Analyse sagen mehr über Ihren Betrieb als jede Branchenstatistik. Eine Tabelle mit sechs bis acht Werten pro Monat reicht für den Anfang.",
   ],
   publishedAt: "2026-03-08",
-  updatedAt: "2026-10-12",
+  updatedAt: "2026-10-13",
   readingTime: 12,
   sections: [
     {
@@ -84,7 +84,7 @@ const article: V4Article = {
           head: ["Aussage laut BrightLocal", "Wert", "Was Sie daraus ableiten können"],
           rows: [
             ["Befragte, die Online-Bewertungen lesen", "97 %", "Bewertungen sind für fast alle Befragten Teil der Entscheidung, zumindest in den USA"],
-            ["Anteil von Google als Quelle für Bewertungen", "71 % (2025: 83 %)", "Google bleibt die wichtigste Plattform, andere Quellen gewinnen an Gewicht"],
+            ["Anteil von Google als Quelle für Bewertungen", "71 % (2025: 83 %)", "Google bleibt laut BrightLocal mit Abstand die meistgenutzte Quelle, verliert aber Anteile, während etwa Videoplattformen zulegen"],
             ["Befragte, die Bewertungen der letzten drei Monate suchen", "74 %", "Laufende Bewertungen zählen mehr als eine große, alte Zahl"],
             ["Nutzung von ChatGPT und anderer generativer KI für lokale Empfehlungen", "45 % (Vorjahr: 6 %)", "Ein starker Sprung in einem Jahr. BrightLocal nennt die genaue Fragestellung auf der Ergebnisseite nicht, zitieren Sie die Zahl deshalb vorsichtig"],
           ],
@@ -104,7 +104,7 @@ const article: V4Article = {
       id: "was-google-angibt",
       title: "Was Google selbst angibt und was nicht",
       answer:
-        "Google veröffentlicht keinen aktuellen Anteil lokaler Suchen an allen Suchen und keine Gewichtung von Rankingfaktoren. Google dokumentiert aber genau, was die Leistungsdaten im Unternehmensprofil und die Berichte der Search Console zählen. Diese Definitionen sind die verlässlichste Grundlage für eigene Zahlen.",
+        "Eine aktuelle Angabe von Google zum Anteil lokaler Suchen an allen Suchen und eine Gewichtung von Rankingfaktoren haben wir nicht gefunden. Google dokumentiert aber genau, was die Leistungsdaten im Unternehmensprofil und die Berichte der Search Console zählen. Diese Definitionen sind die verlässlichste Grundlage für eigene Zahlen.",
       blocks: [
         {
           t: "p",
@@ -262,7 +262,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Wie viele Google-Suchen sind lokal?",
-      a: "Dafür gibt es keine aktuelle, von Google veröffentlichte Zahl. Werte wie „46 %“ kursieren seit Jahren ohne nachvollziehbare Originalquelle. Verwenden Sie stattdessen Ihre eigenen Suchanfragen im Unternehmensprofil und in der Search Console.",
+      a: "Eine aktuelle, von Google veröffentlichte Zahl dafür haben wir nicht gefunden. Die einzige Angabe von Google, die wir kennen, stammt von 2016 und betraf mobile Suchen. Werte wie „46 %“ kursieren seit Jahren ohne nachvollziehbare Originalquelle. Verwenden Sie stattdessen Ihre eigenen Suchanfragen im Unternehmensprofil und in der Search Console.",
     },
     {
       q: "Kann ich die BrightLocal-Zahlen für meinen Betrieb in Deutschland verwenden?",

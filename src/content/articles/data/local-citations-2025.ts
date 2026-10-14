@@ -11,11 +11,11 @@ const article: V4Article = {
   lead:
     "Für Inhaber lokaler Betriebe in Deutschland, Österreich und der Schweiz, die wissen wollen, in welchen Verzeichnissen sie stehen sollten und wo nicht. Sie bekommen eine Übersicht nach Land und Branche, erfahren, woher die Daten der großen Telefon- und Branchenbücher kommen, und lernen eine einfache Methode, mit der Sie die Auswahl für Ihren Ort selbst treffen.",
   answer:
-    "Wichtig sind 2026 wenige, richtige Einträge: das Google-Unternehmensprofil, Apple Business und Bing Places, dazu die großen Verzeichnisse Ihres Landes (Gelbe Seiten, Das Örtliche, Das Telefonbuch in Deutschland, Herold und WKO Firmen A-Z in Österreich, local.ch und search.ch in der Schweiz) und die Portale Ihrer Branche, auf denen Ihre Kunden tatsächlich suchen. Welche das sind, zeigt eine Suche nach Leistung und Ort.",
+    "Nach unserer Einschätzung sind 2026 wenige, richtige Einträge wichtig: das Google-Unternehmensprofil, Apple Business und Bing Places, dazu die großen Verzeichnisse Ihres Landes (Gelbe Seiten, Das Örtliche, Das Telefonbuch in Deutschland, Herold und WKO Firmen A-Z in Österreich, local.ch und search.ch in der Schweiz) und die Portale Ihrer Branche, auf denen Ihre Kunden tatsächlich suchen. Welche das sind, zeigt eine Suche nach Leistung und Ort.",
   takeaways: [
-    "Google nennt für das lokale Ranking Relevanz, Entfernung und Bekanntheit. Verzeichnisse erwähnt Googles Hilfe dazu nicht. Ihr Nutzen liegt vor allem bei Kunden, die dort suchen, und bei richtigen Daten, die weitergegeben werden.",
-    "Die Grundausstattung für jeden Betrieb: Google-Unternehmensprofil, Apple Business und Bing Places. Alle drei sind kostenlos.",
-    "In Deutschland und Österreich stammen die Grunddaten der Telefonbücher von Ihrem Telefonanbieter. Falsche Nummern und Adressen korrigieren Sie deshalb zuerst dort.",
+    "Google nennt für das lokale Ranking Relevanz, Entfernung und Bekanntheit. Verzeichnisse erwähnt Googles Hilfe dazu nicht. Nach unserer Einschätzung liegt ihr Nutzen vor allem bei Kunden, die dort suchen, und bei richtigen Daten, die weitergegeben werden.",
+    "Unsere Grundausstattung für jeden Betrieb: Google-Unternehmensprofil, Apple Business und Bing Places. Alle drei sind kostenlos.",
+    "In Deutschland und Österreich stammen die Grunddaten der Telefonbücher meist von Ihrem Telefonanbieter. Falsche Nummern und Adressen korrigieren Sie deshalb zuerst dort.",
     "Branchenportale wählen Sie mit einem Suchtest: Welche Portale erscheinen bei „Leistung + Ort“ auf der ersten Seite, und wo stehen Ihre Wettbewerber?",
     "Kostenlose Grundeinträge reichen für den Anfang. Bezahlte Pakete laufen oft ein Jahr und verlängern sich automatisch, wenn Sie nicht rechtzeitig kündigen.",
   ],
@@ -40,14 +40,14 @@ const article: V4Article = {
           rows: [
             ["Direkte Anfragen", "Wenn Ihre Kunden im Verzeichnis oder in dessen App suchen, etwa nach einer Telefonnummer"],
             ["Weitergabe richtiger Daten", "Wenn das Verzeichnis Daten an Partner, Navigationsdienste oder Suchmaschinen liefert"],
-            ["Bestätigung für Menschen und KI-Systeme", "Wenn Name, Adresse und Telefonnummer dort genauso stehen wie im Profil und auf der Website"],
+            ["Mögliche Bestätigung für Menschen und KI-Systeme", "Wenn Name, Adresse und Telefonnummer dort genauso stehen wie im Profil und auf der Website. Das ist unsere Einschätzung, eine Aussage von Google dazu haben wir nicht gefunden"],
             ["Bewertungen und Buchungen", "Bei Branchenportalen, auf denen Kunden vergleichen, bewerten oder Termine buchen"],
           ],
         },
         {
           t: "note",
           label: "Einschätzung",
-          text: "Ältere Ratgeber nennen Prozentwerte für den Einfluss von Verzeichnissen auf das Ranking oder vergeben Punktwerte je Portal. Solche Zahlen stammen aus Umfragen unter Fachleuten oder aus Werkzeugen von Drittanbietern, nicht von Google. Wir verzichten deshalb auf Scores und ordnen nach einer Frage: Suchen Ihre Kunden dort?",
+          text: "Ältere Ratgeber nennen Prozentwerte für den Einfluss von Verzeichnissen auf das Ranking oder vergeben Punktwerte je Portal. Solche Zahlen stammen unserer Kenntnis nach aus Umfragen unter Fachleuten oder aus Werkzeugen von Drittanbietern, nicht von Google. Wir verzichten deshalb auf Scores und ordnen nach einer Frage: Suchen Ihre Kunden dort?",
         },
       ],
     },
@@ -186,7 +186,7 @@ const article: V4Article = {
             { title: "Ergebnisse durchsehen", text: "Suchen Sie jeden Begriff in einem privaten Browserfenster und notieren Sie alle Verzeichnisse und Portale auf der ersten Ergebnisseite." },
             { title: "Wettbewerber prüfen", text: "Suchen Sie die Namen von drei Wettbewerbern im Ort. Wo stehen sie, wo stehen Sie nicht?" },
             { title: "Kunden fragen", text: "Fragen Sie einen Monat lang bei neuen Anfragen, wie der Kunde Sie gefunden hat. Ein Portal, das niemand nennt, hat Zeit." },
-            { title: "Liste festlegen", text: "Grundausstattung, die Verzeichnisse Ihres Landes und die Portale aus Schritt 2 bis 4. Mehr brauchen die meisten Betriebe mit einem Standort nicht." },
+            { title: "Liste festlegen", text: "Grundausstattung, die Verzeichnisse Ihres Landes und die Portale aus Schritt 2 bis 4. Mehr brauchen nach unserer Einschätzung die meisten Betriebe mit einem Standort nicht." },
           ],
         },
         {
@@ -234,7 +234,7 @@ const article: V4Article = {
           items: [
             "**Stammdaten festlegen:** Name wie auf dem Schild, Adresse, eine Hauptnummer, Website und Öffnungszeiten.",
             "**Telefonanbieter zuerst:** In Deutschland und Österreich fließen dessen Daten in Das Örtliche und Herold, in der Schweiz kann der Fernmeldedienstanbieter Änderungen an localsearch geben.",
-            "**Korrigieren vor Anlegen:** Ein falscher alter Eintrag schadet mehr, als ein neuer nützt.",
+            "**Korrigieren vor Anlegen:** Nach unserer Einschätzung schadet ein falscher alter Eintrag mehr, als ein neuer nützt.",
             "**Liste führen:** Plattform, Link, Zugang, Status und Datum der letzten Prüfung.",
           ],
         },
@@ -248,7 +248,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Wie viele Verzeichniseinträge braucht mein Betrieb?",
-      a: "Google nennt keine Zahl, und Verzeichnisse kommen in Googles Hilfe zum lokalen Ranking nicht vor. Für die meisten Betriebe mit einem Standort reichen die drei Kartendienste, die großen Verzeichnisse des eigenen Landes und die Portale, die beim Suchtest für Ihre Leistung und Ihren Ort erscheinen.",
+      a: "Eine Zahl haben wir bei Google nicht gefunden, und Verzeichnisse kommen in Googles Hilfe zum lokalen Ranking nicht vor. Nach unserer Einschätzung reichen für die meisten Betriebe mit einem Standort die drei Kartendienste, die großen Verzeichnisse des eigenen Landes und die Portale, die beim Suchtest für Ihre Leistung und Ihren Ort erscheinen.",
     },
     {
       q: "Verbessert ein bezahlter Eintrag bei Gelbe Seiten oder Herold mein Google-Ranking?",

@@ -104,7 +104,7 @@ const article: V4Article = {
           head: ["Zahl", "Wo Sie sie finden", "Was Sie wissen sollten"],
           rows: [
             ["Klicks, Impressionen, Klickrate, durchschnittliche Position", "Search Console, Leistung, Suchergebnisse", "Standardansicht sind die letzten drei Monate. Die neuesten Daten können vorläufig sein"],
-            ["Klicks ohne Markensuchen", "Search Console, Filter für Markensuchanfragen", "Nicht für Unterverzeichnis-Properties und Websites mit wenigen Impressionen. Google ordnet die Suchanfragen automatisch zu, einzelne können laut Google falsch eingeordnet sein"],
+            ["Klicks ohne Markensuchen", "Search Console, Filter für Markensuchanfragen", "Nicht verfügbar für Websites mit wenigen Impressionen. Google ordnet die Suchanfragen automatisch zu, einzelne können laut Google falsch eingeordnet sein"],
             ["Impressionen in Übersichten mit KI und KI-Modus", "Search Console, Leistungsbericht zu generativen KI-Funktionen", "Laut Google seit 31. August 2026 für alle Websites. Erscheint bei zu wenigen Impressionen meist nicht"],
             ["Besuche über den Profil-Link", "Web-Analyse, Kampagnen", "Nur wenn der Website-Link im Profil UTM-Parameter trägt"],
             ["Schlüsselereignisse", "Google Analytics 4", "Zum Beispiel Formular gesendet oder Telefonnummer angetippt. Bis zu 30 in Standard-Properties"],
@@ -138,7 +138,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Einschätzung zu Tracking-Nummern",
-          text: "Google regelt Tracking-Nummern in den Richtlinien nicht ausdrücklich. Wir raten, im Profil Ihre echte Nummer zu lassen, weil die Anrufe aus dem Profil ohnehin in den Leistungsdaten gezählt werden. Wer Anrufe von der Website getrennt messen will, setzt eine eigene Nummer besser nur auf der Website ein und klärt den Datenschutz mit dem Anbieter.",
+          text: "Eine ausdrückliche Regel zu Tracking-Nummern haben wir in den Richtlinien nicht gefunden. Wir raten, im Profil Ihre echte Nummer zu lassen, weil die Anrufe aus dem Profil ohnehin in den Leistungsdaten gezählt werden. Wer Anrufe von der Website getrennt messen will, setzt eine eigene Nummer besser nur auf der Website ein und klärt den Datenschutz mit dem Anbieter.",
         },
       ],
     },
@@ -150,7 +150,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Ein Gartenbaubetrieb hat im März mehr Anfragen als im Januar, eine Heizungsfirma im Oktober mehr als im Juni. Das sagt nichts über die Wirkung von Maßnahmen. Google empfiehlt selbst, bei einem Rückgang einen längeren Zeitraum anzusehen, um wiederkehrende Muster im Jahr auszuschließen, und mit Google Trends zu prüfen, ob sich das Interesse in Ihrer Branche insgesamt verändert hat.",
+          text: "Bei einem Gartenbaubetrieb sind im März oft mehr Anfragen zu erwarten als im Januar, bei einer Heizungsfirma im Oktober mehr als im Juni (Annahme, keine Messung). Solche Unterschiede sagen nichts über die Wirkung von Maßnahmen. Google empfiehlt selbst, bei einem Rückgang einen längeren Zeitraum anzusehen, um wiederkehrende Muster im Jahr auszuschließen, und mit Google Trends zu prüfen, ob sich das Interesse in Ihrer Branche insgesamt verändert hat.",
         },
         {
           t: "table",
@@ -183,7 +183,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Von 8 auf 12 Formularanfragen sind rechnerisch 50 % mehr. Das klingt nach Erfolg, sind aber vier Anfragen. Schon eine Woche Urlaub, ein Feiertag oder ein einzelner Großkunde erklärt solche Unterschiede.",
+          text: "Angenommen, ein Betrieb zählt statt 8 nun 12 Formularanfragen (erfundenes Rechenbeispiel): Das sind rechnerisch 50 % mehr. Das klingt nach Erfolg, sind aber vier Anfragen. Schon eine Woche Urlaub, ein Feiertag oder ein einzelner Großkunde erklärt solche Unterschiede.",
         },
         {
           t: "ul",
@@ -218,7 +218,7 @@ const article: V4Article = {
         },
         {
           t: "table",
-          caption: "Formulierungen im Vergleich",
+          caption: "Formulierungen im Vergleich (Zahlen erfunden)",
           head: ["Unbrauchbar", "Brauchbar"],
           rows: [
             ["„Sichtbarkeit deutlich verbessert“", "„Aufrufe 1.180 statt 1.050 im Vorjahresmonat, Anrufe fast gleich“"],
@@ -324,7 +324,7 @@ const article: V4Article = {
     },
     {
       q: "Wie oft sollte eine Agentur berichten?",
-      a: "Monatlich reicht für die meisten lokalen Betriebe. Die Suchbegriffe im Unternehmensprofil werden laut Google ohnehin nur zu Monatsbeginn aktualisiert. Wöchentliche Berichte zeigen vor allem Zufallsschwankungen.",
+      a: "Monatlich reicht für die meisten lokalen Betriebe. Die Suchbegriffe im Unternehmensprofil werden laut Google ohnehin nur zu Monatsbeginn aktualisiert. Wöchentliche Berichte zeigen aus unserer Sicht vor allem Zufallsschwankungen.",
     },
   ],
   sources: [
