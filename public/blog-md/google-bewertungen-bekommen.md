@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/google-bewertungen-bekommen
 markdown_url: https://localdominate.org/blog-md/google-bewertungen-bekommen.md
 language: de-DE
 published: 2026-01-07
-updated: 2026-10-10
+updated: 2026-10-14
 reading_time_minutes: 11
 category: "Bewertungen"
 author: LocalDominate Redaktion
@@ -65,7 +65,7 @@ In Deutschland sind gefälschte Bewertungen und irreführende Angaben zu ihrer E
 
 Seit dem 28. Mai 2022 gelten im UWG neue Regeln zu Verbraucherbewertungen. Die Liste der stets unzulässigen Geschäftspraktiken im Anhang des Gesetzes nennt unter Nummer 23c die Übermittlung oder Beauftragung **gefälschter Bewertungen** und unter Nummer 23b die Behauptung, Bewertungen stammten von echten Kunden, ohne dass angemessene Maßnahmen zur Überprüfung ergriffen wurden.
 
-§ 5b Abs. 3 UWG verlangt: Wenn ein Unternehmer Bewertungen von Verbrauchern zugänglich macht, muss er informieren, ob und wie er sicherstellt, dass sie von Kunden stammen, die die Ware oder Leistung tatsächlich genutzt oder erworben haben. Für die Rezensionen auf Google selbst ist das Googles Aufgabe. Binden Sie Google-Bewertungen aber per Widget auf Ihrer Website ein oder werben aktiv damit, kann die Pflicht Sie treffen. Ein kurzer Hinweis direkt bei den Bewertungen, etwa „Die Bewertungen stammen aus unserem Google-Unternehmensprofil, wir prüfen sie nicht selbst“, ist ein gängiger Weg.
+§ 5b Abs. 3 UWG verlangt: Wenn ein Unternehmer Bewertungen von Verbrauchern zugänglich macht, muss er informieren, ob und wie er sicherstellt, dass sie von Kunden stammen, die die Ware oder Leistung tatsächlich genutzt oder erworben haben. Die Rezensionen auf Google selbst zeigt Google, nicht Sie. Binden Sie Google-Bewertungen aber per Widget auf Ihrer Website ein oder werben aktiv damit, kann die Pflicht nach verbreiteter Rechtsauffassung auch Sie treffen. Ein kurzer Hinweis direkt bei den Bewertungen, etwa „Die Bewertungen stammen aus unserem Google-Unternehmensprofil, wir prüfen sie nicht selbst“, ist ein gängiger Weg.
 
 Österreich und die Schweiz haben eigene Wettbewerbsgesetze, die wir hier nicht im Einzelnen darstellen. Googles Richtlinien gelten in allen drei Ländern gleich. Wenn Sie unsicher sind, ob Ihre Bewertungsdarstellung oder eine Aktion zulässig ist, fragen Sie Ihre Kammer, Ihren Verband oder eine Anwältin.
 
@@ -85,7 +85,7 @@ Zum Schreiben einer Rezension brauchen Ihre Kunden ein Google-Konto. Google weis
 
 Fragen Sie an einer festen Stelle im Ablauf, kurz nachdem die Leistung erbracht ist: bei der Rechnung, in der Bestätigungs- oder Dankesmail, mit einem QR-Code vor Ort oder in der Nachbereitung eines Termins.
 
-Eine Bitte, die vom Zufall abhängt, wird selten gestellt. Legen Sie deshalb einen Moment fest, an dem jeder Kunde den Link bekommt, unabhängig davon, wie das Gespräch gelaufen ist. Google selbst nennt Belege, Dankesmails, das Ende eines Chats und gedruckte Codes im Geschäft als Orte für den Link.
+Eine Bitte, die vom Zufall abhängt, wird selten gestellt. Legen Sie deshalb einen Moment fest, an dem jeder Kunde den Link bekommt, unabhängig davon, wie das Gespräch gelaufen ist. Google nennt für den Link unter anderem E-Mail, WhatsApp-Nachrichten und Facebook-Beiträge, Belege, das Ende eines Chats und gedruckte Codes im Geschäft sind gängige Orte.
 
 *Passende Momente nach Branche (Beispiele)*
 
@@ -176,7 +176,7 @@ Ob Ihr Profil insgesamt in gutem Zustand ist, prüft die Anleitung [Google Unter
 
 ### Darf ich Kunden für eine Google-Bewertung belohnen?
 
-Nein. Google verbietet Zahlungen, Rabatte, kostenlose Produkte oder Leistungen als Gegenleistung für Rezensionen und entfernt solche Rezensionen. Auch Gewinnspiele, bei denen eine Bewertung die Teilnahme ist, fallen darunter. Erlaubt ist die einfache Bitte ohne Gegenleistung.
+Nein. Google verbietet Zahlungen, Rabatte, kostenlose Produkte oder Leistungen als Gegenleistung für Rezensionen und entfernt solche Rezensionen. Auch Gewinnspiele, bei denen eine Bewertung die Teilnahme ist, fallen nach unserer Einschätzung darunter. Erlaubt ist die einfache Bitte ohne Gegenleistung.
 
 ### Darf ich nur zufriedene Kunden um eine Bewertung bitten?
 
@@ -196,7 +196,7 @@ Nur wenn sie gegen Googles Richtlinien verstößt, etwa Spam, Beleidigung oder e
 
 ### Wie viele Google-Bewertungen brauche ich?
 
-Eine Mindestzahl nennt Google nicht. Google schreibt nur, dass mehr Rezensionen und positive Bewertungen das lokale Ranking verbessern können. Vergleichen Sie sich mit den Betrieben, die bei Ihren wichtigsten Suchen im Kartenblock stehen, und achten Sie auf regelmäßige neue Rezensionen.
+Eine Mindestzahl haben wir in Googles Hilfe nicht gefunden. Google schreibt, dass mehr Rezensionen und positive Bewertungen das lokale Ranking verbessern können. Vergleichen Sie sich mit den Betrieben, die bei Ihren wichtigsten Suchen im Kartenblock stehen, und achten Sie auf regelmäßige neue Rezensionen.
 
 ## Quellen
 
@@ -211,4 +211,4 @@ Eine Mindestzahl nennt Google nicht. Google schreibt nur, dass mehr Rezensionen 
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-14. Fehler gefunden? info@localdominate.org

@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/gbp-suspendiert-reaktivieren
 markdown_url: https://localdominate.org/blog-md/gbp-suspendiert-reaktivieren.md
 language: de-DE
 published: 2025-01-10
-updated: 2026-10-10
+updated: 2026-10-14
 reading_time_minutes: 12
 category: "Fehlerbehebung"
 author: LocalDominate Redaktion
@@ -28,8 +28,8 @@ Ein gesperrtes Profil ist laut Google nicht mehr öffentlich sichtbar, ein deakt
 - Google unterscheidet gesperrte Profile (nicht mehr öffentlich sichtbar), deaktivierte Profile (Qualitätsverstöße) und Einschränkungen einzelner Funktionen, etwa bei Rezensionen.
 - Ist Ihr Google-Konto eingeschränkt, sind alle Profile darin gesperrt. Dann legen Sie zuerst gegen die Kontoeinschränkung Einspruch ein, danach für die einzelnen Profile.
 - Google nimmt als Nachweis unter anderem Gewerbeanmeldung, Gewerbeerlaubnis, Steuerbescheinigungen und Strom-, Telefon-, Wasser- oder Internetrechnungen an. Name und Adresse müssen zum Profil passen.
-- Ein geöffnetes Nachweisformular müssen Sie innerhalb von 60 Minuten absenden. Eine feste Bearbeitungszeit nennt Google nicht, die Entscheidung kommt per E-Mail.
-- Ein neues Profil für denselben Betrieb oder ein bezahlter „Entsperr-Service“ machen die Lage schlimmer. Google nimmt für eine Reaktivierung kein Geld.
+- Ein geöffnetes Nachweisformular müssen Sie innerhalb von 60 Minuten absenden. Auf der Einspruchsseite haben wir keine feste Bearbeitungszeit gefunden, eine allgemeine Google-Hilfeseite zu Einsprüchen nennt bis zu 5 Werktage. Die Entscheidung kommt per E-Mail.
+- Ein neues Profil für denselben Betrieb löst das Problem nicht, und ein bezahlter „Entsperr-Service“ ist unseriös. Google nimmt für eine Reaktivierung kein Geld.
 
 ## Gesperrt, deaktiviert, eingeschränkt: was Ihr Status bedeutet
 
@@ -64,7 +64,7 @@ Die meisten Sperrungen gehen auf wenige Regeln zurück: Zusätze im Firmennamen,
 | Callcenter-, Weiterleitungs- oder Sondernummer | Die Nummer muss zum Standort gehören und direkt vom Betrieb verwaltet werden. Sonderrufnummern sind nicht erlaubt. |
 | Gekaufte, belohnte oder selbst geschriebene Rezensionen | Verstößt gegen die Richtlinie zu gefälschten Interaktionen und kann zu Einschränkungen des Profils führen. |
 
-Google behält sich laut seinen Richtlinien vor, den Zugang zu Profilen bei Verstößen zu sperren. In der Richtlinienübersicht nennt Google außerdem das Löschen oder Deaktivieren von Profilen, die am angegebenen Ort nicht existieren. Wie Name, Kategorie und Adresse regelkonform aussehen, steht im Artikel [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren#name-kategorien). Die passende Kategorie finden Sie mit dem [Kategorien-Guide](https://localdominate.org/blog/google-business-kategorien-guide).
+Google behält sich laut seinen Richtlinien vor, den Zugang zu Profilen bei Verstößen zu sperren. In der Richtlinienübersicht nennt Google außerdem das Deaktivieren von Profilen, die am angegebenen Ort nicht existieren. Wie Name, Kategorie und Adresse regelkonform aussehen, steht im Artikel [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren#name-kategorien). Die passende Kategorie finden Sie mit dem [Kategorien-Guide](https://localdominate.org/blog/google-business-kategorien-guide).
 
 > **Betriebe ohne Ladenlokal:** Handwerker und mobile Dienste blenden die Adresse aus und geben ein Einzugsgebiet an. Eine sichtbare Wohnadresse ohne Kundenverkehr oder eine Liste aller Städte im Umkreis sind häufige Fehler. Mehr dazu in [Local SEO für Handwerker](https://localdominate.org/blog/local-seo-handwerker) und auf unserer englischen Seite [für Handwerksbetriebe](https://localdominate.org/industries/trades).
 
@@ -73,7 +73,7 @@ Google behält sich laut seinen Richtlinien vor, den Zugang zu Profilen bei Vers
 Prüfen Sie zuerst, ob nur ein Profil betroffen ist oder Ihr ganzes Google-Konto. Bei einer Kontoeinschränkung sind alle Profile darin gesperrt und Sie können keine neuen anlegen oder beanspruchen. Dann legen Sie zuerst auf der Seite für Kontoeinschränkungen Einspruch ein.
 
 - **Ein Profil gesperrt oder deaktiviert:** Einspruch direkt für dieses Profil im Einspruchstool.
-- **Konto eingeschränkt:** Laut Google zuerst Einspruch auf der Seite „Meine Kontoeinschränkungen“ einlegen und dort den Stand verfolgen. Erst nach Aufhebung der Kontoeinschränkung legen Sie Einspruch für die einzelnen Profile ein.
+- **Konto eingeschränkt:** Laut Google zuerst Einspruch auf der Seite „Meine Konten“ („My accounts“) einlegen und dort den Stand verfolgen. Erst nach Aufhebung der Kontoeinschränkung legen Sie Einspruch für die einzelnen Profile ein.
 - **Konto eines anderen Google-Produkts eingeschränkt:** Wurde das Profil über ein anderes Google-Konto angelegt und dieses eingeschränkt, muss laut Richtlinienübersicht zuerst dieses Konto reaktiviert werden.
 - **Konto eines Administrators entfernt:** Dann verliert nur diese Person den Zugriff. Die Standorte selbst sind laut Google nicht betroffen.
 
@@ -118,7 +118,7 @@ Den Einspruch legen Sie im Einspruchstool von Google ein, angemeldet mit dem Kon
 2. **Profil auswählen.** Wählen Sie das betroffene Profil aus. Google zeigt das eingeschränkte Profil, den Grund und die verletzte Richtlinie.
 3. **Einspruch einreichen.** Wählen Sie „Einspruch einlegen“. Fügen Sie Nachweise hinzu und senden Sie das Formular innerhalb von 60 Minuten ab.
 4. **Status verfolgen.** Im Tool sehen Sie den Status: „Eingereicht“, „Genehmigt“, „Nicht genehmigt“, „Kein Einspruch möglich“ oder „Einspruch möglich“.
-5. **Auf die E-Mail warten.** Google nennt keine feste Bearbeitungszeit. Sie werden per E-Mail benachrichtigt, sobald der Einspruch geprüft ist. Prüfen Sie auch den Spam-Ordner.
+5. **Auf die E-Mail warten.** Auf der Einspruchsseite haben wir keine feste Bearbeitungszeit gefunden, eine allgemeine Hilfeseite zu Einsprüchen nennt bis zu 5 Werktage. Sie werden per E-Mail benachrichtigt, sobald der Einspruch geprüft ist. Prüfen Sie auch den Spam-Ordner.
 
 > **Mehr als zehn Profile:** Betrifft der Einspruch mehr als zehn Profile, geben Sie das im Tool an und hängen eine Tabelle mit Nachweis und Profil-ID je Standort an. Laut Google ändert sich im Tool dann nur der Status des ausgewählten Profils, und Sie erhalten eine E-Mail für dieses Profil.
 
@@ -128,7 +128,7 @@ Bei Einschränkungen wegen gefälschter Rezensionen nennt Google ein eigenes For
 
 Wird der Einspruch genehmigt, ist das Profil wieder sichtbar und Inhaber und Administratoren erhalten ihren Zugriff zurück. Wird er abgelehnt, können Sie über Googles Kontaktformular eine weitere Prüfung beantragen, aber nur mit neuen Nachweisen, die im ersten Einspruch fehlten.
 
-- **Genehmigt:** Laut Google werden mit dem Profil auch Inhaber und Administratoren reaktiviert. Treten danach Probleme auf, wenden Sie sich an den Support der Unternehmensprofil-Hilfe.
+- **Genehmigt:** Bei einem entfernten Profil werden laut Google mit dem Profil auch Inhaber und Administratoren reaktiviert. Treten danach Probleme auf, wenden Sie sich an den Support der Unternehmensprofil-Hilfe.
 - **Nicht genehmigt:** Eine weitere Prüfung ist erst nach einer Ablehnung möglich, über das Formular für lokale Einsprüche und nur mit neuen Nachweisen.
 - **Kein Einspruch möglich:** Dann prüfen Sie, ob der Betrieb die Grundvoraussetzungen erfüllt, etwa persönlichen Kundenkontakt zu den angegebenen Zeiten. Reine Online-Betriebe sind laut Google nicht berechtigt.
 - **EU und EWR:** Google weist darauf hin, dass Einwohner der EU und des EWR zusätzliche Rechtsbehelfe haben können. Nach dem Gesetz über digitale Dienste sind das zertifizierte außergerichtliche Streitbeilegungsstellen und der Rechtsweg.
@@ -163,7 +163,7 @@ Sehen Sie bei Mitbewerbern Keywords im Namen oder erfundene Standorte, können S
 
 ### Wie lange dauert ein Einspruch bei Google?
 
-Google nennt keine feste Bearbeitungszeit. Fest steht nur: Ein geöffnetes Nachweisformular müssen Sie innerhalb von 60 Minuten absenden, und die Entscheidung kommt per E-Mail. Angaben wie „drei bis sieben Werktage“ stammen nicht von Google.
+Auf der Einspruchsseite haben wir keine feste Bearbeitungszeit gefunden. Eine allgemeine Google-Hilfeseite zu Einsprüchen nennt bis zu 5 Werktage, die Entscheidung kommt per E-Mail. Ein geöffnetes Nachweisformular müssen Sie innerhalb von 60 Minuten absenden.
 
 ### Kann ich einfach ein neues Profil anlegen?
 
@@ -193,9 +193,10 @@ Wir prüfen Ihr Profil auf Verstöße und helfen, Korrekturen und Nachweise vorz
 - [Guidelines for representing your business on Google](https://support.google.com/business/answer/3038177?hl=en), Google Business Profile Help
 - [Overview of Google Business Profile policies](https://support.google.com/business/answer/13762416?hl=en), Google Business Profile Help
 - [Prohibited & restricted content (Fake engagement)](https://support.google.com/contributionpolicy/answer/7400114?hl=en), Google Maps User Generated Content Policy Help
+- [Appeal Business Profile content & profile restrictions](https://support.google.com/business/answer/13597551?hl=en), Google Business Profile Help
 - [Help protect your Google Business Profile](https://support.google.com/business/answer/14509283?hl=en), Google Business Profile Help
 - [European Union Digital Services Act Resolution Options](https://support.google.com/european-union-digital-services-act-redress-options), Google
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-14. Fehler gefunden? info@localdominate.org

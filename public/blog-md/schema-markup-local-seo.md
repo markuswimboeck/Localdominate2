@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/schema-markup-local-seo
 markdown_url: https://localdominate.org/blog-md/schema-markup-local-seo.md
 language: de-DE
 published: 2026-01-16
-updated: 2026-10-10
+updated: 2026-10-14
 reading_time_minutes: 11
 category: "Technik"
 author: LocalDominate Redaktion
@@ -69,7 +69,7 @@ Pflicht sind nur Name und Adresse. Ergänzen Sie den genauesten Untertyp, Koordi
 
 | Feld | Status | Worauf Sie achten |
 | --- | --- | --- |
-| @type | Pflicht | So genau wie möglich, etwa Restaurant, Dentist, HealthClub oder Plumber. Mehrere Typen als Liste, additionalType unterstützt Google nicht |
+| @type | Voraussetzung | So genau wie möglich, etwa Restaurant, Dentist, HealthClub oder Plumber. Mehrere Typen als Liste, additionalType unterstützt Google nicht |
 | name | Pflicht | Der echte Name, wie im Unternehmensprofil und auf dem Schild |
 | address | Pflicht | Vollständige Postanschrift mit Straße, Ort, Postleitzahl und Land |
 | geo | Empfohlen | Breiten- und Längengrad mit mindestens fünf Nachkommastellen |
@@ -195,4 +195,4 @@ Bei LocalDominate kostet der Profil Quick-Fix 79 € und die vollständige Profi
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-14. Fehler gefunden? info@localdominate.org

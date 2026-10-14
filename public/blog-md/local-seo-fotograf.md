@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-fotograf
 markdown_url: https://localdominate.org/blog-md/local-seo-fotograf.md
 language: de-DE
 published: 2026-01-29
-updated: 2026-10-10
+updated: 2026-10-14
 reading_time_minutes: 9
 category: "Fotografie"
 author: LocalDominate Redaktion
@@ -87,7 +87,7 @@ Hochzeitsfotografie, Porträt, Business und Events beantworten unterschiedliche 
 - **Porträt:** Einzelpersonen, Familien und Paare, mit Beispielen aus Ihrer Arbeit.
 - **Business und Events:** Firmenporträts, Mitarbeiterfotos und Veranstaltungen, mit Angaben zum Ablauf.
 
-> **Vorsicht bei Städteseiten:** Eine Seite je Stadt mit gleichem Text und nur ausgetauschtem Ortsnamen ist das Muster, das Google als Doorway-Missbrauch beschreibt. Legen Sie Ortsseiten nur für Orte an, in denen Sie tatsächlich arbeiten, und mit eigenen Angaben zu Anfahrt, Location oder Erfahrung.
+> **Vorsicht bei Städteseiten:** Eine Seite je Stadt mit gleichem Text und nur ausgetauschtem Ortsnamen entspricht dem Muster, das Google in seinen Spam-Richtlinien als Doorway-Missbrauch einordnet. Legen Sie Ortsseiten nur für Orte an, in denen Sie tatsächlich arbeiten, und mit eigenen Angaben zu Anfahrt, Location oder Erfahrung.
 
 Ihre Angebote zur Profilpflege und zur Website finden Sie unter [Leistungen](https://localdominate.org/services).
 
@@ -116,7 +116,7 @@ Bewertungen wirken auf das Ranking und auf die Entscheidung im Kartenblock, wenn
 | Erlaubt | Nicht erlaubt |
 | --- | --- |
 | Kunden nach der Übergabe um eine Bewertung bitten | Geld, Rabatte oder Gratisleistungen für eine Bewertung anbieten |
-| Einen direkten Google-Link zum Bewerten schicken | Bewertungen ändern lassen oder negative Bewertungen entfernen lassen |
+| Einen direkten Google-Link zum Bewerten schicken | Anreize für das Ändern oder Entfernen von Bewertungen bieten |
 
 Fragen Sie nach der Übergabe und nicht während des Shootings. Antworten Sie sachlich auf Bewertungen, auch auf kritische, ohne persönliche Details der Kunden zu nennen.
 
@@ -148,7 +148,7 @@ Nein. Google schreibt, dass sich ein besseres lokales Ranking weder beantragen n
 
 ### Darf ich Kunden um eine Bewertung bitten?
 
-Ja. Google erlaubt es, Kunden um eine Bewertung zu bitten. Verboten sind Anreize wie Geld, Rabatte oder Gratisleistungen dafür sowie das Ändern oder Entfernen von Bewertungen.
+Ja. Google erlaubt es, Kunden um eine Bewertung zu bitten. Verboten sind Anreize wie Geld, Rabatte oder Gratisleistungen dafür, auch für das Ändern oder Entfernen einer Bewertung.
 
 ### Wie lange dauert es, bis Änderungen im Profil sichtbar sind?
 
@@ -173,4 +173,4 @@ Der Google Profile Quick-Fix kostet 79 €. Die vollständige Optimierung kostet
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-14. Fehler gefunden? info@localdominate.org
