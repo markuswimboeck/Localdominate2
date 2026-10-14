@@ -34,6 +34,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "[Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen): wann und wie Sie fragen, Bewertungslink und QR-Code, was verboten ist.",
+            "[Bewertungs-Antworten: Vorlagen](/blog/bewertungs-antworten-vorlagen): Antwortvorlagen für typische Situationen, die Sie an Ihren Betrieb anpassen.",
           ],
         },
       ],

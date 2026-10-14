@@ -43,8 +43,9 @@ The twelve `/blog/*-hub` pages are V4 articles with `hub: true` (see `src/conten
 A hub groups existing articles in sections; every `[text](/blog/<slug>)` in its sections becomes an
 `ItemList` entry in the page's JSON-LD (`WebPage` + `CollectionPage`). Hub text only repeats
 statements that are already checked in the linked V4 articles. Legacy pages with unsourced figures
-(e.g. factor percentages) are not linked until they are migrated. Some hubs still link legacy-layout
-articles without such figures; those are not fact-checked yet and are listed in the Hub PR notes.
+(e.g. factor percentages) are not linked until they are migrated. Hubs still link a few legacy-layout
+articles without such figures (local-seo-fahrschule, local-seo-sprachschule, local-seo-hochzeitsdienstleister,
+local-seo-vs-maps-seo, whatsapp-business-local-seo-2026) and the FAQ sub-pages; those are not fact-checked yet.
 
 After adding an article to a hub or changing a hub, run `node scripts/hub-index.mjs`. It rewrites
 `src/content/articles/hubIndex.ts`, which gives every listed article an "Übersicht" link to its

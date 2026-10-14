@@ -35,6 +35,7 @@ const article: V4Article = {
             "[Local SEO Audit](/blog/local-seo-audit-checkliste): die Checkliste zum Selbstprüfen.",
             "[Google-Maps-Audit](/blog/google-maps-audit-template): die Vorlage zum Ausfüllen für Ihr Unternehmensprofil, mit Soll, Ist und Status.",
             "[KI-Sichtbarkeit prüfen](/blog/ai-visibility-checklist): die Checkliste für Website und Profil.",
+            "[Local SEO Implementierungs-Checkliste](/blog/local-seo-checkliste-komplett): die Ersteinrichtung für lokale Betriebe.",
           ],
         },
       ],
@@ -82,6 +83,7 @@ const article: V4Article = {
           items: [
             "[Local SEO jeden Monat](/blog/local-seo-monthly-checklist): die Routine-Checkliste mit Wochenplan.",
             "[Google-Maps-Ranking-Tracker](/blog/google-maps-ranking-tracker): Positionen über Monate protokollieren.",
+            "[Local SEO Reporting Template](/blog/local-seo-reporting-template): der Monatsbericht.",
             "[Sichtbarkeit in KI-Antworten messen](/blog/ai-visibility-index-local-seo-metrik): eine eigene, ehrliche Kennzahl.",
           ],
         },

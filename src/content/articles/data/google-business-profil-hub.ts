@@ -56,6 +56,8 @@ const article: V4Article = {
             "[Öffnungszeiten, Feiertage und Sonderzeiten](/blog/gbp-oeffnungszeiten-sondertage): reguläre Zeiten, Feiertage, Saisonbetriebe und vorübergehende Schließungen.",
             "[Attribute richtig nutzen](/blog/gbp-attribute-richtig-nutzen): Merkmale wie Barrierefreiheit, Zahlungsarten oder Sitzplätze im Freien.",
             "[Fotos und Videos einsetzen](/blog/gbp-fotos-optimieren): Formate, Größen und welche Motive Kunden wirklich weiterhelfen.",
+            "[Produkte und Dienstleistungen präsentieren](/blog/google-business-produkte-services): Leistungen und Produkte im Profil anlegen.",
+            "[Google Posts nutzen](/blog/google-posts-ranking-faktor): was Beiträge für Ranking und Kunden leisten.",
           ],
         },
       ],
@@ -87,6 +89,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "[Mehrere Standorte bei Google verwalten](/blog/gbp-mehrere-standorte): Unternehmensgruppen, Rollen und Sammelbestätigung ab zehn Standorten.",
+            "[Franchise-SEO und mehrere Standorte](/blog/local-seo-mehrstufig-unternehmen): Franchise-Systeme und Marken mit mehreren Betreibern.",
           ],
         },
       ],

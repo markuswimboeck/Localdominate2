@@ -50,7 +50,7 @@ const article: V4Article = {
             { title: "Ausgangslage festhalten", text: "Profil, Website und Einträge mit dem [Google-Maps-Audit](/blog/google-maps-audit-template) aufnehmen." },
             { title: "Messung einrichten", text: "Suchbegriffe und Messpunkte festlegen und monatlich protokollieren: [Google-Maps-Ranking-Tracker](/blog/google-maps-ranking-tracker)." },
             { title: "Änderungen protokollieren", text: "Jede Änderung mit Datum notieren: an Profil und Website im Änderungsprotokoll des Ranking-Trackers, an Einträgen in der [Citation-Tracking-Vorlage](/blog/citation-tracking-template)." },
-            { title: "Nach festem Zeitraum vergleichen", text: "Dieselben Messungen wiederholen und mit den Leistungsdaten vergleichen." },
+            { title: "Nach festem Zeitraum vergleichen", text: "Dieselben Messungen wiederholen und mit den Leistungsdaten vergleichen. Den Monatsbericht strukturiert das [Local SEO Reporting Template](/blog/local-seo-reporting-template)." },
           ],
         },
       ],
