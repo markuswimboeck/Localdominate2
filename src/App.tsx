@@ -61,23 +61,11 @@ const WhatsappBusinessLocalSeo2026 = lazy(() => import("./pages/blog/WhatsappBus
 
 // Troubleshooting & neue Artikel
 const LocalSeoVsMaps = lazy(() => import("./pages/blog/LocalSeoVsMaps"));
-const HubGoogleBusinessProfil = lazy(() => import("./pages/blog/HubGoogleBusinessProfil"));
-const HubBranchen = lazy(() => import("./pages/blog/HubBranchen"));
-const HubStaedte = lazy(() => import("./pages/blog/HubStaedte"));
-const HubBewertungen = lazy(() => import("./pages/blog/HubBewertungen"));
-const HubTechnischesSeo = lazy(() => import("./pages/blog/HubTechnischesSeo"));
-const HubContentMarketing = lazy(() => import("./pages/blog/HubContentMarketing"));
-const HubToolsRessourcen = lazy(() => import("./pages/blog/HubToolsRessourcen"));
-const HubAiZukunft = lazy(() => import("./pages/blog/HubAiZukunft"));
-const HubTroubleshooting = lazy(() => import("./pages/blog/HubTroubleshooting"));
-const HubCaseStudies = lazy(() => import("./pages/blog/HubCaseStudies"));
 const Partner = lazy(() => import("./pages/Partner"));
 const Redaktionsrichtlinien = lazy(() => import("./pages/Redaktionsrichtlinien"));
 const Forschungsmethodik = lazy(() => import("./pages/Forschungsmethodik"));
 const UeberUns = lazy(() => import("./pages/UeberUns"));
-const HubGoogleMapsSeo = lazy(() => import("./pages/blog/HubGoogleMapsSeo"));
 const CitationVerzeichnisse = lazy(() => import("./pages/CitationVerzeichnisse"));
-const FaqHub = lazy(() => import("./pages/blog/FaqHub"));
 const FaqSubHub = lazy(() => import("./pages/blog/FaqSubHub"));
 
 // V4 redesign: HomeV4 is the live "/" and ServicesV4 the live "/services" (see docs/B1_SCOPE.md).
@@ -205,18 +193,6 @@ const App = () => (
                 <Route path="/seo-lexikon" element={<SeoLexikon />} />
                 <Route path="/blog" element={<Blog />} />
                 <Route path="/blog/local-seo-vs-maps-seo" element={<LocalSeoVsMaps />} />
-                <Route path="/blog/google-business-profil-hub" element={<HubGoogleBusinessProfil />} />
-                <Route path="/blog/local-seo-branchen-hub" element={<HubBranchen />} />
-                <Route path="/blog/local-seo-staedte-hub" element={<HubStaedte />} />
-                <Route path="/blog/bewertungen-reputation-hub" element={<HubBewertungen />} />
-                <Route path="/blog/technisches-seo-hub" element={<HubTechnischesSeo />} />
-                <Route path="/blog/content-marketing-hub" element={<HubContentMarketing />} />
-                <Route path="/blog/tools-ressourcen-hub" element={<HubToolsRessourcen />} />
-                <Route path="/blog/ai-zukunft-hub" element={<HubAiZukunft />} />
-                <Route path="/blog/troubleshooting-hub" element={<HubTroubleshooting />} />
-                <Route path="/blog/case-studies-hub" element={<HubCaseStudies />} />
-                <Route path="/blog/google-maps-seo-hub" element={<HubGoogleMapsSeo />} />
-                <Route path="/blog/faq-hub" element={<FaqHub />} />
                 <Route path="/blog/faq-local-seo-grundlagen" element={<FaqSubHub />} />
                 <Route path="/blog/faq-google-business-profil" element={<FaqSubHub />} />
                 <Route path="/blog/faq-bewertungen-reputation" element={<FaqSubHub />} />

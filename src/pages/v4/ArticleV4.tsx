@@ -9,6 +9,7 @@ import { audiencesForArticle } from "@/data/v4ArticleAudiences";
 import { faqPageJsonLd } from "@/lib/seoFaq";
 import { Inline, plain } from "@/content/articles/inline";
 import type { Block, Section, V4Article } from "@/content/articles/types";
+import { HUB_OF } from "@/content/articles/hubIndex";
 
 const SITE = "https://localdominate.org";
 const MONTHS = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"];
@@ -19,8 +20,36 @@ const formatDate = (iso: string): string => {
   return `${d}. ${MONTHS[m - 1]} ${y}`;
 };
 
+/** Every /blog link in the sections of a hub, first occurrence wins, in reading order. */
+function hubItems(a: V4Article): { name: string; url: string }[] {
+  const seen = new Set<string>();
+  const items: { name: string; url: string }[] = [];
+  const texts = a.sections.flatMap((s) =>
+    s.blocks.flatMap((b) =>
+      b.t === "ul" || b.t === "ol"
+        ? b.items
+        : b.t === "p" || b.t === "note"
+          ? [b.text]
+          : b.t === "steps"
+            ? b.items.map((i) => i.text)
+            : b.t === "table"
+              ? b.rows.flat()
+              : [],
+    ),
+  );
+  for (const t of texts) {
+    for (const m of t.matchAll(/\[([^\]]+)\]\((\/blog\/[a-z0-9-]+)\)/g)) {
+      if (m[2] === `/blog/${a.slug}` || seen.has(m[2])) continue;
+      seen.add(m[2]);
+      items.push({ name: m[1], url: `${SITE}${m[2]}` });
+    }
+  }
+  return items;
+}
+
 function jsonLd(a: V4Article) {
   const url = `${SITE}/blog/${a.slug}`;
+  const items = a.hub ? hubItems(a) : [];
   return {
       "@context": "https://schema.org",
       "@graph": [
@@ -56,7 +85,7 @@ function jsonLd(a: V4Article) {
           citation: a.sources.map((s) => ({ "@type": "CreativeWork", name: s.title, url: s.url, publisher: s.publisher })),
         },
         {
-          "@type": "WebPage",
+          "@type": a.hub ? ["WebPage", "CollectionPage"] : "WebPage",
           "@id": `${url}#webpage`,
           url,
           name: a.seoTitle,
@@ -65,7 +94,19 @@ function jsonLd(a: V4Article) {
           isPartOf: { "@id": `${SITE}/#website` },
           breadcrumb: { "@id": `${url}#breadcrumb` },
           dateModified: a.updatedAt,
+          ...(a.hub ? { mainEntity: { "@id": `${url}#articles` } } : {}),
         },
+        ...(a.hub
+          ? [
+              {
+                "@type": "ItemList",
+                "@id": `${url}#articles`,
+                name: a.h1,
+                numberOfItems: items.length,
+                itemListElement: items.map((it, i) => ({ "@type": "ListItem", position: i + 1, name: it.name, url: it.url })),
+              },
+            ]
+          : []),
         {
           "@type": "BreadcrumbList",
           "@id": `${url}#breadcrumb`,
@@ -256,6 +297,7 @@ function Cta({ title, text, kicker = "Kostenloser Check", label = CHECK_DE.label
 /** A blog article in the V4 design. The data comes from src/content/articles/data/<slug>.ts. */
 export default function ArticleV4({ article: a }: { article: V4Article }) {
   const half = Math.ceil(a.sections.length / 2);
+  const hub = a.hub ? undefined : HUB_OF[a.slug];
   const industries = audiencesForArticle(a.slug);
   return (
     <V4Page>
@@ -299,6 +341,16 @@ export default function ArticleV4({ article: a }: { article: V4Article }) {
                 <dt className="font-v4-mono text-[11px] uppercase tracking-[0.16em] text-v4-ivory/50">Lesezeit</dt>
                 <dd className="mt-1 text-v4-ivory/85">{`${a.readingTime} Minuten`}</dd>
               </div>
+              {hub ? (
+                <div>
+                  <dt className="font-v4-mono text-[11px] uppercase tracking-[0.16em] text-v4-ivory/50">Übersicht</dt>
+                  <dd className="mt-1 text-v4-ivory/85">
+                    <Link to={`/blog/${hub.slug}`} className="underline underline-offset-4 hover:text-v4-ivory focus-visible:outline focus-visible:outline-2 focus-visible:outline-v4-signal">
+                      {hub.label}
+                    </Link>
+                  </dd>
+                </div>
+              ) : null}
               <div>
                 <dt className="font-v4-mono text-[11px] uppercase tracking-[0.16em] text-v4-ivory/50">Redaktion</dt>
                 <dd className="mt-1 text-v4-ivory/85">
