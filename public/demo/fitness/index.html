@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Ostwerk Athletik: Kraft &amp; Kurse in Dresden (Konzept-Demo)</title>
+<meta name="description" content="Konzept-Demo von LocalDominate: die Website eines erfundenen Fitnessstudios mit Probetraining, Kursplan als Text, Preisen und Kündigungsbutton.">
+<link rel="canonical" href="https://localdominate.org/demo/fitness/">
+<link rel="alternate" hreflang="en" href="https://localdominate.org/demo/fitness/en/">
+<meta name="theme-color" content="#23282c">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2323282c'/%3E%3Ccircle cx='16' cy='16' r='9' fill='none' stroke='%23f1bf2e' stroke-width='4'/%3E%3C/svg%3E">
+<link rel="preload" href="/demo/fonts/archivo-latin-standard-normal.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+@font-face{font-family:"Archivo";font-style:normal;font-weight:100 900;font-display:swap;src:url("/demo/fonts/archivo-latin-standard-normal.woff2") format("woff2")}
+.ld-bar{position:relative;z-index:50;display:flex;flex-wrap:wrap;align-items:center;gap:.4rem 1rem;padding:.6rem max(1rem,calc((100vw - 1200px)/2));background:#16161a;color:#ecebe7;font:500 13px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif}
+.ld-bar p{margin:0;flex:1 1 22rem;color:#cfcdc6}
+.ld-bar b{display:inline-block;margin-right:.5rem;padding:.1rem .5rem;border-radius:4px;background:#ecebe7;color:#16161a;font-weight:700}
+.ld-bar a{color:#fff;text-underline-offset:3px}
+.ld-bar nav{display:flex;gap:1rem;flex-wrap:wrap}
+.ld-bar a:focus-visible{outline:2px solid #fff;outline-offset:3px;border-radius:2px}
+
+:root{
+  --chalk:#ecebe5; --graphite:#23282c; --forest:#2e5a45; --plate:#f1bf2e; --red:#b9432f; --line:rgba(35,40,44,.16); --soft:#545c61; --white:#fbfbf8;
+  --f:"Archivo",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
+body{margin:0;background:var(--chalk);color:var(--graphite);font:400 17px/1.55 var(--f);font-stretch:100%}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--forest);outline-offset:3px}
+.wrap{max-width:1240px;margin:0 auto;padding:0 1.25rem}
+@media(min-width:760px){.wrap{padding:0 2.5rem}}
+h1,h2,h3{margin:0;font-stretch:62%;font-weight:800;letter-spacing:-.005em;line-height:.95}
+h2{font-size:clamp(2.4rem,1.4rem + 3.6vw,4.4rem)}
+h3{font-size:1.6rem}
+p{margin:0}
+.lead{color:var(--soft);max-width:40rem}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:50px;padding:0 1.5rem;border:2px solid var(--graphite);border-radius:6px;background:var(--graphite);color:var(--chalk);font:700 16px var(--f);font-stretch:100%;text-decoration:none;cursor:pointer}
+.btn:hover{background:var(--forest);border-color:var(--forest)}
+.btn.ghost{background:transparent;color:var(--graphite)}
+.btn.ghost:hover{background:var(--graphite);color:var(--chalk)}
+.btn.y{background:var(--plate);border-color:var(--plate);color:var(--graphite)}
+.btn.y:hover{background:#ffd451;border-color:#ffd451}
+.top{position:sticky;top:0;z-index:20;background:var(--graphite);color:var(--chalk)}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:1rem;min-height:60px}
+.brand{font-weight:800;font-stretch:62%;font-size:1.7rem;text-decoration:none;letter-spacing:.01em}
+.brand span{color:var(--plate)}
+.top nav{display:none;gap:1.8rem}
+.top nav a{text-decoration:none;font-weight:600;font-size:15px;color:rgba(236,235,229,.85)}
+.top nav a:hover{color:#fff}
+@media(min-width:860px){.top nav{display:flex}}
+.top .btn{min-height:40px;padding:0 1rem;font-size:14px}
+/* hero */
+.hero{background:var(--graphite);color:var(--chalk);padding:2.5rem 0 3rem;position:relative;overflow:hidden}
+.hero .wrap{display:grid;gap:2.5rem;position:relative}
+@media(min-width:980px){.hero .wrap{grid-template-columns:1.15fr .85fr;align-items:start}.hero{padding:4.5rem 0 5rem}}
+.hero h1{font-size:clamp(4.4rem,2rem + 11vw,11.5rem);line-height:.82;letter-spacing:-.01em;font-stretch:62%}
+.hero h1 .b{display:block;color:var(--plate)}
+.hero .tag{margin-top:1.4rem;font-size:1.25rem;font-weight:700;font-stretch:85%}
+.hero .lead{color:rgba(236,235,229,.75);margin-top:.75rem}
+.hero .btn.ghost{color:var(--chalk);border-color:rgba(236,235,229,.45)}
+.hero .btn.ghost:hover{background:var(--chalk);color:var(--graphite)}
+.now{display:flex;flex-wrap:wrap;gap:.5rem 1.5rem;margin-top:2rem;padding-top:1.2rem;border-top:1px solid rgba(236,235,229,.18);font-size:15px}
+.now span{display:flex;align-items:center;gap:.5rem}
+.dot{width:9px;height:9px;border-radius:50%;background:#7c8388}
+.dot.on{background:#5fcf8a;box-shadow:0 0 0 4px rgba(95,207,138,.2)}
+.plates{position:absolute;right:-90px;top:-60px;width:360px;opacity:.09;pointer-events:none}
+@media(max-width:979px){.plates{display:none}}
+/* trial card */
+.trial{background:var(--chalk);color:var(--graphite);border-radius:14px;padding:1.4rem;box-shadow:0 0 0 6px rgba(241,191,46,.9)}
+@media(min-width:760px){.trial{padding:1.75rem}}
+.trial h2{font-size:2.3rem}
+.tsteps{display:flex;gap:.35rem;margin:1rem 0 1.25rem;list-style:none;padding:0}
+.tsteps li{flex:1;height:5px;border-radius:3px;background:rgba(35,40,44,.15);font-size:0}
+.tsteps li.on,.tsteps li.done{background:var(--forest)}
+.tq{font-weight:700;margin-bottom:.8rem}
+.chips{display:grid;grid-template-columns:repeat(2,1fr);gap:.5rem}
+.chip{min-height:52px;padding:.5rem .75rem;border:2px solid rgba(35,40,44,.18);border-radius:8px;background:var(--white);font:600 15px var(--f);color:var(--graphite);cursor:pointer;text-align:left}
+.chip:hover{border-color:var(--graphite)}
+.chip[aria-pressed=true]{border-color:var(--forest);background:#dfe9e3}
+.chip:disabled{opacity:.35;cursor:not-allowed}
+.chip small{display:block;font-weight:500;font-size:13px;color:var(--soft)}
+.chips.days{grid-template-columns:repeat(4,1fr)}
+.chips.times{grid-template-columns:repeat(3,1fr)}
+.chips.days .chip,.chips.times .chip{text-align:center}
+.field{display:grid;gap:.3rem;margin-bottom:.9rem}
+.field label{font-weight:700;font-size:14px}
+.field input{min-height:50px;padding:0 .85rem;border:2px solid rgba(35,40,44,.2);border-radius:8px;background:var(--white);font:16px var(--f);color:var(--graphite)}
+.field input:focus-visible{outline:2px solid var(--forest);outline-offset:1px}
+.err{color:var(--red);font-size:14px;min-height:1.2em;font-weight:600}
+.row{display:flex;gap:.6rem;flex-wrap:wrap;margin-top:1rem}
+.sum{font-size:15px;color:var(--soft);margin-bottom:1rem}
+.done strong{display:block;font-size:2rem;font-weight:800;font-stretch:62%;line-height:1;margin:.4rem 0 .7rem}
+.done p{color:var(--soft)}
+/* sections */
+section{padding:4.5rem 0}
+.head{display:grid;gap:1rem;margin-bottom:2rem}
+@media(min-width:900px){.head{grid-template-columns:1fr 1fr;align-items:end}}
+/* timetable */
+.filters{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1rem}
+.tabs{display:flex;gap:.35rem;overflow-x:auto;padding-bottom:.25rem;margin-bottom:1.5rem;scrollbar-width:thin}
+.tab,.fil{position:relative;flex:0 0 auto;min-height:44px;padding:0 .85rem;border:2px solid var(--graphite);border-radius:6px;background:transparent;font:700 15px var(--f);color:var(--graphite);cursor:pointer}
+.fil{border-width:1px;border-color:var(--line);font-weight:600}
+.tab[aria-selected=true]{background:var(--graphite);color:var(--chalk)}
+.fil[aria-pressed=true]{background:var(--forest);border-color:var(--forest);color:#fff}
+.tt{list-style:none;margin:0;padding:0;border-top:2px solid var(--graphite)}
+.tt li{display:grid;grid-template-columns:4.2rem 1fr auto;gap:.2rem 1rem;align-items:baseline;padding:1rem 0;border-bottom:1px solid var(--line)}
+@media(min-width:760px){.tt li{grid-template-columns:5.5rem 1.6fr 1fr 1fr 9rem}}
+.tt .time{font-weight:800;font-stretch:75%;font-size:1.4rem;font-variant-numeric:tabular-nums}
+.tt .name{font-weight:700;font-size:1.1rem}
+.tt .type{display:inline-block;margin-left:.5rem;padding:.05rem .45rem;border-radius:4px;font-size:12px;font-weight:700;background:rgba(46,90,69,.12);color:var(--forest);vertical-align:2px}
+.tt .meta{color:var(--soft);font-size:15px;grid-column:2}
+@media(min-width:760px){.tt .meta{grid-column:auto}}
+.tt .spots{font-weight:700;font-size:14px;text-align:right;grid-column:3;grid-row:1}
+@media(min-width:760px){.tt .spots{grid-column:auto;grid-row:auto}}
+.tt .spots.full{color:var(--red)}
+.tt .spots.few{color:#8a6a00}
+.empty{padding:1.5rem 0;color:var(--soft)}
+/* load */
+.load{background:var(--white)}
+.bars{display:grid;grid-template-columns:repeat(18,1fr);gap:4px;align-items:end;height:200px;margin-top:2rem;border-bottom:2px solid var(--graphite)}
+.bar{position:relative;background:#c9ccc6;border-radius:3px 3px 0 0}
+.bar.now{background:var(--plate)}
+.bar.now::after{content:attr(data-label);position:absolute;top:-1.6rem;left:50%;transform:translateX(-50%);font-size:12px;font-weight:800;white-space:nowrap}
+.axis{display:grid;grid-template-columns:repeat(18,1fr);gap:4px;margin-top:.4rem;font-size:12px;color:var(--soft);font-variant-numeric:tabular-nums}
+.axis span:nth-child(odd){visibility:hidden}
+@media(min-width:760px){.axis span:nth-child(odd){visibility:visible}}
+/* prices */
+.plans{display:grid;gap:1rem}
+@media(min-width:900px){.plans{grid-template-columns:repeat(3,1fr);align-items:stretch}}
+.plan{position:relative;padding:1.6rem;border:2px solid var(--graphite);border-radius:12px;background:var(--white);display:flex;flex-direction:column}
+.plan.rec{background:var(--graphite);color:var(--chalk)}
+.plan .badge{position:absolute;top:-.9rem;left:1.25rem;padding:.2rem .6rem;border-radius:4px;background:var(--plate);color:var(--graphite);font-size:13px;font-weight:800}
+.plan h3{font-size:2rem}
+.plan .p{margin-top:.75rem;font-weight:800;font-stretch:62%;font-size:3.8rem;line-height:1}
+.plan .p small{font-size:15px;font-weight:600;font-stretch:100%;margin-left:.4rem;opacity:.7}
+.plan ul{list-style:none;padding:0;margin:1.25rem 0 0;display:grid;gap:.5rem;font-size:15px}
+.plan li{padding-left:1.4rem;position:relative}
+.plan li::before{content:"";position:absolute;left:0;top:.55em;width:.7rem;height:3px;background:var(--forest)}
+.plan.rec li::before{background:var(--plate)}
+.fee{margin-top:1.25rem;font-size:14px;color:var(--soft)}
+/* more */
+.more{background:var(--forest);color:#f0f3ef}
+.more .grid{display:grid;gap:2rem;margin-top:2rem}
+@media(min-width:800px){.more .grid{grid-template-columns:1fr 1fr}}
+.more .grid div{border-top:3px solid var(--plate);padding-top:1rem}
+.more p{color:rgba(240,243,239,.82);margin-top:.5rem}
+/* hours */
+.hgrid{display:grid;gap:2rem}
+@media(min-width:900px){.hgrid{grid-template-columns:1.2fr .8fr}}
+.ht{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+.ht th,.ht td{text-align:left;padding:.8rem .5rem .8rem 0;border-bottom:1px solid var(--line);vertical-align:top}
+.ht thead th{font-size:14px;color:var(--soft);font-weight:600;border-bottom:2px solid var(--graphite)}
+.ht tbody th{font-weight:800;font-stretch:75%;font-size:1.2rem}
+.small{font-size:14px;color:var(--soft);margin-top:1rem}
+/* faq */
+.faq details{border-bottom:1px solid var(--line)}
+.faq summary{list-style:none;cursor:pointer;padding:1.1rem 2rem 1.1rem 0;position:relative;font-weight:700;font-size:1.05rem}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";position:absolute;right:.25rem;top:.85rem;font-size:1.5rem;font-weight:400}
+.faq details[open] summary::after{content:"–"}
+.faq details p{padding-bottom:1.2rem;color:var(--soft);max-width:44rem}
+.faq .list{border-top:2px solid var(--graphite);margin-top:2rem}
+/* show */
+.show{background:var(--white)}
+.show ul{list-style:none;padding:0;margin:2rem 0 0;display:grid;gap:1.5rem}
+@media(min-width:800px){.show ul{grid-template-columns:1fr 1fr}}
+.show li{border-left:4px solid var(--plate);padding-left:1rem}
+.show li h3{font-size:1.5rem}
+.show li p{color:var(--soft);margin-top:.35rem}
+.show .cta{margin-top:2.5rem;display:flex;flex-wrap:wrap;gap:1rem 1.5rem;align-items:center}
+.show .cta p{color:var(--soft);max-width:28rem}
+footer{background:var(--graphite);color:rgba(236,235,229,.75);padding:2rem 0 2.5rem;font-size:14px}
+footer .wrap{display:flex;flex-wrap:wrap;gap:1rem 2rem;align-items:center;justify-content:space-between}
+footer .btn{min-height:44px;font-size:14px;color:var(--chalk);border-color:rgba(236,235,229,.5);background:transparent}
+dialog{border:0;border-radius:12px;padding:1.5rem;max-width:26rem;width:calc(100% - 2rem);background:var(--chalk);color:var(--graphite)}
+dialog::backdrop{background:rgba(20,22,24,.6)}
+dialog h2{font-size:2.2rem}
+dialog p{margin:.75rem 0 1.25rem;color:var(--soft)}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+</style>
+</head>
+<body>
+<div class="ld-bar" role="note" aria-label="Über diese Demo">
+  <p><b>Konzept-Demo</b> Ostwerk Athletik ist ein erfundenes Studio. Namen, Preise, Zeiten, Auslastung und Adresse sind Beispiele. Anfragen werden nicht gesendet.</p>
+  <nav aria-label="Über diese Demo">
+    <a href="/de/fitnessstudio">So eine Seite für Ihr Studio</a>
+    <a href="/demo/fitness/en/" hreflang="en" lang="en" aria-label="Diese Demo auf Englisch">English</a>
+  </nav>
+</div>
+
+<header class="top"><div class="wrap">
+  <a class="brand" href="#top">Ostwerk <span>Athletik</span></a>
+  <nav aria-label="Menü"><a href="#kursplan">Kursplan</a><a href="#preise">Preise</a><a href="#zeiten">Zeiten</a></nav>
+  <a class="btn y" href="#probetraining">Probetraining</a>
+</div></header>
+<main id="top">
+<section class="hero" aria-labelledby="h1"><svg class="plates" viewBox="0 0 200 200" aria-hidden="true"><g fill="none" stroke="#f1bf2e" stroke-width="10"><circle cx="100" cy="100" r="92"/><circle cx="100" cy="100" r="62"/><circle cx="100" cy="100" r="22"/></g></svg><div class="wrap">
+  <div>
+    <h1 id="h1">Ostwerk<span class="b">Athletik</span></h1>
+    <p class="tag">Krafttraining, Kurse und Personal Training in Dresden-Neustadt</p>
+    <p class="lead">Eine Halle mit zwölf Racks, ein Kursraum, betreute Zeiten bis 21 Uhr. Kommen Sie zum Probetraining: 60 Minuten mit einer Trainerin oder einem Trainer, kostenlos.</p>
+    <div class="row" style="margin-top:1.75rem"><a class="btn ghost" href="#kursplan">Kursplan ansehen</a></div>
+    <div class="now" aria-live="polite"><span><i class="dot" id="d-open"></i><b id="s-open">&nbsp;</b></span><span><i class="dot" id="d-staff"></i><span id="s-staff"></span></span><span>Beispielweg 4, 01099 Dresden</span></div>
+  </div>
+  <div class="trial" id="probetraining">
+    <h2>Probetraining buchen</h2>
+    <ol class="tsteps" id="tsteps"><li data-i="0">Ziel</li><li data-i="1">Tag</li><li data-i="2">Uhrzeit</li><li data-i="3">Kontakt</li></ol>
+    <div id="tpanel" aria-live="polite"></div>
+  </div>
+</div></section>
+
+<section id="kursplan" aria-labelledby="kp-t"><div class="wrap">
+  <div class="head"><h2 id="kp-t">Kursplan</h2><p class="lead">Alle Kurse als Text, nicht als Foto vom Aushang. Für Mitglieder inklusive, Plätze buchen Sie in der App.</p></div>
+  <div class="tabs" role="tablist" aria-label="Kursplan" id="tabs"><button class="tab" role="tab" type="button" id="tab-1" data-d="1" aria-selected="false" aria-controls="tt">Mo<span class="sr"> Montag</span></button><button class="tab" role="tab" type="button" id="tab-2" data-d="2" aria-selected="false" aria-controls="tt">Di<span class="sr"> Dienstag</span></button><button class="tab" role="tab" type="button" id="tab-3" data-d="3" aria-selected="false" aria-controls="tt">Mi<span class="sr"> Mittwoch</span></button><button class="tab" role="tab" type="button" id="tab-4" data-d="4" aria-selected="false" aria-controls="tt">Do<span class="sr"> Donnerstag</span></button><button class="tab" role="tab" type="button" id="tab-5" data-d="5" aria-selected="false" aria-controls="tt">Fr<span class="sr"> Freitag</span></button><button class="tab" role="tab" type="button" id="tab-6" data-d="6" aria-selected="false" aria-controls="tt">Sa<span class="sr"> Samstag</span></button><button class="tab" role="tab" type="button" id="tab-0" data-d="0" aria-selected="false" aria-controls="tt">So<span class="sr"> Sonntag</span></button></div>
+  <div class="filters" id="filters"><button type="button" class="fil" data-f="all" aria-pressed="true">Alle</button><button type="button" class="fil" data-f="strength" aria-pressed="false">Kraft</button><button type="button" class="fil" data-f="cardio" aria-pressed="false">Ausdauer</button><button type="button" class="fil" data-f="mobility" aria-pressed="false">Beweglichkeit</button><button type="button" class="fil" data-f="rehab" aria-pressed="false">Rücken & Reha</button></div>
+  <ul class="tt" id="tt" role="tabpanel"></ul>
+</div></section>
+
+<section class="load" aria-labelledby="ld-t"><div class="wrap">
+  <div class="head"><h2 id="ld-t">Wann ist es ruhig?</h2><p class="lead">Typische Auslastung über den Tag. Beispielwerte für diese Demo; im echten Projekt kommen sie aus Ihrem Check-in-System.</p></div>
+  <div class="bars" id="bars" role="img" aria-label="Wann ist es ruhig?"></div>
+  <div class="axis" id="axis" aria-hidden="true"></div>
+</div></section>
+
+<section id="preise" aria-labelledby="pr-t"><div class="wrap">
+  <div class="head"><h2 id="pr-t">Mitgliedschaft</h2><p class="lead">Preise, Laufzeit und Kündigung auf einen Blick. Keine Aufnahmegebühr, wenn Sie nach dem Probetraining abschließen.</p></div>
+  <ul class="plans" style="list-style:none;padding:0;margin:1rem 0 0"><li class="plan">
+      <h3>Flex</h3><p class="p">49 €<small>im Monat</small></p><ul><li>Laufzeit: 1 Monat</li><li>Kündigung: jederzeit zum Monatsende</li><li>Halle, Kurse, Sauna</li></ul></li><li class="plan rec"><span class="badge">Am häufigsten gewählt</span>
+      <h3>Jahr</h3><p class="p">39 €<small>im Monat</small></p><ul><li>Laufzeit: 12 Monate</li><li>Danach monatlich kündbar</li><li>Halle, Kurse, Sauna, 1 Trainingsplan pro Quartal</li></ul></li><li class="plan">
+      <h3>Ausbildung &amp; Studium</h3><p class="p">32 €<small>im Monat</small></p><ul><li>Laufzeit: 12 Monate, mit Nachweis</li><li>Danach monatlich kündbar</li><li>Halle, Kurse, Sauna</li></ul></li></ul>
+  <p class="fee">Aufnahmegebühr 29 €, entfällt beim Abschluss nach dem Probetraining.</p>
+</div></section>
+
+<section class="more" aria-labelledby="mo-t"><div class="wrap">
+  <h2 id="mo-t">Mehr als Geräte</h2>
+  <div class="grid"><div><h3>Personal Training</h3><p>Einzeln oder zu zweit, mit Ziel und Plan. 60 Minuten ab 69 €, Zehnerkarte ab 620 €. Trainerinnen und Trainer mit B-Lizenz.</p></div><div><h3>Reha-Sport</h3><p>In kleinen Gruppen mit ärztlicher Verordnung. Was Ihre Krankenkasse übernimmt, klären wir vor dem ersten Termin mit Ihnen.</p></div></div>
+</div></section>
+
+<section id="zeiten" aria-labelledby="hr-t"><div class="wrap">
+  <h2 id="hr-t">Öffnungszeiten</h2>
+  <div class="hgrid" style="margin-top:2rem">
+    <table class="ht"><tbody>
+    <tr><th scope="row">Studio</th><td>täglich</td><td>6:00 – 23:00</td></tr>
+    <tr><th scope="row" rowspan="2">Betreut</th><td>Montag bis Freitag</td><td>9:00 – 21:00</td></tr>
+    <tr><td>Samstag, Sonntag</td><td>10:00 – 18:00</td></tr>
+    <tr><th scope="row">Sauna</th><td>täglich</td><td>15:00 – 22:00</td></tr></tbody></table>
+    <div><p>Beispielweg 4, 01099 Dresden</p><p class="small">Straßenbahn bis Haltestelle Beispielstraße, zwei Minuten zu Fuß. 40 Fahrradplätze im Hof.</p><p class="small">Feiertage: wie Sonntag. 24. und 31. Dezember bis 14 Uhr.</p></div>
+  </div>
+</div></section>
+
+<section class="faq" aria-labelledby="fq-t"><div class="wrap">
+  <h2 id="fq-t">Häufige Fragen</h2>
+  <div class="list"><details><summary>Was bringe ich zum Probetraining mit?</summary><p>Sportkleidung, saubere Hallenschuhe, ein Handtuch und etwas zu trinken. Schloss für den Spind haben wir da.</p></details><details><summary>Wie kündige ich?</summary><p>Über den Button „Verträge hier kündigen“ unten auf jeder Seite, per E-Mail oder am Empfang. Sie bekommen sofort eine Bestätigung.</p></details><details><summary>Kann ich pausieren?</summary><p>Bei Krankheit, Schwangerschaft oder Auslandsaufenthalt ruht der Vertrag ohne Kosten, mit Nachweis.</p></details><details><summary>Ist es abends sehr voll?</summary><p>Zwischen 17 und 19 Uhr am meisten. Ruhiger ist es vormittags und ab 20 Uhr. Die Grafik oben zeigt den typischen Tag.</p></details></div>
+</div></section>
+
+<section class="show" aria-labelledby="sh-t"><div class="wrap">
+  <h2 id="sh-t">Was diese Demo zeigt</h2>
+  <ul><li><h3>Probetraining in vier Schritten</h3><p>Ziel, Tag, Uhrzeit, Kontakt. Nur in betreuten Zeiten, damit jemand Zeit hat. Gleich oben auf der Seite.</p></li><li><h3>Kursplan als Text</h3><p>Lesbar auf dem Handy, filterbar und für Suchmaschinen erfassbar. Kein Foto vom Aushang, kein PDF.</p></li><li><h3>Preise mit Laufzeit und Kündigung</h3><p>Was es kostet, wie lange es läuft und wie man kündigt, steht vor dem Abschluss da. Dazu der Kündigungsbutton nach § 312k BGB.</p></li><li><h3>Zeiten, die zusammenpassen</h3><p>Öffnungszeiten, betreute Zeiten und Sauna getrennt, so wie Google sie im Profil als weitere Öffnungszeiten erlaubt.</p></li></ul>
+  <div class="cta"><a class="btn" href="/de/fitnessstudio">So eine Seite für Ihr Studio</a><p>Website in 5 Tagen, ab 1.490 €. Umfang und Preis schriftlich vor dem Start.</p></div>
+</div></section>
+</main>
+<footer><div class="wrap"><p>Ostwerk Athletik ist ein erfundenes Studio, gebaut von LocalDominate als Konzept-Demo. Kein Kunde, kein echter Betrieb. <a href="/impressum">Impressum von LocalDominate</a></p><button type="button" class="btn" id="cancel-open">Verträge hier kündigen</button></div></footer>
+<dialog id="cancel" aria-labelledby="cn-t"><h2 id="cn-t">Vertrag kündigen</h2><p>Demo: Hier stünde das Kündigungsformular nach § 312k BGB mit Bestätigungsseite. In dieser Demo wird nichts gesendet.</p><form method="dialog"><button class="btn">Schließen</button></form></dialog>
+<script>
+
+function ldStatus(hours, t){
+  var now=new Date(), d=now.getDay(), m=now.getHours()*60+now.getMinutes();
+  function fmt(x){var h=Math.floor(x/60), mm=x%60; return h+':'+(mm<10?'0':'')+mm;}
+  var today=hours[d];
+  if(today && m>=today[0] && m<today[1]) return {open:true, text:t.openUntil.replace('{t}',fmt(today[1]))};
+  if(today && m<today[0]) return {open:false, text:t.opensToday.replace('{t}',fmt(today[0]))};
+  for(var i=1;i<8;i++){var dd=(d+i)%7; if(hours[dd]) return {open:false, text:t.opensOn.replace('{d}',t.days[dd]).replace('{t}',fmt(hours[dd][0]))};}
+  return {open:false,text:''};
+}
+var D={"lang":"de","open":{"0":[360,1380],"1":[360,1380],"2":[360,1380],"3":[360,1380],"4":[360,1380],"5":[360,1380],"6":[360,1380]},"staffed":{"0":[600,1080],"1":[540,1260],"2":[540,1260],"3":[540,1260],"4":[540,1260],"5":[540,1260],"6":[600,1080]},"plan":{"0":[["10:30","mobility","Deniz","studio",12],["11:30","cycle","Lena","cycle",5]],"1":[["07:00","cycle","Lena","cycle",4],["12:15","mobility","Deniz","studio",9],["17:30","barbell","Kai","hall",2],["18:30","rehab","Sophie","studio",0],["19:30","circuit","Kai","hall",6]],"2":[["07:00","row","Lena","hall",5],["10:00","back","Sophie","studio",7],["17:30","yoga","Deniz","studio",3],["18:30","cycle","Lena","cycle",0],["19:30","barbell","Kai","hall",4]],"3":[["07:00","cycle","Lena","cycle",6],["12:15","circuit","Kai","hall",8],["17:30","rehab","Sophie","studio",1],["18:30","mobility","Deniz","studio",10],["19:30","row","Lena","hall",3]],"4":[["07:00","row","Lena","hall",4],["10:00","back","Sophie","studio",5],["17:30","barbell","Kai","hall",0],["18:30","yoga","Deniz","studio",6],["19:30","cycle","Lena","cycle",2]],"5":[["07:00","cycle","Lena","cycle",7],["12:15","mobility","Deniz","studio",11],["17:00","circuit","Kai","hall",5],["18:00","rehab","Sophie","studio",3]],"6":[["10:00","barbell","Kai","hall",3],["11:15","yoga","Deniz","studio",8],["12:30","row","Lena","hall",6]]},"courses":{"barbell":"strength","circuit":"strength","row":"cardio","cycle":"cardio","mobility":"mobility","yoga":"mobility","back":"rehab","rehab":"rehab"},"loadWeek":[5,18,30,26,20,18,22,25,22,20,24,40,68,92,96,78,52,24],"loadWeekend":[4,8,20,38,52,55,48,40,35,30,26,22,20,18,14,10,6,3],"t":{"openUntil":"Jetzt geöffnet bis {t} Uhr","opensToday":"Öffnet heute um {t} Uhr","opensOn":"Geschlossen. Öffnet {d} um {t} Uhr","days":["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],"daysShort":["So","Mo","Di","Mi","Do","Fr","Sa"],"staffedNow":"Betreut bis {t} Uhr","staffedNot":"Gerade keine Betreuung","goalQ":"Was möchten Sie erreichen?","goals":["Stärker werden","Fit bleiben","Rücken entlasten","Wieder einsteigen"],"dayQ":"An welchem Tag?","timeQ":"Wann passt es? Probetrainings gibt es in den betreuten Zeiten.","contactQ":"Wie erreichen wir Sie?","name":"Ihr Name","contact":"Telefon oder E-Mail","back":"Zurück","send":"Probetraining anfragen","errName":"Bitte geben Sie Ihren Namen an.","errContact":"Bitte geben Sie eine Telefonnummer oder E-Mail-Adresse an.","doneTitle":"So sähe Ihre Bestätigung aus","doneText":"Demo: Es wurde nichts gesendet. Im echten Projekt landet die Anfrage in Ihrer Mitgliederverwaltung oder per E-Mail beim Team, mit Erinnerung am Vortag.","again":"Neu beginnen","summary":"Probetraining „{g}“, {d} um {t} Uhr","types":{"strength":"Kraft","cardio":"Ausdauer","mobility":"Beweglichkeit","rehab":"Rücken & Reha"},"course":{"barbell":"Langhantel-Grundlagen","circuit":"Kraftzirkel","row":"Rudern im Intervall","cycle":"Indoor Cycling","mobility":"Mobility und Dehnen","yoga":"Yoga für Kraftsportler","back":"Rückenfit","rehab":"Reha-Sport mit Verordnung"},"rooms":{"hall":"Halle","studio":"Kursraum","cycle":"Cycling-Raum"},"left":"{n} Plätze frei","leftOne":"1 Platz frei","full":"Warteliste","noCourses":"Keine Kurse an diesem Tag.","loadNow":"jetzt"}};
+function fmtT(m){var h=Math.floor(m/60), mm=m%60; return h+':'+(mm<10?'0':'')+mm;}
+(function(){
+  var st=ldStatus(D.open,D.t); document.getElementById('s-open').textContent=st.text; if(st.open) document.getElementById('d-open').classList.add('on');
+  var n=new Date(), d=n.getDay(), m=n.getHours()*60+n.getMinutes(), s=D.staffed[d];
+  var on=s&&m>=s[0]&&m<s[1]; document.getElementById('s-staff').textContent=on?D.t.staffedNow.replace('{t}',fmtT(s[1])):D.t.staffedNot; if(on) document.getElementById('d-staff').classList.add('on');
+})();
+function h(tag,attrs,txt){var e=document.createElement(tag); for(var k in attrs){ if(k==='on') e.addEventListener('click',attrs[k]); else e.setAttribute(k,attrs[k]); } if(txt!=null) e.textContent=txt; return e;}
+/* timetable */
+(function(){
+  var day=new Date().getDay(), filter='all', list=document.getElementById('tt');
+  var tabs=[].slice.call(document.querySelectorAll('.tab')), fils=[].slice.call(document.querySelectorAll('.fil'));
+  function draw(){
+    tabs.forEach(function(b){var on=Number(b.dataset.d)===day; b.setAttribute('aria-selected',String(on)); b.tabIndex=on?0:-1; if(on) list.setAttribute('aria-labelledby',b.id);});
+    fils.forEach(function(b){b.setAttribute('aria-pressed',String(b.dataset.f===filter));});
+    list.innerHTML=''; var rows=(D.plan[day]||[]).filter(function(r){return filter==='all'||D.courses[r[1]]===filter;});
+    if(!rows.length){ list.appendChild(h('li',{class:'empty'},D.t.noCourses)); return; }
+    rows.forEach(function(r){ var li=h('li'); li.appendChild(h('span',{class:'time'},r[0]));
+      var nm=h('span',{class:'name'},D.t.course[r[1]]); nm.appendChild(h('span',{class:'type'},D.t.types[D.courses[r[1]]])); li.appendChild(nm);
+      li.appendChild(h('span',{class:'meta'},r[2])); li.appendChild(h('span',{class:'meta'},D.t.rooms[r[3]]));
+      var sp=r[4]===0?D.t.full:(r[4]===1?D.t.leftOne:D.t.left.replace('{n}',r[4]));
+      li.appendChild(h('span',{class:'spots'+(r[4]===0?' full':(r[4]<=3?' few':''))},sp)); list.appendChild(li); });
+  }
+  tabs.forEach(function(b,i){ b.addEventListener('click',function(){day=Number(b.dataset.d);draw();});
+    b.addEventListener('keydown',function(e){ var k=e.key, j=k==='ArrowRight'?i+1:k==='ArrowLeft'?i-1:null; if(j===null) return; e.preventDefault(); j=(j+tabs.length)%tabs.length; day=Number(tabs[j].dataset.d); draw(); tabs[j].focus(); }); });
+  fils.forEach(function(b){b.addEventListener('click',function(){filter=b.dataset.f;draw();});});
+  draw();
+})();
+/* load chart */
+(function(){
+  var n=new Date(), d=n.getDay(), hr=n.getHours(), vals=(d===0||d===6)?D.loadWeekend:D.loadWeek, bars=document.getElementById('bars'), axis=document.getElementById('axis');
+  vals.forEach(function(v,i){ var hour=6+i; var b=h('div',{class:'bar'+(hour===hr?' now':''),'data-label':D.t.loadNow}); b.style.height=Math.max(4,v)+'%'; bars.appendChild(b); axis.appendChild(h('span',{},hour+'')); });
+})();
+/* trial booking */
+var B={step:0,goal:null,day:null,time:null}, panel=document.getElementById('tpanel'), steps=[].slice.call(document.querySelectorAll('#tsteps li'));
+function fmtDay(d,o){return d.toLocaleDateString(D.lang==='de'?'de-DE':'en-GB',o);}
+function seed(s){var x=0; for(var i=0;i<s.length;i++){x=(x*31+s.charCodeAt(i))>>>0;} return x;}
+function drawTrial(){
+  steps.forEach(function(li,i){li.className=i===B.step?'on':(i<B.step?'done':'');});
+  panel.innerHTML=''; var t=D.t;
+  function back(){ var r=h('div',{class:'row'}); r.appendChild(h('button',{type:'button',class:'btn ghost',on:function(){B.step-=1;drawTrial();}},t.back)); panel.appendChild(r); }
+  if(B.step===0){ panel.appendChild(h('p',{class:'tq'},t.goalQ)); var c=h('div',{class:'chips'});
+    t.goals.forEach(function(g,i){ c.appendChild(h('button',{type:'button',class:'chip','aria-pressed':String(B.goal===i),on:function(){B.goal=i;B.step=1;drawTrial();}},g)); }); panel.appendChild(c); }
+  if(B.step===1){ panel.appendChild(h('p',{class:'tq'},t.dayQ)); var c1=h('div',{class:'chips days'}), base=new Date(); base.setHours(0,0,0,0);
+    for(var i=1;i<=8;i++){ (function(x){ var b=h('button',{type:'button',class:'chip','aria-pressed':String(B.day&&B.day.toDateString()===x.toDateString()),on:function(){B.day=x;B.step=2;drawTrial();}}); b.appendChild(document.createTextNode(fmtDay(x,{weekday:'short'}))); b.appendChild(h('small',{},fmtDay(x,{day:'numeric',month:'numeric'}))); c1.appendChild(b); })(new Date(base.getTime()+i*864e5)); }
+    panel.appendChild(c1); back(); }
+  if(B.step===2){ panel.appendChild(h('p',{class:'tq'},t.timeQ)); var c2=h('div',{class:'chips times'}), s=D.staffed[B.day.getDay()], k=seed(B.day.toDateString());
+    for(var m=s[0]; m<=s[1]-90; m+=90){ k=(k*1103515245+12345)>>>0; (function(mm,free){ var b=h('button',{type:'button',class:'chip','aria-pressed':String(B.time===mm),on:function(){B.time=mm;B.step=3;drawTrial();}},fmtT(mm)); if(!free) b.disabled=true; c2.appendChild(b); })(m,(k%5)>0); }
+    panel.appendChild(c2); back(); }
+  if(B.step===3){ panel.appendChild(h('p',{class:'tq'},t.contactQ)); panel.appendChild(h('p',{class:'sum'},sum()));
+    var f=h('form',{novalidate:''}); [['t-name',t.name,'name'],['t-contact',t.contact,'email']].forEach(function(r){ var w=h('div',{class:'field'}); w.appendChild(h('label',{for:r[0]},r[1])); w.appendChild(h('input',{id:r[0],type:'text',autocomplete:r[2]})); f.appendChild(w); });
+    var err=h('p',{class:'err',role:'alert'}); f.appendChild(err);
+    var row=h('div',{class:'row'}); row.appendChild(h('button',{type:'button',class:'btn ghost',on:function(){B.step=2;drawTrial();}},t.back)); row.appendChild(h('button',{type:'submit',class:'btn'},t.send)); f.appendChild(row);
+    f.addEventListener('submit',function(e){e.preventDefault(); var n=document.getElementById('t-name'), c=document.getElementById('t-contact');
+      if(!n.value.trim()){err.textContent=t.errName;n.focus();return;} if(!c.value.trim()){err.textContent=t.errContact;c.focus();return;} B.step=4; drawTrial();});
+    panel.appendChild(f); }
+  if(B.step===4){ steps.forEach(function(li){li.className='done';}); var d=h('div',{class:'done'}); d.appendChild(h('p',{},t.doneTitle)); d.appendChild(h('strong',{},sum())); d.appendChild(h('p',{},t.doneText));
+    var a=h('button',{type:'button',class:'btn ghost',on:function(){B={step:0,goal:null,day:null,time:null};drawTrial();}},t.again); a.style.marginTop='1rem'; d.appendChild(a); panel.appendChild(d); }
+}
+function sum(){return D.t.summary.replace('{g}',D.t.goals[B.goal]).replace('{d}',fmtDay(B.day,{weekday:'long',day:'numeric',month:'long'})).replace('{t}',fmtT(B.time));}
+drawTrial();
+/* cancellation dialog */
+(function(){ var dlg=document.getElementById('cancel'); document.getElementById('cancel-open').addEventListener('click',function(){ if(dlg.showModal) dlg.showModal(); else alert(dlg.textContent); }); })();
+
+</script>
+</body>
+</html>
