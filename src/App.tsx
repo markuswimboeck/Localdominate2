@@ -6,6 +6,7 @@ import { ABTestProvider } from "@/hooks/useABTest";
 import ErrorBoundary from "@/components/ErrorBoundary";
 import { AfterMount } from "@/components/v4/AfterMount";
 import { lazyV4Page } from "@/lib/v4Pages";
+import { DE_INDUSTRY_SLUGS, deIndustryPath } from "@/data/v4DeIndustrySlugs";
 import { V4_ARTICLE_SLUGS, v4ArticlePath } from "@/content/articles";
 import { AUDIENCE_SLUGS, audiencePath } from "@/data/v4AudienceSlugs";
 import { PILLAR_BASE, PILLAR_INDEX, pillarPath } from "@/data/v4PillarIndex";
@@ -89,6 +90,7 @@ const ApproachV4 = lazyV4Page(PILLAR_BASE);
 const PillarV4 = lazyV4Page(pillarPath("diagnose")); // one module serves all seven step pages
 const IndustriesV4 = lazyV4Page("/industries");
 const AudienceV4 = lazyV4Page(audiencePath("hotels")); // one module serves all audience pages
+const DeIndustryV4 = lazyV4Page(deIndustryPath("friseur")); // one module serves both German industry pages
 const CreatorsV4 = lazyV4Page("/creators");
 const InsightsV4 = lazyV4Page("/insights");
 const AboutV4 = lazyV4Page("/about");
@@ -150,6 +152,9 @@ const App = () => (
                 <Route path="/de" element={<DeV4 />} />
                 <Route path="/ai" element={<AiV4 />} />
                 <Route path="/de/ki" element={<AiDeV4 />} />
+                {DE_INDUSTRY_SLUGS.map((slug) => (
+                  <Route key={slug} path={deIndustryPath(slug)} element={<DeIndustryV4 />} />
+                ))}
                 <Route path={PILLAR_BASE} element={<ApproachV4 />} />
                 {PILLAR_INDEX.map((p) => (
                   <Route key={p.id} path={pillarPath(p.id)} element={<PillarV4 />} />

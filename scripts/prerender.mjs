@@ -39,10 +39,12 @@ const LOCALE = "en-US";
 // Live pages that are newer than the frozen SEO baseline. They are prerendered like the baseline
 // URLs but are not part of the baseline, so seo-check does not compare them.
 const AUDIENCE_SLUGS = ["hotels", "holiday-rentals", "trades", "restaurants", "practices", "online-stores", "hair-salons", "fitness-studios"]; // keep in sync with src/data/v4AudienceSlugs.ts
+const DE_INDUSTRY_SLUGS = ["friseur", "fitnessstudio"]; // keep in sync with src/data/v4DeIndustrySlugs.ts
 const PILLAR_IDS = ["diagnose", "position", "create", "build", "launch", "grow", "scale"]; // keep in sync with src/data/v4PillarIndex.ts
 const EXTRA_PATHS = ["/services", "/work", "/approach", ...PILLAR_IDS.map((id) => `/approach/${id}`),
   "/industries", "/creators", "/insights", "/about", "/start-a-project", "/de", "/ai", "/de/ki",
-  ...AUDIENCE_SLUGS.map((slug) => `/industries/${slug}`)];
+  ...AUDIENCE_SLUGS.map((slug) => `/industries/${slug}`),
+  ...DE_INDUSTRY_SLUGS.map((slug) => `/de/${slug}`)];
 // Blog articles migrated to the V4 layout are hydrated too (see src/lib/v4Pages.tsx). Their URLs are
 // mostly in the baseline already; new articles (not in the baseline) are prerendered from this list.
 const V4_ARTICLE_PATHS = fs.readdirSync(path.join(ROOT, "src", "content", "articles", "data"))

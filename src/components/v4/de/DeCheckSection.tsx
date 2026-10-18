@@ -5,6 +5,14 @@ import { SystemLabel } from "@/components/v4/SystemLabel";
 import { CheckForm } from "@/components/v4/check/CheckForm";
 import { DeBookCallButton } from "@/components/v4/de/DeBookCallButton";
 import { ANCHORS, CHECK_FORM_DE, CHECK_SECTION, FORM_ID_PREFIX, HERO } from "@/data/v4De";
+import type { CheckFormTexts } from "@/data/v4Check";
+
+type Props = {
+  /** Eigene Formulartexte (z. B. mit weiteren Betriebsarten); Standard ist CHECK_FORM_DE. */
+  formTexts?: CheckFormTexts;
+  /** Ziel des Sprachlinks; Standard ist die Startseite. */
+  backTo?: string;
+};
 
 /**
  * Formular „Kostenlosen Check anfordern“. Die Formular-Komponente von /start-a-project wird
@@ -12,7 +20,7 @@ import { ANCHORS, CHECK_FORM_DE, CHECK_SECTION, FORM_ID_PREFIX, HERO } from "@/d
  * Formular direkt unter der Einleitung, der zweite Weg (Gespräch) und der Link zur englischen
  * Seite folgen danach.
  */
-export const DeCheckSection = forwardRef<HTMLDivElement>(function DeCheckSection(_props, ref) {
+export const DeCheckSection = forwardRef<HTMLDivElement, Props>(function DeCheckSection({ formTexts = CHECK_FORM_DE, backTo = "/" }, ref) {
   return (
     <StateField field="dark" as="section" id={ANCHORS.check} aria-labelledby="de-check-title" className="scroll-mt-16">
       <div
@@ -34,7 +42,7 @@ export const DeCheckSection = forwardRef<HTMLDivElement>(function DeCheckSection
         </div>
 
         <CheckForm
-          texts={CHECK_FORM_DE}
+          texts={formTexts}
           id={FORM_ID_PREFIX}
           className="self-start p-5 md:p-8 lg:col-start-2 lg:row-span-2 lg:row-start-1"
         />
@@ -48,7 +56,7 @@ export const DeCheckSection = forwardRef<HTMLDivElement>(function DeCheckSection
           </div>
           <p className="border-t border-v4-ivory/15 pt-5 font-v4-sans text-sm text-v4-ivory/70">
             <Link
-              to="/"
+              to={backTo}
               hrefLang="en"
               className="inline-flex min-h-11 items-center underline underline-offset-4 hover:text-v4-ivory focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-v4-signal"
             >

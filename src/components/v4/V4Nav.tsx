@@ -2,6 +2,7 @@ import { Link, NavLink, useLocation } from "react-router-dom";
 import { useState } from "react";
 import { cn } from "@/lib/utils";
 import { BOOKING_IS_EXTERNAL, BOOKING_LABEL, BOOKING_URL } from "@/lib/booking";
+import { DE_INDUSTRY_SLUGS } from "@/data/v4DeIndustrySlugs";
 import { CHECK_AI, CHECK_CREATORS, CHECK_DE, CHECK_LABEL, CHECK_LABEL_SHORT, CHECK_PATH } from "@/lib/check";
 import { v4NavLinks } from "@/lib/v4Routes";
 
@@ -13,6 +14,7 @@ import { v4NavLinks } from "@/lib/v4Routes";
  */
 const NAV_LINKS = v4NavLinks();
 
+const ANCHORS_CHECK = "check"; // id of the form section on /de and the German industry pages
 const bookingProps = BOOKING_IS_EXTERNAL ? { target: "_blank", rel: "noopener noreferrer" } : {};
 
 const focusRing = "focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-v4-signal";
@@ -26,10 +28,14 @@ export function V4Nav() {
   const creators = pathname === CHECK_CREATORS.prefix;
   // On /creators the action is an anchor on the same page: a plain link, the browser scrolls.
   const aiPage = pathname in CHECK_AI.pages ? CHECK_AI.pages[pathname as keyof typeof CHECK_AI.pages] : undefined;
+  // The German industry pages have their own form (anchor #check on the same page).
+  const deIndustry = (DE_INDUSTRY_SLUGS as readonly string[]).includes(pathname.replace(`${CHECK_DE.prefix}/`, ""));
   const check = aiPage
     ? { to: `#${CHECK_AI.anchor}`, label: aiPage.label, short: aiPage.short, anchor: true }
     : creators
     ? { to: `#${CHECK_CREATORS.anchor}`, label: CHECK_CREATORS.label, short: CHECK_CREATORS.short, anchor: true }
+    : deIndustry
+      ? { to: `#${ANCHORS_CHECK}`, label: CHECK_DE.label, short: CHECK_DE.short, anchor: true }
     : german
       ? { to: CHECK_DE.path, label: CHECK_DE.label, short: CHECK_DE.short, anchor: false }
       : { to: CHECK_PATH, label: CHECK_LABEL, short: CHECK_LABEL_SHORT, anchor: false };

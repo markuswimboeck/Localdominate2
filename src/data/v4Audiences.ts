@@ -35,6 +35,8 @@ type AudienceOwnContent = {
 
 export type Audience = {
   slug: AudienceId;
+  /** German counterpart (path), for hreflang. Only where one exists. */
+  dePath?: string;
   /** Short name used in lists and breadcrumbs. */
   name: string;
   /** Who exactly is meant (mono label). */
@@ -77,6 +79,7 @@ const FREE_CHECK: Faq = {
 export const AUDIENCES: readonly Audience[] = [
   {
     slug: "hair-salons",
+    dePath: "/de/friseur",
     name: "Hair salons and beauty studios",
     descriptor: "Hair salons · barbers · beauty and nail studios",
     seoTitle: "Websites & Google Profiles for Hair Salons",
@@ -175,6 +178,7 @@ export const AUDIENCES: readonly Audience[] = [
   },
   {
     slug: "fitness-studios",
+    dePath: "/de/fitnessstudio",
     name: "Gyms and fitness studios",
     descriptor: "Gyms · fitness and yoga studios · personal training",
     seoTitle: "Websites & Google Profiles for Gyms and Studios",

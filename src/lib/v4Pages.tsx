@@ -2,12 +2,14 @@ import { lazy } from "react";
 import type { ComponentType } from "react";
 import { PILLAR_BASE, PILLAR_INDEX, pillarPath } from "@/data/v4PillarIndex";
 import { AUDIENCE_SLUGS, audiencePath } from "@/data/v4AudienceSlugs";
+import { DE_INDUSTRY_SLUGS, deIndustryPath } from "@/data/v4DeIndustrySlugs";
 import { V4_ARTICLE_LOADERS, V4_ARTICLE_SLUGS, v4ArticlePath } from "@/content/articles";
 
 type PageProps = { preview?: boolean };
 type PageLoader = () => Promise<{ default: ComponentType<PageProps> }>;
 
 /** The V4 pages that are prerendered at build time and hydrated in the browser (see main.tsx). */
+const loadDeIndustry: PageLoader = () => import("@/pages/v4/DeIndustryV4"); // one module serves both German industry pages
 const loadAudience: PageLoader = () => import("@/pages/v4/AudienceV4"); // one module serves all audience pages
 const loadPillar: PageLoader = () => import("@/pages/v4/PillarV4"); // one module serves all seven step pages
 
@@ -36,6 +38,7 @@ const LOADERS: Record<string, PageLoader> = {
   "/de": () => import("@/pages/v4/DeV4"),
   "/ai": () => import("@/pages/v4/AiV4"),
   "/de/ki": () => import("@/pages/v4/AiDeV4"),
+  ...Object.fromEntries(DE_INDUSTRY_SLUGS.map((slug) => [deIndustryPath(slug), loadDeIndustry])),
   ...Object.fromEntries(PILLAR_INDEX.map((p) => [pillarPath(p.id), loadPillar])),
   ...Object.fromEntries(AUDIENCE_SLUGS.map((slug) => [audiencePath(slug), loadAudience])),
   ...Object.fromEntries(V4_ARTICLE_SLUGS.map((slug) => [v4ArticlePath(slug), loadArticle(slug)])),
