@@ -76,6 +76,201 @@ const FREE_CHECK: Faq = {
 
 export const AUDIENCES: readonly Audience[] = [
   {
+    slug: "hair-salons",
+    name: "Hair salons and beauty studios",
+    descriptor: "Hair salons · barbers · beauty and nail studios",
+    seoTitle: "Websites & Google Profiles for Hair Salons",
+    seoDescription:
+      "For hair salons, barbers and beauty studios: a Google profile with services and prices, a website where booking takes under a minute on a phone, and no invented reviews.",
+    h1: "Websites and Google profiles for hair salons and beauty studios.",
+    lead: "For hair salons, barbers and beauty studios. People search on their phone, compare photos, prices and free slots, and book the place that makes it easy. We make sure your profile and your website answer those questions first.",
+    inShort:
+      "LocalDominate builds websites and Google Business Profiles for hair salons, barbers and beauty studios in Germany, Austria and Switzerland: services with duration and price, a booking path that works on a phone, a profile with correct categories, hours and photos, and a calm way to ask for reviews. We make no ranking promises and invent no reviews.",
+    signs: [
+      "Your prices are only on Instagram, so Google shows none.",
+      "People call during appointments, and nobody picks up.",
+      "Your Google profile lists the wrong category, old hours or no services.",
+      "Booking runs through a tool that is hard to find on your website.",
+    ],
+    source: {
+      own: {
+        claim: "A booking is decided in under a minute, on a phone.",
+        situation:
+          "Someone looks for a hair salon or beauty studio nearby, opens two or three profiles and compares photos, prices and the next free slot. A salon with no prices, old opening hours or a booking link that is hard to find loses that comparison, however good the work is. Your own website can answer all of it in one place.",
+        checks: [
+          {
+            where: "On your Google profile",
+            text: "Whether the main category, services, prices, hours and photos are complete and match your website.",
+          },
+          {
+            where: "On your website",
+            text: "Whether services show duration and price, and whether the booking button is visible on a phone without scrolling.",
+          },
+          {
+            where: "In your reviews",
+            text: "How many recent reviews you have, whether they are answered, and how you ask for them today.",
+          },
+          {
+            where: "In your enquiries",
+            text: "What happens to a call or message that arrives while you are with a client.",
+          },
+        ],
+        builds: [
+          "A salon or studio website with services, duration, prices and a booking path",
+          "A Google Business Profile with correct categories, services, hours and photos",
+          "A review request you can send after the appointment, and reply templates",
+          "A first automation, for example a confirmation message after an enquiry",
+        ],
+        buildNote:
+          "Before-and-after photos and client names only appear with the client's written consent.",
+        offers: [
+          {
+            offerId: "google-profile",
+            why: "For a clean profile without a long project: categories, services, hours and photos reviewed and corrected.",
+          },
+          {
+            offerId: "conversion-sprint",
+            why: "For a website or booking page that gets visits but too few bookings. One page is audited and five fixes go live once you approve them.",
+          },
+          {
+            offerId: "ai-automation-starter",
+            why: "One workflow for the calls you miss during appointments, written down and approved by you first.",
+          },
+        ],
+        step: {
+          id: "diagnose",
+          why: "Most salons already have a profile and a booking tool. The first thing to find out is where a new customer drops out.",
+        },
+        checkLine: "Send the link to your Google profile or your booking page.",
+      },
+    },
+    caseRef: {
+      id: "demo-salon",
+      note: "Atelier Aurin is a fictional salon we built as a concept website, with a colour picker, services with price and booking in five steps. A concept, not a client. A second concept, for a beauty studio, is on the Work page.",
+    },
+    articles: [
+      { slug: "local-seo-friseursalon-beauty", title: "Local SEO für Friseursalons und Beautystudios" },
+      { slug: "google-bewertungen-bekommen", title: "Google-Bewertungen bekommen: so fragen Sie richtig" },
+      { slug: "google-my-business-optimieren", title: "Google Unternehmensprofil optimieren" },
+      { slug: "google-business-kategorien-guide", title: "Google-Business-Kategorien: die richtige wählen" },
+    ],
+    faq: [
+      {
+        q: "Do you build websites for salons, or only improve Google profiles?",
+        a: "Both. A website project has its scope and price confirmed in writing before work starts. For a quick start, the Google Profile Quick-Fix or the 72h Conversion Sprint covers one profile or one page.",
+        link: { to: "/services", text: "See scope and prices" },
+      },
+      {
+        q: "Can you show before-and-after photos or reviews on the site?",
+        a: "Only real ones, and only with consent. We do not write reviews and we do not use stock photos presented as your work.",
+      },
+      {
+        q: "Do you work with my booking tool?",
+        a: "Usually yes. Most booking tools can be linked or embedded. Whether yours can is confirmed before we start.",
+      },
+      NO_PROMISE,
+      OWNERSHIP,
+      FREE_CHECK,
+    ],
+  },
+  {
+    slug: "fitness-studios",
+    name: "Gyms and fitness studios",
+    descriptor: "Gyms · fitness and yoga studios · personal training",
+    seoTitle: "Websites & Google Profiles for Gyms and Studios",
+    seoDescription:
+      "For gyms and fitness studios: a trial session bookable in the first screen, class timetable and prices as readable text, a correct Google profile and the legal cancellation button.",
+    h1: "Websites and Google profiles for gyms and fitness studios.",
+    lead: "For gyms, fitness and yoga studios. People look for a trial session, a timetable and a price they can understand. We make sure they find all three on your profile and your website, on a phone, without a phone call.",
+    inShort:
+      "LocalDominate builds websites and Google Business Profiles for gyms and fitness studios in Germany, Austria and Switzerland: a trial session bookable in the first screen, class timetable and plans as readable text, correct hours and staffed times, and the cancellation button that German law requires for online contracts. We make no ranking promises and invent no reviews or member numbers.",
+    signs: [
+      "The timetable is an image or a PDF that nobody can read on a phone.",
+      "Prices appear only after a phone call or a form.",
+      "Your Google profile shows hours, but not when someone is at the desk.",
+      "Members can sign up online, but cannot cancel online.",
+    ],
+    source: {
+      own: {
+        claim: "A trial session decides, not the slogan.",
+        situation:
+          "Someone searching for a gym nearby wants three things: what it costs, when classes run, and a way to try it. A studio whose timetable is a picture, whose prices are hidden and whose trial needs a phone call loses that comparison to the one next door. Since 2022, a contract concluded online also needs a cancellation button in Germany.",
+        checks: [
+          {
+            where: "On your Google profile",
+            text: "Whether the category, hours, staffed times, photos and the trial link are correct and match your website.",
+          },
+          {
+            where: "On your website",
+            text: "Whether timetable and prices are readable text, and whether a trial session can be booked in the first screen on a phone.",
+          },
+          {
+            where: "In your sign-up and cancellation",
+            text: "Whether term, notice period and the cancellation button are shown clearly, as required for contracts concluded online.",
+          },
+          {
+            where: "In your reviews",
+            text: "Whether recent reviews are answered, and how new members are asked for one.",
+          },
+        ],
+        builds: [
+          "A gym or studio website with trial booking, timetable and plans as text",
+          "A Google Business Profile with correct hours, staffed times and photos",
+          "A cancellation page that follows § 312k BGB; you clear the final wording with your adviser",
+          "A first automation, for example a reminder after a trial booking",
+        ],
+        buildNote: "We build the cancellation button as a feature. Whether your contract wording is legally sufficient is for your lawyer to confirm.",
+        offers: [
+          {
+            offerId: "google-profile",
+            why: "For a clean profile: category, hours, services and photos reviewed and corrected.",
+          },
+          {
+            offerId: "conversion-sprint",
+            why: "For a website or sign-up page that gets visits but too few trials. One page is audited and five fixes go live once you approve them.",
+          },
+          {
+            offerId: "ai-automation-starter",
+            why: "One workflow, for example a confirmation and reminder for each trial booking, written down and approved by you first.",
+          },
+        ],
+        step: {
+          id: "diagnose",
+          why: "A studio usually has a profile, a website and a sign-up tool already. The first thing to find out is where a visitor stops before booking a trial.",
+        },
+        checkLine: "Send the link to your Google profile or your sign-up page.",
+      },
+    },
+    caseRef: {
+      id: "demo-fitness",
+      note: "Ostwerk Athletik is a fictional gym we built as a concept website: trial booking in the first screen, timetable as text, plans with term and notice, and the cancellation button. A concept, not a client; busy times and free places are labelled example values.",
+    },
+    articles: [
+      { slug: "local-seo-fitness", title: "Local SEO für Fitnessstudios" },
+      { slug: "local-seo-yoga-studios", title: "Local SEO für Yoga-Studios" },
+      { slug: "google-bewertungen-bekommen", title: "Google-Bewertungen bekommen: so fragen Sie richtig" },
+      { slug: "google-my-business-optimieren", title: "Google Unternehmensprofil optimieren" },
+    ],
+    faq: [
+      {
+        q: "Do you build the legal cancellation button?",
+        a: "We build the button and the cancellation page as part of a website project. Whether your contract terms are sufficient is a legal question that your lawyer or adviser confirms.",
+      },
+      {
+        q: "Which offer is a sensible start?",
+        a: "The Google Profile Quick-Fix for one location, or the 72h Conversion Sprint for the sign-up or trial page. A full website project has its scope and price confirmed in writing before work starts.",
+        link: { to: "/services", text: "See scope and prices" },
+      },
+      {
+        q: "Do you work with my member-management software?",
+        a: "Often. Many systems offer a link or embed for trial booking and sign-up. Whether yours does is confirmed before we start.",
+      },
+      NO_PROMISE,
+      OWNERSHIP,
+      FREE_CHECK,
+    ],
+  },
+  {
     slug: "hotels",
     name: "Hotels and guesthouses",
     descriptor: "Owner-run · 10 to 60 rooms · DACH",

@@ -12,6 +12,9 @@ const CASE_STEPS: Record<string, readonly PillarId[]> = {
   "explore-saudi": ["build", "launch", "grow", "scale"],
   "do-good": ["position", "create", "build", "grow", "scale"],
   "aurelian-grand": ["position", "create", "build", "grow"],
+  "demo-salon": ["create", "build"],
+  "demo-fitness": ["create", "build"],
+  "demo-beauty": ["create", "build"],
 };
 
 /** The covered steps of a case, in the order of the seven steps. */

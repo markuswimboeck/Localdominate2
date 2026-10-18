@@ -132,6 +132,7 @@ export function VerifiedMetricFact({ c, tone, stacked }: { c: WorkCase; tone: To
 /** Link to the live project, only where v4Cases.ts has a public URL. */
 export function ProjectLink({ c, className }: { c: WorkCase; className?: string }) {
   if (!c.url) return null;
+  const local = c.url.startsWith("/");
   const host = c.url.replace(/^https:\/\//, "");
   return (
     <a
@@ -143,7 +144,7 @@ export function ProjectLink({ c, className }: { c: WorkCase; className?: string 
         className
       )}
     >
-      Visit {host}
+      {local ? "Open the concept demo" : `Visit ${host}`}
       <span aria-hidden="true">↗</span>
       <span className="sr-only"> (opens in a new tab)</span>
     </a>
