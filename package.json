@@ -10,7 +10,8 @@
     "build:static": "vite build && node scripts/prerender.mjs",
     "lint": "eslint .",
     "preview": "vite preview",
-    "blog:md": "node scripts/blog-md-v4.mjs"
+    "blog:md": "node scripts/blog-md-v4.mjs",
+    "geo:files": "node scripts/geo-files-v4.mjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
