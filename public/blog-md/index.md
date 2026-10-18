@@ -2,7 +2,7 @@
 title: "LocalDominate Blog Markdown Corpus"
 url: https://localdominate.org/blog-md/index.md
 language: de-DE
-updated: 2026-10-14
+updated: 2026-10-18
 article_count: 159
 license: https://creativecommons.org/licenses/by/4.0/
 ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler ohne JavaScript-Ausführung."
@@ -104,10 +104,10 @@ ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler o
 - [Local SEO für Elektriker: So finden Kunden Ihren Elektrobetrieb in der Region](https://localdominate.org/blog-md/local-seo-elektrotechnik.md) — Kategorie: Branchen; HTML: https://localdominate.org/blog/local-seo-elektrotechnik; Aktualisiert: 2026-10-12
 - [Local SEO für Fahrschulen: Mehr Fahrschüler gewinnen](https://localdominate.org/blog-md/local-seo-fahrschule.md) — Kategorie: Branchen; HTML: https://localdominate.org/blog/local-seo-fahrschule; Aktualisiert: 2026-08-08
 - [Local SEO Fehler: Warum Ihr Betrieb lokal nicht gefunden wird](https://localdominate.org/blog-md/local-seo-fehler.md) — Kategorie: Fehlerbehebung; HTML: https://localdominate.org/blog/local-seo-fehler; Aktualisiert: 2026-10-10
-- [Lokales SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche](https://localdominate.org/blog-md/local-seo-fitness.md) — Kategorie: Branchen; HTML: https://localdominate.org/blog/local-seo-fitness; Aktualisiert: 2026-10-12
+- [Lokales SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche](https://localdominate.org/blog-md/local-seo-fitness.md) — Kategorie: Branchen; HTML: https://localdominate.org/blog/local-seo-fitness; Aktualisiert: 2026-10-18
 - [Local SEO für Fotografen: Gefunden werden, wenn Kunden in der Region suchen](https://localdominate.org/blog-md/local-seo-fotograf.md) — Kategorie: Fotografie; HTML: https://localdominate.org/blog/local-seo-fotograf; Aktualisiert: 2026-10-14
 - [Local SEO in Frankfurt am Main: sichtbar in den Stadtteilen und Gemeinden, die Sie wirklich bedienen](https://localdominate.org/blog-md/local-seo-frankfurt.md) — Kategorie: Städte; HTML: https://localdominate.org/blog/local-seo-frankfurt; Aktualisiert: 2026-10-12
-- [SEO für Friseure und Kosmetikstudios: So finden Kunden Ihren Salon über Google](https://localdominate.org/blog-md/local-seo-friseursalon-beauty.md) — Kategorie: Friseur & Beauty; HTML: https://localdominate.org/blog/local-seo-friseursalon-beauty; Aktualisiert: 2026-10-12
+- [SEO für Friseure und Kosmetikstudios: So finden Kunden Ihren Salon über Google](https://localdominate.org/blog-md/local-seo-friseursalon-beauty.md) — Kategorie: Friseur & Beauty; HTML: https://localdominate.org/blog/local-seo-friseursalon-beauty; Aktualisiert: 2026-10-18
 - [Local SEO für Restaurants: So finden Gäste Ihren Tisch](https://localdominate.org/blog-md/local-seo-fuer-restaurants.md) — Kategorie: Gastronomie; HTML: https://localdominate.org/blog/local-seo-fuer-restaurants; Aktualisiert: 2026-10-12
 - [Local SEO für Garten- und Landschaftsbau: So finden Privatkunden, Verwaltungen und Gemeinden Ihren Betrieb](https://localdominate.org/blog-md/local-seo-garten-landschaftsbau.md) — Kategorie: Branchen; HTML: https://localdominate.org/blog/local-seo-garten-landschaftsbau; Aktualisiert: 2026-10-12
 - [Lokale SEO für Gebäudereinigung: So finden Firmenkunden und Verwaltungen Ihren Betrieb](https://localdominate.org/blog-md/local-seo-gebaeudereinigung.md) — Kategorie: Branchen; HTML: https://localdominate.org/blog/local-seo-gebaeudereinigung; Aktualisiert: 2026-10-12

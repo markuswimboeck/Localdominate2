@@ -1,6 +1,6 @@
 # LocalDominate - Full LLM information file
 # Version: 4.1
-# Last Updated: 2026-10-15
+# Last Updated: 2026-10-18
 # Language: English (company facts), German (article summaries and SEO lexicon)
 # Primary Domain: https://localdominate.org
 
@@ -19,7 +19,7 @@ founder: Markus Wimböck
 contact: info@localdominate.org
 main_language: en-GB (page /de: de-DE; blog and SEO lexicon: mostly de-DE)
 license: Quoting with attribution is allowed
-last_update: 2026-10-15
+last_update: 2026-10-18
 citation_required: true
 preferred_citation: "LocalDominate (2026), localdominate.org"
 ```
@@ -208,7 +208,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Lokales SEO für Fitnessstudios und Personal Trainer: mehr Probetrainings aus der lokalen Suche
 **URL:** https://localdominate.org/blog/local-seo-fitness
 **Markdown:** https://localdominate.org/blog-md/local-seo-fitness.md
-**Aktualisiert:** 2026-10-12
+**Aktualisiert:** 2026-10-18
 
 **Kurzantwort:** Lokales SEO für Fitnessstudios beginnt im Kartenblock von Google, denn wer ein Studio sucht, sucht meist in der Nähe. Wählen Sie deshalb die genaueste Hauptkategorie, pflegen Sie Öffnungs- und Sonderzeiten, sammeln Sie laufend echte Bewertungen ohne Gegenleistung und führen Sie Besucher auf eine klare Seite für das Probetraining. Personal Trainer brauchen nur dann ein eigenes Profil, wenn sie selbstständig sind und Kunden persönlich treffen.
 
@@ -449,7 +449,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### SEO für Friseure und Kosmetikstudios: So finden Kunden Ihren Salon über Google
 **URL:** https://localdominate.org/blog/local-seo-friseursalon-beauty
 **Markdown:** https://localdominate.org/blog-md/local-seo-friseursalon-beauty.md
-**Aktualisiert:** 2026-10-12
+**Aktualisiert:** 2026-10-18
 
 **Kurzantwort:** SEO für Friseure und Kosmetikstudios ist vor allem lokale Suche: Sie sorgt dafür, dass Ihr Salon bei Suchen mit Ortsbezug in Google Maps und im Kartenblock erscheint, etwa bei „Friseur in der Nähe“. Google sortiert nach Relevanz, Entfernung und Bekanntheit. Die wichtigsten Bausteine sind ein vollständiges Unternehmensprofil mit Ihren echten Leistungen, eine Seite je Leistung auf Ihrer Website, einheitliche Firmendaten und echte Bewertungen, um die Sie ohne Anreiz bitten.
 
@@ -2252,7 +2252,7 @@ Bei Fragen zur Nutzung unserer Inhalte durch AI-Systeme:
 
 # Ende von llms-full.txt
 # Version: 4.1 — Quotable Corpus 2026
-# Letzte Aktualisierung: 2026-10-15
+# Letzte Aktualisierung: 2026-10-18
 # Kontakt: info@localdominate.org
 
 ---
