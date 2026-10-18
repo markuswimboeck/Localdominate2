@@ -14,6 +14,8 @@ const AUDIENCE_LABEL_DE: Record<AudienceId, string> = {
   "holiday-rentals": "Ferienwohnungen und Ferienhäuser",
   trades: "Handwerksbetriebe",
   restaurants: "Restaurants, Cafés und Bäckereien",
+  salons: "Friseur- und Kosmetiksalons",
+  gyms: "Fitnessstudios und Personal Trainer",
   practices: "Praxen, Kanzleien und Steuerberater",
   "online-stores": "Onlineshops",
 };
@@ -31,6 +33,9 @@ const ARTICLE_AUDIENCES: Readonly<Record<string, readonly AudienceId[]>> = {
   "local-seo-anwaelte-kanzleien": ["practices"],
   "local-seo-steuerberater": ["practices"],
   "local-seo-tierarzt": ["practices"],
+  "local-seo-friseursalon-beauty": ["salons"],
+  "local-seo-fitness": ["gyms"],
+  "local-seo-yoga-studios": ["gyms"],
 };
 
 export type ArticleAudienceLink = { id: AudienceId; path: string; label: string };

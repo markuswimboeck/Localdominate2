@@ -69,14 +69,14 @@ export const OFFERS: readonly Offer[] = [
     id: "website-5-days",
     name: "Website in 5 Days",
     summary:
-      "A direct-booking website for holiday apartments and hotels, built in one focused week.",
+      "A website built in one focused week: direct booking for holiday apartments and hotels, online appointments or trial sessions for salons and gyms.",
     price: "from 1,490 €",
     delivery: "5 days",
     includes: [
-      "Direct-booking site, mobile first",
+      "Booking-ready site, mobile first, connected to the booking tool you already use",
       "Scope and content agreed on a call before we start",
       "Launch and short hand-over",
     ],
-    bestFor: "Hosts and hotels who want guests to book direct instead of paying platform fees.",
+    bestFor: "Hosts and hotels who want guests to book direct, and salons and gyms that want bookings and trial sessions from their own website.",
   },
 ] as const;
