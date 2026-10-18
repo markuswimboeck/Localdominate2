@@ -38,7 +38,7 @@ const GENERIC_TITLE = "Local Dominator â€“ Local SEO & AI-Sichtbarkeit";
 const LOCALE = "en-US";
 // Live pages that are newer than the frozen SEO baseline. They are prerendered like the baseline
 // URLs but are not part of the baseline, so seo-check does not compare them.
-const AUDIENCE_SLUGS = ["hotels", "holiday-rentals", "trades", "restaurants", "practices", "online-stores"]; // keep in sync with src/data/v4AudienceSlugs.ts
+const AUDIENCE_SLUGS = ["hotels", "holiday-rentals", "trades", "restaurants", "salons", "gyms", "practices", "online-stores"]; // keep in sync with src/data/v4AudienceSlugs.ts
 const PILLAR_IDS = ["diagnose", "position", "create", "build", "launch", "grow", "scale"]; // keep in sync with src/data/v4PillarIndex.ts
 const EXTRA_PATHS = ["/services", "/work", "/approach", ...PILLAR_IDS.map((id) => `/approach/${id}`),
   "/industries", "/creators", "/insights", "/about", "/start-a-project", "/de", "/ai", "/de/ki",

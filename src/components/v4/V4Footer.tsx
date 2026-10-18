@@ -28,6 +28,8 @@ const INDUSTRIES = [
   { to: "/industries/holiday-rentals", label: "Holiday rentals" },
   { to: "/industries/trades", label: "Trades" },
   { to: "/industries/restaurants", label: "Restaurants and cafés" },
+  { to: "/industries/salons", label: "Hair and beauty salons" },
+  { to: "/industries/gyms", label: "Gyms and fitness studios" },
   { to: "/industries/practices", label: "Practices and firms" },
   { to: "/industries/online-stores", label: "Online stores" },
 ] as const;

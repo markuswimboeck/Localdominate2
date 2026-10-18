@@ -7,6 +7,8 @@ const NAV: readonly { slug: AudienceId; name: string; note: string }[] = [
   { slug: "holiday-rentals", name: "Holiday rentals", note: "Hosts with several properties" },
   { slug: "trades", name: "Trades", note: "Heating, electrical, roofing, solar" },
   { slug: "restaurants", name: "Restaurants and cafés", note: "Menu, hours, reservations" },
+  { slug: "salons", name: "Hair and beauty salons", note: "Prices, services, online booking" },
+  { slug: "gyms", name: "Gyms and fitness studios", note: "Timetable, prices, trial sessions" },
   { slug: "practices", name: "Practices and firms", note: "Medical, dental, law and tax" },
   { slug: "online-stores", name: "Online stores", note: "Shopify and small e-commerce brands" },
 ];
