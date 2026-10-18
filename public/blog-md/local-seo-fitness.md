@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-fitness
 markdown_url: https://localdominate.org/blog-md/local-seo-fitness.md
 language: de-DE
 published: 2026-02-04
-updated: 2026-10-12
+updated: 2026-10-18
 reading_time_minutes: 13
 category: "Branchen"
 author: LocalDominate Redaktion
@@ -134,6 +134,8 @@ Die Website muss drei Fragen auf dem Handy schnell beantworten: Was kostet es, w
 
 Schreiben Sie Kurse, Zeiten und Preise als Text. Dann kann man sie auf dem Handy vergrößern und vorlesen lassen, und Suchmaschinen erfassen sie als Inhalt der Seite. Ein Kursplan, der nur als Foto eines Aushangs existiert, leistet das nicht.
 
+Wie das auf einer Seite zusammenkommt, zeigt unsere [Beispiel-Website für ein erfundenes Studio](https://localdominate.org/gym-demo/): die heutigen Kurse gleich oben, Preise mit Laufzeit, Kündigungsfrist und Aufnahmegebühr, ein Ablauf für das Probetraining und der Kündigungsbutton in der Fußzeile. Über „Erklärungen zeigen“ sehen Sie, warum jedes Element dort steht.
+
 Strukturierte Daten helfen Google, Name, Adresse und Öffnungszeiten der Seite zuzuordnen. Google nennt in seiner Dokumentation für lokale Unternehmen ausdrücklich den Untertyp **HealthClub** als Beispiel. Wie Sie das umsetzen, steht im Artikel [Schema Markup für Local SEO](https://localdominate.org/blog/schema-markup-local-seo).
 
 > **Nur für Deutschland:** Wenn Mitglieder auf Ihrer Website einen Vertrag mit laufenden Beiträgen abschließen können, verlangt § 312k BGB eine gut lesbare Kündigungsschaltfläche, beschriftet mit „Verträge hier kündigen“ oder ähnlich eindeutig, und eine Bestätigungsseite. Fehlt sie, können Verbraucher laut Gesetz jederzeit ohne Frist kündigen. Lassen Sie die Umsetzung im Zweifel rechtlich prüfen. Für Österreich und die Schweiz gelten andere Regeln.
@@ -211,7 +213,7 @@ Anzeigen können zu Saisonbeginn oder bei einer Eröffnung sinnvoll sein. Sie ve
 
 ### Was kostet es, das Profil professionell prüfen zu lassen?
 
-Bei LocalDominate kostet der Profil Quick-Fix 79 € und die vollständige Profil-Optimierung 390 €. Der Umfang steht vor dem Start fest, eine bestimmte Position versprechen wir nicht. Details auf der Seite [Leistungen](https://localdominate.org/services).
+Bei LocalDominate kostet der Profil Quick-Fix 79 € und die vollständige Profil-Optimierung 390 €. Eine Studio-Website mit Kursplan und Preisen als Text und einer Seite für das Probetraining bauen wir in fünf Tagen ab 1.490 €. Der Umfang steht vor dem Start fest, eine bestimmte Position versprechen wir nicht. Details auf der Seite [Leistungen](https://localdominate.org/services).
 
 ## Quellen
 
@@ -229,4 +231,4 @@ Bei LocalDominate kostet der Profil Quick-Fix 79 € und die vollständige Profi
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-18. Fehler gefunden? info@localdominate.org

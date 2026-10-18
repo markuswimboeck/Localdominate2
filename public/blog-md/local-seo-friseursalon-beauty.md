@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-friseursalon-beauty
 markdown_url: https://localdominate.org/blog-md/local-seo-friseursalon-beauty.md
 language: de-DE
 published: 2026-01-08
-updated: 2026-10-12
+updated: 2026-10-18
 reading_time_minutes: 11
 category: "Friseur & Beauty"
 author: LocalDominate Redaktion
@@ -72,6 +72,10 @@ Das Profil zeigt, dass es Ihren Salon gibt. Die Website erklärt, welche Leistun
 - **Ort im Text.** Adresse, Einzugsgebiet und Anfahrt gehören in den Text, in die Fußzeile und auf die Kontaktseite, nicht nur in ein Kartenbild.
 - **Titel und Überschrift mit Leistung und Ort**, etwa „Balayage in München-Schwabing“. Schreiben Sie keine Seiten, die nur einen austauschbaren Ortsnamen wechseln.
 - **Telefon und Route mit einem Tipp.** Viele Kunden suchen unterwegs. Telefonnummer und Anfahrt sollten auf dem Handy sofort erreichbar sein.
+- **Preise und Dauer als Text.** Eine fotografierte Preisliste lässt sich auf dem Handy schlecht lesen und von Suchmaschinen kaum erfassen. Nennen Sie je Leistung einen Ab-Preis und die ungefähre Dauer.
+- **Termin buchen mit einem Tipp.** Der Knopf zur Online-Buchung steht oben auf jeder Seite und führt direkt zu Ihrem Buchungssystem, mit denselben Leistungen wie auf der Website.
+
+Wie das zusammen aussieht, zeigt unsere [Beispiel-Website für einen erfundenen Salon](https://localdominate.org/salon-demo/): Leistungen mit Preis und Dauer, Öffnungszeiten als Tabelle mit Geöffnet-Anzeige, Telefon und Terminbuchung mit einem Tipp. Über „Erklärungen zeigen“ sehen Sie, warum jedes Element dort steht.
 
 ### Strukturierte Daten und einheitliche Firmendaten
 
@@ -151,7 +155,7 @@ Eine Checkliste zum Abhaken finden Sie in der [Local-SEO-Audit-Checkliste](https
 
 ### Was kostet Local SEO für einen Friseursalon?
 
-Das Unternehmensprofil legen Sie selbst an. Für die Prüfung und Korrektur des Profils bieten wir den Google Profile Quick-Fix für 79 € an, die vollständige Optimierung kostet 390 €. Den Umfang klären wir vorab im Gespräch.
+Das Unternehmensprofil legen Sie selbst an. Für die Prüfung und Korrektur des Profils bieten wir den Google Profile Quick-Fix für 79 € an, die vollständige Optimierung kostet 390 €. Eine Salon-Website mit Preisen als Text, einer Seite je Hauptleistung und Online-Termin bauen wir in fünf Tagen ab 1.490 €. Den Umfang klären wir vorab im Gespräch.
 
 ### Wie lange dauert es, bis Local SEO wirkt?
 
@@ -180,4 +184,4 @@ Ein Profil zeigt Ihren Salon in Google Maps. Ihre Leistungen erklärt aber erst 
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-18. Fehler gefunden? info@localdominate.org

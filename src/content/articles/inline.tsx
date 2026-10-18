@@ -5,6 +5,9 @@ import { Link } from "react-router-dom";
 /** `**bold**` or `[text](href)`. */
 const TOKEN = /\*\*([^*]+)\*\*|\[([^\]]+)\]\(([^)\s]+)\)/g;
 
+/** Static example sites in public/ (e.g. /salon-demo/) are not SPA routes; they need a full page load. */
+const isStaticPage = (href: string): boolean => /^\/[a-z]+(?:-[a-z]+)*-demo\//.test(href);
+
 const linkClass =
   "text-v4-ink underline decoration-v4-ink/30 underline-offset-4 transition-colors hover:decoration-v4-ink focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-v4-ink";
 
@@ -25,7 +28,11 @@ export function Inline({ text }: { text: string }) {
     } else {
       const [label, href] = [m[2], m[3]];
       out.push(
-        href.startsWith("/") ? (
+        isStaticPage(href) ? (
+          <a key={key++} href={href} className={linkClass}>
+            {label}
+          </a>
+        ) : href.startsWith("/") ? (
           <Link key={key++} to={href} className={linkClass}>
             {label}
           </Link>

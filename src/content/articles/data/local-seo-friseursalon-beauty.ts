@@ -20,7 +20,7 @@ const article: V4Article = {
     "Messen Sie Anrufe, Routenanfragen und Buchungen, nicht nur Ihre Position in der Suche.",
   ],
   publishedAt: "2026-01-08",
-  updatedAt: "2026-10-12",
+  updatedAt: "2026-10-18",
   readingTime: 11,
   sections: [
     {
@@ -112,7 +112,13 @@ const article: V4Article = {
             "**Ort im Text.** Adresse, Einzugsgebiet und Anfahrt gehören in den Text, in die Fußzeile und auf die Kontaktseite, nicht nur in ein Kartenbild.",
             "**Titel und Überschrift mit Leistung und Ort**, etwa „Balayage in München-Schwabing“. Schreiben Sie keine Seiten, die nur einen austauschbaren Ortsnamen wechseln.",
             "**Telefon und Route mit einem Tipp.** Viele Kunden suchen unterwegs. Telefonnummer und Anfahrt sollten auf dem Handy sofort erreichbar sein.",
+            "**Preise und Dauer als Text.** Eine fotografierte Preisliste lässt sich auf dem Handy schlecht lesen und von Suchmaschinen kaum erfassen. Nennen Sie je Leistung einen Ab-Preis und die ungefähre Dauer.",
+            "**Termin buchen mit einem Tipp.** Der Knopf zur Online-Buchung steht oben auf jeder Seite und führt direkt zu Ihrem Buchungssystem, mit denselben Leistungen wie auf der Website.",
           ],
+        },
+        {
+          t: "p",
+          text: "Wie das zusammen aussieht, zeigt unsere [Beispiel-Website für einen erfundenen Salon](/salon-demo/): Leistungen mit Preis und Dauer, Öffnungszeiten als Tabelle mit Geöffnet-Anzeige, Telefon und Terminbuchung mit einem Tipp. Über „Erklärungen zeigen“ sehen Sie, warum jedes Element dort steht.",
         },
         {
           t: "h3",
@@ -280,7 +286,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Was kostet Local SEO für einen Friseursalon?",
-      a: "Das Unternehmensprofil legen Sie selbst an. Für die Prüfung und Korrektur des Profils bieten wir den Google Profile Quick-Fix für 79 € an, die vollständige Optimierung kostet 390 €. Den Umfang klären wir vorab im Gespräch.",
+      a: "Das Unternehmensprofil legen Sie selbst an. Für die Prüfung und Korrektur des Profils bieten wir den Google Profile Quick-Fix für 79 € an, die vollständige Optimierung kostet 390 €. Eine Salon-Website mit Preisen als Text, einer Seite je Hauptleistung und Online-Termin bauen wir in fünf Tagen ab 1.490 €. Den Umfang klären wir vorab im Gespräch.",
     },
     {
       q: "Wie lange dauert es, bis Local SEO wirkt?",
