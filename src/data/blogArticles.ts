@@ -4369,7 +4369,7 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-garten-landschaftsbau",
     de: {
-      title: "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden, Verwaltungen und Gemeinden Ihren Betrieb",
+      title: "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden und Hausverwaltungen Ihren Betrieb",
       metaTitle: "Local SEO für Garten- und Landschaftsbau: das Gartenjahr",
       metaDescription: "Local SEO für GaLaBau-Betriebe: Profil mit Einzugsgebiet, Projektseiten mit echten Fotos, Pflegeverträge, das Gartenjahr und Bewertungen nach Google-Regeln.",
       excerpt: "Local SEO für GaLaBau-Betriebe: Profil mit Einzugsgebiet, Projektseiten mit echten Fotos, Pflegeverträge, das Gartenjahr und Bewertungen nach Google-Regeln.",
