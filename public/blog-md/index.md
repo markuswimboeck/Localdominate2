@@ -3,7 +3,7 @@ title: "LocalDominate Blog Markdown Corpus"
 url: https://localdominate.org/blog-md/index.md
 language: de-DE
 updated: 2026-10-18
-article_count: 159
+article_count: 160
 license: https://creativecommons.org/licenses/by/4.0/
 ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler ohne JavaScript-Ausführung."
 ---
@@ -16,7 +16,7 @@ ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler o
 - Sitemap: https://localdominate.org/sitemap-ai.xml
 - Kurzbriefing: https://localdominate.org/llms.txt
 - Vollbriefing: https://localdominate.org/llms-full.txt
-- Artikelanzahl: 159
+- Artikelanzahl: 160
 - Lizenz: CC-BY 4.0 — Zitate mit Quellenangabe erwünscht.
 
 ## Artikel
@@ -120,6 +120,7 @@ ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler o
 - [Local SEO für Immobilienmakler: So kommen Verkäufer und Käufer über Google zu Ihnen](https://localdominate.org/blog-md/local-seo-immobilienmakler.md) — Kategorie: Branchen; HTML: https://localdominate.org/blog/local-seo-immobilienmakler; Aktualisiert: 2026-10-10
 - [Local SEO Keywords finden: So suchen Ihre Kunden wirklich](https://localdominate.org/blog-md/local-seo-keywords-finden.md) — Kategorie: Strategie; HTML: https://localdominate.org/blog/local-seo-keywords-finden; Aktualisiert: 2026-10-09
 - [Local SEO in Köln: sichtbar in den Bezirken und Veedeln, die Sie wirklich bedienen](https://localdominate.org/blog-md/local-seo-koeln.md) — Kategorie: Städte; HTML: https://localdominate.org/blog/local-seo-koeln; Aktualisiert: 2026-10-13
+- [SEO für Kosmetikstudios: So finden Kunden Ihre Behandlungen bei Google](https://localdominate.org/blog-md/local-seo-kosmetikstudio.md) — Kategorie: Kosmetik & Nagelstudio; HTML: https://localdominate.org/blog/local-seo-kosmetikstudio; Aktualisiert: 2026-10-18
 - [Local SEO für Maler und Lackierer: Einzugsgebiet, Projektgalerie, Preise und Bewertungen](https://localdominate.org/blog-md/local-seo-maler-lackierer.md) — Kategorie: Branchen; HTML: https://localdominate.org/blog/local-seo-maler-lackierer; Aktualisiert: 2026-10-12
 - [Local SEO für Franchise-Systeme und Marken mit mehreren Betreibern](https://localdominate.org/blog-md/local-seo-mehrstufig-unternehmen.md) — Kategorie: Mehrere Standorte; HTML: https://localdominate.org/blog/local-seo-mehrstufig-unternehmen; Aktualisiert: 2026-10-13
 - [Local SEO jeden Monat: die Routine-Checkliste mit Wochenplan](https://localdominate.org/blog-md/local-seo-monthly-checklist.md) — Kategorie: Checkliste; HTML: https://localdominate.org/blog/local-seo-monthly-checklist; Aktualisiert: 2026-10-10
