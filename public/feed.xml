@@ -9,9 +9,9 @@
     <description>Expertenwissen zu Local SEO, Google Maps Optimierung und lokaler Suchmaschinenoptimierung für Unternehmen in Deutschland, Österreich und der Schweiz.</description>
     <language>de-DE</language>
     <copyright>© 2026 LocalDominate. Alle Rechte vorbehalten.</copyright>
-    <lastBuildDate>Sat, 11 Jan 2026 12:00:00 +0100</lastBuildDate>
-    <managingEditor>kontakt@localdominate.org (LocalDominate)</managingEditor>
-    <webMaster>kontakt@localdominate.org (LocalDominate)</webMaster>
+    <lastBuildDate>Sun, 18 Oct 2026 07:00:00 +0000</lastBuildDate>
+    <managingEditor>info@localdominate.org (LocalDominate)</managingEditor>
+    <webMaster>info@localdominate.org (LocalDominate)</webMaster>
     <ttl>60</ttl>
     <image>
       <url>https://localdominate.org/logo.png</url>
@@ -21,239 +21,507 @@
       <height>144</height>
     </image>
     <atom:link href="https://localdominate.org/feed.xml" rel="self" type="application/rss+xml"/>
-    
-    <!-- NEUE ARTIKEL Januar 2026 -->
-    
+
+    <!-- Erzeugt mit npm run geo:files aus den V4-Artikeldaten -->
+
     <item>
-      <title>Local SEO für Physiotherapeuten: Der komplette Praxis-Guide 2026</title>
-      <link>https://localdominate.org/blog/local-seo-physiotherapie</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-physiotherapie</guid>
-      <pubDate>Sat, 11 Jan 2026 08:00:00 +0100</pubDate>
+      <title>SEO für Kosmetikstudios: So finden Kunden Ihre Behandlungen bei Google</title>
+      <link>https://localdominate.org/blog/local-seo-kosmetikstudio</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-kosmetikstudio</guid>
+      <pubDate>Sun, 18 Oct 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Kosmetik &amp; Nagelstudio</category>
+      <description><![CDATA[Kosmetik-, Wimpern- und Nagelstudios bei Google: eine Seite je Behandlung, Profil und Kategorien, Werbeaussagen nach HWG und NiSV, Fotos mit Einwilligung.]]></description>
+    </item>
+
+    <item>
+      <title>Claude im Team einführen: Schritt für Schritt</title>
+      <link>https://localdominate.org/blog/claude-im-team-einfuehren</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/claude-im-team-einfuehren</guid>
+      <pubDate>Sat, 10 Oct 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>KI im Unternehmen</category>
+      <description><![CDATA[So führen Sie Claude in Firmen mit 5 bis 200 Mitarbeitenden ein: Plan wählen, Projekte je Abteilung, Datenregeln, Schulung nach Art. 4 KI-VO und Zeit messen.]]></description>
+    </item>
+
+    <item>
+      <title>Welche Aufgaben KI an der Hotel-Rezeption übernehmen kann</title>
+      <link>https://localdominate.org/blog/ki-aufgaben-hotel-rezeption</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/ki-aufgaben-hotel-rezeption</guid>
+      <pubDate>Sat, 10 Oct 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>KI in der Hotellerie</category>
+      <description><![CDATA[Welche Aufgaben KI an der Hotel-Rezeption übernehmen kann: Anfragen, Angebote, Bewertungen, Berichte. Mit Aufgaben-Landkarte, Datenschutz und KI-Kompetenz.]]></description>
+    </item>
+
+    <item>
+      <title>KI-Kompetenzpflicht nach Art. 4 KI-Verordnung: Was KMU jetzt tun müssen</title>
+      <link>https://localdominate.org/blog/ki-kompetenzpflicht-art-4-ki-verordnung</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/ki-kompetenzpflicht-art-4-ki-verordnung</guid>
+      <pubDate>Sat, 10 Oct 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>KI im Unternehmen</category>
+      <description><![CDATA[Art. 4 KI-Verordnung gilt seit Februar 2025 für jedes Unternehmen, das ChatGPT, Claude oder Copilot nutzt. Was seit Juli 2026 gilt, plus Plan in fünf Schritten.]]></description>
+    </item>
+
+    <item>
+      <title>KI-Crawler steuern: GPTBot, ClaudeBot, PerplexityBot und Google-Extended richtig einstellen</title>
+      <link>https://localdominate.org/blog/ai-crawler-steuern-gptbot-claudebot-2026</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/ai-crawler-steuern-gptbot-claudebot-2026</guid>
+      <pubDate>Sat, 08 Aug 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>KI-Suche</category>
+      <description><![CDATA[Welche KI-Crawler es gibt und wie Sie sie per robots.txt und Bot-Schutz steuern: geprüfte Tabelle, fertige Beispiele und eine Entscheidungshilfe für Betriebe.]]></description>
+    </item>
+
+    <item>
+      <title>Falsche Angaben in KI-Antworten korrigieren: Quelle finden, berichtigen, melden</title>
+      <link>https://localdominate.org/blog/ai-falschangaben-korrigieren-2026</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/ai-falschangaben-korrigieren-2026</guid>
+      <pubDate>Sat, 08 Aug 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>KI-Suche</category>
+      <description><![CDATA[ChatGPT, Google oder Perplexity nennen falsche Zeiten oder Nummern? So finden Sie die Quelle, berichtigen sie und nutzen die Meldewege der Anbieter richtig.]]></description>
+    </item>
+
+    <item>
+      <title>KI-Zitate überwachen: die Monatsroutine für lokale Betriebe mit Stichproben, Berichten und Logs</title>
+      <link>https://localdominate.org/blog/ai-zitat-monitoring-local-seo-2026</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/ai-zitat-monitoring-local-seo-2026</guid>
+      <pubDate>Sat, 08 Aug 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>KI-Suche</category>
+      <description><![CDATA[So prüfen Sie, ob KI-Dienste Ihren Betrieb nennen: Stichproben, Search Console, Bing AI Performance, utm_source=chatgpt.com, Server-Logs und ihre Grenzen.]]></description>
+    </item>
+
+    <item>
+      <title>GEO-Content-Briefing: die Vorlage für eine Seite, die KI-Antworten korrekt zitieren können</title>
+      <link>https://localdominate.org/blog/geo-content-briefing-vorlage-2026</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/geo-content-briefing-vorlage-2026</guid>
+      <pubDate>Sat, 08 Aug 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>KI-Suche</category>
+      <description><![CDATA[Briefing-Vorlage für eine Seite, die KI-Suchen korrekt zitieren können: alle Felder, ausgefüllte Beispiele für lokale Betriebe und wie Sie das Ergebnis prüfen.]]></description>
+    </item>
+
+    <item>
+      <title>Local SEO für Garten- und Landschaftsbau: So finden Privatkunden und Hausverwaltungen Ihren Betrieb</title>
+      <link>https://localdominate.org/blog/local-seo-garten-landschaftsbau</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-garten-landschaftsbau</guid>
+      <pubDate>Sat, 08 Aug 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
       <category>Branchen</category>
-      <description><![CDATA[Der komplette Local SEO Guide für Physiotherapie-Praxen. Von Google Business Optimierung bis Bewertungsmanagement - so gewinnst du mehr Patienten durch lokale Suche.]]></description>
+      <description><![CDATA[Local SEO für GaLaBau-Betriebe: Profil mit Einzugsgebiet, Projektseiten mit echten Fotos, Pflegeverträge, das Gartenjahr und Bewertungen nach Google-Regeln.]]></description>
     </item>
-    
+
     <item>
-      <title>Local SEO für Zahnärzte: Mehr Patienten durch lokale Sichtbarkeit</title>
-      <link>https://localdominate.org/blog/local-seo-zahnarzt</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-zahnarzt</guid>
-      <pubDate>Sat, 11 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Lokale SEO für Gebäudereinigung: So finden Firmenkunden und Verwaltungen Ihren Betrieb</title>
+      <link>https://localdominate.org/blog/local-seo-gebaeudereinigung</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-gebaeudereinigung</guid>
+      <pubDate>Sat, 08 Aug 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
       <category>Branchen</category>
-      <description><![CDATA[Local SEO speziell für Zahnarztpraxen. So optimierst du deine Praxis für "Zahnarzt in der Nähe" und gewinnst mehr Neupatienten.]]></description>
+      <description><![CDATA[SEO für Reinigungsfirmen: Profil mit Einzugsgebiet, passende Kategorie, eine Seite je Reinigungsart, echte Nachweise und Bewertungen von Geschäftskunden.]]></description>
     </item>
-    
+
     <item>
-      <title>Local SEO für Optiker: Der Guide für mehr Laufkundschaft</title>
-      <link>https://localdominate.org/blog/local-seo-optiker</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-optiker</guid>
-      <pubDate>Sat, 11 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Heizung Sanitär Notdienst SEO: So finden Kunden im Notfall Ihren Betrieb</title>
+      <link>https://localdominate.org/blog/local-seo-heizung-sanitaer</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-heizung-sanitaer</guid>
+      <pubDate>Sat, 08 Aug 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
       <category>Branchen</category>
-      <description><![CDATA[Wie Optiker ihre lokale Online-Sichtbarkeit verbessern. Von Brillen-Keywords bis Google Business Optimierung für Augenoptiker.]]></description>
+      <description><![CDATA[Notdienst für Heizung und Sanitär sichtbar machen: echte Zeiten, eine direkte Rufnummer, ein ehrliches Einzugsgebiet ohne Städteseiten und klare Preise.]]></description>
     </item>
-    
+
     <item>
-      <title>Local SEO für Elektrotechniker: Mehr Aufträge durch Google</title>
-      <link>https://localdominate.org/blog/local-seo-elektrotechnik</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-elektrotechnik</guid>
-      <pubDate>Sat, 11 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Local SEO für Umzugsunternehmen: Ehrlich in zwei Städten gefunden werden</title>
+      <link>https://localdominate.org/blog/local-seo-umzugsunternehmen</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-umzugsunternehmen</guid>
+      <pubDate>Sat, 08 Aug 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
       <category>Branchen</category>
-      <description><![CDATA[Local SEO für Elektriker und Elektrotechnik-Betriebe. So wirst du bei "Elektriker in der Nähe" gefunden und gewinnst mehr Aufträge.]]></description>
+      <description><![CDATA[Local SEO für Umzugsfirmen: Profil mit Einzugsgebiet, ehrlich in zwei Städten sichtbar, Seiten für Leistungen und Strecken, Angebot, Haftung und Bewertungen.]]></description>
     </item>
-    
+
     <item>
-      <title>Notdienst Keywords für Local SEO: Notfall-Suchanfragen dominieren</title>
-      <link>https://localdominate.org/blog/local-seo-notdienst-keywords</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-notdienst-keywords</guid>
-      <pubDate>Sat, 11 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Google-Unternehmensprofil und KI 2026: Was Google dokumentiert und welche Felder Sie pflegen sollten</title>
+      <link>https://localdominate.org/blog/unternehmensprofil-ki-funktionen-2026</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/unternehmensprofil-ki-funktionen-2026</guid>
+      <pubDate>Sat, 08 Aug 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Strategie</category>
-      <description><![CDATA[Wie du für Notdienst- und Notfall-Keywords optimierst. Schlüsselnotdienst, Sanitär-Notdienst, Tierarzt-Notfall - der komplette Guide für dringende Suchanfragen.]]></description>
+      <category>Google Unternehmensprofil</category>
+      <description><![CDATA[Welche KI-Funktionen Google beim Unternehmensprofil nutzt: Rezensions-Zusammenfassungen, Ask Maps, Ersatz für Fragen und Antworten, Stand in DACH und Pflege.]]></description>
     </item>
-    
+
     <item>
-      <title>Lokale Events für Marketing nutzen: Der Event-SEO Guide</title>
-      <link>https://localdominate.org/blog/lokale-events-marketing</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/lokale-events-marketing</guid>
-      <pubDate>Sat, 11 Jan 2026 08:00:00 +0100</pubDate>
+      <title>KI-Agenten, die buchen und anrufen: Was es gibt, wo es funktioniert und was lokale Betriebe vorbereiten sollten</title>
+      <link>https://localdominate.org/blog/ai-agents-lokale-buchungen-2026</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/ai-agents-lokale-buchungen-2026</guid>
+      <pubDate>Fri, 22 May 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Strategie</category>
-      <description><![CDATA[So nutzt du lokale Veranstaltungen, Feste und Events für dein Local SEO. Von Stadtfesten bis Weihnachtsmärkten - lokale Sichtbarkeit durch Event-Marketing.]]></description>
+      <category>KI-Agenten</category>
+      <description><![CDATA[Welche KI-Agenten Tische reservieren, Termine buchen oder Betriebe anrufen, in welchen Ländern das geht und wie Sie Buchung und Kontakt für Agenten vorbereiten.]]></description>
     </item>
-    
+
     <item>
-      <title>Google Business Kategorien Guide: Die perfekte Kategorie wählen</title>
-      <link>https://localdominate.org/blog/google-business-kategorien-guide</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/google-business-kategorien-guide</guid>
-      <pubDate>Sat, 11 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Apple Business Connect 2026: Ihr Eintrag in Apple Karten mit Apple Business</title>
+      <link>https://localdominate.org/blog/apple-business-connect-local-seo-2026</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/apple-business-connect-local-seo-2026</guid>
+      <pubDate>Fri, 22 May 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Google Business</category>
-      <description><![CDATA[Der komplette Guide zur Auswahl der richtigen Google Business Kategorien. Primär- und Sekundärkategorien optimal nutzen für maximale lokale Sichtbarkeit.]]></description>
+      <category>Apple Karten</category>
+      <description><![CDATA[Apple Business Connect heißt seit April 2026 Apple Business. So beanspruchen Sie Ihren Standort in Apple Karten, pflegen Daten und nutzen Showcases in DACH.]]></description>
     </item>
-    
+
     <item>
-      <title>Google Business Produkte &amp; Services: Angebote optimal präsentieren</title>
-      <link>https://localdominate.org/blog/google-business-produkte-services</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/google-business-produkte-services</guid>
-      <pubDate>Sat, 11 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Bing und Microsoft Copilot für lokale Betriebe: Bing Places, Webmaster Tools und was Microsoft dokumentiert</title>
+      <link>https://localdominate.org/blog/bing-copilot-local-seo-2026</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/bing-copilot-local-seo-2026</guid>
+      <pubDate>Fri, 22 May 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Google Business</category>
-      <description><![CDATA[So nutzt du Produkte und Services in deinem Google Business Profil optimal. Der komplette Guide zur Präsentation deiner Angebote für mehr Klicks.]]></description>
+      <category>KI-Suche</category>
+      <description><![CDATA[Bing Places, Bing Webmaster Tools und Microsoft Copilot für lokale Betriebe in DACH: was Microsoft dokumentiert, was offen ist und wie Sie selbst testen.]]></description>
     </item>
-    
+
     <item>
-      <title>Bewertungs-Antworten Vorlagen: Professionell auf Reviews reagieren</title>
-      <link>https://localdominate.org/blog/bewertungs-antworten-vorlagen</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/bewertungs-antworten-vorlagen</guid>
-      <pubDate>Sat, 11 Jan 2026 08:00:00 +0100</pubDate>
+      <title>ChatGPT Search für lokale Unternehmen: Was OpenAI dokumentiert und was Sie tun können</title>
+      <link>https://localdominate.org/blog/chatgpt-search-lokale-unternehmen-2026</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/chatgpt-search-lokale-unternehmen-2026</guid>
+      <pubDate>Fri, 22 May 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Bewertungen</category>
-      <description><![CDATA[50+ Vorlagen für professionelle Antworten auf Google Bewertungen. Positive, negative und neutrale Reviews richtig beantworten - mit Copy-Paste Templates.]]></description>
+      <category>KI-Suche</category>
+      <description><![CDATA[Wie lokale Betriebe in der ChatGPT-Suche erscheinen: was OpenAI dokumentiert, welche Crawler zählen, was offen ist und wie Sie Ihre Sichtbarkeit selbst prüfen.]]></description>
     </item>
-    
+
     <item>
-      <title>Google Business Insights verstehen: Deine Statistiken richtig lesen</title>
-      <link>https://localdominate.org/blog/google-business-insights-verstehen</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/google-business-insights-verstehen</guid>
-      <pubDate>Sat, 11 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Google AI Mode (KI-Modus) und Local SEO: Was Google dokumentiert und was lokale Betriebe tun können</title>
+      <link>https://localdominate.org/blog/google-ai-mode-local-seo-2026</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/google-ai-mode-local-seo-2026</guid>
+      <pubDate>Fri, 22 May 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Google Business</category>
-      <description><![CDATA[Wie du die Google Business Insights und Performance-Daten richtig analysierst. Impressionen, Klicks, Anrufe - alle Metriken erklärt und optimiert.]]></description>
+      <category>KI-Suche</category>
+      <description><![CDATA[Google KI-Modus in Deutschland, Österreich und der Schweiz: wie das Fan-out sucht, wo Buchen schon geht, was Google verlangt und wie Sie Ihren Betrieb messen.]]></description>
     </item>
-    
-    <!-- Featured Articles -->
+
     <item>
-      <title>Local SEO Keywords finden: Der komplette Keyword-Recherche Guide 2026</title>
-      <link>https://localdominate.org/blog/local-seo-keywords-finden</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-keywords-finden</guid>
-      <pubDate>Tue, 07 Jan 2026 08:00:00 +0100</pubDate>
+      <title>llms.txt für lokale Unternehmen: Was die Datei kann, was nicht und ob sie sich lohnt</title>
+      <link>https://localdominate.org/blog/llms-txt-lokale-unternehmen-2026</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/llms-txt-lokale-unternehmen-2026</guid>
+      <pubDate>Fri, 22 May 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Strategie</category>
-      <description><![CDATA[Der komplette Guide zur lokalen Keyword-Recherche. Lerne welche Keywords Kunden bringen und wie du sie findest. Mit kostenlosen Tools und Schritt-für-Schritt Anleitung.]]></description>
+      <category>KI-Suche</category>
+      <description><![CDATA[Was llms.txt ist, wer die Datei vorgeschlagen hat, was Google, OpenAI, Anthropic und Perplexity dazu sagen und ob sich der Aufwand für Ihren Betrieb lohnt.]]></description>
     </item>
-    
+
     <item>
-      <title>Google Maps Ranking verbessern: Der ultimative Guide 2026</title>
-      <link>https://localdominate.org/blog/google-maps-ranking-verbessern</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/google-maps-ranking-verbessern</guid>
-      <pubDate>Tue, 07 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Reddit und Foren in KI-Antworten: Was belegt ist, was erlaubt ist und wie lokale Betriebe ehrlich mitreden</title>
+      <link>https://localdominate.org/blog/reddit-local-seo-ai-zitate-2026</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/reddit-local-seo-ai-zitate-2026</guid>
+      <pubDate>Fri, 22 May 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Local SEO</category>
-      <description><![CDATA[Erfahre, wie du mit bewährten Strategien dein Google Maps Ranking verbesserst und mehr lokale Kunden gewinnst. 7 Schritte die wirklich funktionieren.]]></description>
+      <category>KI-Suche</category>
+      <description><![CDATA[Reddit als Quelle für ChatGPT und Google: was die Verträge regeln, was Reddit bei Eigenwerbung erlaubt, wo das UWG Grenzen zieht und wie Sie Erwähnungen finden.]]></description>
     </item>
-    
+
     <item>
-      <title>Google Bewertungen bekommen: 7 bewährte Strategien</title>
-      <link>https://localdominate.org/blog/google-bewertungen-bekommen</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/google-bewertungen-bekommen</guid>
-      <pubDate>Tue, 07 Jan 2026 08:00:00 +0100</pubDate>
+      <title>TikTok als Suchort für lokale Betriebe: Was TikTok dokumentiert und was Sie tun können</title>
+      <link>https://localdominate.org/blog/tiktok-search-local-seo-2026</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/tiktok-search-local-seo-2026</guid>
+      <pubDate>Fri, 22 May 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Bewertungen</category>
-      <description><![CDATA[Lerne 7 bewährte Methoden, um mehr authentische Google Bewertungen von zufriedenen Kunden zu erhalten. Mit Vorlagen und QR-Code Tipps.]]></description>
+      <category>Soziale Suche</category>
+      <description><![CDATA[TikTok als Suchort für lokale Betriebe in DACH: was TikTok dokumentiert, was der Nearby-Feed in Deutschland zeigt, welche Studien es gibt und was sich lohnt.]]></description>
     </item>
-    
+
     <item>
-      <title>Local SEO für Restaurants: Mehr Gäste durch Google</title>
-      <link>https://localdominate.org/blog/local-seo-fuer-restaurants</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-fuer-restaurants</guid>
-      <pubDate>Tue, 07 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Sprachassistenten 2026: Siri, Gemini und Alexa für lokale Betriebe in Deutschland, Österreich und der Schweiz</title>
+      <link>https://localdominate.org/blog/voice-search-sprachassistenten-local-seo-2026</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/voice-search-sprachassistenten-local-seo-2026</guid>
+      <pubDate>Fri, 22 May 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Sprachsuche</category>
+      <description><![CDATA[Siri, Gemini und Alexa im Herbst 2026: was in Deutschland, Österreich und der Schweiz läuft, woher die Assistenten Ortsdaten holen und was Betriebe pflegen.]]></description>
+    </item>
+
+    <item>
+      <title>Sichtbarkeit in KI-Antworten messen: So bauen Sie Ihre eigene, ehrliche Kennzahl</title>
+      <link>https://localdominate.org/blog/ai-visibility-index-local-seo-metrik</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/ai-visibility-index-local-seo-metrik</guid>
+      <pubDate>Wed, 20 May 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>KI-Suche</category>
+      <description><![CDATA[So bauen Sie eine einfache Kennzahl für Ihre Sichtbarkeit in KI-Antworten: Fragenset, Bewertung, Stichprobe, Schwankung und Grenzen, mit Rechenbeispiel.]]></description>
+    </item>
+
+    <item>
+      <title>Wie ChatGPT lokale Unternehmen zitiert: Quellen verstehen und eigene Seiten zitierfähig machen</title>
+      <link>https://localdominate.org/blog/chatgpt-zitiert-lokale-unternehmen</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/chatgpt-zitiert-lokale-unternehmen</guid>
+      <pubDate>Wed, 20 May 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>KI-Suche</category>
+      <description><![CDATA[Wie ChatGPT Quellen anzeigt, welche Seiten bei lokalen Fragen verlinkt werden und wie Sie für Ihre Branche und Ihren Ort eine eigene Quellenkarte erstellen.]]></description>
+    </item>
+
+    <item>
+      <title>Perplexity und Claude: Wie lokale Betriebe dort gefunden und zitiert werden</title>
+      <link>https://localdominate.org/blog/perplexity-claude-lokale-sichtbarkeit</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/perplexity-claude-lokale-sichtbarkeit</guid>
+      <pubDate>Wed, 20 May 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>KI-Suche</category>
+      <description><![CDATA[Wie Perplexity und Claude im Web suchen und Quellen zeigen, welche Crawler zählen, was in DACH gilt und wie lokale Betriebe ihre Sichtbarkeit selbst testen.]]></description>
+    </item>
+
+    <item>
+      <title>Schema-Strategie für die KI-Suche: Was strukturierte Daten leisten und was ein Mythos ist</title>
+      <link>https://localdominate.org/blog/schema-strategie-ai-retrieval</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/schema-strategie-ai-retrieval</guid>
+      <pubDate>Wed, 20 May 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>KI-Suche</category>
+      <description><![CDATA[Brauchen KI-Antworten eigenes Schema Markup? Was Google und Microsoft dokumentieren, welche Daten lokalen Betrieben helfen und welche Versprechen Mythen sind.]]></description>
+    </item>
+
+    <item>
+      <title>Was ist GEO? Generative Engine Optimization zwischen Forschung, Google-Aussagen und Agenturversprechen</title>
+      <link>https://localdominate.org/blog/was-ist-geo-generative-engine-optimization</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/was-ist-geo-generative-engine-optimization</guid>
+      <pubDate>Wed, 20 May 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>KI-Suche</category>
+      <description><![CDATA[GEO erklärt: woher der Begriff stammt, was die Studie dahinter wirklich gemessen hat, was Google offiziell sagt und was lokale Betriebe davon brauchen.]]></description>
+    </item>
+
+    <item>
+      <title>Local SEO Tracking: die richtigen KPIs, ihre Quellen und wie Sie sie lesen</title>
+      <link>https://localdominate.org/blog/local-seo-tracking-kpis</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-tracking-kpis</guid>
+      <pubDate>Mon, 30 Mar 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Messen</category>
+      <description><![CDATA[Welche Local-SEO-KPIs zählen, aus welcher Quelle sie stammen und wie Sie sie lesen: Unternehmensprofil, Search Console mit KI-Bericht, GA4 und Anrufe.]]></description>
+    </item>
+
+    <item>
+      <title>SEO für Cafés und Coffee Shops: So finden Gäste Ihr Café auf Google</title>
+      <link>https://localdominate.org/blog/local-seo-cafe-coffeeshop</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-cafe-coffeeshop</guid>
+      <pubDate>Sat, 28 Mar 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
       <category>Gastronomie</category>
-      <description><![CDATA[Local SEO speziell für Restaurants erklärt. Von Speisekarten-Optimierung bis Bilder-Strategie. Jetzt mehr Reservierungen!]]></description>
+      <description><![CDATA[SEO für Cafés: Kategorie, Öffnungszeiten, Speisekarte als Text, Attribute wie WLAN, Fotos, Bewertungen und Instagram im Google-Profil richtig pflegen.]]></description>
     </item>
-    
+
     <item>
-      <title>Google My Business optimieren: Schritt-für-Schritt Anleitung</title>
-      <link>https://localdominate.org/blog/google-my-business-optimieren</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/google-my-business-optimieren</guid>
-      <pubDate>Tue, 07 Jan 2026 08:00:00 +0100</pubDate>
+      <title>KI-Suche und GEO: alle Anleitungen im Überblick</title>
+      <link>https://localdominate.org/blog/ai-zukunft-hub</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/ai-zukunft-hub</guid>
+      <pubDate>Mon, 09 Mar 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Google Business</category>
-      <description><![CDATA[Die komplette Anleitung zur Optimierung deines Google Business Profils für maximale lokale Sichtbarkeit. 10 Schritte mit Screenshots.]]></description>
+      <category>Themenübersicht</category>
+      <description><![CDATA[KI-Suche für lokale Betriebe an einem Ort: Übersicht mit KI, KI-Modus, ChatGPT, Perplexity, Copilot, KI-Crawler, llms.txt, Messung und falsche Angaben.]]></description>
     </item>
-    
+
     <item>
-      <title>Lokale Suchmaschinenoptimierung 2026: Was wirklich funktioniert</title>
-      <link>https://localdominate.org/blog/lokale-suchmaschinenoptimierung-2026</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/lokale-suchmaschinenoptimierung-2026</guid>
-      <pubDate>Tue, 07 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Local-SEO-Fallstudien: Ergebnisse prüfen und selbst dokumentieren</title>
+      <link>https://localdominate.org/blog/case-studies-hub</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/case-studies-hub</guid>
+      <pubDate>Mon, 09 Mar 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Trends</category>
-      <description><![CDATA[Die wichtigsten Trends und Strategien für lokale SEO im Jahr 2026. KI-Einfluss, Voice Search und mehr. Bleibe deiner Konkurrenz voraus.]]></description>
+      <category>Themenübersicht</category>
+      <description><![CDATA[Woran Sie belastbare Local-SEO-Fallstudien erkennen und wie Sie eigene Ergebnisse dokumentieren: Ausgangslage, Messpunkte, Änderungsprotokoll, Leistungsdaten.]]></description>
     </item>
-    
+
     <item>
-      <title>NAP-Konsistenz: Warum einheitliche Daten dein Ranking boosten</title>
-      <link>https://localdominate.org/blog/nap-konsistenz-local-seo</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/nap-konsistenz-local-seo</guid>
-      <pubDate>Tue, 07 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Lokales Content Marketing und Links: alle Anleitungen im Überblick</title>
+      <link>https://localdominate.org/blog/content-marketing-hub</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/content-marketing-hub</guid>
+      <pubDate>Mon, 09 Mar 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Local SEO</category>
-      <description><![CDATA[Erfahre, warum einheitliche Unternehmensdaten (NAP) für dein lokales Ranking entscheidend sind. Kompletter Guide mit Checkliste.]]></description>
+      <category>Themenübersicht</category>
+      <description><![CDATA[Lokales Content Marketing an einem Ort: Suchbegriffe finden, Inhalte für Kunden vor Ort planen, lokale Links und Erwähnungen aufbauen, Firmeneinträge pflegen.]]></description>
     </item>
-    
+
     <item>
-      <title>Local SEO für Handwerker: Mehr Aufträge durch Google</title>
-      <link>https://localdominate.org/blog/local-seo-handwerker</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-handwerker</guid>
-      <pubDate>Tue, 07 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Technisches Local SEO: alle Anleitungen im Überblick</title>
+      <link>https://localdominate.org/blog/technisches-seo-hub</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/technisches-seo-hub</guid>
+      <pubDate>Mon, 09 Mar 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Branchen</category>
-      <description><![CDATA[Local SEO speziell für Handwerksbetriebe. Von Elektriker bis Maler - so gewinnst du mehr lokale Aufträge durch Google.]]></description>
+      <category>Themenübersicht</category>
+      <description><![CDATA[Technisches Local SEO an einem Ort: strukturierte Daten, mobile Website, Ladezeit, Standortseiten, Sprachsuche, KI-Crawler und Messung für lokale Betriebe.]]></description>
     </item>
-    
+
     <item>
-      <title>Local SEO Audit Checkliste: 50+ Punkte für mehr Sichtbarkeit</title>
-      <link>https://localdominate.org/blog/local-seo-audit-checkliste</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-audit-checkliste</guid>
-      <pubDate>Tue, 07 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Local-SEO-Vorlagen, Checklisten und Werkzeuge im Überblick</title>
+      <link>https://localdominate.org/blog/tools-ressourcen-hub</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/tools-ressourcen-hub</guid>
+      <pubDate>Mon, 09 Mar 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Strategie</category>
-      <description><![CDATA[Die ultimative Checkliste für dein Local SEO Audit. Prüfe alle wichtigen Faktoren für maximale lokale Sichtbarkeit.]]></description>
+      <category>Themenübersicht</category>
+      <description><![CDATA[Alle Vorlagen, Checklisten und Pläne für Local SEO an einem Ort: Audit, Keyword-Liste, Einträge, Ranking-Protokoll, Monatsroutine, 12-Wochen-Plan und Werkzeuge.]]></description>
     </item>
-    
+
     <item>
-      <title>Local SEO Schweiz: Der komplette Leitfaden für KMUs</title>
-      <link>https://localdominate.org/blog/local-seo-schweiz</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-schweiz</guid>
-      <pubDate>Fri, 10 Jan 2026 08:00:00 +0100</pubDate>
+      <title>Probleme mit dem Google-Unternehmensprofil: alle Lösungen im Überblick</title>
+      <link>https://localdominate.org/blog/troubleshooting-hub</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/troubleshooting-hub</guid>
+      <pubDate>Mon, 09 Mar 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Regionen</category>
-      <description><![CDATA[Der nationale Local SEO Guide für Schweizer Unternehmen. Mehrsprachigkeit, Schweizer Verzeichnisse und Google Business für alle Kantone.]]></description>
+      <category>Themenübersicht</category>
+      <description><![CDATA[Google-Profil gesperrt, nicht bestätigt, doppelt oder plötzlich unsichtbar? Hier finden Sie für jedes Problem die passende Anleitung mit den offiziellen Wegen.]]></description>
     </item>
-    
+
     <item>
-      <title>Local SEO Zürich: So dominierst du den Zürcher Markt</title>
-      <link>https://localdominate.org/blog/local-seo-zuerich</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-zuerich</guid>
-      <pubDate>Sun, 12 Jan 2026 08:00:00 +0100</pubDate>
+      <title>KI-Suche oder klassische Suche: Was lokale Betriebe anders machen sollten</title>
+      <link>https://localdominate.org/blog/ai-search-vs-traditional-search</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/ai-search-vs-traditional-search</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Regionen</category>
-      <description><![CDATA[Der ultimative Local SEO Guide für Zürcher Unternehmen. Stadtteile, Keywords, Verzeichnisse und Strategien für die größte Schweizer Stadt.]]></description>
+      <category>KI &amp; Suche</category>
+      <description><![CDATA[KI-Suche und klassische Google-Suche im Vergleich: wie Antworten entstehen, wie Quellen verlinkt werden, was Sie beeinflussen und messen können. Mit Tabelle.]]></description>
     </item>
-    
+
     <item>
-      <title>Local SEO München: Der Guide für bayerische Unternehmen</title>
-      <link>https://localdominate.org/blog/local-seo-muenchen</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-muenchen</guid>
-      <pubDate>Wed, 14 Jan 2026 08:00:00 +0100</pubDate>
+      <title>KI-Suche für lokale Unternehmen: Wo Ihr Betrieb heute erscheint und was Sie zuerst tun sollten</title>
+      <link>https://localdominate.org/blog/ai-suche-lokale-unternehmen</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/ai-suche-lokale-unternehmen</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Regionen</category>
-      <description><![CDATA[Local SEO speziell für München und Bayern. Stadtteil-Keywords, lokale Verzeichnisse und Strategien für die bayerische Landeshauptstadt.]]></description>
+      <category>KI-Suche</category>
+      <description><![CDATA[Wo lokale Betriebe in KI-Antworten erscheinen: Google, ChatGPT, Perplexity, Copilot, Claude und Apple. Was jeder Dienst braucht und was zuerst zählt.]]></description>
     </item>
-    
+
     <item>
-      <title>Local SEO Berlin: Der komplette Guide für die Hauptstadt 2026</title>
-      <link>https://localdominate.org/blog/local-seo-berlin</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-berlin</guid>
-      <pubDate>Thu, 09 Jan 2026 08:00:00 +0100</pubDate>
+      <title>KI-Sichtbarkeit prüfen: die Checkliste für Website und Unternehmensprofil</title>
+      <link>https://localdominate.org/blog/ai-visibility-checklist</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/ai-visibility-checklist</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
       <dc:creator>LocalDominate</dc:creator>
-      <category>Regionen</category>
-      <description><![CDATA[Der ultimative Local SEO Guide für Berliner Unternehmen. Bezirke, Keywords, Verzeichnisse und Strategien für die deutsche Hauptstadt.]]></description>
+      <category>KI-Suche</category>
+      <description><![CDATA[Checkliste für KI-Suche: Crawler-Zugang, lesbare Inhalte, klare Fakten, Profile und Messung, belegt mit Angaben von Google, OpenAI, Anthropic und Perplexity.]]></description>
     </item>
-    
+
+    <item>
+      <title>Citation-Tracking-Vorlage: Ihre Firmeneinträge in einer Tabelle führen</title>
+      <link>https://localdominate.org/blog/citation-tracking-template</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/citation-tracking-template</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Vorlage</category>
+      <description><![CDATA[Vorlage für Ihre Verzeichniseinträge: Stammdaten, Eintragsliste, Statuscodes und Änderungsprotokoll als Tabelle, dazu ein Ablauf für die Prüfung je Quartal.]]></description>
+    </item>
+
+    <item>
+      <title>Entity SEO für lokale Unternehmen: so erkennt Google Ihren Betrieb eindeutig</title>
+      <link>https://localdominate.org/blog/entity-seo-guide</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/entity-seo-guide</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>KI und Suche</category>
+      <description><![CDATA[Entity SEO verständlich erklärt: wie Google Ihren Betrieb als eindeutige Entität erkennt, welche Rolle Profil, Website und sameAs spielen und wie Sie es prüfen.]]></description>
+    </item>
+
+    <item>
+      <title>Häufige Fragen zu Local SEO: kurze Antworten und wo Sie mehr finden</title>
+      <link>https://localdominate.org/blog/faq-hub</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/faq-hub</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Themenübersicht</category>
+      <description><![CDATA[Kurze Antworten auf häufige Fragen zu Local SEO, Google-Unternehmensprofil, Bewertungen, Technik und KI-Suche, mit Links zu den ausführlichen Leitfäden.]]></description>
+    </item>
+
+    <item>
+      <title>Google-Maps-Audit: die Vorlage zum Ausfüllen für Ihr Unternehmensprofil</title>
+      <link>https://localdominate.org/blog/google-maps-audit-template</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/google-maps-audit-template</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Google Maps</category>
+      <description><![CDATA[Vorlage für Ihr Google-Maps-Audit: sieben Prüfbögen zu Inhaberschaft, Stammdaten, Kategorien, Fotos, Rezensionen, Sichtbarkeit und Website, mit Auswertung.]]></description>
+    </item>
+
+    <item>
+      <title>Google-Maps-Konkurrenzanalyse: Wettbewerber vergleichen und eigene Lücken finden</title>
+      <link>https://localdominate.org/blog/google-maps-konkurrenzanalyse</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/google-maps-konkurrenzanalyse</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Google Maps</category>
+      <description><![CDATA[Wer steht in Google Maps vor Ihnen und warum? Mit Vergleichsbogen: Wettbewerber finden, Profile, Rezensionen und Websites prüfen, Lücken in Maßnahmen umsetzen.]]></description>
+    </item>
+
+    <item>
+      <title>Google-Maps-Ranking-Fallstudien: Ergebnisse prüfen und selbst sauber dokumentieren</title>
+      <link>https://localdominate.org/blog/google-maps-ranking-case-studies</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/google-maps-ranking-case-studies</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Google Maps</category>
+      <description><![CDATA[Woran Sie belastbare Google-Maps-Fallstudien erkennen und wie Sie selbst eine führen: Ausgangslage, Messgrößen, Änderungsprotokoll, Störfaktoren, Auswertung.]]></description>
+    </item>
+
+    <item>
+      <title>Google-Maps-Ranking-Tracker: Positionen über Monate protokollieren und auswerten</title>
+      <link>https://localdominate.org/blog/google-maps-ranking-tracker</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/google-maps-ranking-tracker</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Vorlage</category>
+      <description><![CDATA[Maps-Positionen dauerhaft protokollieren: Einstellungen, Messprotokoll, Monatsübersicht und Wettbewerber als Tabellen, dazu Kennzahlen und ein Plan bei Verlust.]]></description>
+    </item>
+
+    <item>
+      <title>Google Maps SEO: alle Anleitungen im Überblick</title>
+      <link>https://localdominate.org/blog/google-maps-seo-hub</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/google-maps-seo-hub</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Themenübersicht</category>
+      <description><![CDATA[Google Maps SEO an einem Ort: wie Google lokal sortiert, Ranking messen und verbessern, Konkurrenz analysieren, Spam melden, Vorlagen und Apple sowie Bing.]]></description>
+    </item>
+
+    <item>
+      <title>Google Maps SEO und organisches SEO: Was Google zu den beiden Rankings sagt</title>
+      <link>https://localdominate.org/blog/google-maps-seo-vs-organic-seo</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/google-maps-seo-vs-organic-seo</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Google Maps</category>
+      <description><![CDATA[Wie Google lokale Treffer in Maps und normale Suchergebnisse sortiert, welche Signale beide teilen, welche nicht und was daraus für Profil und Website folgt.]]></description>
+    </item>
+
+    <item>
+      <title>Google-Maps-Spam erkennen und melden: so schützen Sie Ihren Markt und Ihr eigenes Profil</title>
+      <link>https://localdominate.org/blog/google-maps-spam-erkennen</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/google-maps-spam-erkennen</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Google Maps</category>
+      <description><![CDATA[So erkennen Sie gefälschte Einträge, Keyword-Namen und gekaufte Bewertungen in Google Maps, melden sie auf dem richtigen Weg und schützen Ihr eigenes Profil.]]></description>
+    </item>
+
+    <item>
+      <title>Vorlage für die lokale Keyword-Recherche: Liste, Bewertung und Seitenzuordnung</title>
+      <link>https://localdominate.org/blog/local-keyword-research-template</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/local-keyword-research-template</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Vorlage</category>
+      <description><![CDATA[Tabellenvorlage für lokale Suchbegriffe: Spalten, Quellen, Bewertung und Seitenzuordnung. So halten Sie Ihre Keyword-Liste mit wenig Aufwand aktuell.]]></description>
+    </item>
+
+    <item>
+      <title>Local Link Building Blueprint: Der 90-Tage-Plan mit Vorlagen für lokale Links</title>
+      <link>https://localdominate.org/blog/local-link-building-blueprint</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/local-link-building-blueprint</guid>
+      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Vorlage</category>
+      <description><![CDATA[90-Tage-Plan für lokale Links: Kammern, Vereine, Partner, Presse und Veranstaltungen Woche für Woche, mit Tracking-Tabelle und E-Mail-Vorlagen auf Deutsch.]]></description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,634 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Kraftraum Nordufer: Beispiel-Website für Fitnessstudios von LocalDominate</title>
+<meta name="description" content="Beispiel-Website eines Fitnessstudios, gebaut von LocalDominate. Kraftraum Nordufer ist ein erfundenes Studio; Adresse, Preise, Kurse und Personen sind Beispiele.">
+<link rel="canonical" href="https://localdominate.org/gym-demo/">
+<meta name="theme-color" content="#1D2226">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231D2226'/%3E%3Crect x='6' y='11' width='4' height='10' rx='1' fill='%23F1F2EE'/%3E%3Crect x='22' y='11' width='4' height='10' rx='1' fill='%23F1F2EE'/%3E%3Crect x='10' y='15' width='12' height='2' fill='%23F1F2EE'/%3E%3C/svg%3E">
+<link rel="preload" href="/gym-demo/fonts/archivo-latin-wdth-normal.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+@font-face { font-family: "Archivo"; font-style: normal; font-weight: 100 900; font-stretch: 62% 125%; font-display: swap; src: url("/gym-demo/fonts/archivo-latin-wdth-normal.woff2") format("woff2"); }
+
+:root {
+  --chalk: #F1F2EE;
+  --chalk-2: #E4E6E0;
+  --graphite: #1D2226;
+  --rubber: #4A5056;
+  --line: #CDD1CB;
+  --plate: #2340C8;
+  --plate-ink: #1A31A3;
+  --plate-tint: #DFE4F8;
+  --now: #D8452E;
+  --white: #FCFCFA;
+  --demo: #2B2233;
+  --demo-text: #F3EEF6;
+  --pin: #E2B53B;
+  --font: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --gutter: clamp(16px, 4vw, 48px);
+  --max: 1200px;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 120px; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { transition: none !important; animation: none !important; } }
+body { margin: 0; background: var(--chalk); color: var(--graphite); font-family: var(--font); font-stretch: 100%; font-size: 17px; line-height: 1.55; -webkit-font-smoothing: antialiased; }
+a { color: inherit; }
+:focus-visible { outline: 3px solid var(--plate); outline-offset: 3px; border-radius: 4px; }
+.wrap { max-width: var(--max); margin: 0 auto; padding: 0 var(--gutter); }
+h1, h2, h3 { margin: 0; font-weight: 800; font-stretch: 118%; line-height: 1.02; letter-spacing: -0.015em; }
+h2 { font-size: clamp(1.9rem, 1.2rem + 2.6vw, 3rem); }
+h3 { font-size: 1.25rem; font-stretch: 108%; }
+p { margin: 0; }
+
+.demo { position: sticky; top: 0; z-index: 50; background: var(--demo); color: var(--demo-text); font-size: 14px; line-height: 1.45; }
+.demo .wrap { display: flex; gap: 12px 20px; align-items: center; justify-content: space-between; flex-wrap: wrap; padding-top: 9px; padding-bottom: 9px; }
+.demo p { max-width: 70ch; }
+.demo-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+.demo a, .demo button { font: inherit; font-weight: 700; color: var(--demo); background: var(--demo-text); border: 0; border-radius: 999px; padding: 6px 14px; text-decoration: none; cursor: pointer; white-space: nowrap; }
+.demo button[aria-pressed="true"] { background: var(--pin); }
+.demo a.ghost { background: transparent; color: var(--demo-text); box-shadow: inset 0 0 0 1.5px rgba(243,238,246,.5); }
+
+.top { position: sticky; top: var(--demo-h, 44px); z-index: 40; background: rgba(241,242,238,.95); backdrop-filter: blur(8px); border-bottom: 2px solid var(--graphite); }
+.top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 16px; height: 66px; }
+.brand { display: flex; align-items: center; gap: 10px; text-decoration: none; font-weight: 900; font-stretch: 125%; font-size: 1.15rem; letter-spacing: -0.01em; }
+.brand svg { width: 32px; height: 32px; }
+.nav { display: none; gap: 24px; font-size: 15px; font-weight: 600; }
+.nav a { text-decoration: none; color: var(--rubber); }
+.nav a:hover { color: var(--graphite); }
+@media (min-width: 960px) { .nav { display: flex; } }
+
+.btn { display: inline-flex; align-items: center; justify-content: center; font: inherit; font-weight: 800; font-stretch: 110%; font-size: 16px; text-decoration: none; border-radius: 8px; padding: 14px 22px; border: 0; cursor: pointer; }
+.btn-primary { background: var(--plate); color: #fff; }
+.btn-primary:hover { background: var(--plate-ink); }
+.btn-quiet { background: transparent; color: var(--graphite); box-shadow: inset 0 0 0 2px var(--graphite); }
+.btn-small { padding: 9px 16px; font-size: 15px; }
+
+/* Hero: headline and today's classes side by side */
+.hero { padding: clamp(36px, 6vw, 80px) 0 clamp(48px, 7vw, 90px); }
+.hero .wrap { display: grid; gap: 40px; }
+.hero .wrap > * { min-width: 0; }
+@media (min-width: 980px) { .hero .wrap { grid-template-columns: 1.15fr 0.85fr; gap: 64px; align-items: start; } }
+.place { font-size: 15px; font-weight: 600; color: var(--rubber); }
+.hero h1 { margin-top: 14px; font-size: clamp(2.3rem, 1.2rem + 4.3vw, 4.4rem); max-width: 15ch; font-stretch: 122%; }
+.hero .lead { margin-top: 22px; max-width: 48ch; font-size: 1.12rem; color: var(--rubber); }
+.hero-cta { margin-top: 28px; display: flex; flex-wrap: wrap; gap: 12px; }
+.facts { margin: 30px 0 0; padding: 0; list-style: none; display: grid; gap: 0; border-top: 2px solid var(--graphite); max-width: 520px; }
+.facts li { display: flex; justify-content: space-between; gap: 16px; padding: 12px 0; border-bottom: 1px solid var(--line); font-size: 15px; }
+.facts li b { font-weight: 700; }
+
+.today { background: var(--graphite); color: var(--chalk); border-radius: 14px; padding: 24px 24px 18px; }
+.today-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+.today-head h2 { font-size: 1.5rem; }
+.today-head span { font-size: 14px; color: #AEB5BB; }
+.today ol { list-style: none; margin: 16px 0 0; padding: 0; }
+.today li { display: grid; grid-template-columns: 64px 1fr auto; gap: 14px; align-items: baseline; padding: 13px 0; border-top: 1px solid #3A4147; }
+.today li .t { font-variant-numeric: tabular-nums; font-weight: 800; font-stretch: 112%; }
+.today li .n { font-weight: 700; }
+.today li .w { font-size: 13px; color: #AEB5BB; display: block; font-weight: 500; }
+.today li .flag { font-size: 12px; font-weight: 800; border-radius: 999px; padding: 3px 9px; background: #343B41; color: #DDE1E4; white-space: nowrap; }
+.today li.past { opacity: .45; }
+.today li.next .flag { background: var(--now); color: #fff; }
+.today .all { display: inline-block; margin-top: 12px; font-weight: 700; font-size: 15px; color: var(--chalk); text-underline-offset: 4px; }
+.today .empty { padding: 16px 0 6px; color: #C9CED2; border-top: 1px solid #3A4147; }
+
+.section { padding: clamp(56px, 8vw, 100px) 0; border-top: 2px solid var(--graphite); }
+.section-head { display: grid; gap: 14px; margin-bottom: 40px; }
+@media (min-width: 900px) { .section-head { grid-template-columns: 1fr 1fr; align-items: end; gap: 56px; } }
+.section-head p { color: var(--rubber); max-width: 52ch; }
+
+/* Trial: a real sequence */
+.steps { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; counter-reset: s; }
+@media (min-width: 900px) { .steps { grid-template-columns: repeat(3, 1fr); gap: 32px; } }
+.steps li { counter-increment: s; padding: 24px 0; border-top: 1px solid var(--line); }
+.steps li::before { content: counter(s); display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; background: var(--plate); color: #fff; font-weight: 900; font-stretch: 120%; margin-bottom: 16px; }
+.steps p { margin-top: 8px; color: var(--rubber); max-width: 36ch; }
+.trial-cta { margin-top: 32px; display: flex; gap: 16px; flex-wrap: wrap; align-items: center; }
+.trial-cta p { color: var(--rubber); font-size: 15px; }
+
+/* Timetable */
+.tabs { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 6px; margin-bottom: 18px; }
+.tabs button { font: inherit; font-weight: 800; font-stretch: 110%; font-size: 15px; border: 2px solid var(--graphite); background: transparent; color: var(--graphite); border-radius: 8px; padding: 8px 14px; cursor: pointer; white-space: nowrap; }
+.tabs button[aria-selected="true"] { background: var(--graphite); color: var(--chalk); }
+.grid { display: grid; gap: 10px; }
+.day h3 { font-size: 1rem; padding: 10px 12px; border-radius: 8px; background: var(--chalk-2); }
+.day.is-today h3 { background: var(--plate); color: #fff; }
+.day ul { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 8px; }
+.class { background: var(--white); border: 1px solid var(--line); border-left: 5px solid var(--c, var(--plate)); border-radius: 8px; padding: 10px 12px; font-size: 15px; line-height: 1.35; }
+.class b { display: block; font-variant-numeric: tabular-nums; }
+.class span { color: var(--rubber); font-size: 14px; }
+.k-kraft { --c: #2340C8; } .k-ruecken { --c: #2F8A64; } .k-cycle { --c: #D8452E; } .k-yoga { --c: #9A7A2E; } .k-reha { --c: #6A4BB0; }
+.legend { margin-top: 20px; display: flex; flex-wrap: wrap; gap: 8px 20px; font-size: 14px; color: var(--rubber); }
+.legend i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; background: var(--c); margin-right: 6px; vertical-align: -1px; }
+@media (min-width: 980px) {
+  .tabs { display: none; }
+  .grid { grid-template-columns: repeat(6, 1fr); }
+  .day[hidden] { display: block; }
+}
+
+/* Prices */
+.plans { display: grid; gap: 18px; }
+@media (min-width: 900px) { .plans { grid-template-columns: repeat(3, 1fr); } }
+.plan { background: var(--white); border: 2px solid var(--graphite); border-radius: 14px; padding: 26px; display: flex; flex-direction: column; }
+.plan.main { background: var(--graphite); color: var(--chalk); }
+.plan .amount { margin-top: 14px; font-size: 2.6rem; font-weight: 900; font-stretch: 120%; line-height: 1; }
+.plan .amount small { font-size: 1rem; font-weight: 600; font-stretch: 100%; }
+.plan dl { margin: 20px 0 0; display: grid; gap: 0; }
+.plan dl div { display: flex; justify-content: space-between; gap: 12px; padding: 10px 0; border-top: 1px solid var(--line); font-size: 15px; }
+.plan.main dl div { border-color: #3A4147; }
+.plan dt { color: var(--rubber); }
+.plan.main dt { color: #AEB5BB; }
+.plan dd { margin: 0; font-weight: 700; text-align: right; }
+.plan p { margin-top: 16px; font-size: 15px; color: var(--rubber); }
+.plan.main p { color: #C9CED2; }
+.price-note { margin-top: 24px; font-size: 14px; color: var(--rubber); max-width: 76ch; }
+
+.split { display: grid; gap: 40px; }
+@media (min-width: 900px) { .split { grid-template-columns: 1fr 1fr; gap: 64px; } }
+.list { list-style: none; margin: 0; padding: 0; }
+.list li { padding: 14px 0; border-top: 1px solid var(--line); }
+.list li b { display: block; }
+.list li span { color: var(--rubber); }
+
+.photos { display: grid; gap: 12px; grid-template-columns: 1fr 1fr; }
+@media (min-width: 900px) { .photos { grid-template-columns: 2fr 1fr 1fr; grid-template-rows: 220px 220px; } .photos .slot:first-child { grid-row: span 2; } }
+.slot { position: relative; min-height: 160px; border-radius: 12px; overflow: hidden; display: flex; align-items: flex-end; padding: 14px; color: #fff; font-weight: 700; font-size: 15px; }
+.slot::before { content: ""; position: absolute; inset: 0; }
+.slot span { position: relative; z-index: 1; background: rgba(29,34,38,.62); padding: 6px 12px; border-radius: 6px; }
+.slot.a::before { background: linear-gradient(160deg, #6B7480 0, #2C3238 70%), #2C3238; }
+.slot.b::before { background: linear-gradient(200deg, #9AA6C9 0, #3B4A7E 80%); }
+.slot.c::before { background: linear-gradient(140deg, #BFA98A 0, #5C4E3E 85%); }
+.slot.d::before { background: linear-gradient(180deg, #A9B9AE 0, #3E4D44 85%); }
+.slot.e::before { background: linear-gradient(120deg, #C49A92 0, #5E3B37 85%); }
+.slot::after { content: ""; position: absolute; inset: 0; background: repeating-linear-gradient(90deg, rgba(255,255,255,.05) 0 1px, transparent 1px 22px); }
+
+.reviews { background: var(--plate); color: #fff; border-top: 0; }
+.reviews .wrap { display: grid; gap: 26px; }
+@media (min-width: 900px) { .reviews .wrap { grid-template-columns: 1.2fr 0.8fr; align-items: center; gap: 64px; } }
+.reviews p { color: #DCE2FA; margin-top: 14px; max-width: 54ch; }
+.reviews .btn-quiet { color: #fff; box-shadow: inset 0 0 0 2px #fff; }
+
+.hours { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+.hours th, .hours td { text-align: left; padding: 11px 0; border-bottom: 1px solid var(--line); font-weight: 500; vertical-align: top; }
+.hours th { font-weight: 800; width: 34%; }
+.hours td + td { color: var(--rubber); font-size: 15px; }
+.hours tr.is-today th, .hours tr.is-today td { color: var(--plate); font-weight: 800; }
+.address { font-style: normal; font-size: 1.1rem; line-height: 1.7; }
+.visit-links { margin-top: 16px; display: flex; flex-wrap: wrap; gap: 10px; }
+.visit dl { margin: 22px 0 0; display: grid; gap: 14px; }
+.visit dt { font-weight: 800; }
+.visit dd { margin: 2px 0 0; color: var(--rubber); }
+
+.faq details { border-top: 1px solid var(--line); }
+.faq details:last-child { border-bottom: 1px solid var(--line); }
+.faq summary { cursor: pointer; list-style: none; padding: 18px 40px 18px 0; position: relative; font-weight: 800; font-size: 1.06rem; }
+.faq summary::-webkit-details-marker { display: none; }
+.faq summary::after { content: "+"; position: absolute; right: 4px; top: 12px; font-size: 1.6rem; font-weight: 500; color: var(--plate); }
+.faq details[open] summary::after { content: "–"; }
+.faq details p { padding: 0 0 20px; color: var(--rubber); max-width: 66ch; }
+
+footer { background: var(--graphite); color: #C9CED2; padding: 48px 0 120px; font-size: 15px; }
+footer .wrap { display: grid; gap: 24px; }
+@media (min-width: 900px) { footer .wrap { grid-template-columns: 1fr 1fr 1fr; } footer { padding-bottom: 48px; } }
+footer strong { color: #fff; }
+footer a { color: #fff; }
+.cancel { display: inline-block; margin-top: 12px; font: inherit; font-weight: 800; color: var(--graphite); background: var(--chalk); border: 0; border-radius: 8px; padding: 10px 16px; cursor: pointer; }
+
+.actionbar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 45; display: flex; gap: 10px; padding: 10px 14px calc(10px + env(safe-area-inset-bottom)); background: rgba(241,242,238,.97); border-top: 2px solid var(--graphite); }
+.actionbar .btn { flex: 1; padding: 12px 10px; }
+@media (min-width: 900px) { .actionbar { display: none; } }
+
+[data-note] { position: relative; }
+.pin { display: none; position: absolute; top: -12px; right: 0; z-index: 30; width: 30px; height: 30px; border-radius: 50%; border: 2px solid var(--demo); background: var(--pin); color: var(--demo); font: 800 14px/1 var(--font); cursor: pointer; box-shadow: 0 4px 12px rgba(43,34,51,.25); }
+.notes-on .pin { display: grid; place-items: center; }
+.notes-on [data-note] { outline: 2px dashed rgba(226,181,59,.95); outline-offset: 6px; border-radius: 6px; }
+.pop { position: fixed; z-index: 60; max-width: 340px; background: var(--demo); color: var(--demo-text); border-radius: 12px; padding: 16px 18px; font-size: 15px; line-height: 1.5; box-shadow: 0 18px 40px rgba(43,34,51,.35); }
+.pop[hidden] { display: none; }
+.pop b { display: block; margin-bottom: 4px; color: var(--pin); }
+.pop button { margin-top: 10px; font: inherit; font-weight: 700; background: transparent; color: var(--demo-text); border: 0; padding: 0; text-decoration: underline; cursor: pointer; }
+@media (max-width: 700px) {
+  .demo { position: relative; font-size: 13px; }
+  .demo .wrap { padding-top: 8px; padding-bottom: 8px; gap: 8px; }
+  .demo a, .demo button { padding: 5px 12px; }
+  .top { top: 0; }
+  .top .btn-quiet { display: none; }
+  .brand { font-stretch: 100%; font-size: 1.05rem; }
+}
+@media (max-width: 600px) { .pop { left: 12px !important; right: 12px; top: auto !important; bottom: 84px; max-width: none; } }
+
+dialog { border: 0; border-radius: 14px; padding: 28px; max-width: 420px; color: var(--graphite); background: var(--white); box-shadow: 0 24px 60px rgba(29,34,38,.3); }
+dialog::backdrop { background: rgba(29,34,38,.5); }
+dialog h3 { font-size: 1.4rem; }
+dialog p { margin-top: 12px; color: var(--rubber); }
+dialog .btn { margin-top: 20px; }
+</style>
+</head>
+<body>
+
+<div class="demo" id="demo">
+  <div class="wrap">
+    <p><strong>Beispiel-Website von LocalDominate.</strong> Kraftraum Nordufer ist ein erfundenes Studio. Adresse, Preise, Kurse und Personen sind Beispiele.</p>
+    <div class="demo-actions">
+      <button type="button" id="notes-toggle" aria-pressed="false">Erklärungen zeigen</button>
+      <a href="/industries/fitness-studios" class="ghost">Zurück zu LocalDominate</a>
+    </div>
+  </div>
+</div>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#start" aria-label="Kraftraum Nordufer, zum Seitenanfang">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="7" fill="#1D2226"/><rect x="6" y="11" width="4" height="10" rx="1" fill="#F1F2EE"/><rect x="22" y="11" width="4" height="10" rx="1" fill="#F1F2EE"/><rect x="10" y="15" width="12" height="2" fill="#F1F2EE"/></svg>
+      Kraftraum Nordufer
+    </a>
+    <nav class="nav" aria-label="Seitenbereiche">
+      <a href="#probetraining">Probetraining</a>
+      <a href="#kursplan">Kursplan</a>
+      <a href="#preise">Preise</a>
+      <a href="#besuch">Öffnungszeiten</a>
+    </nav>
+    <div style="display:flex;gap:10px" data-note="1">
+      <a class="btn btn-quiet btn-small" href="tel:+490123456780">Anrufen</a>
+      <button class="btn btn-primary btn-small" type="button" data-trial>Probetraining</button>
+    </div>
+  </div>
+</header>
+
+<main id="start">
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="wrap">
+      <div>
+        <p class="place">Uferstraße 18 · Beispielstadt-Nordufer</p>
+        <h1 id="hero-title" data-note="2">Fitnessstudio am Nordufer: Geräte, Kurse und Betreuung</h1>
+        <p class="lead">Rund 600 Quadratmeter Trainingsfläche, ein Kursraum und Trainerinnen, die werktags und samstags auf der Fläche sind. Das erste Training machen Sie mit uns zusammen, kostenlos.</p>
+        <div class="hero-cta">
+          <button class="btn btn-primary" type="button" data-trial>Kostenloses Probetraining buchen</button>
+          <a class="btn btn-quiet" href="#preise">Preise ansehen</a>
+        </div>
+        <ul class="facts" data-note="3">
+          <li><span>Mitgliedschaft</span><b>ab 39 € im Monat</b></li>
+          <li><span>Monatlich kündbar</span><b>Tarif Flex</b></li>
+          <li><span>Betreute Trainingszeiten</span><b>Mo–Fr 7–21 Uhr</b></li>
+        </ul>
+      </div>
+
+      <aside class="today" aria-labelledby="today-title" data-note="4">
+        <div class="today-head"><h2 id="today-title">Heute im Kursraum</h2><span id="today-date"></span></div>
+        <ol id="today-list"></ol>
+        <a class="all" href="#kursplan">Ganzen Wochenplan ansehen</a>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section" id="probetraining" aria-labelledby="probe-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="probe-title">So läuft das Probetraining</h2>
+        <p>Etwa 75 Minuten, kostenlos und ohne Vertrag. Bringen Sie Sportschuhe für drinnen und ein Handtuch mit; Getränke und Schloss für den Spind haben wir.</p>
+      </div>
+      <ol class="steps" data-note="5">
+        <li><h3>Termin wählen</h3><p>Online oder am Telefon. Morgens und am frühen Nachmittag ist es am ruhigsten.</p></li>
+        <li><h3>Kurzes Gespräch</h3><p>Was Sie erreichen wollen, was Sie schon machen, worauf wir achten sollen, etwa Rücken oder Knie.</p></li>
+        <li><h3>Training mit Trainerin</h3><p>Sie probieren die Geräte, die zu Ihrem Ziel passen, und bekommen einen ersten Plan mit nach Hause.</p></li>
+      </ol>
+      <div class="trial-cta">
+        <button class="btn btn-primary" type="button" data-trial>Probetraining buchen</button>
+        <p>Lieber erst fragen? <a href="tel:+490123456780">0123 456780</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="kursplan" aria-labelledby="kurs-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="kurs-title">Kursplan</h2>
+        <p>Alle Kurse sind im Beitrag enthalten, außer Reha-Sport (mit Verordnung). Plätze reservieren Sie in der App oder am Empfang.</p>
+      </div>
+      <div data-note="6">
+        <div class="tabs" role="tablist" aria-label="Wochentag wählen" id="tabs"></div>
+        <div class="grid" id="grid"></div>
+        <div class="legend">
+          <span class="k-kraft"><i></i>Kraft</span><span class="k-ruecken"><i></i>Rücken</span><span class="k-cycle"><i></i>Cycling</span><span class="k-yoga"><i></i>Yoga</span><span class="k-reha"><i></i>Reha-Sport</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="preise" aria-labelledby="preise-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="preise-title">Preise und Laufzeiten</h2>
+        <p>Alle Tarife mit Geräten, Kursen, Sauna und Getränken. Was Sie zahlen, wie lange Sie gebunden sind und wie Sie kündigen, steht hier vollständig.</p>
+      </div>
+      <div class="plans" data-note="7">
+        <article class="plan">
+          <h3>Flex</h3>
+          <p class="amount">49 € <small>im Monat</small></p>
+          <dl>
+            <div><dt>Laufzeit</dt><dd>1 Monat</dd></div>
+            <div><dt>Kündigungsfrist</dt><dd>1 Monat</dd></div>
+            <div><dt>Aufnahmegebühr</dt><dd>29 €</dd></div>
+          </dl>
+          <p>Für alle, die sich nicht binden möchten.</p>
+        </article>
+        <article class="plan main">
+          <h3>Jahr</h3>
+          <p class="amount">39 € <small>im Monat</small></p>
+          <dl>
+            <div><dt>Laufzeit</dt><dd>12 Monate</dd></div>
+            <div><dt>Danach</dt><dd>monatlich kündbar</dd></div>
+            <div><dt>Aufnahmegebühr</dt><dd>keine</dd></div>
+          </dl>
+          <p>Der günstigste Monatspreis, wenn Sie wissen, dass Sie bleiben.</p>
+        </article>
+        <article class="plan">
+          <h3>Ermäßigt</h3>
+          <p class="amount">29 € <small>im Monat</small></p>
+          <dl>
+            <div><dt>Für</dt><dd>Schüler, Studierende, Azubis</dd></div>
+            <div><dt>Laufzeit</dt><dd>1 Monat</dd></div>
+            <div><dt>Aufnahmegebühr</dt><dd>keine</dd></div>
+          </dl>
+          <p>Mit gültigem Nachweis, einmal im Jahr vorzeigen.</p>
+        </article>
+      </div>
+      <p class="price-note">Pausieren bei Krankheit oder Schwangerschaft ist mit Nachweis möglich. Verträge, die Sie online abschließen, kündigen Sie online über „Verträge hier kündigen“ unten auf jeder Seite.</p>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="pt-title">
+    <div class="wrap split">
+      <div>
+        <h2 id="pt-title">Personal Training</h2>
+        <p style="margin-top:16px;color:var(--rubber);max-width:48ch">Einzeltraining mit festem Termin, im Studio oder draußen am Ufer. Für Einstieg nach einer Pause, Rückentraining, Training in der Schwangerschaft und danach oder Vorbereitung auf einen Lauf.</p>
+        <div style="margin-top:22px;display:flex;gap:12px;flex-wrap:wrap"><button class="btn btn-quiet" type="button" data-trial>Kennenlernen vereinbaren</button></div>
+      </div>
+      <ul class="list" data-note="8">
+        <li><b>Einzelstunde, 60 Minuten</b><span>69 €</span></li>
+        <li><b>Zehnerkarte</b><span>620 €, ein Jahr gültig</span></li>
+        <li><b>Zu zweit, 60 Minuten</b><span>89 € für beide</span></li>
+        <li><b>Mia, Trainerin (B-Lizenz)</b><span>Schwerpunkt Rücken und Wiedereinstieg</span></li>
+        <li><b>Jonas, Trainer (Sportwissenschaft B.A.)</b><span>Schwerpunkt Kraft und Laufvorbereitung</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="studio-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="studio-title">So sieht es bei uns aus</h2>
+        <p>Gerätefläche mit Tageslicht, freier Hantelbereich, ein Kursraum mit Schwingboden, getrennte Umkleiden und Sauna. Barrierearm über den Seiteneingang.</p>
+      </div>
+      <div class="photos" data-note="9">
+        <div class="slot a"><span>Ihr Foto: Trainingsfläche zu einer normalen Zeit</span></div>
+        <div class="slot b"><span>Ihr Foto: Kursraum</span></div>
+        <div class="slot c"><span>Ihr Foto: Empfang</span></div>
+        <div class="slot d"><span>Ihr Foto: Umkleide</span></div>
+        <div class="slot e"><span>Ihr Foto: Team</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section reviews" aria-labelledby="rev-title">
+    <div class="wrap" data-note="10">
+      <div>
+        <h2 id="rev-title">Was Mitglieder über uns schreiben</h2>
+        <p>Keine ausgesuchten Zitate und keine Vorher-Nachher-Versprechen. Alle Bewertungen lesen Sie ungefiltert im Google-Profil. Wir antworten auf jede, auch auf „abends zu voll“.</p>
+      </div>
+      <div><a class="btn btn-quiet" href="#" data-demo-link>Bewertungen bei Google lesen</a></div>
+    </div>
+  </section>
+
+  <section class="section visit" id="besuch" aria-labelledby="besuch-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="besuch-title">Öffnungszeiten und Anfahrt</h2>
+        <p>Am vollsten ist es werktags zwischen 17 und 19 Uhr. Ruhiger trainieren Sie vormittags und ab 20 Uhr.</p>
+      </div>
+      <div class="split">
+        <div data-note="11">
+          <table class="hours" aria-label="Öffnungszeiten">
+            <thead><tr><th scope="col">Tag</th><th scope="col">Geöffnet</th><th scope="col">Betreut</th></tr></thead>
+            <tbody id="hours-body"></tbody>
+          </table>
+        </div>
+        <div>
+          <address class="address" data-note="12"><strong>Kraftraum Nordufer</strong><br>Uferstraße 18<br>12345 Beispielstadt<br><a href="tel:+490123456780">0123 456780</a></address>
+          <div class="visit-links">
+            <a class="btn btn-quiet btn-small" href="#" data-demo-link>Route planen</a>
+            <a class="btn btn-quiet btn-small" href="tel:+490123456780">Anrufen</a>
+          </div>
+          <dl>
+            <div><dt>Mit Bus und Bahn</dt><dd>Haltestelle Uferstraße, eine Minute zu Fuß.</dd></div>
+            <div><dt>Mit dem Auto und Rad</dt><dd>25 Parkplätze im Hof, überdachte Fahrradständer am Eingang.</dd></div>
+          </dl>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section faq" aria-labelledby="faq-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="faq-title">Häufige Fragen</h2>
+        <p>Was beim Probetraining am häufigsten gefragt wird.</p>
+      </div>
+      <div data-note="13">
+        <details><summary>Ich habe lange keinen Sport gemacht. Ist das Studio das Richtige?</summary><p>Ja. Die meisten fangen bei uns nach einer Pause an. Im Probetraining stellen wir das Training auf Ihren Stand ein, und in den ersten Wochen schauen wir öfter vorbei.</p></details>
+        <details><summary>Kann ich die Mitgliedschaft pausieren?</summary><p>Bei Krankheit, Verletzung oder Schwangerschaft mit Nachweis. Die Laufzeit verlängert sich um die Pause.</p></details>
+        <details><summary>Wie kündige ich?</summary><p>Online über „Verträge hier kündigen“ unten auf jeder Seite, per E-Mail oder am Empfang. Sie bekommen eine Bestätigung mit dem Enddatum.</p></details>
+        <details><summary>Übernimmt die Krankenkasse etwas?</summary><p>Reha-Sport mit ärztlicher Verordnung rechnen wir direkt ab. Für Präventionskurse erstatten manche Kassen einen Teil; fragen Sie dort nach.</p></details>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div><strong>Kraftraum Nordufer</strong><br>Uferstraße 18, 12345 Beispielstadt<br>0123 456780</div>
+    <div><a href="#" data-demo-link>Impressum</a> · <a href="#" data-demo-link>Datenschutz</a> · <a href="#" data-demo-link>AGB</a><br><button class="cancel" type="button" data-note="14" data-cancel>Verträge hier kündigen</button></div>
+    <div>Beispiel-Website, gestaltet von <a href="/industries/fitness-studios">LocalDominate</a>. Das Studio ist erfunden.</div>
+  </div>
+</footer>
+
+<div class="actionbar" aria-label="Schnellzugriff">
+  <a class="btn btn-quiet" href="tel:+490123456780">Anrufen</a>
+  <button class="btn btn-primary" type="button" data-trial>Probetraining</button>
+</div>
+
+<div class="pop" id="pop" role="dialog" aria-modal="false" aria-labelledby="pop-title" hidden>
+  <b id="pop-title"></b>
+  <span id="pop-text"></span><br>
+  <button type="button" id="pop-close">Schließen</button>
+</div>
+
+<dialog id="demo-dialog" aria-labelledby="dlg-title">
+  <h3 id="dlg-title"></h3>
+  <p id="dlg-text"></p>
+  <form method="dialog"><button class="btn btn-primary" type="submit">Verstanden</button></form>
+</dialog>
+
+<script>
+(function () {
+  var NOTES = {
+    1: ["Probetraining immer sichtbar", "Der wichtigste Schritt steht oben fest und auf dem Handy unten in einer Leiste. Wer ein Studio sucht, will meist zuerst ausprobieren."],
+    2: ["Studiotyp und Ort in der Überschrift", "Die Überschrift sagt, was das Studio ist und wo. Seitentitel und Überschrift bekommen Studiotyp und Ort, ohne Schlagwörter aneinanderzureihen."],
+    3: ["Die drei Fragen vor jedem Vertrag", "Was kostet es, wie lange bin ich gebunden, ist jemand da, der hilft. Die Antworten stehen gleich oben."],
+    4: ["Der heutige Kursplan, live", "Die Seite zeigt die Kurse des heutigen Tages und markiert den nächsten. Alles ist Text, kein Foto vom Aushang."],
+    5: ["Ablauf statt Werbesatz", "Wer weiß, was beim Probetraining passiert und was mitzubringen ist, bucht eher. Die Schritte sind wirklich eine Reihenfolge."],
+    6: ["Kursplan als Text", "Auf dem Handy nach Tagen, am Computer als Woche. Als Text lässt er sich vergrößern, vorlesen und von Suchmaschinen lesen. Ein PDF oder Foto kann das nicht."],
+    7: ["Preise mit Laufzeit und Frist", "Monatspreis, Laufzeit, Kündigungsfrist und Aufnahmegebühr stehen vollständig da. Das erspart die Frage am Empfang und schafft Vertrauen."],
+    8: ["Trainer mit Qualifikation", "Name, Qualifikation und Schwerpunkt. Konkrete Schwerpunkte treffen genauere Suchen, etwa Rückentraining."],
+    9: ["Platz für Ihre echten Fotos", "Ihre Fläche zu einer normalen Uhrzeit, Kursraum, Umkleide, Team. Mitglieder nur mit Einwilligung im Bild, keine fremden Stockfotos."],
+    10: ["Bewertungen ehrlich verlinkt", "Keine ausgesuchten Zitate, keine Vorher-Nachher-Versprechen. Der Link führt zu allen Bewertungen im Google-Profil."],
+    11: ["Öffnungszeiten und betreute Zeiten", "Beides als Tabelle, so wie im Google-Profil unter „weitere Öffnungszeiten“. Der heutige Tag ist hervorgehoben."],
+    12: ["Name, Adresse, Telefon wie im Profil", "Genau so geschrieben wie im Google-Profil und im Impressum. Auf der echten Seite zusätzlich als strukturierte Daten (HealthClub) im Code."],
+    13: ["Fragen aus dem Probetraining", "Was Interessenten am häufigsten fragen, steht als Antwort auf der Seite. Das hilft auch Suchmaschinen und KI-Assistenten."],
+    14: ["Kündigungsbutton", "Wer in Deutschland Verträge online verkauft, braucht nach § 312k BGB eine gut lesbare Kündigungsschaltfläche. Die Umsetzung lassen Sie im Zweifel rechtlich prüfen."]
+  };
+
+  var DAYS = ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"];
+  var SHORT = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
+  // Kursplan: [start, end, name, trainer, kind]
+  var PLAN = {
+    1: [["07:00", "07:45", "Kraft am Morgen", "Jonas", "kraft"], ["12:15", "12:45", "Rücken kompakt", "Mia", "ruecken"], ["18:00", "18:45", "Cycling", "Ali", "cycle"], ["19:15", "20:15", "Yoga", "Hanna", "yoga"]],
+    2: [["09:30", "10:30", "Reha-Sport Orthopädie", "Mia", "reha"], ["17:30", "18:15", "Kraft Zirkel", "Jonas", "kraft"], ["18:30", "19:15", "Rücken", "Mia", "ruecken"]],
+    3: [["07:00", "07:45", "Kraft am Morgen", "Jonas", "kraft"], ["12:15", "12:45", "Rücken kompakt", "Mia", "ruecken"], ["18:00", "18:45", "Cycling", "Ali", "cycle"], ["19:15", "20:15", "Yoga", "Hanna", "yoga"]],
+    4: [["09:30", "10:30", "Reha-Sport Orthopädie", "Mia", "reha"], ["17:30", "18:15", "Kraft Zirkel", "Jonas", "kraft"], ["19:00", "20:00", "Yoga sanft", "Hanna", "yoga"]],
+    5: [["07:00", "07:45", "Kraft am Morgen", "Jonas", "kraft"], ["17:00", "17:45", "Cycling", "Ali", "cycle"]],
+    6: [["10:00", "10:45", "Cycling", "Ali", "cycle"], ["11:00", "12:00", "Yoga", "Hanna", "yoga"]],
+    0: []
+  };
+  var HOURS = { 1: ["6–23 Uhr", "7–21 Uhr"], 2: ["6–23 Uhr", "7–21 Uhr"], 3: ["6–23 Uhr", "7–21 Uhr"], 4: ["6–23 Uhr", "7–21 Uhr"], 5: ["6–22 Uhr", "7–21 Uhr"], 6: ["8–20 Uhr", "9–15 Uhr"], 0: ["8–20 Uhr", "nicht betreut"] };
+  var ORDER = [1, 2, 3, 4, 5, 6, 0];
+  var now = new Date(), today = now.getDay();
+  var mins = now.getHours() * 60 + now.getMinutes();
+  function toMin(s) { var p = s.split(":"); return +p[0] * 60 + +p[1]; }
+
+  // Today panel: today's classes; when none are left, the next day with classes
+  var list = document.getElementById("today-list");
+  var title = document.getElementById("today-title");
+  var dateEl = document.getElementById("today-date");
+  var upcoming = PLAN[today].filter(function (c) { return toMin(c[1]) > mins; });
+  var showDay = today, items = PLAN[today];
+  if (!upcoming.length) {
+    for (var i = 1; i <= 7; i++) { var d = (today + i) % 7; if (PLAN[d].length) { showDay = d; break; } }
+    items = PLAN[showDay];
+    title.textContent = "Nächste Kurse";
+    dateEl.textContent = (showDay === (today + 1) % 7 ? "morgen, " : "") + DAYS[showDay];
+    var note = document.createElement("li");
+    note.className = "empty"; note.style.display = "block";
+    note.textContent = PLAN[today].length ? "Heute laufen keine Kurse mehr." : "Sonntags keine Kurse, die Fläche ist von " + HOURS[today][0].replace("–", " bis ") + " offen.";
+    list.appendChild(note);
+  } else {
+    dateEl.textContent = "heute, " + DAYS[today];
+  }
+  var nextMarked = false;
+  items.forEach(function (c) {
+    var li = document.createElement("li");
+    var flag = "";
+    if (showDay === today && toMin(c[1]) <= mins) { li.className = "past"; flag = "vorbei"; }
+    else if (showDay === today && toMin(c[0]) <= mins) { li.className = "next"; flag = "läuft"; nextMarked = true; }
+    else if (!nextMarked) { li.className = "next"; flag = "als Nächstes"; nextMarked = true; }
+    li.innerHTML = "<span class=\"t\">" + c[0] + "</span><span><span class=\"n\">" + c[2] + "</span><span class=\"w\">mit " + c[3] + ", bis " + c[1] + "</span></span>" + (flag ? "<span class=\"flag\">" + flag + "</span>" : "<span></span>");
+    list.appendChild(li);
+  });
+
+  // Weekly plan: tabs on phones, a week grid from 980px
+  var tabs = document.getElementById("tabs"), grid = document.getElementById("grid");
+  var weekdays = [1, 2, 3, 4, 5, 6];
+  var shown = PLAN[today] && today !== 0 ? today : 1;
+  weekdays.forEach(function (d) {
+    var b = document.createElement("button");
+    b.type = "button"; b.setAttribute("role", "tab"); b.id = "tab-" + d;
+    b.setAttribute("aria-controls", "day-" + d);
+    b.textContent = SHORT[d] + (d === today ? " · heute" : "");
+    b.addEventListener("click", function () { select(d); });
+    tabs.appendChild(b);
+    var col = document.createElement("div");
+    col.className = "day" + (d === today ? " is-today" : ""); col.id = "day-" + d;
+    col.setAttribute("role", "tabpanel"); col.setAttribute("aria-labelledby", "tab-" + d);
+    col.innerHTML = "<h3>" + DAYS[d] + (d === today ? " (heute)" : "") + "</h3><ul>" + PLAN[d].map(function (c) {
+      return "<li class=\"class k-" + c[4] + "\"><b>" + c[0] + "–" + c[1] + "</b>" + c[2] + "<br><span>mit " + c[3] + "</span></li>";
+    }).join("") + "</ul>";
+    grid.appendChild(col);
+  });
+  function select(d) {
+    weekdays.forEach(function (x) {
+      document.getElementById("tab-" + x).setAttribute("aria-selected", x === d ? "true" : "false");
+      document.getElementById("day-" + x).hidden = x !== d;
+    });
+  }
+  select(shown);
+
+  // Opening hours table
+  var body = document.getElementById("hours-body");
+  ORDER.forEach(function (d) {
+    var tr = document.createElement("tr");
+    if (d === today) tr.className = "is-today";
+    tr.innerHTML = "<th scope=\"row\">" + DAYS[d] + (d === today ? " (heute)" : "") + "</th><td>" + HOURS[d][0] + "</td><td>" + HOURS[d][1] + "</td>";
+    body.appendChild(tr);
+  });
+
+  var demo = document.getElementById("demo");
+  function setDemoH() { document.documentElement.style.setProperty("--demo-h", demo.offsetHeight + "px"); }
+  setDemoH(); window.addEventListener("resize", setDemoH);
+
+  var dlg = document.getElementById("demo-dialog");
+  function showDialog(title, text) {
+    document.getElementById("dlg-title").textContent = title;
+    document.getElementById("dlg-text").textContent = text;
+    if (dlg.showModal) dlg.showModal(); else alert(text);
+  }
+  document.querySelectorAll("[data-trial]").forEach(function (b) {
+    b.addEventListener("click", function () { showDialog("Hier geht es zum Probetraining", "Auf der echten Website öffnet dieser Knopf ein kurzes Formular oder Ihre Terminbuchung für das Probetraining. In diesem Beispiel passiert nichts."); });
+  });
+  document.querySelectorAll("[data-cancel]").forEach(function (b) {
+    b.addEventListener("click", function () { showDialog("Kündigungsseite", "Auf der echten Website führt dieser Knopf zu einer Bestätigungsseite für die Kündigung, wie es § 312k BGB für online geschlossene Verträge verlangt. In diesem Beispiel passiert nichts."); });
+  });
+  document.querySelectorAll("[data-demo-link]").forEach(function (a) {
+    a.addEventListener("click", function (e) { e.preventDefault(); showDialog("Ein Link nach draußen", "Auf der echten Website führt dieser Link zu Ihrem Google-Profil, zur Routenplanung oder zu Ihren Rechtstexten. Im Beispiel gibt es kein echtes Ziel."); });
+  });
+
+  var pop = document.getElementById("pop"), lastPin = null;
+  document.querySelectorAll("[data-note]").forEach(function (el) {
+    var n = el.getAttribute("data-note");
+    var pin = document.createElement("button");
+    pin.type = "button"; pin.className = "pin"; pin.textContent = n;
+    pin.setAttribute("aria-label", "Erklärung " + n + ": " + NOTES[n][0]);
+    pin.addEventListener("click", function (e) {
+      e.stopPropagation(); lastPin = pin;
+      document.getElementById("pop-title").textContent = NOTES[n][0];
+      document.getElementById("pop-text").textContent = NOTES[n][1];
+      pop.hidden = false;
+      var r = pin.getBoundingClientRect();
+      var left = Math.min(window.innerWidth - pop.offsetWidth - 12, Math.max(12, r.left - pop.offsetWidth + r.width));
+      var top = r.bottom + 10;
+      if (top + pop.offsetHeight > window.innerHeight - 12) top = Math.max(12, r.top - pop.offsetHeight - 10);
+      pop.style.left = left + "px"; pop.style.top = top + "px";
+      document.getElementById("pop-close").focus();
+    });
+    if (el.tagName === "BUTTON") { el.style.position = "relative"; el.parentNode.style.position = "relative"; el.insertAdjacentElement("afterend", pin); pin.style.top = "auto"; pin.style.right = "auto"; pin.style.marginLeft = "10px"; pin.style.position = "relative"; pin.style.verticalAlign = "middle"; }
+    else el.appendChild(pin);
+  });
+  function closePop() { pop.hidden = true; if (lastPin) lastPin.focus(); }
+  document.getElementById("pop-close").addEventListener("click", closePop);
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape" && !pop.hidden) closePop(); });
+  document.addEventListener("click", function (e) { if (!pop.hidden && !pop.contains(e.target)) pop.hidden = true; });
+  window.addEventListener("scroll", function () { if (!pop.hidden) pop.hidden = true; }, { passive: true });
+
+  var toggle = document.getElementById("notes-toggle");
+  function setNotes(on) {
+    document.body.classList.toggle("notes-on", on);
+    toggle.setAttribute("aria-pressed", on ? "true" : "false");
+    toggle.textContent = on ? "Erklärungen ausblenden" : "Erklärungen zeigen";
+    if (!on) pop.hidden = true;
+  }
+  toggle.addEventListener("click", function () { setNotes(!document.body.classList.contains("notes-on")); });
+  if (/[?&]notes=1/.test(location.search)) setNotes(true);
+})();
+</script>
+</body>
+</html>

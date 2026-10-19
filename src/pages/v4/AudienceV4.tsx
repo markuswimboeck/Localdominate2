@@ -215,7 +215,7 @@ export default function AudienceV4() {
           <h2 id="audience-offers" className="mt-5 max-w-2xl font-v4-serif text-[length:var(--v4-text-heading)] font-normal leading-[1.08] text-v4-ink">
             Fixed scope, fixed price, in writing before work starts.
           </h2>
-          <ul className="mt-12 grid gap-6 md:grid-cols-2">
+          <ul className={`mt-12 grid gap-6 md:grid-cols-2 ${offers.length === 3 ? "lg:grid-cols-3" : ""}`}>
             {offers.map(({ offer, why }) => (
               <li key={offer.id} className="flex flex-col rounded-2xl border border-v4-ink/10 bg-v4-white p-7">
                 <p className="font-v4-sans text-xl font-semibold tracking-tight text-v4-ink">{offer.name}</p>
@@ -243,6 +243,65 @@ export default function AudienceV4() {
           )}
         </div>
       </StateField>
+
+      {a.example && (
+        <StateField field="light" as="section" className="border-t border-v4-ink/10" aria-labelledby="audience-example">
+          <div className="mx-auto grid max-w-[1300px] gap-12 px-6 py-16 md:px-10 md:py-24 lg:grid-cols-[0.9fr_1.1fr] lg:items-center lg:gap-20">
+            <div>
+              <SystemLabel as="p" className="text-v4-ink/60">
+                {a.example.kind}
+              </SystemLabel>
+              <h2 id="audience-example" className="mt-5 font-v4-serif text-[length:var(--v4-text-heading)] font-normal leading-[1.08] text-v4-ink">
+                {`See an example: ${a.example.name}`}
+              </h2>
+              <p className="mt-6 max-w-xl font-v4-sans text-[length:var(--v4-text-body)] leading-relaxed text-v4-ink/75">{a.example.note}</p>
+              <ul className="mt-8 flex flex-col">
+                {a.example.points.map((pt) => (
+                  <li key={pt} className="flex gap-3 border-t border-v4-ink/10 py-3 font-v4-sans text-base leading-relaxed text-v4-ink/85">
+                    <span aria-hidden="true" className="mt-[0.6rem] h-1.5 w-1.5 shrink-0 rounded-full bg-v4-signal ring-1 ring-v4-ink/20" />
+                    <span>{pt}</span>
+                  </li>
+                ))}
+              </ul>
+              <a
+                href={a.example.url}
+                target="_blank"
+                rel="noopener"
+                lang="de"
+                className="mt-8 inline-flex items-center rounded-full bg-v4-ink px-7 py-3.5 font-v4-sans text-base font-semibold text-v4-ivory hover:bg-v4-ink/85 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-v4-ink"
+              >
+                Open the example site (German, new tab)
+              </a>
+            </div>
+            <a
+              href={a.example.url}
+              target="_blank"
+              rel="noopener"
+              aria-label={`Open the example site ${a.example.name} in a new tab`}
+              className="group relative block pb-10 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-v4-ink"
+            >
+              <img
+                src={a.example.desktop.src}
+                width={a.example.desktop.width}
+                height={a.example.desktop.height}
+                alt={`Desktop view of the example website ${a.example.name}`}
+                loading="lazy"
+                decoding="async"
+                className="h-auto w-full rounded-xl border border-v4-ink/15 shadow-[0_24px_60px_-28px_rgba(0,0,0,0.45)] transition-transform group-hover:-translate-y-1"
+              />
+              <img
+                src={a.example.phone.src}
+                width={a.example.phone.width}
+                height={a.example.phone.height}
+                alt={`Phone view of the example website ${a.example.name}`}
+                loading="lazy"
+                decoding="async"
+                className="absolute bottom-0 right-4 h-auto w-[26%] rounded-[18px] border-4 border-v4-ink shadow-[0_24px_50px_-20px_rgba(0,0,0,0.55)]"
+              />
+            </a>
+          </div>
+        </StateField>
+      )}
 
       <StateField field="light" as="section" className="border-t border-v4-ink/10" aria-labelledby="audience-faq">
         <div className="mx-auto max-w-[1300px] px-6 py-16 md:px-10 md:py-24">

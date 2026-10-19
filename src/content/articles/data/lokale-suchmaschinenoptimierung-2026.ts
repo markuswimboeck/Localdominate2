@@ -3,7 +3,7 @@ import type { V4Article } from "../types";
 const article: V4Article = {
   slug: "lokale-suchmaschinenoptimierung-2026",
   lang: "de",
-  seoTitle: "Lokale Suchmaschinenoptimierung 2026: Was sich ändert",
+  seoTitle: "Local SEO 2026: Was sich ändert und was Betriebe tun",
   seoDescription:
     "Lokale Suchmaschinenoptimierung 2026: KI-Übersichten, KI-Modus, ChatGPT, Apple Business und strengere Bewertungsregeln. Was neu ist und was Betriebe jetzt tun.",
   h1: "Lokale Suchmaschinenoptimierung 2026: Was sich geändert hat und was Sie jetzt tun sollten",

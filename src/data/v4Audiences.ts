@@ -56,6 +56,19 @@ export type Audience = {
   calculator?: boolean;
   /** A real, published project that fits (id from v4Cases.ts), with what it shows here. */
   caseRef?: { id: string; note: string };
+  /**
+   * An example website we built for this kind of business (static page in public/, noindex, with a
+   * permanent demo bar). The business on it is fictional and the page says so; never present it as a client.
+   */
+  example?: {
+    url: string;
+    name: string;
+    kind: string;
+    note: string;
+    points: readonly string[];
+    desktop: { src: string; width: number; height: number };
+    phone: { src: string; width: number; height: number };
+  };
   /** German V4 articles for this audience. */
   articles: readonly { slug: string; title: string }[];
   faq: readonly Faq[];

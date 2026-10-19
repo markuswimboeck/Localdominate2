@@ -15,6 +15,10 @@ Duplicates are not skipped: they get a distinct angle (owner decision 3 Oct 2026
    Leave the old component file in place.
 3. `npm run blog:md` writes `public/blog-md/<slug>.md` and copies title, meta, reading time and
    update date into the German block of the registry entry.
+   `npm run geo:files` then updates the machine-readable files for AI crawlers from the same data
+   (`faq-database.json`, article summaries in `llms-full.txt`, `ai-answer-index.json`,
+   `ai-citation-manifest.json`, `blog-md/index.md`, and the missing entries in `sitemap-ai.xml` and
+   `sitemap-blog.xml`). `npm run geo:files -- --check` fails if they are out of date.
 4. Check: `node scripts/check-article-links.mjs`, `npx tsc --noEmit -p tsconfig.app.json`,
    `npm run build:static -- --only=/blog/<slug>,…`,
    then load each page with browser locale de-DE and en-US through a server that maps `/path` to
@@ -36,3 +40,17 @@ Duplicates are not skipped: they get a distinct angle (owner decision 3 Oct 2026
   `src/App.tsx`), plus `/de#check`, `/services`, `/insights`. A registry entry alone is not enough:
   about thirty entries in `src/data/blogArticles.ts` have no page. `node scripts/check-article-links.mjs`
   checks links, `#anchors` and `related` entries of all V4 articles; run it before every PR.
+
+## Topic hubs
+
+The twelve `/blog/*-hub` pages are V4 articles with `hub: true` (see `src/content/articles/types.ts`).
+A hub groups existing articles in sections; every `[text](/blog/<slug>)` in its sections becomes an
+`ItemList` entry in the page's JSON-LD (`WebPage` + `CollectionPage`). Hub text only repeats
+statements that are already checked in the linked V4 articles. Legacy pages with unsourced figures
+(e.g. factor percentages) are not linked until they are migrated. Hubs still link a few legacy-layout
+articles without such figures (local-seo-fahrschule, local-seo-sprachschule, local-seo-hochzeitsdienstleister,
+whatsapp-business-local-seo-2026) and the FAQ sub-pages; those are not fact-checked yet.
+
+After adding an article to a hub or changing a hub, run `node scripts/hub-index.mjs`. It rewrites
+`src/content/articles/hubIndex.ts`, which gives every listed article an "Übersicht" link to its
+hub in the article header (most specific hub first, see `PRIORITY` in the script).

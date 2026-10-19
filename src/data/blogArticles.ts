@@ -107,6 +107,28 @@ export const blogArticles: BlogArticle[] = [
     icon: "🛎️",
     keywords: ["ki hotel", "ki rezeption", "ki hotellerie", "hotel automatisierung", "ki gästeanfragen"]
   },
+  {
+    slug: "local-seo-kosmetikstudio",
+    de: {
+      title: "SEO für Kosmetikstudios: So finden Kunden Ihre Behandlungen bei Google",
+      metaTitle: "SEO für Kosmetikstudios: Behandlungen bei Google zeigen",
+      metaDescription: "Kosmetik-, Wimpern- und Nagelstudios bei Google: eine Seite je Behandlung, Profil und Kategorien, Werbeaussagen nach HWG und NiSV, Fotos mit Einwilligung.",
+      excerpt: "Kosmetik-, Wimpern- und Nagelstudios bei Google: eine Seite je Behandlung, Profil und Kategorien, Werbeaussagen nach HWG und NiSV, Fotos mit Einwilligung.",
+      category: "Beauty & Wellness"
+    },
+    en: {
+      title: "Local SEO for Beauty Studios: Show Your Treatments on Google",
+      metaTitle: "Local SEO for Beauty Studios: Treatments on Google",
+      metaDescription: "Beauty, lash and nail studios on Google: one page per treatment, profile and categories, claims under German advertising and radiation rules, photos with consent.",
+      excerpt: "Beauty, lash and nail studios on Google: one page per treatment, profile and categories, claims under German advertising and radiation rules.",
+      category: "Beauty & Wellness"
+    },
+    readingTime: 9,
+    publishedAt: "2026-10-18",
+    updatedAt: "2026-10-18",
+    icon: "💅",
+    keywords: ["seo kosmetikstudio", "kosmetikstudio google", "wimpernverlängerung seo", "nagelstudio seo", "kosmetikerin marketing", "kosmetikstudio werbung hwg"]
+  },
   // === PILLAR PAGE: ULTIMATE GUIDE LOCAL SEO ===
   {
     slug: "ultimate-guide-local-seo",
@@ -272,7 +294,7 @@ export const blogArticles: BlogArticle[] = [
     slug: "lokale-suchmaschinenoptimierung-2026",
     de: {
       title: "Lokale Suchmaschinenoptimierung 2026: Was sich geändert hat und was Sie jetzt tun sollten",
-      metaTitle: "Lokale Suchmaschinenoptimierung 2026: Was sich ändert",
+      metaTitle: "Local SEO 2026: Was sich ändert und was Betriebe tun",
       metaDescription: "Lokale Suchmaschinenoptimierung 2026: KI-Übersichten, KI-Modus, ChatGPT, Apple Business und strengere Bewertungsregeln. Was neu ist und was Betriebe jetzt tun.",
       excerpt: "Lokale Suchmaschinenoptimierung 2026: KI-Übersichten, KI-Modus, ChatGPT, Apple Business und strengere Bewertungsregeln. Was neu ist und was Betriebe jetzt tun.",
       category: "Trends",
@@ -589,7 +611,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-02-04",
-    updatedAt: "2026-10-12",
+    updatedAt: "2026-10-18",
     icon: "💪",
     keywords: ["fitnessstudio seo", "personal trainer marketing", "local seo fitness", "mitgliedergewinnung"],
     featured: false
@@ -1134,7 +1156,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-01-08",
-    updatedAt: "2026-10-12",
+    updatedAt: "2026-10-18",
     icon: "💇",
     keywords: ["friseur seo", "beauty marketing", "friseursalon google", "kosmetikstudio marketing", "friseur mehr kunden", "buchungssystem friseur"],
     featured: true
@@ -2530,7 +2552,7 @@ export const blogArticles: BlogArticle[] = [
     slug: "ki-tools-local-seo",
     de: {
       title: "KI-Tools für Local SEO: Wofür sie taugen, was Google erlaubt und was Datenschutz verlangt",
-      metaTitle: "KI-Tools für Local SEO: sicher nutzen im kleinen Betrieb",
+      metaTitle: "KI-Tools für Local SEO: ChatGPT, Claude, Gemini nutzen",
       metaDescription: "Wie Sie ChatGPT, Claude, Gemini und Copilot für Bewertungsantworten, Profiltexte und Inhalte nutzen: Googles Regeln, Datenschutz und KI-Kompetenzpflicht.",
       excerpt: "Wie Sie ChatGPT, Claude, Gemini und Copilot für Bewertungsantworten, Profiltexte und Inhalte nutzen: Googles Regeln, Datenschutz und KI-Kompetenzpflicht.",
       category: "Tools"
@@ -3416,90 +3438,222 @@ export const blogArticles: BlogArticle[] = [
   },
   // === TOPIC HUB PAGES ===
   {
+    slug: "case-studies-hub",
+    de: {
+      title: "Local-SEO-Fallstudien: Ergebnisse prüfen und selbst dokumentieren",
+      metaTitle: "Local-SEO-Fallstudien prüfen und selbst dokumentieren",
+      metaDescription: "Woran Sie belastbare Local-SEO-Fallstudien erkennen und wie Sie eigene Ergebnisse dokumentieren: Ausgangslage, Messpunkte, Änderungsprotokoll, Leistungsdaten.",
+      excerpt: "Woran Sie belastbare Local-SEO-Fallstudien erkennen und wie Sie eigene Ergebnisse dokumentieren: Ausgangslage, Messpunkte, Änderungsprotokoll, Leistungsdaten.",
+      category: "Case Study"
+    },
+    en: {
+      title: "Local SEO case studies: how to check results and document your own",
+      metaTitle: "Local SEO case studies: how to check results and document your own",
+      metaDescription: "How to recognise reliable local SEO case studies and document your own results: baseline, measuring points, change log and performance data.",
+      excerpt: "How to recognise reliable local SEO case studies and document your own results: baseline, measuring points, change log and performance data.",
+      category: "Case Study"
+    },
+    readingTime: 4,
+    publishedAt: "2026-03-09",
+    updatedAt: "2026-10-12",
+    icon: "📈",
+    keywords: []
+  },
+  {
+    slug: "tools-ressourcen-hub",
+    de: {
+      title: "Local-SEO-Vorlagen, Checklisten und Werkzeuge im Überblick",
+      metaTitle: "Local-SEO-Vorlagen und Checklisten im Überblick",
+      metaDescription: "Alle Vorlagen, Checklisten und Pläne für Local SEO an einem Ort: Audit, Keyword-Liste, Einträge, Ranking-Protokoll, Monatsroutine, 12-Wochen-Plan und Werkzeuge.",
+      excerpt: "Alle Vorlagen, Checklisten und Pläne für Local SEO an einem Ort: Audit, Keyword-Liste, Einträge, Ranking-Protokoll, Monatsroutine, 12-Wochen-Plan und Werkzeuge.",
+      category: "Tools & Ressourcen"
+    },
+    en: {
+      title: "Local SEO templates, checklists and tools in one place",
+      metaTitle: "Local SEO templates, checklists and tools in one place",
+      metaDescription: "Every local SEO template, checklist and plan in one place: audit, keyword list, listings, ranking log, monthly routine, 12-week plan and free tools.",
+      excerpt: "Every local SEO template, checklist and plan in one place: audit, keyword list, listings, ranking log, monthly routine, 12-week plan and free tools.",
+      category: "Tools & Resources"
+    },
+    readingTime: 5,
+    publishedAt: "2026-03-09",
+    updatedAt: "2026-10-12",
+    icon: "🧰",
+    keywords: []
+  },
+  {
+    slug: "content-marketing-hub",
+    de: {
+      title: "Lokales Content Marketing und Links: alle Anleitungen im Überblick",
+      metaTitle: "Lokales Content Marketing: alle Anleitungen",
+      metaDescription: "Lokales Content Marketing an einem Ort: Suchbegriffe finden, Inhalte für Kunden vor Ort planen, lokale Links und Erwähnungen aufbauen, Firmeneinträge pflegen.",
+      excerpt: "Lokales Content Marketing an einem Ort: Suchbegriffe finden, Inhalte für Kunden vor Ort planen, lokale Links und Erwähnungen aufbauen, Firmeneinträge pflegen.",
+      category: "Strategie"
+    },
+    en: {
+      title: "Local content marketing and links: every guide in one place",
+      metaTitle: "Local content marketing and links: every guide in one place",
+      metaDescription: "Local content marketing in one place: find search terms, plan content for local customers, earn local links and mentions, keep business listings consistent.",
+      excerpt: "Local content marketing in one place: find search terms, plan content for local customers, earn local links and mentions, keep business listings consistent.",
+      category: "Strategy"
+    },
+    readingTime: 5,
+    publishedAt: "2026-03-09",
+    updatedAt: "2026-10-12",
+    icon: "✍️",
+    keywords: []
+  },
+  {
+    slug: "technisches-seo-hub",
+    de: {
+      title: "Technisches Local SEO: alle Anleitungen im Überblick",
+      metaTitle: "Technisches Local SEO: alle Anleitungen im Überblick",
+      metaDescription: "Technisches Local SEO an einem Ort: strukturierte Daten, mobile Website, Ladezeit, Standortseiten, Sprachsuche, KI-Crawler und Messung für lokale Betriebe.",
+      excerpt: "Technisches Local SEO an einem Ort: strukturierte Daten, mobile Website, Ladezeit, Standortseiten, Sprachsuche, KI-Crawler und Messung für lokale Betriebe.",
+      category: "Technik"
+    },
+    en: {
+      title: "Technical local SEO: every guide in one place",
+      metaTitle: "Technical local SEO: every guide in one place",
+      metaDescription: "Technical local SEO in one place: structured data, mobile website, page speed, location pages, voice search, AI crawlers and measurement for local businesses.",
+      excerpt: "Technical local SEO in one place: structured data, mobile website, page speed, location pages, voice search, AI crawlers and measurement for local businesses.",
+      category: "Technical"
+    },
+    readingTime: 5,
+    publishedAt: "2026-03-09",
+    updatedAt: "2026-10-12",
+    icon: "⚙️",
+    keywords: []
+  },
+  {
+    slug: "ai-zukunft-hub",
+    de: {
+      title: "KI-Suche und GEO: alle Anleitungen im Überblick",
+      metaTitle: "KI-Suche und GEO: alle Anleitungen im Überblick",
+      metaDescription: "KI-Suche für lokale Betriebe an einem Ort: Übersicht mit KI, KI-Modus, ChatGPT, Perplexity, Copilot, KI-Crawler, llms.txt, Messung und falsche Angaben.",
+      excerpt: "KI-Suche für lokale Betriebe an einem Ort: Übersicht mit KI, KI-Modus, ChatGPT, Perplexity, Copilot, KI-Crawler, llms.txt, Messung und falsche Angaben.",
+      category: "AI & Zukunft"
+    },
+    en: {
+      title: "AI search and GEO: every guide in one place",
+      metaTitle: "AI search and GEO: every guide in one place",
+      metaDescription: "AI search for local businesses in one place: AI Overviews, AI Mode, ChatGPT, Perplexity, Copilot, AI crawlers, llms.txt, measuring and fixing wrong answers.",
+      excerpt: "AI search for local businesses in one place: AI Overviews, AI Mode, ChatGPT, Perplexity, Copilot, AI crawlers, llms.txt, measuring and fixing wrong answers.",
+      category: "AI & Future"
+    },
+    readingTime: 7,
+    publishedAt: "2026-03-09",
+    updatedAt: "2026-10-12",
+    icon: "🤖",
+    keywords: []
+  },
+  {
+    slug: "troubleshooting-hub",
+    de: {
+      title: "Probleme mit dem Google-Unternehmensprofil: alle Lösungen im Überblick",
+      metaTitle: "Probleme mit dem Google-Profil: alle Lösungen",
+      metaDescription: "Google-Profil gesperrt, nicht bestätigt, doppelt oder plötzlich unsichtbar? Hier finden Sie für jedes Problem die passende Anleitung mit den offiziellen Wegen.",
+      excerpt: "Google-Profil gesperrt, nicht bestätigt, doppelt oder plötzlich unsichtbar? Hier finden Sie für jedes Problem die passende Anleitung mit den offiziellen Wegen.",
+      category: "Troubleshooting"
+    },
+    en: {
+      title: "Google Business Profile problems: every fix in one place",
+      metaTitle: "Google Business Profile problems: every fix in one place",
+      metaDescription: "Profile suspended, not verified, duplicated or suddenly invisible? Find the right guide for each Google Business Profile problem and the official way to fix it.",
+      excerpt: "Profile suspended, not verified, duplicated or suddenly invisible? Find the right guide for each Google Business Profile problem and the official way to fix it.",
+      category: "Troubleshooting"
+    },
+    readingTime: 5,
+    publishedAt: "2026-03-09",
+    updatedAt: "2026-10-12",
+    icon: "🔧",
+    keywords: []
+  },
+  {
     slug: "google-business-profil-hub",
     de: {
-      title: "Google Business Profil Hub – Alle Guides & Anleitungen",
-      metaTitle: "Google Business Profil Hub – Alle Guides & Anleitungen 2026",
-      metaDescription: "Komplette Sammlung aller Google Business Profil Guides: Profil-Optimierung, Bewertungen, Insights, erweiterte Funktionen und Fehlerbehebung.",
-      excerpt: "Dein zentrales Nachschlagewerk für alle Google Business Profil Themen. 24+ Artikel zu Optimierung, Bewertungen und Fehlerbehebung.",
+      title: "Google-Unternehmensprofil: alle Anleitungen im Überblick",
+      metaTitle: "Google-Unternehmensprofil: alle Anleitungen im Überblick",
+      metaDescription: "Alle Anleitungen zum Google-Unternehmensprofil an einem Ort: einrichten, Kategorie wählen, Fotos, Öffnungszeiten, mehrere Standorte, KI-Funktionen und Probleme.",
+      excerpt: "Alle Anleitungen zum Google-Unternehmensprofil an einem Ort: einrichten, Kategorie wählen, Fotos, Öffnungszeiten, mehrere Standorte, KI-Funktionen und Probleme.",
       category: "Google Business"
     },
     en: {
-      title: "Google Business Profile Hub – All Guides & Tutorials",
-      metaTitle: "Google Business Profile Hub – All Guides & Tutorials 2026",
-      metaDescription: "Complete collection of all Google Business Profile guides: profile optimization, reviews, insights, advanced features and troubleshooting.",
-      excerpt: "Your central reference for all Google Business Profile topics. 24+ articles on optimization, reviews and troubleshooting.",
+      title: "Google Business Profile: every guide in one place",
+      metaTitle: "Google Business Profile: every guide in one place",
+      metaDescription: "Every guide to the Google Business Profile in one place: setup, categories, photos, hours, several locations, AI features and fixing problems.",
+      excerpt: "Every guide to the Google Business Profile in one place: setup, categories, photos, hours, several locations, AI features and fixing problems.",
       category: "Google Business"
     },
-    readingTime: 5,
+    readingTime: 6,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-03-05",
+    updatedAt: "2026-10-12",
     icon: "🏢",
     keywords: ["google business profil", "gbp optimierung", "google my business guide", "google business hub"]
   },
   {
     slug: "local-seo-branchen-hub",
     de: {
-      title: "Local SEO Branchen-Guides – 22+ Branchen im Überblick",
-      metaTitle: "Local SEO Branchen-Guides – 22+ Branchen im Überblick 2026",
-      metaDescription: "Branchenspezifische Local SEO Anleitungen für Gastronomie, Gesundheit, Handwerk, Dienstleistungen und Lifestyle.",
-      excerpt: "Jede Branche hat eigene Local SEO Herausforderungen. Finde den passenden Guide für dein Business.",
+      title: "Local SEO nach Branche: alle Leitfäden im Überblick",
+      metaTitle: "Local SEO nach Branche: alle Leitfäden im Überblick",
+      metaDescription: "Local SEO für Ihre Branche: Leitfäden für Hotels, Gastronomie, Handwerk, Praxen, Kanzleien, Steuerberater, Studios und Dienstleister in Deutschland, AT und CH.",
+      excerpt: "Local SEO für Ihre Branche: Leitfäden für Hotels, Gastronomie, Handwerk, Praxen, Kanzleien, Steuerberater, Studios und Dienstleister in Deutschland, AT und CH.",
       category: "Branchen"
     },
     en: {
-      title: "Local SEO Industry Guides – 22+ Industries Overview",
-      metaTitle: "Local SEO Industry Guides – 22+ Industries Overview 2026",
-      metaDescription: "Industry-specific Local SEO guides for gastronomy, health, crafts, services and lifestyle.",
-      excerpt: "Every industry has unique Local SEO challenges. Find the right guide for your business.",
+      title: "Local SEO by industry: every guide in one place",
+      metaTitle: "Local SEO by industry: every guide in one place",
+      metaDescription: "Local SEO for your industry: guides for hotels, hospitality, trades, practices, law and tax firms, studios and local services in DACH.",
+      excerpt: "Local SEO for your industry: guides for hotels, hospitality, trades, practices, law and tax firms, studios and local services in DACH.",
       category: "Industries"
     },
-    readingTime: 5,
+    readingTime: 6,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-03-05",
+    updatedAt: "2026-10-12",
     icon: "🏭",
     keywords: ["local seo branchen", "branchen seo guide", "local seo nach branche", "branchenspezifisches seo"]
   },
   {
     slug: "local-seo-staedte-hub",
     de: {
-      title: "Local SEO Städte-Guides – DACH-Region",
-      metaTitle: "Local SEO Städte-Guides – 12 Städte in DACH | 2026",
-      metaDescription: "Stadtspezifische Local SEO Guides für Berlin, Hamburg, München, Wien, Zürich und mehr. Lokale Besonderheiten für jede Stadt.",
-      excerpt: "Stadtspezifische Local SEO Guides mit lokalen Verzeichnissen, Wettbewerbsanalysen und regionalen Tipps.",
+      title: "Local SEO nach Stadt und Land: alle Leitfäden für Deutschland, Österreich und die Schweiz",
+      metaTitle: "Local SEO nach Stadt und Land: DACH im Überblick",
+      metaDescription: "Local SEO in Deutschland, Österreich und der Schweiz: Leitfäden zu Recht und Verzeichnissen sowie für Berlin, Hamburg, München, Wien, Zürich und weitere Städte.",
+      excerpt: "Local SEO in Deutschland, Österreich und der Schweiz: Leitfäden zu Recht und Verzeichnissen sowie für Berlin, Hamburg, München, Wien, Zürich und weitere Städte.",
       category: "Städte"
     },
     en: {
-      title: "Local SEO City Guides – DACH Region",
-      metaTitle: "Local SEO City Guides – 12 Cities in DACH | 2026",
-      metaDescription: "City-specific Local SEO guides for Berlin, Hamburg, Munich, Vienna, Zurich and more.",
-      excerpt: "City-specific Local SEO guides with local directories, competitor analysis and regional tips.",
+      title: "Local SEO by city and country: Germany, Austria, Switzerland",
+      metaTitle: "Local SEO by city and country: Germany, Austria, Switzerland",
+      metaDescription: "Local SEO in Germany, Austria and Switzerland: country guides on law and directories, and city guides from Berlin to Vienna and Zurich.",
+      excerpt: "Local SEO in Germany, Austria and Switzerland: country guides on law and directories, and city guides from Berlin to Vienna and Zurich.",
       category: "Cities"
     },
     readingTime: 5,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-03-05",
+    updatedAt: "2026-10-12",
     icon: "🏙️",
     keywords: ["local seo städte", "local seo berlin", "local seo münchen", "local seo wien", "städte seo guide"]
   },
   {
     slug: "bewertungen-reputation-hub",
     de: {
-      title: "Bewertungen & Reputation Hub – Alle Guides",
-      metaTitle: "Bewertungen & Reputation Hub – Alle Guides 2026",
-      metaDescription: "Alle Guides zu Google Bewertungen: Generierung, Antwort-Vorlagen, negative Bewertungen, Review-Schema und Ranking-Impact.",
-      excerpt: "Alle Strategien zu Bewertungen – von der Generierung über den Umgang mit Kritik bis zur technischen Implementierung.",
+      title: "Bewertungen und Reputation: alle Anleitungen im Überblick",
+      metaTitle: "Google-Bewertungen: alle Anleitungen im Überblick",
+      metaDescription: "Alles zu Google-Bewertungen an einem Ort: richtig um Rezensionen bitten, auf Kritik antworten, unzulässige Bewertungen melden und was Sterne wirklich bringen.",
+      excerpt: "Alles zu Google-Bewertungen an einem Ort: richtig um Rezensionen bitten, auf Kritik antworten, unzulässige Bewertungen melden und was Sterne wirklich bringen.",
       category: "Bewertungen"
     },
     en: {
-      title: "Reviews & Reputation Hub – All Guides",
-      metaTitle: "Reviews & Reputation Hub – All Guides 2026",
-      metaDescription: "All guides on Google reviews: generation, response templates, negative reviews, review schema and ranking impact.",
-      excerpt: "All review strategies – from generation to handling criticism to technical implementation.",
+      title: "Reviews and reputation: every guide in one place",
+      metaTitle: "Reviews and reputation: every guide in one place",
+      metaDescription: "Google reviews in one place: asking for reviews within the rules, replying to criticism, reporting reviews and what review stars really do.",
+      excerpt: "Google reviews in one place: asking for reviews within the rules, replying to criticism, reporting reviews and what review stars really do.",
       category: "Reviews"
     },
     readingTime: 5,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-03-05",
+    updatedAt: "2026-10-12",
     icon: "⭐",
     keywords: ["google bewertungen", "bewertungen management", "reputation management", "review strategie", "bewertungen hub"]
   },
@@ -3649,22 +3803,22 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "google-maps-seo-hub",
     de: {
-      title: "Google Maps SEO Hub: Alle Guides für lokale Sichtbarkeit",
-      metaTitle: "Google Maps SEO Hub – Alle Guides für Top-Rankings 2026",
-      metaDescription: "Das umfassendste Google Maps SEO Hub: Rankings verbessern, GBP optimieren, Bewertungen managen, Insights analysieren und Probleme lösen. 25+ Artikel.",
-      excerpt: "Dein zentraler Einstiegspunkt für Google Maps SEO: Rankings, GBP-Optimierung, Bewertungen, Analyse und Troubleshooting — 25+ verlinkte Guides.",
+      title: "Google Maps SEO: alle Anleitungen im Überblick",
+      metaTitle: "Google Maps SEO: alle Anleitungen im Überblick",
+      metaDescription: "Google Maps SEO an einem Ort: wie Google lokal sortiert, Ranking messen und verbessern, Konkurrenz analysieren, Spam melden, Vorlagen und Apple sowie Bing.",
+      excerpt: "Google Maps SEO an einem Ort: wie Google lokal sortiert, Ranking messen und verbessern, Konkurrenz analysieren, Spam melden, Vorlagen und Apple sowie Bing.",
       category: "Google Maps"
     },
     en: {
-      title: "Google Maps SEO Hub: All Guides for Local Visibility",
-      metaTitle: "Google Maps SEO Hub – All Guides for Top Rankings 2026",
-      metaDescription: "The most comprehensive Google Maps SEO hub: improve rankings, optimize GBP, manage reviews, analyze insights and fix issues. 25+ articles.",
-      excerpt: "Your central entry point for Google Maps SEO: rankings, GBP optimization, reviews, analysis and troubleshooting — 25+ linked guides.",
+      title: "Google Maps SEO: every guide in one place",
+      metaTitle: "Google Maps SEO: every guide in one place",
+      metaDescription: "Google Maps SEO in one place: how Google sorts local results, measuring and improving rankings, competitor analysis, spam, Apple Maps and Bing.",
+      excerpt: "Google Maps SEO in one place: how Google sorts local results, measuring and improving rankings, competitor analysis, spam, Apple Maps and Bing.",
       category: "Google Maps"
     },
-    readingTime: 8,
+    readingTime: 6,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-03-08",
+    updatedAt: "2026-10-12",
     icon: "🗺️",
     keywords: ["google maps seo", "google maps ranking", "maps optimierung", "google maps marketing", "lokale sichtbarkeit google maps"],
     featured: true
@@ -3742,9 +3896,9 @@ export const blogArticles: BlogArticle[] = [
   },
   {
     slug: "faq-hub",
-    de: { title: "FAQ Hub: Alle Local SEO Fragen beantwortet", metaTitle: "FAQ Hub Local SEO | 50+ Antworten", metaDescription: "50+ häufig gestellte Fragen zu Local SEO — von Grundlagen über Google Business Profil bis AI-Optimierung. Sofortige Antworten.", excerpt: "Alle FAQ zu Local SEO an einem Ort: Grundlagen, GBP, Bewertungen, Technik, AI und Content.", category: "Ressourcen" },
-    en: { title: "FAQ Hub: All Local SEO Questions Answered", metaTitle: "FAQ Hub Local SEO | 50+ Answers", metaDescription: "50+ frequently asked questions about Local SEO — from basics to AI optimization. Instant answers.", excerpt: "All Local SEO FAQs in one place: basics, GBP, reviews, tech, AI and content.", category: "Resources" },
-    readingTime: 15, publishedAt: "2026-03-08", updatedAt: "2026-03-08", icon: "❓", keywords: ["local seo faq", "local seo fragen", "google business profil faq", "bewertungen faq", "seo fragen antworten"], featured: false
+    de: { title: "Häufige Fragen zu Local SEO: kurze Antworten und wo Sie mehr finden", metaTitle: "Häufige Fragen zu Local SEO: kurze Antworten", metaDescription: "Kurze Antworten auf häufige Fragen zu Local SEO, Google-Unternehmensprofil, Bewertungen, Technik und KI-Suche, mit Links zu den ausführlichen Leitfäden.", excerpt: "Kurze Antworten auf häufige Fragen zu Local SEO, Google-Unternehmensprofil, Bewertungen, Technik und KI-Suche, mit Links zu den ausführlichen Leitfäden.", category: "Ressourcen" },
+    en: { title: "Local SEO FAQ: short answers and where to read more", metaTitle: "Local SEO FAQ: short answers and where to read more", metaDescription: "Short answers to common questions about local SEO, the Google Business Profile, reviews, technical SEO and AI search, with links to the full guides.", excerpt: "Short answers to common questions about local SEO, the Google Business Profile, reviews, technical SEO and AI search, with links to the full guides.", category: "Resources" },
+    readingTime: 5, publishedAt: "2026-03-08", updatedAt: "2026-10-12", icon: "❓", keywords: ["local seo faq", "local seo fragen", "google business profil faq", "bewertungen faq", "seo fragen antworten"], featured: false
   },
   {
     slug: "faq-local-seo-grundlagen",
@@ -4215,7 +4369,7 @@ export const blogArticles: BlogArticle[] = [
   {
     slug: "local-seo-garten-landschaftsbau",
     de: {
-      title: "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden, Verwaltungen und Gemeinden Ihren Betrieb",
+      title: "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden und Hausverwaltungen Ihren Betrieb",
       metaTitle: "Local SEO für Garten- und Landschaftsbau: das Gartenjahr",
       metaDescription: "Local SEO für GaLaBau-Betriebe: Profil mit Einzugsgebiet, Projektseiten mit echten Fotos, Pflegeverträge, das Gartenjahr und Bewertungen nach Google-Regeln.",
       excerpt: "Local SEO für GaLaBau-Betriebe: Profil mit Einzugsgebiet, Projektseiten mit echten Fotos, Pflegeverträge, das Gartenjahr und Bewertungen nach Google-Regeln.",
@@ -4369,6 +4523,12 @@ export const blogArticles: BlogArticle[] = [
 
 // Slugs that have actual page components and routes
 const PUBLISHED_SLUGS = new Set([
+  "case-studies-hub",
+  "tools-ressourcen-hub",
+  "content-marketing-hub",
+  "technisches-seo-hub",
+  "ai-zukunft-hub",
+  "troubleshooting-hub",
   "kostenloses-seo-guide",
   "local-seo-keywords-finden",
   "google-maps-ranking-verbessern",

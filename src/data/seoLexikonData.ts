@@ -18,11 +18,6 @@ export interface SEOTerm {
   /** Concise 40-60 word definition optimized for Google Featured Snippets. Starts with "[Term] ist/bezeichnet/sind..." */
   snippetDefinition?: string;
   features: string[];
-  statistics: {
-    label: string;
-    value: string;
-    icon: "trending" | "percent" | "users" | "search" | "chart" | "clock";
-  }[];
   benefits: string[];
   relatedTerms: string[];
   difficulty: "anfänger" | "fortgeschritten" | "experte";
@@ -36,25 +31,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "A",
     term: "Algorithmus-Update",
-    shortDescription: "Ein Algorithmus-Update ist eine Änderung am Google-Suchalgorithmus, die das Ranking von Websites beeinflusst.",
-    snippetDefinition: "Ein Algorithmus-Update ist eine Änderung, die Google an seinem Suchalgorithmus vornimmt, um die Qualität der Suchergebnisse zu verbessern. Große Updates wie Core Updates, Helpful Content Updates oder Spam Updates können erhebliche Ranking-Veränderungen für Websites verursachen. Google führt jährlich über 1.000 solcher Updates durch.",
-    fullDescription: "Algorithmus-Updates sind Änderungen, die Google an seinem Suchalgorithmus vornimmt. Große Updates wie Core Updates, Helpful Content Update oder Spam Updates können erhebliche Ranking-Veränderungen verursachen. Für lokale Unternehmen ist es wichtig, auf qualitativ hochwertige Inhalte und E-E-A-T zu setzen.",
+    shortDescription: "Ein Algorithmus-Update ist eine Änderung an Googles Ranking-Systemen, die die Platzierung von Websites verändern kann.",
+    snippetDefinition: "Ein Algorithmus-Update ist eine Änderung, die Google an seinen Ranking-Systemen vornimmt, um die Qualität der Suchergebnisse zu verbessern. Größere Änderungen wie Core Updates oder Spam Updates können die Platzierungen vieler Websites verändern. Google passt seine Systeme laufend an; größere Updates kündigt Google im Search Status Dashboard an.",
+    fullDescription: "Algorithmus-Updates sind Änderungen an Googles Ranking-Systemen. Core Updates und Spam Updates können die Platzierungen vieler Websites verändern. Wer nach einem Update verliert, hat nicht zwingend einen Fehler gemacht. Für lokale Unternehmen heißt das: Angaben aktuell halten und Inhalte veröffentlichen, die Kunden wirklich weiterhelfen.",
     features: [
-      "Core Updates (mehrmals jährlich)",
-      "Helpful Content Update",
+      "Core Updates",
       "Spam Updates",
-      "Local Search Updates"
-    ],
-    statistics: [
-      { label: "Google Updates pro Jahr", value: "1000+", icon: "chart" },
-      { label: "Große Core Updates", value: "3-4x", icon: "trending" },
-      { label: "Ranking-Volatilität nach Update", value: "Hoch", icon: "percent" }
+      "Laufende kleinere Änderungen",
+      "Statusmeldungen im Google Search Status Dashboard"
     ],
     benefits: [
-      "Verständnis für Ranking-Schwankungen",
-      "Proaktive SEO-Strategie entwickeln",
-      "Qualitätsfokus statt Tricks",
-      "Langfristige Stabilität erreichen"
+      "Ranking-Schwankungen besser einordnen",
+      "Nicht auf jede Schwankung überreagieren",
+      "Qualität statt Tricks",
+      "Entwicklung in der Search Console beobachten"
     ],
     relatedTerms: ["E-E-A-T", "Quality Raters", "White Hat SEO", "Technical SEO"],
     difficulty: "fortgeschritten",
@@ -73,25 +63,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "A",
     term: "Alt-Text",
-    shortDescription: "Alt-Text ist ein alternativer Beschreibungstext für Bilder, der von Suchmaschinen und Screenreadern gelesen wird.",
-    snippetDefinition: "Alt-Text (Alternativtext) ist eine im HTML-Code hinterlegte Beschreibung von Bildern, die Suchmaschinen hilft, den Bildinhalt zu verstehen, und sehbehinderten Nutzern vorgelesen wird. Für Local SEO ist Alt-Text besonders wichtig, um durch Ortsnamen und Keywords lokale Relevanz zu signalisieren. 42 % aller Website-Bilder haben keinen Alt-Text.",
-    fullDescription: "Alt-Text (Alternativtext) ist eine Beschreibung von Bildern, die im HTML-Code hinterlegt wird. Er hilft Suchmaschinen zu verstehen, was auf einem Bild zu sehen ist, und wird Nutzern mit Sehbehinderungen vorgelesen. Für Local SEO ist Alt-Text besonders wichtig, um lokale Relevanz durch Ortsnamen und Keywords zu signalisieren.",
+    shortDescription: "Alt-Text ist ein alternativer Beschreibungstext für Bilder, den Screenreader vorlesen und den Suchmaschinen zum Verständnis des Bildes nutzen.",
+    snippetDefinition: "Alt-Text (Alternativtext) ist eine im HTML-Code hinterlegte Beschreibung eines Bildes. Screenreader lesen sie sehbehinderten Nutzern vor, Suchmaschinen nutzen sie gemeinsam mit dem Umfeld des Bildes, um den Inhalt zu verstehen. Gut ist ein kurzer, sachlicher Text, der beschreibt, was zu sehen ist. Ein Ortsname gehört hinein, wenn er zum Bild passt.",
+    fullDescription: "Alt-Text (Alternativtext) ist eine Beschreibung von Bildern, die im HTML-Code hinterlegt wird. Er wird Nutzern mit Sehbehinderung vorgelesen und hilft Suchmaschinen zu verstehen, was auf einem Bild zu sehen ist. Er sollte beschreiben, was tatsächlich zu sehen ist, und kein Platz für aneinandergereihte Suchbegriffe sein.",
     features: [
       "Barrierefreiheit für sehbehinderte Nutzer",
       "Bildverständnis für Suchmaschinen",
-      "Erscheint bei Ladefehler des Bildes",
-      "Lokale Keywords integrierbar"
-    ],
-    statistics: [
-      { label: "Bilder ohne Alt-Text", value: "42%", icon: "percent" },
-      { label: "Ranking-Einfluss", value: "Mittel", icon: "trending" },
-      { label: "Barrierefreiheits-Score", value: "+35%", icon: "chart" }
+      "Erscheint, wenn das Bild nicht lädt",
+      "Ortsnamen nur, wenn sie zum Bild passen"
     ],
     benefits: [
-      "Besseres Ranking in der Google Bildersuche",
-      "Erhöhte Barrierefreiheit der Website",
-      "Zusätzliche Keyword-Signale für Suchmaschinen",
-      "Verbesserte User Experience"
+      "Bessere Barrierefreiheit der Website",
+      "Hilft Suchmaschinen, Bilder zu verstehen",
+      "Bilder können in der Google-Bildersuche auffindbar sein",
+      "Bessere Nutzbarkeit, wenn Bilder nicht laden"
     ],
     relatedTerms: ["Image SEO", "On-Page SEO", "Technical SEO", "Barrierefreiheit"],
     difficulty: "anfänger",
@@ -110,25 +95,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "A",
     term: "Anchor Text",
-    shortDescription: "Anchor Text ist der sichtbare, klickbare Text eines Hyperlinks, der Suchmaschinen Themenrelevanz signalisiert.",
-    snippetDefinition: "Anchor Text (Ankertext) ist der sichtbare, klickbare Text eines Hyperlinks auf einer Webseite. Er gibt Suchmaschinen wichtige Hinweise über den Inhalt der verlinkten Seite. Für SEO ist eine natürliche Variation der Anchor Texte entscheidend – zu viele exakte Keyword-Matches können als Spam gewertet werden.",
-    fullDescription: "Anchor Text (Ankertext) ist der sichtbare, klickbare Text eines Links. Er gibt Suchmaschinen wichtige Hinweise über den Inhalt der verlinkten Seite. Für SEO ist eine natürliche Variation der Anchor Texte wichtig - zu viele exakte Keywords können als Spam gewertet werden.",
+    shortDescription: "Anchor Text ist der sichtbare, klickbare Text eines Hyperlinks, der Suchmaschinen und Nutzern zeigt, worum es auf der Zielseite geht.",
+    snippetDefinition: "Anchor Text (Ankertext) ist der sichtbare, klickbare Text eines Hyperlinks. Er gibt Nutzern und Suchmaschinen einen Hinweis auf den Inhalt der verlinkten Seite. Aussagekräftige, natürlich formulierte Linktexte sind sinnvoll. Wer massenhaft Links mit immer demselben Keyword als Linktext aufbaut, riskiert, dass Google sie als Linkspam wertet.",
+    fullDescription: "Anchor Text (Ankertext) ist der sichtbare, klickbare Text eines Links. Er gibt Suchmaschinen und Nutzern einen Hinweis auf den Inhalt der verlinkten Seite. Aussagekräftige, natürliche Linktexte sind besser als „hier klicken“ oder aneinandergereihte Keywords.",
     features: [
-      "Signalisiert Themenrelevanz an Google",
+      "Gibt einen Hinweis auf die Zielseite",
       "Verschiedene Typen: Exact Match, Partial Match, Branded, Generic",
       "Interne und externe Verlinkung",
-      "Natürliche Variation wichtig"
-    ],
-    statistics: [
-      { label: "Links mit 'Click here' Anchor", value: "65%", icon: "percent" },
-      { label: "Einfluss auf Backlink-Wert", value: "Hoch", icon: "trending" },
-      { label: "Überoptimierung-Risiko", value: ">3%", icon: "chart" }
+      "Natürliche Formulierung statt Keyword-Wiederholung"
     ],
     benefits: [
-      "Bessere Keyword-Relevanz signalisieren",
-      "Höhere Rankings für verlinkte Seiten",
-      "Nutzerführung verbessern",
-      "Interne Verlinkungsstrategie optimieren"
+      "Hinweis auf den Inhalt der Zielseite",
+      "Bessere Orientierung für Nutzer",
+      "Klare interne Verlinkung",
+      "Weniger Risiko durch unnatürliche Linktexte"
     ],
     relatedTerms: ["Backlinks", "Internal Linking", "Link Building", "Off-Page SEO"],
     difficulty: "anfänger",
@@ -148,25 +128,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "B",
     term: "Backlinks",
-    shortDescription: "Backlinks sind eingehende Links von anderen Websites, die als einer der wichtigsten Google-Ranking-Faktoren gelten.",
-    snippetDefinition: "Backlinks sind externe Links, die von anderen Websites auf deine eigene Website verweisen. Sie gelten als eine der stärksten Ranking-Signale für Google, da sie wie digitale Empfehlungen funktionieren. Im Local SEO sind lokale Backlinks von regionalen Websites, Zeitungen und Branchenverzeichnissen besonders wertvoll und können die lokale Sichtbarkeit um bis zu 67 % steigern.",
-    fullDescription: "Backlinks sind externe Links, die von anderen Websites auf deine Website verweisen. Sie gelten als eine Art 'Empfehlung' und sind einer der wichtigsten Ranking-Faktoren für Google. Im Local SEO sind lokale Backlinks von regionalen Websites, Zeitungen, Branchenverzeichnissen und Partnern besonders wertvoll.",
+    shortDescription: "Backlinks sind eingehende Links von anderen Websites auf die eigene Website.",
+    snippetDefinition: "Backlinks sind externe Links, die von anderen Websites auf die eigene Website verweisen. Links gehören laut Google zu den Faktoren der Websuche; eine Gewichtung veröffentlicht Google nicht. Gekaufte oder getauschte Links, die nur das Ranking beeinflussen sollen, verstoßen gegen die Spamrichtlinien. Lokale Verlinkungen entstehen natürlich, etwa durch Vereine, Kammern oder regionale Medien.",
+    fullDescription: "Backlinks sind externe Links, die von anderen Websites auf die eigene Website verweisen. Sie gelten als eine Art Empfehlung und gehören laut Google zu den Faktoren der Websuche, ohne dass Google eine Gewichtung nennt. Im Local SEO sind Links von regionalen Websites, Zeitungen, Vereinen und Partnern naheliegend, wenn sie aus einem echten Bezug entstehen.",
     features: [
       "DoFollow vs. NoFollow Links",
-      "Domain Authority & Page Authority",
-      "Anchor-Text-Optimierung",
+      "Qualität vor Menge",
+      "Anchor-Text natürlich halten",
       "Lokale Backlink-Quellen"
     ],
-    statistics: [
-      { label: "Top-3 Ranking-Faktor", value: "#1", icon: "trending" },
-      { label: "Websites mit >100 Backlinks", value: "2.2x", icon: "chart" },
-      { label: "Lokale Backlink-Wirkung", value: "+67%", icon: "percent" }
-    ],
     benefits: [
-      "Signifikante Verbesserung der Domain Authority",
-      "Höhere Rankings in den Suchergebnissen",
-      "Mehr organischer Traffic",
-      "Stärkere lokale Relevanz"
+      "Empfehlungen anderer Websites",
+      "Mehr Besucher über Verweise",
+      "Stärkere regionale Verankerung",
+      "Bekanntheit im Umfeld"
     ],
     relatedTerms: ["Link Building", "Domain Authority", "Anchor Text", "Off-Page SEO", "Nofollow Link"],
     difficulty: "fortgeschritten",
@@ -187,24 +162,19 @@ export const seoLexikonData: SEOTerm[] = [
     letter: "B",
     term: "Black Hat SEO",
     shortDescription: "Black Hat SEO bezeichnet manipulative Optimierungsmethoden, die gegen die Richtlinien von Google verstoßen.",
-    snippetDefinition: "Black Hat SEO bezeichnet Suchmaschinenoptimierungs-Techniken, die gegen Googles Webmaster-Richtlinien verstoßen. Dazu gehören Keyword Stuffing, versteckter Text, Linkkauf und Cloaking. Diese Methoden können kurzfristig Rankings verbessern, führen jedoch in über 99 % der Fälle zu Abstrafungen oder zur vollständigen Entfernung aus dem Google-Index.",
-    fullDescription: "Black Hat SEO bezeichnet Optimierungstechniken, die gegen die Webmaster-Richtlinien von Google verstoßen. Dazu gehören Keyword Stuffing, versteckter Text, Linkkauf und Cloaking. Diese Methoden können kurzfristig funktionieren, führen aber oft zu Abstrafungen oder sogar zur Entfernung aus dem Google-Index.",
+    snippetDefinition: "Black Hat SEO bezeichnet Techniken, die gegen Googles Spamrichtlinien verstoßen. Dazu gehören Keyword Stuffing, versteckter Text, Linkkauf und Cloaking. Google kann solche Seiten mit automatischen Systemen herabstufen oder durch manuelle Maßnahmen aus den Suchergebnissen entfernen. Wer sich darauf einlässt, riskiert die Sichtbarkeit der ganzen Website.",
+    fullDescription: "Black Hat SEO bezeichnet Optimierungstechniken, die gegen Googles Spamrichtlinien verstoßen. Dazu gehören Keyword Stuffing, versteckter Text, Linkkauf und Cloaking. Google kann betroffene Seiten herabstufen oder aus den Suchergebnissen entfernen.",
     features: [
       "Keyword Stuffing (Überoptimierung)",
       "Linkkauf und Linkfarmen",
-      "Cloaking (versteckter Inhalt)",
+      "Cloaking (Nutzern anderen Inhalt zeigen als der Suchmaschine)",
       "Private Blog Networks (PBN)"
     ],
-    statistics: [
-      { label: "Abstrafungsrisiko", value: "Sehr hoch", icon: "trending" },
-      { label: "Recovery-Zeit nach Penalty", value: "6-24 Monate", icon: "clock" },
-      { label: "Google-Erkennung", value: "99%+", icon: "percent" }
-    ],
     benefits: [
-      "Wissen was man vermeiden sollte",
-      "Konkurrenz-Analyse möglich",
-      "Risikobewertung für Strategien",
-      "Langfristigen Erfolg sichern durch Vermeidung"
+      "Wissen, was man vermeiden sollte",
+      "Angebote von Dienstleistern besser einschätzen",
+      "Risiken von Methoden bewerten",
+      "Langfristige Sichtbarkeit schützen"
     ],
     relatedTerms: ["White Hat SEO", "Algorithmus-Update", "Keyword Stuffing", "Link Building"],
     difficulty: "fortgeschritten",
@@ -217,25 +187,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "B",
     term: "Bounce Rate",
-    shortDescription: "Die Bounce Rate (Absprungrate) ist der Prozentsatz der Besucher, die eine Website ohne weitere Interaktion verlassen.",
-    snippetDefinition: "Die Bounce Rate (Absprungrate) ist eine Webanalyse-Kennzahl, die den Anteil der Besucher angibt, die eine Website nach nur einer Seite ohne weitere Interaktion verlassen. Eine hohe Bounce Rate kann auf Probleme mit Inhalt, User Experience oder Ladezeit hinweisen. Der Branchendurchschnitt liegt zwischen 41 und 55 Prozent.",
-    fullDescription: "Die Bounce Rate (Absprungrate) zeigt den Anteil der Besucher, die eine Website nach nur einer Seite wieder verlassen, ohne weitere Interaktion. Eine hohe Bounce Rate kann auf Probleme mit Content, UX oder Ladezeit hinweisen. Google nutzt Engagement-Signale als Ranking-Faktor.",
+    shortDescription: "Die Bounce Rate (Absprungrate) zeigt in der Webanalyse den Anteil der Besuche, nach denen Nutzer die Website ohne weitere Interaktion verlassen.",
+    snippetDefinition: "Die Bounce Rate (Absprungrate) ist eine Kennzahl der Webanalyse. In Google Analytics 4 ist sie der Anteil der Sitzungen, die nicht als engagiert gelten, also das Gegenstück zur Engagement-Rate. Eine hohe Absprungrate kann auf Probleme mit Inhalt, Ladezeit oder Erwartung hindeuten, muss es aber nicht: Bei einer Seite mit Telefonnummer reicht oft ein einziger Besuch.",
+    fullDescription: "Die Bounce Rate (Absprungrate) zeigt, wie viele Besuche ohne weitere Interaktion enden. Wie sie berechnet wird, hängt vom Analyse-Tool ab. In Google Analytics 4 ist sie das Gegenstück zur Engagement-Rate. Aussagekräftig ist sie nur im Zusammenhang mit dem Seitentyp: Eine Kontaktseite mit Telefonnummer hat einen anderen Zweck als ein Ratgeberartikel.",
     features: [
       "Wird in Google Analytics gemessen",
-      "Branchenspezifische Durchschnittswerte",
-      "Unterschied zwischen Bounce und Exit",
-      "Beeinflusst von Seitentyp und Intent"
-    ],
-    statistics: [
-      { label: "Durchschnittliche Bounce Rate", value: "41-55%", icon: "percent" },
-      { label: "E-Commerce Benchmark", value: "20-45%", icon: "chart" },
-      { label: "Blog-Artikel typisch", value: "70-90%", icon: "trending" }
+      "Berechnung je nach Tool unterschiedlich",
+      "Unterschied zwischen Absprung und Ausstieg",
+      "Abhängig von Seitentyp und Suchintention"
     ],
     benefits: [
-      "Indikator für Content-Qualität",
-      "UX-Probleme identifizieren",
-      "Conversion-Optimierung ermöglichen",
-      "Engagement messen"
+      "Hinweis auf Probleme bei Inhalt oder Ladezeit",
+      "Probleme in der Nutzerführung erkennen",
+      "Grundlage für Optimierungen",
+      "Engagement einordnen"
     ],
     relatedTerms: ["User Experience", "Dwell Time", "CTR", "Conversion Rate"],
     difficulty: "anfänger",
@@ -248,25 +213,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "B",
     term: "Branchenverzeichnis",
-    shortDescription: "Ein Branchenverzeichnis ist eine Online-Plattform zur Eintragung von Unternehmensdaten, die die lokale SEO stärkt.",
-    snippetDefinition: "Ein Branchenverzeichnis ist eine Online-Plattform, auf der Unternehmen ihre Kontaktdaten, Öffnungszeiten und Leistungen eintragen können. Branchenverzeichnisse sind eine wichtige Quelle für Citations und stärken die lokale Suchmaschinenoptimierung. In Deutschland sind Das Örtliche, Gelbe Seiten und Yelp die relevantesten Verzeichnisse.",
-    fullDescription: "Branchenverzeichnisse sind Online-Plattformen, auf denen Unternehmen ihre Kontaktdaten und Informationen eintragen können. Sie sind eine wichtige Quelle für Citations und stärken die lokale SEO. In Deutschland sind Das Örtliche, Gelbe Seiten, Yelp und branchenspezifische Portale besonders relevant.",
+    shortDescription: "Ein Branchenverzeichnis ist eine Online-Plattform, in der Unternehmen ihre Kontaktdaten, Öffnungszeiten und Leistungen eintragen.",
+    snippetDefinition: "Ein Branchenverzeichnis ist eine Online-Plattform, auf der Unternehmen ihre Kontaktdaten, Öffnungszeiten und Leistungen eintragen können. Einträge sind eine Quelle für Citations, also Nennungen mit Name, Adresse und Telefonnummer. In Deutschland gibt es unter anderem Das Örtliche, Gelbe Seiten und branchenspezifische Portale. Wichtig sind korrekte, einheitliche Angaben.",
+    fullDescription: "Branchenverzeichnisse sind Online-Plattformen, auf denen Unternehmen ihre Kontaktdaten und Informationen eintragen können. Sie sind eine Quelle für Citations. In Deutschland gibt es unter anderem Das Örtliche, Gelbe Seiten und branchenspezifische Portale. Entscheidend ist, dass die Angaben stimmen und überall gleich lauten.",
     features: [
       "Strukturierte Unternehmenseinträge",
       "NAP-Daten konsistent halten",
       "Branchenspezifische Verzeichnisse",
       "Regionale Verzeichnisse"
     ],
-    statistics: [
-      { label: "Wichtige Verzeichnisse DE", value: "50+", icon: "search" },
-      { label: "Citation-Einfluss auf Ranking", value: "13%", icon: "percent" },
-      { label: "Unternehmen mit Einträgen", value: "68%", icon: "users" }
-    ],
     benefits: [
-      "Stärkere lokale Präsenz",
-      "Mehr Citations aufbauen",
-      "Bessere lokale Rankings",
-      "Zusätzliche Traffic-Quellen"
+      "Zusätzliche Fundstellen für Kunden",
+      "Einheitliche Angaben im Web",
+      "Mehr Citations",
+      "Zusätzliche Besucherquellen"
     ],
     relatedTerms: ["Citations", "NAP", "Local SEO", "Google Business Profile"],
     difficulty: "anfänger",
@@ -288,24 +248,19 @@ export const seoLexikonData: SEOTerm[] = [
     letter: "C",
     term: "Citations",
     shortDescription: "Citations sind Online-Erwähnungen eines Unternehmens mit Name, Adresse und Telefonnummer (NAP-Daten).",
-    snippetDefinition: "Citations sind Online-Erwähnungen eines Unternehmens, die Name, Adresse und Telefonnummer (NAP-Daten) enthalten. Sie erscheinen auf Branchenverzeichnissen, Social-Media-Profilen und Bewertungsportalen. Konsistente Citations sind entscheidend für das lokale Google-Maps-Ranking und machen etwa 13 % der Local-Pack-Ranking-Faktoren aus.",
-    fullDescription: "Citations sind Online-Erwähnungen deines Unternehmens, die Name, Adresse und Telefonnummer (NAP) enthalten. Sie können auf Branchenverzeichnissen, Social-Media-Profilen, Bewertungsportalen oder lokalen Websites erscheinen. Konsistente Citations sind entscheidend für das lokale Ranking in Google Maps.",
+    snippetDefinition: "Citations sind Online-Erwähnungen eines Unternehmens, die Name, Adresse und Telefonnummer (NAP-Daten) enthalten. Sie erscheinen auf Branchenverzeichnissen, Social-Media-Profilen und Bewertungsportalen. Laut Googles Hilfe fließen Informationen aus dem Web, etwa Links, Artikel und Verzeichniseinträge, in die Bekanntheit eines Unternehmens ein. Wichtig ist, dass die Angaben überall übereinstimmen.",
+    fullDescription: "Citations sind Online-Erwähnungen deines Unternehmens, die Name, Adresse und Telefonnummer (NAP) enthalten. Sie können auf Branchenverzeichnissen, Social-Media-Profilen, Bewertungsportalen oder lokalen Websites erscheinen. Einheitliche Angaben vermeiden Verwechslungen. Eine feste Gewichtung für das lokale Ranking nennt Google nicht.",
     features: [
       "Strukturierte Citations (Verzeichnisse)",
       "Unstrukturierte Citations (Erwähnungen)",
-      "NAP-Konsistenz ist entscheidend",
+      "Einheitliche NAP-Angaben",
       "Branchenspezifische Verzeichnisse"
     ],
-    statistics: [
-      { label: "Einfluss auf Local Pack", value: "13%", icon: "percent" },
-      { label: "Wichtige Verzeichnisse DE", value: "50+", icon: "search" },
-      { label: "NAP-Fehlerrate", value: "73%", icon: "chart" }
-    ],
     benefits: [
-      "Stärkere lokale Präsenz aufbauen",
-      "Vertrauen bei Google schaffen",
-      "Mehr Sichtbarkeit in lokalen Suchergebnissen",
-      "Konsistente Unternehmensdaten im Web"
+      "Einheitliche Unternehmensdaten im Web",
+      "Weniger Verwechslungen bei Kunden",
+      "Zusätzliche Fundstellen",
+      "Stützt die Bekanntheit im Web"
     ],
     relatedTerms: ["NAP", "Branchenverzeichnis", "Google Business Profile", "Local SEO"],
     difficulty: "anfänger",
@@ -325,25 +280,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "C",
     term: "Canonical URL",
-    shortDescription: "Eine Canonical URL ist die bevorzugte URL-Version einer Seite, die Duplicate-Content-Probleme verhindert.",
-    snippetDefinition: "Eine Canonical URL ist ein HTML-Tag (rel='canonical'), das Suchmaschinen die bevorzugte Version einer Seite anzeigt, wenn derselbe Inhalt unter mehreren URLs erreichbar ist. Dies verhindert Duplicate-Content-Probleme und konzentriert den PageRank auf eine einzige URL. Rund 30 % aller Websites haben fehlerhafte Canonical-Tags.",
-    fullDescription: "Eine Canonical URL gibt an, welche Version einer Seite die 'Hauptversion' ist. Dies verhindert Duplicate Content-Probleme, wenn derselbe Inhalt unter verschiedenen URLs erreichbar ist (z.B. mit/ohne www, mit Parametern). Das canonical-Tag im HTML-Header zeigt Suchmaschinen die bevorzugte URL.",
+    shortDescription: "Eine Canonical URL ist die bevorzugte URL-Version einer Seite, wenn derselbe Inhalt unter mehreren Adressen erreichbar ist.",
+    snippetDefinition: "Eine Canonical URL ist die Adresse, die Google als Hauptversion einer Seite verwenden soll, wenn derselbe Inhalt unter mehreren URLs erreichbar ist. Man gibt sie per rel='canonical' im HTML an. Das ist ein Hinweis, keine Anweisung: Google kann eine andere Version wählen. Es bündelt Signale auf eine Adresse und vermeidet doppelte Treffer.",
+    fullDescription: "Eine Canonical URL gibt an, welche Version einer Seite die Hauptversion ist, zum Beispiel bei Aufrufen mit und ohne www oder mit Parametern. Das canonical-Tag im HTML-Head ist ein Hinweis für Suchmaschinen, keine verbindliche Anweisung.",
     features: [
       "rel='canonical' HTML-Tag",
-      "Selbstreferenzierende Canonicals empfohlen",
+      "Selbstreferenzierende Canonicals sind üblich",
       "Cross-Domain Canonicals möglich",
-      "Hilft bei URL-Parameter-Problemen"
-    ],
-    statistics: [
-      { label: "Websites mit Canonical-Fehlern", value: "30%", icon: "percent" },
-      { label: "Duplicate Content vermeiden", value: "100%", icon: "chart" },
-      { label: "Von Google bestätigt", value: "Ja", icon: "trending" }
+      "Hilft bei URL-Parametern"
     ],
     benefits: [
-      "Duplicate Content eliminieren",
-      "PageRank auf eine URL konzentrieren",
-      "Crawl-Budget optimieren",
-      "Klare Signale an Suchmaschinen"
+      "Klare Hauptversion einer Seite",
+      "Signale auf eine URL bündeln",
+      "Weniger doppelte Treffer",
+      "Klare Hinweise an Suchmaschinen"
     ],
     relatedTerms: ["Duplicate Content", "URL-Struktur", "Technical SEO", "Crawling"],
     difficulty: "fortgeschritten",
@@ -363,24 +313,19 @@ export const seoLexikonData: SEOTerm[] = [
     letter: "C",
     term: "Content-Strategie",
     shortDescription: "Eine Content-Strategie ist die systematische Planung und Erstellung von Inhalten zur Erreichung von SEO- und Geschäftszielen.",
-    snippetDefinition: "Eine Content-Strategie ist ein systematischer Plan, der festlegt, welche Inhalte für welche Zielgruppen erstellt werden, um bestimmte SEO- und Geschäftsziele zu erreichen. Für lokale Unternehmen umfasst dies die Erstellung von Stadtteil-Seiten, lokalen Guides und Branchenwissen. Unternehmen mit dokumentierter Content-Strategie erzielen einen bis zu 3-fach höheren ROI.",
-    fullDescription: "Eine Content-Strategie definiert, welche Inhalte für welche Zielgruppen erstellt werden, um bestimmte Geschäfts- und SEO-Ziele zu erreichen. Für lokale Unternehmen bedeutet dies die Erstellung von lokalem Content wie Stadtteil-Seiten, lokalen Guides und Branchenwissen.",
+    snippetDefinition: "Eine Content-Strategie ist ein Plan, der festlegt, welche Inhalte für welche Zielgruppen erstellt werden, um bestimmte Geschäfts- und SEO-Ziele zu erreichen. Für lokale Unternehmen kann das bedeuten: Inhalte zu echten Kundenfragen, zu den eigenen Leistungen und zu den Orten, an denen man tatsächlich arbeitet.",
+    fullDescription: "Eine Content-Strategie definiert, welche Inhalte für welche Zielgruppen erstellt werden, um bestimmte Geschäfts- und SEO-Ziele zu erreichen. Für lokale Unternehmen bedeutet das: Fragen echter Kunden beantworten, Leistungen verständlich erklären und nur über Orte schreiben, an denen das Unternehmen wirklich tätig ist.",
     features: [
-      "Content-Audit und Gap-Analyse",
-      "Keyword-gesteuerte Themenplanung",
+      "Content-Audit und Lückenanalyse",
+      "Themenplanung nach Kundenfragen",
       "Content-Formate definieren",
       "Redaktionskalender erstellen"
     ],
-    statistics: [
-      { label: "Unternehmen mit Strategie", value: "40%", icon: "percent" },
-      { label: "ROI mit Content-Marketing", value: "3x", icon: "trending" },
-      { label: "Traffic-Steigerung", value: "+55%", icon: "chart" }
-    ],
     benefits: [
-      "Zielgerichtete Content-Erstellung",
-      "Bessere Keyword-Abdeckung",
-      "Konsistente Veröffentlichung",
-      "Höherer ROI für Content"
+      "Zielgerichtete Inhalte",
+      "Bessere Abdeckung der Kundenfragen",
+      "Regelmäßige Veröffentlichung",
+      "Klare Prioritäten"
     ],
     relatedTerms: ["Keywords", "Search Intent", "On-Page SEO", "Local SEO"],
     difficulty: "fortgeschritten",
@@ -400,25 +345,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "C",
     term: "Conversion Rate",
-    shortDescription: "Die Conversion Rate ist der Prozentsatz der Website-Besucher, die eine gewünschte Aktion wie Kauf oder Kontaktaufnahme ausführen.",
-    snippetDefinition: "Die Conversion Rate ist eine Kennzahl, die angibt, wie viel Prozent der Website-Besucher eine gewünschte Aktion ausführen – etwa ein Formular ausfüllen, anrufen oder einen Kauf tätigen. Der Durchschnitt liegt bei 2–5 %, lokale Landing Pages erreichen 5–10 %. Die Optimierung der Conversion Rate ist entscheidend, um aus Besuchern zahlende Kunden zu machen.",
-    fullDescription: "Die Conversion Rate gibt an, wie viel Prozent der Website-Besucher eine bestimmte Aktion durchführen - z.B. ein Formular ausfüllen, anrufen oder kaufen. Für lokale Unternehmen ist die Optimierung der Conversion Rate entscheidend, um aus Website-Besuchern zahlende Kunden zu machen.",
+    shortDescription: "Die Conversion Rate ist der Anteil der Website-Besucher, die eine gewünschte Aktion wie Kauf oder Kontaktaufnahme ausführen.",
+    snippetDefinition: "Die Conversion Rate ist eine Kennzahl, die angibt, wie viel Prozent der Website-Besucher eine gewünschte Aktion ausführen, etwa ein Formular ausfüllen, anrufen oder kaufen. Welche Rate gut ist, hängt von Branche, Angebot und Besucherquelle ab; allgemeine Durchschnittswerte taugen kaum als Maßstab. Sinnvoll ist der Vergleich mit der eigenen Entwicklung.",
+    fullDescription: "Die Conversion Rate gibt an, wie viel Prozent der Website-Besucher eine bestimmte Aktion durchführen, zum Beispiel ein Formular ausfüllen, anrufen oder kaufen. Für lokale Unternehmen zählt vor allem, wie viele Besucher tatsächlich Kontakt aufnehmen. Vergleichen Sie die Rate mit Ihrem eigenen Verlauf, nicht mit Branchendurchschnitten.",
     features: [
       "Verschiedene Conversion-Typen",
       "Micro- vs. Macro-Conversions",
-      "A/B-Testing zur Optimierung",
+      "A/B-Tests zur Optimierung",
       "Tracking in Analytics"
     ],
-    statistics: [
-      { label: "Durchschnittliche CR", value: "2-5%", icon: "percent" },
-      { label: "Lokale Landing Pages", value: "5-10%", icon: "trending" },
-      { label: "Mobile vs. Desktop", value: "-30%", icon: "chart" }
-    ],
     benefits: [
-      "Mehr Kunden bei gleichem Traffic",
-      "Besserer ROI für Marketing",
+      "Mehr Anfragen bei gleichem Besucheraufkommen",
+      "Marketingausgaben besser einordnen",
       "Datenbasierte Optimierung",
-      "Höhere Profitabilität"
+      "Schwachstellen im Ablauf erkennen"
     ],
     relatedTerms: ["CTR", "User Experience", "Bounce Rate", "Local SEO"],
     difficulty: "fortgeschritten",
@@ -431,25 +371,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "C",
     term: "Core Web Vitals",
-    shortDescription: "Core Web Vitals sind drei Google-Metriken (LCP, INP, CLS), die die Nutzererfahrung einer Website messen.",
-    snippetDefinition: "Core Web Vitals sind drei von Google definierte Metriken zur Messung der Nutzererfahrung: LCP (Largest Contentful Paint) misst die Ladezeit, INP (Interaction to Next Paint) die Reaktionsgeschwindigkeit und CLS (Cumulative Layout Shift) die visuelle Stabilität. Seit 2021 sind sie ein bestätigter Ranking-Faktor – nur 33 % aller Websites bestehen alle drei Werte.",
-    fullDescription: "Core Web Vitals sind drei spezifische Metriken, die Google zur Messung der Nutzererfahrung verwendet: LCP (Largest Contentful Paint), INP (Interaction to Next Paint) und CLS (Cumulative Layout Shift). Sie sind seit 2021 ein bestätigter Ranking-Faktor.",
+    shortDescription: "Core Web Vitals sind drei Google-Metriken (LCP, INP, CLS), die Ladegeschwindigkeit, Reaktionsfähigkeit und visuelle Stabilität einer Seite messen.",
+    snippetDefinition: "Core Web Vitals sind drei von Google definierte Metriken zur Nutzererfahrung: LCP (Largest Contentful Paint) misst die Ladezeit des größten Elements, INP (Interaction to Next Paint) die Reaktion auf Eingaben und CLS (Cumulative Layout Shift) die visuelle Stabilität. Laut Google nutzen die Ranking-Systeme der Websuche sie; gute Werte garantieren aber keine Top-Position, die Relevanz geht vor.",
+    fullDescription: "Core Web Vitals sind drei Metriken, die Google zur Messung der Nutzererfahrung verwendet: LCP, INP und CLS. Google nennt als Richtwerte für eine gute Nutzererfahrung: LCP innerhalb von 2,5 Sekunden, INP unter 200 Millisekunden und CLS unter 0,1. Laut Google werden sie von den Ranking-Systemen der Websuche genutzt, ersetzen aber nicht die Relevanz des Inhalts.",
     features: [
-      "LCP: Ladezeit des größten Elements (<2.5s)",
-      "INP: Reaktionszeit auf Interaktion (<200ms)",
-      "CLS: Visuelle Stabilität (<0.1)",
+      "LCP: Ladezeit des größten Elements (Richtwert: innerhalb von 2,5 Sekunden)",
+      "INP: Reaktion auf Eingaben (Richtwert: unter 200 Millisekunden)",
+      "CLS: Visuelle Stabilität (Richtwert: unter 0,1)",
       "Messbar in Search Console und PageSpeed Insights"
     ],
-    statistics: [
-      { label: "Seiten die alle CWV bestehen", value: "33%", icon: "percent" },
-      { label: "Mobile schlechter als Desktop", value: "2x", icon: "chart" },
-      { label: "Ranking-Einfluss", value: "Moderat", icon: "trending" }
-    ],
     benefits: [
-      "Direkter Ranking-Faktor bei Google",
-      "Bessere User Experience",
-      "Höhere Conversion-Rates",
-      "Professioneller Website-Auftritt"
+      "Schnelle, stabile Seiten für Nutzer",
+      "Von Googles Ranking-Systemen genutzt, aber ohne Garantie",
+      "Weniger Abbrüche durch Ladeprobleme",
+      "Messbare Technikziele"
     ],
     relatedTerms: ["PageSpeed", "User Experience", "Technical SEO", "Mobile First Index"],
     difficulty: "fortgeschritten",
@@ -469,23 +404,18 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "C",
     term: "Crawling",
-    shortDescription: "Crawling ist der Prozess, bei dem Suchmaschinen-Bots wie Googlebot Websites systematisch durchsuchen und deren Inhalte lesen.",
-    snippetDefinition: "Crawling ist der automatisierte Vorgang, bei dem Suchmaschinen-Bots (wie Googlebot) Websites besuchen, deren Inhalte lesen und Links folgen, um neue oder aktualisierte Seiten zu entdecken. Crawling ist die Voraussetzung für die Indexierung – nur gecrawlte Seiten können in den Google-Suchergebnissen erscheinen. Die Crawl-Frequenz variiert zwischen 1 und 30 Tagen.",
-    fullDescription: "Crawling ist der Vorgang, bei dem Suchmaschinen-Bots (wie Googlebot) Websites besuchen und deren Inhalte lesen. Der Crawler folgt Links, um neue und aktualisierte Seiten zu entdecken. Ein effizientes Crawling ist die Voraussetzung für eine erfolgreiche Indexierung.",
+    shortDescription: "Crawling ist der Prozess, bei dem Suchmaschinen-Bots wie Googlebot Websites besuchen, deren Inhalte lesen und Links folgen.",
+    snippetDefinition: "Crawling ist der automatisierte Vorgang, bei dem Suchmaschinen-Bots wie der Googlebot Websites aufrufen, Inhalte lesen und Links folgen, um neue oder geänderte Seiten zu entdecken. Damit eine Seite in den Suchergebnissen erscheinen kann, muss Google sie kennen und in der Regel auch abrufen können. Wie oft eine Seite besucht wird, hängt von der Website ab und lässt sich nicht pauschal angeben.",
+    fullDescription: "Crawling ist der Vorgang, bei dem Suchmaschinen-Bots wie Googlebot Websites besuchen und deren Inhalte lesen. Der Crawler folgt Links, um neue und geänderte Seiten zu entdecken. Wird eine Seite blockiert oder ist sie nicht erreichbar, kann Google ihren Inhalt nicht auswerten.",
     features: [
-      "Googlebot besucht regelmäßig Websites",
-      "Crawl-Budget pro Website begrenzt",
-      "Steuerung via robots.txt möglich",
-      "Sitemap beschleunigt Entdeckung"
-    ],
-    statistics: [
-      { label: "Googlebot crawlt täglich", value: "Mrd. Seiten", icon: "search" },
-      { label: "Durchschnittliche Crawl-Frequenz", value: "1-30 Tage", icon: "clock" },
-      { label: "Neue Seiten entdeckt", value: "Via Links", icon: "trending" }
+      "Googlebot besucht Websites automatisch",
+      "Crawl-Budget betrifft vor allem sehr große Websites",
+      "Steuerung über robots.txt möglich",
+      "Sitemap hilft beim Entdecken von Seiten"
     ],
     benefits: [
-      "Voraussetzung für Indexierung",
-      "Aktuelle Inhalte werden erkannt",
+      "Grundlage dafür, dass Inhalte gefunden werden",
+      "Änderungen können erkannt werden",
       "Strukturprobleme aufdecken",
       "SEO-Grundlagen verstehen"
     ],
@@ -501,24 +431,19 @@ export const seoLexikonData: SEOTerm[] = [
     letter: "C",
     term: "CTR",
     shortDescription: "Die CTR (Click-Through-Rate) ist das Verhältnis von Klicks zu Impressionen in den Suchergebnissen.",
-    snippetDefinition: "Die Click-Through-Rate (CTR) ist eine Kennzahl, die zeigt, wie oft Nutzer auf ein Suchergebnis klicken im Verhältnis zu den angezeigten Impressionen. Position 1 bei Google erreicht durchschnittlich eine CTR von 27,6 %, Position 10 nur noch 2,4 %. Title Tags und Meta Descriptions sind die wichtigsten Hebel zur CTR-Optimierung.",
-    fullDescription: "Die Click-Through-Rate (CTR) zeigt, wie oft Nutzer auf ein Suchergebnis klicken im Verhältnis zu den Impressionen. Eine hohe CTR signalisiert Google, dass dein Ergebnis relevant ist. Title Tags und Meta Descriptions sind entscheidend für eine gute CTR.",
+    snippetDefinition: "Die Click-Through-Rate (CTR) ist eine Kennzahl, die zeigt, wie oft Nutzer auf ein Suchergebnis klicken, im Verhältnis zu den angezeigten Impressionen. Sie hängt stark von Position, Suchanfrage und weiteren Elementen der Ergebnisseite ab. Titel und Beschreibung, die zur Suchanfrage passen, helfen, aber allgemeine Durchschnittswerte pro Position taugen kaum als Maßstab.",
+    fullDescription: "Die Click-Through-Rate (CTR) zeigt, wie oft Nutzer auf ein Suchergebnis klicken, im Verhältnis zu den Impressionen. Sie lässt sich in der Google Search Console je Seite und Suchanfrage ablesen. Sie hängt von Position, Suchanfrage und weiteren Elementen der Ergebnisseite ab. Ein passender Titel und eine sachliche Beschreibung sind die wichtigsten eigenen Stellschrauben.",
     features: [
-      "Gemessen in Google Search Console",
-      "Abhängig von Position und SERP-Features",
-      "Beeinflusst durch Title und Description",
-      "Branchenspezifische Benchmarks"
-    ],
-    statistics: [
-      { label: "Position 1 CTR", value: "27.6%", icon: "percent" },
-      { label: "Position 2 CTR", value: "15.8%", icon: "chart" },
-      { label: "Position 10 CTR", value: "2.4%", icon: "trending" }
+      "Gemessen in der Google Search Console",
+      "Abhängig von Position und weiteren Elementen der Ergebnisseite",
+      "Beeinflusst durch Titel und Beschreibung",
+      "Starke Schwankung je nach Suchanfrage"
     ],
     benefits: [
-      "Ranking-Signal für Google",
-      "Mehr Traffic bei gleichem Ranking",
-      "Content-Qualität messen",
-      "Optimierungspotenzial erkennen"
+      "Mehr Besucher bei gleicher Position",
+      "Passung von Titel und Suchanfrage prüfen",
+      "Optimierungspotenzial erkennen",
+      "Verlauf über die Zeit beobachten"
     ],
     relatedTerms: ["Title Tag", "Meta-Tags", "SERP", "Conversion Rate"],
     difficulty: "anfänger",
@@ -529,7 +454,7 @@ export const seoLexikonData: SEOTerm[] = [
     ],
     bestPracticeExample: {
       title: "Backlinko: CTR Study 2024",
-      description: "Aktuelle Studie zu organischen CTRs nach Position mit Optimierungstipps.",
+      description: "Studie eines SEO-Anbieters zu organischen Klickraten nach Position (Drittquelle, nicht von Google).",
       url: "https://backlinko.com/google-ctr-stats",
       source: "Backlinko"
     }
@@ -538,25 +463,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "D",
     term: "Domain Authority",
-    shortDescription: "Domain Authority (DA) ist eine von Moz entwickelte Metrik auf einer Skala von 1–100, die die SEO-Stärke einer Website bewertet.",
-    snippetDefinition: "Domain Authority (DA) ist eine von Moz entwickelte SEO-Metrik, die auf einer Skala von 1 bis 100 die Wahrscheinlichkeit vorhersagt, dass eine Website in Suchmaschinen gut rankt. Der Wert basiert hauptsächlich auf dem Backlink-Profil einer Domain. Obwohl DA kein direkter Google-Ranking-Faktor ist, nutzen SEO-Experten ihn als Benchmark für die relative Stärke einer Website.",
-    fullDescription: "Domain Authority (DA) ist eine von Moz entwickelte Metrik, die auf einer Skala von 1-100 die Wahrscheinlichkeit vorhersagt, dass eine Website in Suchmaschinen rankt. Sie basiert auf Faktoren wie Backlink-Profil, Alter der Domain und Gesamtqualität. Obwohl kein direkter Google-Ranking-Faktor, ist DA ein guter Indikator für SEO-Stärke.",
+    shortDescription: "Domain Authority (DA) ist eine von Moz entwickelte Kennzahl auf einer Skala von 1 bis 100, die die Stärke einer Website einschätzen soll.",
+    snippetDefinition: "Domain Authority (DA) ist eine von Moz entwickelte Kennzahl auf einer Skala von 1 bis 100. Sie soll schätzen, wie gut eine Website in Suchergebnissen abschneidet, und wird vor allem aus Link-Daten berechnet. Es ist keine Kennzahl von Google. Wer sie nutzt, sollte sie nur als grobe Vergleichsgröße zwischen Websites verstehen.",
+    fullDescription: "Domain Authority (DA) ist eine von Moz entwickelte Kennzahl auf einer Skala von 1 bis 100. Sie wird aus Link-Daten berechnet und soll die Stärke einer Website einschätzen. Sie stammt nicht von Google. SEO-Fachleute nutzen sie als grobe Vergleichsgröße, etwa um Linkquellen zu vergleichen.",
     features: [
-      "Skala von 1-100",
-      "Basiert auf Backlink-Analyse",
-      "Vergleichbar mit Wettbewerbern",
-      "Entwickelt von Moz"
-    ],
-    statistics: [
-      { label: "Top 10 Durchschnitt", value: "DA 40+", icon: "chart" },
-      { label: "Neue Websites starten bei", value: "DA 1", icon: "trending" },
-      { label: "Jährlicher Anstieg möglich", value: "5-15", icon: "percent" }
+      "Skala von 1 bis 100",
+      "Berechnet aus Link-Daten von Moz",
+      "Vergleich mit Wettbewerbern",
+      "Entwickelt von Moz, nicht von Google"
     ],
     benefits: [
-      "Benchmark für Website-Stärke",
-      "Vergleich mit Wettbewerbern",
-      "Tracking des SEO-Fortschritts",
-      "Bewertung potenzieller Backlink-Quellen"
+      "Grober Vergleich von Websites",
+      "Einordnung potenzieller Linkquellen",
+      "Verlauf über die Zeit beobachten",
+      "Nur als Orientierung, nicht als Ziel"
     ],
     relatedTerms: ["Backlinks", "Link Building", "Off-Page SEO"],
     difficulty: "fortgeschritten",
@@ -570,24 +490,19 @@ export const seoLexikonData: SEOTerm[] = [
     letter: "D",
     term: "Duplicate Content",
     shortDescription: "Duplicate Content ist identischer oder nahezu identischer Inhalt, der unter mehreren URLs erreichbar ist.",
-    snippetDefinition: "Duplicate Content bezeichnet identische oder nahezu identische Inhalte, die unter verschiedenen URLs auffindbar sind. Dies kann durch technische Probleme wie URL-Parameter oder www/non-www-Varianten entstehen. Google wählt bei Duplicate Content eine Hauptversion für das Ranking – die übrigen Versionen verlieren an Sichtbarkeit. Canonical Tags sind die wichtigste Lösung.",
-    fullDescription: "Duplicate Content bezeichnet identische oder nahezu identische Inhalte, die unter verschiedenen URLs auffindbar sind. Dies kann durch technische Probleme (URL-Parameter, www/non-www) oder absichtliche Kopien entstehen. Google wertet Duplicate Content ab und wählt eine Version für das Ranking.",
+    snippetDefinition: "Duplicate Content bezeichnet identische oder sehr ähnliche Inhalte, die unter verschiedenen URLs erreichbar sind. Ursachen sind oft technisch, etwa URL-Parameter oder www/non-www-Varianten. Google fasst solche Seiten zusammen und zeigt in der Regel eine Version. Eine pauschale Strafe gibt es dafür nicht, solange keine Täuschungsabsicht vorliegt. Canonical-Tags helfen, die Hauptversion festzulegen.",
+    fullDescription: "Duplicate Content bezeichnet identische oder sehr ähnliche Inhalte, die unter verschiedenen URLs auffindbar sind. Das entsteht oft technisch (URL-Parameter, www/non-www) oder durch kopierte Texte. Google wählt in der Regel eine Version zur Anzeige. Ein Eingriff gegen die Website erfolgt nach Googles Dokumentation nur bei Täuschungsabsicht.",
     features: [
       "Interne vs. externe Duplikate",
-      "Canonical Tags als Lösung",
-      "Erkennung via Screaming Frog",
-      "Kein direkter Penalty, aber Rankingverlust"
-    ],
-    statistics: [
-      { label: "Websites mit Duplicate Content", value: "29%", icon: "percent" },
-      { label: "Ranking-Einfluss", value: "Negativ", icon: "trending" },
-      { label: "Crawl-Budget-Verschwendung", value: "Hoch", icon: "chart" }
+      "Canonical-Tags zur Festlegung der Hauptversion",
+      "Erkennung mit Crawler-Tools",
+      "Google wählt in der Regel eine Version aus"
     ],
     benefits: [
       "Probleme erkennen und beheben",
-      "PageRank nicht verwässern",
-      "Crawl-Budget optimieren",
-      "Klare Signale an Google senden"
+      "Klare Hauptversion festlegen",
+      "Signale bündeln",
+      "Klare Hinweise an Google"
     ],
     relatedTerms: ["Canonical URL", "Robots.txt", "Technical SEO", "Indexierung"],
     difficulty: "fortgeschritten",
@@ -600,25 +515,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "D",
     term: "Dwell Time",
-    shortDescription: "Dwell Time ist die Verweildauer, die ein Nutzer auf einer Seite verbringt, nachdem er von den Suchergebnissen geklickt hat.",
-    snippetDefinition: "Dwell Time ist die Zeitspanne zwischen dem Klick auf ein Suchergebnis und der Rückkehr des Nutzers zu den Google-Suchergebnissen. Eine längere Dwell Time von über 3 Minuten signalisiert Google, dass der Inhalt relevant und wertvoll ist. Im Gegensatz zur allgemeinen Verweildauer misst Dwell Time speziell das Nutzerverhalten im Kontext der Suche.",
-    fullDescription: "Dwell Time ist die Zeit, die ein Nutzer auf einer Website verbringt, nachdem er von den Suchergebnissen geklickt hat, bis er wieder zu Google zurückkehrt. Eine längere Dwell Time signalisiert Google, dass der Inhalt relevant und wertvoll ist. Sie unterscheidet sich von der allgemeinen Verweildauer.",
+    shortDescription: "Dwell Time ist die Zeit zwischen dem Klick auf ein Suchergebnis und der Rückkehr zu den Suchergebnissen.",
+    snippetDefinition: "Dwell Time beschreibt die Zeitspanne zwischen dem Klick auf ein Suchergebnis und der Rückkehr des Nutzers zu den Suchergebnissen. Als Website-Betreiber können Sie sie nicht direkt messen. Ob und wie Google solche Nutzersignale für das Ranking verwendet, ist nicht belegt. Sie ist etwas anderes als die Engagement-Zeit in Analytics-Tools.",
+    fullDescription: "Dwell Time ist die Zeit, die vergeht, bis ein Nutzer nach dem Klick auf ein Suchergebnis zu Google zurückkehrt. Sie lässt sich von außen nicht messen und ist nicht mit der Verweildauer oder Engagement-Zeit in Analytics gleichzusetzen. Dass Google sie als Ranking-Signal verwendet, ist nicht belegt.",
     features: [
-      "Zeit zwischen Klick und Zurück zu SERP",
-      "Qualitätssignal für Google",
-      "Korreliert mit Content-Qualität",
-      "Nicht direkt messbar für Websitebetreiber"
-    ],
-    statistics: [
-      { label: "Gute Dwell Time", value: ">3 Minuten", icon: "clock" },
-      { label: "Korrelation mit Rankings", value: "Stark", icon: "trending" },
-      { label: "Video-Content Dwell Time", value: "+80%", icon: "chart" }
+      "Zeit zwischen Klick und Rückkehr zu den Suchergebnissen",
+      "Für Website-Betreiber nicht direkt messbar",
+      "Nicht identisch mit Verweildauer in Analytics",
+      "Nutzung durch Google nicht belegt"
     ],
     benefits: [
-      "Indikator für Content-Qualität",
-      "Indirektes Ranking-Signal",
-      "Nutzer-Engagement verstehen",
-      "Content-Optimierung priorisieren"
+      "Begriff einordnen können",
+      "Nicht auf unbelegte Signale optimieren",
+      "Nutzerverhalten besser verstehen",
+      "Stattdessen echte Antworten auf Suchfragen liefern"
     ],
     relatedTerms: ["Bounce Rate", "User Experience", "Search Intent", "CTR"],
     difficulty: "fortgeschritten",
@@ -631,25 +541,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "E",
     term: "E-E-A-T",
-    shortDescription: "E-E-A-T steht für Experience, Expertise, Authoritativeness und Trustworthiness – Googles zentrale Qualitätskriterien für Webinhalte.",
-    snippetDefinition: "E-E-A-T steht für Experience (Erfahrung), Expertise, Authoritativeness (Autorität) und Trustworthiness (Vertrauenswürdigkeit). Diese vier Kriterien verwendet Google zur Bewertung der Inhaltsqualität, insbesondere bei YMYL-Themen wie Gesundheit und Finanzen. Für lokale Unternehmen bedeutet E-E-A-T, echte Fachkompetenz nachzuweisen und durch Bewertungen, Zertifikate und transparente Informationen Vertrauen aufzubauen.",
-    fullDescription: "E-E-A-T steht für Experience (Erfahrung), Expertise, Authoritativeness (Autorität) und Trustworthiness (Vertrauenswürdigkeit). Diese Kriterien verwendet Google zur Bewertung der Inhaltsqualität, besonders bei YMYL-Themen (Your Money Your Life). Für lokale Unternehmen bedeutet dies: echte Expertise zeigen und Vertrauen aufbauen.",
+    shortDescription: "E-E-A-T steht für Experience, Expertise, Authoritativeness und Trustworthiness, den Rahmen, mit dem Googles Qualitätsprüfer Inhalte beurteilen.",
+    snippetDefinition: "E-E-A-T steht für Experience (Erfahrung), Expertise, Authoritativeness (Autorität) und Trustworthiness (Vertrauenswürdigkeit). Es ist ein Rahmen aus den Search Quality Rater Guidelines, mit dem Menschen die Qualität von Inhalten beurteilen. Laut Google ist E-E-A-T selbst kein spezifischer Ranking-Faktor. Besonders hoch sind die Anforderungen bei Themen rund um Gesundheit, Finanzen und Sicherheit (YMYL).",
+    fullDescription: "E-E-A-T steht für Experience (Erfahrung), Expertise, Authoritativeness (Autorität) und Trustworthiness (Vertrauenswürdigkeit). Der Rahmen stammt aus den Quality Rater Guidelines. Laut Google ist E-E-A-T selbst kein spezifischer Ranking-Faktor. Für lokale Unternehmen heißt das: echte Erfahrung zeigen, Angaben belegen und transparent sein, wer hinter dem Angebot steht.",
     features: [
-      "Experience: Praktische Erfahrung nachweisen",
-      "Expertise: Fachwissen demonstrieren",
-      "Authority: Als Autorität etablieren",
-      "Trust: Vertrauen durch Transparenz"
-    ],
-    statistics: [
-      { label: "YMYL-Einfluss", value: "Sehr hoch", icon: "trending" },
-      { label: "Bewertungen wichtig für Trust", value: "88%", icon: "percent" },
-      { label: "Autoren-Profile", value: "+23%", icon: "chart" }
+      "Experience: Praktische Erfahrung zeigen",
+      "Expertise: Fachwissen nachvollziehbar machen",
+      "Authoritativeness: Anerkennung im Fachumfeld",
+      "Trust: Transparenz über Anbieter und Angaben"
     ],
     benefits: [
-      "Höhere Rankings bei kompetitiven Keywords",
+      "Verständnis für Googles Qualitätsmaßstäbe",
       "Mehr Vertrauen bei Nutzern",
-      "Bessere Conversion-Rates",
-      "Nachhaltige SEO-Strategie"
+      "Klare Angaben zu Anbieter und Autoren",
+      "Orientierung für Inhalte bei sensiblen Themen"
     ],
     relatedTerms: ["YMYL", "Quality Raters", "Reviews (Bewertungen)", "White Hat SEO", "Algorithmus-Update"],
     difficulty: "fortgeschritten",
@@ -671,25 +576,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "F",
     term: "Featured Snippet",
-    shortDescription: "Ein Featured Snippet ist eine hervorgehobene Antwortbox, die Google direkt über den organischen Suchergebnissen anzeigt.",
-    snippetDefinition: "Ein Featured Snippet ist eine spezielle Antwortbox, die Google auf Position 0 direkt über den organischen Suchergebnissen anzeigt. Es beantwortet die Suchanfrage in Form eines Textabsatzes, einer Liste oder Tabelle. Featured Snippets erscheinen bei etwa 12 % aller Suchanfragen und erzielen eine durchschnittliche Klickrate von 8,6 %.",
-    fullDescription: "Featured Snippets sind spezielle Suchergebnis-Boxen, die Google direkt über den organischen Ergebnissen anzeigt. Sie beantworten die Suchanfrage direkt und ziehen viel Aufmerksamkeit auf sich. Für lokale Unternehmen können Featured Snippets bei Fragen wie 'Bester Friseur in Berlin' erscheinen.",
+    shortDescription: "Ein Featured Snippet ist eine hervorgehobene Antwortbox, die Google über den übrigen Suchergebnissen anzeigen kann.",
+    snippetDefinition: "Ein Featured Snippet ist eine hervorgehobene Antwortbox, die Google in manchen Fällen über den übrigen Suchergebnissen anzeigt. Sie beantwortet die Frage als Textabsatz, Liste oder Tabelle und verweist auf die Quelle. Welche Seite Google hervorhebt, wählt Google automatisch; eine Garantie gibt es nicht. Klare, kurze Antworten auf eine konkrete Frage erhöhen die Chance, passend ausgewählt zu werden.",
+    fullDescription: "Featured Snippets sind hervorgehobene Antwortboxen, die Google bei manchen Suchanfragen über den übrigen Ergebnissen anzeigt. Sie beantworten die Frage direkt und verlinken die Quelle. Welche Seite hervorgehoben wird, entscheidet Google automatisch.",
     features: [
-      "Paragraph-Snippets (Textantworten)",
+      "Absatz-Snippets (Textantworten)",
       "Listen-Snippets (Aufzählungen)",
       "Tabellen-Snippets",
-      "Video-Snippets"
-    ],
-    statistics: [
-      { label: "Klickrate", value: "8.6%", icon: "percent" },
-      { label: "Aller Suchanfragen", value: "12%", icon: "search" },
-      { label: "Aus Top 10 Ergebnissen", value: "99%", icon: "chart" }
+      "Auswahl erfolgt automatisch durch Google"
     ],
     benefits: [
-      "Position 0 in den Suchergebnissen",
-      "Erhöhte Sichtbarkeit und Klickrate",
-      "Autorität und Expertise demonstrieren",
-      "Voice Search Optimierung"
+      "Hohe Sichtbarkeit, wenn Google die Seite auswählt",
+      "Klare Antworten für Nutzer",
+      "Zeigt Fachwissen zu konkreten Fragen",
+      "Anlass, Inhalte klar zu strukturieren"
     ],
     relatedTerms: ["SERP", "Voice Search", "Zero-Click Search", "Rich Snippets"],
     difficulty: "fortgeschritten",
@@ -709,25 +609,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "G",
     term: "Google Business Profile",
-    shortDescription: "Google Business Profile ist ein kostenloser Unternehmenseintrag bei Google, der für lokale Sichtbarkeit in Maps und der Suche sorgt.",
-    snippetDefinition: "Google Business Profile (ehemals Google My Business) ist ein kostenloser Unternehmenseintrag, der es Betrieben ermöglicht, in Google Maps und im Local Pack der Suchergebnisse zu erscheinen. Ein optimiertes Profil mit Fotos, Öffnungszeiten und Bewertungen ist mit 36 % Einfluss der wichtigste einzelne Ranking-Faktor für lokales SEO.",
-    fullDescription: "Google Business Profile (früher Google My Business) ist der wichtigste Faktor für lokales SEO. Es ermöglicht Unternehmen, in Google Maps und im Local Pack zu erscheinen. Ein optimiertes Profil mit Fotos, Öffnungszeiten, Bewertungen und Posts kann die lokale Sichtbarkeit dramatisch erhöhen.",
+    shortDescription: "Google Business Profile ist der kostenlose Unternehmenseintrag bei Google für Auftritte in Maps und in der Suche.",
+    snippetDefinition: "Google Business Profile (früher Google My Business) ist der kostenlose Unternehmenseintrag bei Google. Er ermöglicht Betrieben, in Google Maps und in lokalen Suchergebnissen mit Adresse, Öffnungszeiten, Fotos und Bewertungen zu erscheinen. Lokale Treffer sortiert Google nach Relevanz, Entfernung und Bekanntheit; eine Gewichtung veröffentlicht Google nicht.",
+    fullDescription: "Google Business Profile (früher Google My Business) ist der kostenlose Unternehmenseintrag bei Google. Er ermöglicht Betrieben, in Google Maps und in lokalen Suchergebnissen zu erscheinen. Ein vollständig und korrekt gepflegtes Profil mit Fotos, Öffnungszeiten, Leistungen und Bewertungen ist die Grundlage für lokale Sichtbarkeit. Lokale Treffer sortiert Google nach Relevanz, Entfernung und Bekanntheit.",
     features: [
       "Vollständige Unternehmensinformationen",
-      "Fotos und Videos hochladen",
+      "Fotos hochladen",
       "Kundenbewertungen verwalten",
-      "Google Posts erstellen"
-    ],
-    statistics: [
-      { label: "Local Pack Einfluss", value: "36%", icon: "percent" },
-      { label: "Klicks auf Unternehmen", value: "+70%", icon: "trending" },
-      { label: "Buchungen über GBP", value: "56%", icon: "users" }
+      "Beiträge (Posts) erstellen"
     ],
     benefits: [
-      "Kostenlose lokale Sichtbarkeit",
-      "Direkter Kundenkontakt",
-      "Bewertungsmanagement",
-      "Insights und Analytics"
+      "Kostenlos nutzbar",
+      "Direkter Kontakt zu Kunden",
+      "Bewertungen im Blick behalten",
+      "Leistungsdaten zum Profil"
     ],
     relatedTerms: ["Local Pack", "NAP", "Google Maps", "Reviews (Bewertungen)", "Local SEO"],
     difficulty: "anfänger",
@@ -748,22 +643,17 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "G",
     term: "Google Maps",
-    shortDescription: "Google Maps ist der weltweit meistgenutzte Kartendienst und eine Hauptquelle für lokale Suchanfragen von Unternehmen.",
-    snippetDefinition: "Google Maps ist der weltweit meistgenutzte Kartendienst mit über einer Milliarde monatlicher Nutzer und eine zentrale Plattform für lokale Suchanfragen. Unternehmen mit einem Google Business Profile erscheinen auf Google Maps mit Standort, Bewertungen und Kontaktdaten. 76 % der Nutzer, die auf Maps nach einem lokalen Unternehmen suchen, besuchen es innerhalb von 24 Stunden.",
-    fullDescription: "Google Maps ist der meistgenutzte Kartendienst weltweit und eine Hauptquelle für lokale Suchanfragen. Unternehmen mit einem Google Business Profile erscheinen auf Google Maps mit Standort, Bewertungen und Kontaktdaten. Die Optimierung für Google Maps ist ein Kernbestandteil des Local SEO.",
+    shortDescription: "Google Maps ist Googles Kartendienst, in dem Nutzer lokale Unternehmen suchen und Routen planen.",
+    snippetDefinition: "Google Maps ist Googles Kartendienst und eine wichtige Anlaufstelle für lokale Suchanfragen. Unternehmen mit einem Google Business Profile erscheinen dort mit Standort, Bewertungen und Kontaktdaten. Lokale Treffer sortiert Google nach Relevanz, Entfernung und Bekanntheit.",
+    fullDescription: "Google Maps ist Googles Kartendienst und eine Anlaufstelle für lokale Suchanfragen. Unternehmen mit einem Google Business Profile erscheinen auf Google Maps mit Standort, Bewertungen und Kontaktdaten. Die Pflege des Profils ist ein Kernbestandteil des Local SEO.",
     features: [
       "Karteneinbettung in Websites",
       "Wegbeschreibungen für Kunden",
       "Unternehmensfotos und Street View",
-      "Öffnungszeiten in Echtzeit"
-    ],
-    statistics: [
-      { label: "Google Maps Nutzer monatlich", value: "1+ Mrd", icon: "users" },
-      { label: "Lokale Suchen auf Maps", value: "46%", icon: "percent" },
-      { label: "Maps-Nutzer besuchen Geschäft", value: "76%", icon: "trending" }
+      "Öffnungszeiten und aktuelle Angaben"
     ],
     benefits: [
-      "Maximale lokale Sichtbarkeit",
+      "Sichtbar bei Suchen nach Orten in der Nähe",
       "Wegführung direkt zum Geschäft",
       "Kundenbewertungen sichtbar",
       "Fotos und Eindrücke zeigen"
@@ -786,25 +676,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "G",
     term: "Geo-Targeting",
-    shortDescription: "Geo-Targeting ist die Ausrichtung und Optimierung von Website-Inhalten auf bestimmte geografische Regionen oder Standorte.",
-    snippetDefinition: "Geo-Targeting bezeichnet die Optimierung und Ausrichtung von Website-Inhalten auf spezifische geografische Regionen oder Standorte. Für Local SEO bedeutet dies, separate Landing Pages für verschiedene Städte oder Stadtteile zu erstellen und mit standortspezifischen Keywords zu optimieren. 72 % der lokalen Suchanfragen führen zu einem Ladenbesuch im Umkreis.",
-    fullDescription: "Geo-Targeting bezeichnet die Optimierung und Ausrichtung von Inhalten auf spezifische geografische Regionen oder Standorte. Für Local SEO bedeutet dies, Inhalte für bestimmte Städte, Stadtteile oder Regionen zu erstellen und zu optimieren, um dort besser zu ranken.",
+    shortDescription: "Geo-Targeting ist die Ausrichtung von Website-Inhalten auf bestimmte geografische Regionen oder Standorte.",
+    snippetDefinition: "Geo-Targeting bezeichnet die Ausrichtung von Website-Inhalten auf bestimmte Regionen oder Standorte. Für Local SEO bedeutet das, Orte zu nennen, an denen das Unternehmen tatsächlich tätig ist. Eigene Seiten pro Standort sind sinnvoll, wenn es dort echte Standorte oder Leistungen gibt. Viele inhaltsgleiche Stadtseiten, die nur den Ortsnamen austauschen, gelten als Doorway-Seiten und widersprechen Googles Richtlinien.",
+    fullDescription: "Geo-Targeting bezeichnet die Ausrichtung von Inhalten auf bestimmte Regionen oder Standorte. Für Local SEO bedeutet das, Inhalte zu den Orten zu erstellen, an denen das Unternehmen wirklich tätig ist. Seiten, die sich nur im Ortsnamen unterscheiden, verstoßen gegen Googles Richtlinien zu Doorway-Seiten.",
     features: [
-      "Lokale Landing Pages erstellen",
-      "Standort-spezifische Keywords",
-      "Hreflang für internationale Seiten",
-      "IP-basierte Weiterleitung"
-    ],
-    statistics: [
-      { label: "Lokale Suchen zu Ladenbesuch", value: "72%", icon: "users" },
-      { label: "Conversion lokaler Suchen", value: "+28%", icon: "trending" },
-      { label: "Mobile lokale Suchen", value: "76%", icon: "percent" }
+      "Standortseiten nur mit echtem Bezug",
+      "Ortsbezug in Inhalten, wo er stimmt",
+      "Hreflang für Sprach- und Regionalversionen",
+      "Keine inhaltsgleichen Stadtseiten"
     ],
     benefits: [
-      "Höhere Relevanz für lokale Suchen",
-      "Bessere Conversion-Rates",
-      "Weniger Wettbewerb pro Region",
-      "Gezielte lokale Präsenz aufbauen"
+      "Passende Inhalte für den tatsächlichen Einzugsbereich",
+      "Klare Ortsangaben für Nutzer",
+      "Weniger Risiko durch Doorway-Seiten",
+      "Ehrliche lokale Präsenz"
     ],
     relatedTerms: ["Local SEO", "Local Pack", "Proximity (Entfernung)", "Hreflang"],
     difficulty: "fortgeschritten",
@@ -820,25 +705,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "H",
     term: "Heading Tags (H1-H6)",
-    shortDescription: "Heading Tags (H1–H6) sind HTML-Überschriften, die Inhalte hierarchisch strukturieren und Suchmaschinen Themenrelevanz signalisieren.",
-    snippetDefinition: "Heading Tags (H1 bis H6) sind HTML-Elemente, die Überschriften und Unterüberschriften auf Webseiten definieren und eine logische Inhaltsstruktur schaffen. Die H1-Überschrift ist die wichtigste und sollte das Hauptthema der Seite beschreiben – pro Seite sollte genau eine H1 verwendet werden. Seiten mit optimierten H1–H3-Überschriften ranken durchschnittlich 40 % besser.",
-    fullDescription: "Heading Tags (H1-H6) sind HTML-Elemente, die Überschriften und Unterüberschriften auf Webseiten definieren. H1 ist die wichtigste Überschrift und sollte das Hauptthema der Seite beschreiben. Eine logische Hierarchie der Headings hilft Suchmaschinen und Nutzern, den Inhalt zu verstehen.",
+    shortDescription: "Heading Tags (H1–H6) sind HTML-Überschriften, die Inhalte hierarchisch gliedern.",
+    snippetDefinition: "Heading Tags (H1 bis H6) sind HTML-Elemente für Überschriften und Zwischenüberschriften. Sie gliedern den Inhalt logisch und helfen Nutzern, Screenreadern und Suchmaschinen, die Struktur zu erfassen. Die H1 beschreibt das Hauptthema der Seite; in der Praxis steht meist eine H1 pro Seite, darunter folgen H2 bis H6 in sinnvoller Hierarchie.",
+    fullDescription: "Heading Tags (H1-H6) sind HTML-Elemente, die Überschriften und Unterüberschriften auf Webseiten definieren. Die H1 beschreibt das Hauptthema der Seite. Eine logische Hierarchie hilft Nutzern, Screenreadern und Suchmaschinen, den Inhalt zu verstehen.",
     features: [
-      "H1: Eine pro Seite (Hauptthema)",
+      "H1: Hauptthema der Seite",
       "H2-H6: Unterüberschriften in Hierarchie",
-      "Keywords natürlich integrieren",
-      "Strukturierung für Screenreader"
-    ],
-    statistics: [
-      { label: "Seiten mit H1-H3", value: "+40% Ranking", icon: "trending" },
-      { label: "Seiten ohne H1", value: "20%", icon: "percent" },
-      { label: "Optimale Länge H1", value: "20-70 Zeichen", icon: "chart" }
+      "Suchbegriffe natürlich verwenden",
+      "Struktur für Screenreader"
     ],
     benefits: [
       "Klare Content-Struktur",
-      "Besseres Ranking-Signal",
-      "Verbesserte Lesbarkeit",
-      "Featured Snippet-Optimierung"
+      "Bessere Lesbarkeit",
+      "Bessere Orientierung für Screenreader",
+      "Ausgangspunkt für klar gegliederte Antworten"
     ],
     relatedTerms: ["On-Page SEO", "Title Tag", "Technical SEO"],
     difficulty: "anfänger",
@@ -851,24 +731,19 @@ export const seoLexikonData: SEOTerm[] = [
     letter: "H",
     term: "Hreflang",
     shortDescription: "Hreflang ist ein HTML-Attribut, das Suchmaschinen die verfügbaren Sprach- und Regionalversionen einer Webseite mitteilt.",
-    snippetDefinition: "Das Hreflang-Attribut ist ein HTML-Tag, das Google signalisiert, welche Sprach- und Regionalversionen einer Webseite existieren (z. B. de, de-CH, de-AT). Es verhindert Duplicate-Content-Probleme bei mehrsprachigen Websites und stellt sicher, dass Nutzer die richtige Version für ihre Sprache und Region angezeigt bekommen. 65 % aller mehrsprachigen Websites implementieren Hreflang fehlerhaft.",
-    fullDescription: "Das Hreflang-Attribut signalisiert Google, welche Sprach- und Regionalversionen einer Seite existieren. Es verhindert Duplicate Content-Probleme bei mehrsprachigen Websites und sorgt dafür, dass Nutzer die richtige Version für ihre Sprache und Region sehen.",
+    snippetDefinition: "Das Hreflang-Attribut teilt Google mit, welche Sprach- und Regionalversionen einer Seite existieren, zum Beispiel de, de-CH und de-AT. So kann Google Nutzern die passende Version zeigen. Wichtig ist die gegenseitige Verknüpfung: Jede Version verweist auf alle anderen und auf sich selbst.",
+    fullDescription: "Das Hreflang-Attribut teilt Google mit, welche Sprach- und Regionalversionen einer Seite existieren. Es hilft Google, Nutzern die Version in ihrer Sprache und Region zu zeigen. Jede Version muss auf alle anderen verweisen.",
     features: [
       "Sprach- und Regionalcodes (de, de-CH, de-AT)",
-      "Im HTML-Head oder Sitemap",
+      "Im HTML-Head, im HTTP-Header oder in der Sitemap",
       "x-default für Fallback-Seite",
-      "Bidirektionale Verknüpfung nötig"
-    ],
-    statistics: [
-      { label: "Mehrsprachige Sites mit Hreflang", value: "35%", icon: "percent" },
-      { label: "Falsche Implementierung", value: "65%", icon: "chart" },
-      { label: "Internationale SEO-Einfluss", value: "Hoch", icon: "trending" }
+      "Gegenseitige Verknüpfung nötig"
     ],
     benefits: [
-      "Richtige Sprache für Nutzer",
-      "Duplicate Content vermeiden",
-      "Bessere internationale Rankings",
-      "Klare Signale an Google"
+      "Passende Sprachversion für Nutzer",
+      "Klare Zuordnung der Versionen",
+      "Weniger Verwechslung ähnlicher Seiten",
+      "Klare Hinweise an Google"
     ],
     relatedTerms: ["Geo-Targeting", "Canonical URL", "Technical SEO", "Duplicate Content"],
     difficulty: "experte",
@@ -887,25 +762,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "H",
     term: "HTTPS",
-    shortDescription: "HTTPS ist ein Protokoll zur sicheren, verschlüsselten Datenübertragung zwischen Browser und Server – ein bestätigter Google-Ranking-Faktor.",
-    snippetDefinition: "HTTPS (Hypertext Transfer Protocol Secure) ist ein Kommunikationsprotokoll, das die Datenübertragung zwischen Browser und Server durch SSL/TLS-Verschlüsselung absichert. Google hat HTTPS seit 2014 als Ranking-Faktor bestätigt und zeigt in Chrome Warnungen bei unsicheren HTTP-Seiten an. 95 % der Top-100-Websites nutzen HTTPS.",
-    fullDescription: "HTTPS (Hypertext Transfer Protocol Secure) verschlüsselt die Datenübertragung zwischen Browser und Server. Google hat HTTPS als Ranking-Faktor bestätigt und zeigt Warnungen bei unsicheren Seiten an. Für lokale Unternehmen ist HTTPS unerlässlich, um Vertrauen zu schaffen.",
+    shortDescription: "HTTPS ist ein Protokoll zur verschlüsselten Datenübertragung zwischen Browser und Server.",
+    snippetDefinition: "HTTPS (Hypertext Transfer Protocol Secure) ist ein Kommunikationsprotokoll, das die Datenübertragung zwischen Browser und Server per TLS verschlüsselt. Google hat 2014 angekündigt, HTTPS als schwaches Ranking-Signal zu nutzen. Browser wie Chrome kennzeichnen Seiten ohne HTTPS als nicht sicher, was Besucher verunsichern kann.",
+    fullDescription: "HTTPS (Hypertext Transfer Protocol Secure) verschlüsselt die Datenübertragung zwischen Browser und Server. Google hat 2014 angekündigt, HTTPS als schwaches Ranking-Signal zu nutzen. Für lokale Unternehmen ist HTTPS vor allem wichtig, weil Formulare und Kundendaten geschützt übertragen werden.",
     features: [
-      "SSL/TLS-Zertifikat erforderlich",
+      "TLS-Zertifikat erforderlich",
       "Schloss-Symbol im Browser",
       "Schutz sensibler Daten",
-      "Ranking-Signal für Google"
-    ],
-    statistics: [
-      { label: "Top 100 mit HTTPS", value: "95%", icon: "percent" },
-      { label: "Nutzervertrauen steigt", value: "+84%", icon: "users" },
-      { label: "Ranking-Boost", value: "Gering", icon: "trending" }
+      "Von Google 2014 als schwaches Ranking-Signal genannt"
     ],
     benefits: [
-      "Pflichtvoraussetzung für seriöse Websites",
-      "Erhöhtes Nutzervertrauen",
+      "Grundvoraussetzung für seriöse Websites",
+      "Mehr Nutzervertrauen",
       "Schutz von Kundendaten",
-      "Positives Ranking-Signal"
+      "Keine Warnung des Browsers"
     ],
     relatedTerms: ["SSL-Zertifikat", "Technical SEO", "Core Web Vitals"],
     difficulty: "anfänger",
@@ -918,25 +788,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "I",
     term: "Image SEO",
-    shortDescription: "Image SEO umfasst alle Maßnahmen zur Optimierung von Bildern für bessere Rankings in der Google-Bildersuche.",
-    snippetDefinition: "Image SEO umfasst alle Maßnahmen zur Optimierung von Bildern für Suchmaschinen, darunter beschreibende Dateinamen, Alt-Texte, Bildkomprimierung und strukturierte Daten. Die Google-Bildersuche macht über 20 % des gesamten Suchtraffics aus. Durch Komprimierung lassen sich 60–80 % der Dateigröße einsparen, was die Ladezeit und damit auch das Ranking verbessert.",
-    fullDescription: "Image SEO umfasst alle Maßnahmen zur Optimierung von Bildern für Suchmaschinen. Dazu gehören beschreibende Dateinamen, Alt-Texte, Bildkomprimierung und strukturierte Daten. Für lokale Unternehmen sind optimierte Fotos in Google Business Profile und auf der Website besonders wichtig.",
+    shortDescription: "Image SEO umfasst Maßnahmen, damit Suchmaschinen Bilder verstehen und Nutzer sie schnell sehen.",
+    snippetDefinition: "Image SEO umfasst Maßnahmen, mit denen Bilder für Suchmaschinen und Nutzer gut nutzbar sind: beschreibende Dateinamen, passende Alt-Texte, sinnvolle Bildgrößen und Komprimierung sowie ein erreichbares Bildumfeld im Text. Schnell ladende Bilder verbessern die Nutzererfahrung und die Core Web Vitals.",
+    fullDescription: "Image SEO umfasst alle Maßnahmen, mit denen Bilder für Suchmaschinen und Nutzer gut nutzbar sind. Dazu gehören beschreibende Dateinamen, Alt-Texte, passende Größen und Komprimierung. Für lokale Unternehmen sind echte, aktuelle Fotos im Google Business Profile und auf der Website besonders wertvoll.",
     features: [
       "Beschreibende Dateinamen",
-      "Optimierte Alt-Texte",
-      "Bildkomprimierung für PageSpeed",
-      "Lazy Loading implementieren"
-    ],
-    statistics: [
-      { label: "Google Images Traffic-Anteil", value: "20%+", icon: "percent" },
-      { label: "Bilder ohne Alt-Text", value: "42%", icon: "chart" },
-      { label: "Komprimierung spart", value: "60-80%", icon: "trending" }
+      "Passende Alt-Texte",
+      "Bildkomprimierung für kürzere Ladezeiten",
+      "Lazy Loading, wo sinnvoll"
     ],
     benefits: [
-      "Traffic aus Google Bildersuche",
-      "Bessere User Experience",
+      "Bilder können in der Google-Bildersuche gefunden werden",
+      "Bessere Nutzererfahrung",
       "Schnellere Ladezeiten",
-      "Lokale Relevanz signalisieren"
+      "Barrierefreie Bilder"
     ],
     relatedTerms: ["Alt-Text", "PageSpeed", "Core Web Vitals", "On-Page SEO"],
     difficulty: "anfänger",
@@ -955,25 +820,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "I",
     term: "Indexierung",
-    shortDescription: "Indexierung ist der Prozess, bei dem Google eine Webseite analysiert und in seinen Suchindex aufnimmt, damit sie in Suchergebnissen erscheinen kann.",
-    snippetDefinition: "Indexierung ist der Prozess, bei dem Google eine gecrawlte Webseite analysiert, deren Inhalt versteht und in seinen Suchindex aufnimmt. Nur indexierte Seiten können in den Google-Suchergebnissen erscheinen. Die durchschnittliche Indexierungszeit beträgt 1–4 Tage, kann aber durch eine XML-Sitemap und die Google Search Console beschleunigt werden.",
-    fullDescription: "Indexierung ist der Prozess, bei dem Google eine Webseite crawlt, analysiert und in seinen Suchindex aufnimmt. Nur indexierte Seiten können in den Suchergebnissen erscheinen. Die Google Search Console zeigt den Indexierungsstatus und hilft bei der Behebung von Problemen.",
+    shortDescription: "Indexierung ist der Prozess, bei dem Google eine Webseite analysiert und in seinen Suchindex aufnimmt.",
+    snippetDefinition: "Indexierung ist der Prozess, bei dem Google eine abgerufene Webseite analysiert, deren Inhalt auswertet und in seinen Suchindex aufnimmt. Nur indexierte Seiten können in den Suchergebnissen erscheinen. Garantiert ist die Aufnahme nicht. Die Google Search Console zeigt den Indexierungsstatus, und eine XML-Sitemap kann Google helfen, Seiten zu entdecken.",
+    fullDescription: "Indexierung ist der Prozess, bei dem Google eine Webseite abruft, analysiert und in seinen Suchindex aufnimmt. Nur indexierte Seiten können in den Suchergebnissen erscheinen, eine Garantie für die Aufnahme gibt es nicht. Die Google Search Console zeigt den Indexierungsstatus und hilft bei der Behebung von Problemen.",
     features: [
       "Google Search Console nutzen",
       "Sitemap einreichen",
-      "Robots.txt konfigurieren",
-      "Canonical Tags setzen"
-    ],
-    statistics: [
-      { label: "Durchschnittliche Indexierungszeit", value: "1-4 Tage", icon: "clock" },
-      { label: "Seiten mit Index-Problemen", value: "25%", icon: "percent" },
-      { label: "Sitemap-Nutzung", value: "+3x", icon: "trending" }
+      "robots.txt und noindex richtig einsetzen",
+      "Canonical-Tags setzen"
     ],
     benefits: [
-      "Voraussetzung für Rankings",
+      "Voraussetzung für Auftritte in den Suchergebnissen",
       "Kontrolle über indexierte Inhalte",
-      "Schnellere Aufnahme neuer Seiten",
-      "Vermeidung von Duplicate Content"
+      "Probleme früh erkennen",
+      "Doppelte Inhalte vermeiden"
     ],
     relatedTerms: ["Crawling", "XML-Sitemap", "Robots.txt", "Webmaster Tools / Search Console"],
     difficulty: "anfänger",
@@ -986,25 +846,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "I",
     term: "Internal Linking",
-    shortDescription: "Internal Linking ist die strategische Verlinkung zwischen Seiten der eigenen Website zur Verteilung von PageRank und Themenautorität.",
-    snippetDefinition: "Internal Linking (interne Verlinkung) bezeichnet die strategische Verlinkung zwischen verschiedenen Seiten derselben Website. Eine durchdachte interne Verlinkungsstrategie verteilt PageRank, hilft Suchmaschinen die Seitenstruktur zu verstehen und kann die Verweildauer um bis zu 40 % steigern. Top-rankende Seiten haben durchschnittlich über 40 interne Links.",
-    fullDescription: "Internal Linking bezeichnet die Verlinkung zwischen verschiedenen Seiten derselben Website. Eine durchdachte interne Verlinkungsstrategie verteilt PageRank, hilft Suchmaschinen die Seitenstruktur zu verstehen und führt Nutzer zu relevanten Inhalten.",
+    shortDescription: "Internal Linking ist die Verlinkung zwischen Seiten der eigenen Website.",
+    snippetDefinition: "Internal Linking (interne Verlinkung) bezeichnet Links zwischen verschiedenen Seiten derselben Website. Sie führen Nutzer zu passenden Inhalten und helfen Suchmaschinen, Seiten zu finden und die Struktur der Website zu verstehen. Aussagekräftige Linktexte und eine klare Hierarchie sind wichtiger als eine bestimmte Zahl von Links.",
+    fullDescription: "Internal Linking bezeichnet die Verlinkung zwischen Seiten derselben Website. Interne Links führen Nutzer zu relevanten Inhalten und helfen Suchmaschinen, Seiten zu entdecken und die Struktur zu verstehen. Aussagekräftige Linktexte und eine klare Struktur zählen mehr als eine bestimmte Zahl von Links.",
     features: [
-      "Verteilt PageRank intern",
+      "Hilft Nutzern und Crawlern, Seiten zu finden",
       "Zeigt thematische Zusammenhänge",
-      "Verbessert Crawling-Effizienz",
-      "Anchor-Text-Optimierung"
-    ],
-    statistics: [
-      { label: "Top-Seiten haben Links", value: "40+", icon: "chart" },
-      { label: "Ranking-Einfluss", value: "Hoch", icon: "trending" },
-      { label: "Verweildauer-Steigerung", value: "+40%", icon: "clock" }
+      "Aussagekräftige Linktexte",
+      "Klare Seitenhierarchie"
     ],
     benefits: [
-      "PageRank-Verteilung optimieren",
-      "Nutzer länger auf der Seite halten",
-      "Themenautorität aufbauen",
-      "Crawl-Budget effizient nutzen"
+      "Bessere Orientierung für Nutzer",
+      "Seiten werden leichter entdeckt",
+      "Klare Themenstruktur",
+      "Wichtige Seiten stärker verknüpfen"
     ],
     relatedTerms: ["Anchor Text", "On-Page SEO", "Crawling", "Link Building"],
     difficulty: "anfänger",
@@ -1024,25 +879,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "J",
     term: "JSON-LD",
-    shortDescription: "JSON-LD ist das von Google bevorzugte Format für strukturierte Daten, das Webinhalte maschinenlesbar macht.",
-    snippetDefinition: "JSON-LD (JavaScript Object Notation for Linked Data) ist das von Google empfohlene Format für strukturierte Daten auf Websites. Es ermöglicht, Informationen wie Unternehmensname, Öffnungszeiten, Bewertungen und Events maschinenlesbar im HTML-Head zu markieren. Websites mit JSON-LD-Markup erzielen bis zu 30 % mehr Rich Results und 25 % höhere Klickraten in den Suchergebnissen.",
-    fullDescription: "JSON-LD (JavaScript Object Notation for Linked Data) ist das von Google bevorzugte Format für strukturierte Daten. Es ermöglicht, Informationen wie Unternehmensname, Öffnungszeiten, Bewertungen und Events maschinenlesbar zu markieren. Local Business Schema ist für lokale SEO besonders wichtig.",
+    shortDescription: "JSON-LD ist das von Google empfohlene Format für strukturierte Daten, das Webinhalte maschinenlesbar macht.",
+    snippetDefinition: "JSON-LD (JavaScript Object Notation for Linked Data) ist das Format, das Google für strukturierte Daten empfiehlt. Es beschreibt Informationen wie Unternehmensname, Adresse, Öffnungszeiten oder Veranstaltungen maschinenlesbar in einem Script-Block, getrennt vom sichtbaren Text. Ein bestimmtes Rich Result ist damit nicht garantiert; Google zeigt es nur, wenn die Seite die Voraussetzungen erfüllt.",
+    fullDescription: "JSON-LD (JavaScript Object Notation for Linked Data) ist das von Google empfohlene Format für strukturierte Daten. Es beschreibt Informationen wie Unternehmensname, Adresse, Öffnungszeiten und Veranstaltungen maschinenlesbar. Die Angaben müssen mit dem sichtbaren Inhalt der Seite übereinstimmen.",
     features: [
       "Von Google empfohlen",
-      "Im <head> platzierbar",
-      "Schema.org Vokabular",
+      "Als Script-Block im HTML",
+      "Schema.org-Vokabular",
       "LocalBusiness-Markup"
     ],
-    statistics: [
-      { label: "Rich Results Steigerung", value: "+30%", icon: "trending" },
-      { label: "CTR-Erhöhung", value: "25%", icon: "percent" },
-      { label: "Websites mit Schema", value: "33%", icon: "chart" }
-    ],
     benefits: [
-      "Rich Snippets in Suchergebnissen",
-      "Besseres Google-Verständnis",
-      "Höhere Klickraten",
-      "Voice Search Optimierung"
+      "Bessere maschinelle Lesbarkeit",
+      "Kann Rich Results ermöglichen, wenn die Seite berechtigt ist",
+      "Trennung von Markup und sichtbarem Text",
+      "Klare Angaben zum Unternehmen"
     ],
     relatedTerms: ["Schema Markup", "Rich Snippets", "Technical SEO", "Local SEO"],
     difficulty: "fortgeschritten",
@@ -1062,25 +912,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "K",
     term: "Keywords",
-    shortDescription: "Keywords sind Suchbegriffe, die Nutzer in Google eingeben und für die eine Website gezielt optimiert wird.",
-    snippetDefinition: "Keywords sind die Wörter und Phrasen, die Nutzer in Suchmaschinen eingeben, um Informationen, Produkte oder Dienstleistungen zu finden. Im Local SEO werden Keywords oft mit Ortsnamen kombiniert (z. B. 'Zahnarzt München'). Long-Tail Keywords mit 3 oder mehr Wörtern machen 70 % aller Suchanfragen aus und haben eine 2,5-fach höhere Conversion-Rate.",
-    fullDescription: "Keywords sind die Wörter und Phrasen, die Nutzer in Suchmaschinen eingeben. Im Local SEO kombinieren wir Keywords oft mit Ortsnamen ('Zahnarzt München'). Die Keyword-Recherche identifiziert relevante Suchbegriffe mit gutem Suchvolumen und erreichbarer Konkurrenz.",
+    shortDescription: "Keywords sind Suchbegriffe, die Nutzer in Suchmaschinen eingeben und für die Inhalte gezielt geschrieben werden.",
+    snippetDefinition: "Keywords sind die Wörter und Phrasen, die Nutzer in Suchmaschinen eingeben, um Informationen, Produkte oder Dienstleistungen zu finden. Im Local SEO werden Suchbegriffe oft mit Ortsnamen kombiniert, zum Beispiel Zahnarzt München. Die Keyword-Recherche zeigt, wie Kunden suchen, damit Inhalte ihre Sprache treffen.",
+    fullDescription: "Keywords sind die Wörter und Phrasen, die Nutzer in Suchmaschinen eingeben. Im Local SEO werden sie oft mit Ortsnamen kombiniert, zum Beispiel Zahnarzt München. Die Keyword-Recherche zeigt, wie Kunden suchen, und hilft, Inhalte in deren Sprache zu schreiben.",
     features: [
       "Short-Tail vs. Long-Tail Keywords",
-      "Lokale Keywords mit Ortsbezug",
+      "Lokale Suchbegriffe mit Ortsbezug",
       "Suchintention verstehen",
-      "Keyword-Mapping pro Seite"
-    ],
-    statistics: [
-      { label: "Long-Tail Anteil", value: "70%", icon: "percent" },
-      { label: "Lokale Suchanfragen täglich", value: "8.5 Mrd", icon: "search" },
-      { label: "Conversion bei lokalen Keywords", value: "+78%", icon: "trending" }
+      "Ein Hauptthema pro Seite"
     ],
     benefits: [
-      "Gezielte Optimierung möglich",
-      "Relevanten Traffic anziehen",
-      "Wettbewerbsanalyse durchführen",
-      "Content-Strategie entwickeln"
+      "Inhalte in der Sprache der Kunden",
+      "Relevante Suchanfragen erkennen",
+      "Wettbewerbsumfeld verstehen",
+      "Grundlage für die Content-Planung"
     ],
     relatedTerms: ["Long-Tail Keywords", "Search Intent", "Keyword Density", "Content-Strategie"],
     difficulty: "anfänger",
@@ -1100,24 +945,19 @@ export const seoLexikonData: SEOTerm[] = [
     letter: "K",
     term: "Keyword Density",
     shortDescription: "Keyword Density ist die prozentuale Häufigkeit eines Keywords im Verhältnis zur Gesamtwortzahl eines Textes.",
-    snippetDefinition: "Keyword Density bezeichnet den prozentualen Anteil eines Keywords im Verhältnis zur Gesamtwortzahl eines Textes. Die optimale Keyword Density liegt bei 1–2 %, Werte über 3 % gelten als Spam-Risiko (Keyword Stuffing). Heute bewertet Google semantische Relevanz und natürliche Sprache deutlich wichtiger als die reine Keyword-Häufigkeit.",
-    fullDescription: "Keyword Density bezeichnet den prozentualen Anteil eines Keywords im Verhältnis zur Gesamtwortzahl eines Textes. Früher war dies ein wichtiger Ranking-Faktor, heute bewertet Google semantische Relevanz wichtiger. Übertriebene Keyword-Dichte (Keyword Stuffing) wird abgestraft.",
+    snippetDefinition: "Keyword Density bezeichnet den prozentualen Anteil eines Keywords an der Gesamtwortzahl eines Textes. Früher galt sie als Richtwert für Optimierung. Eine ideale Dichte nennt Google nicht, und ein fester Zielwert ist kein sinnvolles Ziel. Entscheidend ist ein natürlich geschriebener, nützlicher Text; unnatürliche Wiederholungen gelten als Keyword Stuffing.",
+    fullDescription: "Keyword Density bezeichnet den prozentualen Anteil eines Keywords an der Gesamtwortzahl eines Textes. Früher war sie ein verbreiteter Richtwert. Eine ideale Dichte nennt Google nicht. Wer Keywords unnatürlich oft wiederholt, riskiert, gegen die Spamrichtlinien zu verstoßen.",
     features: [
       "Formel: (Keyword-Anzahl / Gesamtwörter) × 100",
-      "Optimal: 1-2%",
-      "Über 3% gilt als Spam-Risiko",
-      "Semantische Variationen wichtiger"
-    ],
-    statistics: [
-      { label: "Optimale Keyword Density", value: "1-2%", icon: "percent" },
-      { label: "Spam-Grenze", value: ">3%", icon: "chart" },
-      { label: "Bedeutung heute", value: "Gering", icon: "trending" }
+      "Kein von Google genannter Zielwert",
+      "Unnatürliche Wiederholung gilt als Keyword Stuffing",
+      "Natürliche Sprache und Varianten statt Wiederholung"
     ],
     benefits: [
-      "Natürlichen Content schreiben",
+      "Natürliche Texte schreiben",
       "Keyword Stuffing vermeiden",
-      "Semantische SEO verstehen",
-      "Content-Qualität priorisieren"
+      "Inhalte für Menschen schreiben",
+      "Qualität vor Formelwerten"
     ],
     relatedTerms: ["Keyword Stuffing", "On-Page SEO", "Keywords", "Search Intent"],
     difficulty: "anfänger",
@@ -1129,25 +969,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "K",
     term: "Keyword Stuffing",
-    shortDescription: "Keyword Stuffing ist die übermäßige, unnatürliche Verwendung von Keywords in Texten – eine Spam-Technik, die Google abstraft.",
-    snippetDefinition: "Keyword Stuffing bezeichnet die übermäßige und unnatürliche Wiederholung von Keywords in Texten, Meta-Tags oder verstecktem Text. Diese Black-Hat-SEO-Technik wurde früher genutzt, um Rankings zu manipulieren, wird heute jedoch von Google in über 99 % der Fälle erkannt und mit Ranking-Verlusten oder der Entfernung aus dem Index bestraft.",
-    fullDescription: "Keyword Stuffing bezeichnet die übermäßige und unnatürliche Verwendung von Keywords in Texten, Meta-Tags oder verstecktem Text. Diese Black-Hat-Technik wurde früher genutzt, um Rankings zu manipulieren, führt heute aber zu Abstrafungen durch Google.",
+    shortDescription: "Keyword Stuffing ist die übermäßige, unnatürliche Wiederholung von Keywords in Texten, Meta-Tags oder versteckten Bereichen.",
+    snippetDefinition: "Keyword Stuffing bezeichnet die übermäßige und unnatürliche Wiederholung von Keywords in Texten, Meta-Tags oder versteckten Bereichen. Google führt es in seinen Spamrichtlinien auf. Betroffene Seiten können herabgestuft oder durch manuelle Maßnahmen aus den Suchergebnissen entfernt werden. Besser ist ein natürlich geschriebener Text für Menschen.",
+    fullDescription: "Keyword Stuffing bezeichnet die übermäßige und unnatürliche Verwendung von Keywords in Texten, Meta-Tags oder versteckten Bereichen. Google führt es in seinen Spamrichtlinien auf. Betroffene Seiten können herabgestuft oder aus den Suchergebnissen entfernt werden.",
     features: [
       "Unnatürliche Keyword-Wiederholung",
       "Versteckte Keywords (weiß auf weiß)",
-      "Keyword-Spam in Meta-Tags",
-      "Wird von Google erkannt und bestraft"
-    ],
-    statistics: [
-      { label: "Google-Erkennung", value: "99%+", icon: "percent" },
-      { label: "Abstrafungsrisiko", value: "Sehr hoch", icon: "trending" },
-      { label: "Recovery-Zeit", value: "3-12 Monate", icon: "clock" }
+      "Keyword-Listen in Meta-Tags oder Fußzeilen",
+      "Verstößt gegen Googles Spamrichtlinien"
     ],
     benefits: [
-      "Wissen was man vermeiden sollte",
-      "Natürlichen Content schreiben lernen",
-      "Langfristige Rankings sichern",
-      "Google-Richtlinien verstehen"
+      "Wissen, was man vermeiden sollte",
+      "Natürliche Texte schreiben",
+      "Risiken für die Sichtbarkeit vermeiden",
+      "Googles Richtlinien verstehen"
     ],
     relatedTerms: ["Black Hat SEO", "Keyword Density", "Algorithmus-Update", "White Hat SEO"],
     difficulty: "anfänger",
@@ -1159,25 +994,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "K",
     term: "Knowledge Graph",
-    shortDescription: "Der Knowledge Graph ist Googles Wissensdatenbank mit über 5 Milliarden Entitäten, die vernetzte Informationen in den Suchergebnissen anzeigt.",
-    snippetDefinition: "Der Knowledge Graph ist Googles zentrale Wissensdatenbank, die über 5 Milliarden Entitäten – Personen, Orte, Unternehmen und Konzepte – semantisch vernetzt. Er speist die Knowledge Panels in den Suchergebnissen und erscheint bei rund 40 % aller Suchanfragen. Lokale Unternehmen können durch ein optimiertes Google Business Profile und strukturierte Daten im Knowledge Graph erscheinen.",
-    fullDescription: "Der Knowledge Graph ist Googles Wissensdatenbank, die Informationen über Personen, Orte, Unternehmen und Konzepte vernetzt. Er speist die Knowledge Panels in den Suchergebnissen. Lokale Unternehmen können durch GBP-Optimierung und strukturierte Daten im Knowledge Graph erscheinen.",
+    shortDescription: "Der Knowledge Graph ist Googles Wissensdatenbank, die Dinge wie Personen, Orte und Organisationen und ihre Beziehungen verknüpft.",
+    snippetDefinition: "Der Knowledge Graph ist Googles Wissensdatenbank, die Entitäten wie Personen, Orte, Organisationen und Konzepte sowie ihre Beziehungen verknüpft. Google hat ihn 2012 unter dem Motto „things, not strings“ vorgestellt. Er speist unter anderem Knowledge Panels. Ob ein Eintrag erscheint, entscheidet Google. Konsistente, öffentlich auffindbare Angaben und ein gepflegtes Unternehmensprofil helfen, korrekt dargestellt zu werden.",
+    fullDescription: "Der Knowledge Graph ist Googles Wissensdatenbank, die Informationen über Personen, Orte, Organisationen und Konzepte vernetzt. Er speist unter anderem Knowledge Panels. Ob ein Unternehmen darin erscheint, entscheidet Google. Einheitliche Angaben im Web und ein gepflegtes Unternehmensprofil helfen, korrekt dargestellt zu werden.",
     features: [
-      "Über 5 Milliarden Entitäten",
-      "Vernetzt Informationen semantisch",
-      "Speist Knowledge Panels",
+      "Dinge statt Zeichenketten (2012 vorgestellt)",
+      "Vernetzt Entitäten semantisch",
+      "Speist unter anderem Knowledge Panels",
       "Basiert auf verschiedenen Datenquellen"
     ],
-    statistics: [
-      { label: "Entitäten im Knowledge Graph", value: "5+ Mrd", icon: "chart" },
-      { label: "Suchanfragen mit KG-Ergebnis", value: "40%", icon: "percent" },
-      { label: "CTR Knowledge Panel", value: "+10%", icon: "trending" }
-    ],
     benefits: [
-      "Erhöhte Markenbekanntheit",
-      "Prominent in Suchergebnissen",
-      "Vertrauenswürdigkeit signalisieren",
-      "Zero-Click-Präsenz sichern"
+      "Verständnis, wie Google Entitäten erfasst",
+      "Einheitliche Angaben im Web",
+      "Korrekte Darstellung des Unternehmens",
+      "Klare Entitätssignale wie Name und Adresse"
     ],
     relatedTerms: ["Knowledge Panel", "Schema Markup", "Google Business Profile", "Zero-Click Search"],
     difficulty: "experte",
@@ -1189,25 +1019,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "K",
     term: "Knowledge Panel",
-    shortDescription: "Ein Knowledge Panel ist die Infobox rechts neben den Google-Suchergebnissen, die Informationen zu Unternehmen, Personen oder Marken anzeigt.",
-    snippetDefinition: "Ein Knowledge Panel ist die Informationsbox, die Google rechts neben den Suchergebnissen anzeigt, wenn nach Unternehmen, Personen oder Marken gesucht wird. Für lokale Unternehmen zeigt es Daten aus dem Google Business Profile wie Adresse, Öffnungszeiten, Fotos und Bewertungen. Knowledge Panels erhalten über 25 % aller Klicks und steigern Conversions um bis zu 35 %.",
-    fullDescription: "Ein Knowledge Panel ist die Infobox, die Google rechts neben den Suchergebnissen anzeigt, wenn nach Unternehmen, Personen oder Marken gesucht wird. Für lokale Unternehmen zeigt es Informationen aus dem Google Business Profile wie Adresse, Öffnungszeiten, Fotos und Bewertungen.",
+    shortDescription: "Ein Knowledge Panel ist die Informationsbox, die Google bei Suchen nach Unternehmen, Personen oder Marken anzeigen kann.",
+    snippetDefinition: "Ein Knowledge Panel ist eine Informationsbox, die Google bei Suchen nach Unternehmen, Personen oder Marken anzeigen kann. Bei lokalen Unternehmen stammen die Angaben vor allem aus dem Google Business Profile, etwa Adresse, Öffnungszeiten, Fotos und Bewertungen. Inhaber können das Panel beanspruchen und Änderungen vorschlagen. Ob und wie es erscheint, entscheidet Google.",
+    fullDescription: "Ein Knowledge Panel ist die Infobox, die Google bei Suchen nach Unternehmen, Personen oder Marken anzeigen kann. Für lokale Unternehmen zeigt sie Informationen aus dem Google Business Profile wie Adresse, Öffnungszeiten, Fotos und Bewertungen. Ob und wie sie erscheint, entscheidet Google.",
     features: [
-      "Basiert auf Google Business Profile",
+      "Basiert vor allem auf dem Google Business Profile",
       "Zeigt Bewertungen und Fotos",
-      "Direkte Interaktionsmöglichkeiten",
-      "Claim-Funktion für Unternehmen"
-    ],
-    statistics: [
-      { label: "Klicks auf Knowledge Panel", value: "25%+", icon: "percent" },
-      { label: "Conversions über Panel", value: "+35%", icon: "trending" },
-      { label: "Mobile Prominenz", value: "Sehr hoch", icon: "chart" }
+      "Direkte Aktionen wie Anruf und Route",
+      "Inhaber können das Panel beanspruchen"
     ],
     benefits: [
-      "Maximale Markenpräsenz",
-      "Direkte Kundeninteraktion",
-      "Vertrauensaufbau",
-      "Kostenlose Premium-Platzierung"
+      "Korrekte Darstellung des Unternehmens",
+      "Direkter Kontakt für Kunden",
+      "Vertrauensbildende Angaben",
+      "Änderungen können vorgeschlagen werden"
     ],
     relatedTerms: ["Knowledge Graph", "Google Business Profile", "SERP", "Zero-Click Search"],
     difficulty: "anfänger",
@@ -1221,25 +1046,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "L",
     term: "Local SEO",
-    shortDescription: "Local SEO ist die Suchmaschinenoptimierung für lokale Unternehmen, um bei standortbezogenen Suchanfragen besser gefunden zu werden.",
-    snippetDefinition: "Local SEO ist die Optimierung der Online-Präsenz eines Unternehmens, um bei lokalen Suchanfragen in Google Maps und im Local Pack prominent zu erscheinen. Es umfasst die Optimierung des Google Business Profile, lokale Keywords, Citations, Bewertungen und lokale Backlinks. Täglich werden 8,5 Milliarden lokale Suchanfragen gestellt, von denen 28 % direkt zu einem Kauf führen.",
-    fullDescription: "Local SEO ist die Optimierung einer Online-Präsenz, um bei lokalen Suchanfragen besser gefunden zu werden. Es umfasst Google Business Profile, lokale Keywords, Citations, Bewertungen und lokale Backlinks. Ziel ist es, im Local Pack und auf Google Maps prominent zu erscheinen.",
+    shortDescription: "Local SEO ist die Suchmaschinenoptimierung für lokale Unternehmen, damit sie bei standortbezogenen Suchanfragen besser gefunden werden.",
+    snippetDefinition: "Local SEO ist die Optimierung der Online-Präsenz eines Unternehmens, damit es bei lokalen Suchanfragen in Google Maps und in lokalen Suchergebnissen gefunden wird. Es umfasst das Google Business Profile, lokale Suchbegriffe, einheitliche Angaben im Web, Bewertungen und die Website. Für lokale Treffer nennt Google drei Kriterien: Relevanz, Entfernung und Bekanntheit.",
+    fullDescription: "Local SEO ist die Optimierung einer Online-Präsenz, damit ein Unternehmen bei lokalen Suchanfragen besser gefunden wird. Es umfasst das Google Business Profile, lokale Suchbegriffe, einheitliche Angaben, Bewertungen und die Website. Ziel ist, in Google Maps und in lokalen Suchergebnissen aufzutauchen.",
     features: [
-      "Google Business Profile optimieren",
-      "Lokale Keywords einsetzen",
-      "Citations aufbauen und pflegen",
+      "Google Business Profile pflegen",
+      "Lokale Suchbegriffe berücksichtigen",
+      "Einheitliche Angaben im Web",
       "Bewertungen aktiv managen"
     ],
-    statistics: [
-      { label: "Lokale Suchen täglich", value: "8.5 Mrd", icon: "search" },
-      { label: "Lokale Suchen zu Kauf", value: "28%", icon: "percent" },
-      { label: "Mobile lokale Suchen", value: "76%", icon: "trending" }
-    ],
     benefits: [
-      "Mehr lokale Kunden gewinnen",
-      "Höhere Sichtbarkeit in der Region",
-      "Kosteneffizientes Marketing",
-      "Direkte Kundenanfragen"
+      "Von lokalen Kunden gefunden werden",
+      "Sichtbarkeit in der Region",
+      "Direkte Kundenanfragen",
+      "Klare Prioritäten für lokale Maßnahmen"
     ],
     relatedTerms: ["Google Business Profile", "Local Pack", "NAP", "Citations", "Reviews (Bewertungen)"],
     difficulty: "anfänger",
@@ -1261,25 +1081,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "L",
     term: "Local Pack",
-    shortDescription: "Das Local Pack (3-Pack) zeigt die drei relevantesten lokalen Unternehmen mit Google-Maps-Karte in den Suchergebnissen.",
-    snippetDefinition: "Das Local Pack (auch 3-Pack oder Map Pack genannt) zeigt die drei relevantesten lokalen Unternehmen zusammen mit einer Google-Maps-Karte in den Suchergebnissen an. Es erscheint bei lokalen Suchanfragen und erhält mit 44 % den größten Anteil aller Klicks. Ein optimiertes Google Business Profile ist die Grundvoraussetzung, um im Local Pack zu erscheinen.",
-    fullDescription: "Das Local Pack (auch 3-Pack genannt) zeigt die drei relevantesten lokalen Unternehmen mit einer Google Maps-Karte in den Suchergebnissen. Es erscheint bei lokalen Suchanfragen und erhält den Großteil der Klicks. Die Optimierung für das Local Pack ist das Hauptziel des Local SEO.",
+    shortDescription: "Das Local Pack ist ein Block in den Google-Suchergebnissen, der eine kleine Auswahl lokaler Unternehmen mit Karte zeigt.",
+    snippetDefinition: "Das Local Pack (auch Kartenblock, 3-Pack oder Map Pack) ist ein Block in den Suchergebnissen, der bei lokalen Suchanfragen eine kleine Auswahl passender Unternehmen mit einer Google-Maps-Karte zeigt, meist drei. Die Treffer sortiert Google nach Relevanz, Entfernung und Bekanntheit. Grundlage ist das Google Business Profile.",
+    fullDescription: "Das Local Pack (auch 3-Pack genannt) zeigt bei lokalen Suchanfragen eine kleine Auswahl passender Unternehmen mit einer Google-Maps-Karte. Grundlage der Treffer sind Unternehmensprofile, sortiert nach Relevanz, Entfernung und Bekanntheit. Ein vollständig gepflegtes Profil ist die Voraussetzung, dort aufzutauchen.",
     features: [
       "Google Business Profile erforderlich",
       "Zeigt Name, Bewertungen, Adresse",
-      "Click-to-Call auf Mobilgeräten",
-      "Wegbeschreibung direkt verfügbar"
-    ],
-    statistics: [
-      { label: "Klicks auf Local Pack", value: "44%", icon: "percent" },
-      { label: "Mobile Suchanfragen lokal", value: "46%", icon: "search" },
-      { label: "Conversion-Rate", value: "80%", icon: "trending" }
+      "Anruf-Schaltfläche auf Mobilgeräten",
+      "Route direkt verfügbar"
     ],
     benefits: [
-      "Maximale lokale Sichtbarkeit",
+      "Sichtbarkeit bei lokalen Suchen",
       "Direkter Kundenkontakt",
-      "Höchste Klickraten bei lokalen Suchen",
-      "Kostenlose Premium-Platzierung"
+      "Kostenlos erreichbar über das Unternehmensprofil",
+      "Klare Angaben für Kunden"
     ],
     relatedTerms: ["Google Business Profile", "Local SEO", "Google Maps", "Proximity (Entfernung)"],
     difficulty: "anfänger",
@@ -1291,7 +1106,7 @@ export const seoLexikonData: SEOTerm[] = [
     ],
     bestPracticeExample: {
       title: "BrightLocal: Local Pack Research 2024",
-      description: "Aktuelle Studie zu Klickraten und Nutzerverhalten im Local Pack mit Optimierungstipps.",
+      description: "Studie eines Anbieters zu Klickraten und Nutzerverhalten im Local Pack (Drittquelle, nicht von Google).",
       url: "https://www.brightlocal.com/research/local-pack-click-through-study/",
       source: "BrightLocal"
     }
@@ -1299,25 +1114,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "L",
     term: "Long-Tail Keywords",
-    shortDescription: "Long-Tail Keywords sind längere, spezifischere Suchanfragen mit 3 oder mehr Wörtern, die weniger Wettbewerb und höhere Conversion-Raten aufweisen.",
-    snippetDefinition: "Long-Tail Keywords sind spezifische Suchphrasen mit drei oder mehr Wörtern, die ein geringeres Suchvolumen, aber deutlich höhere Conversion-Raten als generische Keywords aufweisen. Sie machen 70 % aller Suchanfragen aus und sind oft leichter zu ranken. Die Conversion-Rate bei Long-Tail Keywords ist 2,5-mal höher als bei Short-Tail Keywords.",
-    fullDescription: "Long-Tail Keywords sind längere, spezifischere Suchphrasen (meist 3+ Wörter), die ein geringeres Suchvolumen, aber höhere Conversion-Raten aufweisen. Sie machen 70% aller Suchanfragen aus und sind oft leichter zu ranken als generische Short-Tail Keywords.",
+    shortDescription: "Long-Tail Keywords sind längere, spezifischere Suchanfragen aus mehreren Wörtern mit meist geringerem Suchvolumen.",
+    snippetDefinition: "Long-Tail Keywords sind längere, spezifischere Suchphrasen aus mehreren Wörtern, zum Beispiel Notdienst Heizung Regensburg Sonntag. Sie haben meist ein geringeres Suchvolumen als allgemeine Begriffe, zeigen aber oft eine konkretere Absicht. Für lokale Unternehmen sind sie nützlich, weil sie Leistung, Ort und Anlass verbinden.",
+    fullDescription: "Long-Tail Keywords sind längere, spezifischere Suchphrasen (meist mehrere Wörter), die ein geringeres Suchvolumen, aber oft eine konkretere Absicht haben. Sie verbinden Leistung, Ort und Anlass und sind für lokale Unternehmen nützlich.",
     features: [
-      "3+ Wörter typischerweise",
+      "Meist mehrere Wörter",
       "Geringeres Suchvolumen",
-      "Höhere Conversion-Intent",
-      "Weniger Wettbewerb"
-    ],
-    statistics: [
-      { label: "Anteil aller Suchanfragen", value: "70%", icon: "percent" },
-      { label: "Conversion-Rate höher", value: "2.5x", icon: "trending" },
-      { label: "Wettbewerb niedriger", value: "5-10x", icon: "chart" }
+      "Oft konkretere Absicht",
+      "Oft weniger Wettbewerb"
     ],
     benefits: [
-      "Leichter zu ranken",
-      "Höhere Conversion-Raten",
-      "Gezielterer Traffic",
-      "Besserer ROI"
+      "Konkrete Fragen gezielt beantworten",
+      "Passende Besucher ansprechen",
+      "Gut für spezielle Leistungen",
+      "Ergänzung zu allgemeinen Suchbegriffen"
     ],
     relatedTerms: ["Keywords", "Search Intent", "Content-Strategie", "Voice Search"],
     difficulty: "anfänger",
@@ -1330,25 +1140,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "L",
     term: "Link Building",
-    shortDescription: "Link Building ist der strategische Prozess, qualitativ hochwertige Backlinks von anderen Websites zu erhalten – einer der Top-Ranking-Faktoren.",
-    snippetDefinition: "Link Building ist der strategische Prozess, qualitativ hochwertige Backlinks von anderen Websites zu erhalten. Es gehört zu den Top-2-Ranking-Faktoren bei Google. Bewährte Methoden umfassen Gastbeiträge, PR-Arbeit, Broken Link Building und die Erstellung linkwürdiger Inhalte. 66 % aller Webseiten haben keinen einzigen Backlink.",
-    fullDescription: "Link Building ist der strategische Prozess, qualitativ hochwertige Backlinks von anderen Websites zu erhalten. Es ist einer der wichtigsten Ranking-Faktoren. Methoden umfassen Gastbeiträge, PR, Broken Link Building und das Erstellen linkwürdiger Inhalte.",
+    shortDescription: "Link Building ist der Aufbau von Links anderer Websites auf die eigene Website.",
+    snippetDefinition: "Link Building ist der Prozess, Links von anderen Websites auf die eigene Website zu gewinnen. Links gehören laut Google zu den Faktoren der Websuche, eine Gewichtung nennt Google nicht. Erlaubt sind Links, die aus echten Empfehlungen, Kooperationen oder Berichten entstehen. Gekaufte oder getauschte Links, die das Ranking beeinflussen sollen, verstoßen gegen die Spamrichtlinien.",
+    fullDescription: "Link Building ist der Prozess, Links von anderen Websites zu gewinnen. Seriöse Wege sind Partnerschaften, Berichte in regionalen Medien, Vereinsmitgliedschaften und Inhalte, auf die andere von sich aus verweisen. Gekaufte oder getauschte Links, die nur das Ranking beeinflussen sollen, verstoßen gegen Googles Spamrichtlinien.",
     features: [
-      "Qualität vor Quantität",
-      "Natürlicher Linkaufbau bevorzugt",
-      "Gastbeiträge und PR",
-      "Content Marketing Strategie"
-    ],
-    statistics: [
-      { label: "Top-Ranking-Faktor", value: "#1-2", icon: "trending" },
-      { label: "Seiten mit 0 Backlinks", value: "66%", icon: "percent" },
-      { label: "Kosten pro hochwertigen Link", value: "€100-500", icon: "chart" }
+      "Qualität vor Menge",
+      "Natürlicher Linkaufbau",
+      "Kooperationen und Medienarbeit",
+      "Linkspam vermeiden"
     ],
     benefits: [
-      "Höhere Domain Authority",
-      "Bessere Rankings",
-      "Mehr organischer Traffic",
-      "Markenbekanntheit steigern"
+      "Verweise von anderen Websites",
+      "Mehr Besucher über Verweise",
+      "Bekanntheit im Umfeld",
+      "Klare Grenzen zu verbotenen Praktiken"
     ],
     relatedTerms: ["Backlinks", "Domain Authority", "Anchor Text", "Off-Page SEO"],
     difficulty: "fortgeschritten",
@@ -1359,7 +1164,7 @@ export const seoLexikonData: SEOTerm[] = [
     ],
     bestPracticeExample: {
       title: "Backlinko: Link Building Guide",
-      description: "Umfassender Guide mit 17 bewährten Link Building Strategien.",
+      description: "Guide eines SEO-Anbieters zu Strategien für den Linkaufbau (Drittquelle, nicht von Google).",
       url: "https://backlinko.com/link-building",
       source: "Backlinko"
     }
@@ -1368,25 +1173,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "M",
     term: "Meta Description",
-    shortDescription: "Die Meta Description ist der HTML-Tag für den Beschreibungstext, der unter dem Seitentitel in den Google-Suchergebnissen erscheint.",
-    snippetDefinition: "Die Meta Description ist ein HTML-Tag, das den Beschreibungstext unter dem Seitentitel in den Suchergebnissen definiert. Obwohl kein direkter Ranking-Faktor, kann eine optimierte Meta Description die Klickrate um bis zu 30 % steigern. Die ideale Länge liegt bei 155–160 Zeichen. Google überschreibt in etwa 70 % der Fälle die gesetzte Meta Description automatisch.",
-    fullDescription: "Die Meta Description ist ein HTML-Tag, das den Beschreibungstext unter dem Seitentitel in Suchergebnissen definiert. Obwohl kein direkter Ranking-Faktor, beeinflusst sie die Klickrate erheblich. Eine gute Meta Description enthält einen Call-to-Action und wichtige Keywords.",
+    shortDescription: "Die Meta Description ist ein HTML-Tag mit einer Seitenbeschreibung, die Google als Textauszug unter dem Titel verwenden kann.",
+    snippetDefinition: "Die Meta Description ist ein HTML-Tag, in dem eine kurze Beschreibung der Seite steht. Google kann sie als Textauszug unter dem Titel in den Suchergebnissen verwenden, nutzt aber oft auch Text aus der Seite selbst. Sie dient dem Snippet, nicht dem Ranking. Eine feste Länge schreibt Google nicht vor; angezeigt werden je nach Gerät unterschiedlich viele Zeichen.",
+    fullDescription: "Die Meta Description ist ein HTML-Tag, das die Seite kurz beschreibt. Google kann sie als Textauszug in den Suchergebnissen verwenden oder stattdessen Text aus der Seite wählen. Sie dient dem Snippet, nicht dem Ranking. Eine gute Beschreibung fasst sachlich zusammen, was die Seite bietet.",
     features: [
-      "Max. 155-160 Zeichen optimal",
-      "Kein direkter Ranking-Faktor",
-      "Beeinflusst CTR stark",
-      "Google überschreibt oft automatisch"
-    ],
-    statistics: [
-      { label: "Google überschreibt", value: "70%", icon: "percent" },
-      { label: "CTR-Steigerung möglich", value: "+30%", icon: "trending" },
-      { label: "Seiten ohne Description", value: "25%", icon: "chart" }
+      "Dient als möglicher Snippet-Text",
+      "Keine feste Längenvorgabe von Google",
+      "Google wählt den Auszug je nach Suchanfrage",
+      "Eindeutig pro Seite"
     ],
     benefits: [
-      "Höhere Klickraten erzielen",
-      "Nutzer zum Klicken animieren",
-      "Relevanz kommunizieren",
-      "Call-to-Action einbauen"
+      "Kontrolle über den möglichen Auszug",
+      "Passung zur Seite verdeutlichen",
+      "Nutzer vor dem Klick informieren",
+      "Sachlich zusammenfassen"
     ],
     relatedTerms: ["Title Tag", "Meta-Tags", "CTR", "SERP"],
     difficulty: "anfänger",
@@ -1404,25 +1204,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "M",
     term: "Meta-Tags",
-    shortDescription: "Meta-Tags sind HTML-Elemente wie Title und Description, die Suchmaschinen und Nutzern Informationen über eine Webseite geben.",
-    snippetDefinition: "Meta-Tags sind HTML-Elemente im Quellcode einer Webseite, die Suchmaschinen und Browsern Informationen über den Seiteninhalt geben. Die wichtigsten Meta-Tags sind der Title-Tag (max. 60 Zeichen) und die Meta Description (max. 160 Zeichen). Für Local SEO sollten Ortsnamen und lokale Keywords in den Meta-Tags integriert werden, um die lokale Relevanz zu signalisieren.",
-    fullDescription: "Meta-Tags sind HTML-Elemente, die Suchmaschinen Informationen über eine Seite geben. Die wichtigsten sind der Title-Tag (Seitentitel in Suchergebnissen) und die Meta-Description (Beschreibungstext). Für Local SEO sollten Ortsnamen und lokale Keywords integriert werden.",
+    shortDescription: "Meta-Tags sind HTML-Elemente im Kopf einer Seite, die Suchmaschinen und Browsern Informationen über die Seite geben.",
+    snippetDefinition: "Meta-Tags sind HTML-Elemente im Quellcode einer Webseite, die Suchmaschinen und Browsern Informationen über die Seite geben. Wichtige Beispiele sind der Title-Tag, die Meta Description und Meta Robots zur Steuerung der Indexierung. Eine feste Zeichengrenze für den Titel gibt Google nicht vor; zu lange Titel werden in der Anzeige gekürzt.",
+    fullDescription: "Meta-Tags sind HTML-Elemente, die Suchmaschinen Informationen über eine Seite geben. Wichtige Beispiele sind der Title-Tag, die Meta Description und Meta Robots. Für Local SEO sollten Ortsangaben in Titel und Beschreibung stehen, wenn sie für die Seite tatsächlich zutreffen.",
     features: [
-      "Title-Tag: Max. 60 Zeichen",
-      "Meta-Description: Max. 160 Zeichen",
-      "Meta-Robots für Indexierung",
-      "Open Graph für Social Media"
-    ],
-    statistics: [
-      { label: "CTR-Steigerung optimierter Titles", value: "+20%", icon: "trending" },
-      { label: "Google schreibt Titles um", value: "61%", icon: "percent" },
-      { label: "Description beeinflusst CTR", value: "Stark", icon: "chart" }
+      "Title-Tag: kurz und eindeutig",
+      "Meta Description: fasst die Seite zusammen",
+      "Meta Robots: Indexierung steuern",
+      "Open Graph: Vorschau in sozialen Netzwerken"
     ],
     benefits: [
-      "Kontrolle über Suchergebnis-Darstellung",
-      "Höhere Klickraten erzielen",
-      "Lokale Keywords prominent platzieren",
-      "Nutzer zum Klicken animieren"
+      "Kontrolle über die Darstellung",
+      "Klare Angaben für Suchmaschinen",
+      "Steuerung der Indexierung",
+      "Bessere Vorschau beim Teilen"
     ],
     relatedTerms: ["Title Tag", "Meta Description", "On-Page SEO", "SERP"],
     difficulty: "anfänger",
@@ -1434,25 +1229,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "M",
     term: "Mobile First Index",
-    shortDescription: "Mobile First Index bedeutet, dass Google primär die mobile Version einer Website für Indexierung und Ranking verwendet.",
-    snippetDefinition: "Mobile First Index bedeutet, dass Google seit 2021 ausschließlich die mobile Version einer Website für Indexierung und Ranking heranzieht. Eine nicht-mobilfreundliche Website wird in den Suchergebnissen schlechter ranken. Mit über 60 % mobilem Traffic weltweit und 76 % mobilen lokalen Suchanfragen ist Responsive Design eine Pflichtvoraussetzung für erfolgreiches SEO.",
-    fullDescription: "Mobile First Index bedeutet, dass Google primär die mobile Version einer Website für Indexierung und Ranking verwendet. Seit 2021 ist Mobile First für alle Websites aktiv. Eine nicht-mobile-freundliche Website wird schlechter ranken, besonders bei mobilen Suchanfragen.",
+    shortDescription: "Mobile-First-Indexierung bedeutet, dass Google die mobile Version einer Website zum Indexieren und Bewerten heranzieht.",
+    snippetDefinition: "Mobile-First-Indexierung bedeutet, dass Google Websites anhand ihrer mobilen Version indexiert und bewertet. Für lokale Betriebe heißt das: Auf dem Handy müssen alle wichtigen Inhalte, Adresse, Öffnungszeiten und strukturierte Daten vorhanden sein, und die Seite muss schnell und bedienbar sein. Das gilt auch, wenn Ihre Kunden überwiegend am Computer suchen.",
+    fullDescription: "Mobile-First-Indexierung bedeutet, dass Google Websites anhand ihrer mobilen Version indexiert und bewertet. Inhalte, Metadaten und strukturierte Daten sollten mobil und am Desktop gleich vollständig sein. Eine Seite, die mobil Inhalte weglässt, kann sie dadurch auch in der Suche verlieren.",
     features: [
-      "Mobile Version ist maßgeblich",
+      "Die mobile Version ist maßgeblich",
       "Responsive Design empfohlen",
-      "Gleicher Content auf Mobile/Desktop",
-      "Mobile Usability Test in Search Console"
-    ],
-    statistics: [
-      { label: "Mobile Traffic weltweit", value: "60%+", icon: "percent" },
-      { label: "Mobile lokale Suchen", value: "76%", icon: "search" },
-      { label: "Mobile First seit", value: "2021", icon: "clock" }
+      "Gleiche Inhalte mobil und am Desktop",
+      "Strukturierte Daten auch mobil vorhanden"
     ],
     benefits: [
-      "Bessere mobile Rankings",
+      "Vollständige Inhalte auch auf dem Handy",
       "Größere Zielgruppe erreichen",
-      "Zukunftssichere Website",
-      "Bessere User Experience"
+      "Weniger Risiko durch fehlende Inhalte",
+      "Bessere Nutzbarkeit"
     ],
     relatedTerms: ["Responsive Design", "Core Web Vitals", "PageSpeed", "User Experience"],
     difficulty: "fortgeschritten",
@@ -1472,25 +1262,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "N",
     term: "NAP",
-    shortDescription: "NAP steht für Name, Address, Phone – die grundlegenden Kontaktdaten eines Unternehmens, die konsistent im Web erscheinen müssen.",
-    snippetDefinition: "NAP steht für Name, Address, Phone und bezeichnet die grundlegenden Kontaktdaten eines lokalen Unternehmens. Konsistente NAP-Daten über alle Online-Präsenzen hinweg – Website, Branchenverzeichnisse und Social Media – sind einer der wichtigsten Local-SEO-Ranking-Faktoren. 73 % aller Unternehmen haben inkonsistente NAP-Daten, was zu Ranking-Verlusten führt.",
-    fullDescription: "NAP steht für Name, Address, Phone und bezeichnet die grundlegenden Kontaktdaten eines Unternehmens. Konsistente NAP-Daten über alle Online-Präsenzen hinweg (Website, Verzeichnisse, Social Media) sind einer der wichtigsten Local SEO Ranking-Faktoren.",
+    shortDescription: "NAP steht für Name, Address, Phone, die Kontaktdaten eines Unternehmens, die überall im Web gleich lauten sollten.",
+    snippetDefinition: "NAP steht für Name, Address, Phone und bezeichnet die grundlegenden Kontaktdaten eines lokalen Unternehmens. Einheitliche Angaben auf Website, Unternehmensprofil, Verzeichnissen und Social Media vermeiden Verwechslungen bei Kunden und bei Suchmaschinen. Im Google Business Profile muss der Name dem tatsächlichen Namen entsprechen, den Kunden vor Ort vorfinden.",
+    fullDescription: "NAP steht für Name, Address, Phone und bezeichnet die grundlegenden Kontaktdaten eines Unternehmens. Einheitliche Angaben auf Website, Profil, Verzeichnissen und Social Media vermeiden Verwechslungen. Eine feste Gewichtung für das Ranking nennt Google nicht.",
     features: [
-      "Exakt gleiche Schreibweise überall",
+      "Überall gleiche Schreibweise",
       "Einheitliche Telefonnummer",
-      "Adresse mit Stadtteil",
-      "Schema Markup verwenden"
-    ],
-    statistics: [
-      { label: "Unternehmen mit NAP-Fehlern", value: "73%", icon: "percent" },
-      { label: "Ranking-Einfluss", value: "Hoch", icon: "trending" },
-      { label: "Citations zu prüfen", value: "50+", icon: "search" }
+      "Vollständige Adresse",
+      "Strukturierte Daten mit denselben Angaben"
     ],
     benefits: [
-      "Konsistentes Markenbild",
-      "Bessere lokale Rankings",
-      "Vermeidung von Verwirrung",
-      "Stärkere lokale Signale"
+      "Einheitliches Auftreten",
+      "Weniger Verwechslungen",
+      "Verlässliche Angaben für Kunden",
+      "Saubere Datenbasis für Google"
     ],
     relatedTerms: ["Citations", "Branchenverzeichnis", "Local SEO", "Google Business Profile"],
     difficulty: "anfänger",
@@ -1510,25 +1295,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "N",
     term: "Nofollow Link",
-    shortDescription: "Ein Nofollow Link ist ein Hyperlink mit dem Attribut rel='nofollow', der Suchmaschinen signalisiert, keinen PageRank weiterzugeben.",
-    snippetDefinition: "Ein Nofollow Link enthält das HTML-Attribut rel='nofollow', das Suchmaschinen signalisiert, diesem Link nicht zu folgen und keinen PageRank an die verlinkte Seite weiterzugeben. Seit 2020 behandelt Google Nofollow als Hinweis statt als strikte Anweisung. Rund 30 % aller Backlinks im Web sind Nofollow-Links – sie liefern dennoch indirekten SEO-Wert durch Traffic und Markenbekanntheit.",
-    fullDescription: "Ein Nofollow Link enthält das Attribut rel='nofollow', das Suchmaschinen signalisiert, diesem Link nicht zu folgen und keinen PageRank weiterzugeben. Seit 2020 behandelt Google Nofollow als 'Hinweis' statt als strikte Anweisung. Nofollow wird für bezahlte Links und User-Generated Content verwendet.",
+    shortDescription: "Ein Nofollow Link trägt das Attribut rel='nofollow' und weist Suchmaschinen darauf hin, den Link nicht als Empfehlung zu werten.",
+    snippetDefinition: "Ein Nofollow Link enthält das HTML-Attribut rel='nofollow'. Es weist Suchmaschinen darauf hin, den Link nicht als Empfehlung zu werten. Seit 2020 behandelt Google Nofollow als Hinweis statt als strikte Anweisung. Für bezahlte Links ist rel='sponsored' vorgesehen, für Nutzerbeiträge wie Kommentare rel='ugc'.",
+    fullDescription: "Ein Nofollow Link enthält das Attribut rel='nofollow'. Es weist Suchmaschinen darauf hin, den Link nicht als Empfehlung zu werten. Seit 2020 behandelt Google Nofollow als Hinweis statt als strikte Anweisung. Für bezahlte Links ist rel='sponsored' vorgesehen, für Nutzerbeiträge wie Kommentare rel='ugc'.",
     features: [
       "rel='nofollow' Attribut",
-      "Kein direkter PageRank-Transfer",
+      "Hinweis statt strikter Anweisung",
       "Seit 2020 als Hinweis behandelt",
-      "Auch: rel='sponsored', rel='ugc'"
-    ],
-    statistics: [
-      { label: "Backlinks mit Nofollow", value: "30%", icon: "percent" },
-      { label: "Indirekter SEO-Wert", value: "Vorhanden", icon: "trending" },
-      { label: "Traffic-Wert", value: "100%", icon: "chart" }
+      "Weitere Werte: rel='sponsored', rel='ugc'"
     ],
     benefits: [
-      "Natürliches Linkprofil aufbauen",
-      "Traffic trotz Nofollow erhalten",
-      "Markenerwähnungen nutzen",
-      "Linkbuilding-Strategie diversifizieren"
+      "Bezahlte Links richtig kennzeichnen",
+      "Nutzerbeiträge kennzeichnen",
+      "Regeln der Spamrichtlinien einhalten",
+      "Natürliches Linkprofil"
     ],
     relatedTerms: ["Backlinks", "Link Building", "Off-Page SEO"],
     difficulty: "fortgeschritten",
@@ -1538,25 +1318,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "O",
     term: "Off-Page SEO",
-    shortDescription: "Off-Page SEO umfasst alle Optimierungsmaßnahmen außerhalb der eigenen Website, insbesondere Backlink-Aufbau und Markenerwähnungen.",
-    snippetDefinition: "Off-Page SEO umfasst alle Suchmaschinenoptimierungs-Maßnahmen, die außerhalb der eigenen Website stattfinden. Der wichtigste Faktor ist der Aufbau hochwertiger Backlinks, ergänzt durch Social Signals, Markenerwähnungen und lokale Citations. Off-Page-Faktoren machen etwa 50 % der gesamten Ranking-Bewertung aus, wobei es 3–6 Monate dauert, bis Maßnahmen ihre volle Wirkung entfalten.",
-    fullDescription: "Off-Page SEO umfasst alle Optimierungsmaßnahmen, die außerhalb der eigenen Website stattfinden. Der wichtigste Faktor ist Link Building, aber auch Social Signals, Markenerwähnungen, lokale Citations und Online-Reputation zählen dazu.",
+    shortDescription: "Off-Page SEO umfasst Optimierungsmaßnahmen außerhalb der eigenen Website, etwa Verlinkungen und Erwähnungen.",
+    snippetDefinition: "Off-Page SEO umfasst alle Maßnahmen außerhalb der eigenen Website, die die Sichtbarkeit in Suchmaschinen beeinflussen können. Dazu gehören Links von anderen Websites, Erwähnungen der Marke, Einträge in Verzeichnissen und Bewertungen. Wie stark einzelne Faktoren wirken, veröffentlicht Google nicht; Prozentangaben zu On-Page und Off-Page sind nicht belegt.",
+    fullDescription: "Off-Page SEO umfasst alle Optimierungsmaßnahmen außerhalb der eigenen Website. Dazu gehören Links von anderen Websites, Markenerwähnungen, lokale Verzeichniseinträge und Bewertungen. Wie stark einzelne Faktoren wirken, veröffentlicht Google nicht.",
     features: [
-      "Backlink-Aufbau",
-      "Brand Mentions",
-      "Social Signals",
-      "Lokale Citations"
-    ],
-    statistics: [
-      { label: "Ranking-Einfluss", value: "~50%", icon: "percent" },
-      { label: "Backlinks wichtigster Faktor", value: "#1-2", icon: "trending" },
-      { label: "Zeit bis Wirkung", value: "3-6 Monate", icon: "clock" }
+      "Links von anderen Websites",
+      "Markenerwähnungen",
+      "Verzeichniseinträge",
+      "Bewertungen und Reputation"
     ],
     benefits: [
-      "Höhere Domain Authority",
-      "Bessere Rankings",
-      "Mehr Referral-Traffic",
-      "Markenbekanntheit steigern"
+      "Bekanntheit im Umfeld aufbauen",
+      "Verweise von anderen Websites",
+      "Mehr Besucher über Verweise",
+      "Ruf im Web pflegen"
     ],
     relatedTerms: ["On-Page SEO", "Link Building", "Backlinks", "Citations", "Technical SEO"],
     difficulty: "fortgeschritten",
@@ -1574,25 +1349,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "O",
     term: "On-Page SEO",
-    shortDescription: "On-Page SEO umfasst alle Optimierungsmaßnahmen, die direkt auf der eigenen Website durchgeführt werden.",
-    snippetDefinition: "On-Page SEO umfasst alle Optimierungsmaßnahmen, die direkt auf der eigenen Website durchgeführt werden, darunter Content-Optimierung, technisches SEO, interne Verlinkung und User Experience. On-Page-Faktoren machen etwa 25 % der gesamten Ranking-Bewertung aus. Für lokale Unternehmen sind besonders lokale Landing Pages mit ortsbezogenen Keywords und strukturierte Daten entscheidend.",
-    fullDescription: "On-Page SEO umfasst alle Optimierungsmaßnahmen, die direkt auf der Website durchgeführt werden. Dazu gehören Inhaltsoptimierung, technische SEO-Aspekte, interne Verlinkung und User Experience. Für lokale Unternehmen sind lokale Landing Pages und strukturierte Daten besonders wichtig.",
+    shortDescription: "On-Page SEO umfasst Optimierungsmaßnahmen, die direkt auf der eigenen Website durchgeführt werden.",
+    snippetDefinition: "On-Page SEO umfasst alle Optimierungsmaßnahmen, die direkt auf der eigenen Website durchgeführt werden: Inhalte, Titel und Überschriften, technische Grundlagen, interne Verlinkung und Nutzerführung. Für lokale Unternehmen gehören auch korrekte Standortangaben, passende Leistungsseiten und strukturierte Daten dazu.",
+    fullDescription: "On-Page SEO umfasst alle Optimierungsmaßnahmen, die direkt auf der Website durchgeführt werden. Dazu gehören Inhalte, Titel und Überschriften, technische Aspekte, interne Verlinkung und Nutzerführung. Für lokale Unternehmen sind korrekte Standortangaben, klare Leistungsseiten und strukturierte Daten besonders wichtig.",
     features: [
-      "Content-Optimierung",
-      "Technisches SEO",
-      "Interne Verlinkung",
-      "URL-Struktur optimieren"
-    ],
-    statistics: [
-      { label: "Ranking-Einfluss", value: "~25%", icon: "percent" },
-      { label: "Core Web Vitals wichtig", value: "Ja", icon: "trending" },
-      { label: "Seiten pro Website", value: "Alle", icon: "chart" }
+      "Inhalte optimieren",
+      "Titel, Beschreibung und Überschriften",
+      "Technische Grundlagen",
+      "Interne Verlinkung"
     ],
     benefits: [
-      "Volle Kontrolle über Optimierung",
-      "Schnelle Umsetzung möglich",
-      "Solide SEO-Grundlage schaffen",
-      "Bessere User Experience"
+      "Volle Kontrolle über die Umsetzung",
+      "Schnell umsetzbar",
+      "Solide Grundlage",
+      "Bessere Nutzererfahrung"
     ],
     relatedTerms: ["Off-Page SEO", "Technical SEO", "Keywords", "Internal Linking", "Title Tag"],
     difficulty: "anfänger",
@@ -1611,25 +1381,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "O",
     term: "Organic Traffic",
-    shortDescription: "Organic Traffic bezeichnet unbezahlte Besucher, die über die organischen Google-Suchergebnisse auf eine Website gelangen.",
-    snippetDefinition: "Organic Traffic bezeichnet Besucher, die über unbezahlte (organische) Suchergebnisse auf eine Website gelangen – im Gegensatz zu bezahltem Traffic aus Google Ads. Organischer Traffic macht durchschnittlich 53 % des gesamten Website-Traffics aus und hat höhere Conversion-Raten als bezahlter Traffic. Die Steigerung des organischen Traffics ist das primäre Ziel der Suchmaschinenoptimierung.",
-    fullDescription: "Organic Traffic bezeichnet Besucher, die über unbezahlte Suchergebnisse auf eine Website gelangen - im Gegensatz zu bezahltem Traffic aus Anzeigen. Die Steigerung des organischen Traffics ist das primäre Ziel der Suchmaschinenoptimierung.",
+    shortDescription: "Organic Traffic sind Besucher, die über unbezahlte Suchergebnisse auf eine Website gelangen.",
+    snippetDefinition: "Organic Traffic bezeichnet Besucher, die über unbezahlte (organische) Suchergebnisse auf eine Website gelangen, im Gegensatz zu bezahltem Traffic aus Anzeigen. Er lässt sich in Google Analytics und der Search Console nachvollziehen. Mehr organische Besucher sind ein typisches Ziel der Suchmaschinenoptimierung, aber erst Anfragen und Kunden machen sie wertvoll.",
+    fullDescription: "Organic Traffic bezeichnet Besucher, die über unbezahlte Suchergebnisse auf eine Website gelangen, im Gegensatz zu bezahltem Traffic aus Anzeigen. Er lässt sich in Google Analytics und der Search Console nachvollziehen. Mehr organische Besucher sind ein typisches Ziel der Suchmaschinenoptimierung.",
     features: [
-      "Kostenlos (keine Klickkosten)",
-      "Nachhaltig bei guten Rankings",
-      "Messbar in Analytics",
-      "Abhängig von SEO-Maßnahmen"
-    ],
-    statistics: [
-      { label: "Durchschnittliche CTR Pos. 1", value: "27.6%", icon: "percent" },
-      { label: "Organic vs. Paid Traffic", value: "53% vs 15%", icon: "chart" },
-      { label: "Conversion bei Organic", value: "Höher", icon: "trending" }
+      "Keine Klickkosten",
+      "Abhängig von Sichtbarkeit in den Suchergebnissen",
+      "Messbar in Analytics und Search Console",
+      "Entwicklung braucht Zeit"
     ],
     benefits: [
-      "Keine laufenden Werbekosten",
-      "Nachhaltige Traffic-Quelle",
-      "Höheres Nutzervertrauen",
-      "Skalierbar durch SEO"
+      "Keine Kosten pro Klick",
+      "Verlauf über die Zeit beobachten",
+      "Hinweis auf Sichtbarkeit",
+      "Grundlage für Anfragen und Kunden"
     ],
     relatedTerms: ["SERP", "Keywords", "On-Page SEO", "Off-Page SEO"],
     difficulty: "anfänger",
@@ -1642,25 +1407,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "P",
     term: "PageSpeed",
-    shortDescription: "PageSpeed ist die Ladegeschwindigkeit einer Website – ein bestätigter Google-Ranking-Faktor, der Nutzererfahrung und Conversions beeinflusst.",
-    snippetDefinition: "PageSpeed bezeichnet die Ladegeschwindigkeit einer Website und ist ein bestätigter Google-Ranking-Faktor. Gemessen wird sie über die Core Web Vitals (LCP, INP, CLS). 53 % der mobilen Nutzer verlassen eine Website, die länger als 3 Sekunden lädt. Jede Sekunde schnellere Ladezeit steigert die Conversion-Rate um durchschnittlich 7 %.",
-    fullDescription: "PageSpeed bezeichnet die Ladezeit einer Website und ist ein bestätigter Google Ranking-Faktor. Seit den Core Web Vitals ist die Page Experience noch wichtiger geworden. Langsame Websites verlieren Besucher und ranken schlechter - besonders kritisch für mobile lokale Suchen.",
+    shortDescription: "PageSpeed bezeichnet die Ladegeschwindigkeit einer Website und wird über Messwerte wie die Core Web Vitals beurteilt.",
+    snippetDefinition: "PageSpeed bezeichnet die Ladegeschwindigkeit und das Reaktionsverhalten einer Website. Gemessen wird sie unter anderem über die Core Web Vitals (LCP, INP, CLS), die laut Google von den Ranking-Systemen der Websuche genutzt werden. Gute Werte garantieren keine Top-Position, schaffen aber eine bessere Nutzererfahrung, besonders auf dem Handy.",
+    fullDescription: "PageSpeed bezeichnet die Ladezeit und Reaktionsfähigkeit einer Website. Gemessen wird sie unter anderem über die Core Web Vitals. Laut Google werden diese von den Ranking-Systemen der Websuche genutzt, ersetzen aber nicht die Relevanz des Inhalts. Für Besucher auf dem Handy zählt eine schnelle Seite in jedem Fall.",
     features: [
       "Largest Contentful Paint (LCP)",
-      "First Input Delay (FID) / INP",
+      "Interaction to Next Paint (INP, ersetzt FID)",
       "Cumulative Layout Shift (CLS)",
       "Time to First Byte (TTFB)"
     ],
-    statistics: [
-      { label: "Absprung bei >3s Ladezeit", value: "53%", icon: "percent" },
-      { label: "Conversion-Steigerung pro Sekunde", value: "+7%", icon: "trending" },
-      { label: "Mobile Nutzer erwarten", value: "<3s", icon: "clock" }
-    ],
     benefits: [
-      "Bessere Rankings erzielen",
-      "Höhere Conversion-Rates",
-      "Reduzierte Absprungraten",
-      "Bessere mobile Erfahrung"
+      "Bessere Nutzererfahrung",
+      "Weniger Abbrüche",
+      "Bessere mobile Erfahrung",
+      "Von Googles Ranking-Systemen genutzt, ohne Garantie"
     ],
     relatedTerms: ["Core Web Vitals", "Mobile First Index", "Technical SEO", "User Experience"],
     difficulty: "fortgeschritten",
@@ -1679,25 +1439,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "P",
     term: "Proximity (Entfernung)",
-    shortDescription: "Proximity (Entfernung) ist die geografische Nähe zwischen Nutzer und Unternehmen – einer der drei wichtigsten Local-SEO-Ranking-Faktoren.",
-    snippetDefinition: "Proximity bezeichnet die geografische Entfernung zwischen dem Standort des Suchenden und einem lokalen Unternehmen. Neben Relevanz und Prominenz ist Proximity einer der drei wichtigsten Local-SEO-Ranking-Faktoren. Google zeigt bevorzugt Unternehmen in der Nähe des Nutzers an – 72 % der lokalen Suchergebnisse stammen aus einem Radius von einem Kilometer.",
-    fullDescription: "Proximity bezeichnet die geografische Nähe zwischen dem Standort des Suchenden und einem lokalen Unternehmen. Es ist einer der drei wichtigsten Local SEO Ranking-Faktoren (neben Relevanz und Prominenz). Google zeigt bevorzugt Unternehmen in der Nähe des Nutzers an.",
+    shortDescription: "Proximity (Entfernung) ist der Abstand zwischen dem Standort des Suchenden und einem lokalen Unternehmen, eines der drei Kriterien für lokale Treffer.",
+    snippetDefinition: "Proximity bezeichnet die Entfernung zwischen dem Suchenden und einem lokalen Unternehmen. Neben Relevanz und Bekanntheit ist sie eines von drei Kriterien, nach denen Google lokale Treffer sortiert. Eine Gewichtung veröffentlicht Google nicht. Die Entfernung können Betriebe nicht beeinflussen; sie können aber ihre Relevanz und Bekanntheit pflegen.",
+    fullDescription: "Proximity bezeichnet die Entfernung zwischen dem Suchenden und einem lokalen Unternehmen. Neben Relevanz und Bekanntheit ist sie eines von drei Kriterien für lokale Treffer. Eine Gewichtung veröffentlicht Google nicht. Die Entfernung ist für Betriebe nicht direkt beeinflussbar.",
     features: [
-      "GPS-basiert auf Mobilgeräten",
-      "IP-basiert auf Desktop",
+      "Standortbasiert auf Mobilgeräten",
+      "Ungefährer Standort am Computer",
       "Stadtteile und Bezirke relevant",
       "Nicht direkt beeinflussbar"
     ],
-    statistics: [
-      { label: "Im 1km Radius erscheinen", value: "72%", icon: "percent" },
-      { label: "Local Pack Einfluss", value: "~25%", icon: "trending" },
-      { label: "Mobile Suchen 'in meiner Nähe'", value: "+200%", icon: "chart" }
-    ],
     benefits: [
-      "Verstehen des Ranking-Faktors",
-      "Lokale Landing Pages erstellen",
-      "Service Areas definieren",
-      "Standortvorteile nutzen"
+      "Verständnis des Kriteriums",
+      "Realistische Erwartungen an lokale Treffer",
+      "Servicegebiete ehrlich festlegen",
+      "Fokus auf Relevanz und Bekanntheit"
     ],
     relatedTerms: ["Local Pack", "Local SEO", "Geo-Targeting", "Google Maps"],
     difficulty: "anfänger",
@@ -1711,25 +1466,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "Q",
     term: "Quality Raters",
-    shortDescription: "Quality Raters sind menschliche Bewerter, die für Google die Qualität von Suchergebnissen anhand der E-E-A-T-Kriterien einschätzen.",
-    snippetDefinition: "Quality Raters sind über 10.000 menschliche Bewerter weltweit, die für Google die Qualität von Suchergebnissen anhand der Quality Rater Guidelines (QRG) einschätzen. Sie bewerten Websites insbesondere nach E-E-A-T-Kriterien. Ihre Bewertungen fließen nicht direkt in Rankings ein, sondern dienen der Weiterentwicklung des Google-Suchalgorithmus.",
-    fullDescription: "Quality Raters sind menschliche Bewerter, die für Google die Qualität von Suchergebnissen einschätzen. Sie arbeiten nach den Quality Rater Guidelines, die E-E-A-T-Kriterien detailliert beschreiben. Ihre Bewertungen fließen in die Algorithmus-Entwicklung ein.",
+    shortDescription: "Quality Raters sind externe Prüfer, die Googles Suchergebnisse anhand der Search Quality Rater Guidelines beurteilen.",
+    snippetDefinition: "Quality Raters sind externe Prüfer, die Suchergebnisse für Google anhand der Search Quality Rater Guidelines beurteilen. Sie bewerten dabei auch nach dem Rahmen E-E-A-T. Ihre Bewertungen bestimmen laut Google nicht direkt das Ranking einzelner Seiten, sondern helfen, Änderungen an den Suchsystemen zu testen und zu verbessern.",
+    fullDescription: "Quality Raters sind externe Prüfer, die Suchergebnisse für Google anhand der Search Quality Rater Guidelines beurteilen. Die Richtlinien beschreiben unter anderem E-E-A-T. Ihre Bewertungen bestimmen laut Google nicht direkt das Ranking einzelner Seiten, sondern helfen, die Suchsysteme zu testen.",
     features: [
-      "Weltweit über 10.000 Bewerter",
-      "Arbeiten nach QRG (Guidelines)",
-      "Bewerten E-E-A-T",
-      "Kein direkter Ranking-Einfluss"
-    ],
-    statistics: [
-      { label: "QRG Seitenzahl", value: "175+", icon: "chart" },
-      { label: "Bewertungen täglich", value: "Tausende", icon: "search" },
-      { label: "Einfluss auf Algorithmus", value: "Indirekt", icon: "trending" }
+      "Arbeiten nach den Quality Rater Guidelines",
+      "Beurteilen Suchergebnisse",
+      "Beschreiben E-E-A-T",
+      "Keine direkte Wirkung auf einzelne Seiten"
     ],
     benefits: [
-      "Verständnis für Googles Qualitätskriterien",
-      "Einblick in YMYL-Bewertung",
-      "Best Practices lernen",
-      "Zukünftige Updates antizipieren"
+      "Einblick in Googles Qualitätsmaßstäbe",
+      "Verständnis für YMYL-Themen",
+      "Orientierung beim Schreiben",
+      "Guidelines sind öffentlich einsehbar"
     ],
     relatedTerms: ["E-E-A-T", "YMYL", "Algorithmus-Update", "White Hat SEO"],
     difficulty: "experte",
@@ -1739,25 +1489,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "R",
     term: "Responsive Design",
-    shortDescription: "Responsive Design ist ein Webdesign-Ansatz, bei dem sich die Website automatisch an alle Bildschirmgrößen und Geräte anpasst.",
-    snippetDefinition: "Responsive Design ist ein Webdesign-Ansatz, bei dem sich Layout, Bilder und Navigation automatisch an verschiedene Bildschirmgrößen und Geräte anpassen. Google empfiehlt Responsive Design als bevorzugte Methode für mobile Websites – eine URL für alle Geräte. Mit über 60 % mobilem Traffic ist Responsive Design eine Pflichtvoraussetzung für gute Rankings.",
-    fullDescription: "Responsive Design ist ein Webdesign-Ansatz, bei dem sich die Website automatisch an verschiedene Bildschirmgrößen und Geräte anpasst. Google empfiehlt Responsive Design als bevorzugte Methode für mobile Websites und es ist Voraussetzung für gute Mobile-Rankings.",
+    shortDescription: "Responsive Design ist ein Webdesign-Ansatz, bei dem sich Layout und Inhalte automatisch an die Bildschirmgröße anpassen.",
+    snippetDefinition: "Responsive Design ist ein Webdesign-Ansatz, bei dem sich Layout, Bilder und Navigation automatisch an verschiedene Bildschirmgrößen und Geräte anpassen. Eine Adresse liefert dabei dieselben Inhalte an alle Geräte. Google empfiehlt Responsive Design als Methode für mobile Websites. Es erleichtert die Pflege, weil es nur eine Version gibt.",
+    fullDescription: "Responsive Design ist ein Webdesign-Ansatz, bei dem sich die Website automatisch an verschiedene Bildschirmgrößen und Geräte anpasst. Eine URL liefert dieselben Inhalte an alle Geräte. Google empfiehlt Responsive Design für mobile Websites.",
     features: [
-      "Automatische Anpassung an Bildschirmgröße",
+      "Automatische Anpassung an die Bildschirmgröße",
       "Eine URL für alle Geräte",
-      "Fluid Grids und flexible Bilder",
+      "Flexible Raster und Bilder",
       "CSS Media Queries"
     ],
-    statistics: [
-      { label: "Mobile Traffic Anteil", value: "60%+", icon: "percent" },
-      { label: "Google-Empfehlung", value: "Ja", icon: "trending" },
-      { label: "Websites mit Responsive Design", value: "75%", icon: "chart" }
-    ],
     benefits: [
-      "Beste Mobile-Erfahrung",
+      "Gute Bedienung auf allen Geräten",
       "Von Google empfohlen",
       "Einfachere Wartung (eine Version)",
-      "Bessere Rankings auf Mobile"
+      "Gleiche Inhalte mobil und am Desktop"
     ],
     relatedTerms: ["Mobile First Index", "Core Web Vitals", "User Experience", "PageSpeed"],
     difficulty: "anfänger",
@@ -1769,25 +1514,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "R",
     term: "Reviews (Bewertungen)",
-    shortDescription: "Reviews (Bewertungen) sind Kundenbewertungen auf Google und anderen Plattformen – ein entscheidender Local-SEO-Ranking-Faktor.",
-    snippetDefinition: "Reviews (Bewertungen) sind Kundenbewertungen, die auf Google, Facebook und Branchenportalen hinterlassen werden. Sie machen 17 % der Local-Pack-Ranking-Faktoren aus und beeinflussen die Kaufentscheidung von 93 % der Verbraucher. 88 % der Nutzer vertrauen Online-Bewertungen genauso wie persönlichen Empfehlungen, weshalb aktives Review-Management unverzichtbar ist.",
-    fullDescription: "Reviews sind Kundenbewertungen, die auf Google, Facebook, Branchenportalen und anderen Plattformen hinterlassen werden. Sie beeinflussen das Local Pack Ranking erheblich und sind der wichtigste Faktor für die Kaufentscheidung lokaler Kunden.",
+    shortDescription: "Reviews (Bewertungen) sind Kundenbewertungen auf Google und anderen Plattformen.",
+    snippetDefinition: "Reviews (Bewertungen) sind Kundenbewertungen auf Google, Facebook und Branchenportalen. Laut Googles Hilfe fließen Anzahl und Durchschnitt der Google-Bewertungen in das lokale Ranking ein. Bewertungen dürfen nicht gekauft oder an Gegenleistungen geknüpft werden; auch das Filtern nur positiver Rückmeldungen verstößt gegen Googles Richtlinien.",
+    fullDescription: "Reviews sind Kundenbewertungen, die auf Google, Facebook, Branchenportalen und anderen Plattformen hinterlassen werden. Laut Googles Hilfe fließen Anzahl und Durchschnitt der Google-Bewertungen in das lokale Ranking ein. Für Kunden sind sie eine wichtige Entscheidungshilfe. Bewertungen dürfen nicht gekauft oder gegen Gegenleistungen eingesammelt werden.",
     features: [
-      "Google-Bewertungen am wichtigsten",
-      "Sternebewertung + Rezensionstext",
+      "Google-Bewertungen als Grundlage im Profil",
+      "Sternebewertung und Text",
       "Antworten auf Bewertungen",
-      "Review-Management Tools"
-    ],
-    statistics: [
-      { label: "Vertrauen in Online-Bewertungen", value: "88%", icon: "users" },
-      { label: "Local Pack Einfluss", value: "17%", icon: "percent" },
-      { label: "Kaufentscheidung beeinflusst", value: "93%", icon: "trending" }
+      "Richtlinien: keine Anreize, keine Filterung"
     ],
     benefits: [
-      "Höhere Rankings im Local Pack",
+      "Fließen laut Google in das lokale Ranking ein",
       "Mehr Vertrauen bei Neukunden",
       "Wertvolles Kundenfeedback",
-      "Höhere Conversion-Rates"
+      "Gelegenheit, öffentlich zu antworten"
     ],
     relatedTerms: ["Google Business Profile", "E-E-A-T", "Local SEO", "Local Pack"],
     difficulty: "anfänger",
@@ -1807,25 +1547,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "R",
     term: "Rich Snippets",
-    shortDescription: "Rich Snippets sind erweiterte Suchergebnisse, die durch strukturierte Daten zusätzliche Informationen wie Sterne und Preise anzeigen.",
-    snippetDefinition: "Rich Snippets sind erweiterte Suchergebnisse in Google, die durch strukturierte Daten (Schema Markup) zusätzliche Informationen wie Bewertungssterne, Preise, Verfügbarkeit oder FAQ-Antworten anzeigen. Sie erhöhen die Klickrate um durchschnittlich 30 % und verschaffen Websites mehr Aufmerksamkeit in den Suchergebnissen. Nur 33 % aller Websites nutzen strukturierte Daten für Rich Snippets.",
-    fullDescription: "Rich Snippets sind erweiterte Suchergebnisse, die zusätzliche Informationen wie Bewertungssterne, Preise, Verfügbarkeit oder Rezeptzeiten anzeigen. Sie entstehen durch strukturierte Daten (Schema Markup) und erhöhen die Klickrate deutlich.",
+    shortDescription: "Rich Snippets sind erweiterte Suchergebnisse, die durch strukturierte Daten zusätzliche Informationen anzeigen können.",
+    snippetDefinition: "Rich Snippets, bei Google heute meist Rich Results genannt, sind erweiterte Suchergebnisse, die durch strukturierte Daten zusätzliche Informationen wie Preise, Verfügbarkeit oder Veranstaltungen anzeigen können. Ob und in welcher Form Google sie zeigt, hängt vom Markup-Typ und davon ab, ob die Seite die Voraussetzungen erfüllt. Eine Garantie gibt es nicht.",
+    fullDescription: "Rich Snippets, bei Google heute meist Rich Results genannt, sind erweiterte Suchergebnisse mit zusätzlichen Informationen wie Preisen, Verfügbarkeit oder Veranstaltungsdaten. Sie entstehen durch strukturierte Daten, werden aber nur gezeigt, wenn Google das für die Seite vorsieht. Nicht jede Auszeichnung führt zu einem Rich Result.",
     features: [
-      "Bewertungssterne",
       "Produktpreise und Verfügbarkeit",
-      "FAQ-Antworten",
-      "Event-Informationen"
-    ],
-    statistics: [
-      { label: "CTR-Steigerung", value: "+30%", icon: "trending" },
-      { label: "Websites mit Rich Snippets", value: "33%", icon: "percent" },
-      { label: "Klickratenerhöhung bei Reviews", value: "+87%", icon: "chart" }
+      "Veranstaltungsinformationen",
+      "Weitere Typen je nach Google-Dokumentation",
+      "Anzeige entscheidet Google"
     ],
     benefits: [
-      "Höhere Klickraten",
-      "Mehr Aufmerksamkeit in SERP",
       "Mehr Informationen vorab zeigen",
-      "Vertrauenswürdigkeit steigern"
+      "Auffälligere Darstellung, wenn sie angezeigt werden",
+      "Klare Daten für Nutzer",
+      "Grundlage: korrekt umgesetzte strukturierte Daten"
     ],
     relatedTerms: ["Schema Markup", "JSON-LD", "SERP", "Featured Snippet"],
     difficulty: "fortgeschritten",
@@ -1837,25 +1572,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "R",
     term: "Robots.txt",
-    shortDescription: "Die robots.txt ist eine Textdatei im Stammverzeichnis einer Website, die Suchmaschinen-Crawlern Anweisungen zum Crawling gibt.",
-    snippetDefinition: "Die robots.txt ist eine Textdatei im Stammverzeichnis (Root) einer Website, die Suchmaschinen-Crawlern wie Googlebot Anweisungen gibt, welche Bereiche sie crawlen dürfen und welche nicht. Sie dient der Steuerung des Crawl-Budgets und enthält Allow- und Disallow-Direktiven. 80 % aller Websites nutzen eine robots.txt, doch 15 % haben sie fehlerhaft konfiguriert.",
-    fullDescription: "Die robots.txt ist eine Textdatei im Stammverzeichnis einer Website, die Suchmaschinen-Crawlern Anweisungen gibt, welche Bereiche sie crawlen dürfen und welche nicht. Sie ist kein Sicherheitsmechanismus, sondern eine Empfehlung an gutartige Bots.",
+    shortDescription: "Die robots.txt ist eine Textdatei im Stammverzeichnis einer Website, die Crawlern mitteilt, welche Bereiche sie abrufen dürfen.",
+    snippetDefinition: "Die robots.txt ist eine Textdatei im Stammverzeichnis einer Website, die Crawlern wie dem Googlebot mitteilt, welche Bereiche sie abrufen dürfen und welche nicht. Sie steuert das Crawling, nicht die Indexierung: Eine blockierte URL kann trotzdem ohne Inhalt in den Suchergebnissen erscheinen. Um eine Seite aus der Suche auszuschließen, braucht es noindex. Die Datei ist öffentlich lesbar und kein Schutz für vertrauliche Inhalte.",
+    fullDescription: "Die robots.txt ist eine Textdatei im Stammverzeichnis einer Website, die Crawlern mitteilt, welche Bereiche sie abrufen dürfen. Sie ist kein Sicherheitsmechanismus, sondern eine Vereinbarung, an die sich seriöse Bots halten. Sie steuert das Crawling, nicht die Indexierung.",
     features: [
-      "Liegt im Root-Verzeichnis",
+      "Liegt im Stammverzeichnis",
       "Steuert Crawling (nicht Indexierung)",
-      "Disallow und Allow Direktiven",
+      "Disallow- und Allow-Regeln",
       "Sitemap-Verweis möglich"
     ],
-    statistics: [
-      { label: "Websites mit robots.txt", value: "80%", icon: "percent" },
-      { label: "Falsch konfiguriert", value: "15%", icon: "chart" },
-      { label: "Kann Rankings blockieren", value: "Ja", icon: "trending" }
-    ],
     benefits: [
-      "Crawl-Budget optimieren",
-      "Unwichtige Bereiche ausschließen",
-      "Admin-Bereiche verstecken",
-      "Duplicate Content vermeiden"
+      "Crawler von unwichtigen Bereichen fernhalten",
+      "Zentrale Steuerung des Crawlings",
+      "Sitemap für Crawler auffindbar machen",
+      "Kein Ersatz für noindex oder Passwortschutz"
     ],
     relatedTerms: ["Crawling", "Indexierung", "Technical SEO", "XML-Sitemap"],
     difficulty: "fortgeschritten",
@@ -1869,25 +1599,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "S",
     term: "Schema Markup",
-    shortDescription: "Schema Markup ist eine standardisierte Form strukturierter Daten nach dem Schema.org-Standard, die Suchmaschinen Inhalte besser verstehen lässt.",
-    snippetDefinition: "Schema Markup ist eine standardisierte Form strukturierter Daten basierend auf dem Schema.org-Vokabular, die Suchmaschinen hilft, Website-Inhalte besser zu verstehen. Es kann in Formaten wie JSON-LD implementiert werden und ermöglicht Rich Results in den Suchergebnissen. Für Local SEO ist das LocalBusiness-Schema besonders wichtig – Websites mit Schema Markup erzielen 25 % höhere Klickraten.",
-    fullDescription: "Schema Markup ist eine standardisierte Form strukturierter Daten, die Suchmaschinen hilft, Inhalte besser zu verstehen. Es verwendet das Schema.org Vokabular und kann in verschiedenen Formaten (JSON-LD, Microdata) implementiert werden. Für Local SEO ist das LocalBusiness Schema besonders wichtig.",
+    shortDescription: "Schema Markup ist eine standardisierte Form strukturierter Daten nach dem Schema.org-Vokabular, die Suchmaschinen Inhalte besser verstehen lässt.",
+    snippetDefinition: "Schema Markup ist eine standardisierte Form strukturierter Daten auf Grundlage des Schema.org-Vokabulars. Es hilft Suchmaschinen, die Inhalte einer Seite besser zu verstehen, und kann in Formaten wie JSON-LD umgesetzt werden. Es kann Rich Results ermöglichen, garantiert sie aber nicht. Für Local SEO ist das LocalBusiness-Markup mit Name, Adresse und Öffnungszeiten üblich.",
+    fullDescription: "Schema Markup ist eine standardisierte Form strukturierter Daten, die Suchmaschinen hilft, Inhalte besser zu verstehen. Es verwendet das Schema.org-Vokabular und kann in verschiedenen Formaten (JSON-LD, Microdata) umgesetzt werden. Die Angaben müssen mit dem sichtbaren Inhalt übereinstimmen.",
     features: [
-      "Schema.org Vokabular",
-      "LocalBusiness, Product, FAQ, etc.",
-      "JSON-LD bevorzugtes Format",
-      "Rich Results ermöglichen"
-    ],
-    statistics: [
-      { label: "Websites mit Schema", value: "33%", icon: "percent" },
-      { label: "Rich Results wahrscheinlicher", value: "+30%", icon: "trending" },
-      { label: "CTR-Steigerung", value: "25%", icon: "chart" }
+      "Schema.org-Vokabular",
+      "LocalBusiness, Product, Event und weitere Typen",
+      "JSON-LD als empfohlenes Format",
+      "Kann Rich Results ermöglichen"
     ],
     benefits: [
-      "Rich Snippets erhalten",
-      "Google Verständnis verbessern",
-      "Lokale Präsenz stärken",
-      "Voice Search optimieren"
+      "Besseres maschinelles Verständnis der Inhalte",
+      "Kann Rich Results ermöglichen, wenn die Seite berechtigt ist",
+      "Klare Angaben zum Unternehmen",
+      "Einheitliche Datenbasis"
     ],
     relatedTerms: ["JSON-LD", "Rich Snippets", "Technical SEO", "Local SEO"],
     difficulty: "fortgeschritten",
@@ -1907,23 +1632,18 @@ export const seoLexikonData: SEOTerm[] = [
     letter: "S",
     term: "Search Intent",
     shortDescription: "Search Intent (Suchintention) beschreibt die Absicht und das Ziel, das ein Nutzer mit einer Suchanfrage verfolgt.",
-    snippetDefinition: "Search Intent (Suchintention) beschreibt, was ein Nutzer tatsächlich erreichen möchte, wenn er eine Suchanfrage bei Google stellt. Die vier Haupttypen sind: informational (Wissen suchen), navigational (bestimmte Seite finden), commercial (Recherche vor Kauf) und transactional (direkt kaufen). Google bevorzugt Suchergebnisse, die den Search Intent optimal erfüllen – ein korrektes Intent-Matching ist der kritischste Faktor für gute Rankings.",
-    fullDescription: "Search Intent (Suchintention) beschreibt, was ein Nutzer tatsächlich erreichen möchte, wenn er eine Suchanfrage stellt. Google ordnet jeder Suchanfrage eine Intention zu und bevorzugt Ergebnisse, die diese erfüllen. Die vier Haupttypen sind: informational, navigational, commercial und transactional.",
+    snippetDefinition: "Search Intent (Suchintention) beschreibt, was ein Nutzer mit einer Suchanfrage tatsächlich erreichen möchte. Häufig unterscheidet man vier Typen: informational (Wissen suchen), navigational (eine bestimmte Seite finden), commercial (vor dem Kauf vergleichen) und transactional (direkt kaufen oder buchen). Inhalte sollten zur Absicht der Suchanfrage passen.",
+    fullDescription: "Search Intent (Suchintention) beschreibt, was ein Nutzer mit einer Suchanfrage tatsächlich erreichen möchte. Häufig unterscheidet man vier Typen: informational, navigational, commercial und transactional. Inhalte, die die Absicht treffen, sind für Nutzer nützlicher als solche, die nur ein Stichwort enthalten.",
     features: [
       "Informational: Wissen suchen",
       "Navigational: Bestimmte Seite finden",
       "Commercial: Recherche vor Kauf",
-      "Transactional: Direkt kaufen/buchen"
-    ],
-    statistics: [
-      { label: "Informational Suchen", value: "80%", icon: "percent" },
-      { label: "Transactional Suchen", value: "10%", icon: "chart" },
-      { label: "Intent-Match für Ranking", value: "Kritisch", icon: "trending" }
+      "Transactional: Direkt kaufen oder buchen"
     ],
     benefits: [
-      "Passenden Content erstellen",
-      "Bessere Rankings erzielen",
-      "Höhere Conversion-Rates",
+      "Passende Inhalte erstellen",
+      "Besucher mit klarer Absicht abholen",
+      "Klare Seitenziele",
       "Nutzer zufriedenstellen"
     ],
     relatedTerms: ["Keywords", "Content-Strategie", "Long-Tail Keywords", "User Experience"],
@@ -1943,25 +1663,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "S",
     term: "SERP",
-    shortDescription: "SERP (Search Engine Results Page) ist die Suchergebnisseite, die Google nach einer Suchanfrage mit organischen und bezahlten Ergebnissen anzeigt.",
-    snippetDefinition: "SERP (Search Engine Results Page) ist die Seite, die Google nach einer Suchanfrage anzeigt. Sie enthält organische Ergebnisse, bezahlte Anzeigen (Google Ads), das Local Pack, Featured Snippets und Knowledge Panels. Position 1 erhält durchschnittlich 27,6 % aller Klicks, während 65 % aller Suchanfragen als Zero-Click Searches ohne Website-Besuch beantwortet werden.",
-    fullDescription: "SERP (Search Engine Results Page) ist die Seite, die Google nach einer Suchanfrage anzeigt. Sie enthält organische Ergebnisse, Anzeigen, das Local Pack, Featured Snippets und weitere Elemente. Das Verständnis der SERP-Features ist entscheidend für eine erfolgreiche SEO-Strategie.",
+    shortDescription: "SERP (Search Engine Results Page) ist die Ergebnisseite, die Google nach einer Suchanfrage anzeigt.",
+    snippetDefinition: "SERP (Search Engine Results Page) ist die Seite, die Google nach einer Suchanfrage anzeigt. Sie kann organische Ergebnisse, bezahlte Anzeigen, das Local Pack, Featured Snippets und Knowledge Panels enthalten. Welche Elemente erscheinen, hängt von der Suchanfrage und vom Nutzer ab. Wer die SERP zu seinen Suchbegriffen kennt, weiß, wo Sichtbarkeit entsteht.",
+    fullDescription: "SERP (Search Engine Results Page) ist die Seite, die Google nach einer Suchanfrage anzeigt. Sie kann organische Ergebnisse, Anzeigen, das Local Pack, Featured Snippets und weitere Elemente enthalten. Welche Elemente erscheinen, hängt von der Suchanfrage ab.",
     features: [
-      "Organische Ergebnisse (10 Blue Links)",
+      "Organische Ergebnisse",
       "Google Ads (bezahlte Anzeigen)",
-      "Local Pack / Map Pack",
-      "Knowledge Panel & Rich Snippets"
-    ],
-    statistics: [
-      { label: "Klicks auf Position 1", value: "27.6%", icon: "percent" },
-      { label: "Klicks auf Page 2", value: "0.63%", icon: "chart" },
-      { label: "Zero-Click Searches", value: "65%", icon: "search" }
+      "Local Pack / Kartenblock",
+      "Knowledge Panel und weitere Elemente"
     ],
     benefits: [
-      "Strategische Keyword-Auswahl",
-      "SERP-Features gezielt ansteuern",
-      "Wettbewerbsanalyse durchführen",
-      "Content-Strategie optimieren"
+      "Verstehen, wo Sichtbarkeit entsteht",
+      "Passende Maßnahmen je Suchanfrage wählen",
+      "Wettbewerb realistisch einschätzen",
+      "Eigene Ergebnisse prüfen"
     ],
     relatedTerms: ["Organic Traffic", "Featured Snippet", "Local Pack", "Rich Snippets", "Zero-Click Search"],
     difficulty: "anfänger",
@@ -1974,25 +1689,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "S",
     term: "Social Signals",
-    shortDescription: "Social Signals sind Interaktionen auf Social-Media-Plattformen wie Likes, Shares und Kommentare, die das SEO indirekt beeinflussen.",
-    snippetDefinition: "Social Signals sind Interaktionen auf Social-Media-Plattformen wie Likes, Shares, Kommentare und Erwähnungen. Obwohl sie kein direkter Google-Ranking-Faktor sind, verbessern sie das SEO indirekt durch mehr Website-Traffic, höheres Backlink-Potenzial und gesteigerte Markenbekanntheit. Inhalte mit starken Social Signals werden häufiger verlinkt und erhalten so natürliche Backlinks.",
-    fullDescription: "Social Signals sind Likes, Shares, Kommentare und andere Interaktionen auf Social-Media-Plattformen. Obwohl sie kein direkter Ranking-Faktor sind, können sie indirekt das SEO verbessern durch mehr Traffic, Backlinks und Markenbekanntheit.",
+    shortDescription: "Social Signals sind Interaktionen auf Social-Media-Plattformen wie Likes, Shares und Kommentare.",
+    snippetDefinition: "Social Signals sind Interaktionen auf Social-Media-Plattformen wie Likes, Shares, Kommentare und Erwähnungen. Dass Google sie als Ranking-Signal nutzt, ist nicht belegt. Indirekt können Social-Media-Beiträge Besucher auf die Website bringen und die Bekanntheit einer Marke steigern.",
+    fullDescription: "Social Signals sind Likes, Shares, Kommentare und andere Interaktionen auf Social-Media-Plattformen. Ein Ranking-Effekt ist nicht belegt. Indirekt können Beiträge Besucher auf die Website bringen und die Bekanntheit steigern.",
     features: [
       "Likes und Shares",
       "Kommentare und Erwähnungen",
       "Follower-Zahlen",
       "Engagement-Rate"
     ],
-    statistics: [
-      { label: "Direkter Ranking-Einfluss", value: "Gering", icon: "trending" },
-      { label: "Indirekter Einfluss", value: "Hoch", icon: "chart" },
-      { label: "Traffic-Potenzial", value: "Signifikant", icon: "users" }
-    ],
     benefits: [
-      "Mehr Website-Traffic",
-      "Backlink-Potenzial erhöhen",
-      "Markenbekanntheit steigern",
-      "Content-Distribution"
+      "Mehr Website-Besucher",
+      "Mehr Bekanntheit",
+      "Verbreitung von Inhalten",
+      "Kontakt zu Kunden"
     ],
     relatedTerms: ["Off-Page SEO", "Link Building", "E-E-A-T"],
     difficulty: "anfänger",
@@ -2004,25 +1714,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "S",
     term: "SSL-Zertifikat",
-    shortDescription: "Ein SSL-Zertifikat ist ein Verschlüsselungszertifikat, das sichere HTTPS-Verbindungen ermöglicht und seit 2014 ein Google-Ranking-Faktor ist.",
-    snippetDefinition: "Ein SSL-Zertifikat (Secure Sockets Layer) ermöglicht die verschlüsselte HTTPS-Kommunikation zwischen Browser und Server. Es zeigt das Schloss-Symbol in der Browserleiste an und ist seit 2014 ein bestätigter Google-Ranking-Faktor. 95 % der Top-100-Websites nutzen SSL – Google Chrome zeigt ohne SSL-Zertifikat eine Warnung an. Kostenlose SSL-Zertifikate sind über Let's Encrypt verfügbar.",
-    fullDescription: "Ein SSL-Zertifikat (Secure Sockets Layer) ermöglicht die verschlüsselte Kommunikation zwischen Browser und Server (HTTPS). Es zeigt das Schloss-Symbol im Browser an und ist seit 2014 ein bestätigter Google Ranking-Faktor. Für lokale Unternehmen schafft es Vertrauen bei Kunden.",
+    shortDescription: "Ein SSL-Zertifikat (heute meist TLS-Zertifikat) ermöglicht verschlüsselte HTTPS-Verbindungen zwischen Browser und Server.",
+    snippetDefinition: "Ein SSL-Zertifikat, heute technisch meist TLS-Zertifikat, ermöglicht die verschlüsselte HTTPS-Kommunikation zwischen Browser und Server. Es zeigt im Browser das Schloss-Symbol und schützt Formulardaten. Google hat 2014 angekündigt, HTTPS als schwaches Ranking-Signal zu nutzen. Kostenlose Zertifikate gibt es unter anderem über Let's Encrypt.",
+    fullDescription: "Ein SSL-Zertifikat (heute technisch meist TLS-Zertifikat) ermöglicht die verschlüsselte Kommunikation zwischen Browser und Server (HTTPS). Google hat 2014 angekündigt, HTTPS als schwaches Ranking-Signal zu nutzen. Für lokale Unternehmen schafft es Vertrauen bei Kunden und schützt Formulardaten.",
     features: [
       "Verschlüsselte Datenübertragung",
       "Schloss-Symbol im Browser",
       "Verschiedene Zertifikatstypen",
-      "Kostenlos via Let's Encrypt"
-    ],
-    statistics: [
-      { label: "Top 100 Websites mit SSL", value: "95%", icon: "percent" },
-      { label: "Google Chrome Warnung ohne", value: "Ja", icon: "chart" },
-      { label: "Ranking-Boost", value: "Leicht", icon: "trending" }
+      "Kostenlos über Let's Encrypt erhältlich"
     ],
     benefits: [
-      "Pflicht für moderne Websites",
-      "Nutzervertrauen steigern",
-      "Ranking-Signal",
-      "Datenschutz gewährleisten"
+      "Grundlage für moderne Websites",
+      "Mehr Nutzervertrauen",
+      "Schutz von Formulardaten",
+      "Schwaches Ranking-Signal laut Google (2014)"
     ],
     relatedTerms: ["HTTPS", "Technical SEO", "E-E-A-T"],
     difficulty: "anfänger",
@@ -2035,25 +1740,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "T",
     term: "Technical SEO",
-    shortDescription: "Technical SEO umfasst die technische Optimierung der Website-Infrastruktur für besseres Crawling, Indexierung und Rendering durch Suchmaschinen.",
-    snippetDefinition: "Technical SEO umfasst alle technischen Aspekte einer Website, die das Crawling, die Indexierung und das Rendering durch Suchmaschinen beeinflussen. Dazu gehören Seitengeschwindigkeit (Core Web Vitals), Mobile-Freundlichkeit, strukturierte Daten, URL-Struktur und Servereinstellungen. 42 % aller Websites haben technische SEO-Fehler, die ihre Rankings negativ beeinflussen.",
-    fullDescription: "Technical SEO umfasst alle technischen Aspekte, die das Crawling, die Indexierung und das Rendering einer Website beeinflussen. Dazu gehören Seitengeschwindigkeit, Mobile-Freundlichkeit, strukturierte Daten, URL-Struktur und Servereinstellungen.",
+    shortDescription: "Technical SEO umfasst die technische Optimierung einer Website für Crawling, Indexierung und Rendering durch Suchmaschinen.",
+    snippetDefinition: "Technical SEO umfasst alle technischen Aspekte einer Website, die Crawling, Indexierung und Rendering durch Suchmaschinen beeinflussen. Dazu gehören Erreichbarkeit, Seitengeschwindigkeit (Core Web Vitals), mobile Nutzbarkeit, strukturierte Daten, URL-Struktur und Servereinstellungen. Sie bildet die Grundlage, damit gute Inhalte überhaupt gefunden werden.",
+    fullDescription: "Technical SEO umfasst alle technischen Aspekte, die Crawling, Indexierung und Rendering einer Website beeinflussen. Dazu gehören Seitengeschwindigkeit, mobile Nutzbarkeit, strukturierte Daten, URL-Struktur und Servereinstellungen.",
     features: [
       "Crawling und Indexierung",
-      "Core Web Vitals optimieren",
-      "Schema Markup implementieren",
+      "Core Web Vitals prüfen",
+      "Strukturierte Daten umsetzen",
       "Sitemap und robots.txt"
     ],
-    statistics: [
-      { label: "Websites mit technischen Fehlern", value: "42%", icon: "percent" },
-      { label: "Crawl-Probleme", value: "25%", icon: "chart" },
-      { label: "PageSpeed unter 3s", value: "Nur 25%", icon: "clock" }
-    ],
     benefits: [
-      "Solide SEO-Grundlage",
+      "Solide Grundlage für Inhalte",
       "Besseres Crawling",
-      "Höhere Rankings",
-      "Professioneller Auftritt"
+      "Weniger technische Fehler",
+      "Klare Hinweise an Suchmaschinen"
     ],
     relatedTerms: ["Core Web Vitals", "Crawling", "Indexierung", "Schema Markup", "PageSpeed"],
     difficulty: "experte",
@@ -2073,25 +1773,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "T",
     term: "Title Tag",
-    shortDescription: "Der Title Tag ist das HTML-Element, das den klickbaren Seitentitel in den Google-Suchergebnissen definiert – einer der wichtigsten On-Page-Faktoren.",
-    snippetDefinition: "Der Title Tag ist ein HTML-Element, das den Seitentitel definiert und als klickbare Überschrift in den Google-Suchergebnissen erscheint. Er ist einer der wichtigsten On-Page-Ranking-Faktoren mit sehr hohem Einfluss auf Rankings und Klickrate. Die optimale Länge beträgt maximal 60 Zeichen, das primäre Keyword sollte am Anfang stehen. Google überschreibt in 61 % der Fälle den gesetzten Title.",
-    fullDescription: "Der Title Tag ist das HTML-Element, das den Seitentitel definiert und als klickbare Überschrift in den Suchergebnissen erscheint. Er ist einer der wichtigsten On-Page Ranking-Faktoren. Für Local SEO sollten Ortsnamen und primäre Keywords enthalten sein.",
+    shortDescription: "Der Title Tag ist das HTML-Element, das den Seitentitel festlegt und Google als Quelle für den Titel in den Suchergebnissen dient.",
+    snippetDefinition: "Der Title Tag ist ein HTML-Element, das den Seitentitel festlegt. Google nutzt ihn als wichtige Quelle für den Titel in den Suchergebnissen, kann ihn aber umschreiben, wenn er nicht zur Seite passt. Eine feste Zeichengrenze nennt Google nicht; zu lange Titel werden gekürzt dargestellt. Gut ist ein eindeutiger Titel, der den Inhalt der Seite beschreibt.",
+    fullDescription: "Der Title Tag ist das HTML-Element, das den Seitentitel festlegt. Google nutzt ihn als wichtige Quelle für den Titel in den Suchergebnissen, kann ihn aber umschreiben. Für Local SEO sind Ortsnamen sinnvoll, wenn sie für die Seite zutreffen.",
     features: [
-      "Max. 60 Zeichen optimal",
-      "Primäres Keyword am Anfang",
-      "Einzigartigkeit pro Seite",
-      "Markenname am Ende"
-    ],
-    statistics: [
-      { label: "Ranking-Einfluss", value: "Sehr hoch", icon: "trending" },
-      { label: "Google überschreibt Title", value: "61%", icon: "percent" },
-      { label: "CTR-Steigerung möglich", value: "+20%", icon: "chart" }
+      "Eindeutig pro Seite",
+      "Beschreibt den Inhalt der Seite",
+      "Kurz genug, um nicht gekürzt zu werden",
+      "Markenname am Ende möglich"
     ],
     benefits: [
-      "Direkter Ranking-Faktor",
-      "Kontrolle über Suchergebnis-Darstellung",
-      "Höhere Klickraten erzielen",
-      "Keywords prominent platzieren"
+      "Kontrolle über den Titel in den Suchergebnissen",
+      "Klare Aussage zum Inhalt",
+      "Passung zur Suchanfrage verdeutlichen",
+      "Google kann den Titel dennoch anpassen"
     ],
     relatedTerms: ["Meta-Tags", "Meta Description", "On-Page SEO", "CTR"],
     difficulty: "anfänger",
@@ -2110,25 +1805,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "U",
     term: "URL-Struktur",
-    shortDescription: "Die URL-Struktur bezeichnet den Aufbau und die Formatierung von Website-Adressen, die für SEO kurz, beschreibend und keyword-haltig sein sollten.",
-    snippetDefinition: "Die URL-Struktur bezeichnet den Aufbau der Webadressen einer Website. SEO-freundliche URLs sind kurz (50–60 Zeichen), beschreibend, enthalten relevante Keywords und folgen einer logischen Hierarchie mit Bindestrichen als Trennzeichen. Kurze URLs ranken im Durchschnitt 10 % besser als lange. Für Local SEO können Ortsnamen in die URL-Struktur integriert werden.",
-    fullDescription: "Die URL-Struktur bezeichnet den Aufbau der Webadressen einer Website. SEO-freundliche URLs sind kurz, beschreibend, enthalten Keywords und folgen einer logischen Hierarchie. Für Local SEO können Ortsnamen in URLs integriert werden.",
+    shortDescription: "Die URL-Struktur bezeichnet den Aufbau von Website-Adressen, die verständlich und logisch aufgebaut sein sollten.",
+    snippetDefinition: "Die URL-Struktur bezeichnet den Aufbau der Webadressen einer Website. Googles Empfehlung: einfache, verständliche URLs, die den Inhalt beschreiben und einer logischen Hierarchie folgen, mit Bindestrichen als Trennzeichen. Ortsnamen können in URLs vorkommen, wenn die Seite tatsächlich zu diesem Ort gehört. Eine einmal gewählte Adresse sollte stabil bleiben.",
+    fullDescription: "Die URL-Struktur bezeichnet den Aufbau der Webadressen einer Website. Einfache, verständliche URLs mit logischer Hierarchie sind für Nutzer und Suchmaschinen leichter nachvollziehbar. Ortsnamen sind sinnvoll, wenn die Seite wirklich zu diesem Ort gehört.",
     features: [
-      "Kurz und beschreibend",
-      "Keywords enthalten",
+      "Verständlich und beschreibend",
       "Logische Hierarchie",
-      "Bindestrich statt Unterstrich"
-    ],
-    statistics: [
-      { label: "Kurze URLs ranken besser", value: "+10%", icon: "trending" },
-      { label: "Optimale URL-Länge", value: "50-60 Zeichen", icon: "chart" },
-      { label: "Keywords in URL", value: "Wichtig", icon: "percent" }
+      "Bindestrich statt Unterstrich",
+      "Stabile Adressen"
     ],
     benefits: [
-      "Bessere Klickraten",
-      "Leicht merkbare URLs",
-      "Keyword-Relevanz zeigen",
-      "Klare Seitenstruktur"
+      "Leicht zu verstehende Adressen",
+      "Klare Seitenstruktur",
+      "Weniger Probleme durch Parameter",
+      "Stabile Links"
     ],
     relatedTerms: ["On-Page SEO", "Technical SEO", "Canonical URL"],
     difficulty: "anfänger",
@@ -2141,25 +1831,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "U",
     term: "User Experience (UX)",
-    shortDescription: "User Experience (UX) beschreibt das Gesamterlebnis eines Nutzers auf einer Website – ein bestätigtes Google-Ranking-Signal.",
-    snippetDefinition: "User Experience (UX) beschreibt das Gesamterlebnis, das Nutzer auf einer Website haben – von Ladezeit über Navigation bis zum Content. Google misst UX-Signale wie Core Web Vitals, Verweildauer und Absprungrate als Page-Experience-Ranking-Faktor. Eine gute UX kann die Conversion-Rate um bis zu 400 % steigern und ist entscheidend für den Erfolg lokaler Unternehmenswebsites.",
-    fullDescription: "User Experience beschreibt, wie Nutzer eine Website erleben - von der Ladezeit über Navigation bis zum Content. Google misst UX-Signale wie Verweildauer, Absprungrate und Core Web Vitals. Eine gute UX ist entscheidend für Rankings und Conversions.",
+    shortDescription: "User Experience (UX) beschreibt das Gesamterlebnis eines Nutzers auf einer Website.",
+    snippetDefinition: "User Experience (UX) beschreibt das Gesamterlebnis, das Nutzer auf einer Website haben: von Ladezeit über Navigation bis zum Inhalt. Google nennt die Core Web Vitals als Messwerte für Teile davon und empfiehlt, gute Werte anzustreben. Ein einzelnes Signal für Nutzerfreundlichkeit gibt es laut Google nicht. Eine klare Seite hilft Besuchern in jedem Fall, Kontakt aufzunehmen.",
+    fullDescription: "User Experience beschreibt, wie Nutzer eine Website erleben, von der Ladezeit über die Navigation bis zum Inhalt. Google empfiehlt, gute Core Web Vitals anzustreben, nennt aber kein einzelnes Signal für Nutzerfreundlichkeit. Für lokale Unternehmen zählt vor allem, dass Besucher Öffnungszeiten, Leistungen und Kontakt schnell finden.",
     features: [
-      "Core Web Vitals (LCP, FID, CLS)",
-      "Mobile Usability",
-      "Intuitive Navigation",
-      "Klare Call-to-Actions"
-    ],
-    statistics: [
-      { label: "Page Experience Signal", value: "Bestätigt", icon: "trending" },
-      { label: "Mobile Traffic Anteil", value: "60%+", icon: "percent" },
-      { label: "Conversion bei guter UX", value: "+400%", icon: "chart" }
+      "Core Web Vitals (LCP, INP, CLS)",
+      "Mobile Nutzbarkeit",
+      "Verständliche Navigation",
+      "Klare Handlungsaufforderungen"
     ],
     benefits: [
-      "Bessere Rankings erzielen",
-      "Höhere Conversion-Rates",
-      "Längere Verweildauer",
-      "Mehr wiederkehrende Besucher"
+      "Einfachere Kontaktaufnahme",
+      "Weniger Abbrüche durch Frust",
+      "Bessere Orientierung",
+      "Mehr zufriedene Besucher"
     ],
     relatedTerms: ["Core Web Vitals", "Mobile First Index", "PageSpeed", "Bounce Rate", "Dwell Time"],
     difficulty: "fortgeschritten",
@@ -2173,25 +1858,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "V",
     term: "Voice Search",
-    shortDescription: "Voice Search ist die Sprachsuche über Assistenten wie Google Assistant, Siri und Alexa, die häufig lokale Ergebnisse liefert.",
-    snippetDefinition: "Voice Search ermöglicht die Suche per Sprachbefehl über Smartphones, Smart Speaker (Google Assistant, Siri, Alexa) und andere Geräte. 58 % aller Sprachsuchen sind lokal ausgerichtet, z. B. 'Wo ist der nächste Bäcker?'. Die Optimierung erfordert natürliche Sprache, Long-Tail Keywords und FAQ-Content, um Featured Snippets zu gewinnen, die als Sprachantwort vorgelesen werden.",
-    fullDescription: "Voice Search ermöglicht die Suche per Sprachbefehl über Smartphones, Smart Speaker und andere Geräte. Sprachsuchen sind oft lokal ('Wo ist der nächste Bäcker?') und formuliert als Fragen. Die Optimierung erfordert natürliche Sprache und FAQ-Content.",
+    shortDescription: "Voice Search ist die Suche per Sprachbefehl über Smartphones, Smart Speaker und andere Geräte.",
+    snippetDefinition: "Voice Search ermöglicht die Suche per Sprachbefehl über Smartphones, Smart Speaker und andere Geräte. Sprachanfragen sind oft als ganze Frage formuliert, zum Beispiel Wo ist der nächste Bäcker? Wer klare, vollständige Antworten auf typische Kundenfragen gibt und sein Unternehmensprofil pflegt, ist dafür gut aufgestellt. Eine eigene Optimierungsmethode, die Google vorgibt, gibt es nicht.",
+    fullDescription: "Voice Search ermöglicht die Suche per Sprachbefehl über Smartphones, Smart Speaker und andere Geräte. Sprachanfragen sind oft als ganze Frage formuliert. Klare Antworten auf typische Kundenfragen und ein gepflegtes Unternehmensprofil sind die Grundlage.",
     features: [
       "Natürliche Sprache verwenden",
-      "Long-Tail Keywords",
-      "FAQ-Seiten erstellen",
-      "Featured Snippets anzielen"
-    ],
-    statistics: [
-      { label: "Lokale Voice Searches", value: "58%", icon: "percent" },
-      { label: "Jährliches Wachstum", value: "+25%", icon: "trending" },
-      { label: "Smart Speaker Haushalte DE", value: "35%", icon: "users" }
+      "Fragen der Kunden beantworten",
+      "Gepflegtes Unternehmensprofil",
+      "Aktuelle Öffnungszeiten und Kontaktdaten"
     ],
     benefits: [
-      "Zukunftssicheres SEO",
-      "Lokale Anfragen abfangen",
-      "Featured Snippets gewinnen",
-      "Natürlichen Content erstellen"
+      "Antworten in der Sprache der Kunden",
+      "Lokale Anfragen bedienen",
+      "Klare, kurze Antworten",
+      "Aktuelle Angaben"
     ],
     relatedTerms: ["Featured Snippet", "Long-Tail Keywords", "Local SEO", "Search Intent"],
     difficulty: "fortgeschritten",
@@ -2211,25 +1891,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "W",
     term: "Webmaster Tools / Search Console",
-    shortDescription: "Google Search Console (ehemals Webmaster Tools) ist ein kostenloses Google-Tool zur Überwachung und Optimierung der Website-Suchpräsenz.",
-    snippetDefinition: "Google Search Console (ehemals Webmaster Tools) ist ein kostenloses Tool von Google zur Überwachung und Optimierung der Website-Präsenz in der Suche. Es zeigt Indexierungsstatus, Suchanfragen, Klickdaten, Core Web Vitals und technische Probleme an. Die Search Console ist das wichtigste SEO-Tool überhaupt und liefert bis zu 16 Monate historische Daten direkt von Google.",
-    fullDescription: "Google Search Console (früher Webmaster Tools) ist ein kostenloses Tool von Google zur Überwachung und Optimierung der Website-Präsenz in der Suche. Es zeigt Indexierungsstatus, Suchanfragen, Klickdaten, Core Web Vitals und technische Probleme an.",
+    shortDescription: "Die Google Search Console (früher Webmaster Tools) ist ein kostenloses Google-Tool zur Überwachung der Sichtbarkeit einer Website in der Google-Suche.",
+    snippetDefinition: "Die Google Search Console (früher Webmaster Tools) ist ein kostenloses Tool von Google, das die Präsenz einer Website in der Google-Suche zeigt. Sie liefert Daten zu Suchanfragen, Klicks und Impressionen, zum Indexierungsstatus, zu Core Web Vitals und zu technischen Problemen und speichert Leistungsdaten bis zu 16 Monate. Die Daten stammen direkt von Google.",
+    fullDescription: "Die Google Search Console (früher Webmaster Tools) ist ein kostenloses Tool von Google zur Überwachung der Präsenz einer Website in der Suche. Sie zeigt Indexierungsstatus, Suchanfragen, Klickdaten, Core Web Vitals und technische Probleme.",
     features: [
       "Indexierungsstatus überwachen",
       "Suchanfragen und Klicks analysieren",
       "Core Web Vitals prüfen",
       "Sitemaps einreichen"
     ],
-    statistics: [
-      { label: "Unverzichtbar für SEO", value: "100%", icon: "percent" },
-      { label: "Daten bis zu 16 Monate", value: "Ja", icon: "chart" },
-      { label: "Kosten", value: "Kostenlos", icon: "trending" }
-    ],
     benefits: [
-      "Unverzichtbares SEO-Tool",
-      "Direkte Google-Daten",
+      "Kostenlos nutzbar",
+      "Daten direkt von Google",
       "Technische Probleme erkennen",
-      "Performance überwachen"
+      "Entwicklung der Sichtbarkeit beobachten"
     ],
     relatedTerms: ["Indexierung", "Core Web Vitals", "Technical SEO", "Crawling"],
     difficulty: "anfänger",
@@ -2248,25 +1923,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "W",
     term: "White Hat SEO",
-    shortDescription: "White Hat SEO bezeichnet ethische, nachhaltige Optimierungsstrategien, die den Google-Richtlinien entsprechen.",
-    snippetDefinition: "White Hat SEO bezeichnet Suchmaschinenoptimierungs-Strategien, die Googles Richtlinien entsprechen und auf langfristigen, nachhaltigen Erfolg ausgerichtet sind. Im Gegensatz zu Black Hat SEO setzt White Hat auf Qualitätsinhalte, natürlichen Linkaufbau und technische Exzellenz. Das Abstrafungsrisiko liegt bei 0 %, während der langfristige ROI deutlich höher ist als bei manipulativen Methoden.",
-    fullDescription: "White Hat SEO bezeichnet Optimierungsstrategien, die Googles Richtlinien entsprechen und auf langfristigen, nachhaltigen Erfolg ausgerichtet sind. Im Gegensatz zu Black Hat SEO (manipulative Taktiken) setzt White Hat auf Qualitätsinhalte, natürlichen Linkaufbau und technische Exzellenz.",
+    shortDescription: "White Hat SEO bezeichnet Optimierungsstrategien, die den Richtlinien von Google entsprechen.",
+    snippetDefinition: "White Hat SEO bezeichnet Suchmaschinenoptimierung, die sich an Googles Richtlinien hält und auf nützliche Inhalte, saubere Technik und natürlich entstandene Verlinkung setzt. Im Gegensatz zu Black Hat SEO vermeidet sie Maßnahmen wegen Spams. Ein bestimmtes Ranking garantiert sie nicht.",
+    fullDescription: "White Hat SEO bezeichnet Optimierungsstrategien, die Googles Richtlinien entsprechen. Im Gegensatz zu Black Hat SEO setzt White Hat auf nützliche Inhalte, natürliche Verlinkung und saubere Technik. Wer sich an die Richtlinien hält, vermeidet Maßnahmen wegen Spams. Ein bestimmtes Ranking ist damit nicht garantiert.",
     features: [
-      "Qualitätscontent erstellen",
+      "Nützliche Inhalte erstellen",
       "Natürlicher Linkaufbau",
-      "Technische Optimierung",
-      "User Experience priorisieren"
-    ],
-    statistics: [
-      { label: "Abstrafungsrisiko", value: "0%", icon: "percent" },
-      { label: "Langfristiger ROI", value: "Hoch", icon: "trending" },
-      { label: "Google-Empfehlung", value: "Ja", icon: "chart" }
+      "Saubere Technik",
+      "Nutzerfreundlichkeit priorisieren"
     ],
     benefits: [
-      "Nachhaltige Rankings",
-      "Kein Abstrafungsrisiko",
-      "Langfristiger ROI",
-      "Vertrauensaufbau"
+      "Weniger Risiko durch Richtlinienverstöße",
+      "Nachhaltige Arbeit",
+      "Vertrauen bei Kunden",
+      "Verlässliche Grundlage"
     ],
     relatedTerms: ["Black Hat SEO", "Algorithmus-Update", "E-E-A-T", "Quality Raters"],
     difficulty: "anfänger",
@@ -2276,25 +1946,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "X",
     term: "XML-Sitemap",
-    shortDescription: "Eine XML-Sitemap ist eine maschinenlesbare Datei, die alle wichtigen URLs einer Website auflistet und die Indexierung durch Suchmaschinen beschleunigt.",
-    snippetDefinition: "Eine XML-Sitemap ist eine maschinenlesbare Datei, die alle wichtigen URLs einer Website mit Metadaten wie Aktualisierungsdatum und Priorität auflistet. Sie wird über die Google Search Console eingereicht und hilft Suchmaschinen bei der effizienten Indexierung. Eine XML-Sitemap kann bis zu 50.000 URLs enthalten und beschleunigt die Indexierung neuer Seiten um das Dreifache.",
-    fullDescription: "Eine XML-Sitemap ist eine Datei, die alle wichtigen URLs einer Website auflistet und Suchmaschinen bei der Indexierung hilft. Sie enthält Informationen über Aktualisierungsdatum und Priorität jeder Seite. Die Einreichung erfolgt über die Google Search Console.",
+    shortDescription: "Eine XML-Sitemap ist eine maschinenlesbare Datei, die die wichtigen URLs einer Website auflistet und Suchmaschinen beim Entdecken hilft.",
+    snippetDefinition: "Eine XML-Sitemap ist eine maschinenlesbare Datei, die die wichtigen URLs einer Website auflistet. Sie wird über die Google Search Console eingereicht oder in der robots.txt genannt und hilft Google, Seiten zu entdecken. Eine Sitemap darf bis zu 50.000 URLs oder 50 MB unkomprimiert enthalten. Google wertet das Änderungsdatum (lastmod) aus, wenn es verlässlich ist, und ignoriert Priorität und Änderungshäufigkeit.",
+    fullDescription: "Eine XML-Sitemap ist eine Datei, die die wichtigen URLs einer Website auflistet und Suchmaschinen beim Entdecken der Seiten hilft. Das Änderungsdatum (lastmod) wertet Google aus, wenn es verlässlich ist. Die Angaben zu Priorität und Änderungshäufigkeit ignoriert Google. Eingereicht wird sie über die Google Search Console.",
     features: [
-      "In Search Console einreichen",
-      "Automatische Generierung möglich",
-      "Max. 50.000 URLs pro Sitemap",
-      "Lastmod-Datum angeben"
-    ],
-    statistics: [
-      { label: "Indexierungsverbesserung", value: "+3x", icon: "trending" },
-      { label: "Große Websites benötigen", value: "Pflicht", icon: "chart" },
-      { label: "Neue Seiten entdeckt", value: "Schneller", icon: "clock" }
+      "In der Search Console einreichen",
+      "Automatisch erzeugbar",
+      "Bis zu 50.000 URLs oder 50 MB pro Sitemap",
+      "Lastmod-Datum nur, wenn verlässlich"
     ],
     benefits: [
-      "Schnellere Indexierung",
-      "Alle Seiten werden gefunden",
-      "Kontrolle über Crawling-Priorität",
-      "Technische SEO-Grundlage"
+      "Hilft Google, Seiten zu entdecken",
+      "Übersicht über alle wichtigen Seiten",
+      "Kontrolle über gemeldete URLs",
+      "Technische Grundlage"
     ],
     relatedTerms: ["Indexierung", "Crawling", "Webmaster Tools / Search Console", "Technical SEO"],
     difficulty: "anfänger",
@@ -2314,25 +1979,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "Y",
     term: "YMYL",
-    shortDescription: "YMYL (Your Money Your Life) bezeichnet Webinhalte zu Gesundheit, Finanzen und Sicherheit, die Google besonders streng nach E-E-A-T bewertet.",
-    snippetDefinition: "YMYL (Your Money Your Life) bezeichnet Webinhalte, die Gesundheit, Finanzen, Sicherheit oder wichtige Lebensentscheidungen betreffen. Google bewertet YMYL-Seiten besonders streng nach E-E-A-T-Kriterien (Experience, Expertise, Authoritativeness, Trustworthiness). Lokale Dienstleister wie Ärzte, Anwälte und Finanzberater müssen deshalb besonders auf nachweisbare Expertise und Vertrauenssignale achten.",
-    fullDescription: "YMYL (Your Money Your Life) bezeichnet Inhalte, die Gesundheit, Finanzen, Sicherheit oder wichtige Lebensentscheidungen betreffen. Google bewertet solche Seiten besonders streng nach E-E-A-T-Kriterien. Lokale Dienstleister wie Ärzte, Anwälte oder Finanzberater müssen besonders auf Expertise achten.",
+    shortDescription: "YMYL (Your Money Your Life) bezeichnet Inhalte zu Gesundheit, Finanzen, Sicherheit und wichtigen Lebensentscheidungen, für die in Googles Qualitätsrichtlinien besonders hohe Anforderungen gelten.",
+    snippetDefinition: "YMYL (Your Money Your Life) bezeichnet Inhalte, die Gesundheit, Finanzen, Sicherheit oder wichtige Lebensentscheidungen betreffen. In den Search Quality Rater Guidelines gelten für solche Themen besonders hohe Qualitätsanforderungen. Lokale Dienstleister wie Ärzte, Anwälte und Finanzberater sollten deshalb Qualifikationen nachvollziehbar belegen und Angaben sorgfältig prüfen.",
+    fullDescription: "YMYL (Your Money Your Life) bezeichnet Inhalte, die Gesundheit, Finanzen, Sicherheit oder wichtige Lebensentscheidungen betreffen. Für solche Themen gelten in den Quality Rater Guidelines besonders hohe Qualitätsanforderungen. Lokale Dienstleister wie Ärzte, Anwälte oder Finanzberater sollten Qualifikationen belegen und Aussagen sorgfältig prüfen.",
     features: [
       "Gesundheitsthemen",
       "Finanzielle Beratung",
       "Rechtliche Informationen",
       "Sicherheitsrelevante Themen"
     ],
-    statistics: [
-      { label: "E-E-A-T Bedeutung", value: "Kritisch", icon: "trending" },
-      { label: "Ranking-Volatilität", value: "Hoch", icon: "chart" },
-      { label: "Qualitätsstandard", value: "Höchster", icon: "percent" }
-    ],
     benefits: [
-      "Hohes Ranking-Potenzial bei Expertise",
-      "Vertrauensaufbau bei Kunden",
-      "Schutz vor Algorithmus-Updates",
-      "Wettbewerbsvorteil durch Qualität"
+      "Klare Maßstäbe für sensible Themen",
+      "Vertrauensaufbau durch Belege",
+      "Sorgfalt bei Aussagen",
+      "Transparenz über Qualifikation"
     ],
     relatedTerms: ["E-E-A-T", "Quality Raters", "Algorithmus-Update", "White Hat SEO"],
     difficulty: "fortgeschritten",
@@ -2347,25 +2007,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "Z",
     term: "Zero-Click Search",
-    shortDescription: "Zero-Click Searches sind Suchanfragen, bei denen Nutzer die Antwort direkt in den Google-Suchergebnissen finden, ohne eine Website zu besuchen.",
-    snippetDefinition: "Zero-Click Searches sind Suchanfragen, bei denen Nutzer die gewünschte Information direkt in den Google-Suchergebnissen finden und keine Website anklicken. Dies geschieht über Featured Snippets, Knowledge Panels und Google Business Profile. 65 % aller Suchanfragen sind mittlerweile Zero-Click Searches – für lokale Unternehmen ist ein optimiertes Google Business Profile daher unverzichtbar.",
-    fullDescription: "Zero-Click Searches sind Suchanfragen, bei denen Nutzer die Antwort direkt in den Suchergebnissen finden und nicht auf eine Website klicken. Featured Snippets, Knowledge Panels und Google Business Profile zeigen Informationen direkt an. Für lokale Unternehmen ist ein optimiertes GBP daher essenziell.",
+    shortDescription: "Zero-Click Searches sind Suchanfragen, bei denen Nutzer die Antwort direkt in den Suchergebnissen finden, ohne eine Website zu besuchen.",
+    snippetDefinition: "Zero-Click Searches sind Suchanfragen, bei denen Nutzer die gewünschte Information direkt in den Suchergebnissen finden und keine Website anklicken. Das geschieht zum Beispiel über Featured Snippets, Knowledge Panels und das Google Business Profile mit Öffnungszeiten und Telefonnummer. Für lokale Unternehmen ist ein gepflegtes Profil deshalb besonders wichtig.",
+    fullDescription: "Zero-Click Searches sind Suchanfragen, bei denen Nutzer die Antwort direkt in den Suchergebnissen finden und nicht auf eine Website klicken. Featured Snippets, Knowledge Panels und das Google Business Profile zeigen Informationen direkt an. Für lokale Unternehmen ist ein gepflegtes Profil deshalb besonders wichtig.",
     features: [
-      "Antwort direkt in SERP",
+      "Antwort direkt in den Suchergebnissen",
       "Knowledge Panel",
       "Featured Snippets",
-      "Local Pack Informationen"
-    ],
-    statistics: [
-      { label: "Aller Suchanfragen", value: "65%", icon: "percent" },
-      { label: "Mobile Anteil höher", value: "+20%", icon: "trending" },
-      { label: "Tendenz", value: "Steigend", icon: "chart" }
+      "Informationen aus dem Unternehmensprofil"
     ],
     benefits: [
-      "Markenbekanntheit steigern",
-      "GBP-Optimierung wichtiger",
-      "Direkte Kundeninteraktion",
-      "Anpassung der SEO-Strategie"
+      "Sichtbarkeit auch ohne Klick",
+      "Pflege des Unternehmensprofils wichtiger",
+      "Direkter Kundenkontakt per Anruf oder Route",
+      "Erfolgsmessung über Anrufe und Routen"
     ],
     relatedTerms: ["SERP", "Featured Snippet", "Google Business Profile", "Knowledge Panel"],
     difficulty: "fortgeschritten",
@@ -2379,23 +2034,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "D",
     term: "Duplicate Listing",
-    shortDescription: "Ein Duplicate Listing ist ein doppelter Google Business Profile Eintrag, der die lokalen Rankings verwässert.",
-    snippetDefinition: "Ein Duplicate Listing ist ein ungewollter doppelter Eintrag eines Unternehmens auf Google Maps oder in Branchenverzeichnissen. Duplicate Listings verwässern Bewertungen und Citations, verwirren Google und schaden dem lokalen Ranking. Etwa 56 % aller Unternehmen haben mindestens ein Duplicate Listing, das zusammengeführt oder gelöscht werden sollte.",
-    fullDescription: "Duplicate Listings entstehen, wenn ein Unternehmen mehrfach auf Google Maps oder in Verzeichnissen eingetragen ist – oft durch frühere Inhaber, automatische Einträge oder Umzüge. Sie verwässern Bewertungen und NAP-Signale und müssen zusammengeführt oder gelöscht werden.",
+    shortDescription: "Ein Duplicate Listing ist ein doppelter Eintrag desselben Unternehmens auf Google Maps oder in Verzeichnissen.",
+    snippetDefinition: "Ein Duplicate Listing ist ein ungewollter doppelter Eintrag eines Unternehmens auf Google Maps oder in Branchenverzeichnissen. Er entsteht oft durch Umzüge, frühere Inhaber oder automatisch erzeugte Einträge. Doppelte Einträge können Bewertungen und Angaben aufteilen und Kunden verwirren. Sie sollten gemeldet, zusammengeführt oder entfernt werden.",
+    fullDescription: "Duplicate Listings entstehen, wenn ein Unternehmen mehrfach auf Google Maps oder in Verzeichnissen eingetragen ist, oft durch frühere Inhaber, automatische Einträge oder Umzüge. Sie teilen Bewertungen und Angaben auf und können Kunden verwirren. Sie sollten gemeldet, zusammengeführt oder entfernt werden.",
     features: [
       "Entstehen durch Umzüge, Inhaberwechsel oder automatische Einträge",
-      "Verwässern Bewertungen und Citation-Signale",
-      "Können über Google Business Profile gemeldet werden",
+      "Teilen Bewertungen und Angaben auf",
+      "Können über Google gemeldet werden",
       "Tools wie Moz Local helfen bei der Erkennung"
     ],
-    statistics: [
-      { label: "Unternehmen mit Duplicates", value: "56%", icon: "percent" },
-      { label: "Ranking-Verlust möglich", value: "bis 30%", icon: "trending" }
-    ],
     benefits: [
-      "Bereinigung stärkt das Hauptprofil",
-      "Bewertungen werden konsolidiert",
-      "Klarere NAP-Signale für Google"
+      "Das Hauptprofil klar abgrenzen",
+      "Bewertungen an einer Stelle bündeln",
+      "Einheitliche Angaben für Kunden",
+      "Weniger Verwechslungen"
     ],
     relatedTerms: ["Google Business Profile", "NAP", "Citations", "Local Pack"],
     difficulty: "fortgeschritten",
@@ -2409,22 +2061,19 @@ export const seoLexikonData: SEOTerm[] = [
     letter: "G",
     term: "Geo-Grid Ranking",
     shortDescription: "Geo-Grid Ranking zeigt die lokale Sichtbarkeit eines Unternehmens über ein Raster verschiedener Standortpunkte in einem Gebiet.",
-    snippetDefinition: "Geo-Grid Ranking ist eine Analysemethode, bei der die lokale Sichtbarkeit eines Unternehmens über ein Raster (Grid) verschiedener Standortpunkte in einem definierten Gebiet gemessen wird. Statt eines einzelnen Rankings zeigt ein Geo-Grid, wie sich die Position je nach Entfernung und Richtung verändert. Tools wie Local Falcon oder Local Viking nutzen diese Methode.",
-    fullDescription: "Geo-Grid Ranking misst die lokale Sichtbarkeit über ein Raster verschiedener Punkte in einem Gebiet. Es zeigt, wie sich das Ranking je nach Entfernung und Himmelsrichtung verändert – wichtig für Unternehmen, die verstehen wollen, in welchem Radius sie sichtbar sind.",
+    snippetDefinition: "Geo-Grid Ranking ist eine Analysemethode, bei der die lokale Sichtbarkeit eines Unternehmens über ein Raster verschiedener Standortpunkte in einem Gebiet gemessen wird. Statt eines einzelnen Rankings zeigt ein Geo-Grid, wie sich die Position je nach Entfernung und Richtung verändert. Tools wie Local Falcon oder Local Viking nutzen diese Methode. Es ist eine Momentaufnahme einer Stichprobe, keine Zahl von Google.",
+    fullDescription: "Geo-Grid Ranking misst die lokale Sichtbarkeit über ein Raster verschiedener Punkte in einem Gebiet. Es zeigt, wie sich die Position je nach Entfernung und Richtung verändert. Die Werte stammen aus Stichproben der jeweiligen Tools, nicht von Google, und schwanken.",
     features: [
-      "Visualisiert Rankings auf einer Karte als Heatmap",
-      "Zeigt Ranking-Radius und Schwachstellen",
+      "Visualisiert Positionen auf einer Karte als Heatmap",
+      "Zeigt, wo ein Unternehmen sichtbar ist und wo nicht",
       "Tools: Local Falcon, Local Viking, BrightLocal",
-      "Hilft bei der Konkurrenzanalyse"
-    ],
-    statistics: [
-      { label: "Typische Grid-Größe", value: "5x5 bis 15x15", icon: "chart" },
-      { label: "Radius pro Punkt", value: "0.5-3 km", icon: "search" }
+      "Momentaufnahme einer Stichprobe"
     ],
     benefits: [
-      "Erkennt lokale Ranking-Schwachstellen",
-      "Zeigt den tatsächlichen Sichtbarkeitsradius",
-      "Misst Fortschritte nach Optimierungen"
+      "Schwächen im Einzugsgebiet erkennen",
+      "Sichtbarkeitsradius einschätzen",
+      "Veränderungen im Zeitverlauf beobachten",
+      "Wettbewerber vergleichen"
     ],
     relatedTerms: ["Local Pack", "Proximity (Entfernung)", "Google Maps", "Local SEO"],
     difficulty: "experte",
@@ -2436,24 +2085,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "G",
     term: "Google Posts",
-    shortDescription: "Google Posts sind kurze Beiträge im Google Business Profile, die Angebote, Events und Neuigkeiten direkt in der Suche zeigen.",
-    snippetDefinition: "Google Posts sind kurze Beiträge (bis 1.500 Zeichen), die direkt im Google Business Profile veröffentlicht werden und in der Google-Suche sowie auf Google Maps erscheinen. Es gibt vier Post-Typen: Updates, Angebote, Events und Produkte. Unternehmen mit aktiven Google Posts erhalten laut Studien bis zu 7 % mehr Klicks auf ihr Profil.",
-    fullDescription: "Google Posts ermöglichen es Unternehmen, kurze Beiträge direkt im Google Business Profile zu veröffentlichen. Die Posts erscheinen in der Google-Suche und auf Maps und sind ein indirekter Ranking-Faktor.",
+    shortDescription: "Google Posts sind kurze Beiträge im Google Business Profile, mit denen Unternehmen Neuigkeiten, Angebote oder Veranstaltungen zeigen.",
+    snippetDefinition: "Google Posts sind kurze Beiträge, die Unternehmen direkt im Google Business Profile veröffentlichen, etwa Neuigkeiten, Angebote oder Veranstaltungen. Sie erscheinen im Profil in der Google-Suche und in Maps. Posts zeigen Aktivität und aktuelle Informationen. Dass sie das Ranking beeinflussen, ist nicht belegt.",
+    fullDescription: "Google Posts ermöglichen es Unternehmen, kurze Beiträge direkt im Google Business Profile zu veröffentlichen. Die Beiträge erscheinen im Profil in der Google-Suche und in Maps. Sie zeigen aktuelle Informationen, ein Einfluss auf das Ranking ist nicht belegt.",
     features: [
-      "Vier Typen: Updates, Angebote, Events, Produkte",
-      "Bis zu 1.500 Zeichen pro Post",
-      "Automatisches Ablaufdatum nach 7 Tagen (außer Events)",
-      "Können Bilder und Call-to-Action-Buttons enthalten"
-    ],
-    statistics: [
-      { label: "Mehr Klicks", value: "+7%", icon: "trending" },
-      { label: "Post-Lebensdauer", value: "7 Tage", icon: "clock" },
-      { label: "Zeichenlimit", value: "1.500", icon: "chart" }
+      "Neuigkeiten, Angebote und Veranstaltungen",
+      "Bilder und Schaltflächen möglich",
+      "Erscheinen im Unternehmensprofil",
+      "Sachlich und aktuell halten"
     ],
     benefits: [
-      "Erhöht die Sichtbarkeit in der Suche",
-      "Zeigt Aktualität und Aktivität",
-      "Kostenlose Werbefläche direkt bei Google"
+      "Aktuelle Informationen direkt im Profil",
+      "Kostenlose Veröffentlichungsfläche",
+      "Zeigt Aktivität",
+      "Hinweis auf Aktionen und Termine"
     ],
     relatedTerms: ["Google Business Profile", "Local Pack", "Google Maps", "Local SEO"],
     difficulty: "anfänger",
@@ -2466,23 +2111,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "L",
     term: "Local Finder",
-    shortDescription: "Der Local Finder ist die erweiterte Listenansicht auf Google Maps, die alle lokalen Ergebnisse über das Local Pack hinaus zeigt.",
-    snippetDefinition: "Der Local Finder ist die vollständige Listenansicht lokaler Unternehmen auf Google Maps, die erscheint, wenn man im Local Pack auf 'Alle anzeigen' klickt. Während das Local Pack nur 3 Ergebnisse zeigt, listet der Local Finder 20+ Unternehmen mit Details wie Bewertungen, Öffnungszeiten und Entfernung. Er ist besonders relevant für Unternehmen, die nicht im Top-3-Pack ranken.",
-    fullDescription: "Der Local Finder zeigt die vollständige Liste lokaler Ergebnisse, die über das 3er-Pack hinausgehen. Er ist erreichbar über den 'Alle anzeigen'-Link im Local Pack und zeigt 20+ Ergebnisse mit Karte.",
+    shortDescription: "Der Local Finder ist die erweiterte Listenansicht mit lokalen Treffern, die über das Local Pack hinausgeht.",
+    snippetDefinition: "Der Local Finder ist die erweiterte Listenansicht lokaler Unternehmen, die erscheint, wenn man im Local Pack auf weitere Orte klickt. Während das Local Pack nur eine kleine Auswahl zeigt, listet der Local Finder mehr Unternehmen mit Angaben wie Bewertungen, Öffnungszeiten und Entfernung. Er ist besonders relevant für Unternehmen, die nicht im Local Pack stehen.",
+    fullDescription: "Der Local Finder zeigt die längere Liste lokaler Ergebnisse, die über das Local Pack hinausgeht. Er ist über den Link zu weiteren Orten im Local Pack erreichbar und zeigt Unternehmen mit Karte und Filteroptionen.",
     features: [
-      "Zeigt 20+ Ergebnisse statt nur 3",
-      "Erreichbar über 'Alle anzeigen' im Local Pack",
-      "Enthält Filteroptionen (Bewertung, Öffnungszeiten)",
-      "Eigene Ranking-Algorithmen"
-    ],
-    statistics: [
-      { label: "Ergebnisse angezeigt", value: "20+", icon: "chart" },
-      { label: "Nutzer die klicken", value: "~8%", icon: "percent" }
+      "Zeigt mehr Treffer als das Local Pack",
+      "Erreichbar über den Link zu weiteren Orten",
+      "Filteroptionen wie Bewertung oder Öffnungszeiten",
+      "Mit Karte"
     ],
     benefits: [
-      "Chance auch ohne Top-3-Ranking sichtbar zu sein",
-      "Nutzer mit hoher Kaufabsicht klicken sich durch",
-      "Filterfunktionen bevorzugen gut gepflegte Profile"
+      "Sichtbarkeit auch außerhalb des Local Packs",
+      "Nutzer mit konkreter Absicht blättern weiter",
+      "Filter bevorzugen gut gepflegte Profile",
+      "Zweite Chance auf Aufmerksamkeit"
     ],
     relatedTerms: ["Local Pack", "Google Maps", "Google Business Profile", "Proximity (Entfernung)"],
     difficulty: "fortgeschritten",
@@ -2495,23 +2137,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "L",
     term: "Lokale Backlinks",
-    shortDescription: "Lokale Backlinks sind eingehende Links von regionalen Websites, Zeitungen und Organisationen, die die lokale Autorität stärken.",
-    snippetDefinition: "Lokale Backlinks sind eingehende Verlinkungen von Websites mit regionalem Bezug – lokale Zeitungen, Handelskammern, Sportvereine, Stadtportale oder regionale Blogs. Sie sind für Local SEO besonders wertvoll, weil sie Google sowohl die thematische als auch die geografische Relevanz eines Unternehmens signalisieren. Lokale Backlinks machen etwa 29 % der Local-Pack-Ranking-Faktoren aus.",
-    fullDescription: "Lokale Backlinks sind Links von Websites mit regionalem Bezug. Sie signalisieren Google sowohl thematische als auch geografische Relevanz und sind einer der stärksten Local-SEO-Faktoren.",
+    shortDescription: "Lokale Backlinks sind eingehende Links von regionalen Websites, Zeitungen und Organisationen.",
+    snippetDefinition: "Lokale Backlinks sind Links von Websites mit regionalem Bezug, etwa lokale Zeitungen, Handelskammern, Sportvereine, Stadtportale oder regionale Blogs. Sie entstehen am besten durch echte Beziehungen vor Ort. Laut Googles Hilfe zählen Links zu den Informationen, die die Bekanntheit eines Unternehmens ausmachen. Gekaufte Links verstoßen gegen die Spamrichtlinien.",
+    fullDescription: "Lokale Backlinks sind Links von Websites mit regionalem Bezug. Sie entstehen am besten durch echte Beziehungen vor Ort, etwa durch Sponsoring, Mitgliedschaften oder Berichte. Eine feste Gewichtung nennt Google nicht, gekaufte Links verstoßen gegen die Spamrichtlinien.",
     features: [
       "Links von lokalen Zeitungen und Portalen",
-      "Sponsoring von Vereinen und Events",
-      "Mitgliedschaft in Handelskammern und Verbänden",
+      "Sponsoring von Vereinen und Veranstaltungen",
+      "Mitgliedschaft in Kammern und Verbänden",
       "Gastbeiträge auf regionalen Blogs"
     ],
-    statistics: [
-      { label: "Anteil an Local Ranking", value: "~29%", icon: "percent" },
-      { label: "Sichtbarkeits-Boost", value: "bis +67%", icon: "trending" }
-    ],
     benefits: [
-      "Stärkster beeinflussbarer Ranking-Faktor",
-      "Bringt auch direkten Referral-Traffic",
-      "Langfristiger SEO-Wert"
+      "Bekanntheit in der Region",
+      "Direkte Besucher über Verweise",
+      "Echte lokale Verankerung",
+      "Beziehungen vor Ort"
     ],
     relatedTerms: ["Backlinks", "Local SEO", "Domain Authority", "Link Building"],
     difficulty: "fortgeschritten",
@@ -2524,23 +2163,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "P",
     term: "Prominence (Bekanntheit)",
-    shortDescription: "Prominence ist einer der drei Google-Maps-Hauptfaktoren und misst die Bekanntheit und Online-Autorität eines Unternehmens.",
-    snippetDefinition: "Prominence (Bekanntheit) ist einer der drei Hauptfaktoren für das Google-Maps-Ranking neben Proximity und Relevance. Google bewertet, wie bekannt und etabliert ein Unternehmen ist – basierend auf Bewertungen, Backlinks, Citations, Erwähnungen in Medien und der allgemeinen Online-Präsenz. Im Gegensatz zu Proximity kann Prominence aktiv beeinflusst werden.",
-    fullDescription: "Prominence misst die Bekanntheit und Autorität eines Unternehmens im Internet. Google nutzt Bewertungen, Backlinks, Citations und Medienerwähnungen, um die Bekanntheit zu bewerten. Es ist der am stärksten beeinflussbare der drei Hauptfaktoren.",
+    shortDescription: "Prominence (Bekanntheit) ist eines der drei Kriterien für lokale Treffer und beschreibt, wie bekannt ein Unternehmen ist.",
+    snippetDefinition: "Prominence (Bekanntheit) ist neben Relevanz und Entfernung eines der drei Kriterien für lokale Treffer in Google. Laut Googles Hilfe fließen Informationen aus dem Web ein, etwa Links, Artikel und Verzeichniseinträge, außerdem Anzahl und Durchschnitt der Bewertungen. Auch bekannte Orte in der Offline-Welt können dabei bevorzugt erscheinen. Eine Gewichtung veröffentlicht Google nicht.",
+    fullDescription: "Prominence beschreibt die Bekanntheit eines Unternehmens. Laut Googles Hilfe fließen Informationen aus dem Web ein, etwa Links, Artikel und Verzeichniseinträge, außerdem Bewertungen. Sie kann durch echte Bekanntheit, gute Bewertungen und eine saubere Präsenz im Web gestärkt werden. Eine Gewichtung nennt Google nicht.",
     features: [
-      "Basiert auf Bewertungen, Backlinks und Citations",
-      "Berücksichtigt auch Offline-Bekanntheit (z.B. bekannte Marken)",
-      "Kann aktiv verbessert werden",
-      "Kompensiert teilweise schlechte Proximity"
-    ],
-    statistics: [
-      { label: "Anteil am Maps-Ranking", value: "~25%", icon: "percent" },
-      { label: "Beeinflussbar", value: "Ja", icon: "trending" }
+      "Basiert auf Informationen aus dem Web",
+      "Bewertungen und deren Durchschnitt",
+      "Links, Artikel und Verzeichniseinträge",
+      "Auch Bekanntheit in der Offline-Welt"
     ],
     benefits: [
-      "Stärkster beeinflussbarer Maps-Faktor",
-      "Kann schwache Proximity ausgleichen",
-      "Langfristig aufbaubar"
+      "Verständnis eines der drei Kriterien",
+      "Bessere Orientierung für Maßnahmen",
+      "Langfristig aufbaubar",
+      "Echte Bekanntheit statt Tricks"
     ],
     relatedTerms: ["Proximity (Entfernung)", "Relevance (Relevanz)", "Google Maps", "Local Pack"],
     difficulty: "fortgeschritten",
@@ -2553,23 +2189,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "R",
     term: "Relevance (Relevanz)",
-    shortDescription: "Relevance ist einer der drei Google-Maps-Hauptfaktoren und misst, wie gut ein Unternehmensprofil zur Suchanfrage passt.",
-    snippetDefinition: "Relevance (Relevanz) ist einer der drei Hauptfaktoren für das Google-Maps-Ranking. Google bewertet, wie gut ein Unternehmensprofil zur Suchanfrage des Nutzers passt. Entscheidend sind die primäre und sekundäre Kategorie, Keywords in der Geschäftsbeschreibung, angebotene Dienstleistungen und die Vollständigkeit des Profils. Relevance kann durch Profil-Optimierung stark verbessert werden.",
-    fullDescription: "Relevance misst, wie gut ein Google Business Profile zur Suchanfrage passt. Google wertet Kategorien, Beschreibungstexte, Dienstleistungen und Produkte aus, um die Relevanz zu bestimmen.",
+    shortDescription: "Relevance (Relevanz) ist eines der drei Kriterien für lokale Treffer und beschreibt, wie gut ein Profil zur Suchanfrage passt.",
+    snippetDefinition: "Relevance (Relevanz) ist neben Entfernung und Bekanntheit eines der drei Kriterien für lokale Treffer in Google. Sie beschreibt, wie gut ein Unternehmensprofil zur Suchanfrage passt. Laut Google helfen vollständige und detaillierte Angaben, etwa die passende Kategorie, Leistungen und eine sachliche Beschreibung. Eine Gewichtung veröffentlicht Google nicht.",
+    fullDescription: "Relevance misst, wie gut ein Google Business Profile zur Suchanfrage passt. Vollständige und genaue Angaben zu Kategorien, Leistungen und Beschreibung helfen Google, das Profil richtig einzuordnen. Eine Gewichtung nennt Google nicht.",
     features: [
-      "Primäre und sekundäre Geschäftskategorien",
-      "Keywords in der Unternehmensbeschreibung",
-      "Angebotene Dienstleistungen und Produkte",
+      "Primäre und weitere Kategorien",
+      "Sachliche Unternehmensbeschreibung",
+      "Leistungen und Produkte",
       "Vollständigkeit des Profils"
     ],
-    statistics: [
-      { label: "Anteil am Maps-Ranking", value: "~25%", icon: "percent" },
-      { label: "Beeinflussbar", value: "Ja", icon: "trending" }
-    ],
     benefits: [
-      "Direkt über Profil-Optimierung steuerbar",
-      "Bestimmt bei welchen Suchen man erscheint",
-      "Schnell umsetzbare Verbesserungen"
+      "Über das Profil direkt beeinflussbar",
+      "Hilft bei der richtigen Einordnung",
+      "Schnell umsetzbare Verbesserungen",
+      "Ehrliche Angaben statt Keywords"
     ],
     relatedTerms: ["Proximity (Entfernung)", "Prominence (Bekanntheit)", "Google Business Profile", "Google Maps"],
     difficulty: "anfänger",
@@ -2582,24 +2215,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "R",
     term: "Review Management",
-    shortDescription: "Review Management umfasst alle Strategien zum aktiven Sammeln, Beantworten und Optimieren von Online-Bewertungen.",
-    snippetDefinition: "Review Management bezeichnet die systematische Strategie zum Sammeln, Beantworten und Optimieren von Online-Bewertungen auf Google, Facebook und Branchenportalen. Es umfasst das aktive Einholen neuer Bewertungen, das professionelle Beantworten (auch negativer Reviews) und die Analyse von Bewertungstrends. 93 % der Verbraucher lesen Bewertungen vor einem Kauf.",
-    fullDescription: "Review Management ist der systematische Umgang mit Online-Bewertungen. Es umfasst das Einholen neuer Bewertungen, das Beantworten aller Reviews und die Analyse von Trends. Aktives Review Management ist ein entscheidender Local-SEO-Faktor.",
+    shortDescription: "Review Management umfasst das Einholen, Beantworten und Auswerten von Online-Bewertungen.",
+    snippetDefinition: "Review Management bezeichnet den systematischen Umgang mit Online-Bewertungen auf Google, Facebook und Branchenportalen. Dazu gehören das Einholen neuer Bewertungen im Rahmen der Richtlinien, das sachliche Beantworten, auch negativer Rückmeldungen, und das Auswerten von Trends. Bewertungen dürfen nicht gekauft oder an Gegenleistungen geknüpft werden.",
+    fullDescription: "Review Management ist der systematische Umgang mit Online-Bewertungen. Es umfasst das Einholen neuer Bewertungen im Rahmen der Richtlinien, das Beantworten aller Rezensionen und die Auswertung von Trends. Laut Googles Hilfe fließen Anzahl und Durchschnitt der Google-Bewertungen in das lokale Ranking ein.",
     features: [
-      "Strategisches Einholen neuer Bewertungen",
-      "Professionelles Beantworten aller Reviews",
+      "Bewertungen im Rahmen der Richtlinien einholen",
+      "Sachlich auf Rezensionen antworten",
       "Umgang mit negativen Bewertungen",
-      "Monitoring über mehrere Plattformen"
-    ],
-    statistics: [
-      { label: "Lesen Reviews vor Kauf", value: "93%", icon: "users" },
-      { label: "Ranking-Einfluss Reviews", value: "~17%", icon: "percent" },
-      { label: "Vertrauen wie persönl. Empfehlung", value: "88%", icon: "users" }
+      "Beobachtung über mehrere Plattformen"
     ],
     benefits: [
-      "Stärkt Vertrauen und Conversion",
-      "Direkter Local-SEO-Ranking-Faktor",
-      "Wertvolles Kundenfeedback"
+      "Mehr Vertrauen bei Neukunden",
+      "Wertvolles Kundenfeedback",
+      "Gelegenheit, öffentlich zu antworten",
+      "Früh erkennen, wo Kunden Probleme sehen"
     ],
     relatedTerms: ["Reviews (Bewertungen)", "Google Business Profile", "Local SEO", "Prominence (Bekanntheit)"],
     difficulty: "anfänger",
@@ -2612,23 +2241,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "S",
     term: "Service Area Business",
-    shortDescription: "Ein Service Area Business ist ein Unternehmen ohne festen Kundenstandort, das Kunden in einem definierten Gebiet bedient.",
-    snippetDefinition: "Ein Service Area Business (SAB) ist ein Unternehmen, das seine Dienstleistungen beim Kunden vor Ort erbringt, statt Kunden an einem festen Standort zu empfangen. Beispiele sind Handwerker, mobile Friseure oder Schlüsseldienste. Im Google Business Profile wird statt einer Adresse ein Einzugsgebiet angegeben. SABs erscheinen nicht mit einer Stecknadel auf Google Maps, können aber im Local Pack ranken.",
-    fullDescription: "Service Area Businesses (SABs) sind Unternehmen, die Kunden in einem definierten Gebiet bedienen, ohne dass Kunden den Standort besuchen. Im Google Business Profile wird ein Servicegebiet statt einer festen Adresse angegeben.",
+    shortDescription: "Ein Service Area Business ist ein Unternehmen, das Kunden bei diesen vor Ort bedient, statt sie an einem festen Standort zu empfangen.",
+    snippetDefinition: "Ein Service Area Business (SAB) erbringt seine Leistungen beim Kunden vor Ort, statt Kunden an einem festen Standort zu empfangen. Beispiele sind Handwerker, mobile Friseure oder Schlüsseldienste. Im Google Business Profile wird statt einer Adresse ein Einzugsgebiet angegeben, bis zu 20 Orte oder Postleitzahlen. Die Adresse wird dann nicht öffentlich angezeigt.",
+    fullDescription: "Service Area Businesses (SABs) sind Unternehmen, die zu ihren Kunden fahren und keine Kunden am Standort empfangen. Im Google Business Profile wird ein Einzugsgebiet statt einer sichtbaren Adresse angegeben. Google erlaubt dafür bis zu 20 Gebiete, die realistisch erreichbar sein sollten.",
     features: [
-      "Servicegebiet statt fester Adresse im GBP",
-      "Keine Stecknadel auf Google Maps",
-      "Bis zu 20 Servicegebiete definierbar",
-      "Hybrid-Modell möglich (Standort + Servicegebiet)"
-    ],
-    statistics: [
-      { label: "SAB-Unternehmen in DE", value: "~35%", icon: "percent" },
-      { label: "Max. Servicegebiete", value: "20", icon: "chart" }
+      "Einzugsgebiet statt sichtbarer Adresse im Profil",
+      "Adresse wird nicht öffentlich angezeigt",
+      "Bis zu 20 Gebiete angebbar",
+      "Hybridform möglich, wenn Kunden auch vor Ort empfangen werden"
     ],
     benefits: [
-      "Ranking ohne feste Geschäftsadresse möglich",
-      "Breiteres Einzugsgebiet abdeckbar",
-      "Keine Kundenbesuche am Standort nötig"
+      "Profil auch ohne Kundenstandort möglich",
+      "Einzugsgebiet ehrlich festlegen",
+      "Passt zu mobilen Dienstleistern",
+      "Klare Angaben für Kunden"
     ],
     relatedTerms: ["Google Business Profile", "Local Pack", "Proximity (Entfernung)", "Local SEO"],
     difficulty: "fortgeschritten",
@@ -2641,23 +2267,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "G",
     term: "GBP-Suspendierung",
-    shortDescription: "Eine GBP-Suspendierung ist die vorübergehende Deaktivierung eines Google Business Profiles wegen Richtlinienverstößen.",
-    snippetDefinition: "Eine GBP-Suspendierung ist die vorübergehende Deaktivierung eines Google Business Profiles durch Google wegen vermuteter oder tatsächlicher Richtlinienverstöße. Häufige Gründe sind Keyword-Stuffing im Geschäftsnamen, falsche Adressen oder verdächtige Aktivitäten. Die Reaktivierung erfolgt über einen Einspruch im GBP-Dashboard und dauert durchschnittlich 3 bis 14 Tage.",
-    fullDescription: "Eine GBP-Suspendierung bedeutet, dass Google ein Business Profile wegen Richtlinienverstößen deaktiviert hat. Das Profil verschwindet aus Google Maps und der Suche. Die Reaktivierung erfordert einen Einspruch mit Nachweis der Richtlinienkonformität.",
+    shortDescription: "Eine GBP-Suspendierung ist die Sperrung eines Google Business Profiles durch Google wegen vermuteter Richtlinienverstöße.",
+    snippetDefinition: "Eine GBP-Suspendierung ist die Sperrung eines Google Business Profiles durch Google wegen vermuteter oder tatsächlicher Verstöße gegen die Richtlinien für Unternehmensprofile. Häufige Ursachen sind Keywords im Unternehmensnamen, unzulässige Adressen wie virtuelle Büros oder nicht nachvollziehbare Angaben. Die Wiederherstellung erfolgt über einen Antrag, mit dem das Unternehmen die Richtlinienkonformität belegt.",
+    fullDescription: "Eine GBP-Suspendierung bedeutet, dass Google ein Business Profile wegen vermuteter Richtlinienverstöße gesperrt hat. Das Profil kann dadurch in Maps und der Suche nicht mehr erscheinen. Die Wiederherstellung erfordert einen Antrag mit Nachweisen, dass das Unternehmen den Richtlinien entspricht.",
     features: [
-      "Soft Suspension: Profil sichtbar, aber nicht editierbar",
-      "Hard Suspension: Profil komplett unsichtbar",
-      "Häufigste Gründe: Keyword-Stuffing, falsche Adresse",
-      "Einspruch über GBP-Dashboard möglich"
-    ],
-    statistics: [
-      { label: "Durchschnittl. Reaktivierung", value: "3-14 Tage", icon: "clock" },
-      { label: "Erfolgsquote Einspruch", value: "~70%", icon: "percent" }
+      "Verstoß gegen die Richtlinien für Unternehmensprofile",
+      "Häufig: Keywords im Namen, unzulässige Adresse",
+      "Antrag auf Wiederherstellung über Google",
+      "Nachweise zum Unternehmen bereithalten"
     ],
     benefits: [
-      "Verständnis der Richtlinien verhindert Suspendierung",
-      "Schnelles Handeln minimiert Umsatzverlust",
-      "Proaktive Compliance schützt das Profil"
+      "Richtlinien kennen und Verstöße vermeiden",
+      "Vollständige Nachweise erleichtern den Antrag",
+      "Frühzeitig reagieren",
+      "Profil sauber und wahrheitsgemäß führen"
     ],
     relatedTerms: ["Google Business Profile", "Google Maps", "Local Pack", "NAP"],
     difficulty: "fortgeschritten",
@@ -2670,23 +2293,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "L",
     term: "Local Landing Page",
-    shortDescription: "Eine Local Landing Page ist eine standortspezifische Unterseite, die für lokale Keywords in einer bestimmten Stadt oder Region optimiert ist.",
-    snippetDefinition: "Eine Local Landing Page ist eine speziell für einen geografischen Standort optimierte Unterseite einer Website. Sie zielt auf lokale Keywords wie 'Zahnarzt München Schwabing' ab und enthält standortspezifische Inhalte wie Adresse, Anfahrt, lokale Referenzen und Bewertungen. Local Landing Pages sind besonders effektiv für Unternehmen mit mehreren Standorten oder großem Servicegebiet.",
-    fullDescription: "Local Landing Pages sind standortspezifische Unterseiten, die für lokale Keywords in bestimmten Städten oder Stadtteilen optimiert sind. Sie helfen Unternehmen, für verschiedene Standorte organisch zu ranken.",
+    shortDescription: "Eine Local Landing Page ist eine Unterseite für einen bestimmten Standort oder ein bestimmtes Einzugsgebiet eines Unternehmens.",
+    snippetDefinition: "Eine Local Landing Page ist eine Unterseite einer Website für einen bestimmten Standort. Sie enthält standortspezifische Inhalte wie Adresse, Anfahrt, Ansprechpartner, Leistungen vor Ort und Bewertungen. Sinnvoll ist sie für Unternehmen mit mehreren echten Standorten. Viele inhaltsgleiche Seiten, die nur den Ortsnamen tauschen, gelten als Doorway-Seiten und verstoßen gegen Googles Richtlinien.",
+    fullDescription: "Local Landing Pages sind Unterseiten für einen bestimmten Standort. Sie sollten echte, einzigartige Informationen zu diesem Standort enthalten. Seiten, die sich nur im Ortsnamen unterscheiden, verstoßen gegen Googles Richtlinien zu Doorway-Seiten.",
     features: [
-      "Einzigartige Inhalte pro Standort (kein Duplicate Content)",
-      "Lokale Keywords in Titeln und Texten",
-      "Eingebettete Google Maps Karte",
-      "Standortspezifische Testimonials und Referenzen"
-    ],
-    statistics: [
-      { label: "Organischer Traffic-Boost", value: "bis +150%", icon: "trending" },
-      { label: "Conversion-Rate lokal", value: "2-5x höher", icon: "percent" }
+      "Einzigartige Inhalte pro Standort",
+      "Echte Angaben zu Adresse, Anfahrt und Team",
+      "Eingebettete Karte",
+      "Standortspezifische Referenzen, wenn vorhanden"
     ],
     benefits: [
-      "Rankt für standortspezifische Keywords",
-      "Skalierbar für mehrere Standorte",
-      "Stärkt die lokale Autorität"
+      "Passende Informationen für einen Standort",
+      "Gut für Unternehmen mit mehreren echten Standorten",
+      "Klare Anlaufstelle für Kunden",
+      "Kein Risiko durch Doorway-Seiten, wenn sie echt sind"
     ],
     relatedTerms: ["Local SEO", "Geo-Targeting", "Local Pack", "NAP"],
     difficulty: "fortgeschritten",
@@ -2699,23 +2319,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "L",
     term: "Local Schema Markup",
-    shortDescription: "Local Schema Markup ist strukturierter Code (JSON-LD), der Suchmaschinen detaillierte Unternehmensdaten maschinenlesbar übermittelt.",
-    snippetDefinition: "Local Schema Markup ist strukturierter Code im JSON-LD-Format, der Suchmaschinen detaillierte Informationen über ein lokales Unternehmen maschinenlesbar übermittelt. Es umfasst Daten wie Firmenname, Adresse, Öffnungszeiten, Bewertungen und angebotene Dienstleistungen. Korrekt implementiertes LocalBusiness-Schema erhöht die Chance auf Rich Snippets in den Suchergebnissen um bis zu 30 %.",
-    fullDescription: "Local Schema Markup ist strukturierter Code, der Google detaillierte Unternehmensdaten maschinenlesbar bereitstellt. Es verbessert die Chance auf Rich Snippets und hilft bei der Validierung von NAP-Daten.",
+    shortDescription: "Local Schema Markup ist strukturierter Code (meist JSON-LD), der Suchmaschinen detaillierte Unternehmensdaten maschinenlesbar übermittelt.",
+    snippetDefinition: "Local Schema Markup ist strukturierter Code, meist im JSON-LD-Format, der Suchmaschinen Informationen über ein lokales Unternehmen maschinenlesbar übermittelt. Er umfasst Firmenname, Adresse, Öffnungszeiten und Leistungen. Das Markup hilft Google, die Angaben zu verstehen. Ein bestimmtes Rich Result ist damit nicht garantiert, und die Angaben müssen mit dem sichtbaren Inhalt übereinstimmen.",
+    fullDescription: "Local Schema Markup ist strukturierter Code, der Google detaillierte Unternehmensdaten maschinenlesbar bereitstellt. Er hilft Google, die Angaben auf der Seite zu verstehen, und muss mit dem sichtbaren Inhalt übereinstimmen. Ein bestimmtes Rich Result ist damit nicht garantiert.",
     features: [
-      "LocalBusiness Schema als Basis",
-      "Spezialisierte Typen: Restaurant, MedicalBusiness, LegalService",
-      "Öffnungszeiten, Preisklasse, Zahlungsmethoden",
-      "FAQ-, Review- und Event-Schema als Ergänzung"
-    ],
-    statistics: [
-      { label: "Mehr Rich Snippets", value: "+30%", icon: "trending" },
-      { label: "Seiten ohne Schema", value: "~70%", icon: "percent" }
+      "LocalBusiness als Basis",
+      "Spezialisierte Typen wie Restaurant oder Dentist",
+      "Öffnungszeiten und Kontaktdaten",
+      "Angaben wie auf der sichtbaren Seite"
     ],
     benefits: [
-      "Erhöht Sichtbarkeit durch Rich Snippets",
-      "Verbessert Verständnis durch Suchmaschinen",
-      "Stärkt E-E-A-T-Signale"
+      "Maschinenlesbare Unternehmensdaten",
+      "Klare Angaben für Suchmaschinen",
+      "Einheitliche Datenbasis",
+      "Konsistenz zwischen Seite und Markup"
     ],
     relatedTerms: ["Schema Markup", "Local SEO", "Google Business Profile", "NAP"],
     difficulty: "experte",
@@ -2728,23 +2345,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "N",
     term: "NAP-Audit",
-    shortDescription: "Ein NAP-Audit ist die systematische Überprüfung aller Online-Einträge auf konsistente Geschäftsdaten (Name, Adresse, Telefon).",
-    snippetDefinition: "Ein NAP-Audit ist die systematische Überprüfung und Bereinigung aller Online-Erwähnungen eines Unternehmens auf konsistente Name-, Adress- und Telefondaten. Dabei werden Branchenverzeichnisse, Social-Media-Profile und Bewertungsportale geprüft und inkonsistente Einträge korrigiert. Regelmäßige NAP-Audits (alle 3-6 Monate) sind essenziell, da 73 % der Unternehmen inkonsistente Daten haben.",
-    fullDescription: "Ein NAP-Audit prüft systematisch alle Online-Einträge eines Unternehmens auf konsistente Daten. Inkonsistenzen werden identifiziert und korrigiert – ein essenzieller Prozess für gutes lokales Ranking.",
+    shortDescription: "Ein NAP-Audit ist die systematische Überprüfung aller Online-Einträge auf einheitliche Geschäftsdaten (Name, Adresse, Telefon).",
+    snippetDefinition: "Ein NAP-Audit ist die systematische Überprüfung aller Online-Erwähnungen eines Unternehmens auf einheitliche Name-, Adress- und Telefondaten. Dabei werden Branchenverzeichnisse, Social-Media-Profile und Bewertungsportale geprüft und abweichende Einträge korrigiert. Ein Audit lohnt sich regelmäßig und nach Änderungen wie einem Umzug oder einer neuen Rufnummer.",
+    fullDescription: "Ein NAP-Audit prüft systematisch alle Online-Einträge eines Unternehmens auf einheitliche Angaben. Abweichungen werden dokumentiert und korrigiert. Sinnvoll ist er regelmäßig und nach Änderungen wie einem Umzug oder einer neuen Telefonnummer.",
     features: [
-      "Alle Verzeichnisse und Profile systematisch prüfen",
-      "Inkonsistenzen dokumentieren und korrigieren",
+      "Verzeichnisse und Profile systematisch prüfen",
+      "Abweichungen dokumentieren und korrigieren",
       "Tools wie Moz Local, BrightLocal oder Semrush",
-      "Empfohlener Rhythmus: alle 3-6 Monate"
-    ],
-    statistics: [
-      { label: "Unternehmen mit Fehlern", value: "73%", icon: "percent" },
-      { label: "Empfohlener Rhythmus", value: "3-6 Monate", icon: "clock" }
+      "Regelmäßig und nach Änderungen wiederholen"
     ],
     benefits: [
-      "Verbessert lokale Rankings messbar",
-      "Verhindert Verwirrung bei Google",
-      "Stärkt Vertrauen bei Kunden"
+      "Einheitliche Angaben im Web",
+      "Weniger Verwirrung bei Kunden",
+      "Veraltete Einträge finden",
+      "Saubere Datenbasis"
     ],
     relatedTerms: ["NAP", "Citations", "Local SEO", "Branchenverzeichnis"],
     difficulty: "anfänger",
@@ -2757,23 +2371,20 @@ export const seoLexikonData: SEOTerm[] = [
   {
     letter: "V",
     term: "Verifizierung (GBP)",
-    shortDescription: "Die GBP-Verifizierung ist der Prozess, mit dem Google die Identität und den Standort eines Unternehmens bestätigt.",
-    snippetDefinition: "Die GBP-Verifizierung ist der Prozess, durch den Google die Echtheit eines Unternehmens und seines Standorts bestätigt. Übliche Methoden sind Postkarte, Telefon, E-Mail oder Video-Verifizierung. Ohne Verifizierung kann ein Google Business Profile nicht vollständig verwaltet werden und erscheint möglicherweise nicht in den lokalen Suchergebnissen. Die Verifizierung dauert je nach Methode 1 bis 14 Tage.",
-    fullDescription: "Die Verifizierung bestätigt Google, dass ein Unternehmen echt ist und am angegebenen Standort existiert. Ohne Verifizierung kann das Google Business Profile nicht verwaltet werden und rankt nicht.",
+    shortDescription: "Die GBP-Verifizierung ist der Prozess, mit dem Google bestätigt, dass ein Unternehmen echt ist und am angegebenen Ort existiert.",
+    snippetDefinition: "Die GBP-Verifizierung ist der Prozess, mit dem Google die Echtheit eines Unternehmens und seines Standorts bestätigt. Welche Methoden angeboten werden, entscheidet Google je Unternehmen, etwa Telefon, E-Mail, Video oder Postkarte. Ein verifiziertes Profil lässt sich vollständig verwalten. Wie lange es dauert, hängt von der Methode ab.",
+    fullDescription: "Die Verifizierung bestätigt Google, dass ein Unternehmen echt ist und am angegebenen Ort existiert. Welche Methoden angeboten werden, entscheidet Google je Unternehmen. Ein verifiziertes Profil lässt sich vollständig verwalten.",
     features: [
-      "Methoden: Postkarte, Telefon, E-Mail, Video",
-      "Postkarte dauert 5-14 Tage",
-      "Video-Verifizierung für sofortige Bestätigung",
-      "Bulk-Verifizierung für Ketten (10+ Standorte)"
-    ],
-    statistics: [
-      { label: "Postkarte Dauer", value: "5-14 Tage", icon: "clock" },
-      { label: "Nicht-verifizierte Profile", value: "~20%", icon: "percent" }
+      "Methoden je nach Angebot von Google: Telefon, E-Mail, Video, Postkarte",
+      "Video-Verifizierung mit Nachweisen vor Ort",
+      "Dauer abhängig von der Methode",
+      "Wahrheitsgemäße Angaben notwendig"
     ],
     benefits: [
-      "Grundvoraussetzung für Maps-Ranking",
-      "Volle Kontrolle über das Profil",
-      "Schutz vor unbefugten Änderungen"
+      "Volle Verwaltung des Profils",
+      "Schutz vor unbefugten Änderungen",
+      "Grundlage für Bewertungen und Beiträge",
+      "Nachweis der Echtheit"
     ],
     relatedTerms: ["Google Business Profile", "GBP-Suspendierung", "Google Maps", "Local Pack"],
     difficulty: "anfänger",

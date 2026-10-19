@@ -26,6 +26,16 @@
       "permanent": true
     },
     {
+      "source": "/industries/salons",
+      "destination": "/industries/hair-salons",
+      "permanent": true
+    },
+    {
+      "source": "/industries/gyms",
+      "destination": "/industries/fitness-studios",
+      "permanent": true
+    },
+    {
       "source": "/restaurant-marketing",
       "destination": "/industries/restaurants",
       "permanent": true

@@ -3,7 +3,7 @@ import type { V4Article } from "../types";
 const article: V4Article = {
   slug: "ki-tools-local-seo",
   lang: "de",
-  seoTitle: "KI-Tools für Local SEO: sicher nutzen im kleinen Betrieb",
+  seoTitle: "KI-Tools für Local SEO: ChatGPT, Claude, Gemini nutzen",
   seoDescription:
     "Wie Sie ChatGPT, Claude, Gemini und Copilot für Bewertungsantworten, Profiltexte und Inhalte nutzen: Googles Regeln, Datenschutz und KI-Kompetenzpflicht.",
   h1: "KI-Tools für Local SEO: Wofür sie taugen, was Google erlaubt und was Datenschutz verlangt",
