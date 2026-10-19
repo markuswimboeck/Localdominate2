@@ -33,19 +33,13 @@ import { openStripeCheckout } from "@/lib/stripe";
 const AnwaltMarketing = () => {
   const { language } = useLanguage();
   const [openFaq, setOpenFaq] = useState<number | null>(null);
-  const [spotsLeft, setSpotsLeft] = useState(2);
 
   const content = {
     de: {
       eyebrow: "Für Anwälte & Kanzleien",
       headline: "Mehr Mandanten.",
       headlineAccent: "Mehr Reputation.",
-      subheadline: "82% aller potenziellen Mandanten recherchieren online, bevor sie einen Anwalt kontaktieren. Wir sorgen dafür, dass sie IHRE Kanzlei finden.",
-      stats: [
-        { value: "82%", label: "recherchieren Anwälte online" },
-        { value: "5x", label: "mehr Anfragen mit optimiertem Profil" },
-        { value: "73%", label: "prüfen Bewertungen vor Kontakt" }
-      ],
+      subheadline: "Viele potenzielle Mandanten recherchieren online, bevor sie einen Anwalt kontaktieren. Wir arbeiten daran, dass sie IHRE Kanzlei finden.",
       problemTitle: "Kennen Sie das?",
       problems: [
         "Ihre Kanzlei erscheint bei Google Maps nicht unter den Top 3",
@@ -58,13 +52,13 @@ const AnwaltMarketing = () => {
       features: [
         {
           icon: MapPin,
-          title: "Google Maps & Portal-Dominanz",
-          description: "Top-Platzierung bei 'Anwalt + Rechtsgebiet + Stadt' Suchanfragen"
+          title: "Google Maps & Portal-Sichtbarkeit",
+          description: "Optimierung für Suchanfragen wie 'Anwalt + Rechtsgebiet + Stadt'"
         },
         {
           icon: Shield,
           title: "Reputationsmanagement",
-          description: "Berufsrechtskonforme Strategie für positive Mandantenbewertungen"
+          description: "Strategie, um Mandanten um eine Bewertung zu bitten und professionell zu antworten"
         },
         {
           icon: FileText,
@@ -89,35 +83,10 @@ const AnwaltMarketing = () => {
         "90 Tage Premium E-Mail Support",
         "E-A-T Checkliste für Ihre Kanzlei-Website"
       ],
-      priceAnchor: "599",
       price: "499",
       priceSuffix: "€",
       priceNote: "Einmalzahlung · Keine versteckten Kosten",
-      savings: "100€ Rabatt",
-      badge: "🎉 Einmaliges Einführungsangebot",
-      discountNote: "Regulär 599€ – nur für kurze Zeit",
       cta: "Jetzt Kanzlei Pro sichern",
-      spotsText: "Nur noch {spots} Plätze für Kanzleien diesen Monat",
-      testimonials: [
-        {
-          quote: "Nach 3 Wochen war ich bei 'Fachanwalt Arbeitsrecht München' auf Platz 1. Die Anfragen haben sich verdreifacht.",
-          author: "RA Dr. Bergmann",
-          role: "Arbeitsrechtskanzlei München",
-          result: "+18 Mandatsanfragen/Monat"
-        },
-        {
-          quote: "Von 8 auf 67 Google-Bewertungen in 4 Monaten. Alles berufsrechtskonform – das war mir wichtig.",
-          author: "RAin Schneider",
-          role: "Familienrechtskanzlei Hamburg",
-          result: "8x mehr Bewertungen"
-        },
-        {
-          quote: "Die Konkurrenz fragt sich, wie wir plötzlich alle lokalen Anfragen bekommen. Local SEO war der Schlüssel.",
-          author: "RA Fischer & Partner",
-          role: "Wirtschaftskanzlei Frankfurt",
-          result: "+380% Sichtbarkeit"
-        }
-      ],
       faqTitle: "Häufige Fragen",
       faqs: [
         {
@@ -140,12 +109,7 @@ const AnwaltMarketing = () => {
       eyebrow: "For Lawyers & Law Firms",
       headline: "More Clients.",
       headlineAccent: "More Reputation.",
-      subheadline: "82% of potential clients research online before contacting a lawyer. We make sure they find YOUR firm.",
-      stats: [
-        { value: "82%", label: "research lawyers online" },
-        { value: "5x", label: "more inquiries with optimized profile" },
-        { value: "73%", label: "check reviews before contact" }
-      ],
+      subheadline: "Many potential clients research online before contacting a lawyer. We work on getting YOUR firm found.",
       problemTitle: "Sound Familiar?",
       problems: [
         "Your firm doesn't appear in the top 3 on Google Maps",
@@ -158,13 +122,13 @@ const AnwaltMarketing = () => {
       features: [
         {
           icon: MapPin,
-          title: "Google Maps & Portal Dominance",
-          description: "Top placement for 'lawyer + practice area + city' searches"
+          title: "Google Maps & Portal Visibility",
+          description: "Optimization for searches like 'lawyer + practice area + city'"
         },
         {
           icon: Shield,
           title: "Reputation Management",
-          description: "Bar-compliant strategy for positive client reviews"
+          description: "A strategy for asking clients for a review and answering professionally"
         },
         {
           icon: FileText,
@@ -189,35 +153,10 @@ const AnwaltMarketing = () => {
         "90 days premium email support",
         "E-A-T checklist for your firm website"
       ],
-      priceAnchor: "599",
       price: "499",
       priceSuffix: "€",
       priceNote: "One-time payment · No hidden costs",
-      savings: "Save 100€",
-      badge: "🎉 Limited Launch Offer",
-      discountNote: "Regular 599€ – limited time only",
       cta: "Get Law Firm Pro Now",
-      spotsText: "Only {spots} spots left for law firms this month",
-      testimonials: [
-        {
-          quote: "After 3 weeks I was #1 for 'employment lawyer Munich'. Inquiries tripled.",
-          author: "Dr. Bergmann, Esq.",
-          role: "Employment Law Firm Munich",
-          result: "+18 case inquiries/month"
-        },
-        {
-          quote: "From 8 to 67 Google reviews in 4 months. All bar-compliant – that was crucial.",
-          author: "Attorney Schneider",
-          role: "Family Law Firm Hamburg",
-          result: "8x more reviews"
-        },
-        {
-          quote: "Competitors wonder how we suddenly get all local inquiries. Local SEO was the key.",
-          author: "Fischer & Partners",
-          role: "Business Law Firm Frankfurt",
-          result: "+380% visibility"
-        }
-      ],
       faqTitle: "Frequently Asked Questions",
       faqs: [
         {
@@ -310,21 +249,6 @@ const AnwaltMarketing = () => {
                 {t.subheadline}
               </motion.p>
 
-              {/* Stats */}
-              <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.5, delay: 0.3 }}
-                className="grid grid-cols-3 gap-4 md:gap-8 max-w-2xl mx-auto mb-10"
-              >
-                {t.stats.map((stat, index) => (
-                  <div key={index} className="text-center">
-                    <div className="text-2xl md:text-3xl font-bold text-amber-400">{stat.value}</div>
-                    <div className="text-xs md:text-sm text-slate-400">{stat.label}</div>
-                  </div>
-                ))}
-              </motion.div>
-
               {/* CTA */}
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
@@ -342,9 +266,6 @@ const AnwaltMarketing = () => {
                   {t.cta}
                   <ArrowRight className="ml-2 w-5 h-5" />
                 </Button>
-                <p className="mt-4 text-sm text-slate-500">
-                  {t.spotsText.replace("{spots}", spotsLeft.toString())}
-                </p>
               </motion.div>
             </div>
           </div>
@@ -415,9 +336,6 @@ const AnwaltMarketing = () => {
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto">
               <div className="text-center mb-12">
-                <Badge className="mb-4 bg-amber-500/20 text-amber-300 border-amber-500/30">
-                  {t.badge}
-                </Badge>
                 <h2 className="text-3xl md:text-4xl font-bold mb-4">{t.packageTitle}</h2>
                 <p className="text-slate-400">{t.packageSubtitle}</p>
               </div>
@@ -443,12 +361,6 @@ const AnwaltMarketing = () => {
 
                   {/* Pricing */}
                   <div className="text-center border-t border-slate-700 pt-8">
-                    <div className="mb-4">
-                      <span className="text-slate-500 line-through text-xl">{t.priceAnchor}€</span>
-                      <Badge className="ml-2 bg-green-500/20 text-green-400 border-green-500/30">
-                        {t.savings}
-                      </Badge>
-                    </div>
                     <div className="flex items-baseline justify-center gap-1 mb-2">
                       <span className="text-5xl md:text-6xl font-bold text-amber-400">{t.price}</span>
                       <span className="text-2xl text-amber-400">{t.priceSuffix}</span>
@@ -473,40 +385,6 @@ const AnwaltMarketing = () => {
           </div>
         </section>
 
-        {/* Testimonials */}
-        <section className="py-16 lg:py-24">
-          <div className="container mx-auto px-4">
-            <div className="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto">
-              {t.testimonials.map((testimonial, index) => (
-                <motion.div
-                  key={index}
-                  initial={{ opacity: 0, y: 20 }}
-                  whileInView={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.4, delay: index * 0.1 }}
-                  viewport={{ once: true }}
-                >
-                  <Card className="bg-slate-800/50 border-slate-700 h-full">
-                    <CardContent className="p-6">
-                      <div className="flex gap-1 mb-4">
-                        {[...Array(5)].map((_, i) => (
-                          <Star key={i} className="w-4 h-4 fill-amber-400 text-amber-400" />
-                        ))}
-                      </div>
-                      <p className="text-slate-300 mb-4 italic">"{testimonial.quote}"</p>
-                      <div className="border-t border-slate-700 pt-4">
-                        <p className="font-semibold text-white">{testimonial.author}</p>
-                        <p className="text-sm text-slate-500">{testimonial.role}</p>
-                        <Badge className="mt-2 bg-green-500/20 text-green-400 border-green-500/30 text-xs">
-                          {testimonial.result}
-                        </Badge>
-                      </div>
-                    </CardContent>
-                  </Card>
-                </motion.div>
-              ))}
-            </div>
-          </div>
-        </section>
 
         {/* Guarantee */}
         <section className="py-16 lg:py-20 bg-slate-900/50">
@@ -633,9 +511,6 @@ const AnwaltMarketing = () => {
                 {t.cta}
                 <ArrowRight className="ml-2 w-5 h-5" />
               </Button>
-              <p className="mt-4 text-sm text-slate-500">
-                {t.spotsText.replace("{spots}", spotsLeft.toString())}
-              </p>
             </div>
           </div>
         </section>

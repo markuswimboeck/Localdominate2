@@ -10,21 +10,7 @@ import { trackButtonClick } from "@/lib/dataLayer";
 
 const ArztpraxisMarketing = () => {
   const { language } = useLanguage();
-  const [timeLeft, setTimeLeft] = useState({ hours: 23, minutes: 45, seconds: 12 });
   const [visibleSections, setVisibleSections] = useState<Set<string>>(new Set());
-
-  // Countdown timer
-  useEffect(() => {
-    const timer = setInterval(() => {
-      setTimeLeft(prev => {
-        if (prev.seconds > 0) return { ...prev, seconds: prev.seconds - 1 };
-        if (prev.minutes > 0) return { ...prev, minutes: prev.minutes - 1, seconds: 59 };
-        if (prev.hours > 0) return { hours: prev.hours - 1, minutes: 59, seconds: 59 };
-        return prev;
-      });
-    }, 1000);
-    return () => clearInterval(timer);
-  }, []);
 
   // Intersection observer
   useEffect(() => {
@@ -54,12 +40,7 @@ const ArztpraxisMarketing = () => {
       eyebrow: "Für Arztpraxen & Ärzte",
       headline: "Mehr Patienten.",
       headlineHighlight: "Weniger Verwaltung.",
-      subheadline: "78% aller Patienten suchen ihren Arzt online. Wir sorgen dafür, dass sie IHRE Praxis finden – nicht die Konkurrenz.",
-      stats: [
-        { value: "78%", label: "aller Patienten suchen Ärzte online" },
-        { value: "70%", label: "prüfen Bewertungen vor der Terminbuchung" },
-        { value: "4x", label: "mehr Anfragen mit optimiertem Profil" },
-      ],
+      subheadline: "Viele Patienten suchen ihren Arzt online. Wir arbeiten daran, dass sie IHRE Praxis finden – nicht die Konkurrenz.",
       problems: {
         headline: "Kennen Sie das?",
         items: [
@@ -73,8 +54,8 @@ const ArztpraxisMarketing = () => {
         headline: "Ihre Lösung: Praxis Pro",
         subheadline: "Das Komplettpaket für lokale Sichtbarkeit – speziell für Arztpraxen",
         features: [
-          { icon: MapPin, title: "Google Maps & Jameda Dominanz", text: "Top-Platzierung bei 'Arzt + Fachrichtung + Stadt'" },
-          { icon: Star, title: "Bewertungs-Management", text: "Rechtssichere Strategie für konstante 5-Sterne Bewertungen" },
+          { icon: MapPin, title: "Google Maps & Jameda Sichtbarkeit", text: "Optimierung für Suchen wie 'Arzt + Fachrichtung + Stadt'" },
+          { icon: Star, title: "Bewertungs-Management", text: "Strategie, um Patienten um eine Bewertung zu bitten und professionell zu antworten" },
           { icon: Shield, title: "DSGVO-konform", text: "Alle Maßnahmen zu 100% patientenschutzkonform" },
           { icon: FileCheck, title: "YMYL-optimiert", text: "Erfüllt Googles medizinische Qualitätsrichtlinien" },
         ],
@@ -93,25 +74,14 @@ const ArztpraxisMarketing = () => {
         ],
       },
       pricing: {
-        anchor: "599",
         price: "299",
-        badge: "🎉 Einmaliges Einführungsangebot",
-        savings: "300€ Rabatt",
         oneTime: "Einmalig • Keine versteckten Kosten",
         cta: "Jetzt Praxis Pro sichern",
-        scarcity: "Nur noch 3 Plätze für Praxen diesen Monat",
-        offerEnds: "Angebot endet in",
-        discountNote: "Regulär 599€ – nur für kurze Zeit",
       },
       guarantee: {
         headline: "100% Zufriedenheitsgarantie",
         text: "Keine messbare Verbesserung nach 30 Tagen? Geld zurück – ohne Wenn und Aber.",
       },
-      testimonials: [
-        { name: "Dr. Müller", business: "Hausarztpraxis, München", quote: "Von Jameda Seite 3 auf Platz 1 in nur 4 Wochen. Seitdem kommen täglich neue Patientenanfragen.", result: "+15 Neupatienten/Monat" },
-        { name: "Dr. Schmidt", business: "Zahnarztpraxis, Hamburg", quote: "Das Bewertungssystem ist Gold wert. Hatte vorher 12 Bewertungen, jetzt 89 – alle positiv.", result: "89 Bewertungen" },
-        { name: "Dr. Weber", business: "Orthopädie, Berlin", quote: "Endlich finden Patienten uns online. Die beste Investition für unsere Praxis.", result: "+420% Sichtbarkeit" },
-      ],
       faq: {
         headline: "Häufige Fragen",
         items: [
@@ -132,12 +102,7 @@ const ArztpraxisMarketing = () => {
       eyebrow: "For Medical Practices & Doctors",
       headline: "More Patients.",
       headlineHighlight: "Less Admin.",
-      subheadline: "78% of all patients search for their doctor online. We make sure they find YOUR practice – not the competition.",
-      stats: [
-        { value: "78%", label: "of patients search for doctors online" },
-        { value: "70%", label: "check reviews before booking" },
-        { value: "4x", label: "more inquiries with optimized profile" },
-      ],
+      subheadline: "Many patients search for their doctor online. We work on getting YOUR practice found – not the competition.",
       problems: {
         headline: "Sound familiar?",
         items: [
@@ -151,8 +116,8 @@ const ArztpraxisMarketing = () => {
         headline: "Your Solution: Practice Pro",
         subheadline: "The complete package for local visibility – made for medical practices",
         features: [
-          { icon: MapPin, title: "Google Maps Dominance", text: "Top placement for 'doctor + specialty + city'" },
-          { icon: Star, title: "Review Management", text: "Legally compliant strategy for constant 5-star reviews" },
+          { icon: MapPin, title: "Google Maps & Jameda Visibility", text: "Optimization for searches like 'doctor + specialty + city'" },
+          { icon: Star, title: "Review Management", text: "A strategy for asking patients for a review and answering professionally" },
           { icon: Shield, title: "GDPR-Compliant", text: "All measures 100% patient privacy compliant" },
           { icon: FileCheck, title: "YMYL-Optimized", text: "Meets Google's medical quality guidelines" },
         ],
@@ -171,25 +136,14 @@ const ArztpraxisMarketing = () => {
         ],
       },
       pricing: {
-        anchor: "599",
         price: "299",
-        badge: "🎉 Limited Launch Offer",
-        savings: "Save 300€",
         oneTime: "One-time • No hidden fees",
         cta: "Get Practice Pro Now",
-        scarcity: "Only 3 spots left for practices this month",
-        offerEnds: "Offer ends in",
-        discountNote: "Regular 599€ – limited time only",
       },
       guarantee: {
         headline: "100% Satisfaction Guarantee",
         text: "No measurable improvement after 30 days? Money back – no questions asked.",
       },
-      testimonials: [
-        { name: "Dr. Miller", business: "Family Practice, Munich", quote: "From page 3 to #1 in just 4 weeks. Now we get daily patient inquiries.", result: "+15 new patients/month" },
-        { name: "Dr. Smith", business: "Dental Practice, Hamburg", quote: "The review system is gold. Had 12 reviews before, now 89 – all positive.", result: "89 reviews" },
-        { name: "Dr. Weber", business: "Orthopedics, Berlin", quote: "Finally patients find us online. The best investment for our practice.", result: "+420% visibility" },
-      ],
       faq: {
         headline: "FAQ",
         items: [
@@ -275,16 +229,6 @@ const ArztpraxisMarketing = () => {
             {content.subheadline}
           </p>
 
-          {/* Stats */}
-          <div className="grid grid-cols-3 gap-4 md:gap-8 mb-12">
-            {content.stats.map((stat, idx) => (
-              <div key={idx} className="text-center p-4 bg-slate-800/50 rounded-xl border border-slate-700">
-                <p className="text-2xl md:text-3xl font-bold text-cyan-400 mb-1">{stat.value}</p>
-                <p className="text-xs md:text-sm text-slate-400">{stat.label}</p>
-              </div>
-            ))}
-          </div>
-
           {/* CTA */}
           <Button 
             onClick={handleCtaClick}
@@ -369,33 +313,10 @@ const ArztpraxisMarketing = () => {
           <div className="bg-gradient-to-b from-slate-800 to-slate-800/50 border border-cyan-500/30 rounded-3xl p-8 text-center relative overflow-hidden">
             <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-cyan-400 via-cyan-500 to-cyan-400" />
             
-            {/* Badge */}
-            <span className="inline-block px-4 py-1.5 bg-cyan-500/20 text-cyan-400 text-sm font-semibold rounded-full mb-6">
-              {content.pricing.badge} – {content.pricing.savings}
-            </span>
-
             {/* Price */}
             <div className="mb-6">
-              <p className="text-slate-400 text-lg line-through mb-1">{content.pricing.anchor}€</p>
               <p className="text-5xl md:text-6xl font-bold text-white">{content.pricing.price}€</p>
               <p className="text-slate-400 mt-2">{content.pricing.oneTime}</p>
-            </div>
-
-            {/* Timer */}
-            <div className="mb-8">
-              <p className="text-slate-500 text-sm mb-3">{content.pricing.offerEnds}</p>
-              <div className="flex justify-center gap-3">
-                {[
-                  { value: timeLeft.hours, label: "Std" },
-                  { value: timeLeft.minutes, label: "Min" },
-                  { value: timeLeft.seconds, label: "Sek" },
-                ].map((item, idx) => (
-                  <div key={idx} className="bg-slate-900 px-4 py-2 rounded-lg">
-                    <span className="text-xl font-bold text-white">{String(item.value).padStart(2, '0')}</span>
-                    <span className="text-slate-500 text-xs ml-1">{item.label}</span>
-                  </div>
-                ))}
-              </div>
             </div>
 
             {/* CTA */}
@@ -408,11 +329,6 @@ const ArztpraxisMarketing = () => {
               <ArrowRight className="ml-2 w-5 h-5" />
             </Button>
 
-            {/* Scarcity */}
-            <p className="text-cyan-400 text-sm font-medium flex items-center justify-center gap-2">
-              <Clock className="w-4 h-4" />
-              {content.pricing.scarcity}
-            </p>
           </div>
         </div>
       </section>
@@ -431,31 +347,6 @@ const ArztpraxisMarketing = () => {
         </div>
       </section>
 
-      {/* Testimonials */}
-      <section 
-        data-section="testimonials"
-        className={`py-20 px-4 transition-all duration-700 ${visibleSections.has('testimonials') ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}
-      >
-        <div className="max-w-4xl mx-auto">
-          <div className="grid md:grid-cols-3 gap-6">
-            {content.testimonials.map((testimonial, idx) => (
-              <div key={idx} className="bg-slate-800/50 border border-slate-700 rounded-2xl p-6">
-                <div className="flex gap-1 mb-4">
-                  {[...Array(5)].map((_, i) => (
-                    <Star key={i} className="w-4 h-4 fill-cyan-400 text-cyan-400" />
-                  ))}
-                </div>
-                <p className="text-slate-300 text-sm mb-4 italic">"{testimonial.quote}"</p>
-                <div className="border-t border-slate-700 pt-4">
-                  <p className="text-white font-medium text-sm">{testimonial.name}</p>
-                  <p className="text-slate-500 text-xs">{testimonial.business}</p>
-                  <p className="text-cyan-400 font-semibold text-sm mt-2">{testimonial.result}</p>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
 
       {/* FAQ */}
       <section 
