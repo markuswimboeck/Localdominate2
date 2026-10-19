@@ -455,7 +455,42 @@ function addToSitemap(rel, locFor, priority) {
   return x.replace("</urlset>", `${block}</urlset>`);
 }
 
+// ---------- 6. feed.xml ----------
+// The 50 most recently published V4 articles, titles and descriptions from the checked article data.
+// Channel header (title, image) stays as in the existing file; editor address corrected to info@.
+const FEED_ITEMS = 50;
+const xml = (t) => t.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+const rfc822 = (iso) => new Date(`${iso}T08:00:00+01:00`).toUTCString().replace("GMT", "+0000");
+function feedXml() {
+  const file = path.join(PUB, "feed.xml");
+  const old = fs.readFileSync(file, "utf8");
+  // The site's contact address is info@ (157 files); kontakt@ appeared only in this feed header.
+  const oldFeed = old.replaceAll("kontakt@localdominate.org", "info@localdominate.org");
+  const atom = oldFeed.match(/<atom:link [^>]*\/>\n/);
+  const head = oldFeed.slice(0, atom.index + atom[0].length).replace(/<lastBuildDate>.*<\/lastBuildDate>/, `<lastBuildDate>${rfc822(maxDate(slugs.map((s) => articles[s].updatedAt)))}</lastBuildDate>`);
+  const newest = [...slugs]
+    .sort((a, b) => articles[b].publishedAt.localeCompare(articles[a].publishedAt) || a.localeCompare(b))
+    .slice(0, FEED_ITEMS);
+  const items = newest.map((s) => {
+    const a = articles[s];
+    return [
+      "    <item>",
+      `      <title>${xml(a.h1)}</title>`,
+      `      <link>${url(s)}</link>`,
+      `      <guid isPermaLink="true">${url(s)}</guid>`,
+      `      <pubDate>${rfc822(a.publishedAt)}</pubDate>`,
+      "      <dc:creator>LocalDominate</dc:creator>",
+      `      <category>${xml(a.kicker)}</category>`,
+      `      <description><![CDATA[${a.seoDescription.replace("]]>", "]]]]><![CDATA[>")}]]></description>`,
+      "    </item>",
+      "",
+    ].join("\n");
+  });
+  return `${head}\n    <!-- Erzeugt mit npm run geo:files aus den V4-Artikeldaten -->\n\n${items.join("\n")}  </channel>\n</rss>\n`;
+}
+
 // ---------- run ----------
+write("public/feed.xml", feedXml());
 write("public/faq-database.json", faqDatabase());
 write("public/llms-full.txt", await llmsFull());
 write("public/ai-answer-index.json", answerIndex());
