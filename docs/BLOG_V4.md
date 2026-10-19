@@ -15,6 +15,10 @@ Duplicates are not skipped: they get a distinct angle (owner decision 3 Oct 2026
    Leave the old component file in place.
 3. `npm run blog:md` writes `public/blog-md/<slug>.md` and copies title, meta, reading time and
    update date into the German block of the registry entry.
+   `npm run geo:files` then updates the machine-readable files for AI crawlers from the same data
+   (`faq-database.json`, article summaries in `llms-full.txt`, `ai-answer-index.json`,
+   `ai-citation-manifest.json`, `blog-md/index.md`, and the missing entries in `sitemap-ai.xml` and
+   `sitemap-blog.xml`). `npm run geo:files -- --check` fails if they are out of date.
 4. Check: `node scripts/check-article-links.mjs`, `npx tsc --noEmit -p tsconfig.app.json`,
    `npm run build:static -- --only=/blog/<slug>,…`,
    then load each page with browser locale de-DE and en-US through a server that maps `/path` to
