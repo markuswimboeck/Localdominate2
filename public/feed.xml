@@ -25,6 +25,16 @@
     <!-- Erzeugt mit npm run geo:files aus den V4-Artikeldaten -->
 
     <item>
+      <title>SEO für Kosmetikstudios: So finden Kunden Ihre Behandlungen bei Google</title>
+      <link>https://localdominate.org/blog/local-seo-kosmetikstudio</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-kosmetikstudio</guid>
+      <pubDate>Sun, 18 Oct 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Kosmetik &amp; Nagelstudio</category>
+      <description><![CDATA[Kosmetik-, Wimpern- und Nagelstudios bei Google: eine Seite je Behandlung, Profil und Kategorien, Werbeaussagen nach HWG und NiSV, Fotos mit Einwilligung.]]></description>
+    </item>
+
+    <item>
       <title>Claude im Team einführen: Schritt für Schritt</title>
       <link>https://localdominate.org/blog/claude-im-team-einfuehren</link>
       <guid isPermaLink="true">https://localdominate.org/blog/claude-im-team-einfuehren</guid>
@@ -512,16 +522,6 @@
       <dc:creator>LocalDominate</dc:creator>
       <category>Deutschland 2026</category>
       <description><![CDATA[Local SEO in Deutschland 2026: Impressum nach DDG, Bewertungsregeln im UWG, Cookies nach TDDDG, Barrierefreiheit seit Juni 2025 und Telefonbuchdaten.]]></description>
-    </item>
-
-    <item>
-      <title>Local SEO in Österreich 2026: Was hier anders ist als in Deutschland</title>
-      <link>https://localdominate.org/blog/local-seo-trends-oesterreich</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-seo-trends-oesterreich</guid>
-      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
-      <dc:creator>LocalDominate</dc:creator>
-      <category>Österreich 2026</category>
-      <description><![CDATA[Local SEO in Österreich 2026: Impressum nach ECG, Offenlegung nach Mediengesetz, Barrierefreiheitsgesetz, österreichische Suchbegriffe, Herold, Saisonbetriebe.]]></description>
     </item>
   </channel>
 </rss>
