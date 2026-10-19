@@ -401,10 +401,11 @@
    "/admin/kunden",
    "/blog/claude-im-team-einfuehren",
    "/blog/ki-aufgaben-hotel-rezeption",
-   "/blog/ki-kompetenzpflicht-art-4-ki-verordnung"
+   "/blog/ki-kompetenzpflicht-art-4-ki-verordnung",
+   "/blog/local-seo-kosmetikstudio"
   ],
   "images": [],
-  "words": 176,
+  "words": 189,
   "htmlLang": "de"
  },
  {
@@ -6387,12 +6388,12 @@
  {
   "path": "/blog/ki-tools-local-seo",
   "finalPath": "/blog/ki-tools-local-seo",
-  "title": "KI-Tools für Local SEO: sicher nutzen im kleinen Betrieb",
+  "title": "KI-Tools für Local SEO: ChatGPT, Claude, Gemini nutzen",
   "description": "Wie Sie ChatGPT, Claude, Gemini und Copilot für Bewertungsantworten, Profiltexte und Inhalte nutzen: Googles Regeln, Datenschutz und KI-Kompetenzpflicht.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/ki-tools-local-seo",
   "hreflang": [],
-  "ogTitle": "KI-Tools für Local SEO: sicher nutzen im kleinen Betrieb",
+  "ogTitle": "KI-Tools für Local SEO: ChatGPT, Claude, Gemini nutzen",
   "ogImage": "https://localdominate.org/images/og/blog/ki-tools-local-seo.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-10",
@@ -7962,6 +7963,7 @@
    "/blog/local-seo-hochzeitsdienstleister",
    "/blog/local-seo-hotels",
    "/blog/local-seo-immobilienmakler",
+   "/blog/local-seo-kosmetikstudio",
    "/blog/local-seo-maler-lackierer",
    "/blog/local-seo-notdienst-keywords",
    "/blog/local-seo-optiker",
@@ -7997,7 +7999,7 @@
    "/work"
   ],
   "images": [],
-  "words": 823,
+  "words": 826,
   "htmlLang": "de"
  },
  {
@@ -9049,6 +9051,7 @@
    "/blog/local-seo-audit-checkliste",
    "/blog/local-seo-branchen-hub",
    "/blog/local-seo-keywords-finden",
+   "/blog/local-seo-kosmetikstudio",
    "/blog/nap-konsistenz-local-seo",
    "/blog/negative-google-bewertungen",
    "/creators",
@@ -9073,7 +9076,7 @@
    "/work"
   ],
   "images": [],
-  "words": 2388,
+  "words": 2399,
   "htmlLang": "de"
  },
  {
@@ -13912,12 +13915,12 @@
  {
   "path": "/blog/lokale-suchmaschinenoptimierung-2026",
   "finalPath": "/blog/lokale-suchmaschinenoptimierung-2026",
-  "title": "Lokale Suchmaschinenoptimierung 2026: Was sich ändert",
+  "title": "Local SEO 2026: Was sich ändert und was Betriebe tun",
   "description": "Lokale Suchmaschinenoptimierung 2026: KI-Übersichten, KI-Modus, ChatGPT, Apple Business und strengere Bewertungsregeln. Was neu ist und was Betriebe jetzt tun.",
   "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
   "canonical": "https://localdominate.org/blog/lokale-suchmaschinenoptimierung-2026",
   "hreflang": [],
-  "ogTitle": "Lokale Suchmaschinenoptimierung 2026: Was sich ändert",
+  "ogTitle": "Local SEO 2026: Was sich ändert und was Betriebe tun",
   "ogImage": "https://localdominate.org/images/og/blog/lokale-suchmaschinenoptimierung-2026.jpg",
   "ogType": "article",
   "articlePublished": "2026-01-07",

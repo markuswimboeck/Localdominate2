@@ -89,6 +89,7 @@ export const HUB_OF: Readonly<Record<string, { slug: string; label: string }>> =
   "local-seo-immobilienmakler": { slug: "local-seo-branchen-hub", label: "Local SEO nach Branche" },
   "local-seo-keywords-finden": { slug: "technisches-seo-hub", label: "Technisches Local SEO" },
   "local-seo-koeln": { slug: "local-seo-staedte-hub", label: "Local SEO nach Stadt und Land" },
+  "local-seo-kosmetikstudio": { slug: "local-seo-branchen-hub", label: "Local SEO nach Branche" },
   "local-seo-maler-lackierer": { slug: "local-seo-branchen-hub", label: "Local SEO nach Branche" },
   "local-seo-mehrstufig-unternehmen": { slug: "google-business-profil-hub", label: "Google-Unternehmensprofil" },
   "local-seo-monthly-checklist": { slug: "google-business-profil-hub", label: "Google-Unternehmensprofil" },

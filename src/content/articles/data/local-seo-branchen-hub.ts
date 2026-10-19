@@ -111,6 +111,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "[Local SEO für Friseursalons und Beauty-Studios](/blog/local-seo-friseursalon-beauty)",
+            "[SEO für Kosmetikstudios](/blog/local-seo-kosmetikstudio)",
             "[Local SEO für Fitnessstudios und Personal Trainer](/blog/local-seo-fitness)",
             "[Local SEO für Yoga- und Pilates-Studios](/blog/local-seo-yoga-studios)",
             "[Local SEO für Tattoo-Studios](/blog/local-seo-tattoo-studios)",
