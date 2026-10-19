@@ -34,6 +34,7 @@ const ARTICLE_AUDIENCES: Readonly<Record<string, readonly AudienceId[]>> = {
   "local-seo-steuerberater": ["practices"],
   "local-seo-tierarzt": ["practices"],
   "local-seo-friseursalon-beauty": ["salons"],
+  "local-seo-kosmetikstudio": ["salons"],
   "local-seo-fitness": ["gyms"],
   "local-seo-yoga-studios": ["gyms"],
 };
