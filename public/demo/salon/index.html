@@ -1,0 +1,432 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Atelier Aurin: Friseur &amp; Farbe in Leipzig (Konzept-Demo)</title>
+<meta name="description" content="Konzept-Demo von LocalDominate: die Website eines erfundenen Friseursalons mit Leistungen, Preisen, Online-Termin und Öffnungszeiten.">
+<link rel="canonical" href="https://localdominate.org/demo/salon/">
+<link rel="alternate" hreflang="en" href="https://localdominate.org/demo/salon/en/">
+<meta name="theme-color" content="#241827">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23241827'/%3E%3Ctext x='16' y='23' text-anchor='middle' font-family='Georgia' font-style='italic' font-size='20' fill='%23f4f0f5'%3EA%3C/text%3E%3C/svg%3E">
+<link rel="preload" href="/demo/fonts/bodoni-moda-latin-standard-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/demo/fonts/hanken-grotesk-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+@font-face{font-family:"Bodoni Moda";font-style:normal;font-weight:400 900;font-display:swap;src:url("/demo/fonts/bodoni-moda-latin-standard-normal.woff2") format("woff2")}
+@font-face{font-family:"Bodoni Moda";font-style:italic;font-weight:400 900;font-display:swap;src:url("/demo/fonts/bodoni-moda-latin-standard-italic.woff2") format("woff2")}
+@font-face{font-family:"Hanken Grotesk";font-style:normal;font-weight:100 900;font-display:swap;src:url("/demo/fonts/hanken-grotesk-latin-wght-normal.woff2") format("woff2")}
+.ld-bar{position:relative;z-index:50;display:flex;flex-wrap:wrap;align-items:center;gap:.4rem 1rem;padding:.6rem max(1rem,calc((100vw - 1200px)/2));background:#16161a;color:#ecebe7;font:500 13px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif}
+.ld-bar p{margin:0;flex:1 1 22rem;color:#cfcdc6}
+.ld-bar b{display:inline-block;margin-right:.5rem;padding:.1rem .5rem;border-radius:4px;background:#ecebe7;color:#16161a;font-weight:700}
+.ld-bar a{color:#fff;text-underline-offset:3px}
+.ld-bar nav{display:flex;gap:1rem;flex-wrap:wrap}
+.ld-bar a:focus-visible{outline:2px solid #fff;outline-offset:3px;border-radius:2px}
+
+:root{
+  --paper:#f4f0f5; --ink:#241827; --plum:#5a2c54; --brass:#a9843a; --mist:#e6dfe8; --line:rgba(36,24,39,.16);
+  --soft:#5f5162; --white:#fffdfd;
+  --display:"Bodoni Moda",Didot,"Bodoni 72",Georgia,serif;
+  --text:"Hanken Grotesk",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 17px/1.6 var(--text)}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--plum);outline-offset:3px}
+.wrap{max-width:1200px;margin:0 auto;padding:0 1.25rem}
+@media(min-width:760px){.wrap{padding:0 2.5rem}}
+h1,h2,h3{font-family:var(--display);font-weight:500;letter-spacing:-.01em;margin:0}
+h2{font-size:clamp(2rem,1.3rem + 2.6vw,3.4rem);line-height:1.05}
+h3{font-size:1.35rem;line-height:1.2}
+p{margin:0}
+.lead{color:var(--soft);max-width:38rem}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 1.4rem;border-radius:999px;border:1.5px solid var(--ink);background:var(--ink);color:var(--paper);font:600 15px/1 var(--text);text-decoration:none;cursor:pointer}
+.btn:hover{background:var(--plum);border-color:var(--plum)}
+.btn.ghost{background:transparent;color:var(--ink)}
+.btn.ghost:hover{background:var(--ink);color:var(--paper)}
+/* header */
+.top{position:sticky;top:0;z-index:20;background:rgba(244,240,245,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:1rem;min-height:64px}
+.brand{font-family:var(--display);font-size:1.45rem;font-weight:600;text-decoration:none;letter-spacing:.01em}
+.brand i{font-style:italic;font-weight:400;color:var(--plum)}
+.top nav{display:none;gap:1.75rem;align-items:center}
+.top nav a{text-decoration:none;font-weight:500;font-size:15px}
+.top nav a:hover{text-decoration:underline;text-underline-offset:4px}
+.top .btn{min-height:40px;padding:0 1.1rem;font-size:14px}
+@media(min-width:860px){.top nav{display:flex}}
+/* hero */
+.hero{padding:3rem 0 2rem;overflow:hidden}
+.hero .wrap{display:grid;gap:2.5rem}
+@media(min-width:960px){.hero .wrap{grid-template-columns:1.1fr .9fr;align-items:center;gap:3rem}.hero{padding:5rem 0 4rem}}
+.hero h1{font-size:clamp(3.4rem,1.6rem + 8vw,8.6rem);line-height:.88;font-weight:500;letter-spacing:-.03em}
+.hero h1 span{display:block;font-style:italic;font-weight:400;color:var(--plum)}
+.tag{margin-top:1.5rem;font-size:1.15rem;font-weight:600}
+.hero .lead{margin-top:.75rem;font-size:1.05rem}
+.actions{display:flex;flex-wrap:wrap;gap:.75rem;margin-top:2rem}
+.facts{display:grid;gap:.35rem;margin-top:2rem;padding-top:1.25rem;border-top:1px solid var(--line);font-size:15px}
+.status{display:flex;align-items:center;gap:.55rem;font-weight:600}
+.status::before{content:"";width:9px;height:9px;border-radius:50%;background:#9a8f9c}
+.status.open::before{background:#3f8f5b;box-shadow:0 0 0 4px rgba(63,143,91,.18)}
+.facts small{color:var(--soft);font-size:13px}
+/* fan */
+.fan{position:relative}
+.fan-stage{position:relative;height:340px;max-width:480px;margin:0 auto}
+@media(min-width:960px){.fan-stage{height:420px}}
+.strand{position:absolute;left:50%;top:6px;width:54px;height:300px;margin-left:-27px;transform-origin:50% 0;border:0;padding:0;cursor:pointer;background:none;transition:transform .45s cubic-bezier(.2,.8,.2,1)}
+@media(min-width:960px){.strand{height:370px;width:60px;margin-left:-30px}}
+.strand span{position:absolute;inset:0;border-radius:6px 6px 30px 30px / 6px 6px 70px 70px;background:linear-gradient(180deg,var(--r) 0%,var(--r) 12%,var(--t) 92%);box-shadow:inset -6px 0 10px rgba(0,0,0,.12),inset 5px 0 8px rgba(255,255,255,.12)}
+.strand span::after{content:"";position:absolute;inset:0;border-radius:inherit;background:repeating-linear-gradient(90deg,rgba(255,255,255,.07) 0 2px,transparent 2px 6px)}
+.strand[aria-pressed=true]{z-index:5}
+.strand[aria-pressed=true] span{outline:3px solid var(--ink);outline-offset:3px}
+.clip{position:absolute;left:50%;top:0;width:96px;height:22px;margin-left:-48px;border-radius:6px;background:var(--ink);z-index:9}
+.clip::after{content:"";position:absolute;left:50%;top:7px;width:8px;height:8px;margin-left:-4px;border-radius:50%;background:var(--brass)}
+.fan-card{margin:1rem auto 0;max-width:420px;padding:1.1rem 1.25rem;border:1px solid var(--line);border-radius:14px;background:var(--white)}
+.fan-card h2{font-size:1.15rem;font-family:var(--text);font-weight:600;letter-spacing:0}
+.fan-card .hint{color:var(--soft);font-size:14px}
+.fan-card .pick{display:none;margin-top:.6rem}
+.fan-card.has .hint{display:none}
+.fan-card.has .pick{display:block}
+.pick strong{font-family:var(--display);font-size:1.5rem;font-weight:500;display:block;line-height:1.15}
+.pick p{font-size:14px;color:var(--soft);margin:.35rem 0 .8rem}
+/* services */
+section{padding:4.5rem 0}
+.svc-head{display:grid;gap:1rem;margin-bottom:2.5rem}
+@media(min-width:900px){.svc-head{grid-template-columns:1fr 1fr;align-items:end}}
+.svc{list-style:none;margin:0;padding:0;border-top:1px solid var(--ink)}
+.svc li{display:grid;grid-template-columns:1fr auto;gap:.35rem 1.5rem;padding:1.4rem 0;border-bottom:1px solid var(--line)}
+@media(min-width:760px){.svc li{grid-template-columns:1.1fr 1.6fr 7rem 6.5rem 5.5rem;align-items:baseline}}
+.svc h3{font-size:1.4rem}
+.svc .d{color:var(--soft);font-size:15px;grid-column:1/-1}
+@media(min-width:760px){.svc .d{grid-column:auto}}
+.svc .dur{font-size:14px;color:var(--soft);font-variant-numeric:tabular-nums}
+.svc .price{font-family:var(--display);font-size:1.35rem;text-align:right;font-variant-numeric:lining-nums}
+.svc .price small{font-family:var(--text);font-size:13px;color:var(--soft);margin-right:.25rem}
+.svc .b{justify-self:end}
+.svc .b button{min-height:40px;padding:0 1rem;border-radius:999px;border:1px solid var(--line);background:transparent;font:600 14px var(--text);cursor:pointer;color:var(--ink)}
+.svc .b button:hover{border-color:var(--ink)}
+.svc li.flash{background:linear-gradient(90deg,rgba(169,132,58,.14),transparent)}
+/* team */
+.team{background:var(--mist)}
+.people{display:grid;gap:1.5rem;margin-top:2.5rem}
+@media(min-width:760px){.people{grid-template-columns:repeat(3,1fr)}}
+.person{padding:1.5rem;border-radius:18px;background:var(--paper)}
+.mono{width:76px;height:76px;border-radius:50%;display:grid;place-items:center;font-family:var(--display);font-size:2.2rem;font-style:italic;color:var(--ink);background:var(--c)}
+.person h3{margin-top:1.1rem;font-size:1.6rem}
+.person .role{font-size:14px;color:var(--soft)}
+.person .spec{margin-top:.6rem;font-weight:500}
+/* reviews slot */
+.reviews .slot{margin-top:2rem;display:grid;gap:1rem}
+@media(min-width:760px){.reviews .slot{grid-template-columns:repeat(3,1fr)}}
+.ghostcard{height:150px;border-radius:16px;border:1.5px dashed var(--line);background:repeating-linear-gradient(135deg,transparent 0 12px,rgba(36,24,39,.03) 12px 24px)}
+.reviews p.lead{margin-top:1rem}
+.reviews .link{display:inline-block;margin-top:1.25rem;color:var(--soft)}
+/* visit */
+.visit .grid{display:grid;gap:2.5rem;margin-top:2.5rem}
+@media(min-width:900px){.visit .grid{grid-template-columns:1fr 1.15fr}}
+.hours{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+.hours th,.hours td{padding:.65rem 0;border-bottom:1px solid var(--line);text-align:left;font-weight:400}
+.hours td{text-align:right}
+.hours tr.today th,.hours tr.today td{font-weight:700}
+.special{margin-top:1rem;font-size:14px;color:var(--soft)}
+.map{position:relative;border-radius:20px;overflow:hidden;background:#e9e3eb;min-height:300px}
+.map svg{display:block;width:100%;height:100%}
+.way{margin-top:1rem}
+.gift{margin-top:2rem;padding:1.25rem 1.4rem;border-left:3px solid var(--brass);background:var(--white);border-radius:0 12px 12px 0}
+.gift h3{font-size:1.2rem}
+/* faq */
+.faq details{border-bottom:1px solid var(--line)}
+.faq summary{list-style:none;cursor:pointer;padding:1.15rem 2rem 1.15rem 0;position:relative;font-weight:600;font-size:1.05rem}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";position:absolute;right:.25rem;top:1rem;font-size:1.4rem;font-weight:400}
+.faq details[open] summary::after{content:"–"}
+.faq details p{padding:0 0 1.2rem;color:var(--soft);max-width:42rem}
+.faq .list{margin-top:2rem;border-top:1px solid var(--ink)}
+/* booking */
+.booking{background:var(--ink);color:var(--paper)}
+.booking h2{color:var(--paper)}
+.bk{margin-top:2rem;display:grid;gap:2rem}
+@media(min-width:900px){.bk{grid-template-columns:15rem 1fr}}
+.bk ol{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:.5rem}
+@media(min-width:900px){.bk ol{flex-direction:column;gap:0}}
+.bk ol li{font-size:14px;color:rgba(244,240,245,.55);padding:.35rem .7rem;border-radius:999px;border:1px solid rgba(244,240,245,.2)}
+@media(min-width:900px){.bk ol li{border:0;border-left:2px solid rgba(244,240,245,.15);border-radius:0;padding:.7rem 1rem}}
+.bk ol li.on{color:var(--paper);border-color:var(--brass);font-weight:600}
+.bk ol li.done{color:rgba(244,240,245,.8)}
+.panel{min-height:300px}
+.panel h3{font-family:var(--text);font-weight:600;font-size:1.25rem;margin-bottom:1rem}
+.opts{display:grid;gap:.6rem}
+@media(min-width:600px){.opts{grid-template-columns:repeat(2,1fr)}}
+.opt{display:flex;justify-content:space-between;gap:1rem;align-items:center;min-height:56px;padding:.7rem 1rem;border-radius:12px;border:1px solid rgba(244,240,245,.22);background:transparent;color:var(--paper);font:500 15px var(--text);text-align:left;cursor:pointer}
+.opt:hover{border-color:rgba(244,240,245,.6)}
+.opt[aria-pressed=true]{border-color:var(--brass);background:rgba(169,132,58,.18)}
+.opt small{color:rgba(244,240,245,.6);font-size:13px;white-space:nowrap}
+.opt:disabled{opacity:.35;cursor:not-allowed;text-decoration:line-through}
+.days{display:grid;grid-template-columns:repeat(auto-fill,minmax(5.2rem,1fr));gap:.5rem}
+.days .opt,.times .opt{flex-direction:column;justify-content:center;align-items:center;text-align:center;gap:0;padding:.5rem}
+.times{display:grid;grid-template-columns:repeat(auto-fill,minmax(5rem,1fr));gap:.5rem}
+.field{display:grid;gap:.35rem;margin-bottom:1rem;max-width:26rem}
+.field label{font-size:14px;font-weight:600}
+.field input{min-height:48px;padding:0 .9rem;border-radius:10px;border:1px solid rgba(244,240,245,.3);background:rgba(244,240,245,.06);color:var(--paper);font:16px var(--text)}
+.field input:focus-visible{outline:2px solid var(--brass);outline-offset:1px}
+.err{color:#ffb4a8;font-size:14px;min-height:1.2em}
+.navrow{display:flex;gap:.75rem;margin-top:1.5rem;flex-wrap:wrap}
+.booking .btn{background:var(--paper);color:var(--ink);border-color:var(--paper)}
+.booking .btn:hover{background:var(--brass);border-color:var(--brass)}
+.booking .btn.ghost{background:transparent;color:var(--paper);border-color:rgba(244,240,245,.4)}
+.booking .btn:disabled{opacity:.4;cursor:not-allowed}
+.sum{margin-top:.5rem;color:rgba(244,240,245,.7);font-size:15px}
+.done{padding:1.5rem;border-radius:16px;border:1px solid var(--brass)}
+.done strong{display:block;font-family:var(--display);font-size:1.6rem;font-weight:500;margin:.3rem 0 .6rem}
+.done p{color:rgba(244,240,245,.75)}
+/* show */
+.show{background:var(--mist)}
+.show ul{list-style:none;padding:0;margin:2.5rem 0 0;display:grid;gap:1.5rem}
+@media(min-width:760px){.show ul{grid-template-columns:repeat(2,1fr)}}
+.show li{padding-top:1rem;border-top:2px solid var(--plum)}
+.show li h3{font-family:var(--text);font-weight:700;font-size:1.05rem}
+.show li p{margin-top:.4rem;color:var(--soft)}
+.show .cta{margin-top:3rem;display:flex;flex-wrap:wrap;gap:1rem 1.5rem;align-items:center}
+.show .cta p{color:var(--soft);max-width:28rem}
+footer{padding:2.5rem 0 3rem;font-size:14px;color:var(--soft);border-top:1px solid var(--line)}
+footer .wrap{display:flex;flex-wrap:wrap;gap:.5rem 2rem;justify-content:space-between}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+</style>
+</head>
+<body>
+<div class="ld-bar" role="note" aria-label="Über diese Demo">
+  <p><b>Konzept-Demo</b> Atelier Aurin ist ein erfundener Salon. Namen, Preise, Zeiten und Adresse sind Beispiele. Buchungen werden nicht gesendet.</p>
+  <nav aria-label="Über diese Demo">
+    <a href="/de/friseur">So eine Seite für Ihren Salon</a>
+    <a href="/demo/salon/en/" hreflang="en" lang="en" aria-label="Diese Demo auf Englisch">English</a>
+  </nav>
+</div>
+
+<header class="top"><div class="wrap">
+  <a class="brand" href="#top">Atelier <i>Aurin</i></a>
+  <nav aria-label="Menü"><a href="#leistungen">Leistungen</a><a href="#team">Team</a><a href="#anfahrt">Anfahrt</a></nav>
+  <a class="btn" href="#termin">Termin buchen</a>
+</div></header>
+<main id="top">
+<section class="hero" aria-labelledby="h1"><div class="wrap">
+  <div>
+    <h1 id="h1">Atelier <span>Aurin</span></h1>
+    <p class="tag">Friseur & Farbe in Leipzig-Südvorstadt</p>
+    <p class="lead">Schnitt, Farbe und Balayage in einem hellen Salon mit fünf Plätzen. Termine buchen Sie online in einer Minute, auch für morgen.</p>
+    <div class="actions"><a class="btn" href="#termin">Termin buchen</a><a class="btn ghost" href="#leistungen">Leistungen und Preise</a></div>
+    <div class="facts">
+      <p class="status" id="status" aria-live="polite">&nbsp;</p>
+      <p>Beispielstraße 12, 04275 Leipzig</p>
+      <p>0341 000 00 00 <small>(Demo-Nummer)</small></p>
+    </div>
+  </div>
+  <div class="fan">
+    <div class="fan-stage"><div class="clip" aria-hidden="true"></div><button type="button" class="strand" data-sw="honey" aria-pressed="false" style="--r:#4a2f1d;--t:#d9a660;transform:rotate(-33deg)"><span></span><span class="sr">Honig-Balayage</span></button><button type="button" class="strand" data-sw="ash" aria-pressed="false" style="--r:#776b5d;--t:#e4dccb;transform:rotate(-20deg)"><span></span><span class="sr">Kühles Aschblond</span></button><button type="button" class="strand" data-sw="copper" aria-pressed="false" style="--r:#5e2412;--t:#c95f2c;transform:rotate(-7deg)"><span></span><span class="sr">Kupfer</span></button><button type="button" class="strand" data-sw="rose" aria-pressed="false" style="--r:#8f6763;--t:#ecc9c1;transform:rotate(6deg)"><span></span><span class="sr">Rosé-Glossing</span></button><button type="button" class="strand" data-sw="grey" aria-pressed="false" style="--r:#5c5957;--t:#dcd9d4;transform:rotate(19deg)"><span></span><span class="sr">Natürliches Grau</span></button><button type="button" class="strand" data-sw="espresso" aria-pressed="false" style="--r:#1c1210;--t:#5b3b2c;transform:rotate(32deg)"><span></span><span class="sr">Espresso mit Glanz</span></button></div>
+    <div class="fan-card" id="fancard" aria-live="polite">
+      <h2>Welche Farbe schwebt Ihnen vor?</h2>
+      <p class="hint">Tippen Sie auf eine Strähne.</p>
+      <div class="pick"><span class="hint2">Dazu passt</span><strong id="fan-name"></strong><p id="fan-svc"></p>
+        <button type="button" class="btn" id="fan-book">Mit dieser Leistung buchen</button></div>
+    </div>
+  </div>
+</div></section>
+
+<section id="leistungen" aria-labelledby="svc-t"><div class="wrap">
+  <div class="svc-head"><h2 id="svc-t">Leistungen und Preise</h2><p class="lead">Jede Leistung mit Dauer und Startpreis. Der Preis hängt von Länge und Dichte Ihres Haares ab; den genauen Betrag nennen wir Ihnen vor dem Start.</p></div>
+  <ul class="svc"><li id="svc-cut-women">
+      <h3>Waschen, Schneiden, Föhnen</h3>
+      <p class="d">Beratung am Platz, Schnitt nach Ihrer Haarstruktur, Styling zum Mitnehmen.</p>
+      <p class="dur">60 Min.</p>
+      <p class="price"><small>ab</small>58 €</p>
+      <p class="b"><button type="button" data-book="cut-women" aria-label="Buchen: Waschen, Schneiden, Föhnen">Buchen</button></p>
+    </li><li id="svc-cut-men">
+      <h3>Herrenschnitt</h3>
+      <p class="d">Schere oder Maschine, Konturen und Nacken, kurz gewaschen.</p>
+      <p class="dur">30 Min.</p>
+      <p class="price"><small>ab</small>32 €</p>
+      <p class="b"><button type="button" data-book="cut-men" aria-label="Buchen: Herrenschnitt">Buchen</button></p>
+    </li><li id="svc-balayage">
+      <h3>Balayage</h3>
+      <p class="d">Freihand gemalte Aufhellung mit weichem Ansatz. Inklusive Toner, Pflege und Föhnen.</p>
+      <p class="dur">3 Std.</p>
+      <p class="price"><small>ab</small>165 €</p>
+      <p class="b"><button type="button" data-book="balayage" aria-label="Buchen: Balayage">Buchen</button></p>
+    </li><li id="svc-highlights">
+      <h3>Strähnen mit Folie</h3>
+      <p class="d">Gleichmäßige Aufhellung von Ansatz bis Spitze, mit Toner und Pflege.</p>
+      <p class="dur">2 Std.</p>
+      <p class="price"><small>ab</small>98 €</p>
+      <p class="b"><button type="button" data-book="highlights" aria-label="Buchen: Strähnen mit Folie">Buchen</button></p>
+    </li><li id="svc-colour">
+      <h3>Coloration</h3>
+      <p class="d">Ansatz oder ganzes Haar, auch Grauabdeckung. Farbberatung vorab am Platz.</p>
+      <p class="dur">90 Min.</p>
+      <p class="price"><small>ab</small>72 €</p>
+      <p class="b"><button type="button" data-book="colour" aria-label="Buchen: Coloration">Buchen</button></p>
+    </li><li id="svc-gloss">
+      <h3>Glossing</h3>
+      <p class="d">Glanz und Farbauffrischung ohne Ansatz. Gut zwischen zwei Farbterminen.</p>
+      <p class="dur">30 Min.</p>
+      <p class="price"><small>ab</small>38 €</p>
+      <p class="b"><button type="button" data-book="gloss" aria-label="Buchen: Glossing">Buchen</button></p>
+    </li><li id="svc-kids">
+      <h3>Kinder bis 12</h3>
+      <p class="d">Ruhiger Platz am Fenster, ohne Wartezeit für die Kleinen.</p>
+      <p class="dur">30 Min.</p>
+      <p class="price"><small>ab</small>22 €</p>
+      <p class="b"><button type="button" data-book="kids" aria-label="Buchen: Kinder bis 12">Buchen</button></p>
+    </li><li id="svc-updo">
+      <h3>Hochsteckfrisur und Brautprobe</h3>
+      <p class="d">Probetermin vor dem großen Tag, mit Foto für Ihre Unterlagen.</p>
+      <p class="dur">75 Min.</p>
+      <p class="price"><small>ab</small>85 €</p>
+      <p class="b"><button type="button" data-book="updo" aria-label="Buchen: Hochsteckfrisur und Brautprobe">Buchen</button></p>
+    </li></ul>
+</div></section>
+
+<section id="team" class="team" aria-labelledby="team-t"><div class="wrap">
+  <h2 id="team-t">Wer Ihnen die Haare macht</h2>
+  <p class="lead" style="margin-top:1rem">Drei Menschen, drei Schwerpunkte. Beim Buchen können Sie wählen, mit wem Sie arbeiten möchten.</p>
+  <ul class="people" style="list-style:none;padding:0"><li class="person"><div class="mono" style="--c:#d9a660" aria-hidden="true">M</div>
+      <h3>Mara</h3><p class="role">Inhaberin</p><p class="spec">Balayage, Blond, Farbkorrektur</p></li><li class="person"><div class="mono" style="--c:#776b5d" aria-hidden="true">J</div>
+      <h3>Jonas</h3><p class="role">Friseur</p><p class="spec">Herrenschnitte, Fades, Bart</p></li><li class="person"><div class="mono" style="--c:#c95f2c" aria-hidden="true">E</div>
+      <h3>Elif</h3><p class="role">Friseurin</p><p class="spec">Coloration, Locken schneiden</p></li></ul>
+</div></section>
+
+<section id="termin" class="booking" aria-labelledby="bk-t"><div class="wrap">
+  <h2 id="bk-t">Termin buchen</h2>
+  <div class="bk">
+    <ol id="bk-steps"><li data-i="0">1. Leistung</li><li data-i="1">2. Bei wem</li><li data-i="2">3. Tag</li><li data-i="3">4. Uhrzeit</li><li data-i="4">5. Ihre Daten</li></ol>
+    <div class="panel" id="bk-panel" aria-live="polite"></div>
+  </div>
+</div></section>
+
+<section class="reviews" aria-labelledby="rv-t"><div class="wrap">
+  <h2 id="rv-t">Was Kundinnen und Kunden auf Google schreiben</h2>
+  <p class="lead">Im echten Projekt stehen hier Ihre Google-Bewertungen, verlinkt zu Ihrem Profil. In dieser Demo zeigen wir bewusst keine erfundenen Stimmen.</p>
+  <div class="slot" aria-hidden="true"><div class="ghostcard"></div><div class="ghostcard"></div><div class="ghostcard"></div></div>
+  <span class="link">Alle Bewertungen auf Google</span>
+</div></section>
+
+<section id="anfahrt" class="visit" aria-labelledby="vs-t"><div class="wrap">
+  <h2 id="vs-t">Öffnungszeiten und Anfahrt</h2>
+  <div class="grid">
+    <div>
+      <h3>Öffnungszeiten</h3>
+      <table class="hours" style="margin-top:1rem"><tbody><tr data-day="2"><th scope="row">Dienstag</th><td>9:00 – 19:00</td></tr><tr data-day="3"><th scope="row">Mittwoch</th><td>9:00 – 19:00</td></tr><tr data-day="4"><th scope="row">Donnerstag</th><td>9:00 – 19:00</td></tr><tr data-day="5"><th scope="row">Freitag</th><td>9:00 – 19:00</td></tr><tr data-day="6"><th scope="row">Samstag</th><td>9:00 – 15:00</td></tr><tr data-day="0"><th scope="row">Sonntag</th><td>geschlossen</td></tr><tr data-day="1"><th scope="row">Montag</th><td>geschlossen</td></tr></tbody></table>
+      <p class="special">Sonderzeiten: 24. Dezember bis 1. Januar geschlossen.</p>
+      <div class="gift"><h3>Gutschein verschenken</h3><p>Für eine Leistung oder einen Betrag Ihrer Wahl. Erhältlich im Salon.</p></div>
+    </div>
+    <div>
+      <div class="map"><svg viewBox="0 0 600 380" role="img" aria-labelledby="mapt" preserveAspectRatio="xMidYMid slice">
+<title id="mapt">So finden Sie uns</title>
+<rect width="600" height="380" fill="#ebe5ed"/>
+<g fill="#ddd4df">
+<rect x="20" y="20" width="160" height="110" rx="6"/><rect x="200" y="20" width="150" height="110" rx="6"/><rect x="370" y="20" width="210" height="110" rx="6"/>
+<rect x="20" y="160" width="160" height="90" rx="6"/><rect x="370" y="160" width="210" height="90" rx="6"/>
+<rect x="20" y="280" width="250" height="80" rx="6"/><rect x="290" y="280" width="290" height="80" rx="6"/>
+</g>
+<rect x="200" y="160" width="150" height="90" rx="6" fill="#cfe0cf"/>
+<path d="M0 145 H600 M0 265 H600 M190 0 V380 M360 0 V380" stroke="#fff" stroke-width="14"/>
+<path d="M0 145 H600" stroke="#a9843a" stroke-width="3" stroke-dasharray="10 8"/>
+<circle cx="275" cy="145" r="9" fill="#fff" stroke="#241827" stroke-width="3"/>
+<g transform="translate(330 205)"><circle r="24" fill="#5a2c54"/><circle r="8" fill="#f4f0f5"/></g>
+<text x="275" y="125" text-anchor="middle" font-family="Hanken Grotesk,sans-serif" font-size="14" font-weight="600" fill="#241827">Beispielplatz</text>
+<text x="330" y="250" text-anchor="middle" font-family="Bodoni Moda,serif" font-size="18" font-style="italic" fill="#241827">Atelier Aurin</text>
+</svg></div>
+      <h3 style="margin-top:1.5rem">So finden Sie uns</h3>
+      <p class="way">Straßenbahn bis Haltestelle Beispielplatz, dann drei Minuten zu Fuß. Fahrradbügel direkt vor der Tür, Parkhaus in der Querstraße.</p>
+      <p style="margin-top:1rem"><a class="btn ghost" href="#anfahrt">Route planen</a></p>
+    </div>
+  </div>
+</div></section>
+
+<section class="faq" aria-labelledby="fq-t"><div class="wrap">
+  <h2 id="fq-t">Häufige Fragen</h2>
+  <div class="list"><details><summary>Wie kurzfristig kann ich buchen?</summary><p>Freie Zeiten sehen Sie online bis zum Vortag. Für denselben Tag rufen Sie bitte an.</p></details><details><summary>Was kostet eine Balayage genau?</summary><p>Ab 165 € für schulterlanges Haar. Bei langem oder sehr dichtem Haar nennen wir den Preis vor dem Start am Platz.</p></details><details><summary>Kann ich einen Termin absagen?</summary><p>Ja, bis 24 Stunden vorher kostenlos, über den Link in Ihrer Bestätigung oder telefonisch.</p></details><details><summary>Brauche ich vor einer Farbe einen Test?</summary><p>Bei neuer Farbe oder bekannter Allergie machen wir 48 Stunden vorher einen kurzen Hauttest im Salon.</p></details></div>
+</div></section>
+
+<section class="show" aria-labelledby="sh-t"><div class="wrap">
+  <h2 id="sh-t">Was diese Demo zeigt</h2>
+  <ul><li><h3>Eine Leistung, eine Antwort</h3><p>Dauer und Startpreis stehen bei jeder Leistung. Im echten Projekt bekommt jede wichtige Leistung ihre eigene Seite, etwa „Balayage in Leipzig“.</p></li><li><h3>Termin in fünf Schritten</h3><p>Leistung, Person, Tag, Uhrzeit, Kontakt. Angebunden an das Buchungssystem, das Sie schon nutzen.</p></li><li><h3>Öffnungszeiten, die stimmen</h3><p>Die Seite sagt, ob gerade offen ist. Dieselben Zeiten stehen im Google-Profil, damit niemand vor verschlossener Tür steht.</p></li><li><h3>Echte Bewertungen statt erfundener</h3><p>Bewertungen kommen aus Ihrem Google-Profil. Erfundene Stimmen setzen wir nicht auf Ihre Seite.</p></li></ul>
+  <div class="cta"><a class="btn" href="/de/friseur">So eine Seite für Ihren Salon</a><p>Website in 5 Tagen, ab 1.490 €. Umfang und Preis schriftlich vor dem Start.</p></div>
+</div></section>
+</main>
+<footer><div class="wrap"><p>Atelier Aurin ist ein erfundener Salon, gebaut von LocalDominate als Konzept-Demo. Kein Kunde, kein echter Betrieb.</p><a href="/impressum">Impressum von LocalDominate</a></div></footer>
+<script>
+
+function ldStatus(hours, t){
+  var now=new Date(), d=now.getDay(), m=now.getHours()*60+now.getMinutes();
+  function fmt(x){var h=Math.floor(x/60), mm=x%60; return h+':'+(mm<10?'0':'')+mm;}
+  var today=hours[d];
+  if(today && m>=today[0] && m<today[1]) return {open:true, text:t.openUntil.replace('{t}',fmt(today[1]))};
+  if(today && m<today[0]) return {open:false, text:t.opensToday.replace('{t}',fmt(today[0]))};
+  for(var i=1;i<8;i++){var dd=(d+i)%7; if(hours[dd]) return {open:false, text:t.opensOn.replace('{d}',t.days[dd]).replace('{t}',fmt(hours[dd][0]))};}
+  return {open:false,text:''};
+}
+var D={"lang":"de","hours":{"0":null,"1":null,"2":[540,1140],"3":[540,1140],"4":[540,1140],"5":[540,1140],"6":[540,900]},"services":[{"id":"cut-women","name":"Waschen, Schneiden, Föhnen","dur":"60 Min.","price":"ab 58 €"},{"id":"cut-men","name":"Herrenschnitt","dur":"30 Min.","price":"ab 32 €"},{"id":"balayage","name":"Balayage","dur":"3 Std.","price":"ab 165 €"},{"id":"highlights","name":"Strähnen mit Folie","dur":"2 Std.","price":"ab 98 €"},{"id":"colour","name":"Coloration","dur":"90 Min.","price":"ab 72 €"},{"id":"gloss","name":"Glossing","dur":"30 Min.","price":"ab 38 €"},{"id":"kids","name":"Kinder bis 12","dur":"30 Min.","price":"ab 22 €"},{"id":"updo","name":"Hochsteckfrisur und Brautprobe","dur":"75 Min.","price":"ab 85 €"}],"swatches":{"honey":{"name":"Honig-Balayage","svc":"balayage"},"ash":{"name":"Kühles Aschblond","svc":"highlights"},"copper":{"name":"Kupfer","svc":"colour"},"rose":{"name":"Rosé-Glossing","svc":"gloss"},"grey":{"name":"Natürliches Grau","svc":"colour"},"espresso":{"name":"Espresso mit Glanz","svc":"gloss"}},"team":[{"id":"mara","name":"Mara"},{"id":"jonas","name":"Jonas"},{"id":"elif","name":"Elif"}],"t":{"openUntil":"Jetzt geöffnet, bis {t} Uhr","opensToday":"Heute ab {t} Uhr geöffnet","opensOn":"Geschlossen. Wieder geöffnet am {d} ab {t} Uhr","days":["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],"anyone":"Egal, wer frei ist","pickService":"Welche Leistung möchten Sie buchen?","pickPerson":"Mit wem möchten Sie arbeiten?","pickDay":"An welchem Tag?","pickTime":"Zu welcher Uhrzeit?","yourData":"Wie erreichen wir Sie?","name":"Ihr Name","contact":"Telefon oder E-Mail","back":"Zurück","next":"Weiter","confirm":"Termin anfragen","errName":"Bitte geben Sie Ihren Namen an.","errContact":"Bitte geben Sie eine Telefonnummer oder E-Mail-Adresse an.","noSlots":"An diesem Tag ist nichts mehr frei. Bitte wählen Sie einen anderen Tag.","doneTitle":"So sähe Ihre Bestätigung aus","doneText":"Demo: Es wurde nichts gesendet. Im echten Projekt landet der Termin im Kalender des Salons, zum Beispiel über Ihr Buchungssystem, und die Kundin bekommt eine Bestätigung mit Absage-Link.","again":"Neu beginnen","summary":"{s} bei {p}, {d} um {t} Uhr"}};
+(function(){
+  var st=ldStatus(D.hours,D.t), el=document.getElementById('status');
+  el.textContent=st.text; if(st.open) el.classList.add('open');
+  var today=new Date().getDay(), row=document.querySelector('.hours tr[data-day="'+today+'"]'); if(row) row.classList.add('today');
+})();
+/* fan */
+(function(){
+  var card=document.getElementById('fancard'), nm=document.getElementById('fan-name'), sv=document.getElementById('fan-svc'), cur=null;
+  var strands=[].slice.call(document.querySelectorAll('.strand'));
+  strands.forEach(function(b){ b.addEventListener('click',function(){
+    strands.forEach(function(x){x.setAttribute('aria-pressed','false')}); b.setAttribute('aria-pressed','true');
+    var s=D.swatches[b.dataset.sw]; cur=s.svc; var svc=D.services.filter(function(x){return x.id===cur})[0];
+    nm.textContent=s.name; sv.textContent=svc.name+', '+svc.dur+', '+svc.price; card.classList.add('has');
+  });});
+  document.getElementById('fan-book').addEventListener('click',function(){ if(cur) startBooking(cur); });
+})();
+/* booking */
+var B={step:0,svc:null,who:null,day:null,time:null};
+var panel=document.getElementById('bk-panel'), stepsEl=[].slice.call(document.querySelectorAll('#bk-steps li'));
+function h(tag,attrs,txt){var e=document.createElement(tag); for(var k in attrs){ if(k==='on') e.addEventListener('click',attrs[k]); else e.setAttribute(k,attrs[k]); } if(txt!=null) e.textContent=txt; return e;}
+function fmtDay(d,opt){return d.toLocaleDateString(D.lang==='de'?'de-DE':'en-GB',opt);}
+function nextDays(){var out=[], d=new Date(); d.setHours(0,0,0,0); for(var i=1;out.length<12&&i<30;i++){var x=new Date(d); x.setDate(d.getDate()+i); out.push(x);} return out;}
+function seed(s){var x=0; for(var i=0;i<s.length;i++){x=(x*31+s.charCodeAt(i))>>>0;} return x;}
+function slots(day){var hrs=D.hours[day.getDay()]; if(!hrs) return []; var out=[], k=seed(day.toDateString()+(B.who||'')); for(var m=hrs[0]; m<=hrs[1]-60; m+=30){ k=(k*1103515245+12345)>>>0; out.push({m:m,free:(k%7)>2}); } return out;}
+function fmtT(m){var h=Math.floor(m/60), mm=m%60; return h+':'+(mm<10?'0':'')+mm;}
+function draw(){
+  stepsEl.forEach(function(li,i){li.className=i===B.step?'on':(i<B.step?'done':''); if(i===B.step) li.setAttribute('aria-current','step'); else li.removeAttribute('aria-current');});
+  panel.innerHTML=''; var tt=D.t;
+  if(B.step===0){ panel.appendChild(h('h3',{},tt.pickService)); var o=h('div',{class:'opts'});
+    D.services.forEach(function(s){ var b=h('button',{type:'button',class:'opt','aria-pressed':String(B.svc===s.id),on:function(){B.svc=s.id;B.step=1;draw();}}); b.appendChild(h('span',{},s.name)); b.appendChild(h('small',{},s.dur+' · '+s.price)); o.appendChild(b); });
+    panel.appendChild(o); }
+  if(B.step===1){ panel.appendChild(h('h3',{},tt.pickPerson)); var o1=h('div',{class:'opts'});
+    [{id:'any',name:tt.anyone}].concat(D.team).forEach(function(p){ o1.appendChild(h('button',{type:'button',class:'opt','aria-pressed':String(B.who===p.id),on:function(){B.who=p.id;B.step=2;draw();}},p.name)); });
+    panel.appendChild(o1); nav(true,false); }
+  if(B.step===2){ panel.appendChild(h('h3',{},tt.pickDay)); var o2=h('div',{class:'days'});
+    nextDays().forEach(function(d){ var closed=!D.hours[d.getDay()]; var b=h('button',{type:'button',class:'opt','aria-pressed':String(B.day&&B.day.toDateString()===d.toDateString()),on:function(){B.day=d;B.time=null;B.step=3;draw();}});
+      b.appendChild(h('span',{},fmtDay(d,{weekday:'short'}))); b.appendChild(h('small',{},fmtDay(d,{day:'numeric',month:'short'}))); if(closed) b.disabled=true; o2.appendChild(b); });
+    panel.appendChild(o2); nav(true,false); }
+  if(B.step===3){ panel.appendChild(h('h3',{},tt.pickTime)); var s=slots(B.day), o3=h('div',{class:'times'});
+    if(!s.some(function(x){return x.free})) panel.appendChild(h('p',{},tt.noSlots));
+    s.forEach(function(x){ var b=h('button',{type:'button',class:'opt','aria-pressed':String(B.time===x.m),on:function(){B.time=x.m;B.step=4;draw();}},fmtT(x.m)); if(!x.free) b.disabled=true; o3.appendChild(b); });
+    panel.appendChild(o3); nav(true,false); }
+  if(B.step===4){ panel.appendChild(h('h3',{},tt.yourData)); panel.appendChild(h('p',{class:'sum'},summary()));
+    var f=h('form',{novalidate:'',id:'bk-form'}); f.style.marginTop='1.25rem';
+    [['bk-name',tt.name,'text','name'],['bk-contact',tt.contact,'text','email']].forEach(function(r){ var w=h('div',{class:'field'}); w.appendChild(h('label',{for:r[0]},r[1])); w.appendChild(h('input',{id:r[0],type:r[2],autocomplete:r[3]})); f.appendChild(w); });
+    var err=h('p',{class:'err',role:'alert'}); f.appendChild(err);
+    var row=h('div',{class:'navrow'}); row.appendChild(h('button',{type:'button',class:'btn ghost',on:function(){B.step=3;draw();}},tt.back)); row.appendChild(h('button',{type:'submit',class:'btn'},tt.confirm)); f.appendChild(row);
+    f.addEventListener('submit',function(e){e.preventDefault(); var n=document.getElementById('bk-name'), c=document.getElementById('bk-contact');
+      if(!n.value.trim()){err.textContent=tt.errName;n.focus();return;} if(!c.value.trim()){err.textContent=tt.errContact;c.focus();return;} B.step=5; draw();});
+    panel.appendChild(f); }
+  if(B.step===5){ stepsEl.forEach(function(li){li.className='done';}); var d=h('div',{class:'done'}); d.appendChild(h('p',{},tt.doneTitle)); d.appendChild(h('strong',{},summary())); d.appendChild(h('p',{},tt.doneText));
+    var a=h('button',{type:'button',class:'btn ghost',on:function(){B={step:0,svc:null,who:null,day:null,time:null};draw();}},tt.again); a.style.marginTop='1.25rem'; d.appendChild(a); panel.appendChild(d); }
+  function nav(back){ var r=h('div',{class:'navrow'}); if(back) r.appendChild(h('button',{type:'button',class:'btn ghost',on:function(){B.step-=1;draw();}},tt.back)); panel.appendChild(r); }
+}
+function summary(){var s=D.services.filter(function(x){return x.id===B.svc})[0], p=B.who==='any'?D.t.anyone:D.team.filter(function(x){return x.id===B.who})[0].name;
+  return D.t.summary.replace('{s}',s.name).replace('{p}',p).replace('{d}',fmtDay(B.day,{weekday:'long',day:'numeric',month:'long'})).replace('{t}',fmtT(B.time));}
+function startBooking(id){B={step:1,svc:id,who:null,day:null,time:null}; draw(); var sec=document.getElementById('termin'); sec.scrollIntoView({block:'start'}); var f=panel.querySelector('button'); if(f) f.focus({preventScroll:true});}
+[].slice.call(document.querySelectorAll('[data-book]')).forEach(function(b){b.addEventListener('click',function(){startBooking(b.dataset.book);});});
+draw();
+
+</script>
+</body>
+</html>

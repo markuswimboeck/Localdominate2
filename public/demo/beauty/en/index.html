@@ -1,0 +1,312 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Velin: skin, nails and lashes in Hamburg (concept demo)</title>
+<meta name="description" content="Concept demo by LocalDominate: the website of a fictional beauty studio with a treatment finder, prices, online booking and opening hours.">
+<link rel="canonical" href="https://localdominate.org/demo/beauty/en/">
+<link rel="alternate" hreflang="de" href="https://localdominate.org/demo/beauty/">
+<meta name="theme-color" content="#173c3b">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='16' fill='%23173c3b'/%3E%3Ccircle cx='16' cy='16' r='7' fill='%23e6b5a8'/%3E%3C/svg%3E">
+<link rel="preload" href="/demo/fonts/marcellus-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/demo/fonts/karla-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+@font-face{font-family:"Marcellus";font-style:normal;font-weight:400;font-display:swap;src:url("/demo/fonts/marcellus-latin-400-normal.woff2") format("woff2")}
+@font-face{font-family:"Karla";font-style:normal;font-weight:200 800;font-display:swap;src:url("/demo/fonts/karla-latin-wght-normal.woff2") format("woff2")}
+.ld-bar{position:relative;z-index:50;display:flex;flex-wrap:wrap;align-items:center;gap:.4rem 1rem;padding:.6rem max(1rem,calc((100vw - 1200px)/2));background:#16161a;color:#ecebe7;font:500 13px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif}
+.ld-bar p{margin:0;flex:1 1 22rem;color:#cfcdc6}
+.ld-bar b{display:inline-block;margin-right:.5rem;padding:.1rem .5rem;border-radius:4px;background:#ecebe7;color:#16161a;font-weight:700}
+.ld-bar a{color:#fff;text-underline-offset:3px}
+.ld-bar nav{display:flex;gap:1rem;flex-wrap:wrap}
+.ld-bar a:focus-visible{outline:2px solid #fff;outline-offset:3px;border-radius:2px}
+
+:root{
+  --mint:#e8f0ec; --teal:#173c3b; --blush:#e6b5a8; --pearl:#fafbf9; --sage:#9fb8ad; --line:rgba(23,60,59,.15); --soft:#4f6665;
+  --d:"Marcellus",Optima,"Candara",serif; --f:"Karla",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
+body{margin:0;background:var(--mint);color:var(--teal);font:400 17px/1.65 var(--f)}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--teal);outline-offset:3px}
+.wrap{max-width:1180px;margin:0 auto;padding:0 1.25rem}
+@media(min-width:760px){.wrap{padding:0 2.5rem}}
+h1,h2,h3{font-family:var(--d);font-weight:400;margin:0;line-height:1.1}
+h2{font-size:clamp(2rem,1.4rem + 2.3vw,3.2rem)}
+h3{font-size:1.3rem}
+p{margin:0}
+.lead{color:var(--soft);max-width:38rem}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 1.5rem;border-radius:999px;border:1.5px solid var(--teal);background:var(--teal);color:var(--pearl);font:600 15px var(--f);text-decoration:none;cursor:pointer}
+.btn:hover{background:#245756;border-color:#245756}
+.btn.ghost{background:transparent;color:var(--teal)}
+.btn.ghost:hover{background:var(--teal);color:var(--pearl)}
+.top{position:sticky;top:0;z-index:20;background:rgba(232,240,236,.9);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:1rem;min-height:64px}
+.brand{font-family:var(--d);font-size:1.7rem;text-decoration:none;letter-spacing:.12em}
+.top nav{display:none;gap:1.8rem}
+.top nav a{text-decoration:none;font-weight:600;font-size:15px}
+.top nav a:hover{text-decoration:underline;text-underline-offset:4px}
+@media(min-width:860px){.top nav{display:flex}}
+.top .btn{min-height:40px;padding:0 1.1rem;font-size:14px}
+/* hero */
+.hero{position:relative;overflow:hidden;padding:3rem 0 3.5rem}
+.hero .wrap{position:relative;display:grid;gap:2.5rem}
+@media(min-width:960px){.hero .wrap{grid-template-columns:1fr 1fr;align-items:center}.hero{padding:5rem 0}}
+.orb{position:absolute;border-radius:50%;pointer-events:none}
+.orb.a{width:620px;height:620px;right:-160px;top:-180px;background:radial-gradient(circle at 35% 35%,#fbe7e0 0%,#efc9be 38%,rgba(230,181,168,0) 70%)}
+.orb.b{width:340px;height:340px;left:-120px;bottom:-140px;background:radial-gradient(circle at 50% 50%,rgba(159,184,173,.55),rgba(159,184,173,0) 70%)}
+.hero h1{font-size:clamp(4.5rem,2.5rem + 9vw,10rem);letter-spacing:.14em;line-height:.9}
+.kicker{margin-top:1.25rem;font-weight:700;font-size:1.05rem}
+.hero .lead{margin-top:.6rem}
+.actions{display:flex;flex-wrap:wrap;gap:.75rem;margin-top:1.75rem}
+.status{display:flex;align-items:center;gap:.55rem;margin-top:1.75rem;font-weight:600;font-size:15px}
+.status::before{content:"";width:9px;height:9px;border-radius:50%;background:#8aa09a}
+.status.open::before{background:#2f8a5f;box-shadow:0 0 0 4px rgba(47,138,95,.18)}
+.addr{font-size:15px;color:var(--soft);margin-top:.25rem}
+/* finder */
+.finder{position:relative;background:var(--pearl);border-radius:28px;padding:1.5rem;border:1px solid var(--line)}
+@media(min-width:760px){.finder{padding:2rem}}
+.finder h2{font-size:1.9rem}
+.finder .note{font-size:14px;color:var(--soft);margin-top:.4rem}
+.prog{display:flex;gap:.4rem;margin:1.2rem 0 1rem}
+.prog i{flex:1;height:4px;border-radius:2px;background:var(--line)}
+.prog i.on{background:var(--teal)}
+.fq{font-weight:700;margin-bottom:.75rem}
+.answers{display:grid;gap:.5rem}
+@media(min-width:520px){.answers{grid-template-columns:1fr 1fr}}
+.ans{min-height:52px;padding:.6rem 1rem;border-radius:16px;border:1.5px solid var(--line);background:var(--mint);font:600 15px var(--f);color:var(--teal);cursor:pointer;text-align:left}
+.ans:hover{border-color:var(--teal)}
+.res .label{font-size:14px;color:var(--soft)}
+.res strong{display:block;font-family:var(--d);font-weight:400;font-size:2rem;line-height:1.1;margin:.2rem 0 .5rem}
+.res p.meta{font-weight:700}
+.res p.why{color:var(--soft);margin:.4rem 0 1.2rem}
+.res .row{display:flex;flex-wrap:wrap;gap:.6rem}
+/* treatments */
+section{padding:4.5rem 0}
+.head{display:grid;gap:1rem;margin-bottom:2.5rem}
+@media(min-width:900px){.head{grid-template-columns:1fr 1fr;align-items:end}}
+.groups{display:grid;gap:2.5rem}
+@media(min-width:1000px){.groups{grid-template-columns:repeat(3,1fr);gap:2rem}}
+.group h3{font-size:1.5rem;padding-bottom:.75rem;border-bottom:1.5px solid var(--teal)}
+.group ul{list-style:none;margin:0;padding:0}
+.group li{padding:1rem 0;border-bottom:1px solid var(--line)}
+.group li h4{margin:0;font-size:1.05rem;font-weight:700}
+.group li p{font-size:15px;color:var(--soft);margin-top:.2rem}
+.group .meta{display:flex;justify-content:space-between;align-items:center;gap:1rem;margin-top:.6rem;font-size:15px}
+.group .meta b{font-family:var(--d);font-weight:400;font-size:1.25rem}
+.group .meta button{min-height:40px;padding:0 1rem;border-radius:999px;border:1px solid var(--line);background:var(--pearl);font:600 14px var(--f);color:var(--teal);cursor:pointer}
+.group .meta button:hover{border-color:var(--teal)}
+/* booking */
+.booking{background:var(--teal);color:var(--pearl)}
+.booking h2{color:var(--pearl)}
+.bk{display:grid;gap:2rem;margin-top:2rem}
+@media(min-width:900px){.bk{grid-template-columns:14rem 1fr}}
+.bk ol{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:.5rem}
+@media(min-width:900px){.bk ol{flex-direction:column}}
+.bk ol li{font-size:14px;padding:.35rem .8rem;border-radius:999px;border:1px solid rgba(250,251,249,.25);color:rgba(250,251,249,.6)}
+.bk ol li.on{border-color:var(--blush);color:var(--pearl);font-weight:700}
+.bk ol li.done{color:rgba(250,251,249,.85)}
+.panel h3{font-family:var(--f);font-weight:700;font-size:1.2rem;margin-bottom:1rem}
+.opts{display:grid;gap:.6rem}
+@media(min-width:600px){.opts{grid-template-columns:repeat(2,1fr)}}
+.opt{display:flex;justify-content:space-between;align-items:center;gap:1rem;min-height:56px;padding:.6rem 1rem;border-radius:16px;border:1px solid rgba(250,251,249,.25);background:transparent;color:var(--pearl);font:500 15px var(--f);text-align:left;cursor:pointer}
+.opt:hover{border-color:rgba(250,251,249,.6)}
+.opt[aria-pressed=true]{border-color:var(--blush);background:rgba(230,181,168,.15)}
+.opt:disabled{opacity:.35;cursor:not-allowed;text-decoration:line-through}
+.opt small{color:rgba(250,251,249,.65);font-size:13px;white-space:nowrap}
+.days,.times{display:grid;grid-template-columns:repeat(auto-fill,minmax(5.2rem,1fr));gap:.5rem}
+.days .opt,.times .opt{flex-direction:column;justify-content:center;gap:0;text-align:center}
+.field{display:grid;gap:.3rem;margin-bottom:1rem;max-width:28rem}
+.field label{font-size:14px;font-weight:700}
+.field input,.field textarea{min-height:48px;padding:.6rem .9rem;border-radius:12px;border:1px solid rgba(250,251,249,.3);background:rgba(250,251,249,.07);color:var(--pearl);font:16px var(--f)}
+.field input:focus-visible,.field textarea:focus-visible{outline:2px solid var(--blush);outline-offset:1px}
+.err{color:#ffc2b4;font-size:14px;min-height:1.2em}
+.navrow{display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1.25rem}
+.booking .btn{background:var(--pearl);color:var(--teal);border-color:var(--pearl)}
+.booking .btn:hover{background:var(--blush);border-color:var(--blush)}
+.booking .btn.ghost{background:transparent;color:var(--pearl);border-color:rgba(250,251,249,.4)}
+.sum{color:rgba(250,251,249,.75);font-size:15px}
+.done{padding:1.5rem;border-radius:20px;border:1px solid var(--blush)}
+.done strong{display:block;font-family:var(--d);font-weight:400;font-size:1.7rem;margin:.3rem 0 .6rem}
+.done p{color:rgba(250,251,249,.8)}
+/* slots */
+.slots{display:grid;gap:2.5rem}
+@media(min-width:900px){.slots{grid-template-columns:1fr 1fr}}
+.ph{margin-top:1.25rem;display:grid;grid-template-columns:1fr 1fr;gap:.6rem}
+.ph div{aspect-ratio:4/5;border-radius:18px;border:1.5px dashed var(--line);background:linear-gradient(160deg,rgba(255,255,255,.6),rgba(255,255,255,0))}
+.rv{margin-top:1.25rem;display:grid;gap:.6rem}
+.rv div{height:88px;border-radius:18px;border:1.5px dashed var(--line)}
+.slots p.lead{margin-top:.75rem}
+/* visit */
+.visit{background:var(--pearl)}
+.vgrid{display:grid;gap:2.5rem;margin-top:2rem}
+@media(min-width:900px){.vgrid{grid-template-columns:1fr 1fr}}
+.hours{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+.hours th,.hours td{padding:.65rem 0;border-bottom:1px solid var(--line);text-align:left;font-weight:400}
+.hours td{text-align:right}
+.hours tr.today th,.hours tr.today td{font-weight:700}
+.small{font-size:14px;color:var(--soft);margin-top:1rem}
+.gift{padding:1.5rem;border-radius:22px;background:var(--blush);color:var(--teal)}
+.gift h3{font-size:1.6rem}
+.gift p{margin-top:.4rem}
+/* faq */
+.faq details{border-bottom:1px solid var(--line)}
+.faq summary{list-style:none;cursor:pointer;padding:1.1rem 2rem 1.1rem 0;position:relative;font-weight:700;font-size:1.05rem}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";position:absolute;right:.25rem;top:.9rem;font-size:1.4rem;font-weight:400}
+.faq details[open] summary::after{content:"–"}
+.faq details p{padding-bottom:1.2rem;color:var(--soft);max-width:42rem}
+.faq .list{border-top:1.5px solid var(--teal);margin-top:2rem}
+.show ul{list-style:none;padding:0;margin:2rem 0 0;display:grid;gap:1.5rem}
+@media(min-width:800px){.show ul{grid-template-columns:1fr 1fr}}
+.show li{padding:1.25rem 1.4rem;border-radius:22px;background:var(--pearl)}
+.show li h3{font-family:var(--f);font-weight:700;font-size:1.05rem}
+.show li p{color:var(--soft);margin-top:.35rem}
+.show .cta{margin-top:2.5rem;display:flex;flex-wrap:wrap;gap:1rem 1.5rem;align-items:center}
+.show .cta p{color:var(--soft);max-width:28rem}
+footer{padding:2.5rem 0 3rem;font-size:14px;color:var(--soft);border-top:1px solid var(--line)}
+footer .wrap{display:flex;flex-wrap:wrap;gap:.5rem 2rem;justify-content:space-between}
+
+</style>
+</head>
+<body>
+<div class="ld-bar" role="note" aria-label="About this demo">
+  <p><b>Concept demo</b> Velin is a fictional studio. Names, prices, hours and address are examples. Bookings are not sent.</p>
+  <nav aria-label="About this demo">
+    <a href="/industries/hair-salons">A site like this for your studio</a>
+    <a href="/demo/beauty/" hreflang="de" lang="de" aria-label="This demo in German">Deutsch</a>
+  </nav>
+</div>
+
+<header class="top"><div class="wrap">
+  <a class="brand" href="#top">VELIN</a>
+  <nav aria-label="Menu"><a href="#behandlungen">Treatments</a><a href="#besuch">Visit</a></nav>
+  <a class="btn" href="#termin">Book now</a>
+</div></header>
+<main id="top">
+<section class="hero" aria-labelledby="h1"><span class="orb a" aria-hidden="true"></span><span class="orb b" aria-hidden="true"></span><div class="wrap">
+  <div>
+    <h1 id="h1">Velin</h1>
+    <p class="kicker">Skin, nails and lashes in Hamburg, Germany</p>
+    <p class="lead">A quiet studio with two treatment rooms and one nail table. We take time for your skin and tell you the price before we start.</p>
+    <div class="actions"><a class="btn" href="#termin">Book an appointment</a><a class="btn ghost" href="#behandlungen">All treatments</a></div>
+    <p class="status" id="status" aria-live="polite">&nbsp;</p>
+    <p class="addr">Beispielallee 7, 20257 Hamburg</p>
+  </div>
+  <div class="finder" aria-labelledby="fd-t">
+    <h2 id="fd-t">What does your skin need right now?</h2>
+    <p class="note">Three short questions. The suggestion does not replace a skin consultation in the studio.</p>
+    <div id="finder" aria-live="polite"></div>
+  </div>
+</div></section>
+
+<section id="behandlungen" aria-labelledby="tr-t"><div class="wrap">
+  <div class="head"><h2 id="tr-t">Treatments and prices</h2><p class="lead">Every treatment with its duration and starting price. We look at your skin before we start and confirm the exact price.</p></div>
+  <div class="groups"><div class="group"><h3>Face</h3><ul><li><h4>Classic facial</h4><p>Cleanse, peel, extraction, mask, massage. For almost every skin type.</p>
+          <div class="meta"><span>75 min · from <b>€89</b></span><button type="button" data-book="classic" aria-label="Book: Classic facial">Book</button></div></li><li><h4>Gentle facial for sensitive skin</h4><p>Few, mild products without fragrance. No extraction, with a cooling mask.</p>
+          <div class="meta"><span>60 min · from <b>€79</b></span><button type="button" data-book="calm" aria-label="Book: Gentle facial for sensitive skin">Book</button></div></li><li><h4>Deep cleanse</h4><p>Thorough extraction and a calming mask for blemish-prone skin.</p>
+          <div class="meta"><span>60 min · from <b>€75</b></span><button type="button" data-book="pure" aria-label="Book: Deep cleanse">Book</button></div></li><li><h4>Glow before the event</h4><p>Hydration and freshness, ideal one or two days before a celebration.</p>
+          <div class="meta"><span>45 min · from <b>€65</b></span><button type="button" data-book="glow" aria-label="Book: Glow before the event">Book</button></div></li></ul></div><div class="group"><h3>Hands and nails</h3><ul><li><h4>Manicure with polish</h4><p>Shape, cuticles, hand massage and the polish of your choice.</p>
+          <div class="meta"><span>45 min · from <b>€38</b></span><button type="button" data-book="mani" aria-label="Book: Manicure with polish">Book</button></div></li><li><h4>Gel nails, full set</h4><p>On natural nails or with extensions, natural or in colour.</p>
+          <div class="meta"><span>90 min · from <b>€69</b></span><button type="button" data-book="gel" aria-label="Book: Gel nails, full set">Book</button></div></li></ul></div><div class="group"><h3>Lashes and brows</h3><ul><li><h4>Lash lift and tint</h4><p>Lift for your own lashes, lasts about six weeks.</p>
+          <div class="meta"><span>60 min · from <b>€59</b></span><button type="button" data-book="lash" aria-label="Book: Lash lift and tint">Book</button></div></li><li><h4>Brow shaping and tint</h4><p>Shape to suit your face, with plant-based tint.</p>
+          <div class="meta"><span>30 min · from <b>€25</b></span><button type="button" data-book="brows" aria-label="Book: Brow shaping and tint">Book</button></div></li></ul></div></div>
+</div></section>
+
+<section id="termin" class="booking" aria-labelledby="bk-t"><div class="wrap">
+  <h2 id="bk-t">Book an appointment</h2>
+  <div class="bk"><ol id="bk-steps"><li>1. Treatment</li><li>2. Day</li><li>3. Time</li><li>4. Your details</li></ol><div class="panel" id="bk-panel" aria-live="polite"></div></div>
+</div></section>
+
+<section aria-label="Before and after, Reviews on Google"><div class="wrap slots">
+  <div><h2>Before and after</h2><p class="lead">In a real project this shows results from your studio, only with the client’s written consent and without promises nobody can keep. In this demo the space stays empty.</p><div class="ph" aria-hidden="true"><div></div><div></div></div></div>
+  <div><h2>Reviews on Google</h2><p class="lead">In a real project this shows your Google reviews, linked to your profile. We do not show invented quotes.</p><div class="rv" aria-hidden="true"><div></div><div></div><div></div></div></div>
+</div></section>
+
+<section id="besuch" class="visit" aria-labelledby="vs-t"><div class="wrap">
+  <h2 id="vs-t">Opening hours</h2>
+  <div class="vgrid">
+    <div><table class="hours"><tbody><tr data-day="2"><th scope="row">Tuesday</th><td>10:00 – 19:00</td></tr><tr data-day="3"><th scope="row">Wednesday</th><td>10:00 – 19:00</td></tr><tr data-day="4"><th scope="row">Thursday</th><td>10:00 – 20:00</td></tr><tr data-day="5"><th scope="row">Friday</th><td>10:00 – 19:00</td></tr><tr data-day="6"><th scope="row">Saturday</th><td>10:00 – 16:00</td></tr><tr data-day="0"><th scope="row">Sunday</th><td>closed</td></tr><tr data-day="1"><th scope="row">Monday</th><td>closed</td></tr></tbody></table><p class="small">Holiday hours: closed from 24 December to 1 January.</p></div>
+    <div><p>Beispielallee 7, 20257 Hamburg</p><p class="small">Underground to Beispielplatz, four minutes on foot. Step-free entrance.</p><div class="gift" style="margin-top:1.5rem"><h3>Gift vouchers</h3><p>For a treatment or an amount, in the studio or as a PDF by email.</p></div></div>
+  </div>
+</div></section>
+
+<section class="faq" aria-labelledby="fq-t"><div class="wrap"><h2 id="fq-t">Questions</h2><div class="list"><details><summary>My skin is very sensitive. What should I book?</summary><p>The gentle facial. Add known allergies when you book; we adapt the products.</p></details><details><summary>How long do gel nails last?</summary><p>Usually three to four weeks. Then we refill them or take them off gently.</p></details><details><summary>Can I cancel?</summary><p>Free of charge up to 24 hours before, through the link in your confirmation.</p></details><details><summary>Can I pay in the studio?</summary><p>Yes, by card or cash.</p></details></div></div></section>
+
+<section class="show" aria-labelledby="sh-t"><div class="wrap">
+  <h2 id="sh-t">What this demo shows</h2>
+  <ul><li><h3>From need to treatment</h3><p>Three questions lead to a suitable treatment with duration and price. The client still decides.</p></li><li><h3>Booking in four steps</h3><p>Treatment, day, time, contact. Connected to the booking system you already use.</p></li><li><h3>Before-and-after only with consent</h3><p>Result photos appear only with written consent and without promises of results.</p></li><li><h3>Real reviews, not invented ones</h3><p>Reviews come from your Google profile. We do not put invented quotes on your site.</p></li></ul>
+  <div class="cta"><a class="btn" href="/industries/hair-salons">A site like this for your studio</a><p>Website in 5 days, from €1,490. Scope and price in writing before work starts.</p></div>
+</div></section>
+</main>
+<footer><div class="wrap"><p>Velin is a fictional studio, built by LocalDominate as a concept demo. Not a client, not a real business.</p><a href="/impressum">LocalDominate legal notice</a></div></footer>
+<script>
+
+function ldStatus(hours, t){
+  var now=new Date(), d=now.getDay(), m=now.getHours()*60+now.getMinutes();
+  function fmt(x){var h=Math.floor(x/60), mm=x%60; return h+':'+(mm<10?'0':'')+mm;}
+  var today=hours[d];
+  if(today && m>=today[0] && m<today[1]) return {open:true, text:t.openUntil.replace('{t}',fmt(today[1]))};
+  if(today && m<today[0]) return {open:false, text:t.opensToday.replace('{t}',fmt(today[0]))};
+  for(var i=1;i<8;i++){var dd=(d+i)%7; if(hours[dd]) return {open:false, text:t.opensOn.replace('{d}',t.days[dd]).replace('{t}',fmt(hours[dd][0]))};}
+  return {open:false,text:''};
+}
+var D={"lang":"en","hours":{"0":null,"1":null,"2":[600,1140],"3":[600,1140],"4":[600,1200],"5":[600,1140],"6":[600,960]},"tr":[{"id":"classic","g":"face","name":"Classic facial","why":"Cleanse, peel, extraction, mask, massage. For almost every skin type.","meta":"75 min · from €89"},{"id":"calm","g":"face","name":"Gentle facial for sensitive skin","why":"Few, mild products without fragrance. No extraction, with a cooling mask.","meta":"60 min · from €79"},{"id":"pure","g":"face","name":"Deep cleanse","why":"Thorough extraction and a calming mask for blemish-prone skin.","meta":"60 min · from €75"},{"id":"glow","g":"face","name":"Glow before the event","why":"Hydration and freshness, ideal one or two days before a celebration.","meta":"45 min · from €65"},{"id":"mani","g":"hands","name":"Manicure with polish","why":"Shape, cuticles, hand massage and the polish of your choice.","meta":"45 min · from €38"},{"id":"gel","g":"hands","name":"Gel nails, full set","why":"On natural nails or with extensions, natural or in colour.","meta":"90 min · from €69"},{"id":"lash","g":"eyes","name":"Lash lift and tint","why":"Lift for your own lashes, lasts about six weeks.","meta":"60 min · from €59"},{"id":"brows","g":"eyes","name":"Brow shaping and tint","why":"Shape to suit your face, with plant-based tint.","meta":"30 min · from €25"}],"t":{"openUntil":"Open now until {t}","opensToday":"Opens today at {t}","opensOn":"Closed. Opens {d} at {t}","days":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"q":[["How does your skin usually feel?",["Dry","Oily","Sensitive","Combination"]],["What would you like?",["Calm and care","Clear pores","A fresh look before an event","Well-kept hands"]],["How much time do you have?",["About 45 minutes","About an hour","Longer is fine"]]],"result":"Our suggestion","resultBook":"Book this treatment","restart":"Start over","pickT":"Which treatment would you like?","pickDay":"Which day?","pickTime":"What time?","yourData":"How can we reach you?","name":"Your name","contact":"Phone or email","note":"Allergies or wishes (optional)","back":"Back","confirm":"Request appointment","errName":"Please enter your name.","errContact":"Please enter a phone number or an email address.","doneTitle":"This is what your confirmation would look like","doneText":"Demo: nothing was sent. In a real project the appointment lands in the studio’s calendar, and the client gets a reminder with a cancellation link.","again":"Start again","summary":"{s}, {d} at {t}"}};
+(function(){ var st=ldStatus(D.hours,D.t), el=document.getElementById('status'); el.textContent=st.text; if(st.open) el.classList.add('open');
+  var r=document.querySelector('.hours tr[data-day="'+new Date().getDay()+'"]'); if(r) r.classList.add('today'); })();
+function h(tag,attrs,txt){var e=document.createElement(tag); for(var k in attrs){ if(k==='on') e.addEventListener('click',attrs[k]); else e.setAttribute(k,attrs[k]); } if(txt!=null) e.textContent=txt; return e;}
+function tr(id){return D.tr.filter(function(x){return x.id===id})[0];}
+/* finder: answers -> treatment */
+(function(){
+  var box=document.getElementById('finder'), a=[];
+  function pick(){ var skin=a[0], want=a[1], time=a[2];
+    if(want===3) return time===2?'gel':'mani';
+    if(want===2) return time===0?'glow':(skin===2?'calm':'glow');
+    if(want===1) return skin===2?'calm':'pure';
+    if(skin===2) return 'calm'; return time===0?'glow':'classic'; }
+  function draw(){ box.innerHTML=''; var p=h('div',{class:'prog'}); for(var i=0;i<3;i++) p.appendChild(h('i',{class:i<=Math.min(a.length,2)?'on':''})); box.appendChild(p);
+    if(a.length<3){ var q=D.t.q[a.length]; box.appendChild(h('p',{class:'fq'},q[0])); var w=h('div',{class:'answers'});
+      q[1].forEach(function(x,i){ w.appendChild(h('button',{type:'button',class:'ans',on:function(){a.push(i);draw(); var f=box.querySelector('button'); if(f) f.focus();}},x)); }); box.appendChild(w); return; }
+    var r=tr(pick()), res=h('div',{class:'res'}); res.appendChild(h('span',{class:'label'},D.t.result)); res.appendChild(h('strong',{},r.name)); res.appendChild(h('p',{class:'meta'},r.meta)); res.appendChild(h('p',{class:'why'},r.why));
+    var row=h('div',{class:'row'}); row.appendChild(h('button',{type:'button',class:'btn',on:function(){startBooking(r.id);}},D.t.resultBook)); row.appendChild(h('button',{type:'button',class:'btn ghost',on:function(){a=[];draw();}},D.t.restart)); res.appendChild(row); box.appendChild(res); }
+  draw();
+})();
+/* booking */
+var B={step:0,id:null,day:null,time:null}, panel=document.getElementById('bk-panel'), steps=[].slice.call(document.querySelectorAll('#bk-steps li'));
+function fmtDay(d,o){return d.toLocaleDateString(D.lang==='de'?'de-DE':'en-GB',o);}
+function fmtT(m){var hh=Math.floor(m/60), mm=m%60; return hh+':'+(mm<10?'0':'')+mm;}
+function seed(s){var x=0; for(var i=0;i<s.length;i++){x=(x*31+s.charCodeAt(i))>>>0;} return x;}
+function sum(){return D.t.summary.replace('{s}',tr(B.id).name).replace('{d}',fmtDay(B.day,{weekday:'long',day:'numeric',month:'long'})).replace('{t}',fmtT(B.time));}
+function draw(){
+  steps.forEach(function(li,i){li.className=i===B.step?'on':(i<B.step?'done':''); if(i===B.step) li.setAttribute('aria-current','step'); else li.removeAttribute('aria-current');});
+  panel.innerHTML=''; var t=D.t;
+  function back(){ var r=h('div',{class:'navrow'}); r.appendChild(h('button',{type:'button',class:'btn ghost',on:function(){B.step-=1;draw();}},t.back)); panel.appendChild(r); }
+  if(B.step===0){ panel.appendChild(h('h3',{},t.pickT)); var o=h('div',{class:'opts'});
+    D.tr.forEach(function(x){ var b=h('button',{type:'button',class:'opt','aria-pressed':String(B.id===x.id),on:function(){B.id=x.id;B.step=1;draw();}}); b.appendChild(h('span',{},x.name)); b.appendChild(h('small',{},x.meta)); o.appendChild(b); }); panel.appendChild(o); }
+  if(B.step===1){ panel.appendChild(h('h3',{},t.pickDay)); var o1=h('div',{class:'days'}), base=new Date(); base.setHours(0,0,0,0);
+    for(var i=1;i<=14;i++){ (function(d){ var b=h('button',{type:'button',class:'opt','aria-pressed':String(B.day&&B.day.toDateString()===d.toDateString()),on:function(){B.day=d;B.step=2;draw();}}); b.appendChild(h('span',{},fmtDay(d,{weekday:'short'}))); b.appendChild(h('small',{},fmtDay(d,{day:'numeric',month:'short'}))); if(!D.hours[d.getDay()]) b.disabled=true; o1.appendChild(b); })(new Date(base.getTime()+i*864e5)); }
+    panel.appendChild(o1); back(); }
+  if(B.step===2){ panel.appendChild(h('h3',{},t.pickTime)); var hrs=D.hours[B.day.getDay()], k=seed(B.day.toDateString()+B.id), o2=h('div',{class:'times'});
+    for(var m=hrs[0]; m<=hrs[1]-60; m+=45){ k=(k*1103515245+12345)>>>0; (function(mm,free){ var b=h('button',{type:'button',class:'opt','aria-pressed':String(B.time===mm),on:function(){B.time=mm;B.step=3;draw();}},fmtT(mm)); if(!free) b.disabled=true; o2.appendChild(b); })(m,(k%3)>0); }
+    panel.appendChild(o2); back(); }
+  if(B.step===3){ panel.appendChild(h('h3',{},t.yourData)); panel.appendChild(h('p',{class:'sum'},sum()));
+    var f=h('form',{novalidate:''}); f.style.marginTop='1rem';
+    [['b-name',t.name,'input','name'],['b-contact',t.contact,'input','email'],['b-note',t.note,'textarea','off']].forEach(function(r){ var w=h('div',{class:'field'}); w.appendChild(h('label',{for:r[0]},r[1])); var inp=h(r[2],{id:r[0],autocomplete:r[3]}); if(r[2]==='input') inp.type='text'; else inp.rows=2; w.appendChild(inp); f.appendChild(w); });
+    var err=h('p',{class:'err',role:'alert'}); f.appendChild(err);
+    var row=h('div',{class:'navrow'}); row.appendChild(h('button',{type:'button',class:'btn ghost',on:function(){B.step=2;draw();}},t.back)); row.appendChild(h('button',{type:'submit',class:'btn'},t.confirm)); f.appendChild(row);
+    f.addEventListener('submit',function(e){e.preventDefault(); var n=document.getElementById('b-name'), c=document.getElementById('b-contact');
+      if(!n.value.trim()){err.textContent=t.errName;n.focus();return;} if(!c.value.trim()){err.textContent=t.errContact;c.focus();return;} B.step=4; draw();});
+    panel.appendChild(f); }
+  if(B.step===4){ steps.forEach(function(li){li.className='done';}); var d=h('div',{class:'done'}); d.appendChild(h('p',{},t.doneTitle)); d.appendChild(h('strong',{},sum())); d.appendChild(h('p',{},t.doneText));
+    var a=h('button',{type:'button',class:'btn ghost',on:function(){B={step:0,id:null,day:null,time:null};draw();}},t.again); a.style.marginTop='1.25rem'; d.appendChild(a); panel.appendChild(d); }
+}
+function startBooking(id){B={step:1,id:id,day:null,time:null}; draw(); document.getElementById('termin').scrollIntoView({block:'start'}); var f=panel.querySelector('button:not([disabled])'); if(f) f.focus({preventScroll:true});}
+[].slice.call(document.querySelectorAll('[data-book]')).forEach(function(b){b.addEventListener('click',function(){startBooking(b.dataset.book);});});
+draw();
+
+</script>
+</body>
+</html>
