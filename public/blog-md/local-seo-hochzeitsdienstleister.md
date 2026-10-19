@@ -9,8 +9,8 @@ published: 2026-02-26
 updated: 2026-08-08
 reading_time_minutes: 15
 category: "Branchen"
-author: Local Dominator
-publisher: Local Dominator
+author: LocalDominate
+publisher: LocalDominate
 license: https://creativecommons.org/licenses/by/4.0/
 keywords: ["hochzeitsdienstleister seo", "hochzeitsfotograf marketing", "hochzeits dj sichtbarkeit", "location seite hochzeit", "local seo hochzeit"]
 area_served: [Deutschland, Österreich, Schweiz]
@@ -58,4 +58,4 @@ Solche, die Ablauf, Zuverlässigkeit und Umgang mit Zwischenfällen konkret besc
 2. Tag 31–60: Gewerkeseiten und die fünf wichtigsten Location-Seiten veröffentlichen.
 3. Tag 61–90: Bewertungsroutine einführen, Partnerverlinkungen aufbauen, Anfragequellen auswerten.
 
-Verwandt: [Local SEO für Fotografen](https://localdominate.org/blog/local-seo-fotograf), [Local SEO für Konditoreien](https://localdominate.org/blog/local-seo-baeckerei-konditorei)
+Verwandt: [Local SEO für Fotografen](https://localdominate.org/blog/local-seo-fotograf), [Local SEO für Bäckereien und Konditoreien](https://localdominate.org/blog/local-seo-baeckerei)

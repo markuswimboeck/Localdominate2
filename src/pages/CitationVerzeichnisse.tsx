@@ -187,7 +187,7 @@ const CitationVerzeichnisse = () => {
     <>
       <SEOHead
         title="Citation-Verzeichnisse für Local SEO – DACH-Liste 2026"
-        description="Die vollständige Liste der wichtigsten Branchenverzeichnisse für Local SEO in Deutschland, Österreich und der Schweiz. Mit Priorität, DA-Wert und branchenspezifischen Portalen."
+        description="Die wichtigsten Branchenverzeichnisse für Local SEO in Deutschland, Österreich und der Schweiz – mit Priorität, DA-Wert und Branchenportalen."
         canonicalUrl="https://localdominate.org/citation-verzeichnisse"
         jsonLd={jsonLd}
       />

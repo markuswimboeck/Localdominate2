@@ -19,7 +19,7 @@ const Redaktionsrichtlinien = () => {
     "url": "https://localdominate.org/redaktionsrichtlinien",
     "publisher": {
       "@type": "Organization",
-      "name": "Local Dominator",
+      "name": "LocalDominate",
       "url": "https://localdominate.org"
     }
   };
@@ -28,7 +28,7 @@ const Redaktionsrichtlinien = () => {
     {
       icon: Shield,
       title: "Unser Qualitätsversprechen",
-      content: "Jeder Artikel auf Local Dominator durchläuft einen mehrstufigen Qualitätsprozess. Wir veröffentlichen nur Inhalte, die auf verifzierbaren Fakten, aktuellen Daten und praxiserprobten Strategien basieren. Unser Ziel: Die zuverlässigste deutschsprachige Ressource für lokale Suchmaschinenoptimierung."
+      content: "Jeder Artikel auf LocalDominate durchläuft einen mehrstufigen Qualitätsprozess. Wir veröffentlichen nur Inhalte, die auf verifzierbaren Fakten, aktuellen Daten und praxiserprobten Strategien basieren. Unser Ziel: Die zuverlässigste deutschsprachige Ressource für lokale Suchmaschinenoptimierung."
     },
     {
       icon: Users,
@@ -69,7 +69,7 @@ const Redaktionsrichtlinien = () => {
     {
       icon: Shield,
       title: "Our Quality Promise",
-      content: "Every article on Local Dominator goes through a multi-step quality process. We only publish content based on verifiable facts, current data, and field-tested strategies. Our goal: To be the most reliable resource for local search engine optimization."
+      content: "Every article on LocalDominate goes through a multi-step quality process. We only publish content based on verifiable facts, current data, and field-tested strategies. Our goal: To be the most reliable resource for local search engine optimization."
     },
     {
       icon: Users,
@@ -126,7 +126,7 @@ const Redaktionsrichtlinien = () => {
         <header className="sticky top-0 z-50 bg-background/95 backdrop-blur border-b border-border">
           <div className="container max-w-4xl py-4 flex items-center justify-between">
             <Link to="/" className="text-xl font-bold text-primary hover:text-primary/80 transition-colors">
-              Local Dominator
+              LocalDominate
             </Link>
           </div>
         </header>
@@ -182,7 +182,7 @@ const Redaktionsrichtlinien = () => {
               <Link to="/forschungsmethodik" className="text-primary hover:underline text-sm">
                 {language === "de" ? "→ Unsere Forschungsmethodik" : "→ Our Research Methodology"}
               </Link>
-              <Link to="/ueber-uns" className="text-primary hover:underline text-sm">
+              <Link to="/about"className="text-primary hover:underline text-sm">
                 {language === "de" ? "→ Über das Team" : "→ About the Team"}
               </Link>
               <Link to="/impressum" className="text-primary hover:underline text-sm">

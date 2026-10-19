@@ -12,7 +12,7 @@ export default function Onboarding() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-background via-background to-muted/20">
       <SEOHead 
-        title="Onboarding - Local Dominator"
+        title="Onboarding - LocalDominate"
         description="Onboarding Fragebogen"
         noindex={true}
       />

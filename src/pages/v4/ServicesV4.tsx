@@ -10,6 +10,7 @@ import { FullProject } from "@/components/v4/services/FullProject";
 import { OfferCard } from "@/components/v4/services/OfferCard";
 import { OfferIndex } from "@/components/v4/services/OfferIndex";
 import { ServicesFaq } from "@/components/v4/services/ServicesFaq";
+import { AiTeaser } from "@/components/v4/ai/AiTeaser";
 import { HERO_OFFER_ORDER, HERO_TERMS } from "@/data/v4HomeData";
 import { SERVICES_FAQ, faqEntries } from "@/data/v4Faq";
 import { OFFERS } from "@/data/v4Offers";
@@ -47,7 +48,7 @@ const SERVICES_JSON_LD = {
       "@type": "WebPage",
       "@id": `${PAGE_URL}#webpage`,
       url: PAGE_URL,
-      name: "Services & Fixed-Price Offers – Local Dominator",
+      name: "Services & Fixed-Price Offers – LocalDominate",
       isPartOf: { "@id": "https://localdominate.org/#website" },
       about: { "@id": "https://localdominate.org/#organization" },
       dateModified: SEO_DATE_MODIFIED,
@@ -56,7 +57,7 @@ const SERVICES_JSON_LD = {
     {
       "@type": "OfferCatalog",
       "@id": `${PAGE_URL}#offers`,
-      name: "Local Dominator offers",
+      name: "LocalDominate offers",
       itemListElement: OFFERS.map(offerToJsonLd),
     },
     // Same array as the visible list under "Short answers" (ServicesFaq).
@@ -85,7 +86,7 @@ export default function ServicesV4() {
     <V4Page>
       <SEOHead
         ogImage="https://localdominate.org/images/v4/social/ld-social-services-1200x630.jpg"
-        title="Services & Fixed-Price Offers – Local Dominator"
+        title="Services & Fixed-Price Offers – LocalDominate"
         description="Four fixed-scope offers with clear starting prices: 72h Conversion Sprint, AI Automation Starter, Google Profile Quick-Fix and Website in 5 Days."
         canonicalUrl={PAGE_URL}
         lang="en"
@@ -164,6 +165,9 @@ export default function ServicesV4() {
           <FullProject />
         </div>
       </StateField>
+
+      {/* 03b AI CONSULTING: link to the AI landing page */}
+      <AiTeaser lang="en" />
 
       {/* 04 HOW WE WORK: the terms, once */}
       <StateField field="light" as="section" className="border-t border-v4-ink/10" aria-labelledby="services-how">

@@ -17,7 +17,7 @@ const DuplicateListingEntfernen: React.FC = () => {
   const articleData = {
     slug: "duplicate-listing-entfernen",
     title: "Doppelte Google-Einträge löschen – Duplicate Listing Anleitung (2026)",
-    metaTitle: "Duplicate Listing entfernen: Doppelte Google-Einträge löschen | 2026",
+    metaTitle: "Duplicate Listing entfernen: doppelte Einträge löschen",
     metaDescription: "Hast du mehrere Google Business Einträge für denselben Standort? Lerne wie du Duplicates findest, richtig entfernst und zukünftige Dopplungen verhinderst.",
     excerpt: "Der komplette Guide zum Finden und Entfernen von doppelten Google Business Einträgen mit interaktiver Checkliste.",
     category: "Troubleshooting",

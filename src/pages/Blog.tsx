@@ -29,7 +29,7 @@ const Blog = () => {
   const blogSchema = {
     "@context": "https://schema.org",
     "@type": "Blog",
-    "name": "Local Dominator Blog",
+    "name": "LocalDominate Blog",
     "description": language === "de" 
       ? "Expertenwissen für lokale Suchmaschinenoptimierung"
       : "Expert knowledge for local search engine optimization",
@@ -38,7 +38,7 @@ const Blog = () => {
     "isPartOf": { "@id": "https://localdominate.org/#website" },
     "publisher": {
       "@type": "Organization",
-      "name": "Local Dominator"
+      "name": "LocalDominate"
     },
     "blogPost": allArticles.map(article => ({
       "@type": "BlogPosting",
@@ -52,7 +52,7 @@ const Blog = () => {
 
   const texts = {
     de: {
-      pageTitle: "Blog - Local SEO Tipps & Strategien | Local Dominator",
+      pageTitle: "Blog - Local SEO Tipps & Strategien | LocalDominate",
       pageDescription: "Expertenwissen für lokale Suchmaschinenoptimierung. Google Maps Ranking, Bewertungen, Local SEO Tipps für mehr lokale Kunden.",
       heroTitle: "Local SEO Blog",
       heroDescription: "Expertenwissen für mehr lokale Sichtbarkeit. Praktische Tipps und Strategien für Google Maps, Bewertungen und lokale Suchmaschinenoptimierung.",
@@ -62,7 +62,7 @@ const Blog = () => {
       noArticles: "Keine Artikel in dieser Kategorie gefunden.",
     },
     en: {
-      pageTitle: "Blog - Local SEO Tips & Strategies | Local Dominator",
+      pageTitle: "Blog - Local SEO Tips & Strategies | LocalDominate",
       pageDescription: "Expert knowledge for local search engine optimization. Google Maps ranking, reviews, local SEO tips for more local customers.",
       heroTitle: "Local SEO Blog",
       heroDescription: "Expert knowledge for more local visibility. Practical tips and strategies for Google Maps, reviews, and local search engine optimization.",
@@ -82,7 +82,6 @@ const Blog = () => {
         description={t.pageDescription}
         canonicalUrl="https://localdominate.org/blog"
         lang={language}
-        alternateUrls={{ de: "https://localdominate.org/blog" }}
         keywords="local seo blog, google maps tips, local seo strategies"
         jsonLd={blogSchema}
       />
@@ -94,7 +93,7 @@ const Blog = () => {
             to="/" 
             className="text-xl font-bold text-primary hover:text-primary/80 transition-colors"
           >
-            Local Dominator
+            LocalDominate
           </Link>
           <LanguageSwitch variant="inline" showBlogLink={false} />
         </div>

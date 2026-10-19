@@ -6,10 +6,8 @@ import {
   Search, 
   BookOpen, 
   TrendingUp, 
-  Percent, 
   Users, 
   BarChart3, 
-  Clock, 
   ChevronRight,
   Sparkles,
   Target,
@@ -34,15 +32,6 @@ import SEOHead from "@/components/SEOHead";
 import Footer from "@/components/Footer";
 import { seoLexikonData, getAllLetters, getTermsByLetter, searchTerms, SEOTerm, getTotalTermsCount, getTermSlug } from "@/data/seoLexikonData";
 import { useToast } from "@/hooks/use-toast";
-
-const iconMap = {
-  trending: TrendingUp,
-  percent: Percent,
-  users: Users,
-  search: Search,
-  chart: BarChart3,
-  clock: Clock,
-};
 
 const difficultyColors = {
   anfänger: "bg-green-500/20 text-green-400 border-green-500/30",
@@ -193,10 +182,9 @@ const TermDetail = ({ term, onTermClick, readTerms, onToggleRead }: {
 
       {/* Tabs for detailed info */}
       <Tabs defaultValue="overview" className="w-full">
-        <TabsList className="grid w-full grid-cols-4 bg-background/50">
+        <TabsList className="grid w-full grid-cols-3 bg-background/50">
           <TabsTrigger value="overview" className="text-xs md:text-sm">Übersicht</TabsTrigger>
           <TabsTrigger value="features" className="text-xs md:text-sm">Features</TabsTrigger>
-          <TabsTrigger value="statistics" className="text-xs md:text-sm">Statistiken</TabsTrigger>
           <TabsTrigger value="benefits" className="text-xs md:text-sm">Nutzen</TabsTrigger>
         </TabsList>
 
@@ -345,32 +333,6 @@ const TermDetail = ({ term, onTermClick, readTerms, onToggleRead }: {
           </Card>
         </TabsContent>
 
-        <TabsContent value="statistics" className="mt-4">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-            {term.statistics.map((stat, index) => {
-              const Icon = iconMap[stat.icon];
-              return (
-                <motion.div
-                  key={index}
-                  initial={{ opacity: 0, y: 20 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ delay: index * 0.1 }}
-                >
-                  <Card className="bg-gradient-to-br from-card to-card/50 border-border/50 hover:border-primary/50 transition-colors">
-                    <CardContent className="pt-6 text-center">
-                      <div className="w-12 h-12 rounded-full bg-primary/20 flex items-center justify-center mx-auto mb-3">
-                        <Icon className="w-6 h-6 text-primary" />
-                      </div>
-                      <div className="text-2xl font-bold text-foreground mb-1">{stat.value}</div>
-                      <div className="text-sm text-muted-foreground">{stat.label}</div>
-                    </CardContent>
-                  </Card>
-                </motion.div>
-              );
-            })}
-          </div>
-        </TabsContent>
-
         <TabsContent value="benefits" className="mt-4">
           <Card className="bg-card/50 border-border/50">
             <CardHeader>
@@ -496,14 +458,14 @@ const SeoLexikon = () => {
     "@context": "https://schema.org",
     "@type": "DefinedTermSet",
     "@id": "https://localdominate.org/seo-lexikon#term-set",
-    "name": "Local Dominator SEO Lexikon",
+    "name": "LocalDominate SEO Lexikon",
     "alternateName": "SEO Glossar A-Z",
-    "description": "Umfassendes SEO-Lexikon mit allen wichtigen Begriffen der Suchmaschinenoptimierung für lokale Unternehmen. Von Alt-Text bis Zero-Click Search - verständlich erklärt mit Statistiken und praktischen Tipps.",
+    "description": "Umfassendes SEO-Lexikon mit allen wichtigen Begriffen der Suchmaschinenoptimierung für lokale Unternehmen. Von Alt-Text bis Zero-Click Search - verständlich erklärt mit praktischen Tipps.",
     "url": "https://localdominate.org/seo-lexikon",
     "inLanguage": "de-DE",
     "publisher": {
       "@type": "Organization",
-      "name": "Local Dominator",
+      "name": "LocalDominate",
       "@id": "https://localdominate.org/#organization",
       "url": "https://localdominate.org"
     },
@@ -521,7 +483,7 @@ const SeoLexikon = () => {
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
         "@id": "https://localdominate.org/seo-lexikon#term-set",
-        "name": "Local Dominator SEO Lexikon"
+        "name": "LocalDominate SEO Lexikon"
       },
       "url": `https://localdominate.org/seo-lexikon#${getTermSlug(term.term)}`
     }))
@@ -538,7 +500,7 @@ const SeoLexikon = () => {
     "inDefinedTermSet": {
       "@type": "DefinedTermSet",
       "@id": "https://localdominate.org/seo-lexikon#term-set",
-      "name": "Local Dominator SEO Lexikon",
+      "name": "LocalDominate SEO Lexikon",
       "url": "https://localdominate.org/seo-lexikon"
     },
     "url": `https://localdominate.org/seo-lexikon#${getTermSlug(term.term)}`,
@@ -605,8 +567,8 @@ const SeoLexikon = () => {
   return (
     <>
       <SEOHead
-        title="SEO Lexikon A-Z | Alle wichtigen SEO-Begriffe erklärt | Local Dominator"
-        description="Das umfassende SEO-Lexikon mit allen wichtigen Begriffen von A-Z. Alt-Text, Backlinks, Citations, Keywords, Local Pack und mehr - verständlich erklärt mit Statistiken und Tipps."
+        title="SEO Lexikon A-Z | Alle wichtigen SEO-Begriffe erklärt | LocalDominate"
+        description="Das SEO-Lexikon von A bis Z: Alt-Text, Backlinks, Citations, Keywords, Local Pack und mehr – verständlich erklärt, mit Statistiken und Tipps."
         keywords="SEO Lexikon, SEO Glossar, SEO Begriffe, SEO Wörterbuch, Local SEO Begriffe, SEO Definition, Backlinks erklärt, Keywords erklärt"
         canonicalUrl="https://localdominate.org/seo-lexikon"
         jsonLd={seoSchema}
@@ -618,7 +580,7 @@ const SeoLexikon = () => {
           <div className="container max-w-7xl mx-auto px-4 py-4">
             <div className="flex items-center justify-between">
               <Link to="/" className="flex items-center gap-3">
-                <img src="/logo.png" alt="Local Dominator Logo" className="h-10 w-auto" width={100} height={40} loading="eager" decoding="async" />
+                <img src="/logo.png" alt="LocalDominate Logo" className="h-10 w-auto" width={100} height={40} loading="eager" decoding="async" />
               </Link>
               <div className="flex items-center gap-4">
                 <Link to="/blog">
@@ -656,7 +618,7 @@ const SeoLexikon = () => {
               </span>
             </h1>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-2">
-              Alle wichtigen SEO-Begriffe verständlich erklärt. Mit Statistiken, Features und praktischen Tipps für dein Local SEO.
+              Alle wichtigen SEO-Begriffe verständlich erklärt. Mit Features, Nutzen und praktischen Tipps für dein Local SEO.
             </p>
             <Badge className="bg-primary/10 text-primary border-primary/30">
               {totalTerms} Begriffe

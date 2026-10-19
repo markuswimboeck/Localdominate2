@@ -9,6 +9,7 @@ import { DeHero } from "@/components/v4/de/DeHero";
 import { DeOffers } from "@/components/v4/de/DeOffers";
 import { DePartner } from "@/components/v4/de/DePartner";
 import { DeTerms } from "@/components/v4/de/DeTerms";
+import { AiTeaser } from "@/components/v4/ai/AiTeaser";
 import { ANCHORS, DEFAULT_SEGMENT, FAQ, SEO_DE } from "@/data/v4De";
 import type { SegmentId } from "@/data/v4De";
 
@@ -83,6 +84,7 @@ export default function DeV4() {
         <DeHero segment={segment} onSegmentChange={setSegment} />
         <DeTerms />
         <DeOffers segment={segment} />
+        <AiTeaser lang="de" />
         <DeAbout />
         <DePartner />
         <DeFaq />

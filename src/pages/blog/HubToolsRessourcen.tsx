@@ -81,7 +81,7 @@ const HubToolsRessourcen = () => {
   return (
     <TopicHubLayout
       title="Tools & Ressourcen Hub"
-      metaTitle="Local SEO Tools & Ressourcen Hub – Checklisten & Templates 2026"
+      metaTitle="Local SEO Tools & Ressourcen – Checklisten & Templates 2026"
       metaDescription="Alle SEO-Tools, Checklisten, Reporting-Templates und kostenlose Guides für lokales SEO an einem Ort. 8+ Ressourcen."
       heroDescription="Die besten Werkzeuge für dein lokales SEO. Von kostenlosen Tools über Audit-Checklisten bis hin zu Reporting-Templates – alles an einem Ort."
       heroIcon={<Wrench className="w-7 h-7 text-primary" />}

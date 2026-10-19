@@ -56,6 +56,7 @@ export function CheckForm({
   className,
   id = "check",
   option,
+  note,
 }: {
   texts: CheckFormTexts;
   className?: string;
@@ -64,6 +65,11 @@ export function CheckForm({
    * card). It is applied after mount and whenever it changes; the visitor can still change it.
    */
   option?: string;
+  /**
+   * Optional text for the free field ("goal"), handed over from elsewhere on the page (for example
+   * the task-map calculator on /ai). Applied after mount and whenever it changes; still editable.
+   */
+  note?: string;
   /**
    * Prefix of the field ids. A fixed string, not useId(): the prerendered HTML comes from a client
    * render, so useId() would give different ids before and after hydration.
@@ -80,6 +86,10 @@ export function CheckForm({
   useEffect(() => {
     if (option && t.businessTypes.includes(option)) setValues((prev) => ({ ...prev, businessType: option }));
   }, [option, t.businessTypes]);
+
+  useEffect(() => {
+    if (note) setValues((prev) => ({ ...prev, goal: note }));
+  }, [note]);
 
   const set = <K extends keyof Values>(key: K, value: Values[K]) => {
     setValues((prev) => ({ ...prev, [key]: value }));

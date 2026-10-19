@@ -13,7 +13,7 @@ const GbpAttributeRichtigNutzen: React.FC = () => {
   const articleData = {
     slug: "gbp-attribute-richtig-nutzen",
     title: "Google Business Attribute – Alle Optionen optimal nutzen (2026)",
-    metaTitle: "GBP Attribute Guide: Alle Optionen für mehr Sichtbarkeit 2026",
+    metaTitle: "GBP-Attribute 2026: alle Optionen für mehr Sichtbarkeit",
     metaDescription: "Welche Google Business Attribute gibt es und welche sind für dein Geschäft wichtig? Der komplette Guide mit allen Kategorien und Best Practices.",
     excerpt: "Der komplette Guide zu Google Business Attributen für jede Branche.",
     category: "Grundlagen",

@@ -10,21 +10,7 @@ import { trackButtonClick } from "@/lib/dataLayer";
 
 const HandwerkerMarketing = () => {
   const { language } = useLanguage();
-  const [timeLeft, setTimeLeft] = useState({ hours: 23, minutes: 45, seconds: 12 });
   const [visibleSections, setVisibleSections] = useState<Set<string>>(new Set());
-
-  // Countdown timer
-  useEffect(() => {
-    const timer = setInterval(() => {
-      setTimeLeft(prev => {
-        if (prev.seconds > 0) return { ...prev, seconds: prev.seconds - 1 };
-        if (prev.minutes > 0) return { ...prev, minutes: prev.minutes - 1, seconds: 59 };
-        if (prev.hours > 0) return { hours: prev.hours - 1, minutes: 59, seconds: 59 };
-        return prev;
-      });
-    }, 1000);
-    return () => clearInterval(timer);
-  }, []);
 
   // Intersection observer
   useEffect(() => {
@@ -54,12 +40,7 @@ const HandwerkerMarketing = () => {
       eyebrow: "Für Handwerksbetriebe",
       headline: "Mehr Aufträge.",
       headlineHighlight: "Weniger Kaltakquise.",
-      subheadline: "Kunden suchen nach Handwerkern in deiner Region. Wir sorgen dafür, dass sie DICH finden – nicht deine Konkurrenz.",
-      stats: [
-        { value: "73%", label: "aller Aufträge starten mit einer Google-Suche" },
-        { value: "92%", label: "wählen einen Betrieb aus den Top 3" },
-        { value: "5x", label: "mehr Anfragen mit optimiertem Profil" },
-      ],
+      subheadline: "Kunden suchen nach Handwerkern in deiner Region. Wir arbeiten daran, dass sie DICH finden – nicht deine Konkurrenz.",
       problems: {
         headline: "Kennst du das?",
         items: [
@@ -73,9 +54,9 @@ const HandwerkerMarketing = () => {
         headline: "Deine Lösung: Handwerker Pro",
         subheadline: "Das Komplettpaket für lokale Sichtbarkeit – speziell für Handwerksbetriebe",
         features: [
-          { icon: MapPin, title: "Google Maps Dominanz", text: "Top-Platzierung in deiner Region für alle relevanten Suchbegriffe" },
-          { icon: Star, title: "Bewertungs-Strategie", text: "System für konstante 5-Sterne Bewertungen von zufriedenen Kunden" },
-          { icon: Zap, title: "Sofort-Optimierung", text: "In 48h ist dein Profil komplett optimiert und rankt besser" },
+          { icon: MapPin, title: "Google Maps Sichtbarkeit", text: "Optimierung für die relevanten Suchbegriffe in deiner Region" },
+          { icon: Star, title: "Bewertungs-Strategie", text: "System, um zufriedene Kunden nach dem Auftrag um eine Bewertung zu bitten" },
+          { icon: Zap, title: "Sofort-Optimierung", text: "In 48h ist dein Profil komplett optimiert" },
           { icon: Users, title: "Branchenspezifisch", text: "Keywords und Strategie speziell für Handwerker optimiert" },
         ],
       },
@@ -93,25 +74,14 @@ const HandwerkerMarketing = () => {
         ],
       },
       pricing: {
-        anchor: "599",
         price: "299",
-        badge: "🎉 Einmaliges Einführungsangebot",
-        savings: "300€ Rabatt",
         oneTime: "Einmalig • Keine versteckten Kosten",
         cta: "Jetzt Handwerker Pro sichern",
-        scarcity: "Nur noch 5 Plätze diesen Monat",
-        offerEnds: "Angebot endet in",
-        discountNote: "Regulär 599€ – nur für kurze Zeit",
       },
       guarantee: {
         headline: "100% Zufriedenheitsgarantie",
         text: "Keine messbare Verbesserung nach 30 Tagen? Geld zurück – ohne Wenn und Aber.",
       },
-      testimonials: [
-        { name: "Klaus M.", business: "Elektro Meister, München", quote: "Von Seite 3 auf Platz 1 in 4 Wochen. Jetzt klingelt das Telefon täglich.", result: "+12 Aufträge/Woche" },
-        { name: "Stefan B.", business: "SB Sanitär, Hamburg", quote: "Das Bewertungssystem ist Gold wert. Hatte vorher 8 Bewertungen, jetzt 47.", result: "47 Bewertungen" },
-        { name: "Marco T.", business: "Maler Tradition, Berlin", quote: "Endlich finden mich Kunden ohne Mundpropaganda. Beste Investition.", result: "+340% Sichtbarkeit" },
-      ],
       faq: {
         headline: "Häufige Fragen",
         items: [
@@ -132,12 +102,7 @@ const HandwerkerMarketing = () => {
       eyebrow: "For Craftsmen",
       headline: "More Jobs.",
       headlineHighlight: "Less Cold Calling.",
-      subheadline: "Customers are searching for craftsmen in your area. We make sure they find YOU – not your competition.",
-      stats: [
-        { value: "73%", label: "of all jobs start with a Google search" },
-        { value: "92%", label: "choose a business from the Top 3" },
-        { value: "5x", label: "more inquiries with an optimized profile" },
-      ],
+      subheadline: "Customers are searching for craftsmen in your area. We work on getting you found – not your competition.",
       problems: {
         headline: "Sound familiar?",
         items: [
@@ -151,9 +116,9 @@ const HandwerkerMarketing = () => {
         headline: "Your Solution: Craftsman Pro",
         subheadline: "The complete package for local visibility – made for craftsmen",
         features: [
-          { icon: MapPin, title: "Google Maps Dominance", text: "Top placement in your region for all relevant search terms" },
-          { icon: Star, title: "Review Strategy", text: "System for constant 5-star reviews from satisfied customers" },
-          { icon: Zap, title: "Instant Optimization", text: "Your profile is fully optimized and ranking better in 48h" },
+          { icon: MapPin, title: "Google Maps Visibility", text: "Optimization for the relevant search terms in your region" },
+          { icon: Star, title: "Review Strategy", text: "A system for asking satisfied customers for a review after the job" },
+          { icon: Zap, title: "Instant Optimization", text: "Your profile is fully optimized within 48h" },
           { icon: Users, title: "Industry-Specific", text: "Keywords and strategy optimized specifically for craftsmen" },
         ],
       },
@@ -171,25 +136,14 @@ const HandwerkerMarketing = () => {
         ],
       },
       pricing: {
-        anchor: "599",
         price: "299",
-        badge: "🎉 Limited Launch Offer",
-        savings: "Save 300€",
         oneTime: "One-time • No hidden fees",
         cta: "Get Craftsman Pro Now",
-        scarcity: "Only 5 spots left this month",
-        offerEnds: "Offer ends in",
-        discountNote: "Regular 599€ – limited time only",
       },
       guarantee: {
         headline: "100% Satisfaction Guarantee",
         text: "No measurable improvement after 30 days? Money back – no questions asked.",
       },
-      testimonials: [
-        { name: "Klaus M.", business: "Elektro Meister, Munich", quote: "From page 3 to #1 in 4 weeks. Now the phone rings daily.", result: "+12 jobs/week" },
-        { name: "Stefan B.", business: "SB Plumbing, Hamburg", quote: "The review system is gold. Had 8 reviews before, now 47.", result: "47 reviews" },
-        { name: "Marco T.", business: "Painter Tradition, Berlin", quote: "Finally customers find me without word of mouth. Best investment.", result: "+340% visibility" },
-      ],
       faq: {
         headline: "FAQ",
         items: [
@@ -216,7 +170,7 @@ const HandwerkerMarketing = () => {
       "@type": "Service",
       "name": "Handwerker Pro - Local SEO für Handwerksbetriebe",
       "description": "Professionelles Google Maps Marketing für Handwerker. Mehr Aufträge durch Top-Rankings in der lokalen Suche.",
-      "provider": { "@type": "Organization", "name": "Local Dominator" },
+      "provider": { "@type": "Organization", "name": "LocalDominate" },
       "offers": {
         "@type": "Offer",
         "price": "349",
@@ -274,16 +228,6 @@ const HandwerkerMarketing = () => {
           <p className="text-lg md:text-xl text-slate-300 max-w-2xl mb-10 leading-relaxed">
             {content.subheadline}
           </p>
-
-          {/* Stats */}
-          <div className="grid grid-cols-3 gap-4 md:gap-8 mb-12">
-            {content.stats.map((stat, idx) => (
-              <div key={idx} className="text-center p-4 bg-slate-800/50 rounded-xl border border-slate-700">
-                <p className="text-2xl md:text-3xl font-bold text-amber-400 mb-1">{stat.value}</p>
-                <p className="text-xs md:text-sm text-slate-400">{stat.label}</p>
-              </div>
-            ))}
-          </div>
 
           {/* CTA */}
           <Button 
@@ -369,35 +313,10 @@ const HandwerkerMarketing = () => {
           <div className="bg-gradient-to-b from-slate-800 to-slate-800/50 border border-amber-500/30 rounded-3xl p-8 text-center relative overflow-hidden">
             <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-amber-400 via-amber-500 to-amber-400" />
             
-            {/* Badge */}
-            <span className="inline-block px-4 py-1.5 bg-amber-500/20 text-amber-400 text-sm font-semibold rounded-full mb-6">
-              {content.pricing.badge} – {content.pricing.savings}
-            </span>
-
             {/* Price */}
             <div className="mb-6">
-              <p className="text-slate-400 text-lg line-through mb-1">{content.pricing.anchor}€</p>
               <p className="text-5xl md:text-6xl font-bold text-white">{content.pricing.price}€</p>
               <p className="text-slate-400 mt-2">{content.pricing.oneTime}</p>
-            </div>
-
-            {/* Timer */}
-            <div className="mb-8">
-              <p className="text-slate-500 text-sm mb-3">{content.pricing.offerEnds}</p>
-              <div className="flex justify-center gap-3">
-                {[
-                  { value: timeLeft.hours, label: "Std" },
-                  { value: timeLeft.minutes, label: "Min" },
-                  { value: timeLeft.seconds, label: "Sek" },
-                ].map((item, idx) => (
-                  <div key={idx} className="bg-slate-900 px-4 py-2 rounded-lg">
-                    <span className="text-2xl font-mono font-bold text-amber-400">
-                      {String(item.value).padStart(2, '0')}
-                    </span>
-                    <span className="text-xs text-slate-500 ml-1">{item.label}</span>
-                  </div>
-                ))}
-              </div>
             </div>
 
             {/* CTA */}
@@ -410,11 +329,6 @@ const HandwerkerMarketing = () => {
               <ArrowRight className="ml-2 w-5 h-5" />
             </Button>
 
-            {/* Scarcity */}
-            <p className="text-red-400 text-sm mt-4 flex items-center justify-center gap-2">
-              <Clock className="w-4 h-4" />
-              {content.pricing.scarcity}
-            </p>
           </div>
         </div>
       </section>
@@ -430,31 +344,6 @@ const HandwerkerMarketing = () => {
         </div>
       </section>
 
-      {/* Testimonials */}
-      <section 
-        data-section="testimonials"
-        className={`py-20 px-4 bg-slate-800/30 transition-all duration-700 ${visibleSections.has('testimonials') ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}
-      >
-        <div className="max-w-4xl mx-auto">
-          <div className="grid md:grid-cols-3 gap-6">
-            {content.testimonials.map((testimonial, idx) => (
-              <div key={idx} className="p-6 bg-slate-800/50 border border-slate-700 rounded-2xl">
-                <div className="flex gap-1 mb-4">
-                  {[...Array(5)].map((_, i) => (
-                    <Star key={i} className="w-4 h-4 fill-amber-400 text-amber-400" />
-                  ))}
-                </div>
-                <p className="text-slate-300 text-sm mb-4 italic">"{testimonial.quote}"</p>
-                <div className="border-t border-slate-700 pt-4">
-                  <p className="text-white font-medium text-sm">{testimonial.name}</p>
-                  <p className="text-slate-500 text-xs">{testimonial.business}</p>
-                  <p className="text-emerald-400 text-sm font-semibold mt-2">{testimonial.result}</p>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
 
       {/* FAQ */}
       <section 

@@ -4,17 +4,111 @@
   "installCommand": "npm ci --no-audit --no-fund",
   "buildCommand": "npm i --no-save --no-audit --no-fund playwright@1.56.0 @sparticuz/chromium@141.0.0 && node scripts/vercel-build.mjs",
   "outputDirectory": "dist",
+  "functions": {
+    "api/chat.ts": {
+      "maxDuration": 60,
+      "memory": 1024,
+      "includeFiles": "public/llms.txt"
+    }
+  },
+  "redirects": [
+    {
+      "source": "/ueber-uns",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/blog/local-seo-baeckerei-konditorei",
+      "destination": "/blog/local-seo-baeckerei",
+      "permanent": true
+    },
+    {
+      "source": "/blog/local-seo-sanitaer-heizung",
+      "destination": "/blog/local-seo-heizung-sanitaer",
+      "permanent": true
+    },
+    {
+      "source": "/blog-md/local-seo-baeckerei-konditorei.md",
+      "destination": "/blog-md/local-seo-baeckerei.md",
+      "permanent": true
+    },
+    {
+      "source": "/industries/salons",
+      "destination": "/industries/hair-salons",
+      "permanent": true
+    },
+    {
+      "source": "/industries/gyms",
+      "destination": "/industries/fitness-studios",
+      "permanent": true
+    },
+    {
+      "source": "/restaurant-marketing",
+      "destination": "/industries/restaurants",
+      "permanent": true
+    },
+    {
+      "source": "/handwerker-marketing",
+      "destination": "/industries/trades",
+      "permanent": true
+    },
+    {
+      "source": "/arztpraxis-marketing",
+      "destination": "/industries/practices",
+      "permanent": true
+    },
+    {
+      "source": "/anwalt-marketing",
+      "destination": "/industries/practices",
+      "permanent": true
+    },
+    {
+      "source": "/seo-lexikon/proximity",
+      "destination": "/seo-lexikon#proximity-entfernung",
+      "permanent": true
+    },
+    {
+      "source": "/seo-lexikon/user-experience",
+      "destination": "/seo-lexikon#user-experience-ux",
+      "permanent": true
+    },
+    {
+      "source": "/seo-lexikon/webmaster-tools",
+      "destination": "/seo-lexikon#webmaster-tools--search-console",
+      "permanent": true
+    },
+    {
+      "source": "/seo-lexikon/robots-txt",
+      "destination": "/seo-lexikon#robotstxt",
+      "permanent": true
+    },
+    {
+      "source": "/seo-lexikon/:term",
+      "destination": "/seo-lexikon#:term",
+      "permanent": true
+    }
+  ],
   "rewrites": [
     {
-      "source": "/((?!.*\\.).*)",
+      "source": "/((?!api/)(?!.*\\.).*)",
       "destination": "/spa-fallback.html"
     }
   ],
   "headers": [
     {
       "source": "/(.*)",
-      "has": [{ "type": "host", "value": ".*\\.vercel\\.app" }],
-      "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }]
+      "has": [
+        {
+          "type": "host",
+          "value": ".*\\.vercel\\.app"
+        }
+      ],
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
     }
   ]
 }

@@ -47,7 +47,7 @@ export const CHECK_FORM_EN: CheckFormTexts = {
   linkHint: "For example the address of your website or of your Google Maps listing.",
   businessType: "Type of business",
   businessTypePlaceholder: "Please choose",
-  businessTypes: ["Hotel or guesthouse", "Holiday rentals", "Trade or craft business", "Practice, law firm or tax adviser", "Other business"],
+  businessTypes: ["Hotel or guesthouse", "Holiday rentals", "Trade or craft business", "Practice, law firm or tax adviser", "Hair salon or beauty studio", "Gym or fitness studio", "Other business"],
   goal: "What should improve?",
   goalHint: "Optional. One or two sentences are enough. For example: more direct bookings, a complete Google profile, a faster website.",
   consentBefore: "I agree that my details are used to answer this request. See the ",

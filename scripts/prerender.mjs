@@ -38,11 +38,61 @@ const GENERIC_TITLE = "Local Dominator â€“ Local SEO & AI-Sichtbarkeit";
 const LOCALE = "en-US";
 // Live pages that are newer than the frozen SEO baseline. They are prerendered like the baseline
 // URLs but are not part of the baseline, so seo-check does not compare them.
+const AUDIENCE_SLUGS = ["hotels", "holiday-rentals", "trades", "restaurants", "practices", "online-stores", "hair-salons", "fitness-studios"]; // keep in sync with src/data/v4AudienceSlugs.ts
+const DE_INDUSTRY_SLUGS = ["friseur", "fitnessstudio"]; // keep in sync with src/data/v4DeIndustrySlugs.ts
 const PILLAR_IDS = ["diagnose", "position", "create", "build", "launch", "grow", "scale"]; // keep in sync with src/data/v4PillarIndex.ts
 const EXTRA_PATHS = ["/services", "/work", "/approach", ...PILLAR_IDS.map((id) => `/approach/${id}`),
-  "/industries", "/creators", "/insights", "/about", "/start-a-project", "/de",
+  "/industries", "/creators", "/insights", "/about", "/start-a-project", "/de", "/ai", "/de/ki",
   "/ar", "/ar/services", "/ar/work", "/ar/approach", "/ar/industries", "/ar/creators", "/ar/start-a-project",
-  ...PILLAR_IDS.map((id) => `/ar/approach/${id}`)];
+  ...PILLAR_IDS.map((id) => `/ar/approach/${id}`),
+  ...AUDIENCE_SLUGS.map((slug) => `/industries/${slug}`),
+  ...DE_INDUSTRY_SLUGS.map((slug) => `/de/${slug}`)];
+// Blog articles migrated to the V4 layout are hydrated too (see src/lib/v4Pages.tsx). Their URLs are
+// mostly in the baseline already; new articles (not in the baseline) are prerendered from this list.
+const V4_ARTICLE_PATHS = fs.readdirSync(path.join(ROOT, "src", "content", "articles", "data"))
+  .filter((f) => f.endsWith(".ts")).map((f) => `/blog/${f.replace(/\.ts$/, "")}`);
+
+// Critical CSS: inline the rules of the main stylesheet that a page uses on first paint and load the
+// full file without blocking rendering. Off with PRERENDER_CRITICAL_CSS=0.
+const CRITICAL = process.env.PRERENDER_CRITICAL_CSS !== "0";
+const CRITICAL_MAX = 90_000; // bytes; pages that would need more keep the blocking stylesheet
+const criticalStats = [];
+
+/** Returns (usedRanges) => css: the rules whose start lies in a used coverage range, inside their at-rules. */
+async function criticalCssBuilder(file) {
+  const { default: postcss } = await import("postcss");
+  const text = fs.readFileSync(file, "utf8");
+  const root = postcss.parse(text);
+  return (ranges) => {
+    const sorted = [...ranges].sort((a, b) => a.start - b.start);
+    const isUsed = (off) => {
+      let lo = 0, hi = sorted.length - 1;
+      while (lo <= hi) {
+        const mid = (lo + hi) >> 1;
+        if (off < sorted[mid].start) hi = mid - 1;
+        else if (off >= sorted[mid].end) lo = mid + 1;
+        else return true;
+      }
+      return false;
+    };
+    const pick = (container) => {
+      const out = [];
+      container.each((node) => {
+        if (node.type === "rule") {
+          if (isUsed(node.source.start.offset)) out.push(node.toString());
+        } else if (node.type === "atrule") {
+          if (node.name === "font-face") out.push(node.toString());
+          else if (["media", "supports", "layer", "container"].includes(node.name) && node.nodes) {
+            const inner = pick(node);
+            if (inner.length) out.push(`@${node.name} ${node.params}{${inner.join("")}}`);
+          }
+        }
+      });
+      return out;
+    };
+    return pick(root).join("");
+  };
+}
 
 const TYPES = { ".html": "text/html; charset=utf-8", ".js": "text/javascript", ".css": "text/css", ".json": "application/json",
   ".svg": "image/svg+xml", ".png": "image/png", ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".webp": "image/webp",
@@ -121,10 +171,13 @@ async function main() {
   let shell = fs.readFileSync(fallbackPath, "utf8");
   // Mark the shell's own scripts/styles so capture() keeps exactly those and drops runtime-injected ones.
   const markedShell = shell.replace(/<(script|style)/g, "<$1 data-shell");
+  const mainCssMatch = shell.match(/<link rel="stylesheet" crossorigin href="(\/assets\/index-[^"]+\.css)">/);
+  const mainCss = mainCssMatch ? mainCssMatch[1] : null;
+  const critical = CRITICAL && mainCss ? await criticalCssBuilder(path.join(DIST, mainCss)) : null;
 
   const baseline = JSON.parse(fs.readFileSync(path.join(ROOT, "docs", "baseline", "rendered-en-US.json"), "utf8"));
   const only = args.only ? new Set(String(args.only).split(",")) : null;
-  const paths = [...new Set([...baseline.map((r) => r.path), ...EXTRA_PATHS])].filter((p) => !only || only.has(p));
+  const paths = [...new Set([...baseline.map((r) => r.path), ...EXTRA_PATHS, ...V4_ARTICLE_PATHS])].filter((p) => !only || only.has(p));
 
   const server = serve(markedShell);
   const launchOpts = process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {};
@@ -142,6 +195,7 @@ async function main() {
     while (i < paths.length) {
       const p = paths[i++];
       try {
+        if (CRITICAL) await page.coverage.startCSSCoverage({ resetOnNavigation: true });
         await page.goto(BASE + p, { waitUntil: "load", timeout: 30000 });
         await page.waitForFunction((g) => document.querySelector("h1") || document.title !== g, GENERIC_TITLE, { timeout: 8000 }).catch(() => {});
         await page.evaluate(async () => {
@@ -149,9 +203,20 @@ async function main() {
           window.scrollTo(0, 0);
         });
         await page.waitForTimeout(1500);
-        const cap = await page.evaluate(capture, ["/", ...EXTRA_PATHS]);
+        const cap = await page.evaluate(capture, ["/", ...EXTRA_PATHS, ...V4_ARTICLE_PATHS]);
+        let used = null;
+        if (CRITICAL) {
+          // Rules used at desktop width, then at phone width (coverage accumulates), so the inlined CSS
+          // covers both layouts. Done after capture() so the snapshot is still the desktop render.
+          await page.setViewportSize({ width: 390, height: 844 });
+          await page.waitForTimeout(300);
+          const cov = await page.coverage.stopCSSCoverage();
+          await page.setViewportSize({ width: 1280, height: 720 });
+          const main = cov.find((c) => mainCss && c.url.endsWith(mainCss));
+          used = main ? main.ranges : null;
+        }
         if (cap.finalPath !== p) { errors.push(`${p}: client redirected to ${cap.finalPath}, not prerendered`); continue; }
-        results.push({ path: p, ...cap });
+        results.push({ path: p, ...cap, used });
       } catch (e) {
         errors.push(`${p}: ${String(e).slice(0, 200)}`);
       }
@@ -181,6 +246,15 @@ async function main() {
     // modulepreload/CSS links that Vite injected). Runtime-injected scripts/styles are dropped.
     let html = shell.slice(0, headStart) + "\n    " + head + "\n  " + shell.slice(headEnd);
     html = html.replace(rootRe, `<div id="root">${r.root}</div>`);
+    if (critical && r.used) {
+      const css = critical(r.used);
+      const linkRe = new RegExp(`<link rel="stylesheet" crossorigin(?:="")? href="${mainCss.replace(/[.]/g, "\\.")}">`);
+      if (css.length <= CRITICAL_MAX && linkRe.test(html)) {
+        // Inline the rules this page uses on first paint; load the full stylesheet without blocking.
+        html = html.replace(linkRe, `<style data-critical>${css}</style>\n    <link rel="preload" as="style" crossorigin href="${mainCss}" onload="this.onload=null;this.rel='stylesheet'">\n    <noscript><link rel="stylesheet" crossorigin href="${mainCss}"></noscript>`);
+        criticalStats.push(css.length);
+      }
+    }
     if (r.lang) html = html.replace(/<html([^>]*)\slang="[^"]*"/, `<html$1 lang="${r.lang}"`);
     if (r.dir) html = html.replace(/<html([^>]*?)(\sdir="[^"]*")?>/, `<html$1 dir="${r.dir}">`);
     const out = toFile(r.path);
@@ -190,6 +264,7 @@ async function main() {
   fs.writeFileSync(path.join(DIST, "prerender-manifest.json"), JSON.stringify({ locale: LOCALE, pages: results.map((r) => r.path).sort() }, null, 1));
 
   console.log(`Prerendered ${results.length}/${paths.length} pages (${LOCALE}). Shell kept at dist/spa-fallback.html.`);
+  if (CRITICAL) console.log(`Critical CSS inlined on ${criticalStats.length} pages (median ${criticalStats.sort((x, y) => x - y)[Math.floor(criticalStats.length / 2)] ?? 0} bytes).`);
   if (errors.length) { console.error(errors.join("\n")); process.exit(1); }
 }
 

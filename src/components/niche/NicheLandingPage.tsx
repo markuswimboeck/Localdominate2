@@ -124,7 +124,7 @@ const NicheLandingPage = ({ config: c }: Props) => {
               {c.heroSubheadline}
             </p>
             <p className="text-sm text-primary/80 font-medium mb-6">
-              Mehr Sichtbarkeit. Mehr Buchungen. Weniger Unsicherheit.
+              Besser gefunden. Klarer dargestellt. Einfacher gebucht.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-5">
               <Button variant="cta" size="ctaLarge" className="group w-full sm:w-auto" onClick={() => trackCta("hero")}>
@@ -168,10 +168,10 @@ const NicheLandingPage = ({ config: c }: Props) => {
               <div className="bg-card border border-border/50 rounded-2xl p-8 md:p-12">
                 <p className="text-primary font-semibold uppercase tracking-widest text-xs mb-4">Persönliche Analyse</p>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-bold mb-4">
-                  Wir haben etwas Interessantes über deinen {c.service} herausgefunden
+                  Wie sichtbar ist dein {c.service} bei Google?
                 </h2>
                 <p className="text-base md:text-lg text-muted-foreground max-w-xl mx-auto mb-8 leading-relaxed">
-                  Wir haben {c.nicheLabel.toLowerCase()} in {c.city} analysiert und festgestellt, dass viele einfache Chancen verpassen, mehr Kunden über Google zu gewinnen.
+                  Wir sehen uns dein Google-Profil und deine Website an und zeigen dir, welche einfachen Chancen noch offen sind.
                 </p>
                 <Button variant="cta" size="lg" className="group" onClick={scrollToDemo}>
                   Deine kostenlose Analyse ansehen
@@ -268,7 +268,7 @@ const NicheLandingPage = ({ config: c }: Props) => {
               <div className="grid sm:grid-cols-2 gap-4 max-w-3xl mx-auto">
                 {[
                   { icon: MapPin, text: "Optimierung deines Google-Eintrags" },
-                  { icon: Star, text: "Aufbau von echten 5-Sterne-Bewertungen" },
+                  { icon: Star, text: "Bewertungen anfragen und beantworten" },
                   { icon: Camera, text: "Verbesserung deiner Bilder & Darstellung" },
                   { icon: Users, text: c.visibilityLabel },
                   { icon: BarChart3, text: "Laufende Betreuung & Auswertung" }
@@ -291,33 +291,6 @@ const NicheLandingPage = ({ config: c }: Props) => {
         {/* Inline CTA */}
         <InlineCTA text="Kostenlose Analyse" urgency={urgencyText} onClick={() => trackCta("after_features")} />
 
-        {/* 6. SOCIAL PROOF */}
-        <SectionFadeIn>
-          <section className="px-4 py-16 md:py-24">
-            <div className="container max-w-4xl text-center">
-              <p className="text-primary font-semibold uppercase tracking-widest text-xs mb-3">Ergebnisse</p>
-              <h2 className="text-2xl md:text-4xl font-bold mb-12">Echte Ergebnisse für {c.nicheLabel.toLowerCase()} in {c.city}</h2>
-              <div className="grid grid-cols-3 gap-4 md:gap-8 max-w-2xl mx-auto mb-12">
-                {c.proofStats.map((stat, i) => (
-                  <div key={i} className="p-5 md:p-8 bg-card border border-border/50 rounded-2xl">
-                    <div className="text-2xl md:text-4xl font-bold text-primary mb-2">{stat.value}</div>
-                    <div className="text-xs md:text-sm text-muted-foreground">{stat.label}</div>
-                  </div>
-                ))}
-              </div>
-              <blockquote className="bg-card border border-border/50 rounded-2xl p-8 md:p-10 max-w-xl mx-auto">
-                <div className="flex items-center justify-center gap-1 mb-4">
-                  {[...Array(5)].map((_, i) => (
-                    <Star key={i} className="w-5 h-5 fill-[hsl(var(--highlight))] text-[hsl(var(--highlight))]" />
-                  ))}
-                </div>
-                <p className="text-lg md:text-xl italic text-foreground mb-4 leading-relaxed">„{c.proofTestimonial}"</p>
-                <p className="text-sm text-muted-foreground font-medium">– {c.proofAuthor}</p>
-              </blockquote>
-            </div>
-          </section>
-        </SectionFadeIn>
-
         {/* 7. DEMO / LEAD FORM */}
         <SectionFadeIn>
           <section id="demo-section" className="bg-primary/5 px-4 py-16 md:py-24">
@@ -327,12 +300,12 @@ const NicheLandingPage = ({ config: c }: Props) => {
                 Finde heraus, was deinem {c.service} aktuell fehlt
               </h2>
               <p className="text-muted-foreground mb-10 max-w-lg mx-auto leading-relaxed">
-                Wir zeigen dir kostenlos, wo du Kunden verlierst und was konkret verbessert werden kann.
+                Wir zeigen dir kostenlos, welche Chancen dein Google-Profil und deine Website aktuell verschenken.
               </p>
               <div className="grid sm:grid-cols-3 gap-4 max-w-2xl mx-auto mb-10">
                 {[
-                  "Wo du aktuell Kunden verlierst",
-                  `Wie andere ${c.nicheLabel.toLowerCase()} in ${c.city} mehr Buchungen bekommen`,
+                  "Wo dein Profil Chancen verschenkt",
+                  "Worauf es bei der lokalen Suche ankommt",
                   "Was konkret verbessert werden kann"
                 ].map((item, i) => (
                   <div key={i} className="flex items-center gap-2 bg-card rounded-xl p-4 border border-border/50">
@@ -447,7 +420,7 @@ const NicheLandingPage = ({ config: c }: Props) => {
               <span className="flex items-center gap-1.5"><Check className="w-4 h-4" /> 30 Tage Garantie</span>
             </div>
             <p className="mt-8 text-xs opacity-50">
-              <Link to="/" className="hover:underline">Local Dominator</Link> · Marketing für {c.nicheLabel.toLowerCase()} in {c.city}
+              <Link to="/" className="hover:underline">LocalDominate</Link> · Marketing für {c.nicheLabel.toLowerCase()} in {c.city}
             </p>
           </div>
         </section>

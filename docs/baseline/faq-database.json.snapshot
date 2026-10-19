@@ -1,33 +1,48 @@
 {
-  "version": "1.0",
-  "lastUpdated": "2026-01-12",
+  "version": "2.0",
+  "lastUpdated": "2026-10-15",
   "language": "de-DE",
-  "source": "Local Dominator",
+  "source": "LocalDominate",
   "website": "https://localdominate.org",
+  "note": "Answers are taken from the published articles (each entry names its page) and from the company facts on /services and /about. No figures without a source on the linked page.",
   "categories": [
     {
-      "name": "Pricing & Service",
+      "name": "Angebot & Konditionen",
       "faqs": [
         {
-          "id": "price-1",
-          "question": "Was kostet Local SEO bei Local Dominator?",
-          "answer": "299 Euro einmalig. Keine monatlichen Gebühren, keine versteckten Kosten. Der Preis beinhaltet die komplette Google Maps Optimierung mit 30-Tage Geld-zurück-Garantie.",
-          "keywords": ["preis", "kosten", "local seo kosten"],
-          "lastUpdated": "2026-01-12"
+          "id": "company-1",
+          "question": "Was kostet die Zusammenarbeit mit LocalDominate?",
+          "answer": "LocalDominate nennt Startpreise für vier Angebote mit festem Umfang: Website in 5 Tagen ab 1.490 Euro, 72h Conversion / Booking Sprint ab 390 Euro, AI Automation Starter 250 Euro und Google Profile Quick-Fix 79 Euro (vollständige Optimierung 390 Euro). Für das vollständige Growth-Projekt gibt es keinen Listenpreis; Umfang und Preis stehen vor Projektstart schriftlich fest. Aktuelle Preise stehen auf localdominate.org/services.",
+          "url": "https://localdominate.org/services",
+          "lastUpdated": "2026-10-15"
         },
         {
-          "id": "price-2",
-          "question": "Gibt es eine Geld-zurück-Garantie?",
-          "answer": "Ja, wir bieten eine 30-Tage Geld-zurück-Garantie. Wenn Sie nicht zufrieden sind, erhalten Sie den vollen Betrag zurück - ohne Wenn und Aber.",
-          "keywords": ["garantie", "geld zurück", "risiko"],
-          "lastUpdated": "2026-01-12"
+          "id": "company-2",
+          "question": "Gibt es eine Geld-zurück-Garantie oder ein Ranking-Versprechen?",
+          "answer": "Nein. LocalDominate macht keine Zusagen zu Rankings oder Umsatz und nennt keine Geld-zurück-Garantie. Vor Projektbeginn stehen Umfang und Festpreis schriftlich fest. Bezahlt wird in zwei Schritten (die Hälfte mit dem Auftrag, die Hälfte bei Abnahme), eine Korrekturrunde ist enthalten. Ausnahme: Der Google Profile Quick-Fix wird vollständig mit dem Auftrag bezahlt und hat keine Korrekturrunde.",
+          "url": "https://localdominate.org/services",
+          "lastUpdated": "2026-10-15"
         },
         {
-          "id": "price-3",
-          "question": "Wie lange dauert es, bis ich Ergebnisse sehe?",
-          "answer": "Die meisten Kunden sehen erste Verbesserungen innerhalb von 2-4 Wochen. Signifikante Ranking-Verbesserungen treten typischerweise nach 4-8 Wochen auf. Im Durchschnitt verbessern sich unsere Kunden um 8 Positionen im Local Pack.",
-          "keywords": ["dauer", "ergebnisse", "zeit"],
-          "lastUpdated": "2026-01-12"
+          "id": "company-3",
+          "question": "Wie schnell gibt es Ergebnisse?",
+          "answer": "Dafür nennt LocalDominate keine Zahl: Ergebnisse hängen von Ausgangslage, Wettbewerb und Branche ab, und niemand kann eine Platzierung zusagen. Fest sind die Lieferzeiten der Angebote: Website in 5 Tagen, 72h Conversion / Booking Sprint in 72 Stunden, AI Automation Starter in 3 Tagen.",
+          "url": "https://localdominate.org/services",
+          "lastUpdated": "2026-10-15"
+        },
+        {
+          "id": "company-4",
+          "question": "Wer steckt hinter LocalDominate?",
+          "answer": "LocalDominate ist ein Growth-Studio von Markus Wimböck, betrieben von Explore Saudi Arabia Ltd, 128 City Road, London EC1V 2NX (Companies House Nr. 16902019). Die Arbeit läuft remote, Termine finden per Video auf Deutsch oder Englisch statt. LocalDominate ist nicht mit dem US-Softwareanbieter Local Dominator (localdominator.co) verbunden.",
+          "url": "https://localdominate.org/about",
+          "lastUpdated": "2026-10-15"
+        },
+        {
+          "id": "company-5",
+          "question": "Wie läuft ein Projekt bei LocalDominate ab?",
+          "answer": "Ein Projekt läuft in sieben Schritten: Diagnose, Position, Create, Build, Launch, Grow und Scale. Eine Person ist vom ersten Check bis zur Übergabe verantwortlich. Der kostenlose Check startet mit dem Link zu einem Google-Profil oder einer Website; bis zu drei konkrete Punkte kommen innerhalb von zwei Werktagen per E-Mail, ohne Verpflichtung.",
+          "url": "https://localdominate.org/approach",
+          "lastUpdated": "2026-10-15"
         }
       ]
     },
@@ -35,25 +50,53 @@
       "name": "Google Business Profile",
       "faqs": [
         {
-          "id": "gbp-1",
-          "question": "Wie kann ich mein Google Business Profil verifizieren?",
-          "answer": "Die Verifizierung erfolgt meist per Postkarte mit PIN-Code an Ihre Geschäftsadresse. Alternativ bietet Google bei manchen Unternehmen Verifizierung per Telefon, E-Mail oder Video-Anruf an. Der Prozess dauert 5-14 Tage.",
-          "keywords": ["verifizierung", "google business", "bestätigung"],
-          "lastUpdated": "2026-01-12"
+          "id": "gbp-verifizierung-fehlgeschlagen-1",
+          "question": "Kann ich bei Google eine andere Bestätigungsmethode beantragen?",
+          "answer": "Nein. Google legt fest, welche Methoden zur Wahl stehen, und Sie können das nicht ändern. Wenn mehrere angeboten werden, dürfen Sie nach einem gescheiterten Versuch eine andere nutzen.",
+          "url": "https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen",
+          "lastUpdated": "2026-10-10"
         },
         {
-          "id": "gbp-2",
-          "question": "Welche Kategorien sollte ich für mein Google Business Profil wählen?",
-          "answer": "Wählen Sie eine Hauptkategorie, die Ihr Kerngeschäft am besten beschreibt, und bis zu 9 Nebenkategorien für zusätzliche Services. Die Hauptkategorie hat den größten Einfluss auf Ihr Ranking. Beispiel: Ein Italiener wählt 'Italienisches Restaurant' als Hauptkategorie.",
-          "keywords": ["kategorien", "google business kategorien", "auswahl"],
-          "lastUpdated": "2026-01-12"
+          "id": "gbp-verifizierung-fehlgeschlagen-2",
+          "question": "Wie lang muss das Bestätigungsvideo sein?",
+          "answer": "Mindestens 30 Sekunden, live aufgenommen über das Profil auf dem Smartphone, in einem Stück und ohne Bearbeitung. Wichtiger als die Länge ist, dass Standort, Betrieb und Ihr Zugang als Verantwortlicher klar zu sehen sind.",
+          "url": "https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen",
+          "lastUpdated": "2026-10-10"
         },
         {
-          "id": "gbp-3",
-          "question": "Wie oft sollte ich Google Beiträge veröffentlichen?",
-          "answer": "Idealerweise 1-2 Beiträge pro Woche. Google Beiträge sind 7 Tage lang prominent sichtbar und können Angebote, Events oder Neuigkeiten enthalten. Regelmäßige Beiträge signalisieren Google Aktivität und Relevanz.",
-          "keywords": ["google posts", "beiträge", "frequenz"],
-          "lastUpdated": "2026-01-12"
+          "id": "google-business-kategorien-guide-1",
+          "question": "Wie viele Kategorien kann ich im Google-Unternehmensprofil wählen?",
+          "answer": "Eine Hauptkategorie ist Pflicht. Dazu kommen laut Googles Hilfe bis zu neun weitere Kategorien. Google verlangt aber, so wenige Kategorien wie möglich zu verwenden. Die Obergrenze ist also kein Ziel.",
+          "url": "https://localdominate.org/blog/google-business-kategorien-guide",
+          "lastUpdated": "2026-10-10"
+        },
+        {
+          "id": "google-business-kategorien-guide-2",
+          "question": "Kann ich eine eigene Kategorie anlegen?",
+          "answer": "Nein. Google schreibt, dass das Erstellen einer eigenen Kategorie nicht möglich ist. Fehlt die genaue Kategorie, wählen Sie eine allgemeinere, die zutrifft, und beschreiben das Besondere in Leistungen, Beschreibung und auf Ihrer Website.",
+          "url": "https://localdominate.org/blog/google-business-kategorien-guide",
+          "lastUpdated": "2026-10-10"
+        },
+        {
+          "id": "google-posts-ranking-faktor-1",
+          "question": "Verbessern Google-Beiträge mein Ranking in Google Maps?",
+          "answer": "Google sagt das nicht, jedenfalls haben wir keine Aussage gefunden. Die Hilfe zum lokalen Ranking nennt Relevanz, Entfernung und Bekanntheit und erwähnt Beiträge nicht. Ein veröffentlichter Test von Sterling Sky fand keinen messbaren Effekt. Nutzen Sie Beiträge für Ihre Kunden, nicht als Ranking-Hebel.",
+          "url": "https://localdominate.org/blog/google-posts-ranking-faktor",
+          "lastUpdated": "2026-10-13"
+        },
+        {
+          "id": "google-posts-ranking-faktor-2",
+          "question": "Wie lange bleibt ein Beitrag sichtbar?",
+          "answer": "Beiträge, die älter als sechs Monate sind, archiviert Google, sofern Sie keinen Datumsbereich festlegen. Angebote und Veranstaltungen haben ohnehin Datumsangaben. Löschen oder bearbeiten Sie Beiträge, die vorher falsch werden.",
+          "url": "https://localdominate.org/blog/google-posts-ranking-faktor",
+          "lastUpdated": "2026-10-13"
+        },
+        {
+          "id": "google-posts-ranking-faktor-4",
+          "question": "Wie oft sollte ich Beiträge veröffentlichen?",
+          "answer": "Einen Rhythmus haben wir bei Google nicht gefunden. Veröffentlichen Sie einen Beitrag, wenn es etwas Neues gibt: ein Angebot, einen Termin, eine Änderung oder eine neue Leistung. Nach unserer Einschätzung sind das für viele kleine Betriebe ein bis vier Beiträge im Monat.",
+          "url": "https://localdominate.org/blog/google-posts-ranking-faktor",
+          "lastUpdated": "2026-10-13"
         }
       ]
     },
@@ -61,25 +104,46 @@
       "name": "Bewertungen",
       "faqs": [
         {
-          "id": "reviews-1",
-          "question": "Wie bekomme ich mehr Google Bewertungen?",
-          "answer": "Die effektivsten Methoden sind: 1) Direkt nach positivem Kundenerlebnis fragen, 2) QR-Codes auf Rechnungen/Visitenkarten, 3) Follow-up E-Mails mit direktem Bewertungslink, 4) Mitarbeiter schulen zum Nachfragen. Niemals Bewertungen kaufen!",
-          "keywords": ["bewertungen bekommen", "mehr bewertungen", "rezensionen"],
-          "lastUpdated": "2026-01-12"
+          "id": "google-bewertungen-bekommen-1",
+          "question": "Darf ich Kunden für eine Google-Bewertung belohnen?",
+          "answer": "Nein. Google verbietet Zahlungen, Rabatte, kostenlose Produkte oder Leistungen als Gegenleistung für Rezensionen und entfernt solche Rezensionen. Auch Gewinnspiele, bei denen eine Bewertung die Teilnahme ist, fallen nach unserer Einschätzung darunter. Erlaubt ist die einfache Bitte ohne Gegenleistung.",
+          "url": "https://localdominate.org/blog/google-bewertungen-bekommen",
+          "lastUpdated": "2026-10-14"
         },
         {
-          "id": "reviews-2",
-          "question": "Wie reagiere ich auf negative Google Bewertungen?",
-          "answer": "Immer professionell und zeitnah (innerhalb 24-48h) antworten. Bedanken Sie sich für das Feedback, entschuldigen Sie sich für die schlechte Erfahrung, bieten Sie eine Lösung an und laden Sie zum persönlichen Gespräch ein. Niemals persönlich werden.",
-          "keywords": ["negative bewertungen", "kritik", "antworten"],
-          "lastUpdated": "2026-01-12"
+          "id": "google-bewertungen-bekommen-2",
+          "question": "Darf ich nur zufriedene Kunden um eine Bewertung bitten?",
+          "answer": "Nein. Googles Richtlinie verbietet, Kunden gezielt um positive Rezensionen zu bitten oder negative zu verhindern. Fragen Sie alle Kunden an derselben Stelle im Ablauf, unabhängig davon, wie der Kontakt verlaufen ist.",
+          "url": "https://localdominate.org/blog/google-bewertungen-bekommen",
+          "lastUpdated": "2026-10-14"
         },
         {
-          "id": "reviews-3",
-          "question": "Kann ich eine unfaire Google Bewertung löschen lassen?",
-          "answer": "Ja, wenn die Bewertung gegen Google-Richtlinien verstößt (Spam, Fake, Hassrede, irrelevant). Melden Sie die Bewertung über Ihr Google Business Profil. Google prüft die Meldung, was 1-3 Wochen dauern kann. Nicht alle Meldungen führen zur Löschung.",
-          "keywords": ["bewertung löschen", "fake bewertung", "melden"],
-          "lastUpdated": "2026-01-12"
+          "id": "google-bewertungen-bekommen-3",
+          "question": "Wo finde ich meinen Google-Bewertungslink?",
+          "answer": "Im Unternehmensprofil unter „Rezensionen lesen“ und dann „Mehr Rezensionen erhalten“. Dort kopieren Sie den Link oder speichern den QR-Code. Den QR-Code bietet Google derzeit nur im Browser am Computer an.",
+          "url": "https://localdominate.org/blog/google-bewertungen-bekommen",
+          "lastUpdated": "2026-10-14"
+        },
+        {
+          "id": "negative-google-bewertungen-1",
+          "question": "Soll ich auf jede negative Bewertung antworten?",
+          "answer": "Ja, wenn möglich. Google schreibt, dass Sie mit Antworten zeigen, dass Sie das Feedback Ihrer Kunden schätzen. Eine kurze, sachliche Antwort zeigt künftigen Kunden, wie Sie mit Problemen umgehen. Bei Spam oder Beleidigungen antworten Sie knapp und melden zusätzlich.",
+          "url": "https://localdominate.org/blog/negative-google-bewertungen",
+          "lastUpdated": "2026-10-14"
+        },
+        {
+          "id": "gbp-bewertung-loeschen-anleitung-1",
+          "question": "Kann ich eine Google-Bewertung selbst löschen?",
+          "answer": "Nein. Als Unternehmen können Sie Rezensionen melden und beantworten, aber nicht löschen. Löschen kann sie nur der Verfasser selbst. Google entfernt Rezensionen, die gegen die Richtlinien verstoßen oder aus rechtlichen Gründen nicht online bleiben dürfen.",
+          "url": "https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung",
+          "lastUpdated": "2026-10-14"
+        },
+        {
+          "id": "gbp-bewertung-loeschen-anleitung-2",
+          "question": "Wie lange dauert die Prüfung einer gemeldeten Bewertung?",
+          "answer": "Laut Google dauert die Überprüfung in der Regel mehrere Tage. Den Stand sehen Sie im Tool zum Verwalten von Bewertungen. Das Ergebnis eines Einspruchs bekommen Sie per E-Mail. Feste Fristen haben wir in Googles Hilfe nicht gefunden.",
+          "url": "https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung",
+          "lastUpdated": "2026-10-14"
         }
       ]
     },
@@ -87,32 +151,67 @@
       "name": "Local SEO Grundlagen",
       "faqs": [
         {
-          "id": "basics-1",
-          "question": "Was ist Local SEO?",
-          "answer": "Local SEO (lokale Suchmaschinenoptimierung) umfasst alle Maßnahmen, die die Sichtbarkeit eines Unternehmens in lokalen Suchergebnissen verbessern. Dazu gehören Google Maps Optimierung, Google Business Profile Management, lokale Keywords und Citations.",
-          "keywords": ["local seo definition", "was ist local seo", "lokale seo"],
-          "lastUpdated": "2026-01-12"
+          "id": "ultimate-guide-local-seo-1",
+          "question": "Was kostet Local SEO?",
+          "answer": "Die Grundlagen kosten nur Zeit: Das Unternehmensprofil ist kostenlos. Externe Hilfe reicht von einer einmaligen Korrektur bis zur laufenden Betreuung. Bei LocalDominate kostet der Profil Quick-Fix 79 € und die vollständige Profil-Optimierung 390 €, Umfang und Preis stehen vor dem Start schriftlich fest.",
+          "url": "https://localdominate.org/blog/ultimate-guide-local-seo",
+          "lastUpdated": "2026-10-12"
         },
         {
-          "id": "basics-2",
-          "question": "Was ist NAP-Konsistenz und warum ist sie wichtig?",
-          "answer": "NAP steht für Name, Address, Phone (Name, Adresse, Telefonnummer). Diese Daten müssen auf allen Online-Plattformen exakt identisch sein. Inkonsistente NAP-Daten verwirren Google und können Ihr Ranking negativ beeinflussen.",
-          "keywords": ["nap konsistenz", "name adresse telefon", "einheitlichkeit"],
-          "lastUpdated": "2026-01-12"
+          "id": "ultimate-guide-local-seo-2",
+          "question": "Wie lange dauert es, bis Local SEO wirkt?",
+          "answer": "Korrekturen an Profildaten sind oft nach Googles Prüfung sichtbar. Bis sich Positionen und Anfragen stabil verändern, vergehen meist Wochen bis Monate, je nach Wettbewerb im Ort. Garantierte Zeiträume oder Plätze kann niemand seriös zusagen.",
+          "url": "https://localdominate.org/blog/ultimate-guide-local-seo",
+          "lastUpdated": "2026-10-12"
         },
         {
-          "id": "basics-3",
-          "question": "Was ist das Google Local Pack?",
-          "answer": "Das Local Pack (auch Local 3-Pack) sind die drei lokalen Geschäftsergebnisse mit Karte, die bei lokalen Suchanfragen oberhalb der organischen Ergebnisse erscheinen. Ein Platz im Local Pack bringt signifikant mehr Klicks und Kundenanfragen.",
-          "keywords": ["local pack", "3-pack", "google maps ergebnisse"],
-          "lastUpdated": "2026-01-12"
+          "id": "ultimate-guide-local-seo-3",
+          "question": "Was ist der Unterschied zwischen SEO und Local SEO?",
+          "answer": "SEO zielt auf Suchergebnisse unabhängig vom Ort. Local SEO zielt auf Suchen mit Ortsbezug und bezieht das Google-Unternehmensprofil, die Entfernung zum Suchenden, einheitliche Firmendaten und Bewertungen ein.",
+          "url": "https://localdominate.org/blog/ultimate-guide-local-seo",
+          "lastUpdated": "2026-10-12"
         },
         {
-          "id": "basics-4",
-          "question": "Welche Faktoren beeinflussen das Google Maps Ranking?",
-          "answer": "Die drei Hauptfaktoren sind: 1) Relevanz (wie gut Ihr Profil zur Suchanfrage passt), 2) Entfernung (Nähe zum Suchenden), 3) Bekanntheit (Bewertungen, Citations, Links). Google wertet über 200 Signale für das lokale Ranking aus.",
-          "keywords": ["ranking faktoren", "google maps ranking", "algorithmus"],
-          "lastUpdated": "2026-01-12"
+          "id": "ultimate-guide-local-seo-6",
+          "question": "Kann man ein besseres lokales Ranking kaufen?",
+          "answer": "Nein. Google schreibt, dass ein besseres lokales Ranking nicht eingefordert werden kann, auch nicht gegen Bezahlung. Bezahlt werden können nur Anzeigen, die getrennt und gekennzeichnet erscheinen.",
+          "url": "https://localdominate.org/blog/ultimate-guide-local-seo",
+          "lastUpdated": "2026-10-12"
+        },
+        {
+          "id": "nap-konsistenz-local-seo-1",
+          "question": "Was bedeutet NAP?",
+          "answer": "NAP steht für Name, Address, Phone, also Firmenname, Adresse und Telefonnummer. In der Praxis gehören Website und Öffnungszeiten dazu. NAP-Konsistenz heißt, dass diese Angaben in allen Quellen gleich lauten.",
+          "url": "https://localdominate.org/blog/nap-konsistenz-local-seo",
+          "lastUpdated": "2026-10-10"
+        },
+        {
+          "id": "nap-konsistenz-local-seo-2",
+          "question": "Ist NAP-Konsistenz ein offizieller Google-Rankingfaktor?",
+          "answer": "Google nennt den Begriff nicht. Google schreibt, dass vollständige und korrekte Unternehmensinformationen die Chance erhöhen, in lokalen Ergebnissen zu erscheinen. Dass übereinstimmende Verzeichnisdaten zusätzlich helfen, ist eine verbreitete Einschätzung aus der Branche.",
+          "url": "https://localdominate.org/blog/nap-konsistenz-local-seo",
+          "lastUpdated": "2026-10-10"
+        },
+        {
+          "id": "wie-google-maps-ranking-funktioniert-1",
+          "question": "Gibt es eine feste Rangliste in Google Maps?",
+          "answer": "Eine feste Rangliste beschreibt Google nicht. Laut Maps-Hilfe werden die besten Treffer für die jeweilige Suchanfrage ermittelt, und zwar aus Relevanz, Entfernung und Bekanntheit. Suchbegriff, Ort, Filter und das Konto der suchenden Person verändern das Ergebnis.",
+          "url": "https://localdominate.org/blog/wie-google-maps-ranking-funktioniert",
+          "lastUpdated": "2026-10-12"
+        },
+        {
+          "id": "wie-google-maps-ranking-funktioniert-2",
+          "question": "Warum stehe ich auf meinem Handy oben, mein Kunde sieht mich aber nicht?",
+          "answer": "Sie suchen meist aus dem Betrieb oder dessen Nähe und haben Ihren Betrieb oft angesehen. Laut Google können gesuchte, gespeicherte und bewertete Orte in den Ergebnissen erscheinen. Ihr Kunde sucht von woanders und ohne diesen Verlauf.",
+          "url": "https://localdominate.org/blog/wie-google-maps-ranking-funktioniert",
+          "lastUpdated": "2026-10-12"
+        },
+        {
+          "id": "local-seo-ranking-faktoren-erklaert-1",
+          "question": "Was sind die wichtigsten Local SEO Ranking Faktoren?",
+          "answer": "Google nennt drei: Relevanz, Entfernung und Beliebtheit, also die Bekanntheit eines Betriebs. Eine Rangfolge oder Gewichtung veröffentlicht Google nicht. Für Ihre eigene Arbeit ist die Relevanz der direkteste Hebel, weil Sie Kategorie, Leistungen und Angaben selbst pflegen.",
+          "url": "https://localdominate.org/blog/local-seo-ranking-faktoren-erklaert",
+          "lastUpdated": "2026-10-12"
         }
       ]
     },
@@ -120,27 +219,88 @@
       "name": "Technisches SEO",
       "faqs": [
         {
-          "id": "tech-1",
-          "question": "Was ist Schema Markup für Local SEO?",
-          "answer": "Schema Markup ist strukturierter Code, der Suchmaschinen hilft, Ihre Unternehmensdaten besser zu verstehen. Für lokale Unternehmen sind LocalBusiness, OpeningHoursSpecification und AggregateRating besonders wichtig.",
-          "keywords": ["schema markup", "structured data", "json-ld"],
-          "lastUpdated": "2026-01-12"
+          "id": "schema-markup-local-seo-1",
+          "question": "Verbessert Schema Markup mein Ranking?",
+          "answer": "Google beschreibt strukturierte Daten als Hilfe, Inhalte zu verstehen, und als Voraussetzung für bestimmte Darstellungen. Eine bessere Position wird nicht versprochen. Für den Kartenblock in Maps ist das Unternehmensprofil entscheidend.",
+          "url": "https://localdominate.org/blog/schema-markup-local-seo",
+          "lastUpdated": "2026-10-14"
         },
         {
-          "id": "tech-2",
-          "question": "Wie wichtig ist Mobile-Optimierung für Local SEO?",
-          "answer": "Extrem wichtig. Über 60% der lokalen Suchen erfolgen auf Mobilgeräten. Google verwendet Mobile-First Indexing, d.h. die mobile Version Ihrer Website ist für das Ranking entscheidend. Achten Sie auf schnelle Ladezeiten und Touch-freundliche Buttons.",
-          "keywords": ["mobile optimierung", "mobile first", "responsiv"],
-          "lastUpdated": "2026-01-12"
+          "id": "schema-markup-local-seo-4",
+          "question": "Muss ich FAQ-Markup jetzt löschen?",
+          "answer": "Nein. Google schreibt, dass ungenutzte strukturierte Daten keine Probleme verursachen. Sie können das Markup entfernen, müssen es aber nicht. Den sichtbaren Fragenbereich sollten Sie behalten, wenn er Besuchern hilft.",
+          "url": "https://localdominate.org/blog/schema-markup-local-seo",
+          "lastUpdated": "2026-10-14"
+        },
+        {
+          "id": "mobile-local-seo-1",
+          "question": "Was bedeutet Mobile-First-Indexierung?",
+          "answer": "Google crawlt Ihre Seiten mit einem Smartphone-Agenten und nutzt diese mobile Version für Indexierung und Ranking. Eine eigene mobile Fassung ist nicht vorgeschrieben, Google empfiehlt sie aber dringend, am besten als responsives Design.",
+          "url": "https://localdominate.org/blog/mobile-local-seo",
+          "lastUpdated": "2026-10-10"
+        },
+        {
+          "id": "mobile-local-seo-3",
+          "question": "Brauche ich AMP für Local SEO?",
+          "answer": "Nein. Google indexiert AMP-Seiten wie andere Seiten und legt laut eigener Dokumentation dieselben Maßstäbe an, unabhängig von der Technik. Für eine lokale Website reicht eine schnelle, responsive Seite.",
+          "url": "https://localdominate.org/blog/mobile-local-seo",
+          "lastUpdated": "2026-10-10"
+        }
+      ]
+    },
+    {
+      "name": "KI-Sichtbarkeit",
+      "faqs": [
+        {
+          "id": "was-ist-geo-generative-engine-optimization-1",
+          "question": "Ist GEO dasselbe wie SEO?",
+          "answer": "Google sagt im Kern ja: Optimierung für generative KI-Suche sei Optimierung für das Sucherlebnis und damit weiterhin SEO. Bei anderen Anbietern kommen einzelne Punkte hinzu, etwa der Zugang für deren eigene Crawler wie OAI-SearchBot oder PerplexityBot. Unsere Einschätzung: Eine getrennte Disziplin mit eigenen Regeln ist GEO nach heutigem Stand nicht.",
+          "url": "https://localdominate.org/blog/was-ist-geo-generative-engine-optimization",
+          "lastUpdated": "2026-10-11"
+        },
+        {
+          "id": "chatgpt-search-lokale-unternehmen-2026-1",
+          "question": "Wie komme ich mit meinem Betrieb in die ChatGPT-Suche?",
+          "answer": "Laut OpenAI kann jede öffentliche Website in der Suche erscheinen, wenn OAI-SearchBot sie lesen darf. Eine Platzierung ist nicht garantiert. Danach helfen klare Fakten auf der Website, einheitliche Angaben in Ihren Profilen und echte Bewertungen.",
+          "url": "https://localdominate.org/blog/chatgpt-search-lokale-unternehmen-2026",
+          "lastUpdated": "2026-10-10"
+        },
+        {
+          "id": "chatgpt-search-lokale-unternehmen-2026-2",
+          "question": "Muss ich GPTBot erlauben, um in ChatGPT zu erscheinen?",
+          "answer": "Nein. GPTBot betrifft laut OpenAI Inhalte für mögliches Modelltraining. Für die Suche zählt OAI-SearchBot. Beide Einstellungen sind unabhängig voneinander, Sie können das Training sperren und die Suche erlauben.",
+          "url": "https://localdominate.org/blog/chatgpt-search-lokale-unternehmen-2026",
+          "lastUpdated": "2026-10-10"
+        },
+        {
+          "id": "schema-strategie-ai-retrieval-1",
+          "question": "Brauche ich besonderes Schema Markup, um in der Übersicht mit KI zu erscheinen?",
+          "answer": "Nein. Google schreibt, dass es für die KI-Funktionen der Suche kein besonderes schema.org-Markup gibt und keine zusätzlichen technischen Voraussetzungen. Normales, korrektes Markup, das zum sichtbaren Text passt, genügt.",
+          "url": "https://localdominate.org/blog/schema-strategie-ai-retrieval",
+          "lastUpdated": "2026-10-12"
+        },
+        {
+          "id": "ai-visibility-checklist-4",
+          "question": "Kann ich eine Nennung in ChatGPT oder Perplexity kaufen oder garantieren?",
+          "answer": "Eine Garantie kann niemand seriös geben. Sie können dafür sorgen, dass Ihre Seiten abrufbar sind, Ihre Angaben klar und überall gleich sind und echte Bewertungen und Erwähnungen entstehen. Was Dienste daraus machen, entscheiden die Anbieter.",
+          "url": "https://localdominate.org/blog/ai-visibility-checklist",
+          "lastUpdated": "2026-10-10"
+        },
+        {
+          "id": "ai-crawler-steuern-gptbot-claudebot-2026-1",
+          "question": "Verschwinde ich aus Google, wenn ich Google-Extended sperre?",
+          "answer": "Nein. Google-Extended hat laut Google keinen Einfluss auf die Aufnahme in die Google Suche und ist kein Ranking-Signal. Die Kennung steuert das Training künftiger Gemini-Modelle und die Fundierung in den Gemini-Apps und in Vertex AI.",
+          "url": "https://localdominate.org/blog/ai-crawler-steuern-gptbot-claudebot-2026",
+          "lastUpdated": "2026-10-11"
         }
       ]
     }
   ],
   "meta": {
-    "totalFaqs": 14,
-    "totalCategories": 5,
+    "totalFaqs": 37,
+    "totalCategories": 6,
     "aiUsageAllowed": true,
     "citationRequired": true,
-    "attributionFormat": "Quelle: Local Dominator (localdominate.org)"
+    "attributionFormat": "Quelle: LocalDominate (localdominate.org), URL der verlinkten Seite"
   }
 }

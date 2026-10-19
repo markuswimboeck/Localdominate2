@@ -110,7 +110,7 @@ const GoogleMapsRanking = () => {
           },
           {
             q: "Was kostet professionelle Google Maps Optimierung?",
-            a: "Professionelle Optimierung beginnt bei etwa 300€ einmalig. Bei Local Dominator erhältst du ein komplettes Optimierungspaket für 299€ mit Geld-zurück-Garantie."
+            a: "Professionelle Optimierung beginnt bei etwa 300€ einmalig. Bei LocalDominate erhältst du ein komplettes Optimierungspaket für 299€ mit Geld-zurück-Garantie."
           }
         ]
       }
@@ -207,7 +207,7 @@ const GoogleMapsRanking = () => {
           },
           {
             q: "What does professional Google Maps optimization cost?",
-            a: "Professional optimization starts at around €300 one-time. At Local Dominator, you get a complete optimization package for €299 with a money-back guarantee."
+            a: "Professional optimization starts at around €300 one-time. At LocalDominate, you get a complete optimization package for €299 with a money-back guarantee."
           }
         ]
       }

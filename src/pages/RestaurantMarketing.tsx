@@ -110,7 +110,7 @@ const RestaurantMarketing = () => {
     "description": "Professionelles Online-Marketing für Restaurants. Website, Google Maps Optimierung und digitale Präsenz zum Festpreis.",
     "provider": {
       "@type": "Organization",
-      "name": "Local Dominator"
+      "name": "LocalDominate"
     },
     "offers": {
       "@type": "Offer",

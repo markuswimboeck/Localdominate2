@@ -11,6 +11,7 @@ import {
 } from "lucide-react";
 import { motion } from "framer-motion";
 import { useLanguage } from "@/i18n/LanguageContext";
+import SEOHead from "@/components/SEOHead";
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 30 },
@@ -33,7 +34,7 @@ const t = {
     trustBullets: ["Keine Vorabkosten", "Arbeite von überall", "40 % Provision"],
     productLabel: "Das Produkt",
     productH2: "Ein simples Produkt, das jedes Unternehmen sofort versteht",
-    productSub: "Lokale Unternehmen sind stark auf Google Maps Sichtbarkeit angewiesen. Über 80 % der Kunden wählen Unternehmen aus den Top-3-Suchergebnissen.",
+    productSub: "Lokale Unternehmen sind stark auf Google Maps Sichtbarkeit angewiesen.",
     productItems: [
       "Google Business Profil Optimierung",
       "Kategorie- & Keyword-Verbesserungen",
@@ -94,9 +95,6 @@ const t = {
       "Wettbewerbsvorteil gegenüber Nachbarbetrieben",
     ],
     demandPrice: "Da der Service nur einmalig 299 € kostet, entscheiden sich viele Unternehmen schnell.",
-    testimonialLabel: "Partner-Erfolg",
-    testimonialQuote: "\u201ELocalDominate ist einer der einfachsten Services, die ich je verkauft habe. Lokale Unternehmen verstehen den Wert besserer Google Maps Sichtbarkeit sofort.\u201C",
-    testimonialAuthor: "— Vertriebspartner",
     ctaBannerH2: "Bereit, loszulegen?",
     ctaBannerSub: "Werde Teil unseres wachsenden Partnernetzwerks weltweit.",
     ctaBannerBtn: "Jetzt bewerben",
@@ -137,7 +135,7 @@ const t = {
     trustBullets: ["No upfront costs", "Work from anywhere", "40% commission"],
     productLabel: "The Product",
     productH2: "A Simple Product Businesses Understand Instantly",
-    productSub: "Local businesses depend heavily on Google Maps visibility. More than 80% of customers choose businesses from the top 3 search results.",
+    productSub: "Local businesses depend heavily on Google Maps visibility.",
     productItems: [
       "Google Business Profile optimization",
       "Category & keyword improvements",
@@ -198,9 +196,6 @@ const t = {
       "Competitive advantage against nearby businesses",
     ],
     demandPrice: "Because the service costs only €299 once, many businesses decide quickly.",
-    testimonialLabel: "Partner Success",
-    testimonialQuote: "\u201CLocalDominate is one of the easiest services I\u2019ve ever sold. Local businesses immediately understand the value of better Google Maps visibility.\u201D",
-    testimonialAuthor: "— Sales Partner",
     ctaBannerH2: "Ready to Start Earning?",
     ctaBannerSub: "Join our growing network of sales partners worldwide.",
     ctaBannerBtn: "Apply Now",
@@ -241,7 +236,7 @@ const t = {
     trustBullets: ["بدون تكاليف مسبقة", "اعمل من أي مكان", "عمولة 40%"],
     productLabel: "المنتج",
     productH2: "منتج بسيط تفهمه الأعمال فوراً",
-    productSub: "تعتمد الأعمال المحلية بشكل كبير على الظهور في خرائط Google. أكثر من 80% من العملاء يختارون الأعمال من أفضل 3 نتائج بحث.",
+    productSub: "تعتمد الأعمال المحلية بشكل كبير على الظهور في خرائط Google.",
     productItems: [
       "تحسين ملف Google Business",
       "تحسين الفئات والكلمات المفتاحية",
@@ -302,9 +297,6 @@ const t = {
       "ميزة تنافسية على الأعمال المجاورة",
     ],
     demandPrice: "لأن الخدمة تكلف $329 مرة واحدة فقط، تقرر العديد من الأعمال بسرعة.",
-    testimonialLabel: "نجاح الشركاء",
-    testimonialQuote: "\u201CLocalDominate هي واحدة من أسهل الخدمات التي بعتها على الإطلاق. الأعمال المحلية تفهم فوراً قيمة الظهور الأفضل في خرائط Google.\u201D",
-    testimonialAuthor: "— شريك مبيعات",
     ctaBannerH2: "مستعد لبدء الكسب؟",
     ctaBannerSub: "انضم إلى شبكتنا المتنامية من شركاء المبيعات حول العالم.",
     ctaBannerBtn: "تقدم الآن",
@@ -387,6 +379,14 @@ const Partner = () => {
 
   return (
     <div className="min-h-screen bg-background text-foreground">
+      <SEOHead
+        title={language === "de" ? "Partnerprogramm: bis zu 120 € pro Verkauf" : "Partner Programme: Earn up to €120 per Sale"}
+        description={language === "de"
+          ? "Empfiehl LocalDominate an lokale Unternehmen und verdiene bis zu 120 € pro Verkauf – mit Skripten, Vorlagen und Training für den Start."
+          : "Sell LocalDominate's Google Maps and local SEO service to local businesses and earn up to €120 per sale. Scripts, templates and training included."}
+        canonicalUrl="https://localdominate.org/partner"
+        lang={language === "de" ? "de" : "en"}
+      />
       {/* HERO */}
       <section className="relative overflow-hidden bg-gradient-to-br from-[hsl(var(--primary)/0.03)] via-background to-[hsl(var(--primary)/0.06)] min-h-[90vh] flex items-center">
         <div className="absolute inset-0 opacity-[0.03]" style={{
@@ -573,23 +573,6 @@ const Partner = () => {
         </div>
       </section>
 
-      {/* TESTIMONIAL */}
-      <section className="py-20 md:py-28 bg-background">
-        <div className="container max-w-4xl mx-auto px-4">
-          <motion.div initial="hidden" whileInView="visible" viewport={{ once: true, margin: "-100px" }} variants={stagger} className="text-center">
-            <motion.p variants={fadeInUp} className="text-primary font-semibold text-sm tracking-widest uppercase mb-3">{c.testimonialLabel}</motion.p>
-            <motion.div variants={fadeInUp} className="flex justify-center gap-1 mb-6">
-              {[...Array(5)].map((_, i) => (
-                <Star key={i} className="w-6 h-6 fill-primary text-primary" />
-              ))}
-            </motion.div>
-            <motion.blockquote variants={fadeInUp} className="text-xl md:text-2xl lg:text-3xl font-medium leading-relaxed italic mb-8">
-              {c.testimonialQuote}
-            </motion.blockquote>
-            <motion.p variants={fadeInUp} className="text-muted-foreground">{c.testimonialAuthor}</motion.p>
-          </motion.div>
-        </div>
-      </section>
 
       {/* CTA BANNER */}
       <section className="py-16 bg-primary">

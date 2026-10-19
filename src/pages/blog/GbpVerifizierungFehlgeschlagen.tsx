@@ -17,7 +17,7 @@ const GbpVerifizierungFehlgeschlagen: React.FC = () => {
     slug: "gbp-verifizierung-fehlgeschlagen",
     title: "Google Business Verifizierung schlägt fehl – 8 Lösungen für alle Probleme (2026)",
     metaTitle: "GBP Verifizierung fehlgeschlagen? 8 Lösungen | Guide 2026",
-    metaDescription: "Deine Google Business Verifizierung klappt nicht? Postkarte nicht erhalten, Code ungültig oder Video abgelehnt? Unser Problemlöser-Wizard zeigt dir die passende Lösung.",
+    metaDescription: "Google-Business-Verifizierung klappt nicht? Postkarte fehlt, Code ungültig oder Video abgelehnt – unser Problemlöser zeigt die passende Lösung.",
     excerpt: "Der komplette Troubleshooting-Guide für alle Google Business Verifizierungsprobleme mit interaktivem Problemlöser.",
     category: "Troubleshooting",
     readingTime: 12,

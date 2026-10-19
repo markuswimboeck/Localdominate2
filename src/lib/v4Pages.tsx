@@ -2,13 +2,30 @@ import { lazy } from "react";
 import type { ComponentType } from "react";
 import { PILLAR_BASE, PILLAR_INDEX, pillarPath } from "@/data/v4PillarIndex";
 import { arPath } from "@/lib/v4Locale";
+import { AUDIENCE_SLUGS, audiencePath } from "@/data/v4AudienceSlugs";
+import { DE_INDUSTRY_SLUGS, deIndustryPath } from "@/data/v4DeIndustrySlugs";
+import { V4_ARTICLE_LOADERS, V4_ARTICLE_SLUGS, v4ArticlePath } from "@/content/articles";
 
 type PageProps = { preview?: boolean };
 type PageLoader = () => Promise<{ default: ComponentType<PageProps> }>;
 
 /** The V4 pages that are prerendered at build time and hydrated in the browser (see main.tsx). */
+const loadDeIndustry: PageLoader = () => import("@/pages/v4/DeIndustryV4"); // one module serves both German industry pages
+const loadAudience: PageLoader = () => import("@/pages/v4/AudienceV4"); // one module serves all audience pages
 const loadPillar: PageLoader = () => import("@/pages/v4/PillarV4"); // one module serves all seven step pages
 const loadArPillar: PageLoader = () => import("@/pages/v4/ar/PillarAr"); // Arabic step pages, one module as well
+
+/** A migrated blog article: the shared page module plus the article's own data file. */
+const loadArticle =
+  (slug: string): PageLoader =>
+  async () => {
+    const [{ default: ArticleV4 }, article] = await Promise.all([
+      import("@/pages/v4/ArticleV4"),
+      V4_ARTICLE_LOADERS[slug](),
+    ]);
+    const Page = () => <ArticleV4 article={article} />;
+    return { default: Page };
+  };
 
 const LOADERS: Record<string, PageLoader> = {
   "/": () => import("@/pages/v4/HomeV4"),
@@ -29,8 +46,13 @@ const LOADERS: Record<string, PageLoader> = {
   "/ar/industries": () => import("@/pages/v4/ar/IndustriesAr"),
   "/ar/creators": () => import("@/pages/v4/ar/CreatorsAr"),
   "/ar/start-a-project": () => import("@/pages/v4/ar/StartProjectAr"),
+  "/ai": () => import("@/pages/v4/AiV4"),
+  "/de/ki": () => import("@/pages/v4/AiDeV4"),
+  ...Object.fromEntries(DE_INDUSTRY_SLUGS.map((slug) => [deIndustryPath(slug), loadDeIndustry])),
   ...Object.fromEntries(PILLAR_INDEX.map((p) => [pillarPath(p.id), loadPillar])),
   ...Object.fromEntries(PILLAR_INDEX.map((p) => [arPath(pillarPath(p.id)), loadArPillar])),
+  ...Object.fromEntries(AUDIENCE_SLUGS.map((slug) => [audiencePath(slug), loadAudience])),
+  ...Object.fromEntries(V4_ARTICLE_SLUGS.map((slug) => [v4ArticlePath(slug), loadArticle(slug)])),
 };
 
 // Keyed by loader, so pages that share a module (the seven step pages) share one entry.

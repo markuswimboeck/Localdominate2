@@ -362,7 +362,7 @@ export const ANCHORS = {
 } as const;
 
 export const SEO_DE = {
-  /** SEOHead hängt „ | Local Dominator“ an (zusammen 55 Zeichen). */
+  /** SEOHead hängt „ | LocalDominate“ an (zusammen 55 Zeichen). */
   title: "Direktbuchung & Google-Profil in DACH",
   description:
     "Eigene Buchungsseite für Hotels und Ferienvermieter, Google-Profil für Handwerker. Umfang und Preis schriftlich vor dem Start. Kostenlosen Check anfordern.",

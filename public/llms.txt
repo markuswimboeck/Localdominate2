@@ -1,12 +1,12 @@
 # LocalDominate
 
-> LocalDominate is a growth studio run by Markus Wimböck. It plans, builds and markets brand, website and Google presence as one project in seven steps (Diagnose, Position, Create, Build, Launch, Grow, Scale), for hotels, holiday rentals, trades, premium local services and creators. Scope and price are agreed in writing before any work starts. LocalDominate is operated by Explore Saudi Arabia Ltd, 128 City Road, London EC1V 2NX, United Kingdom (Companies House no. 16902019). Earlier name: Local Dominator.
+> LocalDominate is a growth studio run by Markus Wimböck. It plans, builds and markets brand, website and Google presence as one project in seven steps (Diagnose, Position, Create, Build, Launch, Grow, Scale), for hotels, holiday rentals, trades, premium local services and creators. Scope and price are agreed in writing before any work starts. LocalDominate is operated by Explore Saudi Arabia Ltd, 128 City Road, London EC1V 2NX, United Kingdom (Companies House no. 16902019). LocalDominate is not affiliated with Local Dominator (localdominator.co), a US local SEO software company.
 
 The canonical website is https://localdominate.org. The main pages are in British English; the page /de is in German, and the blog and the SEO lexicon are mostly German.
 
 ## Facts
 
-- Name: LocalDominate (also written Local Dominator, LocalDominate.org). Legal entity: Explore Saudi Arabia Ltd.
+- Name: LocalDominate (website LocalDominate.org). Not affiliated with Local Dominator (localdominator.co). Legal entity: Explore Saudi Arabia Ltd.
 - Founder: Markus Wimböck, over seven years in hospitality and digital marketing. One person is responsible for each project from the first check to the hand-over. Works remotely, meetings by video in German or English.
 - Contact: info@localdominate.org, or the free check at https://localdominate.org/start-a-project (reply by email within two working days, no obligation).
 - Terms: scope and a fixed price in writing before work starts; paid in two steps (half with the order, half on acceptance), one revision round included; the website and the Google profile belong to the client; ongoing care can be cancelled monthly; no promises about rankings or revenue. Exception: the Google Profile Quick-Fix is paid in full with the order and has no revision round.
@@ -19,6 +19,15 @@ The canonical website is https://localdominate.org. The main pages are in Britis
 - [Services](https://localdominate.org/services): Four fixed-price offers and the full growth project (prices below).
 - [Work](https://localdominate.org/work): Selected projects, each labelled for what it is.
 - [Industries](https://localdominate.org/industries): Hotels and guesthouses, holiday rentals, trades, premium local services.
+- [Hotels and guesthouses](https://localdominate.org/industries/hotels): Direct-booking websites and Google hotel profiles for owner-run hotels.
+- [Holiday rentals](https://localdominate.org/industries/holiday-rentals): One direct-booking website for hosts with several properties.
+- [Trades](https://localdominate.org/industries/trades): Google profiles with service area and one page per high-value job.
+- [Restaurants and cafés](https://localdominate.org/industries/restaurants): Google profile with menu, hours and reservation links; menu as text.
+- [Hair and beauty salons](https://localdominate.org/industries/hair-salons): Google profile with every service, website with prices as text, a page per service and online booking. Example site: https://localdominate.org/salon-demo/ (fictional salon).
+- [Gyms and fitness studios](https://localdominate.org/industries/fitness-studios): Right Google category, timetable and prices as text, trial-session page, cancellation button where required. Example site: https://localdominate.org/gym-demo/ (fictional gym).
+- [Practices and firms](https://localdominate.org/industries/practices): Profiles per location and pages for medical, dental, law and tax practices.
+- [Online stores](https://localdominate.org/industries/online-stores): Shopify stores, product pages, checkout and purchase tracking.
+- [AI consulting](https://localdominate.org/ai): Which tasks AI can take off a team, and the workflows built for it. Free AI task check; AI Potential Audit 1,490 EUR (credited in full against a Sprint or the System booked within 60 days; free if it finds less than 10 hours a week of work AI can do or draft); Claude Team Onboarding 2,900 EUR for up to 10 people; Workflow Sprint from 4,900 EUR; AI Operating System from 9,900 EUR; AI Care from 690 EUR per month. Net prices. LocalDominate is independent, not an Anthropic partner. German version: https://localdominate.org/de/ki
 - [Creators](https://localdominate.org/creators): Portfolio and media kit pages for creators.
 - [About](https://localdominate.org/about): Founder Markus Wimböck, career and working principles.
 - [Insights](https://localdominate.org/insights): Guides on local SEO, Google Business Profile, reviews and AI search (mostly German).
@@ -37,7 +46,7 @@ The canonical website is https://localdominate.org. The main pages are in Britis
 
 ## Offers and prices (as published on /services and /creators)
 
-- Website in 5 Days: from 1,490 EUR, 5 days. A direct-booking website for holiday apartments and hotels.
+- Website in 5 Days: from 1,490 EUR, 5 days. A booking-ready website: direct booking for holiday apartments and hotels, online appointments or trial sessions for salons and gyms.
 - 72h Conversion / Booking Sprint: from 390 EUR, 72 hours. One page audited, five fixes, a short written report.
 - AI Automation Starter: 250 EUR, 3 days. One workflow (one trigger, up to three steps), written down and approved first.
 - Google Profile Quick-Fix: 79 EUR (full optimisation: 390 EUR). Review and correction of a Google Business Profile.
@@ -67,12 +76,20 @@ Prices marked "from" are starting prices. Check the linked pages for the current
 
 ## Blog hubs
 
-- [Google Business Profile](https://localdominate.org/blog/google-business-profil-hub): Profile optimisation, categories, photos, posts and troubleshooting.
-- [Google Maps SEO](https://localdominate.org/blog/google-maps-seo-hub): Local ranking factors, audits and competitive analysis.
-- [AI search and GEO](https://localdominate.org/blog/ai-suche-lokale-unternehmen): Optimisation for AI Overviews, ChatGPT, Gemini and Perplexity.
-- [Reviews and reputation](https://localdominate.org/blog/bewertungen-reputation-hub): Ethical review acquisition and response guidance.
-- [Local SEO industries](https://localdominate.org/blog/local-seo-branchen-hub): Sector-specific Local SEO guidance.
-- [Local SEO cities](https://localdominate.org/blog/local-seo-staedte-hub): Regional guidance for German-speaking cities.
+Each hub links the guides on its topic (German).
+
+- [Google Business Profile](https://localdominate.org/blog/google-business-profil-hub): Setting up, categories, hours, attributes, photos, several locations and AI features of the profile.
+- [Google Maps SEO](https://localdominate.org/blog/google-maps-seo-hub): How Google sorts local results, measuring and improving rankings, competitor analysis, spam, Apple Maps and Bing.
+- [Reviews and reputation](https://localdominate.org/blog/bewertungen-reputation-hub): Asking for reviews within Google's rules, replying to criticism, reporting reviews, review stars.
+- [Profile problems](https://localdominate.org/blog/troubleshooting-hub): Suspended, unverified, duplicate or invisible profiles, with the steps Google documents for each.
+- [AI search and GEO](https://localdominate.org/blog/ai-zukunft-hub): AI Overviews, AI Mode, ChatGPT, Perplexity, Claude, Copilot, AI crawlers, llms.txt and measuring AI visibility.
+- [Technical local SEO](https://localdominate.org/blog/technisches-seo-hub): Structured data, mobile website, page speed, location pages, voice search and AI crawlers.
+- [Content and links](https://localdominate.org/blog/content-marketing-hub): Local keywords, content planning, local links, business listings and further channels.
+- [Templates and checklists](https://localdominate.org/blog/tools-ressourcen-hub): Audit, keyword list, listings log, ranking tracker, monthly routine, 12-week plan and free tools.
+- [Local SEO by industry](https://localdominate.org/blog/local-seo-branchen-hub): Guides for hotels, hospitality, trades, practices, law and tax firms, studios and services.
+- [Local SEO by city and country](https://localdominate.org/blog/local-seo-staedte-hub): Germany, Austria and Switzerland, plus Berlin, Hamburg, Munich, Vienna, Zurich and other cities.
+- [Case studies](https://localdominate.org/blog/case-studies-hub): How to check local SEO case studies and document your own results without invented figures.
+- [Frequently asked questions](https://localdominate.org/blog/faq-hub): Short answers to common local SEO questions with links to the full guides.
 
 ## Citation
 

@@ -111,6 +111,7 @@ const ABTestDashboard = () => {
   if (authLoading) {
     return (
       <div className="flex min-h-screen items-center justify-center">
+        <SEOHead title="A/B Test Dashboard - LocalDominate" description="Internes A/B Test Dashboard" noindex={true} />
         <div className="text-center">
           <div className="h-8 w-8 animate-spin rounded-full border-4 border-primary border-t-transparent mx-auto mb-4" />
           <p className="text-muted-foreground">Lade...</p>
@@ -122,19 +123,27 @@ const ABTestDashboard = () => {
   // Login Screen
   if (!user) {
     return (
-      <AdminLoginScreen
-        onLogin={signIn}
-        isLoading={authLoading}
-        error={authError}
-        title="A/B Test Dashboard"
-        description="Bitte melde dich mit deinem Admin-Konto an"
-      />
+      <>
+        <SEOHead title="A/B Test Dashboard - LocalDominate" description="Internes A/B Test Dashboard" noindex={true} />
+        <AdminLoginScreen
+          onLogin={signIn}
+          isLoading={authLoading}
+          error={authError}
+          title="A/B Test Dashboard"
+          description="Bitte melde dich mit deinem Admin-Konto an"
+        />
+      </>
     );
   }
 
   // Access denied for non-admins
   if (!isAdmin) {
-    return <AdminAccessDenied onSignOut={signOut} userEmail={user.email} />;
+    return (
+      <>
+        <SEOHead title="A/B Test Dashboard - LocalDominate" description="Internes A/B Test Dashboard" noindex={true} />
+        <AdminAccessDenied onSignOut={signOut} userEmail={user.email} />
+      </>
+    );
   }
 
   // Color A/B Test Analysis
@@ -261,7 +270,7 @@ const ABTestDashboard = () => {
     <TooltipProvider>
       <div className="min-h-screen bg-background p-4 md:p-8">
         <SEOHead 
-          title="A/B Test Dashboard - Local Dominator"
+          title="A/B Test Dashboard - LocalDominate"
           description="Internes A/B Test Dashboard"
           noindex={true}
         />

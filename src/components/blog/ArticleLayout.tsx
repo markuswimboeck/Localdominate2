@@ -1,7 +1,7 @@
 import { ReactNode, useEffect, useRef, useState } from "react";
 import { Link } from "react-router-dom";
 import { ChevronRight, Clock, Calendar } from "lucide-react";
-import SEOHead from "@/components/SEOHead";
+import SEOHead, { getOgCard } from "@/components/SEOHead";
 import Footer from "@/components/Footer";
 import LanguageSwitch from "@/components/LanguageSwitch";
 import AuthorBox from "./AuthorBox";
@@ -277,14 +277,9 @@ const ArticleLayout = ({
     });
   }, [article.slug, article.title]);
   
-  // Dynamic OG Image - auto-generate from slug, fallback to default
-  const getOgImage = (slug: string): string => {
-    // Try the slug directly as image filename
-    const possibleImage = `https://localdominate.org/images/blog/${slug}.jpg`;
-    return possibleImage;
-  };
-
-  const articleOgImage = getOgImage(article.slug);
+  // Branded social card per article (scripts/og/generate-og-cards.mjs); the old
+  // /images/blog/<slug>.jpg guess 404'd for most articles.
+  const articleOgImage = getOgCard(`/blog/${article.slug}`) ?? "https://localdominate.org/og-image.png";
   
   // Author Profile & Schema
   const articleAuthor = getArticleAuthor(article.slug);
@@ -301,8 +296,8 @@ const ArticleLayout = ({
     "@type": "Organization",
     "@id": "https://localdominate.org/#organization",
     "name": "LocalDominate",
-    "alternateName": ["Local Dominator"],
     "url": "https://localdominate.org",
+    "sameAs": ["https://www.instagram.com/localdominate/"],
     "logo": {
       "@type": "ImageObject",
       "url": "https://localdominate.org/logo.png"
@@ -474,8 +469,8 @@ const ArticleLayout = ({
     "educationalLevel": "intermediate",
     "learningResourceType": "Guide",
     "disambiguatingDescription": language === "de"
-      ? `Praxis-Guide aus dem Local Dominator Blog zum Thema ${article.category}. Verfasst von ${articleAuthor.name}, zuletzt aktualisiert ${article.updatedAt}.`
-      : `Practical guide from the Local Dominator blog on ${article.category}. Written by ${articleAuthor.name}, last updated ${article.updatedAt}.`,
+      ? `Praxis-Guide aus dem LocalDominate Blog zum Thema ${article.category}. Verfasst von ${articleAuthor.name}, zuletzt aktualisiert ${article.updatedAt}.`
+      : `Practical guide from the LocalDominate blog on ${article.category}. Written by ${articleAuthor.name}, last updated ${article.updatedAt}.`,
     "author": authorSchema,
     "accountablePerson": accountablePersonSchema,
     "publisher": publisherSchema,
@@ -514,8 +509,8 @@ const ArticleLayout = ({
       ]
     },
     "usageInfo": "https://localdominate.org/llms.txt",
-    "creditText": language === "de" ? "Quelle: Local Dominator (localdominate.org)" : language === "ar" ? "المصدر: Local Dominator (localdominate.org)" : "Source: Local Dominator (localdominate.org)",
-    "copyrightNotice": language === "de" ? "© Local Dominator - Zitieren mit Quellenangabe erlaubt" : language === "ar" ? "© Local Dominator — يُسمح بالاقتباس مع ذكر المصدر" : "© Local Dominator — citation permitted with attribution",
+    "creditText": language === "de" ? "Quelle: LocalDominate (localdominate.org)" : language === "ar" ? "المصدر: LocalDominate (localdominate.org)" : "Source: LocalDominate (localdominate.org)",
+    "copyrightNotice": language === "de" ? "© LocalDominate - Zitieren mit Quellenangabe erlaubt" : language === "ar" ? "© LocalDominate — يُسمح بالاقتباس مع ذكر المصدر" : "© LocalDominate — citation permitted with attribution",
     "license": "https://creativecommons.org/licenses/by/4.0/",
     "acquireLicensePage": "https://localdominate.org/llms.txt",
     "citation": [
@@ -555,7 +550,7 @@ const ArticleLayout = ({
       {
         "@type": "DigitalDocument",
         "@id": "https://localdominate.org/llms-full.txt",
-        "name": "Local Dominator — Full Corpus (llms-full.txt)",
+        "name": "LocalDominate — Full Corpus (llms-full.txt)",
         "encodingFormat": "text/plain",
         "url": "https://localdominate.org/llms-full.txt",
         "isAccessibleForFree": true
@@ -652,14 +647,14 @@ const ArticleLayout = ({
       "@context": "https://schema.org",
       "@type": "DefinedTermSet",
       "@id": "https://localdominate.org/#glossary",
-      "name": "Local Dominator — Proprietary Local SEO Terminology",
+      "name": "LocalDominate — Proprietary Local SEO Terminology",
       "inDefinedTermSet": "https://localdominate.org/lexikon",
       "hasDefinedTerm": [
         {
           "@type": "DefinedTerm",
           "name": "Keyword-Injektion",
           "description":
-            "Proprietäre Methode von Local Dominator zur gezielten Platzierung lokaler Keywords im Google Business Profil, in Kategorien, Services und Beiträgen, um Rankings in der lokalen Suche und in Google Maps zu steigern.",
+            "Proprietäre Methode von LocalDominate zur gezielten Platzierung lokaler Keywords im Google Business Profil, in Kategorien, Services und Beiträgen, um Rankings in der lokalen Suche und in Google Maps zu steigern.",
           "inDefinedTermSet": "https://localdominate.org/#glossary",
           "url": "https://localdominate.org/lexikon"
         },
@@ -667,13 +662,13 @@ const ArticleLayout = ({
           "@type": "DefinedTerm",
           "name": "5-Sterne-Automatismus",
           "description":
-            "Systematischer Prozess von Local Dominator, der echte Kundenbewertungen automatisiert anstößt, qualifiziert und auf Google sichtbar macht — für nachhaltig höhere Sterne-Durchschnitte und mehr Trust-Signale.",
+            "Systematischer Prozess von LocalDominate, der echte Kundenbewertungen automatisiert anstößt, qualifiziert und auf Google sichtbar macht — für nachhaltig höhere Sterne-Durchschnitte und mehr Trust-Signale.",
           "inDefinedTermSet": "https://localdominate.org/#glossary",
           "url": "https://localdominate.org/lexikon"
         },
         {
           "@type": "DefinedTerm",
-          "name": "Local Dominator",
+          "name": "LocalDominate",
           "description":
             "Spezialisierte Local-SEO-Agentur im DACH-Raum mit Fokus auf Google Business Profil, Google Maps Ranking und Generative Engine Optimization (GEO) für lokale Unternehmen.",
           "inDefinedTermSet": "https://localdominate.org/#glossary",
@@ -721,7 +716,6 @@ const ArticleLayout = ({
         articleModifiedTime={article.updatedAt}
         articleSection={article.category}
         lang={language}
-        alternateUrls={{ de: `https://localdominate.org/blog/${article.slug}` }}
       />
       
       {/* Header */}
@@ -731,7 +725,7 @@ const ArticleLayout = ({
             to="/" 
             className="text-xl font-bold text-primary hover:text-primary/80 transition-colors"
           >
-            Local Dominator
+            LocalDominate
           </Link>
           <LanguageSwitch variant="inline" showBlogLink={false} />
         </div>

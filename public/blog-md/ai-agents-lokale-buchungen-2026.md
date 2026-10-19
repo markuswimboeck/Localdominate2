@@ -1,72 +1,216 @@
 ---
-title: "AI Agents 2026: Wie Operator, ChatGPT Agent & Gemini lokale Buchungen autonom erledigen"
+title: "KI-Agenten, die buchen und anrufen: Was es gibt, wo es funktioniert und was lokale Betriebe vorbereiten sollten"
 slug: ai-agents-lokale-buchungen-2026
 url: https://localdominate.org/blog/ai-agents-lokale-buchungen-2026
 canonical: https://localdominate.org/blog/ai-agents-lokale-buchungen-2026
 markdown_url: https://localdominate.org/blog-md/ai-agents-lokale-buchungen-2026.md
 language: de-DE
 published: 2026-05-22
-updated: 2026-05-22
+updated: 2026-10-12
 reading_time_minutes: 13
-category: "AI & Zukunft"
-author: Local Dominator
-publisher: Local Dominator
-license: https://creativecommons.org/licenses/by/4.0/
-keywords: ["ai agents local seo", "openai operator local", "chatgpt agent buchung", "gemini agent local", "perplexity comet browser", "agent ready website", "reservation schema dach"]
-area_served: [Deutschland, Österreich, Schweiz]
-ai_crawler_notice: "Kanonische, maschinenlesbare Fassung des Artikels. Zitate mit Quellenangabe + URL erwünscht."
+category: "KI-Agenten"
+author: LocalDominate Redaktion
+accountable: Markus Wimböck
+publisher: LocalDominate
+description: "Welche KI-Agenten Tische reservieren, Termine buchen oder Betriebe anrufen, in welchen Ländern das geht und wie Sie Buchung und Kontakt für Agenten vorbereiten."
 ---
 
-# AI Agents 2026: Wie Operator, ChatGPT Agent & Gemini lokale Buchungen autonom erledigen
+# KI-Agenten, die buchen und anrufen: Was es gibt, wo es funktioniert und was lokale Betriebe vorbereiten sollten
 
-**TL;DR:** Wie autonome AI Agents lokale Buchungen durchführen — und wie du Webseite, Schema und Buchungspfad systematisch agent-ready machst. Mit Plattform-Vergleich, Ranking-Signalen und 7-Schritte-Plan.
+Für Inhaber von Restaurants, Praxen, Salons, Hotels und Handwerksbetrieben, die wissen wollen, ob KI-Assistenten schon heute im Namen ihrer Kunden buchen oder anrufen. Sie erfahren, was Google, OpenAI, Microsoft, Perplexity und Anthropic dokumentieren, was davon in Deutschland, Österreich und der Schweiz verfügbar ist und wie Sie Buchung und Kontakt so einrichten, dass Mensch und Agent gleichermaßen durchkommen.
 
-## Kernpunkte
+## Die kurze Antwort
 
-- AI Agents (Operator, ChatGPT Agent, Gemini, Comet) führen 2026 messbare Anteile lokaler Buchungen autonom durch
-- Agents bewerten Seiten anhand strukturierter Daten, semantischem HTML und Buchungs-Erreichbarkeit
-- LocalBusiness-, Reservation- und Service-Schema sind Pflicht — JSON-LD ist die primäre Lesequelle
-- CAPTCHAs, reine JS-Formulare und unklare CTAs sind die häufigsten Abbruchgründe
-- Externe Buchungstools (Doctolib, OpenTable, Treatwell) sind oft bereits agent-ready
-- Agent-Traffic ist über Server-Logs und User-Agents (ChatGPT-User, PerplexityBot, GPTBot) messbar
+KI-Agenten, die Tische reservieren, Termine suchen oder Betriebe anrufen, gibt es bei Google, OpenAI, Microsoft, Perplexity und Anthropic. Die meisten Buchungs- und Anruffunktionen starten in den USA oder Großbritannien. Für Deutschland, Österreich und die Schweiz ist vieles nicht angekündigt oder ausdrücklich ausgeschlossen. Vorbereiten können Sie sich trotzdem: mit einem Online-Buchungsweg, klaren Kontaktdaten und einer Website, die ohne Hürden bedienbar ist.
 
-## Inhalt des Artikels
+## Das Wichtigste in Kürze
 
-1. Warum AI Agents 2026 zum Buchungskanal werden
-2. Operator, ChatGPT Agent & Gemini im Vergleich
-3. Wie ein Agent eine lokale Buchung durchführt
-4. Welche Signale Agents priorisieren
-5. 7-Schritte-Plan: agent-ready werden
-6. Agent-Traffic messen
-7. 5 Fehler, die Agents abbrechen lassen
-8. FAQ
+- Google sucht im KI-Modus freie Restauranttische und verlinkt zur Buchung bei Partnern, aber nur in den USA und seit dem 10. April 2026 in Großbritannien. Für DACH haben wir bis zum 11. Oktober 2026 keine Ankündigung gefunden.
+- Automatische Anrufe von Google im Auftrag von Kunden gibt es laut Google nur in den USA, und dort nicht in allen Bundesstaaten. Im Unternehmensprofil lassen sie sich unter den erweiterten Einstellungen abschalten.
+- ChatGPT zeigt seit dem 10. August 2026 in den Tarifen für Privatnutzer freie Tische bei OpenTable (weltweit), Resy (USA) und Yelp (USA und Kanada), laut OpenAI nicht in Business, Enterprise und Edu. Nutzer wählen eine Uhrzeit und buchen.
+- Gemini Spark steuert Chrome für Aufgaben wie Tischreservierungen, ist aber im Europäischen Wirtschaftsraum und in der Schweiz nicht verfügbar.
+- Kein Anbieter dokumentiert, nach welchen Kriterien ein Agent einen Betrieb auswählt. Listen mit „Agenten-Rankingfaktoren“ sind nicht belegt.
 
-## Fragen und Antworten
+## Was ein KI-Agent ist und was ihn von der KI-Suche unterscheidet
 
-### Was sind AI Agents im Local-SEO-Kontext?
+Ein KI-Agent beantwortet nicht nur Fragen, sondern erledigt im Auftrag des Nutzers Schritte: Websites öffnen, Formulare ausfüllen, Verfügbarkeiten prüfen oder einen Betrieb anrufen. Vor Zahlungen und verbindlichen Buchungen fragen die Agenten laut Anbieter nach, Zahlungsdaten gibt in der Regel der Nutzer selbst ein.
 
-AI Agents sind autonome Assistenten (OpenAI Operator, ChatGPT Agent Mode, Google Gemini Agents, Perplexity Comet), die im Auftrag von Nutzern Webseiten bedienen, Formulare ausfüllen und Buchungen abschließen. Für lokale Unternehmen heißt das: 2026 entscheidet nicht nur ein Mensch über die Buchung, sondern ein Software-Agent, der Webseite, Buchungssystem und Bewertungen automatisch auswertet — innerhalb von Sekunden.
+Die KI-Suche, etwa die Übersicht mit KI oder die Suche in ChatGPT, liefert eine Antwort mit Quellen. Ein Agent geht einen Schritt weiter. Er führt eine Aufgabe aus, etwa „Finde für Samstag 19 Uhr einen Tisch für vier Personen in Salzburg“. Dafür nutzt er einen von drei Wegen: einen **Buchungspartner** wie OpenTable, dessen freie Zeiten er anzeigt, einen **Browser**, in dem er Ihre Website wie ein Mensch bedient, oder, bei Google in den USA, einen **automatischen Telefonanruf**.
 
-### Welche AI Agents sind 2026 für DACH-Unternehmen relevant?
+## Überblick: Welche Agenten es gibt und in welchen Ländern
 
-Vier zentrale Systeme: 1) OpenAI Operator und ChatGPT Agent Mode (führt Aufgaben im Browser aus, nutzt Bing-Index). 2) Google Gemini Agents in Android, Chrome und Workspace (nutzt Google Business Profil). 3) Perplexity Comet Browser (nutzt eigenen Crawler plus Wikipedia/Wikidata). 4) Anthropic Claude mit Computer Use. Alle vier können Termine vereinbaren, Tische reservieren und Bestellungen aufgeben — wenn deine Webseite es zulässt.
+Stand 11. Oktober 2026 ist die Verfügbarkeit sehr unterschiedlich. ChatGPT und Claude in Chrome nennen keine Ausnahme für DACH. Googles Buchungs- und Anruffunktionen sind auf die USA und Großbritannien beschränkt, Gemini Spark schließt den Europäischen Wirtschaftsraum und die Schweiz ausdrücklich aus.
 
-### Wie unterscheidet sich Agent-Traffic von normalem Traffic?
+*Agenten-Funktionen und ihre dokumentierte Verfügbarkeit (geprüft am 11. Oktober 2026)*
 
-Agent-Traffic kommt mit erkennbaren User-Agents (ChatGPT-User, GPTBot/Operator, Google-Extended, PerplexityBot), liest sehr schnell mehrere Seiten und folgt strukturierten Daten statt visuellem Layout. Agents überspringen Hero-Bilder, lesen JSON-LD, Buttons mit klaren Labels und ARIA-Attribute. Wer rein visuell baut (Image-Slider, JS-only-Formulare), verliert Agent-Buchungen — der Agent bricht ab, bevor der Nutzer es merkt.
+| Funktion | Was sie für lokale Betriebe tut | Wo verfügbar laut Anbieter | Tarif |
+| --- | --- | --- | --- |
+| Google KI-Modus: Restaurantbuchung | Sucht passende Tische und verlinkt zur Buchung beim Partner | USA; Großbritannien seit 10. April 2026 | Keine Angabe |
+| Google KI-Modus: Labs-Experiment | Reservierungen, Veranstaltungstickets, Termine für Beauty und Wellness | USA | Google AI Pro oder Ultra |
+| Google: Preise bei Betrieben abfragen | Ruft mehrere Betriebe an und schickt die Angebote per E-Mail | USA, Englisch, angemeldet, ab 18 | Keine Angabe |
+| Gemini Spark mit Chrome | Erledigt Aufgaben im Browser, etwa Tischreservierungen | Nicht im EWR, in der Schweiz, in Großbritannien und Nigeria; Chrome-Steuerung zunächst USA | Google AI Pro oder Ultra |
+| ChatGPT: Restaurant-Reservierung | Zeigt freie Zeiten, Buchung beim Partner | OpenTable weltweit, Resy USA, Yelp USA und Kanada | Tarife für Privatnutzer, nicht Business, Enterprise, Edu |
+| ChatGPT Work | Agent für längere Aufgaben mit eigenem Browser | Alle unterstützten Regionen, dazu gehören Deutschland, Österreich, Schweiz | Bezahltarife außer Go |
+| Microsoft Copilot Actions | Aufgaben wie Tischreservierungen im Hintergrund | Je nach Plattform, Markt und Sprache; keine Länderliste | Keine Angabe |
+| Perplexity mit OpenTable | Laut TechRadar Schaltfläche „Reserve“ bei verfügbaren Restaurants | Keine Länderangabe gefunden | Keine Angabe |
+| Claude in Chrome | Liest Seiten, klickt, füllt Formulare aus | Keine Länderausnahme genannt | Alle Bezahltarife |
 
-### Welche technischen Voraussetzungen brauche ich, damit Agents buchen können?
+Was in den Apps erscheint, kann abweichen, weil Funktionen schrittweise ausgerollt werden. Welche KI-Dienste lokale Betriebe überhaupt nennen, beschreibt [KI-Suche für lokale Unternehmen](https://localdominate.org/blog/ai-suche-lokale-unternehmen).
 
-Fünf Pflicht-Bausteine: 1) Buchungsformular ohne JS-Dependency-Wall (server-rendered Forms oder Progressive Enhancement). 2) ARIA-Labels und semantisches HTML (button statt div). 3) LocalBusiness- und Reservation-Schema. 4) Klare CTAs mit eindeutigem Label ("Tisch reservieren", nicht "Jetzt klicken"). 5) Keine CAPTCHAs auf dem Hauptpfad — sonst verliert der Agent. Externe Buchungstools (OpenTable, Treatwell, Doctolib) sind oft bereits agent-ready.
+## Google: Buchen und Anrufen im KI-Modus
 
-### Wie wähle ich aus, welcher Anbieter empfohlen wird?
+Google bietet im KI-Modus Restaurantbuchungen über Partner in den USA und in Großbritannien an, weitere Buchungsarten nur im US-Labs-Experiment. Automatische Anrufe bei Betrieben, um Preise und Verfügbarkeit zu erfragen, gibt es laut Google nur in den USA.
 
-Agents wählen anhand von vier Hauptkriterien: 1) Verfügbarkeit in Echtzeit (Termin-API erreichbar). 2) Bewertungssentiment in den Hauptquellen (Google, Yelp, Tripadvisor, Doctolib). 3) Strukturierte Daten (LocalBusiness, Service, OpeningHours, AggregateRating). 4) Erreichbarkeit (Klick-zu-Buchung ≤ 3 Schritte). Wer alle vier Felder vollständig hat, wird gegenüber Konkurrenz mit weißen Flecken bevorzugt — selbst bei schlechterer Klassikposition.
+Am 10. April 2026 hat Google die Restaurantbuchung im KI-Modus in Großbritannien gestartet. Nutzer beschreiben ihren Wunsch, etwa Gruppengröße oder Ernährungsbedürfnisse, und bekommen eine Auswahl mit direkten Links. Abgeschlossen wird die Buchung bei Partnern wie TheFork, SevenRooms, ResDiary, Mozrest, Foodhub, Dojo, DesignMyNight und OpenTable. In den USA gibt es zusätzlich ein Experiment in Search Labs für Abonnenten von Google AI Pro und Ultra, das auch Veranstaltungstickets und Termine für Beauty und Wellness abdeckt.
 
-### Wie messe ich, ob Agents auf meiner Seite buchen?
+Die Anruffunktion beschreibt Google so: Google kontaktiert Betriebe im Auftrag des Nutzers, um Verfügbarkeit und Preise zu prüfen, und schickt die Angebote per E-Mail. Als Beispiele nennt Google Autowerkstatt, Friseur, Hundesalon, Wellness-Center und Fahrschule. Gebucht wird dabei nicht automatisch. Verfügbar ist das auf Englisch für angemeldete Nutzer ab 18 Jahren in den USA.
 
-Drei Quellen: 1) Server-Logs nach Agent-User-Agents filtern (ChatGPT-User, GPTBot, PerplexityBot, Google-Extended, ClaudeBot). 2) Buchungssystem-Auswertung: Anteil Buchungen ohne klassisches UTM oder Referer. 3) Manuelle Test-Buchungen über Operator oder Comet mit Top-Keywords. Steigender Anteil von Direkt- oder Agent-Traffic bei stabilem Such-Traffic ist der zuverlässigste Indikator.
+### Anrufe von Google im Unternehmensprofil steuern
 
-## Quelle
+Laut Hilfe zum Unternehmensprofil kann Google Betriebe auch anrufen, um Angaben wie Öffnungszeiten zu bestätigen, und Informationen aus solchen Gesprächen ins Profil übernehmen. Anrufe im Auftrag von Kunden, etwa für Terminbuchungen oder Wartezeiten, sind laut Google derzeit nur in den USA verfügbar. Abschalten lässt sich beides in den Profileinstellungen unter den erweiterten Einstellungen im Bereich für automatische Anrufe und Nachrichten von Google. Voraussetzung ist ein bestätigtes Profil.
 
-Local Dominator (2026-05-22). AI Agents 2026: Wie Operator, ChatGPT Agent & Gemini lokale Buchungen autonom erledigen. https://localdominate.org/blog/ai-agents-lokale-buchungen-2026
+> **Einschätzung:** Für Betriebe in DACH sind Anrufe im Auftrag von Kunden heute nicht relevant. Anrufe zur Bestätigung von Angaben gibt es laut Google in ausgewählten Regionen und Sprachen, ohne dass Google diese nennt. Merken Sie sich trotzdem, wo der Schalter liegt. Mehr zum KI-Modus allgemein steht in [Google KI-Modus und Local SEO](https://localdominate.org/blog/google-ai-mode-local-seo-2026).
+
+## ChatGPT: Reservierungen über Partner und ChatGPT Work
+
+ChatGPT sucht seit August 2026 in den Tarifen für Privatnutzer nach freien Restaurant-Tischen bei OpenTable (weltweit), Resy und Yelp (nur Nordamerika). Für längere Aufgaben gibt es seit Juli 2026 ChatGPT Work, das laut OpenAI inzwischen auch einen eigenen Cloud-Browser nutzt. Der frühere ChatGPT agent ist laut OpenAI-Hilfe nicht mehr verfügbar.
+
+Laut den Versionshinweisen vom 10. August 2026 hilft ChatGPT, freie Reservierungen bei OpenTable, Resy und Yelp zu finden. Nutzer wählen eine Uhrzeit und buchen. OpenTable ist laut OpenAI weltweit verfügbar, Resy nur in den USA, Yelp in den USA und Kanada. Die Versionshinweise sprachen von allen Tarifen; die OpenAI-Hilfe nennt inzwischen nur die Tarife für Privatnutzer und schließt Business, Enterprise und Edu aus. Wichtig ist der Zusatz: ChatGPT Work enthält diese Reservierungssuche nicht.
+
+ChatGPT Work ist laut OpenAI „ein Agent für längere, aufwendigere Aufgaben“. Er wurde am 9. Juli 2026 eingeführt, steht in allen unterstützten Regionen zur Verfügung und steht in den Bezahltarifen außer Go zur Verfügung. Seit dem 25. August 2026 kann Work in den Tarifen Plus und Pro auch auf Websites mit Anmeldung arbeiten. Der Nutzer gibt die Zugangsdaten selbst ein, und vor folgenreichen Handlungen wie einer Reservierung oder Zahlung fragt ChatGPT nach. Die Hilfeseite zum früheren ChatGPT agent verweist inzwischen auf Work.
+
+> **Korrektur zur früheren Fassung:** Die frühere Version dieses Artikels nannte „OpenAI Operator“ und einen Anteil von 8 bis 12 Prozent aller Online-Buchungen in DACH, die über Agenten laufen. Für diese Zahl gibt es keine Quelle, und die genannten Produkte gibt es in dieser Form nicht mehr. Auch den Browser Atlas hat OpenAI eingestellt; er sollte laut OpenAI ab dem 9. August 2026 nicht mehr funktionieren.
+
+Für Restaurants bedeutet das: Wer über OpenTable buchbar ist, kann in ChatGPT mit freien Zeiten erscheinen. Branchenbezogene Hinweise stehen in [Local SEO für Restaurants](https://localdominate.org/blog/local-seo-fuer-restaurants).
+
+## Gemini, Microsoft, Perplexity und Claude
+
+Gemini Spark kann in Chrome Aufgaben wie Tischreservierungen erledigen, ist im EWR und in der Schweiz aber nicht verfügbar. Microsoft hat Copilot Actions mit Partnern wie OpenTable angekündigt, ohne Länderliste. Perplexity bindet laut TechRadar OpenTable ein, Anthropic bietet Claude in Chrome für alle Bezahltarife an.
+
+### Gemini Spark
+
+Google beschreibt Gemini Spark als persönlichen KI-Agenten. Mit dem automatischen Browsen in Chrome auf dem Desktop kann er Aufgaben wie Einkaufen, Reisebuchungen oder Tischreservierungen erledigen. Vor Käufen und dem Absenden von Formularen fragt er nach, Zahlungsdaten gibt der Nutzer selbst auf der Website ein. Voraussetzung ist ein Abo von Google AI Pro oder Ultra. Die Hilfe nennt als Ausnahme den Europäischen Wirtschaftsraum, Nigeria, die Schweiz und Großbritannien. Damit ist Spark in Deutschland, Österreich und der Schweiz nicht nutzbar.
+
+### Microsoft Copilot
+
+Microsoft hat 2025 Copilot Actions vorgestellt: Copilot soll im Hintergrund Tickets buchen oder Tische reservieren. Als Startpartner nennt Microsoft unter anderem Booking.com, Expedia, OpenTable, Tripadvisor und Vrbo. Die Verfügbarkeit hängt laut Microsoft von Plattform, Markt und Sprache ab. Den Copilot Mode in Edge gibt es laut Microsoft in allen Copilot-Märkten für Privatnutzer. Ob Actions in Deutschland, Österreich oder der Schweiz funktioniert, konnten wir in Microsofts Unterlagen nicht finden. Hintergrund zu Bing und Copilot steht in [Bing, Copilot und Local SEO](https://localdominate.org/blog/bing-copilot-local-seo-2026).
+
+### Perplexity
+
+Laut einem Bericht von TechRadar vom August 2025 hat Perplexity das Reservierungssystem von OpenTable eingebunden. Bei verfügbaren Restaurants erscheint demnach eine Schaltfläche „Reserve“, die Buchung selbst übernimmt OpenTable. Den Browser Comet mit integriertem Assistenten gibt Perplexity seit dem 2. Oktober 2025 kostenlos ab. Länderangaben für die Reservierungsfunktion haben wir nicht gefunden. Mehr zu Perplexity steht in [Perplexity und Claude](https://localdominate.org/blog/perplexity-claude-lokale-sichtbarkeit).
+
+### Claude
+
+Anthropic beschreibt Claude in Chrome als Browser-Erweiterung, mit der Claude Websites lesen, klicken und navigieren kann, auch Formulare ausfüllen. Sie steht laut Anthropic in allen Bezahltarifen zur Verfügung, nur in Chrome und nicht auf Mobilgeräten. Buchungspartner nennt Anthropic nicht.
+
+## Was in Deutschland, Österreich und der Schweiz noch nicht verfügbar ist
+
+In DACH fehlen nach unserer Prüfung bis zum 11. Oktober 2026 Googles Buchungen im KI-Modus, Googles automatische Anrufe und Gemini Spark. Verfügbar sind vor allem Browser-Agenten wie ChatGPT Work und Claude in Chrome sowie die OpenTable-Reservierung in ChatGPT.
+
+*Verfügbarkeit in DACH nach Dokumentation der Anbieter*
+
+| Funktion | Deutschland, Österreich | Schweiz | Grundlage |
+| --- | --- | --- | --- |
+| Google KI-Modus: Restaurantbuchung | Nicht angekündigt | Nicht angekündigt | Google nennt nur USA und Großbritannien |
+| Google: Anrufe im Auftrag von Kunden | Nein | Nein | Google: nur USA |
+| Gemini Spark | Nein (EWR ausgenommen) | Nein (ausdrücklich ausgenommen) | Gemini-Hilfe |
+| ChatGPT: OpenTable-Reservierung | Ja, soweit der Betrieb auf OpenTable ist | Ja, soweit der Betrieb auf OpenTable ist | OpenAI: OpenTable weltweit |
+| ChatGPT Work | Ja, Bezahltarife | Ja, Bezahltarife | OpenAI: alle unterstützten Regionen |
+| Claude in Chrome | Keine Ausnahme genannt | Keine Ausnahme genannt | Anthropic-Hilfe |
+| Copilot Actions, Perplexity-Reservierung | Unklar | Unklar | Keine Länderangaben gefunden |
+
+> **Einschätzung:** Mehrere Anbieter starten neue Funktionen ausdrücklich ohne den EWR und die Schweiz, ohne Gründe zu nennen. Wir rechnen damit, dass Buchungsfunktionen in DACH später kommen als in den USA, können aber keinen Zeitpunkt nennen. Prüfen Sie den Stand selbst, bevor Sie Geld in Anpassungen nur für Agenten stecken.
+
+## Buchung und Kontakt so einrichten, dass Mensch und Agent durchkommen
+
+Kein Anbieter dokumentiert, wie ein Agent einen Betrieb auswählt. Was hilft, sind Dinge, die auch menschlichen Kunden nützen: ein Online-Buchungsweg mit freien Zeiten, eindeutige Kontaktdaten überall, Preise und Bedingungen als Text und Formulare, die ohne Umwege funktionieren.
+
+1. **Einen Online-Buchungsweg anbieten.** Partnerbuchungen laufen bei Google, OpenAI und laut TechRadar auch bei Perplexity über Reservierungsdienste. Für Restaurants ist OpenTable der Partner, den OpenAI und Google beide nennen; für Praxen, Salons und Handwerk nennen die Anbieter in DACH keine Partner.
+2. **Buchungslink im Profil eintragen.** Hinterlegen Sie den Link zur Terminbuchung oder Reservierung im Google-Unternehmensprofil und auf der Website an einer festen Stelle.
+3. **Kontaktdaten überall gleich halten.** Telefonnummer, Adresse, Öffnungszeiten und Sonderzeiten müssen auf Website, Google, Bing Places, Apple und Branchenportalen übereinstimmen. Ein Agent, der eine alte Nummer findet, ruft die falsche an. Anleitung: [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo).
+4. **Preise und Bedingungen als Text.** Preisrahmen, Mindestgruppengröße, Stornobedingungen, Anzahlung, Einzugsgebiet: als HTML-Text auf der Seite, nicht nur als PDF oder Bild. Wie solche Seiten aufgebaut sind, beschreibt [Website-Inhalte für KI-Suchmaschinen](https://localdominate.org/blog/website-content-ai-suchmaschinen).
+5. **Formulare ohne Umwege.** Klar beschriftete Felder und Schaltflächen („Termin anfragen“ statt „Weiter“), wenige Pflichtfelder, eine Bestätigung mit Datum und Uhrzeit. Testen Sie das Formular selbst auf dem Smartphone.
+
+> **Einschätzung:** Browser-Agenten bedienen Websites laut Anthropic so, wie ein Mensch es tun würde. Daraus schließen wir: Was für Menschen schwer bedienbar ist, etwa unbeschriftete Symbole, Pop-ups über dem Formular oder ein Buchungsweg über viele Seiten, ist auch für Agenten ein Hindernis. Dafür gibt es keine Messwerte der Anbieter. Anmeldungen und Zahlungen geben die Agenten ohnehin an den Menschen zurück.
+
+Spezielle Auszeichnungen nur für Agenten nennt keiner der geprüften Anbieter. Was strukturierte Daten für KI-Systeme leisten und was nicht, steht in [Schema-Strategie für KI](https://localdominate.org/blog/schema-strategie-ai-retrieval).
+
+## Zugriffe von Agenten erkennen und nicht versehentlich blockieren
+
+Agenten, die im Auftrag eines Nutzers handeln, melden sich mit eigenen Kennungen, etwa ChatGPT-User oder Google-Agent. Für solche nutzergesteuerten Abrufe gelten robots.txt-Regeln laut OpenAI, Google und Perplexity möglicherweise oder in der Regel nicht; Anthropic beachtet sie auch hier. Blockieren kann sie eher eine Firewall oder ein Bot-Schutz Ihres Hosters.
+
+*Kennungen nutzergesteuerter Zugriffe laut Anbieter*
+
+| Kennung | Anbieter | Zweck laut Dokumentation | robots.txt |
+| --- | --- | --- | --- |
+| ChatGPT-User | OpenAI | Besucht Seiten, wenn Nutzer in ChatGPT oder einem GPT etwas fragen | Gilt laut OpenAI möglicherweise nicht |
+| Google-Agent | Google | Agenten auf Google-Infrastruktur, die im Auftrag von Nutzern navigieren und handeln | Nutzergesteuerte Abrufe ignorieren robots.txt laut Google in der Regel |
+| Claude-User | Anthropic | Abruf von Websites, wenn Nutzer Claude etwas fragen | Wird laut Anthropic beachtet; Sperre kann Sichtbarkeit in Claude-Suchen verringern |
+| Perplexity-User | Perplexity | Nutzeraktionen in Perplexity | Wird laut Perplexity in der Regel ignoriert |
+
+Google weist darauf hin, dass sich die Kennung fälschen lässt, und veröffentlicht die IP-Bereiche von Google-Agent. Außerdem testet Google ein Verfahren zur Signatur von Agenten-Anfragen (Web Bot Auth). Wie Sie KI-Zugriffe gezielt erlauben oder sperren und wo Bot-Schutz im Hosting greift, steht in [KI-Crawler steuern](https://localdominate.org/blog/ai-crawler-steuern-gptbot-claudebot-2026#cdn-firewall).
+
+> **Einschätzung:** Für einen lokalen Betrieb empfehlen wir, nutzergesteuerte Agenten nicht zu blockieren. Ein Kunde, der seinen Assistenten bittet, bei Ihnen einen Termin anzufragen, ist ein Kunde. Prüfen Sie einmal, ob Ihr Hoster oder CDN-Dienst Agenten pauschal abweist. Browser-Erweiterungen wie Claude in Chrome laufen im Browser des Nutzers; ob sie sich in Ihren Logs von normalen Besuchern unterscheiden, dokumentieren die Anbieter nicht. Wie Sie Nennungen und Besuche aus KI-Diensten beobachten, beschreibt [KI-Zitate überwachen](https://localdominate.org/blog/ai-zitat-monitoring-local-seo-2026).
+
+## Was Sie jetzt tun sollten, in sinnvoller Reihenfolge
+
+Zuerst die Grundlagen, die auch ohne Agenten Kunden bringen: Online-Buchung, richtige Kontaktdaten, lesbare Website. Danach prüfen Sie Bot-Schutz und Einstellungen. Agentenspezifische Investitionen lohnen sich erst, wenn Buchungsfunktionen in DACH tatsächlich ankommen.
+
+1. **Buchungsweg klären.** Gibt es eine Online-Buchung oder Reservierung? Ist der Link im Unternehmensprofil und auf der Website eingetragen?
+2. **Daten abgleichen.** Telefon, Adresse, Öffnungszeiten und Sonderzeiten auf allen Plattformen auf denselben Stand bringen.
+3. **Formular selbst testen.** Eine Buchung auf dem Smartphone vom Anfang bis zur Bestätigung durchspielen und Stolpersteine notieren.
+4. **Zugriffe prüfen.** Bot-Schutz und Firewall auf pauschale Sperren für KI-Agenten prüfen, Einstellung zu automatischen Anrufen im Profil ansehen.
+5. **Stand halbjährlich prüfen.** Nachsehen, ob Google, OpenAI, Microsoft oder Perplexity Buchungsfunktionen für Ihr Land oder Ihre Branche ankündigen.
+
+Eine Platzierung in den Vorschlägen eines Agenten kann Ihnen niemand garantieren, auch wir nicht. Die Schritte oben verbessern aber den Weg zur Buchung für alle Kunden.
+
+## Häufige Fragen
+
+### Kann ein KI-Agent heute schon bei meinem Betrieb in Deutschland buchen?
+
+Teilweise. ChatGPT findet freie Tische bei Restaurants, die über OpenTable buchbar sind, und ChatGPT Work oder Claude in Chrome können Website-Formulare im Auftrag eines Nutzers ausfüllen. Googles Buchungen im KI-Modus und Gemini Spark sind in Deutschland, Österreich und der Schweiz bis zum 11. Oktober 2026 nicht verfügbar.
+
+### Ruft Google meinen Betrieb mit einer KI an?
+
+Anrufe im Auftrag von Kunden, etwa um Preise oder Verfügbarkeit zu erfragen, gibt es laut Google nur in den USA. Google kann Betriebe aber auch anrufen, um Angaben wie Öffnungszeiten zu bestätigen. Beides lässt sich im Unternehmensprofil unter den erweiterten Einstellungen abschalten.
+
+### Brauche ich ein spezielles Buchungssystem, damit Agenten buchen können?
+
+Für Partnerbuchungen ja: Bei ChatGPT und Google wird der Tisch über Reservierungsdienste gebucht, beide nennen OpenTable. Für Perplexity berichtet TechRadar ebenfalls über OpenTable. Browser-Agenten nutzen dagegen das Formular auf Ihrer Website. Ein klar bedienbares Online-Formular ist deshalb die Grundlage, unabhängig vom Anbieter.
+
+### Nach welchen Kriterien wählt ein Agent einen Betrieb aus?
+
+Das dokumentiert kein Anbieter. Aussagen wie „ab 4,2 Sternen“ oder feste Gewichtungen von Signalen sind nicht belegt. Sinnvoll bleibt, was auch in der normalen lokalen Suche hilft: vollständige, richtige Angaben und echte Bewertungen.
+
+### Sollte ich KI-Agenten in der robots.txt sperren?
+
+Für einen lokalen Betrieb raten wir davon ab, weil die Zugriffe von Kunden ausgelöst werden. Für ChatGPT-User oder Google-Agent gilt die robots.txt laut OpenAI und Google ohnehin möglicherweise oder in der Regel nicht. Wichtiger ist, dass Ihr Bot-Schutz diese Zugriffe nicht pauschal abweist.
+
+## Quellen
+
+- [ChatGPT agent](https://help.openai.com/en/articles/11752874-chatgpt-agent), OpenAI Help Center
+- [ChatGPT Release Notes (Einträge 9. Juli, 10. August, 25. August 2026)](https://help.openai.com/en/articles/6825453-chatgpt-release-notes), OpenAI Help Center
+- [Searching the web with ChatGPT](https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt), OpenAI Help Center
+- [Using cloud browser in ChatGPT](https://help.openai.com/en/articles/20001280-using-cloud-browser-in-chatgpt), OpenAI Help Center
+- [ChatGPT Supported Countries](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries), OpenAI Help Center
+- [Overview of OpenAI Crawlers](https://developers.openai.com/api/docs/bots), OpenAI Developers
+- [Booking restaurants in the UK just got easier with AI in Search (10. April 2026)](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/ai-mode-restaurants-uk/), Google Blog
+- [“AI Mode” in Search Labs](https://support.google.com/websearch/answer/16296315?hl=en), Google Search Help
+- [How to check pricing for local businesses with AI in Google Search](https://support.google.com/websearch/answer/16421135?hl=en), Google Search Help
+- [About automated calls from Google on behalf of customers](https://support.google.com/business/answer/16190256?hl=en), Google Business Profile Help
+- [About automated calls and texts from Google to your business](https://support.google.com/business/answer/7690269?hl=en), Google Business Profile Help
+- [Use Gemini Spark to manage your tasks & workflows in Gemini Apps](https://support.google.com/gemini/answer/17094507?hl=en), Gemini Apps Help
+- [Gemini Spark updates (30. Juli 2026)](https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/), Google Blog
+- [Google-Agent (user-triggered fetcher)](https://developers.google.com/crawling/docs/crawlers-fetchers/google-agent), Google for Developers
+- [Your AI companion (Copilot Actions, 2025)](https://blogs.microsoft.com/blog/2025/04/04/your-ai-companion/), Microsoft
+- [Copilot Mode in Edge: FAQ](https://explore.microsoft.com/en-us/edge/ai-powered/copilot-mode/faqs), Microsoft
+- [Comet is now available to everyone worldwide (2. Oktober 2025)](https://www.perplexity.ai/hub/blog/comet-is-now-available-to-everyone-worldwide), Perplexity
+- [Perplexity can help you figure out where to eat and book your table too (6. August 2025)](https://www.techradar.com/ai-platforms-assistants/perplexity-can-help-you-figure-out-where-to-eat-and-book-your-table-too), TechRadar
+- [Does Anthropic crawl data from the web, and how can site owners block the crawler?](https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler), Anthropic, Claude Help Center
+- [Perplexity Crawlers](https://docs.perplexity.ai/guides/bots), Perplexity Docs
+- [Get started with Claude in Chrome](https://support.claude.com/en/articles/12012173-get-started-with-claude-in-chrome), Anthropic, Claude Help Center
+- [Google's AI Mode expands agentic restaurant reservations (18. November 2025, Bericht)](https://www.gsmarena.com/googles_ai_mode_expands_agentic_restaurant_reservations_flight_deals_canvas-news-70334.php), GSMArena
+
+---
+
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org

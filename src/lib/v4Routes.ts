@@ -12,6 +12,7 @@ export type V4RouteId =
   | "work"
   | "industries"
   | "creators"
+  | "ai"
   | "insights"
   | "about"
   | "start"
@@ -30,6 +31,7 @@ export const V4_ROUTES: readonly V4Route[] = [
   { id: "home", path: "/", label: "Home", ready: true, nav: false },
   { id: "approach", path: "/approach", label: "Approach", ready: true, nav: true },
   { id: "services", path: "/services", label: "Services", ready: true, nav: true },
+  { id: "ai", path: "/ai", label: "AI", ready: true, nav: true },
   { id: "work", path: "/work", label: "Work", ready: true, nav: true },
   { id: "industries", path: "/industries", label: "Industries", ready: true, nav: true },
   { id: "creators", path: "/creators", label: "Creators", ready: true, nav: false },

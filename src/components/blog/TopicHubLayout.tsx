@@ -124,7 +124,6 @@ const TopicHubLayout = ({
         canonicalUrl={canonicalUrl}
         jsonLd={[hubSchema, breadcrumbSchema]}
         lang={language}
-        alternateUrls={{ de: canonicalUrl }}
       />
       <StickyHeader />
 

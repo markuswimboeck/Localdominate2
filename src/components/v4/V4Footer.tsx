@@ -13,6 +13,7 @@ import { arabicEquivalent } from "@/lib/v4Locale";
 // Finished V4 pages come from the route registry; the rest are existing indexed sections.
 const EXPLORE = [
   ...v4NavLinks().filter((l) => l.to !== "/blog"),
+  { to: "/de/ki", label: "KI-Beratung (Deutsch)" },
   { to: "/creators", label: "Creators" },
   { to: "/blog", label: "Blog" },
   { to: "/seo-lexikon", label: "SEO Lexicon A–Z" },
@@ -21,11 +22,17 @@ const EXPLORE = [
 
 const STEPS = PILLAR_INDEX.map((p) => ({ to: pillarPath(p.id), label: `${p.n} ${p.name}` }));
 
+// The industry pages (src/data/v4Audiences.ts). Labels are repeated here so the footer does not pull
+// the page copy into the first bundle; the old /…-marketing pages redirect here (vercel.json).
 const INDUSTRIES = [
-  { to: "/restaurant-marketing", label: "Restaurant Marketing" },
-  { to: "/handwerker-marketing", label: "Trades Marketing" },
-  { to: "/arztpraxis-marketing", label: "Medical Practice Marketing" },
-  { to: "/anwalt-marketing", label: "Law Firm Marketing" },
+  { to: "/industries/hotels", label: "Hotels and guesthouses" },
+  { to: "/industries/holiday-rentals", label: "Holiday rentals" },
+  { to: "/industries/trades", label: "Trades" },
+  { to: "/industries/restaurants", label: "Restaurants and cafés" },
+  { to: "/industries/practices", label: "Practices and firms" },
+  { to: "/industries/online-stores", label: "Online stores" },
+  { to: "/industries/hair-salons", label: "Hair salons and beauty" },
+  { to: "/industries/fitness-studios", label: "Gyms and fitness studios" },
 ] as const;
 
 /** The travel platform shown on /work (src/data/v4Cases.ts). */

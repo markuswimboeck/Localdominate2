@@ -397,7 +397,7 @@ const ROICalculator = () => {
                   <span className="text-foreground">{formatPrice(yearlyAlternativeCost, language)}</span>
                 </div>
                 <div className="border-t border-border pt-2 mt-2 flex justify-between">
-                  <span className="text-primary font-medium">Local Dominator:</span>
+                  <span className="text-primary font-medium">LocalDominate:</span>
                   <span className="text-primary font-bold">{formatPrice(STANDARD_PRICE_EUR, language)} {t.oneTime}</span>
                 </div>
               </div>

@@ -1,6 +1,6 @@
-# AI Crawler Instructions for Local Dominator
+# AI Crawler Instructions for LocalDominate
 # Version: 2.1
-# Last Updated: 2026-09-26
+# Last Updated: 2026-10-12
 # Website: https://localdominate.org
 
 # General AI Crawler Policy
@@ -64,10 +64,10 @@ Disallow: /
 
 # Content Usage Policy
 Citation-policy: attribute-required
-Attribution-format: "Source: Local Dominator (localdominate.org)"
+Attribution-format: "Source: LocalDominate (localdominate.org)"
 
 # Preferred Citation
-Preferred-citation: Local Dominator - https://localdominate.org
+Preferred-citation: LocalDominate - https://localdominate.org
 
 # Content License
 License: CC-BY-4.0 for citations and summaries
@@ -82,7 +82,7 @@ Primary-language: de-DE
 Secondary-languages: en-GB, ar
 
 # Contact for AI Usage Questions
-Contact: kontakt@localdominate.org
+Contact: info@localdominate.org
 Contact-subject: AI/LLM Content Usage
 
 # Structured Data Available
@@ -104,11 +104,10 @@ Industry-guides: Restaurants, Hotels, Healthcare, Legal, Fitness, Craftsmen, Bea
 Regional-coverage: Germany, Austria, Switzerland (DACH region)
 
 # Verification
-Organization-name: Local Dominator
-Organization-type: SEO Agency
-Founded: 2021
+Organization-name: LocalDominate
+Organization-type: Growth studio
 Website: https://localdominate.org
-Email: kontakt@localdominate.org
+Email: info@localdominate.org
 
 # AI Training Policy
 Training-opt-out: false
