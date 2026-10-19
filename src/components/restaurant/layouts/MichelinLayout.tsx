@@ -1,33 +1,14 @@
 import { useState, useEffect } from 'react';
-import { ArrowRight, Phone, Check, Gift, Shield, Clock } from 'lucide-react';
+import { ArrowRight, Phone, Check, Shield, Clock } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { useLanguage } from '@/i18n/LanguageContext';
 import MenuCourse from '../michelin/MenuCourse';
-import MichelinTimer from '../michelin/MichelinTimer';
 import MichelinFeatureList from '../michelin/MichelinFeatureList';
 import MichelinPriceBadge from '../michelin/MichelinPriceBadge';
 
 const MichelinLayout = () => {
   const { t } = useLanguage();
-  const [timeLeft, setTimeLeft] = useState({ hours: 23, minutes: 45, seconds: 12 });
   const [visibleCourses, setVisibleCourses] = useState<Set<number>>(new Set());
-
-  // Countdown timer
-  useEffect(() => {
-    const timer = setInterval(() => {
-      setTimeLeft(prev => {
-        if (prev.seconds > 0) {
-          return { ...prev, seconds: prev.seconds - 1 };
-        } else if (prev.minutes > 0) {
-          return { ...prev, minutes: prev.minutes - 1, seconds: 59 };
-        } else if (prev.hours > 0) {
-          return { hours: prev.hours - 1, minutes: 59, seconds: 59 };
-        }
-        return prev;
-      });
-    }, 1000);
-    return () => clearInterval(timer);
-  }, []);
 
   // Intersection observer for course animations
   useEffect(() => {
@@ -150,9 +131,6 @@ const MichelinLayout = () => {
               </div>
             ))}
           </div>
-          <p className="text-center mt-6 text-xs rest-subtitle opacity-70">
-            {t.restaurant.intermezzo.regularPrice}
-          </p>
         </MenuCourse>
       </div>
 
@@ -177,18 +155,8 @@ const MichelinLayout = () => {
             {t.restaurant.platPrincipal.description}
           </p>
 
-          {/* Timer */}
-          <div className="mt-10 mb-6">
-            <p className="rest-scarcity-text mb-5">{t.restaurant.platPrincipal.offerEnds}</p>
-            <MichelinTimer 
-              hours={timeLeft.hours} 
-              minutes={timeLeft.minutes} 
-              seconds={timeLeft.seconds} 
-            />
-          </div>
-
           {/* Price */}
-          <MichelinPriceBadge price={49} anchor={99} />
+          <MichelinPriceBadge price={49} />
 
           {/* Features */}
           <div className="max-w-sm mx-auto px-4 mt-8">
@@ -209,48 +177,7 @@ const MichelinLayout = () => {
               </span>
             </button>
           </div>
-
-          {/* Scarcity - Subtle */}
-          <p className="rest-scarcity-text mt-8">
-            {t.restaurant.platPrincipal.scarcity}
-          </p>
         </section>
-      </div>
-
-      {/* Text Divider */}
-      <div className="rest-text-divider">
-        <span>{t.restaurant.lesExtras}</span>
-      </div>
-
-      {/* Course 4: Fromages - Bonuses */}
-      <div 
-        data-course="4"
-        className={`transition-all duration-1000 delay-300 ${visibleCourses.has(4) ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}
-      >
-        <MenuCourse
-          title={t.restaurant.fromages.title}
-          name={t.restaurant.fromages.name}
-          description={t.restaurant.fromages.description}
-          isOffered
-          price={t.restaurant.fromages.price}
-        >
-          <div className="max-w-xs mx-auto mt-10 space-y-4">
-            {t.restaurant.fromages.bonuses.map((bonus, idx) => (
-              <div key={idx} className="flex items-center justify-between py-2.5 border-b border-[hsl(var(--rest-border))]">
-                <span className="flex items-center gap-2.5 rest-subtitle text-sm">
-                  <Gift className="w-3.5 h-3.5 text-[hsl(var(--rest-gold)_/_0.6)]" />
-                  {bonus.name}
-                </span>
-                <span className="rest-bonus-tag">{bonus.value}</span>
-              </div>
-            ))}
-            <p className="text-center pt-5">
-              <span className="rest-subtitle text-sm">{t.restaurant.fromages.totalValue} </span>
-              <span className="line-through rest-subtitle text-sm">157€</span>
-              <span className="rest-bonus-tag ml-2">{t.restaurant.fromages.free}</span>
-            </p>
-          </div>
-        </MenuCourse>
       </div>
 
       {/* Hairline Divider */}
