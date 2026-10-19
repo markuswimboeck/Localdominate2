@@ -1,8 +1,5 @@
-[functions]
-  directory = "netlify/functions"
-
 [build]
-  command ="npm i --no-save --no-audit --no-fund playwright@1.56.0 && npx playwright install chromium && npm run build:static"
+  command = "npm i --no-save --no-audit --no-fund playwright@1.56.0 && npx playwright install chromium && npm run build:static"
   publish = "dist"
 
 # docs/STATIC_HOSTING.md requirement 3: any extension-less path that isn't one of the
