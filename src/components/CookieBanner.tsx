@@ -8,9 +8,11 @@ import { Link } from "react-router-dom";
  * `variant="v4"` only changes how the banner looks on the V4 pages (ink panel, compact on phones).
  * Consent logic, storage keys and the Consent Mode updates are identical in both variants.
  */
-const CookieBanner = ({ variant = "default" }: { variant?: "default" | "v4" }) => {
+const CookieBanner = ({ variant = "default", forceLanguage }: { variant?: "default" | "v4"; forceLanguage?: "de" | "en" | "ar" }) => {
   const [isVisible, setIsVisible] = useState(false);
-  const { language } = useLanguage();
+  const { language: browserLanguage } = useLanguage();
+  // The Arabic V4 pages pass forceLanguage="ar" so the banner matches the page, not the browser.
+  const language = forceLanguage ?? browserLanguage;
 
   const updateConsent = (settings: Record<string, string>) => {
     const analyticsWindow = window as typeof window & { gtag?: (...args: unknown[]) => void };

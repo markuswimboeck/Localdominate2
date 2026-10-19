@@ -43,6 +43,8 @@ const DE_INDUSTRY_SLUGS = ["friseur", "fitnessstudio"]; // keep in sync with src
 const PILLAR_IDS = ["diagnose", "position", "create", "build", "launch", "grow", "scale"]; // keep in sync with src/data/v4PillarIndex.ts
 const EXTRA_PATHS = ["/services", "/work", "/approach", ...PILLAR_IDS.map((id) => `/approach/${id}`),
   "/industries", "/creators", "/insights", "/about", "/start-a-project", "/de", "/ai", "/de/ki",
+  "/ar", "/ar/services", "/ar/work", "/ar/approach", "/ar/industries", "/ar/creators", "/ar/start-a-project",
+  ...PILLAR_IDS.map((id) => `/ar/approach/${id}`),
   ...AUDIENCE_SLUGS.map((slug) => `/industries/${slug}`),
   ...DE_INDUSTRY_SLUGS.map((slug) => `/de/${slug}`)];
 // Blog articles migrated to the V4 layout are hydrated too (see src/lib/v4Pages.tsx). Their URLs are
@@ -145,6 +147,8 @@ function capture(hydratedPaths) {
       return "<!--$-->" + clone.innerHTML + "<!--/$-->";
     })(),
     lang: document.documentElement.lang,
+    // Only the Arabic pages are right-to-left; the others keep whatever the shell has.
+    dir: location.pathname === "/ar" || location.pathname.startsWith("/ar/") ? "rtl" : "",
     finalPath: location.pathname,
   };
 }
@@ -252,6 +256,7 @@ async function main() {
       }
     }
     if (r.lang) html = html.replace(/<html([^>]*)\slang="[^"]*"/, `<html$1 lang="${r.lang}"`);
+    if (r.dir) html = html.replace(/<html([^>]*?)(\sdir="[^"]*")?>/, `<html$1 dir="${r.dir}">`);
     const out = toFile(r.path);
     fs.mkdirSync(path.dirname(out), { recursive: true });
     fs.writeFileSync(out, html);
