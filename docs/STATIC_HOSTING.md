@@ -57,6 +57,14 @@ build time in the static HTML.
 Test on a staging URL with `seo-check.mjs` pointed at it (or by curl without JS) before any DNS
 change. DNS stays on Lovable (A 185.158.133.1) until the owner approves the cutover.
 
+## Critical CSS
+
+`scripts/prerender.mjs` inlines, per page, the rules of the main stylesheet (`assets/index-*.css`) that the
+page uses at desktop and at phone width (Chromium CSS coverage, after scrolling the page), and loads the full
+stylesheet with `rel="preload" … onload` plus a `<noscript>` fallback. Pages whose inlined CSS would exceed
+90 KB keep the blocking stylesheet. Turn it off with `PRERENDER_CRITICAL_CSS=0`. Route stylesheets
+(restaurant, campsites, insights) are not touched. `npm run build` (Lovable) is unchanged.
+
 ## Adding a page
 
 New routes must be added to the baseline (owner-approved `--update-baseline`) or they will not be
