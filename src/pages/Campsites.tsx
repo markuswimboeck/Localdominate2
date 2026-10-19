@@ -175,21 +175,6 @@ const Campsites = () => {
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Organization",
-        "@id": "https://localdominate.org/#organization",
-        name: "LocalDominate",
-        url: "https://localdominate.org/",
-        logo: "https://localdominate.org/logo.png",
-      },
-      {
-        "@type": "WebSite",
-        "@id": "https://localdominate.org/#website",
-        url: "https://localdominate.org/",
-        name: "LocalDominate",
-        publisher: { "@id": "https://localdominate.org/#organization" },
-        inLanguage: "en-GB",
-      },
-      {
         "@type": "WebPage",
         "@id": `${canonicalUrl}#webpage`,
         url: canonicalUrl,

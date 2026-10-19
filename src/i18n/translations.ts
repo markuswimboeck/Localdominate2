@@ -385,7 +385,7 @@ export const translations = {
       entree: {
         title: "Entrée",
         name: "Website Erstellung",
-        description: "Eine elegante, mobile-optimierte Präsenz. Ladezeit unter 2 Sekunden. Ihre digitale Visitenkarte.",
+        description: "Eine elegante, mobile-optimierte Präsenz. Schnell ladend. Ihre digitale Visitenkarte.",
         price: "ab 250€",
       },
       intermezzo: {
@@ -394,16 +394,13 @@ export const translations = {
         description: "Persönliche 1:1 Beratung mit Ihrem dedizierten Marketing-Experten. Maßgeschneiderte Strategien für Ihr Restaurant.",
         price: "59€ / Stunde",
         features: ["Pre-Analyse inklusive", "Individuelle 1:1 Session", "Detaillierter Post-Bericht"],
-        regularPrice: "Regulär 120€/h · Jetzt nur 59€/h",
       },
       platPrincipal: {
         title: "Plat Principal",
         name: "Rundum-Sorglos-Paket",
         description: "Alles, was Ihr Restaurant digital braucht. Website, Google Maps, Wartung und persönlicher Support.",
-        offerEnds: "Angebot endet in",
         chefRecommendation: "Empfehlung des Küchenchefs",
         cta: "Jetzt reservieren",
-        scarcity: "Nur noch 3 Plätze in diesem Monat verfügbar",
         features: {
           premiumWebsite: "Premium Website Design",
           googleMaps: "Google Maps Optimierung",
@@ -412,19 +409,6 @@ export const translations = {
           updates: "Monatliche Updates",
           included: "inkl.",
         },
-      },
-      fromages: {
-        title: "Fromages",
-        name: "Bonus-Kollektion",
-        description: "Zusätzliche Ressourcen für Ihren Erfolg. Bei Buchung des Hauptgangs inklusive.",
-        price: "Offert",
-        bonuses: [
-          { name: "Google Ranking Guide", value: "49€" },
-          { name: "Social Media Vorlagen", value: "79€" },
-          { name: "SEO Checkliste", value: "29€" },
-        ],
-        totalValue: "Gesamtwert:",
-        free: "Gratis",
       },
       dessert: {
         title: "Dessert",
@@ -856,7 +840,7 @@ export const translations = {
       entree: {
         title: "Entrée",
         name: "Website Creation",
-        description: "An elegant, mobile-optimized presence. Load time under 2 seconds. Your digital business card.",
+        description: "An elegant, mobile-optimized presence. Fast-loading. Your digital business card.",
         price: "from €250",
       },
       intermezzo: {
@@ -865,16 +849,13 @@ export const translations = {
         description: "Personal 1:1 consultation with your dedicated marketing expert. Tailored strategies for your restaurant.",
         price: "€59 / hour",
         features: ["Pre-analysis included", "Individual 1:1 session", "Detailed post-report"],
-        regularPrice: "Regular €120/h · Now only €59/h",
       },
       platPrincipal: {
         title: "Main Course",
         name: "All-Inclusive Package",
         description: "Everything your restaurant needs digitally. Website, Google Maps, maintenance, and personal support.",
-        offerEnds: "Offer ends in",
         chefRecommendation: "Chef's Recommendation",
         cta: "Reserve Now",
-        scarcity: "Only 3 spots left this month",
         features: {
           premiumWebsite: "Premium Website Design",
           googleMaps: "Google Maps Optimization",
@@ -883,19 +864,6 @@ export const translations = {
           updates: "Monthly Updates",
           included: "incl.",
         },
-      },
-      fromages: {
-        title: "Cheese Course",
-        name: "Bonus Collection",
-        description: "Additional resources for your success. Included with main course booking.",
-        price: "Complimentary",
-        bonuses: [
-          { name: "Google Ranking Guide", value: "€49" },
-          { name: "Social Media Templates", value: "€79" },
-          { name: "SEO Checklist", value: "€29" },
-        ],
-        totalValue: "Total value:",
-        free: "Free",
       },
       dessert: {
         title: "Dessert",
@@ -1327,7 +1295,7 @@ export const translations = {
       entree: {
         title: "المدخل",
         name: "إنشاء موقع إلكتروني",
-        description: "حضور أنيق محسّن للجوال. وقت تحميل أقل من ثانيتين. بطاقة عملك الرقمية.",
+        description: "حضور أنيق محسّن للجوال. سريع التحميل. بطاقة عملك الرقمية.",
         price: "من $275",
       },
       intermezzo: {
@@ -1336,16 +1304,13 @@ export const translations = {
         description: "استشارة شخصية 1:1 مع خبير التسويق المخصص لك. استراتيجيات مصممة لمطعمك.",
         price: "$65 / ساعة",
         features: ["تحليل مسبق مشمول", "جلسة فردية 1:1", "تقرير مفصل"],
-        regularPrice: "العادي $132/س · الآن فقط $65/س",
       },
       platPrincipal: {
         title: "الطبق الرئيسي",
         name: "الحزمة الشاملة",
         description: "كل ما يحتاجه مطعمك رقمياً. موقع، خرائط Google، صيانة ودعم شخصي.",
-        offerEnds: "العرض ينتهي في",
         chefRecommendation: "توصية الشيف",
         cta: "احجز الآن",
-        scarcity: "فقط 3 أماكن متبقية هذا الشهر",
         features: {
           premiumWebsite: "تصميم موقع متميز",
           googleMaps: "تحسين خرائط Google",
@@ -1354,19 +1319,6 @@ export const translations = {
           updates: "تحديثات شهرية",
           included: "مشمول",
         },
-      },
-      fromages: {
-        title: "الأجبان",
-        name: "مجموعة المكافآت",
-        description: "موارد إضافية لنجاحك. مشمولة مع حجز الطبق الرئيسي.",
-        price: "مجاناً",
-        bonuses: [
-          { name: "دليل ترتيب Google", value: "$54" },
-          { name: "قوالب وسائل التواصل", value: "$87" },
-          { name: "قائمة مراجعة SEO", value: "$32" },
-        ],
-        totalValue: "القيمة الإجمالية:",
-        free: "مجاناً",
       },
       dessert: {
         title: "الحلوى",

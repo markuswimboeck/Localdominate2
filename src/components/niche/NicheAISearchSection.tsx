@@ -1,4 +1,4 @@
-import { Sparkles, MessageSquareQuote, MapPin, BarChart3 } from "lucide-react";
+import { Sparkles, MessageSquareQuote, MapPin } from "lucide-react";
 import type { NicheConfig } from "@/data/nicheConfigs";
 import SectionFadeIn from "./SectionFadeIn";
 
@@ -9,12 +9,11 @@ interface Props {
 /**
  * AI Visibility / GEO section for niche landing pages.
  * Renders an AnswerBlock-style speakable summary, local entity grounding,
- * AI-search query examples and local benchmarks — optimized for retrieval
- * by ChatGPT, Gemini, Perplexity and Google AI Overviews.
+ * AI-search query examples and local entities. No figures without a source.
  */
 const NicheAISearchSection = ({ config: c }: Props) => {
   if (!c.aiSearch) return null;
-  const { queries, localEntities, aiOverviewAnswer, benchmarks } = c.aiSearch;
+  const { queries, localEntities, aiOverviewAnswer } = c.aiSearch;
 
   return (
     <SectionFadeIn>
@@ -26,11 +25,11 @@ const NicheAISearchSection = ({ config: c }: Props) => {
               AI Visibility für {c.nicheLabel} in {c.city}
             </div>
             <h2 className="text-2xl md:text-4xl font-bold mb-3 leading-tight">
-              So wirst du in ChatGPT, Gemini & Google AI Overviews gefunden
+              So werden deine Angaben für ChatGPT, Gemini & Google AI Overviews lesbar
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              Klassisches Google-Ranking reicht 2026 nicht mehr. Wir optimieren deine Sichtbarkeit
-              auch in AI-generierten Antworten.
+              Neben der klassischen Suche beantworten auch AI-Dienste lokale Fragen. Wir sorgen dafür,
+              dass deine Angaben dort stimmen und gut lesbar sind. Eine Nennung kann niemand garantieren.
             </p>
           </div>
 
@@ -91,30 +90,10 @@ const NicheAISearchSection = ({ config: c }: Props) => {
                 ))}
               </div>
               <p className="text-xs text-muted-foreground mt-4">
-                Diese Stadtteile & Landmarks nutzen wir, um deine Praxis semantisch zu verankern – ein
-                Schlüsselsignal für AI-Retrieval.
+                Diese Stadtteile & Landmarks nennen wir im Profil und auf der Website, damit klar
+                ist, wo du arbeitest.
               </p>
             </div>
-          </div>
-
-          {/* Local benchmarks */}
-          <div className="bg-card border border-border/50 rounded-2xl p-6">
-            <h3 className="font-bold mb-4 flex items-center gap-2">
-              <BarChart3 className="w-4 h-4 text-primary" />
-              Lokale AI-Visibility-Benchmarks für {c.nicheLabel} in {c.city}
-            </h3>
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
-              {benchmarks.map((b, i) => (
-                <div key={i} className="text-center p-4 rounded-xl bg-muted/30">
-                  <div className="text-2xl md:text-3xl font-bold text-primary mb-1">{b.value}</div>
-                  <div className="text-xs text-muted-foreground">{b.label}</div>
-                </div>
-              ))}
-            </div>
-            <p className="text-xs text-muted-foreground mt-4 text-center">
-              Illustrative Benchmarks auf Basis interner Auswertungen. Genaue Werte für deine
-              Praxis erhältst du im kostenlosen Audit.
-            </p>
           </div>
         </div>
       </section>
