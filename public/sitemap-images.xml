@@ -57,71 +57,11 @@
     </image:image>
   </url>
 
-  <!-- Blog: Local SEO Keywords -->
-  <url>
-    <loc>https://localdominate.org/blog/local-seo-keywords</loc>
-    <image:image>
-      <image:loc>https://localdominate.org/images/blog/local-seo-keywords.jpg</image:loc>
-      <image:title>Local SEO Keywords finden - Keyword-Recherche Guide</image:title>
-      <image:caption>Der komplette Guide zur lokalen Keyword-Recherche</image:caption>
-      <image:geo_location>Deutschland</image:geo_location>
-    </image:image>
-  </url>
 
-  <!-- Blog: Local SEO Restaurant -->
-  <url>
-    <loc>https://localdominate.org/blog/local-seo-restaurant</loc>
-    <image:image>
-      <image:loc>https://localdominate.org/images/blog/local-seo-restaurant.jpg</image:loc>
-      <image:title>Local SEO für Restaurants - Mehr Gäste durch Google</image:title>
-      <image:caption>So optimierst du dein Restaurant für lokale Suchanfragen</image:caption>
-      <image:geo_location>Deutschland</image:geo_location>
-    </image:image>
-  </url>
 
-  <!-- Blog: Lokale SEO 2026 -->
-  <url>
-    <loc>https://localdominate.org/blog/lokale-seo-2026</loc>
-    <image:image>
-      <image:loc>https://localdominate.org/images/blog/lokale-seo-2026.jpg</image:loc>
-      <image:title>Lokale Suchmaschinenoptimierung 2026 - Trends und Strategien</image:title>
-      <image:caption>Die wichtigsten Trends für lokale SEO im Jahr 2026</image:caption>
-      <image:geo_location>Deutschland</image:geo_location>
-    </image:image>
-  </url>
 
-  <!-- Blog: NAP Konsistenz -->
-  <url>
-    <loc>https://localdominate.org/blog/nap-konsistenz</loc>
-    <image:image>
-      <image:loc>https://localdominate.org/images/blog/nap-konsistenz.jpg</image:loc>
-      <image:title>NAP-Konsistenz für Local SEO - Der ultimative Guide</image:title>
-      <image:caption>Warum einheitliche Unternehmensdaten dein Ranking boosten</image:caption>
-      <image:geo_location>Deutschland</image:geo_location>
-    </image:image>
-  </url>
 
-  <!-- Blog: SEO Toolbox -->
-  <url>
-    <loc>https://localdominate.org/blog/seo-toolbox</loc>
-    <image:image>
-      <image:loc>https://localdominate.org/images/blog/seo-toolbox.jpg</image:loc>
-      <image:title>Kostenlose SEO Tools - Die komplette Toolbox</image:title>
-      <image:caption>Die besten kostenlosen Tools für Local SEO</image:caption>
-      <image:geo_location>Deutschland</image:geo_location>
-    </image:image>
-  </url>
 
-  <!-- Blog: Google AI Overviews -->
-  <url>
-    <loc>https://localdominate.org/blog/google-ai-overviews</loc>
-    <image:image>
-      <image:loc>https://localdominate.org/images/blog/google-ai-overviews.jpg</image:loc>
-      <image:title>Google AI Overviews - Auswirkungen auf Local SEO</image:title>
-      <image:caption>Wie KI-gestützte Suchergebnisse lokale Unternehmen beeinflussen</image:caption>
-      <image:geo_location>Deutschland</image:geo_location>
-    </image:image>
-  </url>
 
   <!-- Blog: KI Tools für Local SEO -->
   <url>
@@ -178,27 +118,7 @@
     </image:image>
   </url>
 
-  <!-- Blog: Local SEO Apotheke -->
-  <url>
-    <loc>https://localdominate.org/blog/local-seo-apotheke</loc>
-    <image:image>
-      <image:loc>https://localdominate.org/images/blog/local-seo-apotheke.jpg</image:loc>
-      <image:title>Local SEO für Apotheken - Mehr Kunden durch Google</image:title>
-      <image:caption>So optimieren Apotheken ihre lokale Sichtbarkeit</image:caption>
-      <image:geo_location>Deutschland</image:geo_location>
-    </image:image>
-  </url>
 
-  <!-- Blog: Local SEO Tattoo -->
-  <url>
-    <loc>https://localdominate.org/blog/local-seo-tattoo</loc>
-    <image:image>
-      <image:loc>https://localdominate.org/images/blog/local-seo-tattoo.jpg</image:loc>
-      <image:title>Local SEO für Tattoo-Studios - Mehr Kunden durch Google</image:title>
-      <image:caption>So gewinnen Tattoo-Studios mehr lokale Kunden</image:caption>
-      <image:geo_location>Deutschland</image:geo_location>
-    </image:image>
-  </url>
 
   <!-- Blog: Local SEO Tierarzt -->
   <url>
@@ -211,16 +131,6 @@
     </image:image>
   </url>
 
-  <!-- Blog: Local SEO Yoga -->
-  <url>
-    <loc>https://localdominate.org/blog/local-seo-yoga</loc>
-    <image:image>
-      <image:loc>https://localdominate.org/images/blog/local-seo-yoga.jpg</image:loc>
-      <image:title>Local SEO für Yoga-Studios - Mehr Teilnehmer durch Google</image:title>
-      <image:caption>So gewinnen Yoga-Studios mehr lokale Kunden</image:caption>
-      <image:geo_location>Deutschland</image:geo_location>
-    </image:image>
-  </url>
 
   <!-- Blog: Google Business Kategorien -->
   <url>
@@ -434,16 +344,6 @@
     </image:image>
   </url>
 
-  <!-- Local SEO Neugründer -->
-  <url>
-    <loc>https://localdominate.org/blog/local-seo-neugruender</loc>
-    <image:image>
-      <image:loc>https://localdominate.org/images/blog/local-seo-neugruender.jpg</image:loc>
-      <image:title>Local SEO für Neugründer - Der Starter Guide</image:title>
-      <image:caption>So starten Gründer mit Local SEO durch</image:caption>
-      <image:geo_location>Deutschland</image:geo_location>
-    </image:image>
-  </url>
 
   <!-- Local SEO Mehrstufig -->
   <url>
@@ -489,16 +389,6 @@
     </image:image>
   </url>
 
-  <!-- Local SEO vs Maps -->
-  <url>
-    <loc>https://localdominate.org/blog/local-seo-vs-maps-unterschied</loc>
-    <image:image>
-      <image:loc>https://localdominate.org/images/blog/local-vs-maps-seo.jpg</image:loc>
-      <image:title>Local SEO vs Google Maps SEO - Der Unterschied</image:title>
-      <image:caption>Was ist der Unterschied zwischen Local SEO und Maps SEO</image:caption>
-      <image:geo_location>Deutschland</image:geo_location>
-    </image:image>
-  </url>
 
   <!-- Local Citations -->
   <url>
