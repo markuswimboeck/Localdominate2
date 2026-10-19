@@ -260,7 +260,7 @@ const article: V4Article = {
             },
             {
               title: "Leistungsseiten bauen",
-              text: "Eine Seite je wichtiger Leistung, mit Ort, Ablauf und den Fragen, die Kunden am Telefon stellen.",
+              text: "Eine Seite je wichtiger Leistung, mit Ort, Ablauf und den Fragen, die Kunden am Telefon stellen. Für Kosmetik-, Wimpern- und Nagelstudios gibt es dazu einen [eigenen Beitrag](/blog/local-seo-kosmetikstudio).",
             },
             {
               title: "Bewertungsablauf festlegen",

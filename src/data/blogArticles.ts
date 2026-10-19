@@ -107,6 +107,28 @@ export const blogArticles: BlogArticle[] = [
     icon: "🛎️",
     keywords: ["ki hotel", "ki rezeption", "ki hotellerie", "hotel automatisierung", "ki gästeanfragen"]
   },
+  {
+    slug: "local-seo-kosmetikstudio",
+    de: {
+      title: "SEO für Kosmetikstudios: So finden Kunden Ihre Behandlungen bei Google",
+      metaTitle: "SEO für Kosmetikstudios: Behandlungen bei Google zeigen",
+      metaDescription: "Kosmetik-, Wimpern- und Nagelstudios bei Google: eine Seite je Behandlung, Profil und Kategorien, Werbeaussagen nach HWG und NiSV, Fotos mit Einwilligung.",
+      excerpt: "Kosmetik-, Wimpern- und Nagelstudios bei Google: eine Seite je Behandlung, Profil und Kategorien, Werbeaussagen nach HWG und NiSV, Fotos mit Einwilligung.",
+      category: "Beauty & Wellness"
+    },
+    en: {
+      title: "Local SEO for Beauty Studios: Show Your Treatments on Google",
+      metaTitle: "Local SEO for Beauty Studios: Treatments on Google",
+      metaDescription: "Beauty, lash and nail studios on Google: one page per treatment, profile and categories, claims under German advertising and radiation rules, photos with consent.",
+      excerpt: "Beauty, lash and nail studios on Google: one page per treatment, profile and categories, claims under German advertising and radiation rules.",
+      category: "Beauty & Wellness"
+    },
+    readingTime: 9,
+    publishedAt: "2026-10-18",
+    updatedAt: "2026-10-18",
+    icon: "💅",
+    keywords: ["seo kosmetikstudio", "kosmetikstudio google", "wimpernverlängerung seo", "nagelstudio seo", "kosmetikerin marketing", "kosmetikstudio werbung hwg"]
+  },
   // === PILLAR PAGE: ULTIMATE GUIDE LOCAL SEO ===
   {
     slug: "ultimate-guide-local-seo",
@@ -272,7 +294,7 @@ export const blogArticles: BlogArticle[] = [
     slug: "lokale-suchmaschinenoptimierung-2026",
     de: {
       title: "Lokale Suchmaschinenoptimierung 2026: Was sich geändert hat und was Sie jetzt tun sollten",
-      metaTitle: "Lokale Suchmaschinenoptimierung 2026: Was sich ändert",
+      metaTitle: "Local SEO 2026: Was sich ändert und was Betriebe tun",
       metaDescription: "Lokale Suchmaschinenoptimierung 2026: KI-Übersichten, KI-Modus, ChatGPT, Apple Business und strengere Bewertungsregeln. Was neu ist und was Betriebe jetzt tun.",
       excerpt: "Lokale Suchmaschinenoptimierung 2026: KI-Übersichten, KI-Modus, ChatGPT, Apple Business und strengere Bewertungsregeln. Was neu ist und was Betriebe jetzt tun.",
       category: "Trends",
@@ -2530,7 +2552,7 @@ export const blogArticles: BlogArticle[] = [
     slug: "ki-tools-local-seo",
     de: {
       title: "KI-Tools für Local SEO: Wofür sie taugen, was Google erlaubt und was Datenschutz verlangt",
-      metaTitle: "KI-Tools für Local SEO: sicher nutzen im kleinen Betrieb",
+      metaTitle: "KI-Tools für Local SEO: ChatGPT, Claude, Gemini nutzen",
       metaDescription: "Wie Sie ChatGPT, Claude, Gemini und Copilot für Bewertungsantworten, Profiltexte und Inhalte nutzen: Googles Regeln, Datenschutz und KI-Kompetenzpflicht.",
       excerpt: "Wie Sie ChatGPT, Claude, Gemini und Copilot für Bewertungsantworten, Profiltexte und Inhalte nutzen: Googles Regeln, Datenschutz und KI-Kompetenzpflicht.",
       category: "Tools"

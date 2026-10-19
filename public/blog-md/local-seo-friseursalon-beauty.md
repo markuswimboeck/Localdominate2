@@ -143,7 +143,7 @@ Beginnen Sie mit dem Fundament: Profil, Leistungen und Firmendaten. Danach folge
 2. **Name, Kategorie und Leistungen korrigieren.** Gleichen Sie den Namen mit dem Schild ab, wählen Sie die passenden Kategorien und tragen Sie alle Leistungen ein.
 3. **Öffnungszeiten und Adresse prüfen.** Pflegen Sie Sonderöffnungszeiten und entscheiden Sie, ob die Adresse sichtbar bleibt oder ein Einzugsgebiet gilt.
 4. **Firmendaten abgleichen.** Bringen Sie Telefonnummer, Adresse und Öffnungszeiten auf Website und in den wichtigsten Verzeichnissen auf denselben Stand.
-5. **Leistungsseiten bauen.** Eine Seite je wichtiger Leistung, mit Ort, Ablauf und den Fragen, die Kunden am Telefon stellen.
+5. **Leistungsseiten bauen.** Eine Seite je wichtiger Leistung, mit Ort, Ablauf und den Fragen, die Kunden am Telefon stellen. Für Kosmetik-, Wimpern- und Nagelstudios gibt es dazu einen [eigenen Beitrag](https://localdominate.org/blog/local-seo-kosmetikstudio).
 6. **Bewertungsablauf festlegen.** Laden Sie nach dem Besuch ohne Anreiz ein, bitten Sie nicht im Salon und antworten Sie auf jede Bewertung.
 7. **Messen und nachsteuern.** Vergleichen Sie einmal im Monat Anrufe, Routenanfragen und Buchungen und notieren Sie, was sich verändert hat.
 
