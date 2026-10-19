@@ -77,8 +77,8 @@ const NicheTransformationSection = ({ service, onCtaClick }: Props) => (
           title="Google Sichtbarkeit"
           beforeIcon={Search}
           afterIcon={TrendingUp}
-          beforeItems={["Platzierung ab #12", "Nur 3 Bewertungen", "Keine Fotos hochgeladen"]}
-          afterItems={["Platzierung in den Top 3", "50+ Fünf-Sterne-Bewertungen", "Professionelle Galerie"]}
+          beforeItems={["Profil unvollständig", "Bewertungen bleiben unbeantwortet", "Keine Fotos hochgeladen"]}
+          afterItems={["Profil vollständig und aktuell", "Bewertungen werden beantwortet", "Professionelle Galerie"]}
         />
         <MockupCard
           title="Profil-Optimierung"
@@ -91,8 +91,8 @@ const NicheTransformationSection = ({ service, onCtaClick }: Props) => (
           title="Buchungssituation"
           beforeIcon={Calendar}
           afterIcon={Star}
-          beforeItems={["Lücken im Kalender", "Ruhige Wochentage", "Unregelmäßiger Kundenstrom"]}
-          afterItems={["Voller Wochenplan", "Konstant neue Kunden", "Planbare Buchungen"]}
+          beforeItems={["Anfragen kommen zufällig", "Kein klarer Buchungsweg", "Keine Auswertung"]}
+          afterItems={["Klarer Weg zur Anfrage", "Profil, Website und Buchung passen zusammen", "Monatliche Auswertung"]}
         />
       </div>
       <div className="text-center mt-10">

@@ -1,4 +1,4 @@
-import { Shield, Award, Clock, Users } from "lucide-react";
+import { Shield, KeyRound, Clock, UserCheck } from "lucide-react";
 
 const NicheTrustBar = () => (
   <section className="border-y border-border/30 bg-muted/30 px-4 py-6">
@@ -6,8 +6,8 @@ const NicheTrustBar = () => (
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8">
         {[
           { icon: Shield, label: "30 Tage Garantie", sub: "Geld zurück – ohne Fragen" },
-          { icon: Award, label: "Google-zertifiziert", sub: "Offizielle Partner-Tools" },
-          { icon: Users, label: "120+ Salons", sub: "Bereits betreut" },
+          { icon: UserCheck, label: "Ein Ansprechpartner", sub: "Von der Analyse bis zur Übergabe" },
+          { icon: KeyRound, label: "Gehört dir", sub: "Website und Google-Profil" },
           { icon: Clock, label: "In 48h startklar", sub: "Schnelle Einrichtung" },
         ].map((item, i) => (
           <div key={i} className="flex items-center gap-3">
