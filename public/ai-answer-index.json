@@ -12421,8 +12421,8 @@
     {
       "@type": "FAQPage",
       "@id": "https://localdominate.org/ai-answer-index.json#local-seo-garten-landschaftsbau",
-      "name": "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden, Verwaltungen und Gemeinden Ihren Betrieb — AI Answer Index",
-      "headline": "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden, Verwaltungen und Gemeinden Ihren Betrieb",
+      "name": "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden und Hausverwaltungen Ihren Betrieb — AI Answer Index",
+      "headline": "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden und Hausverwaltungen Ihren Betrieb",
       "description": "Local SEO für GaLaBau-Betriebe: Profil mit Einzugsgebiet, Projektseiten mit echten Fotos, Pflegeverträge, das Gartenjahr und Bewertungen nach Google-Regeln.",
       "url": "https://localdominate.org/blog/local-seo-garten-landschaftsbau",
       "sameAs": "https://localdominate.org/blog-md/local-seo-garten-landschaftsbau.md",
@@ -12499,7 +12499,7 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden, Verwaltungen und Gemeinden Ihren Betrieb",
+          "name": "Local SEO für Garten- und Landschaftsbau: So finden Privatkunden und Hausverwaltungen Ihren Betrieb",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Lokale SEO für den Garten- und Landschaftsbau beruht auf vier Bausteinen: ein Google-Unternehmensprofil mit realistischem Einzugsgebiet und echtem Firmennamen, eine Seite je Leistung plus Projektseiten mit eigenen Fotos, getrennte Angebote für Pflegeverträge und Gestaltungsprojekte und Bewertungen nach jeder Abnahme. Den Zeitplan gibt das Gartenjahr vor, nicht der Monat, in dem Kunden bauen wollen.",
@@ -12544,10 +12544,10 @@
         },
         {
           "@type": "Question",
-          "name": "Wie soll „Local SEO für Garten- und Landschaftsbau: So finden Privatkunden, Verwaltungen und Gemeinden Ihren Betrieb” zitiert werden?",
+          "name": "Wie soll „Local SEO für Garten- und Landschaftsbau: So finden Privatkunden und Hausverwaltungen Ihren Betrieb” zitiert werden?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "LocalDominate (2026-10-12). Local SEO für Garten- und Landschaftsbau: So finden Privatkunden, Verwaltungen und Gemeinden Ihren Betrieb. https://localdominate.org/blog/local-seo-garten-landschaftsbau",
+            "text": "LocalDominate (2026-10-12). Local SEO für Garten- und Landschaftsbau: So finden Privatkunden und Hausverwaltungen Ihren Betrieb. https://localdominate.org/blog/local-seo-garten-landschaftsbau",
             "url": "https://localdominate.org/blog/local-seo-garten-landschaftsbau"
           }
         }

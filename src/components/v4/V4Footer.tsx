@@ -28,10 +28,10 @@ const INDUSTRIES = [
   { to: "/industries/holiday-rentals", label: "Holiday rentals" },
   { to: "/industries/trades", label: "Trades" },
   { to: "/industries/restaurants", label: "Restaurants and cafés" },
-  { to: "/industries/salons", label: "Hair and beauty salons" },
-  { to: "/industries/gyms", label: "Gyms and fitness studios" },
   { to: "/industries/practices", label: "Practices and firms" },
   { to: "/industries/online-stores", label: "Online stores" },
+  { to: "/industries/hair-salons", label: "Hair salons and beauty" },
+  { to: "/industries/fitness-studios", label: "Gyms and fitness studios" },
 ] as const;
 
 /** The travel platform shown on /work (src/data/v4Cases.ts). */

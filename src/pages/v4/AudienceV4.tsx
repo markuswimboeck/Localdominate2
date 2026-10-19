@@ -96,7 +96,7 @@ export default function AudienceV4() {
 
   return (
     <V4Page>
-      <SEOHead title={a.seoTitle} description={a.seoDescription} canonicalUrl={url} lang="en" jsonLd={jsonLd(a, url)} />
+      <SEOHead title={a.seoTitle} description={a.seoDescription} canonicalUrl={url} lang="en" jsonLd={jsonLd(a, url)} alternateUrls={a.dePath ? { en: url, de: `${SITE}${a.dePath}` } : undefined} />
 
       <StateField field="dark" as="section" aria-labelledby="audience-hero">
         <div className="mx-auto max-w-[1300px] px-6 pb-14 pt-14 md:px-10 md:pb-20 md:pt-24">
