@@ -23,3 +23,6 @@ run("node", ["scripts/prerender.mjs"], {
   CHROMIUM_EXTRA_ARGS: "--no-sandbox --disable-setuid-sandbox --disable-gpu --disable-dev-shm-usage --no-zygote",
   LD_LIBRARY_PATH: process.env.LD_LIBRARY_PATH ?? "",
 });
+
+// Static Egypt landing pages (public/eg): put the form key in (see scripts/inject-eg-form-key.mjs).
+run("node", ["scripts/inject-eg-form-key.mjs"]);

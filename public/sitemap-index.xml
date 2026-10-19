@@ -15,4 +15,7 @@
   <sitemap>
     <loc>https://localdominate.org/sitemap-lexikon.xml</loc>
   </sitemap>
+  <sitemap>
+    <loc>https://localdominate.org/sitemap-eg.xml</loc>
+  </sitemap>
 </sitemapindex>
