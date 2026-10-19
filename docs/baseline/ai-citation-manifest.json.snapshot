@@ -369,24 +369,17 @@
     {
       "@type": "Article",
       "slug": "bewertungen-reputation-hub",
-      "headline": "Bewertungen & Reputation Hub – Alle Guides",
-      "description": "Alle Guides zu Google Bewertungen: Generierung, Antwort-Vorlagen, negative Bewertungen, Review-Schema und Ranking-Impact.",
+      "headline": "Bewertungen und Reputation: alle Anleitungen im Überblick",
+      "description": "Alles zu Google-Bewertungen an einem Ort: richtig um Rezensionen bitten, auf Kritik antworten, unzulässige Bewertungen melden und was Sterne wirklich bringen.",
       "url": "https://localdominate.org/blog/bewertungen-reputation-hub",
       "canonical": "https://localdominate.org/blog/bewertungen-reputation-hub",
       "markdown_url": "https://localdominate.org/blog-md/bewertungen-reputation-hub.md",
-      "citation": "LocalDominate (2026-03-05). Bewertungen & Reputation Hub – Alle Guides. https://localdominate.org/blog/bewertungen-reputation-hub",
+      "citation": "LocalDominate (2026-10-12). Bewertungen und Reputation: alle Anleitungen im Überblick. https://localdominate.org/blog/bewertungen-reputation-hub",
       "inLanguage": "de-DE",
       "datePublished": "2026-03-05",
-      "dateModified": "2026-03-05",
+      "dateModified": "2026-10-12",
       "readingTimeMinutes": 5,
-      "category": "Bewertungen",
-      "keywords": [
-        "google bewertungen",
-        "bewertungen management",
-        "reputation management",
-        "review strategie",
-        "bewertungen hub"
-      ],
+      "category": "Themenübersicht",
       "geoTargets": [
         {
           "name": "Deutschland",
@@ -404,13 +397,7 @@
           "sameAs": "https://www.wikidata.org/wiki/Q39"
         }
       ],
-      "industries": [],
-      "recommendedRetrievalQueries": [
-        "Bewertungen & Reputation Hub – Alle Guides",
-        "Bewertungen & Reputation Hub – Alle Guides LocalDominate",
-        "Bewertungen & Reputation Hub – Alle Guides DACH"
-      ],
-      "tldr": "Alle Guides zu Google Bewertungen: Generierung, Antwort-Vorlagen, negative Bewertungen, Review-Schema und Ranking-Impact."
+      "tldr": "Bitten Sie alle Kunden nach einer echten Erfahrung um eine Rezension und machen Sie es ihnen leicht, etwa mit dem Bewertungslink oder einem QR-Code aus Ihrem Profil. Verboten sind Gegenleistungen, gekaufte Bewertungen und das gezielte Fragen nur zufriedener Kunden. Auf Kritik antworten Sie sachlich und ohne persönliche Daten. Melden Sie nur Rezensionen, die gegen Googles Richtlinien verstoßen."
     },
     {
       "@type": "Article",
@@ -889,24 +876,17 @@
     {
       "@type": "Article",
       "slug": "faq-hub",
-      "headline": "FAQ Hub: Alle Local SEO Fragen beantwortet",
-      "description": "50+ häufig gestellte Fragen zu Local SEO — von Grundlagen über Google Business Profil bis AI-Optimierung. Sofortige Antworten.",
+      "headline": "Häufige Fragen zu Local SEO: kurze Antworten und wo Sie mehr finden",
+      "description": "Kurze Antworten auf häufige Fragen zu Local SEO, Google-Unternehmensprofil, Bewertungen, Technik und KI-Suche, mit Links zu den ausführlichen Leitfäden.",
       "url": "https://localdominate.org/blog/faq-hub",
       "canonical": "https://localdominate.org/blog/faq-hub",
       "markdown_url": "https://localdominate.org/blog-md/faq-hub.md",
-      "citation": "LocalDominate (2026-03-08). FAQ Hub: Alle Local SEO Fragen beantwortet. https://localdominate.org/blog/faq-hub",
+      "citation": "LocalDominate (2026-10-12). Häufige Fragen zu Local SEO: kurze Antworten und wo Sie mehr finden. https://localdominate.org/blog/faq-hub",
       "inLanguage": "de-DE",
       "datePublished": "2026-03-08",
-      "dateModified": "2026-03-08",
-      "readingTimeMinutes": 15,
-      "category": "Ressourcen",
-      "keywords": [
-        "local seo faq",
-        "local seo fragen",
-        "google business profil faq",
-        "bewertungen faq",
-        "seo fragen antworten"
-      ],
+      "dateModified": "2026-10-12",
+      "readingTimeMinutes": 5,
+      "category": "Themenübersicht",
       "geoTargets": [
         {
           "name": "Deutschland",
@@ -924,13 +904,7 @@
           "sameAs": "https://www.wikidata.org/wiki/Q39"
         }
       ],
-      "industries": [],
-      "recommendedRetrievalQueries": [
-        "FAQ Hub",
-        "FAQ Hub LocalDominate",
-        "FAQ Hub DACH"
-      ],
-      "tldr": "50+ häufig gestellte Fragen zu Local SEO — von Grundlagen über Google Business Profil bis AI-Optimierung. Sofortige Antworten."
+      "tldr": "Local SEO sind alle Maßnahmen, mit denen ein Betrieb bei ortsbezogenen Suchen in Google Maps, im Kartenblock der Suche und in KI-Antworten erscheint. Google sortiert nach Relevanz, Entfernung und Bekanntheit, und ein besseres Ranking lässt sich laut Google nicht kaufen. Wichtig sind ein vollständiges Unternehmensprofil, eine klare Website, einheitliche Firmendaten und echte Bewertungen."
     },
     {
       "@type": "Article",
@@ -1553,23 +1527,17 @@
     {
       "@type": "Article",
       "slug": "google-business-profil-hub",
-      "headline": "Google Business Profil Hub – Alle Guides & Anleitungen",
-      "description": "Komplette Sammlung aller Google Business Profil Guides: Profil-Optimierung, Bewertungen, Insights, erweiterte Funktionen und Fehlerbehebung.",
+      "headline": "Google-Unternehmensprofil: alle Anleitungen im Überblick",
+      "description": "Alle Anleitungen zum Google-Unternehmensprofil an einem Ort: einrichten, Kategorie wählen, Fotos, Öffnungszeiten, mehrere Standorte, KI-Funktionen und Probleme.",
       "url": "https://localdominate.org/blog/google-business-profil-hub",
       "canonical": "https://localdominate.org/blog/google-business-profil-hub",
       "markdown_url": "https://localdominate.org/blog-md/google-business-profil-hub.md",
-      "citation": "LocalDominate (2026-03-05). Google Business Profil Hub – Alle Guides & Anleitungen. https://localdominate.org/blog/google-business-profil-hub",
+      "citation": "LocalDominate (2026-10-12). Google-Unternehmensprofil: alle Anleitungen im Überblick. https://localdominate.org/blog/google-business-profil-hub",
       "inLanguage": "de-DE",
       "datePublished": "2026-03-05",
-      "dateModified": "2026-03-05",
-      "readingTimeMinutes": 5,
-      "category": "Google Business",
-      "keywords": [
-        "google business profil",
-        "gbp optimierung",
-        "google my business guide",
-        "google business hub"
-      ],
+      "dateModified": "2026-10-12",
+      "readingTimeMinutes": 6,
+      "category": "Themenübersicht",
       "geoTargets": [
         {
           "name": "Deutschland",
@@ -1587,13 +1555,7 @@
           "sameAs": "https://www.wikidata.org/wiki/Q39"
         }
       ],
-      "industries": [],
-      "recommendedRetrievalQueries": [
-        "Google Business Profil Hub – Alle Guides & Anleitungen",
-        "Google Business Profil Hub – Alle Guides & Anleitungen LocalDominate",
-        "Google Business Profil Hub – Alle Guides & Anleitungen DACH"
-      ],
-      "tldr": "Komplette Sammlung aller Google Business Profil Guides: Profil-Optimierung, Bewertungen, Insights, erweiterte Funktionen und Fehlerbehebung."
+      "tldr": "Das Google-Unternehmensprofil, früher Google My Business, ist Ihr kostenloser Eintrag in der Google-Suche und in Google Maps. Beginnen Sie mit Inhaberschaft und Bestätigung, dann folgen Name, Hauptkategorie, Adresse oder Einzugsgebiet und Öffnungszeiten nach Googles Richtlinien. Danach ergänzen Sie Leistungen, Attribute und echte Fotos und sehen sich monatlich die Leistungsdaten an."
     },
     {
       "@type": "Article",
@@ -1763,24 +1725,17 @@
     {
       "@type": "Article",
       "slug": "google-maps-seo-hub",
-      "headline": "Google Maps SEO Hub: Alle Guides für lokale Sichtbarkeit",
-      "description": "Das umfassendste Google Maps SEO Hub: Rankings verbessern, GBP optimieren, Bewertungen managen, Insights analysieren und Probleme lösen. 25+ Artikel.",
+      "headline": "Google Maps SEO: alle Anleitungen im Überblick",
+      "description": "Google Maps SEO an einem Ort: wie Google lokal sortiert, Ranking messen und verbessern, Konkurrenz analysieren, Spam melden, Vorlagen und Apple sowie Bing.",
       "url": "https://localdominate.org/blog/google-maps-seo-hub",
       "canonical": "https://localdominate.org/blog/google-maps-seo-hub",
       "markdown_url": "https://localdominate.org/blog-md/google-maps-seo-hub.md",
-      "citation": "LocalDominate (2026-03-08). Google Maps SEO Hub: Alle Guides für lokale Sichtbarkeit. https://localdominate.org/blog/google-maps-seo-hub",
+      "citation": "LocalDominate (2026-10-12). Google Maps SEO: alle Anleitungen im Überblick. https://localdominate.org/blog/google-maps-seo-hub",
       "inLanguage": "de-DE",
       "datePublished": "2026-03-08",
-      "dateModified": "2026-03-08",
-      "readingTimeMinutes": 8,
-      "category": "Google Maps",
-      "keywords": [
-        "google maps seo",
-        "google maps ranking",
-        "maps optimierung",
-        "google maps marketing",
-        "lokale sichtbarkeit google maps"
-      ],
+      "dateModified": "2026-10-12",
+      "readingTimeMinutes": 6,
+      "category": "Themenübersicht",
       "geoTargets": [
         {
           "name": "Deutschland",
@@ -1798,13 +1753,7 @@
           "sameAs": "https://www.wikidata.org/wiki/Q39"
         }
       ],
-      "industries": [],
-      "recommendedRetrievalQueries": [
-        "Google Maps SEO Hub",
-        "Google Maps SEO Hub LocalDominate",
-        "Google Maps SEO Hub DACH"
-      ],
-      "tldr": "Das umfassendste Google Maps SEO Hub: Rankings verbessern, GBP optimieren, Bewertungen managen, Insights analysieren und Probleme lösen. 25+ Artikel."
+      "tldr": "Google sortiert Treffer in Maps nach Relevanz, Entfernung und Bekanntheit. Eine bessere Position lässt sich laut Google nicht kaufen. Laut Google helfen ein bestätigtes, vollständiges Profil, Websites, die auf Ihren Betrieb verweisen, und mehr echte Rezensionen. Prozent-Gewichtungen einzelner Faktoren stammen aus Umfragen von Fachleuten, nicht von Google. Deshalb messen Sie zuerst und ändern dann gezielt."
     },
     {
       "@type": "Article",
@@ -2502,23 +2451,17 @@
     {
       "@type": "Article",
       "slug": "local-seo-branchen-hub",
-      "headline": "Local SEO Branchen-Guides – 22+ Branchen im Überblick",
-      "description": "Branchenspezifische Local SEO Anleitungen für Gastronomie, Gesundheit, Handwerk, Dienstleistungen und Lifestyle.",
+      "headline": "Local SEO nach Branche: alle Leitfäden im Überblick",
+      "description": "Local SEO für Ihre Branche: Leitfäden für Hotels, Gastronomie, Handwerk, Praxen, Kanzleien, Steuerberater, Studios und Dienstleister in Deutschland, AT und CH.",
       "url": "https://localdominate.org/blog/local-seo-branchen-hub",
       "canonical": "https://localdominate.org/blog/local-seo-branchen-hub",
       "markdown_url": "https://localdominate.org/blog-md/local-seo-branchen-hub.md",
-      "citation": "LocalDominate (2026-03-05). Local SEO Branchen-Guides – 22+ Branchen im Überblick. https://localdominate.org/blog/local-seo-branchen-hub",
+      "citation": "LocalDominate (2026-10-12). Local SEO nach Branche: alle Leitfäden im Überblick. https://localdominate.org/blog/local-seo-branchen-hub",
       "inLanguage": "de-DE",
       "datePublished": "2026-03-05",
-      "dateModified": "2026-03-05",
-      "readingTimeMinutes": 5,
-      "category": "Branchen",
-      "keywords": [
-        "local seo branchen",
-        "branchen seo guide",
-        "local seo nach branche",
-        "branchenspezifisches seo"
-      ],
+      "dateModified": "2026-10-12",
+      "readingTimeMinutes": 6,
+      "category": "Themenübersicht",
       "geoTargets": [
         {
           "name": "Deutschland",
@@ -2536,13 +2479,7 @@
           "sameAs": "https://www.wikidata.org/wiki/Q39"
         }
       ],
-      "industries": [],
-      "recommendedRetrievalQueries": [
-        "Local SEO Branchen-Guides – 22+ Branchen im Überblick",
-        "Local SEO Branchen-Guides – 22+ Branchen im Überblick LocalDominate",
-        "Local SEO Branchen-Guides – 22+ Branchen im Überblick DACH"
-      ],
-      "tldr": "Branchenspezifische Local SEO Anleitungen für Gastronomie, Gesundheit, Handwerk, Dienstleistungen und Lifestyle."
+      "tldr": "Die Grundlagen der lokalen Suche gelten für alle Branchen: Google sortiert nach Relevanz, Entfernung und Bekanntheit. Unterschiede gibt es bei der Kategorie, die je nach Branche Funktionen wie Speisekarte, Buchungsschaltfläche oder Hotelausstattung freischaltet, bei den Pflichtangaben und beim Berufsrecht, etwa für Praxen, Kanzleien, Steuerberater und Apotheken. Die Branchenleitfäden zeigen, was das für Ihren Betrieb konkret heißt."
     },
     {
       "@type": "Article",
@@ -3774,24 +3711,17 @@
     {
       "@type": "Article",
       "slug": "local-seo-staedte-hub",
-      "headline": "Local SEO Städte-Guides – DACH-Region",
-      "description": "Stadtspezifische Local SEO Guides für Berlin, Hamburg, München, Wien, Zürich und mehr. Lokale Besonderheiten für jede Stadt.",
+      "headline": "Local SEO nach Stadt und Land: alle Leitfäden für Deutschland, Österreich und die Schweiz",
+      "description": "Local SEO in Deutschland, Österreich und der Schweiz: Leitfäden zu Recht und Verzeichnissen sowie für Berlin, Hamburg, München, Wien, Zürich und weitere Städte.",
       "url": "https://localdominate.org/blog/local-seo-staedte-hub",
       "canonical": "https://localdominate.org/blog/local-seo-staedte-hub",
       "markdown_url": "https://localdominate.org/blog-md/local-seo-staedte-hub.md",
-      "citation": "LocalDominate (2026-03-05). Local SEO Städte-Guides – DACH-Region. https://localdominate.org/blog/local-seo-staedte-hub",
+      "citation": "LocalDominate (2026-10-12). Local SEO nach Stadt und Land: alle Leitfäden für Deutschland, Österreich und die Schweiz. https://localdominate.org/blog/local-seo-staedte-hub",
       "inLanguage": "de-DE",
       "datePublished": "2026-03-05",
-      "dateModified": "2026-03-05",
+      "dateModified": "2026-10-12",
       "readingTimeMinutes": 5,
-      "category": "Städte",
-      "keywords": [
-        "local seo städte",
-        "local seo berlin",
-        "local seo münchen",
-        "local seo wien",
-        "städte seo guide"
-      ],
+      "category": "Themenübersicht",
       "geoTargets": [
         {
           "name": "Deutschland",
@@ -3809,16 +3739,7 @@
           "sameAs": "https://www.wikidata.org/wiki/Q39"
         }
       ],
-      "industries": [],
-      "recommendedRetrievalQueries": [
-        "Local SEO Städte-Guides – DACH-Region",
-        "Local SEO Städte-Guides – DACH-Region LocalDominate",
-        "Local SEO Städte-Guides – DACH-Region DACH",
-        "Local SEO Städte-Guides – DACH-Region Berlin",
-        "Local SEO Städte-Guides – DACH-Region München",
-        "Local SEO Städte-Guides – DACH-Region Wien"
-      ],
-      "tldr": "Stadtspezifische Local SEO Guides für Berlin, Hamburg, München, Wien, Zürich und mehr. Lokale Besonderheiten für jede Stadt."
+      "tldr": "Lokale Sichtbarkeit folgt in Deutschland, Österreich und der Schweiz denselben Google-Regeln: Relevanz, Entfernung und Bekanntheit. Anders sind der rechtliche Rahmen, etwa Impressum und Barrierefreiheit, die wichtigen Verzeichnisse und die Sprache Ihrer Kunden. In großen Städten entscheidet oft die Entfernung: Wer in einem anderen Bezirk sucht, sieht eine andere Liste. Legen Sie Ihr Einzugsgebiet deshalb nach den Gebieten fest, die Sie wirklich bedienen."
     },
     {
       "@type": "Article",
@@ -5392,6 +5313,102 @@
       "readingTimeMinutes": 9,
       "category": "Kosmetik & Nagelstudio",
       "tldr": "Kosmetikstudios werden über einzelne Behandlungen gesucht, nicht über das Wort „Kosmetik“. Deshalb braucht jede wichtige Behandlung eine eigene Seite mit Ablauf, Dauer und Preis, dazu ein Google-Profil mit passender Kategorie und allen Leistungen. Bei Werbeaussagen zu Wirkung und Heilung sowie bei Geräten mit Licht oder Strom gelten gesetzliche Grenzen."
+    },
+    {
+      "@type": "Article",
+      "slug": "ai-zukunft-hub",
+      "headline": "KI-Suche und GEO: alle Anleitungen im Überblick",
+      "description": "KI-Suche für lokale Betriebe an einem Ort: Übersicht mit KI, KI-Modus, ChatGPT, Perplexity, Copilot, KI-Crawler, llms.txt, Messung und falsche Angaben.",
+      "url": "https://localdominate.org/blog/ai-zukunft-hub",
+      "canonical": "https://localdominate.org/blog/ai-zukunft-hub",
+      "markdown_url": "https://localdominate.org/blog-md/ai-zukunft-hub.md",
+      "citation": "LocalDominate (2026-10-12). KI-Suche und GEO: alle Anleitungen im Überblick. https://localdominate.org/blog/ai-zukunft-hub",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-03-09",
+      "dateModified": "2026-10-12",
+      "readingTimeMinutes": 7,
+      "category": "Themenübersicht",
+      "tldr": "GEO (Generative Engine Optimization) meint Maßnahmen, mit denen Inhalte in KI-Antworten genannt und als Quelle verlinkt werden. Google schreibt, für Übersichten mit KI und den KI-Modus sei keine spezielle Optimierung nötig. Für lokale Betriebe zählen deshalb dieselben Grundlagen: eine lesbare Website, ein gepflegtes Unternehmensprofil, einheitliche Daten und Crawler, die Ihre Seiten lesen dürfen. Eine Platzierung garantiert kein Anbieter."
+    },
+    {
+      "@type": "Article",
+      "slug": "case-studies-hub",
+      "headline": "Local-SEO-Fallstudien: Ergebnisse prüfen und selbst dokumentieren",
+      "description": "Woran Sie belastbare Local-SEO-Fallstudien erkennen und wie Sie eigene Ergebnisse dokumentieren: Ausgangslage, Messpunkte, Änderungsprotokoll, Leistungsdaten.",
+      "url": "https://localdominate.org/blog/case-studies-hub",
+      "canonical": "https://localdominate.org/blog/case-studies-hub",
+      "markdown_url": "https://localdominate.org/blog-md/case-studies-hub.md",
+      "citation": "LocalDominate (2026-10-12). Local-SEO-Fallstudien: Ergebnisse prüfen und selbst dokumentieren. https://localdominate.org/blog/case-studies-hub",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-03-09",
+      "dateModified": "2026-10-12",
+      "readingTimeMinutes": 4,
+      "category": "Themenübersicht",
+      "tldr": "Eine belastbare Fallstudie zur lokalen Suche braucht eine dokumentierte Ausgangslage, feste Suchbegriffe und Messpunkte, ein Protokoll aller Änderungen mit Datum und dieselben Messungen danach. Dazu gehören Leistungsdaten wie Anrufe und Websiteklicks, nicht nur Positionen. Ohne diese Angaben ist eine Vorher-nachher-Geschichte eine Behauptung, kein Beleg. Mit denselben Bausteinen dokumentieren Sie Ihre eigenen Ergebnisse."
+    },
+    {
+      "@type": "Article",
+      "slug": "content-marketing-hub",
+      "headline": "Lokales Content Marketing und Links: alle Anleitungen im Überblick",
+      "description": "Lokales Content Marketing an einem Ort: Suchbegriffe finden, Inhalte für Kunden vor Ort planen, lokale Links und Erwähnungen aufbauen, Firmeneinträge pflegen.",
+      "url": "https://localdominate.org/blog/content-marketing-hub",
+      "canonical": "https://localdominate.org/blog/content-marketing-hub",
+      "markdown_url": "https://localdominate.org/blog-md/content-marketing-hub.md",
+      "citation": "LocalDominate (2026-10-12). Lokales Content Marketing und Links: alle Anleitungen im Überblick. https://localdominate.org/blog/content-marketing-hub",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-03-09",
+      "dateModified": "2026-10-12",
+      "readingTimeMinutes": 5,
+      "category": "Themenübersicht",
+      "tldr": "Lokales Content Marketing heißt, Inhalte zu erstellen, die Menschen in Ihrem Einzugsgebiet bei einer konkreten Entscheidung helfen: Leistungsseiten mit echten Ortsangaben, Antworten auf häufige Fragen, Termine und Neuigkeiten. Google empfiehlt Inhalte mit Wissen aus erster Hand, geschrieben für Menschen. Dazu kommen Erwähnungen auf Websites aus Ihrer Region, die einen echten Grund haben, auf Sie zu verweisen."
+    },
+    {
+      "@type": "Article",
+      "slug": "technisches-seo-hub",
+      "headline": "Technisches Local SEO: alle Anleitungen im Überblick",
+      "description": "Technisches Local SEO an einem Ort: strukturierte Daten, mobile Website, Ladezeit, Standortseiten, Sprachsuche, KI-Crawler und Messung für lokale Betriebe.",
+      "url": "https://localdominate.org/blog/technisches-seo-hub",
+      "canonical": "https://localdominate.org/blog/technisches-seo-hub",
+      "markdown_url": "https://localdominate.org/blog-md/technisches-seo-hub.md",
+      "citation": "LocalDominate (2026-10-12). Technisches Local SEO: alle Anleitungen im Überblick. https://localdominate.org/blog/technisches-seo-hub",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-03-09",
+      "dateModified": "2026-10-12",
+      "readingTimeMinutes": 5,
+      "category": "Themenübersicht",
+      "tldr": "Technisches Local SEO sorgt dafür, dass Suchmaschinen und KI-Dienste Ihre Website lesen, verstehen und Ihrem Betrieb zuordnen können. Google indexiert und bewertet Websites anhand ihrer mobilen Version. Für die meisten Betriebe reichen strukturierte Daten vom Typ LocalBusiness, die mit dem sichtbaren Text übereinstimmen. Dazu kommen schnelle Seiten, eine Seite je Leistung oder Standort und Crawler, die Ihre Seiten abrufen dürfen."
+    },
+    {
+      "@type": "Article",
+      "slug": "tools-ressourcen-hub",
+      "headline": "Local-SEO-Vorlagen, Checklisten und Werkzeuge im Überblick",
+      "description": "Alle Vorlagen, Checklisten und Pläne für Local SEO an einem Ort: Audit, Keyword-Liste, Einträge, Ranking-Protokoll, Monatsroutine, 12-Wochen-Plan und Werkzeuge.",
+      "url": "https://localdominate.org/blog/tools-ressourcen-hub",
+      "canonical": "https://localdominate.org/blog/tools-ressourcen-hub",
+      "markdown_url": "https://localdominate.org/blog-md/tools-ressourcen-hub.md",
+      "citation": "LocalDominate (2026-10-12). Local-SEO-Vorlagen, Checklisten und Werkzeuge im Überblick. https://localdominate.org/blog/tools-ressourcen-hub",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-03-09",
+      "dateModified": "2026-10-12",
+      "readingTimeMinutes": 5,
+      "category": "Themenübersicht",
+      "tldr": "Für Local SEO brauchen Sie wenige, aber feste Werkzeuge: ein Audit für die Bestandsaufnahme, einen Plan mit Reihenfolge, eine Liste Ihrer Suchbegriffe und Firmeneinträge, ein Protokoll für Positionen und Änderungen und eine monatliche Routine. Die wichtigsten Programme dafür sind kostenlos: das Google-Unternehmensprofil, die Google Search Console und PageSpeed Insights. Entscheidend ist, dass Sie jeden Monat nach derselben Methode arbeiten."
+    },
+    {
+      "@type": "Article",
+      "slug": "troubleshooting-hub",
+      "headline": "Probleme mit dem Google-Unternehmensprofil: alle Lösungen im Überblick",
+      "description": "Google-Profil gesperrt, nicht bestätigt, doppelt oder plötzlich unsichtbar? Hier finden Sie für jedes Problem die passende Anleitung mit den offiziellen Wegen.",
+      "url": "https://localdominate.org/blog/troubleshooting-hub",
+      "canonical": "https://localdominate.org/blog/troubleshooting-hub",
+      "markdown_url": "https://localdominate.org/blog-md/troubleshooting-hub.md",
+      "citation": "LocalDominate (2026-10-12). Probleme mit dem Google-Unternehmensprofil: alle Lösungen im Überblick. https://localdominate.org/blog/troubleshooting-hub",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-03-09",
+      "dateModified": "2026-10-12",
+      "readingTimeMinutes": 5,
+      "category": "Themenübersicht",
+      "tldr": "Bei Problemen mit dem Google-Unternehmensprofil lohnt der Blick auf drei Stellen: den Status des Profils, Angaben, die nicht zur Wirklichkeit passen, und Verstöße gegen Googles Richtlinien. Prüfen Sie deshalb zuerst den Status im Profil, beheben Sie dann falsche Angaben und legen Sie erst danach Einspruch ein. Zahlen Sie niemandem Geld für eine versprochene Reaktivierung."
     }
   ]
 }
