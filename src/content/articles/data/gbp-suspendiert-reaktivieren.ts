@@ -16,11 +16,11 @@ const article: V4Article = {
     "Google unterscheidet gesperrte Profile (nicht mehr öffentlich sichtbar), deaktivierte Profile (Qualitätsverstöße) und Einschränkungen einzelner Funktionen, etwa bei Rezensionen.",
     "Ist Ihr Google-Konto eingeschränkt, sind alle Profile darin gesperrt. Dann legen Sie zuerst gegen die Kontoeinschränkung Einspruch ein, danach für die einzelnen Profile.",
     "Google nimmt als Nachweis unter anderem Gewerbeanmeldung, Gewerbeerlaubnis, Steuerbescheinigungen und Strom-, Telefon-, Wasser- oder Internetrechnungen an. Name und Adresse müssen zum Profil passen.",
-    "Ein geöffnetes Nachweisformular müssen Sie innerhalb von 60 Minuten absenden. Eine feste Bearbeitungszeit nennt Google nicht, die Entscheidung kommt per E-Mail.",
-    "Ein neues Profil für denselben Betrieb oder ein bezahlter „Entsperr-Service“ machen die Lage schlimmer. Google nimmt für eine Reaktivierung kein Geld.",
+    "Ein geöffnetes Nachweisformular müssen Sie innerhalb von 60 Minuten absenden. Auf der Einspruchsseite haben wir keine feste Bearbeitungszeit gefunden, eine allgemeine Google-Hilfeseite zu Einsprüchen nennt bis zu 5 Werktage. Die Entscheidung kommt per E-Mail.",
+    "Ein neues Profil für denselben Betrieb löst das Problem nicht, und ein bezahlter „Entsperr-Service“ ist unseriös. Google nimmt für eine Reaktivierung kein Geld.",
   ],
   publishedAt: "2025-01-10",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-14",
   readingTime: 12,
   sections: [
     {
@@ -73,7 +73,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Google behält sich laut seinen Richtlinien vor, den Zugang zu Profilen bei Verstößen zu sperren. In der Richtlinienübersicht nennt Google außerdem das Löschen oder Deaktivieren von Profilen, die am angegebenen Ort nicht existieren. Wie Name, Kategorie und Adresse regelkonform aussehen, steht im Artikel [Google Unternehmensprofil optimieren](/blog/google-my-business-optimieren#name-kategorien). Die passende Kategorie finden Sie mit dem [Kategorien-Guide](/blog/google-business-kategorien-guide).",
+          text: "Google behält sich laut seinen Richtlinien vor, den Zugang zu Profilen bei Verstößen zu sperren. In der Richtlinienübersicht nennt Google außerdem das Deaktivieren von Profilen, die am angegebenen Ort nicht existieren. Wie Name, Kategorie und Adresse regelkonform aussehen, steht im Artikel [Google Unternehmensprofil optimieren](/blog/google-my-business-optimieren#name-kategorien). Die passende Kategorie finden Sie mit dem [Kategorien-Guide](/blog/google-business-kategorien-guide).",
         },
         {
           t: "note",
@@ -92,7 +92,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Ein Profil gesperrt oder deaktiviert:** Einspruch direkt für dieses Profil im Einspruchstool.",
-            "**Konto eingeschränkt:** Laut Google zuerst Einspruch auf der Seite „Meine Kontoeinschränkungen“ einlegen und dort den Stand verfolgen. Erst nach Aufhebung der Kontoeinschränkung legen Sie Einspruch für die einzelnen Profile ein.",
+            "**Konto eingeschränkt:** Laut Google zuerst Einspruch auf der Seite „Meine Konten“ („My accounts“) einlegen und dort den Stand verfolgen. Erst nach Aufhebung der Kontoeinschränkung legen Sie Einspruch für die einzelnen Profile ein.",
             "**Konto eines anderen Google-Produkts eingeschränkt:** Wurde das Profil über ein anderes Google-Konto angelegt und dieses eingeschränkt, muss laut Richtlinienübersicht zuerst dieses Konto reaktiviert werden.",
             "**Konto eines Administrators entfernt:** Dann verliert nur diese Person den Zugriff. Die Standorte selbst sind laut Google nicht betroffen.",
           ],
@@ -199,7 +199,7 @@ const article: V4Article = {
             },
             {
               title: "Auf die E-Mail warten",
-              text: "Google nennt keine feste Bearbeitungszeit. Sie werden per E-Mail benachrichtigt, sobald der Einspruch geprüft ist. Prüfen Sie auch den Spam-Ordner.",
+              text: "Auf der Einspruchsseite haben wir keine feste Bearbeitungszeit gefunden, eine allgemeine Hilfeseite zu Einsprüchen nennt bis zu 5 Werktage. Sie werden per E-Mail benachrichtigt, sobald der Einspruch geprüft ist. Prüfen Sie auch den Spam-Ordner.",
             },
           ],
         },
@@ -223,7 +223,7 @@ const article: V4Article = {
         {
           t: "ul",
           items: [
-            "**Genehmigt:** Laut Google werden mit dem Profil auch Inhaber und Administratoren reaktiviert. Treten danach Probleme auf, wenden Sie sich an den Support der Unternehmensprofil-Hilfe.",
+            "**Genehmigt:** Bei einem entfernten Profil werden laut Google mit dem Profil auch Inhaber und Administratoren reaktiviert. Treten danach Probleme auf, wenden Sie sich an den Support der Unternehmensprofil-Hilfe.",
             "**Nicht genehmigt:** Eine weitere Prüfung ist erst nach einer Ablehnung möglich, über das Formular für lokale Einsprüche und nur mit neuen Nachweisen.",
             "**Kein Einspruch möglich:** Dann prüfen Sie, ob der Betrieb die Grundvoraussetzungen erfüllt, etwa persönlichen Kundenkontakt zu den angegebenen Zeiten. Reine Online-Betriebe sind laut Google nicht berechtigt.",
             "**EU und EWR:** Google weist darauf hin, dass Einwohner der EU und des EWR zusätzliche Rechtsbehelfe haben können. Nach dem Gesetz über digitale Dienste sind das zertifizierte außergerichtliche Streitbeilegungsstellen und der Rechtsweg.",
@@ -284,7 +284,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Wie lange dauert ein Einspruch bei Google?",
-      a: "Google nennt keine feste Bearbeitungszeit. Fest steht nur: Ein geöffnetes Nachweisformular müssen Sie innerhalb von 60 Minuten absenden, und die Entscheidung kommt per E-Mail. Angaben wie „drei bis sieben Werktage“ stammen nicht von Google.",
+      a: "Auf der Einspruchsseite haben wir keine feste Bearbeitungszeit gefunden. Eine allgemeine Google-Hilfeseite zu Einsprüchen nennt bis zu 5 Werktage, die Entscheidung kommt per E-Mail. Ein geöffnetes Nachweisformular müssen Sie innerhalb von 60 Minuten absenden.",
     },
     {
       q: "Kann ich einfach ein neues Profil anlegen?",
@@ -314,6 +314,7 @@ const article: V4Article = {
     { title: "Guidelines for representing your business on Google", publisher: "Google Business Profile Help", url: "https://support.google.com/business/answer/3038177?hl=en" },
     { title: "Overview of Google Business Profile policies", publisher: "Google Business Profile Help", url: "https://support.google.com/business/answer/13762416?hl=en" },
     { title: "Prohibited & restricted content (Fake engagement)", publisher: "Google Maps User Generated Content Policy Help", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=en" },
+    { title: "Appeal Business Profile content & profile restrictions", publisher: "Google Business Profile Help", url: "https://support.google.com/business/answer/13597551?hl=en" },
     { title: "Help protect your Google Business Profile", publisher: "Google Business Profile Help", url: "https://support.google.com/business/answer/14509283?hl=en" },
     { title: "European Union Digital Services Act Resolution Options", publisher: "Google", url: "https://support.google.com/european-union-digital-services-act-redress-options" },
   ],

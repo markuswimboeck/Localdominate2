@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/negative-google-bewertungen
 markdown_url: https://localdominate.org/blog-md/negative-google-bewertungen.md
 language: de-DE
 published: 2026-01-20
-updated: 2026-10-10
+updated: 2026-10-14
 reading_time_minutes: 12
 category: "Bewertungen"
 author: LocalDominate Redaktion
@@ -108,7 +108,7 @@ Antworten können Sie nur, wenn Ihr Unternehmensprofil bestätigt ist. Google ne
 Bieten Sie nie eine Gegenleistung dafür an, dass eine negative Rezension geändert oder gelöscht wird. Versuchen Sie auch nicht, Kritik mit bestellten positiven Rezensionen zu überdecken.
 
 - **Keine Anreize:** Google verbietet Zahlungen, Rabatte, kostenlose Produkte oder Leistungen für das Veröffentlichen, Überarbeiten oder Entfernen einer Rezension.
-- **Kein Druck:** Laut Google dürfen Unternehmen Kunden nicht auffordern oder unter Druck setzen, eine Rezension zu schreiben, solange diese noch vor Ort sind.
+- **Kein Druck:** Laut Google dürfen Unternehmen Kunden vor Ort nicht zu einer Rezension verpflichten oder unter Druck setzen.
 - **Kein Aussortieren:** Negative Rezensionen verhindern oder gezielt nur zufriedene Kunden um Rezensionen bitten ist nicht erlaubt.
 - **Keine Rezensionen aus dem eigenen Umfeld:** Rezensionen von Mitarbeitenden, Familie oder Geschäftspartnern gelten als Interessenkonflikt.
 - **Keine Gegenrezension beim Mitbewerber:** Inhalte über einen Mitbewerber, die seinem Ruf schaden sollen, verbietet Google ausdrücklich.
@@ -215,4 +215,4 @@ Bei Beleidigung, übler Nachrede oder Verleumdung kommt das infrage. Reine Meinu
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-14. Fehler gefunden? info@localdominate.org

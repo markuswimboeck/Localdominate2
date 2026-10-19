@@ -39,8 +39,8 @@ export default defineConfig(({ mode }) => ({
           // recharts is deliberately NOT a manual chunk: forcing it into one chunk pulled shared
           // helpers into it, so the entry chunk imported the whole 116 KB on every public page.
           // Left to Rollup it stays inside the lazy admin/blog chart pages.
-          // Icons (Lucide) — split off so it's cached and not blocking
-          'icons-vendor': ['lucide-react'],
+          // lucide-react is deliberately NOT a manual chunk: one chunk held every icon used anywhere
+          // on the site and every page loaded it. Left to Rollup, each page gets only its own icons.
         },
       },
     },

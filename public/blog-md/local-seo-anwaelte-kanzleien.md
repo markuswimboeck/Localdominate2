@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-anwaelte-kanzleien
 markdown_url: https://localdominate.org/blog-md/local-seo-anwaelte-kanzleien.md
 language: de-DE
 published: 2026-01-30
-updated: 2026-10-10
+updated: 2026-10-14
 reading_time_minutes: 13
 category: "Branchen"
 author: LocalDominate Redaktion
@@ -25,7 +25,7 @@ Kanzleien werden lokal gefunden wie andere Betriebe: über ein korrektes Google-
 
 ## Das Wichtigste in Kürze
 
-- Google nennt Anwälte ausdrücklich als unabhängige Fachkräfte. Wer mit eigenen Mandanten am Standort direkt erreichbar ist, darf ein eigenes Profil neben dem Kanzleiprofil haben, Angestellte nicht.
+- Google nennt Anwälte ausdrücklich als unabhängige Fachkräfte. Wer mit eigenen Mandanten am Standort direkt erreichbar ist, darf ein eigenes Profil neben dem Kanzleiprofil haben, Kanzleipersonal ohne eigene Mandanten nicht.
 - Mehrere Profile einer Person für verschiedene Rechtsgebiete verbietet Google. Rechtsgebiete gehören auf die Website, nicht in zusätzliche Profile oder in den Namen.
 - In Deutschland ist Werbung nur erlaubt, soweit sie sachlich über die berufliche Tätigkeit unterrichtet (§ 43b BRAO, für Steuerberater § 57a StBerG). Begriffe wie „Spezialist“ setzen nachweisbare Kenntnisse und erhebliche Tätigkeit voraus und dürfen nicht mit dem Fachanwalt verwechselbar sein.
 - Antworten Sie auf Bewertungen, ohne zu bestätigen, dass jemand Mandant war, und ohne Details zum Fall. Die Verschwiegenheitspflicht und § 203 StGB gelten auch online.
@@ -72,7 +72,7 @@ Anwälte dürfen werben, soweit die Werbung in Form und Inhalt sachlich über di
 
 ## Österreich und Schweiz: ähnliche Maßstäbe
 
-In Österreich ist Anwaltswerbung nach den Standesrichtlinien zulässig, wenn sie wahr, sachlich und mit den Berufspflichten vereinbar ist. Marktschreierische und vergleichende Werbung ist ausdrücklich unzulässig. In der Schweiz dürfen Anwälte werben, solange die Werbung objektiv bleibt und dem Informationsbedürfnis der Öffentlichkeit entspricht.
+In Österreich ist Anwaltswerbung nach den Standesrichtlinien zulässig, wenn sie wahr, sachlich und mit den Berufspflichten vereinbar ist. Marktschreierische Werbung und Vergleiche mit einer bestimmten anderen Kanzlei sind ausdrücklich unzulässig. In der Schweiz dürfen Anwälte werben, solange die Werbung objektiv bleibt und dem Informationsbedürfnis der Öffentlichkeit entspricht.
 
 **Österreich.** Die Richtlinien für die Ausübung des Rechtsanwaltsberufes (RL-BA 2015) sagen in § 47, dass der Rechtsanwalt vornehmlich durch die Qualität seiner Leistung wirbt. Werbung ist zulässig, wenn sie wahr, sachlich und mit Ehre und Ansehen des Standes vereinbar ist. Ausdrücklich unzulässig sind unter anderem Selbstanpreisung durch marktschreierische Werbung, Vergleiche mit einer namentlich bestimmten anderen Kanzlei und die Nennung von Klienten ohne deren Einwilligung. Nach § 48 muss der Anwalt dafür sorgen, dass Dritte keine standeswidrige Werbung für ihn machen.
 
@@ -82,7 +82,7 @@ In Österreich ist Anwaltswerbung nach den Standesrichtlinien zulässig, wenn si
 
 ## Kanzleiprofil oder Anwaltsprofil: die Regeln von Google
 
-Google nennt Anwälte ausdrücklich als Beispiel für unabhängige Fachkräfte. Wer mit Mandantenverkehr am bestätigten Standort direkt erreichbar ist, darf ein eigenes Profil haben. Angestellte dürfen keines anlegen, und niemand darf mehrere Profile für verschiedene Rechtsgebiete erstellen.
+Google nennt Anwälte ausdrücklich als Beispiel für unabhängige Fachkräfte. Wer mit Mandantenverkehr am bestätigten Standort direkt erreichbar ist, darf ein eigenes Profil haben. Kanzleipersonal ohne eigene Mandanten soll keines anlegen, und niemand soll mehrere Profile für verschiedene Rechtsgebiete erstellen.
 
 In den Richtlinien für die Darstellung von Unternehmen zählt Google Ärzte, Zahnärzte, Anwälte, Finanzberater, Versicherungsvertreter und Immobilienmakler zu den unabhängigen Fachkräften. An einem Kanzleistandort gibt es deshalb zwei Arten von Profilen: das Profil der Kanzlei und, wo erlaubt, Profile einzelner Anwältinnen und Anwälte.
 
@@ -91,7 +91,7 @@ In den Richtlinien für die Darstellung von Unternehmen zählt Google Ärzte, Za
 | Situation | Was Google vorsieht |
 | --- | --- |
 | Kanzlei mit mehreren Partnern | Ein eigenes Profil für den Standort. Zusätzlich darf jede Anwältin, die mit Mandantenverkehr direkt erreichbar ist, ein eigenes Profil haben. Dessen Name enthält nur den Namen der Person, nicht den der Kanzlei. |
-| Angestellte Anwälte | Kein eigenes Profil. Stellen Sie sie auf der Website und mit Fotos im Kanzleiprofil vor. |
+| Angestellte ohne eigene Mandanten, Kanzleipersonal | Kein eigenes Profil. Stellen Sie sie auf der Website und mit Fotos im Kanzleiprofil vor. |
 | Einzelanwalt mit Kanzleinamen | Ein gemeinsames Profil. Google nennt das Format „[Marke/Unternehmen]: [Name der Fachkraft]“. |
 | Eine Person mit mehreren Rechtsgebieten | Ein Profil. Mehrere Profile für verschiedene Fachgebiete sind nicht erlaubt. |
 | Abteilung einer größeren Einheit | Eigenes Profil nur, wenn sich der genaue Name der Abteilung vom Namen des Hauptunternehmens unterscheidet. |
@@ -192,7 +192,7 @@ Eine Prüfliste für den Ist-Zustand finden Sie in der [Local-SEO-Audit-Checklis
 
 ### Darf jeder Anwalt einer Kanzlei ein eigenes Google-Profil haben?
 
-Nur wer mit Mandantenverkehr am Standort direkt erreichbar ist. Angestellte Anwälte dürfen laut Google kein eigenes Profil anlegen. Mehrere Profile einer Person für verschiedene Rechtsgebiete sind ebenfalls nicht erlaubt. Die Kanzlei selbst hat ein eigenes Standortprofil.
+Nur wer mit Mandantenverkehr am Standort direkt erreichbar ist. Kanzleipersonal ohne eigene Mandanten soll laut Google kein eigenes Profil anlegen. Mehrere Profile einer Person für verschiedene Rechtsgebiete sind ebenfalls nicht vorgesehen. Die Kanzlei selbst hat ein eigenes Standortprofil.
 
 ### Darf ich mich als „Spezialist“ für ein Rechtsgebiet bezeichnen?
 
@@ -227,4 +227,4 @@ Bei LocalDominate kostet der Profil Quick-Fix 79 €, die vollständige Profil-O
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-14. Fehler gefunden? info@localdominate.org

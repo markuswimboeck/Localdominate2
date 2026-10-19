@@ -20,7 +20,7 @@ const article: V4Article = {
     "Bei Erpressung mit Rezensionen rät Google: nicht zahlen, Beweise sichern, über das eigene Formular melden.",
   ],
   publishedAt: "2026-01-20",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-14",
   readingTime: 12,
   sections: [
     {
@@ -157,7 +157,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Keine Anreize:** Google verbietet Zahlungen, Rabatte, kostenlose Produkte oder Leistungen für das Veröffentlichen, Überarbeiten oder Entfernen einer Rezension.",
-            "**Kein Druck:** Laut Google dürfen Unternehmen Kunden nicht auffordern oder unter Druck setzen, eine Rezension zu schreiben, solange diese noch vor Ort sind.",
+            "**Kein Druck:** Laut Google dürfen Unternehmen Kunden vor Ort nicht zu einer Rezension verpflichten oder unter Druck setzen.",
             "**Kein Aussortieren:** Negative Rezensionen verhindern oder gezielt nur zufriedene Kunden um Rezensionen bitten ist nicht erlaubt.",
             "**Keine Rezensionen aus dem eigenen Umfeld:** Rezensionen von Mitarbeitenden, Familie oder Geschäftspartnern gelten als Interessenkonflikt.",
             "**Keine Gegenrezension beim Mitbewerber:** Inhalte über einen Mitbewerber, die seinem Ruf schaden sollen, verbietet Google ausdrücklich.",

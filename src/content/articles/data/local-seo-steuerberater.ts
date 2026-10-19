@@ -20,7 +20,7 @@ const article: V4Article = {
     "Unterlagen gehören nicht in ein einfaches Kontaktformular oder eine unverschlüsselte E-Mail. Externe Upload-Dienste brauchen einen Vertrag nach § 62a StBerG.",
   ],
   publishedAt: "2026-01-15",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-14",
   readingTime: 13,
   sections: [
     {
@@ -105,7 +105,7 @@ const article: V4Article = {
       id: "profile-standorte",
       title: "Google-Profil je Standort und für einzelne Berater",
       answer:
-        "Jeder echte Standort mit Mandantenverkehr kann ein eigenes Profil haben. Einzelne Steuerberater brauchen nur dann ein eigenes Profil, wenn sie mit eigenem Mandantenstamm am Standort direkt erreichbar sind. Angestellte legen keine eigenen Profile an.",
+        "Jeder echte Standort mit Mandantenverkehr kann ein eigenes Profil haben. Einzelne Steuerberater brauchen nur dann ein eigenes Profil, wenn sie mit eigenem Mandantenstamm am Standort direkt erreichbar sind. Kanzleipersonal ohne eigenen Mandantenstamm legt keine eigenen Profile an.",
       blocks: [
         {
           t: "p",

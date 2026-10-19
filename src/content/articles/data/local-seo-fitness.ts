@@ -20,7 +20,7 @@ const article: V4Article = {
     "Die Website braucht vor allem eine Seite für das Probetraining, einen lesbaren Kursplan und transparente Preise. Wer Verträge online verkauft, braucht in Deutschland den Kündigungsbutton.",
   ],
   publishedAt: "2026-02-04",
-  updatedAt: "2026-10-12",
+  updatedAt: "2026-10-18",
   readingTime: 13,
   sections: [
     {
@@ -197,6 +197,10 @@ const article: V4Article = {
         },
         {
           t: "p",
+          text: "Wie das auf einer Seite zusammenkommt, zeigt unsere [Beispiel-Website für ein erfundenes Studio](/gym-demo/): die heutigen Kurse gleich oben, Preise mit Laufzeit, Kündigungsfrist und Aufnahmegebühr, ein Ablauf für das Probetraining und der Kündigungsbutton in der Fußzeile. Über „Erklärungen zeigen“ sehen Sie, warum jedes Element dort steht.",
+        },
+        {
+          t: "p",
           text: "Strukturierte Daten helfen Google, Name, Adresse und Öffnungszeiten der Seite zuzuordnen. Google nennt in seiner Dokumentation für lokale Unternehmen ausdrücklich den Untertyp **HealthClub** als Beispiel. Wie Sie das umsetzen, steht im Artikel [Schema Markup für Local SEO](/blog/schema-markup-local-seo).",
         },
         {
@@ -324,7 +328,7 @@ const article: V4Article = {
     },
     {
       q: "Was kostet es, das Profil professionell prüfen zu lassen?",
-      a: "Bei LocalDominate kostet der Profil Quick-Fix 79 € und die vollständige Profil-Optimierung 390 €. Der Umfang steht vor dem Start fest, eine bestimmte Position versprechen wir nicht. Details auf der Seite [Leistungen](/services).",
+      a: "Bei LocalDominate kostet der Profil Quick-Fix 79 € und die vollständige Profil-Optimierung 390 €. Eine Studio-Website mit Kursplan und Preisen als Text und einer Seite für das Probetraining bauen wir in fünf Tagen ab 1.490 €. Der Umfang steht vor dem Start fest, eine bestimmte Position versprechen wir nicht. Details auf der Seite [Leistungen](/services).",
     },
   ],
   sources: [

@@ -1,7 +1,4 @@
 import { lazy, Suspense } from "react";
-import { Toaster } from "@/components/ui/toaster";
-import { Toaster as Sonner } from "@/components/ui/sonner";
-import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { LanguageProvider } from "./i18n/LanguageContext";  
@@ -94,6 +91,10 @@ const DesignSystemPreview = lazy(() => import("./pages/v4/DesignSystemPreview"))
 
 // Lazy load CoreWebVitalsTracker - not needed for initial render
 const CoreWebVitalsTracker = lazy(() => import("@/components/CoreWebVitalsTracker"));
+// Toast containers only matter after an interaction, so they are not part of the entry chunk.
+// Every component that shows a tooltip brings its own TooltipProvider.
+const Toaster = lazy(() => import("@/components/ui/toaster").then((m) => ({ default: m.Toaster })));
+const Sonner = lazy(() => import("@/components/ui/sonner").then((m) => ({ default: m.Toaster })));
 
 const queryClient = new QueryClient();
 
@@ -109,10 +110,11 @@ const App = () => (
     <QueryClientProvider client={queryClient}>
       <ABTestProvider>
         <LanguageProvider>
-          <TooltipProvider>
             <AfterMount>
-              <Toaster />
-              <Sonner />
+              <Suspense fallback={null}>
+                <Toaster />
+                <Sonner />
+              </Suspense>
             </AfterMount>
             <AfterMount>
               <Suspense fallback={null}>
@@ -208,7 +210,6 @@ const App = () => (
               </Routes>
             </Suspense>
           </BrowserRouter>
-        </TooltipProvider>
       </LanguageProvider>
     </ABTestProvider>
   </QueryClientProvider>
