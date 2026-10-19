@@ -67,7 +67,7 @@ const NicheImageShowcase = ({ service, city }: Props) => (
               <h3 className="font-bold">Zufriedene Kunden</h3>
             </div>
             <p className="text-sm text-muted-foreground">
-              Mehr 5-Sterne-Bewertungen und ein professioneller erster Eindruck bringen neue Kunden.
+              Echte Bewertungen, auf die du antwortest, und ein professioneller erster Eindruck helfen bei der Auswahl.
             </p>
           </div>
         </div>

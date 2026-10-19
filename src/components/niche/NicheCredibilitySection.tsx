@@ -14,7 +14,7 @@ const NicheCredibilitySection = ({ city, service }: Props) => (
           Wir arbeiten so, wie du es dir wünschst
         </h2>
         <p className="text-muted-foreground max-w-lg mx-auto">
-          Kein Kleingedrucktes. Keine leeren Versprechen. Nur nachvollziehbare Ergebnisse.
+          Kein Kleingedrucktes. Keine Versprechen zu Platzierung oder Umsatz.
         </p>
       </div>
       <div className="grid sm:grid-cols-2 gap-6 max-w-4xl mx-auto">
@@ -37,7 +37,7 @@ const NicheCredibilitySection = ({ city, service }: Props) => (
           {
             icon: BarChart3,
             title: "Messbare Ergebnisse",
-            desc: `Monatliche Berichte zeigen dir genau, wie viele neue Kunden dein ${service} in ${city} gewinnt.`,
+            desc: `Monatliche Berichte zeigen dir, wie sich Profilaufrufe, Anrufe und Anfragen deines ${service} in ${city} entwickeln.`,
           },
         ].map((item, i) => (
           <div
