@@ -18,11 +18,6 @@ export interface SEOTerm {
   /** Concise 40-60 word definition optimized for Google Featured Snippets. Starts with "[Term] ist/bezeichnet/sind..." */
   snippetDefinition?: string;
   features: string[];
-  statistics: {
-    label: string;
-    value: string;
-    icon: "trending" | "percent" | "users" | "search" | "chart" | "clock";
-  }[];
   benefits: string[];
   relatedTerms: string[];
   difficulty: "anfänger" | "fortgeschritten" | "experte";
@@ -44,11 +39,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Helpful Content Update",
       "Spam Updates",
       "Local Search Updates"
-    ],
-    statistics: [
-      { label: "Google Updates pro Jahr", value: "1000+", icon: "chart" },
-      { label: "Große Core Updates", value: "3-4x", icon: "trending" },
-      { label: "Ranking-Volatilität nach Update", value: "Hoch", icon: "percent" }
     ],
     benefits: [
       "Verständnis für Ranking-Schwankungen",
@@ -82,11 +72,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Erscheint bei Ladefehler des Bildes",
       "Lokale Keywords integrierbar"
     ],
-    statistics: [
-      { label: "Bilder ohne Alt-Text", value: "42%", icon: "percent" },
-      { label: "Ranking-Einfluss", value: "Mittel", icon: "trending" },
-      { label: "Barrierefreiheits-Score", value: "+35%", icon: "chart" }
-    ],
     benefits: [
       "Besseres Ranking in der Google Bildersuche",
       "Erhöhte Barrierefreiheit der Website",
@@ -118,11 +103,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Verschiedene Typen: Exact Match, Partial Match, Branded, Generic",
       "Interne und externe Verlinkung",
       "Natürliche Variation wichtig"
-    ],
-    statistics: [
-      { label: "Links mit 'Click here' Anchor", value: "65%", icon: "percent" },
-      { label: "Einfluss auf Backlink-Wert", value: "Hoch", icon: "trending" },
-      { label: "Überoptimierung-Risiko", value: ">3%", icon: "chart" }
     ],
     benefits: [
       "Bessere Keyword-Relevanz signalisieren",
@@ -157,11 +137,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Anchor-Text-Optimierung",
       "Lokale Backlink-Quellen"
     ],
-    statistics: [
-      { label: "Top-3 Ranking-Faktor", value: "#1", icon: "trending" },
-      { label: "Websites mit >100 Backlinks", value: "2.2x", icon: "chart" },
-      { label: "Lokale Backlink-Wirkung", value: "+67%", icon: "percent" }
-    ],
     benefits: [
       "Signifikante Verbesserung der Domain Authority",
       "Höhere Rankings in den Suchergebnissen",
@@ -195,11 +170,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Cloaking (versteckter Inhalt)",
       "Private Blog Networks (PBN)"
     ],
-    statistics: [
-      { label: "Abstrafungsrisiko", value: "Sehr hoch", icon: "trending" },
-      { label: "Recovery-Zeit nach Penalty", value: "6-24 Monate", icon: "clock" },
-      { label: "Google-Erkennung", value: "99%+", icon: "percent" }
-    ],
     benefits: [
       "Wissen was man vermeiden sollte",
       "Konkurrenz-Analyse möglich",
@@ -226,11 +196,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Unterschied zwischen Bounce und Exit",
       "Beeinflusst von Seitentyp und Intent"
     ],
-    statistics: [
-      { label: "Durchschnittliche Bounce Rate", value: "41-55%", icon: "percent" },
-      { label: "E-Commerce Benchmark", value: "20-45%", icon: "chart" },
-      { label: "Blog-Artikel typisch", value: "70-90%", icon: "trending" }
-    ],
     benefits: [
       "Indikator für Content-Qualität",
       "UX-Probleme identifizieren",
@@ -256,11 +221,6 @@ export const seoLexikonData: SEOTerm[] = [
       "NAP-Daten konsistent halten",
       "Branchenspezifische Verzeichnisse",
       "Regionale Verzeichnisse"
-    ],
-    statistics: [
-      { label: "Wichtige Verzeichnisse DE", value: "50+", icon: "search" },
-      { label: "Citation-Einfluss auf Ranking", value: "13%", icon: "percent" },
-      { label: "Unternehmen mit Einträgen", value: "68%", icon: "users" }
     ],
     benefits: [
       "Stärkere lokale Präsenz",
@@ -296,11 +256,6 @@ export const seoLexikonData: SEOTerm[] = [
       "NAP-Konsistenz ist entscheidend",
       "Branchenspezifische Verzeichnisse"
     ],
-    statistics: [
-      { label: "Einfluss auf Local Pack", value: "13%", icon: "percent" },
-      { label: "Wichtige Verzeichnisse DE", value: "50+", icon: "search" },
-      { label: "NAP-Fehlerrate", value: "73%", icon: "chart" }
-    ],
     benefits: [
       "Stärkere lokale Präsenz aufbauen",
       "Vertrauen bei Google schaffen",
@@ -334,11 +289,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Cross-Domain Canonicals möglich",
       "Hilft bei URL-Parameter-Problemen"
     ],
-    statistics: [
-      { label: "Websites mit Canonical-Fehlern", value: "30%", icon: "percent" },
-      { label: "Duplicate Content vermeiden", value: "100%", icon: "chart" },
-      { label: "Von Google bestätigt", value: "Ja", icon: "trending" }
-    ],
     benefits: [
       "Duplicate Content eliminieren",
       "PageRank auf eine URL konzentrieren",
@@ -370,11 +320,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Keyword-gesteuerte Themenplanung",
       "Content-Formate definieren",
       "Redaktionskalender erstellen"
-    ],
-    statistics: [
-      { label: "Unternehmen mit Strategie", value: "40%", icon: "percent" },
-      { label: "ROI mit Content-Marketing", value: "3x", icon: "trending" },
-      { label: "Traffic-Steigerung", value: "+55%", icon: "chart" }
     ],
     benefits: [
       "Zielgerichtete Content-Erstellung",
@@ -409,11 +354,6 @@ export const seoLexikonData: SEOTerm[] = [
       "A/B-Testing zur Optimierung",
       "Tracking in Analytics"
     ],
-    statistics: [
-      { label: "Durchschnittliche CR", value: "2-5%", icon: "percent" },
-      { label: "Lokale Landing Pages", value: "5-10%", icon: "trending" },
-      { label: "Mobile vs. Desktop", value: "-30%", icon: "chart" }
-    ],
     benefits: [
       "Mehr Kunden bei gleichem Traffic",
       "Besserer ROI für Marketing",
@@ -439,11 +379,6 @@ export const seoLexikonData: SEOTerm[] = [
       "INP: Reaktionszeit auf Interaktion (<200ms)",
       "CLS: Visuelle Stabilität (<0.1)",
       "Messbar in Search Console und PageSpeed Insights"
-    ],
-    statistics: [
-      { label: "Seiten die alle CWV bestehen", value: "33%", icon: "percent" },
-      { label: "Mobile schlechter als Desktop", value: "2x", icon: "chart" },
-      { label: "Ranking-Einfluss", value: "Moderat", icon: "trending" }
     ],
     benefits: [
       "Direkter Ranking-Faktor bei Google",
@@ -478,11 +413,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Steuerung via robots.txt möglich",
       "Sitemap beschleunigt Entdeckung"
     ],
-    statistics: [
-      { label: "Googlebot crawlt täglich", value: "Mrd. Seiten", icon: "search" },
-      { label: "Durchschnittliche Crawl-Frequenz", value: "1-30 Tage", icon: "clock" },
-      { label: "Neue Seiten entdeckt", value: "Via Links", icon: "trending" }
-    ],
     benefits: [
       "Voraussetzung für Indexierung",
       "Aktuelle Inhalte werden erkannt",
@@ -508,11 +438,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Abhängig von Position und SERP-Features",
       "Beeinflusst durch Title und Description",
       "Branchenspezifische Benchmarks"
-    ],
-    statistics: [
-      { label: "Position 1 CTR", value: "27.6%", icon: "percent" },
-      { label: "Position 2 CTR", value: "15.8%", icon: "chart" },
-      { label: "Position 10 CTR", value: "2.4%", icon: "trending" }
     ],
     benefits: [
       "Ranking-Signal für Google",
@@ -547,11 +472,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Vergleichbar mit Wettbewerbern",
       "Entwickelt von Moz"
     ],
-    statistics: [
-      { label: "Top 10 Durchschnitt", value: "DA 40+", icon: "chart" },
-      { label: "Neue Websites starten bei", value: "DA 1", icon: "trending" },
-      { label: "Jährlicher Anstieg möglich", value: "5-15", icon: "percent" }
-    ],
     benefits: [
       "Benchmark für Website-Stärke",
       "Vergleich mit Wettbewerbern",
@@ -577,11 +497,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Canonical Tags als Lösung",
       "Erkennung via Screaming Frog",
       "Kein direkter Penalty, aber Rankingverlust"
-    ],
-    statistics: [
-      { label: "Websites mit Duplicate Content", value: "29%", icon: "percent" },
-      { label: "Ranking-Einfluss", value: "Negativ", icon: "trending" },
-      { label: "Crawl-Budget-Verschwendung", value: "Hoch", icon: "chart" }
     ],
     benefits: [
       "Probleme erkennen und beheben",
@@ -609,11 +524,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Korreliert mit Content-Qualität",
       "Nicht direkt messbar für Websitebetreiber"
     ],
-    statistics: [
-      { label: "Gute Dwell Time", value: ">3 Minuten", icon: "clock" },
-      { label: "Korrelation mit Rankings", value: "Stark", icon: "trending" },
-      { label: "Video-Content Dwell Time", value: "+80%", icon: "chart" }
-    ],
     benefits: [
       "Indikator für Content-Qualität",
       "Indirektes Ranking-Signal",
@@ -639,11 +549,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Expertise: Fachwissen demonstrieren",
       "Authority: Als Autorität etablieren",
       "Trust: Vertrauen durch Transparenz"
-    ],
-    statistics: [
-      { label: "YMYL-Einfluss", value: "Sehr hoch", icon: "trending" },
-      { label: "Bewertungen wichtig für Trust", value: "88%", icon: "percent" },
-      { label: "Autoren-Profile", value: "+23%", icon: "chart" }
     ],
     benefits: [
       "Höhere Rankings bei kompetitiven Keywords",
@@ -680,11 +585,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Tabellen-Snippets",
       "Video-Snippets"
     ],
-    statistics: [
-      { label: "Klickrate", value: "8.6%", icon: "percent" },
-      { label: "Aller Suchanfragen", value: "12%", icon: "search" },
-      { label: "Aus Top 10 Ergebnissen", value: "99%", icon: "chart" }
-    ],
     benefits: [
       "Position 0 in den Suchergebnissen",
       "Erhöhte Sichtbarkeit und Klickrate",
@@ -717,11 +617,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Fotos und Videos hochladen",
       "Kundenbewertungen verwalten",
       "Google Posts erstellen"
-    ],
-    statistics: [
-      { label: "Local Pack Einfluss", value: "36%", icon: "percent" },
-      { label: "Klicks auf Unternehmen", value: "+70%", icon: "trending" },
-      { label: "Buchungen über GBP", value: "56%", icon: "users" }
     ],
     benefits: [
       "Kostenlose lokale Sichtbarkeit",
@@ -757,11 +652,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Unternehmensfotos und Street View",
       "Öffnungszeiten in Echtzeit"
     ],
-    statistics: [
-      { label: "Google Maps Nutzer monatlich", value: "1+ Mrd", icon: "users" },
-      { label: "Lokale Suchen auf Maps", value: "46%", icon: "percent" },
-      { label: "Maps-Nutzer besuchen Geschäft", value: "76%", icon: "trending" }
-    ],
     benefits: [
       "Maximale lokale Sichtbarkeit",
       "Wegführung direkt zum Geschäft",
@@ -795,11 +685,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Hreflang für internationale Seiten",
       "IP-basierte Weiterleitung"
     ],
-    statistics: [
-      { label: "Lokale Suchen zu Ladenbesuch", value: "72%", icon: "users" },
-      { label: "Conversion lokaler Suchen", value: "+28%", icon: "trending" },
-      { label: "Mobile lokale Suchen", value: "76%", icon: "percent" }
-    ],
     benefits: [
       "Höhere Relevanz für lokale Suchen",
       "Bessere Conversion-Rates",
@@ -829,11 +714,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Keywords natürlich integrieren",
       "Strukturierung für Screenreader"
     ],
-    statistics: [
-      { label: "Seiten mit H1-H3", value: "+40% Ranking", icon: "trending" },
-      { label: "Seiten ohne H1", value: "20%", icon: "percent" },
-      { label: "Optimale Länge H1", value: "20-70 Zeichen", icon: "chart" }
-    ],
     benefits: [
       "Klare Content-Struktur",
       "Besseres Ranking-Signal",
@@ -858,11 +738,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Im HTML-Head oder Sitemap",
       "x-default für Fallback-Seite",
       "Bidirektionale Verknüpfung nötig"
-    ],
-    statistics: [
-      { label: "Mehrsprachige Sites mit Hreflang", value: "35%", icon: "percent" },
-      { label: "Falsche Implementierung", value: "65%", icon: "chart" },
-      { label: "Internationale SEO-Einfluss", value: "Hoch", icon: "trending" }
     ],
     benefits: [
       "Richtige Sprache für Nutzer",
@@ -896,11 +771,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Schutz sensibler Daten",
       "Ranking-Signal für Google"
     ],
-    statistics: [
-      { label: "Top 100 mit HTTPS", value: "95%", icon: "percent" },
-      { label: "Nutzervertrauen steigt", value: "+84%", icon: "users" },
-      { label: "Ranking-Boost", value: "Gering", icon: "trending" }
-    ],
     benefits: [
       "Pflichtvoraussetzung für seriöse Websites",
       "Erhöhtes Nutzervertrauen",
@@ -926,11 +796,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Optimierte Alt-Texte",
       "Bildkomprimierung für PageSpeed",
       "Lazy Loading implementieren"
-    ],
-    statistics: [
-      { label: "Google Images Traffic-Anteil", value: "20%+", icon: "percent" },
-      { label: "Bilder ohne Alt-Text", value: "42%", icon: "chart" },
-      { label: "Komprimierung spart", value: "60-80%", icon: "trending" }
     ],
     benefits: [
       "Traffic aus Google Bildersuche",
@@ -964,11 +829,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Robots.txt konfigurieren",
       "Canonical Tags setzen"
     ],
-    statistics: [
-      { label: "Durchschnittliche Indexierungszeit", value: "1-4 Tage", icon: "clock" },
-      { label: "Seiten mit Index-Problemen", value: "25%", icon: "percent" },
-      { label: "Sitemap-Nutzung", value: "+3x", icon: "trending" }
-    ],
     benefits: [
       "Voraussetzung für Rankings",
       "Kontrolle über indexierte Inhalte",
@@ -994,11 +854,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Zeigt thematische Zusammenhänge",
       "Verbessert Crawling-Effizienz",
       "Anchor-Text-Optimierung"
-    ],
-    statistics: [
-      { label: "Top-Seiten haben Links", value: "40+", icon: "chart" },
-      { label: "Ranking-Einfluss", value: "Hoch", icon: "trending" },
-      { label: "Verweildauer-Steigerung", value: "+40%", icon: "clock" }
     ],
     benefits: [
       "PageRank-Verteilung optimieren",
@@ -1033,11 +888,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Schema.org Vokabular",
       "LocalBusiness-Markup"
     ],
-    statistics: [
-      { label: "Rich Results Steigerung", value: "+30%", icon: "trending" },
-      { label: "CTR-Erhöhung", value: "25%", icon: "percent" },
-      { label: "Websites mit Schema", value: "33%", icon: "chart" }
-    ],
     benefits: [
       "Rich Snippets in Suchergebnissen",
       "Besseres Google-Verständnis",
@@ -1071,11 +921,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Suchintention verstehen",
       "Keyword-Mapping pro Seite"
     ],
-    statistics: [
-      { label: "Long-Tail Anteil", value: "70%", icon: "percent" },
-      { label: "Lokale Suchanfragen täglich", value: "8.5 Mrd", icon: "search" },
-      { label: "Conversion bei lokalen Keywords", value: "+78%", icon: "trending" }
-    ],
     benefits: [
       "Gezielte Optimierung möglich",
       "Relevanten Traffic anziehen",
@@ -1108,11 +953,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Über 3% gilt als Spam-Risiko",
       "Semantische Variationen wichtiger"
     ],
-    statistics: [
-      { label: "Optimale Keyword Density", value: "1-2%", icon: "percent" },
-      { label: "Spam-Grenze", value: ">3%", icon: "chart" },
-      { label: "Bedeutung heute", value: "Gering", icon: "trending" }
-    ],
     benefits: [
       "Natürlichen Content schreiben",
       "Keyword Stuffing vermeiden",
@@ -1137,11 +977,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Versteckte Keywords (weiß auf weiß)",
       "Keyword-Spam in Meta-Tags",
       "Wird von Google erkannt und bestraft"
-    ],
-    statistics: [
-      { label: "Google-Erkennung", value: "99%+", icon: "percent" },
-      { label: "Abstrafungsrisiko", value: "Sehr hoch", icon: "trending" },
-      { label: "Recovery-Zeit", value: "3-12 Monate", icon: "clock" }
     ],
     benefits: [
       "Wissen was man vermeiden sollte",
@@ -1168,11 +1003,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Speist Knowledge Panels",
       "Basiert auf verschiedenen Datenquellen"
     ],
-    statistics: [
-      { label: "Entitäten im Knowledge Graph", value: "5+ Mrd", icon: "chart" },
-      { label: "Suchanfragen mit KG-Ergebnis", value: "40%", icon: "percent" },
-      { label: "CTR Knowledge Panel", value: "+10%", icon: "trending" }
-    ],
     benefits: [
       "Erhöhte Markenbekanntheit",
       "Prominent in Suchergebnissen",
@@ -1197,11 +1027,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Zeigt Bewertungen und Fotos",
       "Direkte Interaktionsmöglichkeiten",
       "Claim-Funktion für Unternehmen"
-    ],
-    statistics: [
-      { label: "Klicks auf Knowledge Panel", value: "25%+", icon: "percent" },
-      { label: "Conversions über Panel", value: "+35%", icon: "trending" },
-      { label: "Mobile Prominenz", value: "Sehr hoch", icon: "chart" }
     ],
     benefits: [
       "Maximale Markenpräsenz",
@@ -1229,11 +1054,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Lokale Keywords einsetzen",
       "Citations aufbauen und pflegen",
       "Bewertungen aktiv managen"
-    ],
-    statistics: [
-      { label: "Lokale Suchen täglich", value: "8.5 Mrd", icon: "search" },
-      { label: "Lokale Suchen zu Kauf", value: "28%", icon: "percent" },
-      { label: "Mobile lokale Suchen", value: "76%", icon: "trending" }
     ],
     benefits: [
       "Mehr lokale Kunden gewinnen",
@@ -1270,11 +1090,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Click-to-Call auf Mobilgeräten",
       "Wegbeschreibung direkt verfügbar"
     ],
-    statistics: [
-      { label: "Klicks auf Local Pack", value: "44%", icon: "percent" },
-      { label: "Mobile Suchanfragen lokal", value: "46%", icon: "search" },
-      { label: "Conversion-Rate", value: "80%", icon: "trending" }
-    ],
     benefits: [
       "Maximale lokale Sichtbarkeit",
       "Direkter Kundenkontakt",
@@ -1308,11 +1123,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Höhere Conversion-Intent",
       "Weniger Wettbewerb"
     ],
-    statistics: [
-      { label: "Anteil aller Suchanfragen", value: "70%", icon: "percent" },
-      { label: "Conversion-Rate höher", value: "2.5x", icon: "trending" },
-      { label: "Wettbewerb niedriger", value: "5-10x", icon: "chart" }
-    ],
     benefits: [
       "Leichter zu ranken",
       "Höhere Conversion-Raten",
@@ -1338,11 +1148,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Natürlicher Linkaufbau bevorzugt",
       "Gastbeiträge und PR",
       "Content Marketing Strategie"
-    ],
-    statistics: [
-      { label: "Top-Ranking-Faktor", value: "#1-2", icon: "trending" },
-      { label: "Seiten mit 0 Backlinks", value: "66%", icon: "percent" },
-      { label: "Kosten pro hochwertigen Link", value: "€100-500", icon: "chart" }
     ],
     benefits: [
       "Höhere Domain Authority",
@@ -1377,11 +1182,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Beeinflusst CTR stark",
       "Google überschreibt oft automatisch"
     ],
-    statistics: [
-      { label: "Google überschreibt", value: "70%", icon: "percent" },
-      { label: "CTR-Steigerung möglich", value: "+30%", icon: "trending" },
-      { label: "Seiten ohne Description", value: "25%", icon: "chart" }
-    ],
     benefits: [
       "Höhere Klickraten erzielen",
       "Nutzer zum Klicken animieren",
@@ -1413,11 +1213,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Meta-Robots für Indexierung",
       "Open Graph für Social Media"
     ],
-    statistics: [
-      { label: "CTR-Steigerung optimierter Titles", value: "+20%", icon: "trending" },
-      { label: "Google schreibt Titles um", value: "61%", icon: "percent" },
-      { label: "Description beeinflusst CTR", value: "Stark", icon: "chart" }
-    ],
     benefits: [
       "Kontrolle über Suchergebnis-Darstellung",
       "Höhere Klickraten erzielen",
@@ -1442,11 +1237,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Responsive Design empfohlen",
       "Gleicher Content auf Mobile/Desktop",
       "Mobile Usability Test in Search Console"
-    ],
-    statistics: [
-      { label: "Mobile Traffic weltweit", value: "60%+", icon: "percent" },
-      { label: "Mobile lokale Suchen", value: "76%", icon: "search" },
-      { label: "Mobile First seit", value: "2021", icon: "clock" }
     ],
     benefits: [
       "Bessere mobile Rankings",
@@ -1481,11 +1271,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Adresse mit Stadtteil",
       "Schema Markup verwenden"
     ],
-    statistics: [
-      { label: "Unternehmen mit NAP-Fehlern", value: "73%", icon: "percent" },
-      { label: "Ranking-Einfluss", value: "Hoch", icon: "trending" },
-      { label: "Citations zu prüfen", value: "50+", icon: "search" }
-    ],
     benefits: [
       "Konsistentes Markenbild",
       "Bessere lokale Rankings",
@@ -1519,11 +1304,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Seit 2020 als Hinweis behandelt",
       "Auch: rel='sponsored', rel='ugc'"
     ],
-    statistics: [
-      { label: "Backlinks mit Nofollow", value: "30%", icon: "percent" },
-      { label: "Indirekter SEO-Wert", value: "Vorhanden", icon: "trending" },
-      { label: "Traffic-Wert", value: "100%", icon: "chart" }
-    ],
     benefits: [
       "Natürliches Linkprofil aufbauen",
       "Traffic trotz Nofollow erhalten",
@@ -1546,11 +1326,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Brand Mentions",
       "Social Signals",
       "Lokale Citations"
-    ],
-    statistics: [
-      { label: "Ranking-Einfluss", value: "~50%", icon: "percent" },
-      { label: "Backlinks wichtigster Faktor", value: "#1-2", icon: "trending" },
-      { label: "Zeit bis Wirkung", value: "3-6 Monate", icon: "clock" }
     ],
     benefits: [
       "Höhere Domain Authority",
@@ -1582,11 +1357,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Technisches SEO",
       "Interne Verlinkung",
       "URL-Struktur optimieren"
-    ],
-    statistics: [
-      { label: "Ranking-Einfluss", value: "~25%", icon: "percent" },
-      { label: "Core Web Vitals wichtig", value: "Ja", icon: "trending" },
-      { label: "Seiten pro Website", value: "Alle", icon: "chart" }
     ],
     benefits: [
       "Volle Kontrolle über Optimierung",
@@ -1620,11 +1390,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Messbar in Analytics",
       "Abhängig von SEO-Maßnahmen"
     ],
-    statistics: [
-      { label: "Durchschnittliche CTR Pos. 1", value: "27.6%", icon: "percent" },
-      { label: "Organic vs. Paid Traffic", value: "53% vs 15%", icon: "chart" },
-      { label: "Conversion bei Organic", value: "Höher", icon: "trending" }
-    ],
     benefits: [
       "Keine laufenden Werbekosten",
       "Nachhaltige Traffic-Quelle",
@@ -1650,11 +1415,6 @@ export const seoLexikonData: SEOTerm[] = [
       "First Input Delay (FID) / INP",
       "Cumulative Layout Shift (CLS)",
       "Time to First Byte (TTFB)"
-    ],
-    statistics: [
-      { label: "Absprung bei >3s Ladezeit", value: "53%", icon: "percent" },
-      { label: "Conversion-Steigerung pro Sekunde", value: "+7%", icon: "trending" },
-      { label: "Mobile Nutzer erwarten", value: "<3s", icon: "clock" }
     ],
     benefits: [
       "Bessere Rankings erzielen",
@@ -1688,11 +1448,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Stadtteile und Bezirke relevant",
       "Nicht direkt beeinflussbar"
     ],
-    statistics: [
-      { label: "Im 1km Radius erscheinen", value: "72%", icon: "percent" },
-      { label: "Local Pack Einfluss", value: "~25%", icon: "trending" },
-      { label: "Mobile Suchen 'in meiner Nähe'", value: "+200%", icon: "chart" }
-    ],
     benefits: [
       "Verstehen des Ranking-Faktors",
       "Lokale Landing Pages erstellen",
@@ -1720,11 +1475,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Bewerten E-E-A-T",
       "Kein direkter Ranking-Einfluss"
     ],
-    statistics: [
-      { label: "QRG Seitenzahl", value: "175+", icon: "chart" },
-      { label: "Bewertungen täglich", value: "Tausende", icon: "search" },
-      { label: "Einfluss auf Algorithmus", value: "Indirekt", icon: "trending" }
-    ],
     benefits: [
       "Verständnis für Googles Qualitätskriterien",
       "Einblick in YMYL-Bewertung",
@@ -1747,11 +1497,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Eine URL für alle Geräte",
       "Fluid Grids und flexible Bilder",
       "CSS Media Queries"
-    ],
-    statistics: [
-      { label: "Mobile Traffic Anteil", value: "60%+", icon: "percent" },
-      { label: "Google-Empfehlung", value: "Ja", icon: "trending" },
-      { label: "Websites mit Responsive Design", value: "75%", icon: "chart" }
     ],
     benefits: [
       "Beste Mobile-Erfahrung",
@@ -1777,11 +1522,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Sternebewertung + Rezensionstext",
       "Antworten auf Bewertungen",
       "Review-Management Tools"
-    ],
-    statistics: [
-      { label: "Vertrauen in Online-Bewertungen", value: "88%", icon: "users" },
-      { label: "Local Pack Einfluss", value: "17%", icon: "percent" },
-      { label: "Kaufentscheidung beeinflusst", value: "93%", icon: "trending" }
     ],
     benefits: [
       "Höhere Rankings im Local Pack",
@@ -1816,11 +1556,6 @@ export const seoLexikonData: SEOTerm[] = [
       "FAQ-Antworten",
       "Event-Informationen"
     ],
-    statistics: [
-      { label: "CTR-Steigerung", value: "+30%", icon: "trending" },
-      { label: "Websites mit Rich Snippets", value: "33%", icon: "percent" },
-      { label: "Klickratenerhöhung bei Reviews", value: "+87%", icon: "chart" }
-    ],
     benefits: [
       "Höhere Klickraten",
       "Mehr Aufmerksamkeit in SERP",
@@ -1845,11 +1580,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Steuert Crawling (nicht Indexierung)",
       "Disallow und Allow Direktiven",
       "Sitemap-Verweis möglich"
-    ],
-    statistics: [
-      { label: "Websites mit robots.txt", value: "80%", icon: "percent" },
-      { label: "Falsch konfiguriert", value: "15%", icon: "chart" },
-      { label: "Kann Rankings blockieren", value: "Ja", icon: "trending" }
     ],
     benefits: [
       "Crawl-Budget optimieren",
@@ -1877,11 +1607,6 @@ export const seoLexikonData: SEOTerm[] = [
       "LocalBusiness, Product, FAQ, etc.",
       "JSON-LD bevorzugtes Format",
       "Rich Results ermöglichen"
-    ],
-    statistics: [
-      { label: "Websites mit Schema", value: "33%", icon: "percent" },
-      { label: "Rich Results wahrscheinlicher", value: "+30%", icon: "trending" },
-      { label: "CTR-Steigerung", value: "25%", icon: "chart" }
     ],
     benefits: [
       "Rich Snippets erhalten",
@@ -1915,11 +1640,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Commercial: Recherche vor Kauf",
       "Transactional: Direkt kaufen/buchen"
     ],
-    statistics: [
-      { label: "Informational Suchen", value: "80%", icon: "percent" },
-      { label: "Transactional Suchen", value: "10%", icon: "chart" },
-      { label: "Intent-Match für Ranking", value: "Kritisch", icon: "trending" }
-    ],
     benefits: [
       "Passenden Content erstellen",
       "Bessere Rankings erzielen",
@@ -1952,11 +1672,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Local Pack / Map Pack",
       "Knowledge Panel & Rich Snippets"
     ],
-    statistics: [
-      { label: "Klicks auf Position 1", value: "27.6%", icon: "percent" },
-      { label: "Klicks auf Page 2", value: "0.63%", icon: "chart" },
-      { label: "Zero-Click Searches", value: "65%", icon: "search" }
-    ],
     benefits: [
       "Strategische Keyword-Auswahl",
       "SERP-Features gezielt ansteuern",
@@ -1983,11 +1698,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Follower-Zahlen",
       "Engagement-Rate"
     ],
-    statistics: [
-      { label: "Direkter Ranking-Einfluss", value: "Gering", icon: "trending" },
-      { label: "Indirekter Einfluss", value: "Hoch", icon: "chart" },
-      { label: "Traffic-Potenzial", value: "Signifikant", icon: "users" }
-    ],
     benefits: [
       "Mehr Website-Traffic",
       "Backlink-Potenzial erhöhen",
@@ -2012,11 +1722,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Schloss-Symbol im Browser",
       "Verschiedene Zertifikatstypen",
       "Kostenlos via Let's Encrypt"
-    ],
-    statistics: [
-      { label: "Top 100 Websites mit SSL", value: "95%", icon: "percent" },
-      { label: "Google Chrome Warnung ohne", value: "Ja", icon: "chart" },
-      { label: "Ranking-Boost", value: "Leicht", icon: "trending" }
     ],
     benefits: [
       "Pflicht für moderne Websites",
@@ -2043,11 +1748,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Core Web Vitals optimieren",
       "Schema Markup implementieren",
       "Sitemap und robots.txt"
-    ],
-    statistics: [
-      { label: "Websites mit technischen Fehlern", value: "42%", icon: "percent" },
-      { label: "Crawl-Probleme", value: "25%", icon: "chart" },
-      { label: "PageSpeed unter 3s", value: "Nur 25%", icon: "clock" }
     ],
     benefits: [
       "Solide SEO-Grundlage",
@@ -2082,11 +1782,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Einzigartigkeit pro Seite",
       "Markenname am Ende"
     ],
-    statistics: [
-      { label: "Ranking-Einfluss", value: "Sehr hoch", icon: "trending" },
-      { label: "Google überschreibt Title", value: "61%", icon: "percent" },
-      { label: "CTR-Steigerung möglich", value: "+20%", icon: "chart" }
-    ],
     benefits: [
       "Direkter Ranking-Faktor",
       "Kontrolle über Suchergebnis-Darstellung",
@@ -2119,11 +1814,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Logische Hierarchie",
       "Bindestrich statt Unterstrich"
     ],
-    statistics: [
-      { label: "Kurze URLs ranken besser", value: "+10%", icon: "trending" },
-      { label: "Optimale URL-Länge", value: "50-60 Zeichen", icon: "chart" },
-      { label: "Keywords in URL", value: "Wichtig", icon: "percent" }
-    ],
     benefits: [
       "Bessere Klickraten",
       "Leicht merkbare URLs",
@@ -2149,11 +1839,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Mobile Usability",
       "Intuitive Navigation",
       "Klare Call-to-Actions"
-    ],
-    statistics: [
-      { label: "Page Experience Signal", value: "Bestätigt", icon: "trending" },
-      { label: "Mobile Traffic Anteil", value: "60%+", icon: "percent" },
-      { label: "Conversion bei guter UX", value: "+400%", icon: "chart" }
     ],
     benefits: [
       "Bessere Rankings erzielen",
@@ -2181,11 +1866,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Long-Tail Keywords",
       "FAQ-Seiten erstellen",
       "Featured Snippets anzielen"
-    ],
-    statistics: [
-      { label: "Lokale Voice Searches", value: "58%", icon: "percent" },
-      { label: "Jährliches Wachstum", value: "+25%", icon: "trending" },
-      { label: "Smart Speaker Haushalte DE", value: "35%", icon: "users" }
     ],
     benefits: [
       "Zukunftssicheres SEO",
@@ -2220,11 +1900,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Core Web Vitals prüfen",
       "Sitemaps einreichen"
     ],
-    statistics: [
-      { label: "Unverzichtbar für SEO", value: "100%", icon: "percent" },
-      { label: "Daten bis zu 16 Monate", value: "Ja", icon: "chart" },
-      { label: "Kosten", value: "Kostenlos", icon: "trending" }
-    ],
     benefits: [
       "Unverzichtbares SEO-Tool",
       "Direkte Google-Daten",
@@ -2257,11 +1932,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Technische Optimierung",
       "User Experience priorisieren"
     ],
-    statistics: [
-      { label: "Abstrafungsrisiko", value: "0%", icon: "percent" },
-      { label: "Langfristiger ROI", value: "Hoch", icon: "trending" },
-      { label: "Google-Empfehlung", value: "Ja", icon: "chart" }
-    ],
     benefits: [
       "Nachhaltige Rankings",
       "Kein Abstrafungsrisiko",
@@ -2284,11 +1954,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Automatische Generierung möglich",
       "Max. 50.000 URLs pro Sitemap",
       "Lastmod-Datum angeben"
-    ],
-    statistics: [
-      { label: "Indexierungsverbesserung", value: "+3x", icon: "trending" },
-      { label: "Große Websites benötigen", value: "Pflicht", icon: "chart" },
-      { label: "Neue Seiten entdeckt", value: "Schneller", icon: "clock" }
     ],
     benefits: [
       "Schnellere Indexierung",
@@ -2323,11 +1988,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Rechtliche Informationen",
       "Sicherheitsrelevante Themen"
     ],
-    statistics: [
-      { label: "E-E-A-T Bedeutung", value: "Kritisch", icon: "trending" },
-      { label: "Ranking-Volatilität", value: "Hoch", icon: "chart" },
-      { label: "Qualitätsstandard", value: "Höchster", icon: "percent" }
-    ],
     benefits: [
       "Hohes Ranking-Potenzial bei Expertise",
       "Vertrauensaufbau bei Kunden",
@@ -2356,11 +2016,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Featured Snippets",
       "Local Pack Informationen"
     ],
-    statistics: [
-      { label: "Aller Suchanfragen", value: "65%", icon: "percent" },
-      { label: "Mobile Anteil höher", value: "+20%", icon: "trending" },
-      { label: "Tendenz", value: "Steigend", icon: "chart" }
-    ],
     benefits: [
       "Markenbekanntheit steigern",
       "GBP-Optimierung wichtiger",
@@ -2388,10 +2043,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Können über Google Business Profile gemeldet werden",
       "Tools wie Moz Local helfen bei der Erkennung"
     ],
-    statistics: [
-      { label: "Unternehmen mit Duplicates", value: "56%", icon: "percent" },
-      { label: "Ranking-Verlust möglich", value: "bis 30%", icon: "trending" }
-    ],
     benefits: [
       "Bereinigung stärkt das Hauptprofil",
       "Bewertungen werden konsolidiert",
@@ -2417,10 +2068,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Tools: Local Falcon, Local Viking, BrightLocal",
       "Hilft bei der Konkurrenzanalyse"
     ],
-    statistics: [
-      { label: "Typische Grid-Größe", value: "5x5 bis 15x15", icon: "chart" },
-      { label: "Radius pro Punkt", value: "0.5-3 km", icon: "search" }
-    ],
     benefits: [
       "Erkennt lokale Ranking-Schwachstellen",
       "Zeigt den tatsächlichen Sichtbarkeitsradius",
@@ -2444,11 +2091,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Bis zu 1.500 Zeichen pro Post",
       "Automatisches Ablaufdatum nach 7 Tagen (außer Events)",
       "Können Bilder und Call-to-Action-Buttons enthalten"
-    ],
-    statistics: [
-      { label: "Mehr Klicks", value: "+7%", icon: "trending" },
-      { label: "Post-Lebensdauer", value: "7 Tage", icon: "clock" },
-      { label: "Zeichenlimit", value: "1.500", icon: "chart" }
     ],
     benefits: [
       "Erhöht die Sichtbarkeit in der Suche",
@@ -2475,10 +2117,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Enthält Filteroptionen (Bewertung, Öffnungszeiten)",
       "Eigene Ranking-Algorithmen"
     ],
-    statistics: [
-      { label: "Ergebnisse angezeigt", value: "20+", icon: "chart" },
-      { label: "Nutzer die klicken", value: "~8%", icon: "percent" }
-    ],
     benefits: [
       "Chance auch ohne Top-3-Ranking sichtbar zu sein",
       "Nutzer mit hoher Kaufabsicht klicken sich durch",
@@ -2503,10 +2141,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Sponsoring von Vereinen und Events",
       "Mitgliedschaft in Handelskammern und Verbänden",
       "Gastbeiträge auf regionalen Blogs"
-    ],
-    statistics: [
-      { label: "Anteil an Local Ranking", value: "~29%", icon: "percent" },
-      { label: "Sichtbarkeits-Boost", value: "bis +67%", icon: "trending" }
     ],
     benefits: [
       "Stärkster beeinflussbarer Ranking-Faktor",
@@ -2533,10 +2167,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Kann aktiv verbessert werden",
       "Kompensiert teilweise schlechte Proximity"
     ],
-    statistics: [
-      { label: "Anteil am Maps-Ranking", value: "~25%", icon: "percent" },
-      { label: "Beeinflussbar", value: "Ja", icon: "trending" }
-    ],
     benefits: [
       "Stärkster beeinflussbarer Maps-Faktor",
       "Kann schwache Proximity ausgleichen",
@@ -2561,10 +2191,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Keywords in der Unternehmensbeschreibung",
       "Angebotene Dienstleistungen und Produkte",
       "Vollständigkeit des Profils"
-    ],
-    statistics: [
-      { label: "Anteil am Maps-Ranking", value: "~25%", icon: "percent" },
-      { label: "Beeinflussbar", value: "Ja", icon: "trending" }
     ],
     benefits: [
       "Direkt über Profil-Optimierung steuerbar",
@@ -2591,11 +2217,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Umgang mit negativen Bewertungen",
       "Monitoring über mehrere Plattformen"
     ],
-    statistics: [
-      { label: "Lesen Reviews vor Kauf", value: "93%", icon: "users" },
-      { label: "Ranking-Einfluss Reviews", value: "~17%", icon: "percent" },
-      { label: "Vertrauen wie persönl. Empfehlung", value: "88%", icon: "users" }
-    ],
     benefits: [
       "Stärkt Vertrauen und Conversion",
       "Direkter Local-SEO-Ranking-Faktor",
@@ -2620,10 +2241,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Keine Stecknadel auf Google Maps",
       "Bis zu 20 Servicegebiete definierbar",
       "Hybrid-Modell möglich (Standort + Servicegebiet)"
-    ],
-    statistics: [
-      { label: "SAB-Unternehmen in DE", value: "~35%", icon: "percent" },
-      { label: "Max. Servicegebiete", value: "20", icon: "chart" }
     ],
     benefits: [
       "Ranking ohne feste Geschäftsadresse möglich",
@@ -2650,10 +2267,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Häufigste Gründe: Keyword-Stuffing, falsche Adresse",
       "Einspruch über GBP-Dashboard möglich"
     ],
-    statistics: [
-      { label: "Durchschnittl. Reaktivierung", value: "3-14 Tage", icon: "clock" },
-      { label: "Erfolgsquote Einspruch", value: "~70%", icon: "percent" }
-    ],
     benefits: [
       "Verständnis der Richtlinien verhindert Suspendierung",
       "Schnelles Handeln minimiert Umsatzverlust",
@@ -2678,10 +2291,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Lokale Keywords in Titeln und Texten",
       "Eingebettete Google Maps Karte",
       "Standortspezifische Testimonials und Referenzen"
-    ],
-    statistics: [
-      { label: "Organischer Traffic-Boost", value: "bis +150%", icon: "trending" },
-      { label: "Conversion-Rate lokal", value: "2-5x höher", icon: "percent" }
     ],
     benefits: [
       "Rankt für standortspezifische Keywords",
@@ -2708,10 +2317,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Öffnungszeiten, Preisklasse, Zahlungsmethoden",
       "FAQ-, Review- und Event-Schema als Ergänzung"
     ],
-    statistics: [
-      { label: "Mehr Rich Snippets", value: "+30%", icon: "trending" },
-      { label: "Seiten ohne Schema", value: "~70%", icon: "percent" }
-    ],
     benefits: [
       "Erhöht Sichtbarkeit durch Rich Snippets",
       "Verbessert Verständnis durch Suchmaschinen",
@@ -2737,10 +2342,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Tools wie Moz Local, BrightLocal oder Semrush",
       "Empfohlener Rhythmus: alle 3-6 Monate"
     ],
-    statistics: [
-      { label: "Unternehmen mit Fehlern", value: "73%", icon: "percent" },
-      { label: "Empfohlener Rhythmus", value: "3-6 Monate", icon: "clock" }
-    ],
     benefits: [
       "Verbessert lokale Rankings messbar",
       "Verhindert Verwirrung bei Google",
@@ -2765,10 +2366,6 @@ export const seoLexikonData: SEOTerm[] = [
       "Postkarte dauert 5-14 Tage",
       "Video-Verifizierung für sofortige Bestätigung",
       "Bulk-Verifizierung für Ketten (10+ Standorte)"
-    ],
-    statistics: [
-      { label: "Postkarte Dauer", value: "5-14 Tage", icon: "clock" },
-      { label: "Nicht-verifizierte Profile", value: "~20%", icon: "percent" }
     ],
     benefits: [
       "Grundvoraussetzung für Maps-Ranking",
