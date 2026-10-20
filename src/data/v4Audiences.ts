@@ -166,6 +166,7 @@ export const AUDIENCES: readonly Audience[] = [
     },
     articles: [
       { slug: "local-seo-friseursalon-beauty", title: "Local SEO für Friseursalons und Beautystudios" },
+      { slug: "local-seo-kosmetikstudio", title: "SEO für Kosmetikstudios: Behandlungen bei Google zeigen" },
       { slug: "google-bewertungen-bekommen", title: "Google-Bewertungen bekommen: so fragen Sie richtig" },
       { slug: "google-my-business-optimieren", title: "Google Unternehmensprofil optimieren" },
       { slug: "google-business-kategorien-guide", title: "Google-Business-Kategorien: die richtige wählen" },
