@@ -365,6 +365,147 @@ fieldset.field{border:0;padding:0;margin:0}
 .sticky .btn{width:100%}
 .sticky.off{transform:translateY(110%);visibility:hidden}
 
+/* v5: gap line under each station of the customer path */
+.pgap{display:block;margin-top:10px;max-width:24ch;font-size:.88rem;line-height:1.55;color:var(--fg2)}
+.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.exgrid{display:grid;gap:clamp(56px,8vw,96px);margin-top:56px}
+.exblock>.h3x,.bunwrap>.h3x,.calcwrap>.h3x{font-size:1.3rem;line-height:1.35}
+.ar .exblock>.h3x,.ar .bunwrap>.h3x,.ar .calcwrap>.h3x{line-height:1.55}
+
+/* examples a: a sample of the free check, with the effect and effort matrix */
+.sample{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,.8fr);gap:clamp(24px,4vw,48px);margin-top:28px;align-items:start}
+.sheet{position:relative;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:30px 28px 22px;box-shadow:0 6px 0 -1px var(--bg2),0 6px 0 0 var(--line)}
+.stamp{position:absolute;top:-14px;inset-inline-end:24px;background:var(--fg);color:var(--bg);padding:4px 16px;border-radius:999px;font-size:.88rem;font-weight:600;transform:rotate(-3deg);transition:transform .5s var(--ease),opacity .3s}
+[dir=rtl] .stamp{transform:rotate(3deg)}
+.sh-t{font-size:1.25rem;font-weight:700}
+.sh-c{margin-top:2px;color:var(--fg2);font-size:.95rem}
+.pts{list-style:none;counter-reset:p;margin:20px 0 0;padding:0}
+.pts>li{counter-increment:p;display:grid;grid-template-columns:34px minmax(0,1fr);gap:4px 14px;padding:16px 0;border-top:1px solid var(--line);transition:opacity .45s var(--ease),transform .45s var(--ease);transition-delay:calc(var(--i)*320ms + 200ms)}
+.pts>li::before{content:counter(p);grid-row:1/4;width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:var(--fg);color:var(--bg);font-weight:700;font-size:.95rem}
+.pts strong{font-weight:700;line-height:1.5}
+.pts .pd{color:var(--fg2);font-size:.97rem;line-height:1.6}
+.chips{display:flex;flex-wrap:wrap;align-content:flex-start;gap:8px;margin-top:6px;padding:0;list-style:none}
+.chip{border:1px solid var(--line);border-radius:999px;padding:1px 12px;font-size:.84rem;background:var(--bg);color:var(--fg2)}
+.sh-f{margin-top:6px;padding-top:14px;border-top:2px solid var(--fg);font-size:.92rem;color:var(--fg2)}
+.js .sample:not(.in) .pts>li{opacity:0;transform:translateY(10px)}
+.js .sample:not(.in) .stamp{opacity:0;transform:scale(1.6) rotate(-14deg)}
+.matrix{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px}
+.mx-h{font-weight:700}
+.mx-plot{position:relative;margin-top:18px;aspect-ratio:1/.92;border-inline-start:2px solid var(--fg);border-bottom:2px solid var(--fg);background:linear-gradient(var(--line),var(--line)) 50% 0/1px 100% no-repeat,linear-gradient(var(--line),var(--line)) 0 50%/100% 1px no-repeat}
+.mx-zone{position:absolute;top:0;inset-inline-start:0;width:50%;height:50%;background:repeating-linear-gradient(135deg,var(--line) 0 2px,transparent 2px 9px);opacity:.7}
+.mx-zl{position:absolute;top:8px;inset-inline-start:10px;font-size:.84rem;font-weight:700}
+.mx-yt,.mx-yb{position:absolute;inset-inline-end:8px;font-size:.8rem;color:var(--fg2)}
+.mx-yt{top:6px}
+.mx-yb{bottom:6px}
+.dot{position:absolute;inset-inline-start:var(--x);bottom:var(--y);width:36px;height:36px;margin-inline-start:-18px;margin-bottom:-18px;border-radius:50%;display:grid;place-items:center;background:var(--fg);color:var(--bg);font-weight:700;transition:transform .5s var(--ease);transition-delay:calc(var(--i)*320ms + 400ms)}
+.js .sample:not(.in) .dot{transform:scale(0)}
+.mx-ax{display:flex;justify-content:space-between;gap:12px;margin-top:8px;font-size:.84rem;color:var(--fg2)}
+
+/* examples b: a Google profile, piece by piece */
+.anat{display:grid;grid-template-columns:minmax(0,380px) minmax(0,1fr);gap:clamp(28px,5vw,72px);margin-top:28px;align-items:start}
+.mc{position:relative;max-width:380px;width:100%;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:14px 14px 10px;box-shadow:0 6px 0 -1px var(--bg2),0 6px 0 0 var(--line)}
+.mc-ph{display:grid;grid-template-columns:2fr 1fr 1fr;gap:6px;height:100px;margin-bottom:6px;position:relative}
+.mc-ph i{display:block;border-radius:10px;background:var(--bg2) linear-gradient(135deg,transparent 0 47%,var(--line) 47% 53%,transparent 53%)}
+.mc-row{position:relative;padding-block:14px;border-top:1px solid var(--line)}
+.sk{display:block;height:10px;border-radius:5px;background:var(--line)}
+.sk+.sk{margin-top:8px}
+.sk.t{height:15px;background:var(--fg2);opacity:.55}
+.sk.w40{width:40%}.sk.w50{width:50%}.sk.w60{width:60%}.sk.w80{width:80%}.sk.w90{width:90%}
+.mc-live{display:flex;align-items:center;gap:10px}
+.mc-live b{width:9px;height:9px;border-radius:50%;background:var(--fg);flex:none}
+.mc-act{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.mc-b{display:flex;flex-direction:column;align-items:center;gap:4px;border:1.5px solid var(--fg);border-radius:12px;padding:9px 4px;font-size:.82rem;font-weight:600;line-height:1.3}
+.mc-b .ic{width:1.15rem;height:1.15rem}
+.mc-chips{display:flex;flex-wrap:wrap;gap:6px}
+.mc-chips i{display:block;height:24px;width:var(--w);border-radius:999px;border:1.5px solid var(--line)}
+.mk{position:absolute;inset-inline-end:-27px;top:50%;margin-top:-13px;width:26px;height:26px;border-radius:50%;display:grid;place-items:center;background:var(--fg);color:var(--bg);font-size:.8rem;font-weight:700;z-index:2;transition:transform .4s var(--ease);transition-delay:calc(var(--i)*170ms + 150ms)}
+.mk.top{top:14px;margin-top:0}
+.js .anat:not(.in) .mk{transform:scale(0)}
+.legend{list-style:none;counter-reset:l;margin:0;padding:0}
+.legend>li{counter-increment:l;display:grid;grid-template-columns:34px minmax(0,1fr);gap:2px 14px;padding:14px 0;border-top:1px solid var(--line);transition:opacity .4s var(--ease),transform .4s var(--ease);transition-delay:calc(var(--i)*170ms + 150ms)}
+.legend>li:last-child{border-bottom:1px solid var(--line)}
+.legend>li::before{content:counter(l);grid-row:1/3;width:30px;height:30px;border-radius:50%;display:grid;place-items:center;background:var(--fg);color:var(--bg);font-weight:700;font-size:.88rem}
+.legend strong{font-weight:700;line-height:1.5}
+.legend span{color:var(--fg2);font-size:.97rem;line-height:1.6}
+.js .anat:not(.in) .legend>li{opacity:0;transform:translateX(12px)}
+[dir=rtl].js .anat:not(.in) .legend>li{transform:translateX(-12px)}
+
+/* examples c: by sector */
+.stabs{display:flex;flex-wrap:wrap;gap:8px;margin-top:24px}
+.stabs:empty{display:none}
+.stab{font:inherit;border:1.5px solid var(--line);background:var(--card);color:var(--fg);padding:8px 18px;border-radius:999px;white-space:nowrap;cursor:pointer;min-height:44px;transition:background-color .2s,color .2s,border-color .2s,transform .15s var(--ease)}
+.stab:hover{border-color:var(--fg)}
+.stab:active{transform:scale(.97)}
+.stab[aria-selected=true]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.spanel{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:26px;display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:26px clamp(24px,4vw,56px);align-items:start}
+.spanel h4{margin:0;font-size:1.1rem;font-weight:700;line-height:1.5}
+.spanel .tk{list-style:none;margin:14px 0 0;padding:0;display:grid;gap:12px}
+.spanel .tk li{display:flex;gap:12px;align-items:flex-start}
+.spanel .tk .ic{margin-top:.25em;width:1.2rem;height:1.2rem}
+.sp-r{display:flex;flex-direction:column;gap:14px}
+.sp-l{font-size:.92rem;color:var(--fg2)}
+.mp{position:relative;display:flex;justify-content:space-between;list-style:none;margin:0;padding:0}
+.mp::before{content:"";position:absolute;top:22px;inset-inline:22px;height:2px;background:var(--line)}
+.mp li{position:relative;z-index:1;width:44px;height:44px;border-radius:50%;display:grid;place-items:center;border:1.5px solid var(--line);background:var(--card);color:var(--fg2)}
+.mp li.on{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.sp-r .btn{align-self:flex-start}
+.js .spanel{display:none}
+.js .spanel.on{display:grid;animation:fadeup .4s var(--ease)}
+.spanels{display:grid;gap:16px;margin-top:16px}
+@keyframes fadeup{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.ex-cta{margin-top:8px}
+
+/* v5: bundles and calculator in the price section */
+.bunwrap{margin-top:64px}
+.bundles{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;margin-top:24px}
+.bun{display:flex;flex-direction:column;gap:12px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px}
+.bun h4{margin:0;font-size:1.15rem;font-weight:700}
+.bun .bd{color:var(--fg2);font-size:.97rem;line-height:1.6}
+.bun .chips{margin-top:0}
+.bp{display:grid;gap:2px}
+.bl{font-size:.85rem;color:var(--fg2)}
+.bv{font-weight:700;font-size:1.15rem;font-variant-numeric:tabular-nums}
+.bm{font-weight:600;font-size:.95rem;font-variant-numeric:tabular-nums}
+.bun .rng{margin-top:2px}
+.bun .load{display:none;align-self:flex-start;margin-top:auto}
+.js .bun .load{display:inline-flex}
+@supports (grid-template-rows:subgrid){
+  .bundles{row-gap:0}
+  .bun{display:grid;grid-row:span 6;grid-template-rows:subgrid;row-gap:12px}
+  .bun .load{align-self:end;justify-self:start;margin-top:0}
+}
+.calcwrap{display:none;margin-top:64px}
+.js .calcwrap{display:block}
+.calc{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:clamp(24px,4vw,48px);margin-top:24px;align-items:start}
+fieldset.cg{border:0;padding:0;margin:0 0 22px;min-width:0}
+.cg legend{font-weight:700;padding:0;margin-bottom:4px}
+.opt{display:flex;align-items:center;gap:14px;margin-top:8px;border:1.5px solid var(--line);border-radius:12px;padding:12px 16px;background:var(--card);cursor:pointer;min-height:56px;transition:border-color .15s,box-shadow .15s}
+.opt:hover{border-color:var(--fg2)}
+.opt:has(input:checked){border-color:var(--fg);box-shadow:inset 0 0 0 1px var(--fg)}
+.opt input{width:20px;height:20px;accent-color:var(--fg);flex:none;margin:0}
+.opt .nm{flex:1;font-weight:600;line-height:1.4}
+.opt .op{font-size:.9rem;color:var(--fg2);text-align:end;font-variant-numeric:tabular-nums}
+.cres{position:sticky;top:20px;background:var(--hero-bg);color:var(--hero-fg);border-radius:16px;padding:26px}
+.cres h4{margin:0 0 14px;font-size:1.05rem;font-weight:600}
+.cr-l{font-size:.88rem;color:var(--hero-fg2)}
+.cr-v{margin-top:2px;font-size:clamp(1.55rem,1.1rem + 1.4vw,2.1rem);font-weight:700;line-height:1.25;font-variant-numeric:tabular-nums;overflow-wrap:anywhere}
+.cr-m{margin-top:2px;font-weight:600;font-variant-numeric:tabular-nums}
+.cres .rng{background:var(--hero-line);margin:14px 0 6px}
+.cres .rng i{background:var(--hero-fg);transition:left .5s var(--ease),width .5s var(--ease)}
+.cres .rng i.o{background:linear-gradient(90deg,var(--hero-fg) 0,var(--hero-fg) 18%,transparent 100%)}
+.cr-ax{display:flex;justify-content:space-between;direction:ltr;font-size:.78rem;color:var(--hero-fg2);margin-bottom:16px}
+.cres .btn{margin-top:18px;width:100%}
+.bump{animation:bump .35s var(--ease)}
+@keyframes bump{from{opacity:.35;transform:translateY(5px)}to{opacity:1;transform:none}}
+.pts>li>*,.legend>li>*{grid-column:2}
+.sp-l1{min-width:0}
+.sp-i{margin-top:4px;color:var(--fg2)}
+.cr-none{color:var(--hero-fg2)}
+.cr-f{margin-top:18px;font-weight:600}
+.cres .cr-f+.cr-n{margin-top:6px}
+.js .bundles:not(.in) .rng i{transform:scaleX(0)}
+.js .anat:not(.in) .stamp{opacity:0;transform:scale(1.6) rotate(-14deg)}
+
 @media (max-width:1099px){
   .method{grid-template-columns:repeat(4,minmax(0,1fr));row-gap:40px}
   .method li:nth-child(4n)::after{display:none}
@@ -421,6 +562,26 @@ fieldset.field{border:0;padding:0;margin:0}
   .bsub{display:none}
   .nav{gap:10px}
   .btn-sm{padding:0 14px}
+}
+@media (max-width:980px){
+  .sample,.anat,.spanel,.calc{grid-template-columns:1fr}
+  .bundles{grid-template-columns:1fr;row-gap:20px}
+  .bun{display:flex;grid-row:auto}
+  .bun .load{align-self:flex-start;margin-top:auto}
+  .cres{order:-1;top:8px;z-index:4;padding:16px 18px}
+  .cres h4,.cres .cr-f,.cres .cr-ax{display:none}
+  .cres .rng{margin:10px 0 0}
+  .cres .btn{margin-top:12px;min-height:44px}
+  .cres{position:sticky}
+  .mc{margin-inline:auto}
+}
+@media (max-width:600px){
+  .sheet{padding:28px 20px 20px}
+  .spanel{padding:20px}
+  .opt{padding:10px 12px;gap:10px}
+}
+@media (max-width:720px){
+  .pgap{max-width:none}
 }
 </style>
 <script type="application/ld+json">{
@@ -638,7 +799,7 @@ fieldset.field{border:0;padding:0;margin:0}
    "name": "LocalDominate مصر: موقع وحضور على جوجل للشركات المصرية",
    "description": "شريك LocalDominate في مصر يبني موقعك ويضبط حضورك على جوجل ويتواصل مع عملائك المحتملين. بالعربية، بالجنيه المصري، للشركات المسجلة في مصر فقط.",
    "inLanguage": "ar-EG",
-   "dateModified": "2026-10-19",
+   "dateModified": "2026-10-20",
    "isPartOf": {
     "@type": "WebSite",
     "@id": "https://localdominate.org/#website",
@@ -705,6 +866,14 @@ fieldset.field{border:0;padding:0;margin:0}
     },
     {
      "@type": "Question",
+     "name": "كيف أقدّر التكلفة قبل أن أتواصل؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "استخدم الحاسبة في قسم الأسعار لتختار الخدمات التي تحتاجها. هي تجمع الأسعار المذكورة وتعطيك نطاقًا تقديريًا، ويبقى السعر المكتوب بعد الفحص هو المعتمد."
+     }
+    },
+    {
+     "@type": "Question",
      "name": "هل تعملون بالعربية؟",
      "acceptedAnswer": {
       "@type": "Answer",
@@ -745,6 +914,14 @@ fieldset.field{border:0;padding:0;margin:0}
     },
     {
      "@type": "Question",
+     "name": "كيف يبدو الفحص المجاني؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "مستند مكتوب بثلاث نقاط على الأكثر، مرتبة حسب الأثر والجهد، مع النقطة التي تبدأ بها. يوجد مثال توضيحي في قسم الأمثلة، وهو لشركة مختلقة."
+     }
+    },
+    {
+     "@type": "Question",
      "name": "كيف أبدأ؟",
      "acceptedAnswer": {
       "@type": "Answer",
@@ -779,7 +956,7 @@ fieldset.field{border:0;padding:0;margin:0}
 <section class="sec" id="services"><div class="wrap">
 <h2 class="h2">ما الذي نقوم به</h2><p class="lead">تعمل هذه الأجزاء معًا ويتولاها شخص واحد، فلا تحتاج إلى التنسيق بين عدة جهات.</p>
 <div class="pathwrap"><h3 class="h3x">طريق العميل، وأين نعمل عليه</h3>
-<ol class="path" data-draw><li style="--i:0"><span class="pn"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5.5 5.5"/></svg></span><span class="pb"><span class="pt">يبحث عن خدمتك على جوجل</span></span></li><li style="--i:1"><span class="pn"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21s-6.5-5.3-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15.7 12 21 12 21z"/><circle cx="12" cy="10.5" r="2.3"/></svg></span><span class="pb"><span class="pt">يجد ملف نشاطك على الخرائط</span><span class="pg">حضور على جوجل</span></span></li><li style="--i:2"><span class="pn"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9.5h18"/><path d="M6.5 7h.01M9 7h.01"/></svg></span><span class="pb"><span class="pt">يفتح موقعك</span><span class="pg">موقع</span></span></li><li style="--i:3"><span class="pn"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6.5 3.5h3l1.8 4.6-2 1.4a11 11 0 0 0 5.2 5.2l1.4-2 4.6 1.8v3a2 2 0 0 1-2.2 2A16.5 16.5 0 0 1 4.5 5.7a2 2 0 0 1 2-2.2z"/></svg></span><span class="pb"><span class="pt">يتصل بك أو يراسلك على واتساب</span><span class="pg">مسار العميل</span></span></li><li style="--i:4"><span class="pn"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M19.5 11a7.5 7.5 0 0 0-13.6-3.6M4.5 4v4h4"/><path d="M4.5 13a7.5 7.5 0 0 0 13.6 3.6M19.5 20v-4h-4"/></svg></span><span class="pb"><span class="pt">يتلقى ردًا ومتابعة</span><span class="pg">تواصل وأتمتة</span></span></li></ol></div>
+<ol class="path" data-draw><li style="--i:0"><span class="pn"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5.5 5.5"/></svg></span><span class="pb"><span class="pt">يبحث عن خدمتك على جوجل</span><span class="pgap">إن غاب ملفك أو لم تناسبه الفئة، يظهر نشاط آخر.</span></span></li><li style="--i:1"><span class="pn"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21s-6.5-5.3-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15.7 12 21 12 21z"/><circle cx="12" cy="10.5" r="2.3"/></svg></span><span class="pb"><span class="pt">يجد ملف نشاطك على الخرائط</span><span class="pg">حضور على جوجل</span><span class="pgap">بلا ساعات عمل وصور وخدمات، يتردد العميل.</span></span></li><li style="--i:2"><span class="pn"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9.5h18"/><path d="M6.5 7h.01M9 7h.01"/></svg></span><span class="pb"><span class="pt">يفتح موقعك</span><span class="pg">موقع</span><span class="pgap">إن كان بطيئًا على الموبايل أو بلا زر اتصال، يغادر العميل.</span></span></li><li style="--i:3"><span class="pn"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6.5 3.5h3l1.8 4.6-2 1.4a11 11 0 0 0 5.2 5.2l1.4-2 4.6 1.8v3a2 2 0 0 1-2.2 2A16.5 16.5 0 0 1 4.5 5.7a2 2 0 0 1 2-2.2z"/></svg></span><span class="pb"><span class="pt">يتصل بك أو يراسلك على واتساب</span><span class="pg">مسار العميل</span><span class="pgap">إن ضاعت الرسالة، لا أحد يعرف من أين جاءت.</span></span></li><li style="--i:4"><span class="pn"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M19.5 11a7.5 7.5 0 0 0-13.6-3.6M4.5 4v4h4"/><path d="M4.5 13a7.5 7.5 0 0 0 13.6 3.6M19.5 20v-4h-4"/></svg></span><span class="pb"><span class="pt">يتلقى ردًا ومتابعة</span><span class="pg">تواصل وأتمتة</span><span class="pgap">بلا رد ومتابعة، تضيع الفرصة.</span></span></li></ol></div>
 <ul class="grid3"><li><h3>موقع يعمل جيدًا على الموبايل</h3><p>موقع واضح بالعربية يعرض خدماتك، ويجعل الاتصال بك أو مراسلتك على واتساب خطوة واحدة.</p></li><li><h3>حضور كامل على جوجل</h3><p>ملف نشاطك على خرائط جوجل مكتمل ومتسق: الفئات والصور وساعات العمل وروابط التواصل.</p></li><li><h3>مسار واضح للعميل</h3><p>صفحة هبوط ونموذج استفسار ومتابعة لكل رسالة، مع معرفة المصدر الذي جاء منه كل استفسار.</p></li><li><h3>تواصل مع عملائك المحتملين</h3><p>مكالمات ورسائل بريد إلكتروني باسم شركتك، بنص محترم وواضح، وخيار لإيقاف الرسائل، ومتابعة كل رد.</p></li><li><h3>أتمتة ذكية للمهام المتكررة</h3><p>مهمة تُنجز يدويًا اليوم تعمل تلقائيًا، مثل نموذج يضيف العميل إلى قائمتك ويُنبّهك ويرد على استفساره.</p></li><li><h3>تقرير مكتوب بما تغيّر</h3><p>قائمة بما نفّذناه ولماذا، لتقيس الأثر بأرقامك أنت. لا نعد بترتيب معين على جوجل ولا بمبيعات.</p></li></ul>
 </div></section>
 
@@ -788,14 +965,48 @@ fieldset.field{border:0;padding:0;margin:0}
 <ol class="steps"><li><h3>ترسل الرابط</h3><p>أرسل رابط موقعك أو ملفك على جوجل عبر النموذج أدناه.</p></li><li><h3>تحصل على الفحص</h3><p>ثلاث نقاط محددة على الأكثر تبدأ بإصلاحها. بلا التزام.</p></li><li><h3>نكتب النطاق والسعر</h3><p>إن رغبت في المتابعة، نتفق كتابةً على ما سيُنفَّذ وكم يكلف.</p></li><li><h3>نبدأ التنفيذ</h3><p>يتولى شريكك المحلي العمل، وتحصل على تقرير مكتوب بما تغيّر.</p></li></ol>
 </div></section>
 
-<section class="sec" id="model"><div class="wrap">
+<section class="sec" id="examples"><div class="wrap">
+<h2 class="h2">أمثلة على شكل العمل</h2><p class="lead">تعتمد الأمثلة أدناه على شركة مختلقة لتوضيح الشكل فقط. لا تخص عميلًا حقيقيًا ولا تعرض نتائج.</p>
+<div class="exgrid"><div class="exblock">
+<h3 class="h3x">مثال: كيف يبدو الفحص المجاني</h3><p class="lead">مستند مكتوب بثلاث نقاط على الأكثر، مرتبة حسب الأثر والجهد، وتعرف منه بماذا تبدأ.</p>
+<div class="sample" data-draw>
+<article class="sheet" aria-label="مثال توضيحي: الفحص المجاني">
+<span class="stamp">مثال توضيحي</span>
+<div class="sh-t">الفحص المجاني</div><div class="sh-c">عيادة المثال، القاهرة (شركة مختلقة)</div>
+<ol class="pts"><li style="--i:0"><strong>ملف جوجل بلا فئة رئيسية ولا خدمات</strong><span class="pd">الفئة الرئيسية غير محددة وقائمة الخدمات فارغة، فلا يفهم العميل ما تقدمه العيادة.</span><span class="chips"><span class="chip">الأثر: مرتفع</span><span class="chip">الجهد: صغير</span></span></li><li style="--i:1"><strong>رقم الهاتف نص عادي على الموبايل</strong><span class="pd">لا يوجد زر اتصال ولا رابط واتساب، فيضطر العميل إلى نسخ الرقم.</span><span class="chips"><span class="chip">الأثر: مرتفع</span><span class="chip">الجهد: متوسط</span></span></li><li style="--i:2"><strong>صورة واحدة فقط في الملف</strong><span class="pd">لا توجد صور للمدخل والاستقبال والفريق، فيصعب على العميل أن يتخيل الزيارة.</span><span class="chips"><span class="chip">الأثر: متوسط</span><span class="chip">الجهد: صغير</span></span></li></ol>
+<p class="sh-f">فحصك الحقيقي يخص رابطك أنت، وبثلاث نقاط على الأكثر.</p>
+</article>
+<div class="matrix"><div class="mx-h">كيف نرتّب النقاط</div>
+<div class="mx-plot" role="img" aria-label="كيف نرتّب النقاط: 1: الأثر مرتفع, الجهد صغير; 2: الأثر مرتفع, الجهد متوسط; 3: الأثر متوسط, الجهد صغير"><span class="mx-zone"></span><span class="mx-zl">ابدأ من هنا</span><span class="mx-yt">الأثر: مرتفع</span><span class="mx-yb">الأثر: متوسط</span><span class="dot" style="--x:22%;--y:80%;--i:0">1</span><span class="dot" style="--x:62%;--y:80%;--i:1">2</span><span class="dot" style="--x:22%;--y:28%;--i:2">3</span></div>
+<div class="mx-ax" aria-hidden="true"><span>الجهد: صغير</span><span>الجهد: كبير</span></div></div>
+</div></div><div class="exblock">
+<h3 class="h3x">ملف جوجل بالتفصيل</h3><p class="lead">بطاقة نشاط عامة توضح ما نراجعه في ملفك. الأرقام تقابل القائمة.</p>
+<div class="anat" data-draw>
+<div class="mc" aria-hidden="true"><span class="stamp">مثال توضيحي</span>
+<div class="mc-ph"><i></i><i></i><i></i><span class="mk" style="--i:0">1</span></div>
+<div class="mc-row"><span class="sk t w80"></span><span class="sk w50"></span><span class="mk top" style="--i:1">2</span></div>
+<div class="mc-row mc-live"><b></b><span class="sk w60"></span><span class="mk" style="--i:2">3</span></div>
+<div class="mc-row"><div class="mc-act"><span class="mc-b"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6.5 3.5h3l1.8 4.6-2 1.4a11 11 0 0 0 5.2 5.2l1.4-2 4.6 1.8v3a2 2 0 0 1-2.2 2A16.5 16.5 0 0 1 4.5 5.7a2 2 0 0 1 2-2.2z"/></svg>اتصال</span><span class="mc-b"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21s-6.5-5.3-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15.7 12 21 12 21z"/><circle cx="12" cy="10.5" r="2.3"/></svg>المسار</span><span class="mc-b"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9.5h18"/><path d="M6.5 7h.01M9 7h.01"/></svg>الموقع الإلكتروني</span></div><span class="mk" style="--i:3">4</span></div>
+<div class="mc-row"><div class="mc-chips"><i style="--w:66px"></i><i style="--w:84px"></i><i style="--w:58px"></i><i style="--w:72px"></i></div><span class="mk" style="--i:4">5</span></div>
+<div class="mc-row"><span class="sk w90"></span><span class="sk w80"></span><span class="sk w40"></span><span class="mk" style="--i:5">6</span></div>
+</div>
+<ol class="legend"><li style="--i:0"><strong>الصور</strong><span>صور حقيقية للمكان والخدمة والفريق.</span></li><li style="--i:1"><strong>الاسم والفئة الرئيسية</strong><span>اسم النشاط كما يعرفه عملاؤك، وفئة رئيسية تطابق ما يبحثون عنه.</span></li><li style="--i:2"><strong>ساعات العمل</strong><span>ساعات صحيحة، ومحدّثة في العطلات والمواسم.</span></li><li style="--i:3"><strong>أزرار الاتصال والمسار والموقع الإلكتروني</strong><span>تقود إلى رقمك وعنوانك وموقعك، وتتطابق مع ما في موقعك.</span></li><li style="--i:4"><strong>الخدمات</strong><span>قائمة بخدماتك بأسماء يفهمها العميل.</span></li><li style="--i:5"><strong>الوصف</strong><span>وصف قصير بلغة عملائك، بلا حشو.</span></li></ol>
+</div></div><div class="exblock">
+<h3 class="h3x">أمثلة حسب النشاط</h3><p class="lead">اختر نشاطك لترى بماذا يبدأ الفحص عادةً. هذه نقاط مراجعة وليست وعودًا بنتائج.</p>
+<div class="stabs" id="stabs" data-label="الأنشطة"></div>
+<div class="spanels"><div class="spanel" id="sp-hospitality" data-sector="hospitality" data-label="فنادق وسياحة"><div class="sp-l1"><h4>فنادق وسياحة</h4><p class="sp-i">يبدأ الفحص لهذا النشاط عادةً بمراجعة:</p><ul class="tk"><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>رابط حجز أو استفسار واضح في الملف وفي الموقع</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>صور للغرف والمرافق والمنطقة المحيطة</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>موقع بالعربية والإنجليزية يعمل على الموبايل</span></li></ul></div><div class="sp-r"><p class="sp-l">محطات الطريق التي يركّز عليها الفحص</p><ul class="mp"><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5.5 5.5"/></svg></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21s-6.5-5.3-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15.7 12 21 12 21z"/><circle cx="12" cy="10.5" r="2.3"/></svg><span class="vh">يجد ملف نشاطك على الخرائط</span></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9.5h18"/><path d="M6.5 7h.01M9 7h.01"/></svg><span class="vh">يفتح موقعك</span></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6.5 3.5h3l1.8 4.6-2 1.4a11 11 0 0 0 5.2 5.2l1.4-2 4.6 1.8v3a2 2 0 0 1-2.2 2A16.5 16.5 0 0 1 4.5 5.7a2 2 0 0 1 2-2.2z"/></svg><span class="vh">يتصل بك أو يراسلك على واتساب</span></li><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M19.5 11a7.5 7.5 0 0 0-13.6-3.6M4.5 4v4h4"/><path d="M4.5 13a7.5 7.5 0 0 0 13.6 3.6M19.5 20v-4h-4"/></svg></li></ul><a class="btn btn-ghost" href="#contact" data-pick="hospitality">اختر هذا النشاط في النموذج</a></div></div><div class="spanel" id="sp-medical" data-sector="medical" data-label="عيادات ومراكز طبية"><div class="sp-l1"><h4>عيادات ومراكز طبية</h4><p class="sp-i">يبدأ الفحص لهذا النشاط عادةً بمراجعة:</p><ul class="tk"><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>التخصصات والخدمات مكتوبة بأسماء يفهمها المريض</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>ساعات العمل وطريقة الحجز: اتصال أو واتساب</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>العنوان وطريقة الوصول بوضوح</span></li></ul></div><div class="sp-r"><p class="sp-l">محطات الطريق التي يركّز عليها الفحص</p><ul class="mp"><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5.5 5.5"/></svg></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21s-6.5-5.3-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15.7 12 21 12 21z"/><circle cx="12" cy="10.5" r="2.3"/></svg><span class="vh">يجد ملف نشاطك على الخرائط</span></li><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9.5h18"/><path d="M6.5 7h.01M9 7h.01"/></svg></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6.5 3.5h3l1.8 4.6-2 1.4a11 11 0 0 0 5.2 5.2l1.4-2 4.6 1.8v3a2 2 0 0 1-2.2 2A16.5 16.5 0 0 1 4.5 5.7a2 2 0 0 1 2-2.2z"/></svg><span class="vh">يتصل بك أو يراسلك على واتساب</span></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M19.5 11a7.5 7.5 0 0 0-13.6-3.6M4.5 4v4h4"/><path d="M4.5 13a7.5 7.5 0 0 0 13.6 3.6M19.5 20v-4h-4"/></svg><span class="vh">يتلقى ردًا ومتابعة</span></li></ul><a class="btn btn-ghost" href="#contact" data-pick="medical">اختر هذا النشاط في النموذج</a></div></div><div class="spanel" id="sp-food" data-sector="food" data-label="مطاعم وكافيهات"><div class="sp-l1"><h4>مطاعم وكافيهات</h4><p class="sp-i">يبدأ الفحص لهذا النشاط عادةً بمراجعة:</p><ul class="tk"><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>قائمة الطعام والصور محدّثة</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>ساعات العمل الصحيحة، ومنها العطلات</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>المسار إلى المكان، والحجز أو الطلب إن وُجد</span></li></ul></div><div class="sp-r"><p class="sp-l">محطات الطريق التي يركّز عليها الفحص</p><ul class="mp"><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5.5 5.5"/></svg></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21s-6.5-5.3-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15.7 12 21 12 21z"/><circle cx="12" cy="10.5" r="2.3"/></svg><span class="vh">يجد ملف نشاطك على الخرائط</span></li><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9.5h18"/><path d="M6.5 7h.01M9 7h.01"/></svg></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6.5 3.5h3l1.8 4.6-2 1.4a11 11 0 0 0 5.2 5.2l1.4-2 4.6 1.8v3a2 2 0 0 1-2.2 2A16.5 16.5 0 0 1 4.5 5.7a2 2 0 0 1 2-2.2z"/></svg><span class="vh">يتصل بك أو يراسلك على واتساب</span></li><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M19.5 11a7.5 7.5 0 0 0-13.6-3.6M4.5 4v4h4"/><path d="M4.5 13a7.5 7.5 0 0 0 13.6 3.6M19.5 20v-4h-4"/></svg></li></ul><a class="btn btn-ghost" href="#contact" data-pick="food">اختر هذا النشاط في النموذج</a></div></div><div class="spanel" id="sp-realestate" data-sector="realestate" data-label="عقارات"><div class="sp-l1"><h4>عقارات</h4><p class="sp-i">يبدأ الفحص لهذا النشاط عادةً بمراجعة:</p><ul class="tk"><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>عروض بمواقعها وصورها على الموقع</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>زر واتساب واضح لكل عرض</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>المناطق التي تخدمها مذكورة بالاسم</span></li></ul></div><div class="sp-r"><p class="sp-l">محطات الطريق التي يركّز عليها الفحص</p><ul class="mp"><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5.5 5.5"/></svg></li><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21s-6.5-5.3-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15.7 12 21 12 21z"/><circle cx="12" cy="10.5" r="2.3"/></svg></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9.5h18"/><path d="M6.5 7h.01M9 7h.01"/></svg><span class="vh">يفتح موقعك</span></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6.5 3.5h3l1.8 4.6-2 1.4a11 11 0 0 0 5.2 5.2l1.4-2 4.6 1.8v3a2 2 0 0 1-2.2 2A16.5 16.5 0 0 1 4.5 5.7a2 2 0 0 1 2-2.2z"/></svg><span class="vh">يتصل بك أو يراسلك على واتساب</span></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M19.5 11a7.5 7.5 0 0 0-13.6-3.6M4.5 4v4h4"/><path d="M4.5 13a7.5 7.5 0 0 0 13.6 3.6M19.5 20v-4h-4"/></svg><span class="vh">يتلقى ردًا ومتابعة</span></li></ul><a class="btn btn-ghost" href="#contact" data-pick="realestate">اختر هذا النشاط في النموذج</a></div></div><div class="spanel" id="sp-education" data-sector="education" data-label="تعليم وتدريب"><div class="sp-l1"><h4>تعليم وتدريب</h4><p class="sp-i">يبدأ الفحص لهذا النشاط عادةً بمراجعة:</p><ul class="tk"><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>الدورات بمواعيدها وأسعارها وشروطها</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>نموذج تسجيل قصير يعمل على الموبايل</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>ردّ ومتابعة لكل استفسار</span></li></ul></div><div class="sp-r"><p class="sp-l">محطات الطريق التي يركّز عليها الفحص</p><ul class="mp"><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5.5 5.5"/></svg></li><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21s-6.5-5.3-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15.7 12 21 12 21z"/><circle cx="12" cy="10.5" r="2.3"/></svg></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9.5h18"/><path d="M6.5 7h.01M9 7h.01"/></svg><span class="vh">يفتح موقعك</span></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6.5 3.5h3l1.8 4.6-2 1.4a11 11 0 0 0 5.2 5.2l1.4-2 4.6 1.8v3a2 2 0 0 1-2.2 2A16.5 16.5 0 0 1 4.5 5.7a2 2 0 0 1 2-2.2z"/></svg><span class="vh">يتصل بك أو يراسلك على واتساب</span></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M19.5 11a7.5 7.5 0 0 0-13.6-3.6M4.5 4v4h4"/><path d="M4.5 13a7.5 7.5 0 0 0 13.6 3.6M19.5 20v-4h-4"/></svg><span class="vh">يتلقى ردًا ومتابعة</span></li></ul><a class="btn btn-ghost" href="#contact" data-pick="education">اختر هذا النشاط في النموذج</a></div></div><div class="spanel" id="sp-retail" data-sector="retail" data-label="تجارة وتجزئة ومتاجر إلكترونية"><div class="sp-l1"><h4>تجارة وتجزئة ومتاجر إلكترونية</h4><p class="sp-i">يبدأ الفحص لهذا النشاط عادةً بمراجعة:</p><ul class="tk"><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>أقسام المنتجات وصفحاتها واضحة</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>معلومات الشحن والاسترجاع ظاهرة</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>متابعة من سأل ولم يشترِ بعد</span></li></ul></div><div class="sp-r"><p class="sp-l">محطات الطريق التي يركّز عليها الفحص</p><ul class="mp"><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5.5 5.5"/></svg></li><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21s-6.5-5.3-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15.7 12 21 12 21z"/><circle cx="12" cy="10.5" r="2.3"/></svg></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9.5h18"/><path d="M6.5 7h.01M9 7h.01"/></svg><span class="vh">يفتح موقعك</span></li><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6.5 3.5h3l1.8 4.6-2 1.4a11 11 0 0 0 5.2 5.2l1.4-2 4.6 1.8v3a2 2 0 0 1-2.2 2A16.5 16.5 0 0 1 4.5 5.7a2 2 0 0 1 2-2.2z"/></svg></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M19.5 11a7.5 7.5 0 0 0-13.6-3.6M4.5 4v4h4"/><path d="M4.5 13a7.5 7.5 0 0 0 13.6 3.6M19.5 20v-4h-4"/></svg><span class="vh">يتلقى ردًا ومتابعة</span></li></ul><a class="btn btn-ghost" href="#contact" data-pick="retail">اختر هذا النشاط في النموذج</a></div></div><div class="spanel" id="sp-trades" data-sector="trades" data-label="حرف وخدمات فنية"><div class="sp-l1"><h4>حرف وخدمات فنية</h4><p class="sp-i">يبدأ الفحص لهذا النشاط عادةً بمراجعة:</p><ul class="tk"><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>نطاق الخدمة بالأحياء والمدن</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>زر اتصال كبير على الموبايل</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>صور لأعمال منفّذة</span></li></ul></div><div class="sp-r"><p class="sp-l">محطات الطريق التي يركّز عليها الفحص</p><ul class="mp"><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5.5 5.5"/></svg></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21s-6.5-5.3-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15.7 12 21 12 21z"/><circle cx="12" cy="10.5" r="2.3"/></svg><span class="vh">يجد ملف نشاطك على الخرائط</span></li><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9.5h18"/><path d="M6.5 7h.01M9 7h.01"/></svg></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6.5 3.5h3l1.8 4.6-2 1.4a11 11 0 0 0 5.2 5.2l1.4-2 4.6 1.8v3a2 2 0 0 1-2.2 2A16.5 16.5 0 0 1 4.5 5.7a2 2 0 0 1 2-2.2z"/></svg><span class="vh">يتصل بك أو يراسلك على واتساب</span></li><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M19.5 11a7.5 7.5 0 0 0-13.6-3.6M4.5 4v4h4"/><path d="M4.5 13a7.5 7.5 0 0 0 13.6 3.6M19.5 20v-4h-4"/></svg></li></ul><a class="btn btn-ghost" href="#contact" data-pick="trades">اختر هذا النشاط في النموذج</a></div></div><div class="spanel" id="sp-other" data-sector="other" data-label="نشاط آخر"><div class="sp-l1"><h4>نشاط آخر</h4><p class="sp-i">يبدأ الفحص لهذا النشاط عادةً بمراجعة:</p><ul class="tk"><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>وصف نشاطك بلغة عملائك</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>ملف جوجل مكتمل ومتسق مع الموقع</span></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg><span>خطوة تالية واحدة واضحة للعميل: اتصال أو رسالة أو حجز</span></li></ul></div><div class="sp-r"><p class="sp-l">محطات الطريق التي يركّز عليها الفحص</p><ul class="mp"><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5.5 5.5"/></svg></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 21s-6.5-5.3-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15.7 12 21 12 21z"/><circle cx="12" cy="10.5" r="2.3"/></svg><span class="vh">يجد ملف نشاطك على الخرائط</span></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="3" y="4.5" width="18" height="15" rx="2.2"/><path d="M3 9.5h18"/><path d="M6.5 7h.01M9 7h.01"/></svg><span class="vh">يفتح موقعك</span></li><li class="on"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6.5 3.5h3l1.8 4.6-2 1.4a11 11 0 0 0 5.2 5.2l1.4-2 4.6 1.8v3a2 2 0 0 1-2.2 2A16.5 16.5 0 0 1 4.5 5.7a2 2 0 0 1 2-2.2z"/></svg><span class="vh">يتصل بك أو يراسلك على واتساب</span></li><li aria-hidden="true"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M19.5 11a7.5 7.5 0 0 0-13.6-3.6M4.5 4v4h4"/><path d="M4.5 13a7.5 7.5 0 0 0 13.6 3.6M19.5 20v-4h-4"/></svg></li></ul><a class="btn btn-ghost" href="#contact" data-pick="other">اختر هذا النشاط في النموذج</a></div></div></div>
+</div></div>
+<p class="cta-row ex-cta"><a class="btn" href="#contact">ابدأ بالفحص المجاني</a></p>
+</div></section>
+
+<section class="sec alt" id="model"><div class="wrap">
 <h2 class="h2">كيف نعمل مع شركائنا</h2><p class="model-p">LocalDominate استوديو يضع طريقة العمل: سبع خطوات من التشخيص إلى التوسع، وقوالب جاهزة، ومراجعة قبل كل تسليم. في كل وجهة نعمل فيها، يتولى شريك محلي السوق واللغة والمكالمات والتنفيذ. مصر هي أول شريك خارجي لنا.</p>
 <div class="methodwrap"><h3 class="h3x">الخطوات السبع وراء كل مشروع</h3><p class="lead">يمكنك البدء من أي خطوة والتوقف بعد أي خطوة. في كل خطوة تحصل على شيء ملموس.</p>
 <ol class="method" data-draw><li style="--i:0"><h3>التشخيص</h3><span class="mget">تحصل على</span><p>ملخص مكتوب للنتائج، مرتبة حسب الأثر والجهد.</p></li><li style="--i:1"><h3>التموضع</h3><span class="mget">تحصل على</span><p>ورقة واحدة للتموضع: الجمهور والوعد والدليل والنبرة.</p></li><li style="--i:2"><h3>التصميم</h3><span class="mget">تحصل على</span><p>تصاميم للصفحات والمسارات جاهزة للبناء.</p></li><li style="--i:3"><h3>البناء</h3><span class="mget">تحصل على</span><p>موقع أو متجر يعمل على نطاقك وحساباتك.</p></li><li style="--i:4"><h3>الإطلاق</h3><span class="mget">تحصل على</span><p>خطة إطلاق بالقنوات والميزانية والمواعيد.</p></li><li style="--i:5"><h3>النمو</h3><span class="mget">تحصل على</span><p>قائمة مرتبة بالتغييرات، منفّذة وموثّقة.</p></li><li style="--i:6"><h3>التوسع</h3><span class="mget">تحصل على</span><p>خطة تجريبية للسوق التالي، مع قاعدة واضحة للتوقف.</p></li></ol></div>
 <div class="roles"><div class="role"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 6h14M5 12h14M5 18h9"/></svg><h3>LocalDominate</h3><p>الطريقة والقوالب ومعايير الجودة</p></div><div class="role"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M20.5 12a8 8 0 0 1-11.7 7.1L4 20.5l1.3-4.4A8 8 0 1 1 20.5 12z"/></svg><h3>شريكك المحلي</h3><p>السوق واللغة والمكالمات والبناء والمتابعة</p></div><div class="role you"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="8" cy="12" r="3.5"/><path d="M11.5 12H21M17.5 12v3.2M20.5 12v2.2"/></svg><h3>أنت</h3><p>تملك الموقع وملف جوجل وكل ما نبنيه لك</p></div></div>
 </div></section>
 
-<section class="sec alt" id="partner"><div class="wrap partner">
+<section class="sec" id="partner"><div class="wrap partner">
 <div class="mono" aria-hidden="true">ر</div>
 <div>
 <h2 class="h2">من سيعمل على مشروعك</h2>
@@ -806,35 +1017,53 @@ fieldset.field{border:0;padding:0;margin:0}
 </div>
 </div></section>
 
-<section class="sec" id="prices"><div class="wrap">
+<section class="sec alt" id="prices"><div class="wrap">
 <h2 class="h2">الأسعار بالجنيه المصري</h2><p class="lead">هذه أسعار بداية. يُكتب النطاق والسعر النهائي ويُتفق عليهما قبل أن نبدأ.</p>
 <div class="tbl" data-draw><table><thead><tr><th scope="col">الخدمة</th><th scope="col">ماذا تحصل عليه</th><th scope="col">السعر</th></tr></thead><tbody><tr><td>الفحص المجاني</td><td class="d">مراجعة مكتوبة لملفك على جوجل أو لموقعك، بثلاث نقاط على الأكثر تبدأ بإصلاحها.</td><td class="p"><span class="pv">مجانًا</span><span class="rng" aria-hidden="true"><i class="z" style="--l:0.0%;--w:2.4%;--i:0"></i></span></td></tr><tr><td>إصلاح سريع لملف جوجل</td><td class="d">نراجع ملفك على خرائط جوجل ونصحح الناقص والمتعارض.</td><td class="p"><span class="pv">من 2,500 جنيه</span><span class="rng" aria-hidden="true"><i class="o" style="--l:5.0%;--w:95.0%;--i:1"></i></span></td></tr><tr><td>حضور كامل على جوجل</td><td class="d">الفئات والخدمات والصور والتفاصيل، وتقرير مكتوب بما تغيّر.</td><td class="p"><span class="pv">6,000 إلى 10,000 جنيه</span><span class="rng" aria-hidden="true"><i class="" style="--l:12.0%;--w:8.0%;--i:2"></i></span></td></tr><tr><td>موقع في 5 أيام</td><td class="d">موقع للموبايل بالعربية ولغة ثانية، مع أزرار الاتصال وواتساب، ومربوط بملفك على جوجل. نتفق على النطاق والمحتوى في مكالمة قبل البدء.</td><td class="p"><span class="pv">14,000 إلى 35,000 جنيه</span><span class="rng" aria-hidden="true"><i class="" style="--l:28.0%;--w:42.0%;--i:3"></i></span></td></tr><tr><td>إعداد مسار العملاء والتواصل</td><td class="d">صفحة هبوط ونموذج استفسار وقوالب رسائل ونصوص مكالمات وتتبع لمصدر كل استفسار.</td><td class="p"><span class="pv">20,000 إلى 45,000 جنيه</span><span class="rng" aria-hidden="true"><i class="" style="--l:40.0%;--w:50.0%;--i:4"></i></span></td></tr><tr><td>أتمتة ذكية صغيرة</td><td class="d">مهمة واحدة متكررة تعمل تلقائيًا، مثل نموذج يغذي قائمة عملائك ويُنبّهك ويرد على الاستفسار.</td><td class="p"><span class="pv">من 6,000 جنيه</span><span class="rng" aria-hidden="true"><i class="o" style="--l:12.0%;--w:88.0%;--i:5"></i></span></td></tr><tr><td>إدارة شهرية للتواصل والمتابعة</td><td class="d">مكالمات ورسائل ومتابعة وتقرير شهري، بنطاق مكتوب. الحد الأدنى ثلاثة أشهر، ثم يمكن الإلغاء شهريًا.</td><td class="p"><span class="pv">7,500 إلى 20,000 جنيه شهريًا</span><span class="rng" aria-hidden="true"><i class="m" style="--l:15.0%;--w:25.0%;--i:6"></i></span></td></tr></tbody></table></div>
 <p class="note">المقياس من 0 إلى 50,000 جنيه. الشريط الباهت المفتوح يعني «من». الشريط المتقطع يعني السعر شهريًا.</p>
 <p class="note">الأسعار بالجنيه المصري وتُراجع من وقت لآخر (آخر تحديث 19 أكتوبر 2026). لا تشمل ضريبة القيمة المضافة ولا ميزانيات الإعلانات المدفوعة ولا رسوم الدومين والاستضافة والأدوات التي تدفعها مباشرة.</p>
+<div class="bunwrap"><h3 class="h3x">أمثلة على الجمع بين الخدمات</h3><p class="lead">ثلاث تركيبات شائعة، محسوبة بجمع الأسعار الواردة في الجدول. هي أمثلة تقديرية وليست عروضًا.</p>
+<div class="bundles" data-draw><div class="bun"><h4>البداية</h4><p class="bd">لمن لديه ملف على جوجل ويحتاج إلى تصحيحه</p><ul class="chips"><li class="chip">إصلاح سريع لملف جوجل</li></ul><div class="bp"><span class="bl">مرة واحدة</span><span class="bv">من 2,500 جنيه</span><span class="rng" aria-hidden="true"><i class="o" style="--l:2.5%;--w:97.5%;--i:0"></i></span></div><div class="bp" aria-hidden="true"></div><button class="btn btn-ghost load" type="button" data-ids="1">جرّبها في الحاسبة</button></div><div class="bun"><h4>الحضور</h4><p class="bd">ملف جوجل كامل وموقع للموبايل</p><ul class="chips"><li class="chip">حضور كامل على جوجل</li><li class="chip">موقع في 5 أيام</li></ul><div class="bp"><span class="bl">مرة واحدة</span><span class="bv">20,000 إلى 45,000 جنيه</span><span class="rng" aria-hidden="true"><i style="--l:20.0%;--w:25.0%;--i:1"></i></span></div><div class="bp" aria-hidden="true"></div><button class="btn btn-ghost load" type="button" data-ids="2,3">جرّبها في الحاسبة</button></div><div class="bun"><h4>الحضور والعملاء</h4><p class="bd">الحضور مع مسار للعملاء وإدارة شهرية للمتابعة</p><ul class="chips"><li class="chip">حضور كامل على جوجل</li><li class="chip">موقع في 5 أيام</li><li class="chip">إعداد مسار العملاء والتواصل</li><li class="chip">إدارة شهرية للتواصل والمتابعة</li></ul><div class="bp"><span class="bl">مرة واحدة</span><span class="bv">40,000 إلى 90,000 جنيه</span><span class="rng" aria-hidden="true"><i style="--l:40.0%;--w:50.0%;--i:2"></i></span></div><div class="bp"><span class="bl">شهريًا</span><span class="bm">7,500 إلى 20,000 جنيه شهريًا، بحد أدنى ثلاثة أشهر</span></div><button class="btn btn-ghost load" type="button" data-ids="2,3,4,6">جرّبها في الحاسبة</button></div></div>
+<p class="note">المقياس من 0 إلى 100,000 جنيه. الشريط الباهت المفتوح يعني «من».</p></div>
+<div class="calcwrap" id="calc"><h3 class="h3x">احسب تقديرًا لاحتياجك</h3><p class="lead">اختر الخدمات التي تهمك لترى نطاقًا تقديريًا. السعر المكتوب بعد الفحص هو المعتمد.</p>
+<div class="calc"><div class="calc-in">
+<fieldset class="cg"><legend>ملف جوجل</legend><label class="opt"><input type="radio" name="cg" data-i="-1" checked><span class="nm">بدون</span></label><label class="opt"><input type="radio" name="cg" data-i="1"><span class="nm">إصلاح سريع لملف جوجل</span><span class="op">من 2,500 جنيه</span></label><label class="opt"><input type="radio" name="cg" data-i="2"><span class="nm">حضور كامل على جوجل</span><span class="op">6,000 إلى 10,000 جنيه</span></label></fieldset>
+<fieldset class="cg"><legend>خدمات أخرى</legend><label class="opt"><input type="checkbox" name="cx" data-i="3"><span class="nm">موقع في 5 أيام</span><span class="op">14,000 إلى 35,000 جنيه</span></label><label class="opt"><input type="checkbox" name="cx" data-i="4"><span class="nm">إعداد مسار العملاء والتواصل</span><span class="op">20,000 إلى 45,000 جنيه</span></label><label class="opt"><input type="checkbox" name="cx" data-i="5"><span class="nm">أتمتة ذكية صغيرة</span><span class="op">من 6,000 جنيه</span></label><label class="opt"><input type="checkbox" name="cx" data-i="6"><span class="nm">إدارة شهرية للتواصل والمتابعة</span><span class="op">7,500 إلى 20,000 جنيه شهريًا</span></label></fieldset>
+</div>
+<div class="cres" role="status" aria-live="polite" aria-atomic="true"><h4>تقدير أولي</h4>
+<p class="cr-none" id="cNone">اختر خدمة لترى التقدير</p>
+<div id="cOnceBox" hidden><div class="cr-l">مرة واحدة</div><div class="cr-v" id="cOnce"></div>
+<span class="rng" aria-hidden="true"><i id="cBar" style="--l:0%;--w:0%;--i:0"></i></span>
+<div class="cr-ax" aria-hidden="true"><span>0</span><span>100,000</span></div></div>
+<div id="cMonthBox" hidden><div class="cr-l">شهريًا</div><div class="cr-m" id="cMonth"></div></div>
+<p class="cr-f">الفحص المجاني بلا مقابل</p>
+<a class="btn" id="cCta" href="#contact" hidden>اطلب فحصًا بهذه الخدمات</a>
+</div></div>
+<p class="note">المجموع هو جمع الأسعار الواردة في الجدول. السعر المكتوب بعد الفحص قد يختلف.</p></div>
 <p class="cta-row"><a class="btn" href="#contact">ابدأ بالفحص المجاني</a></p>
 </div></section>
 
-<section class="sec alt" id="commitments"><div class="wrap">
+<section class="sec" id="commitments"><div class="wrap">
 <h2 class="h2">أربعة التزامات مكتوبة</h2>
 <ul class="commit"><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M7 3.5h7l4 4V20.5H7z"/><path d="M14 3.5v4h4M10 12h5M10 15.5h5"/></svg><h3>النطاق والسعر مكتوبان أولًا</h3><p>تعرف ما سيُنفَّذ وكم سيكلف قبل أن يبدأ أي عمل. لا يُحاسَب شيء لم يُتفق عليه.</p></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 12.5l3.5 3.5L13 8.5"/><path d="M11.5 16.5l1.2 1.2L20 8.5"/></svg><h3>الدفع على مرحلتين</h3><p>للمشاريع التي تُنفَّذ مرة واحدة: نصف المبلغ عند الطلب والنصف عند قبولك للنطاق المتفق عليه. وتشمل جولة تعديلات واحدة.</p></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="8" cy="12" r="3.5"/><path d="M11.5 12H21M17.5 12v3.2M20.5 12v2.2"/></svg><h3>كل شيء ملكك</h3><p>الموقع وملف جوجل ملكك. والإدارة الشهرية يمكن إلغاؤها شهريًا بعد الحد الأدنى.</p></li><li><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M6 18L18 6"/></svg><h3>لا وعود بالترتيب أو المبيعات</h3><p>لا نعد بمركز معين على جوجل ولا بإيرادات. تحصل على قائمة مكتوبة بما غيّرناه ولماذا.</p></li></ul>
 </div></section>
 
-<section class="sec" id="eligibility"><div class="wrap">
+<section class="sec alt" id="eligibility"><div class="wrap">
 <h2 class="h2">من يمكنه الاستفادة من هذا العرض</h2>
 <div class="elig"><div class="yes"><h3><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M8 12.3l2.8 2.8L16.3 9.2"/></svg>يشمل العرض</h3><p>شركات ومؤسسات مسجلة وتعمل في مصر، في أي محافظة.</p></div><div class="no"><h3><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5"/><path d="M9 9l6 6M15 9l-6 6"/></svg>لا يشمل العرض</h3><p>الشركات المسجلة خارج مصر. إن كانت شركتك خارج مصر، تواصل مع LocalDominate مباشرة عبر <a href="https://localdominate.org/start-a-project">localdominate.org</a>.</p></div></div>
 </div></section>
 
-<section class="sec alt" id="honest"><div class="wrap split honest">
+<section class="sec" id="honest"><div class="wrap split honest">
 <div class="split-h"><h2 class="h2">ما لن تجده هنا</h2></div>
-<div class="split-b"><p>لا نعرض أرقامًا أو شعارات عملاء أو آراء لا نستطيع توثيقها. أفضل دليل نقدمه هو الفحص المجاني: ترى عملنا على نشاطك أنت قبل أن تقرر.</p></div>
+<div class="split-b"><p>لا نعرض أرقامًا أو شعارات عملاء أو آراء لا نستطيع توثيقها. أفضل دليل نقدمه هو الفحص المجاني: ترى عملنا على نشاطك أنت قبل أن تقرر. والأمثلة في هذه الصفحة تستخدم شركة مختلقة لتوضيح الشكل فقط.</p></div>
 </div></section>
 
-<section class="sec" id="faq"><div class="wrap split">
+<section class="sec alt" id="faq"><div class="wrap split">
 <div class="split-h"><h2 class="h2">أسئلة شائعة</h2></div>
-<div class="faq split-b"><details><summary>ما هي LocalDominate مصر؟</summary><p>LocalDominate استوديو يبني المواقع ويضبط الحضور على جوجل ويدير مسار العملاء. LocalDominate مصر هو عمل شريكتنا ريهام الشرقاوي في السوق المصري، بمنهج الاستوديو ومعاييره.</p></details><details><summary>من يستطيع الاستفادة من العرض؟</summary><p>الشركات المسجلة والعاملة في مصر فقط. الشركات المسجلة خارج مصر لا يشملها هذا العرض.</p></details><details><summary>كم تبلغ التكلفة؟</summary><p>تبدأ من 2,500 جنيه لإصلاح ملف جوجل، ويتراوح الموقع بين 14,000 و35,000 جنيه. الفحص الأولي مجاني، ويُكتب السعر النهائي قبل البدء.</p></details><details><summary>هل تعملون بالعربية؟</summary><p>نعم، العربية هي اللغة الأولى. وتتوفر مشاريع بالإنجليزية والفرنسية والإسبانية والكورية عند الطلب.</p></details><details><summary>هل تعدون بترتيب متقدم على جوجل أو بزيادة المبيعات؟</summary><p>لا. لا نعد بترتيب ولا بإيرادات. نوثّق كل تغيير، وتقيس الأثر بأرقامك.</p></details><details><summary>من يملك الموقع وملف جوجل؟</summary><p>أنت. الموقع وملف جوجل ملكك، والإدارة الشهرية يمكن إلغاؤها شهريًا بعد الحد الأدنى.</p></details><details><summary>كيف يعمل نموذج الشريك؟</summary><p>LocalDominate تضع المنهج والمعايير، والشريك المحلي يتولى السوق واللغة والمكالمات والتنفيذ. مصر هي أول شريك خارجي لنا.</p></details><details><summary>هل LocalDominate هي نفسها Local Dominator؟</summary><p>لا. LocalDominate لا ترتبط بشركة البرمجيات الأمريكية Local Dominator (localdominator.co).</p></details><details><summary>كيف أبدأ؟</summary><p>أرسل رابط موقعك أو ملفك على جوجل عبر النموذج أدناه. تحصل على نقاط محددة تبدأ بها، بلا التزام.</p></details></div>
+<div class="faq split-b"><details><summary>ما هي LocalDominate مصر؟</summary><p>LocalDominate استوديو يبني المواقع ويضبط الحضور على جوجل ويدير مسار العملاء. LocalDominate مصر هو عمل شريكتنا ريهام الشرقاوي في السوق المصري، بمنهج الاستوديو ومعاييره.</p></details><details><summary>من يستطيع الاستفادة من العرض؟</summary><p>الشركات المسجلة والعاملة في مصر فقط. الشركات المسجلة خارج مصر لا يشملها هذا العرض.</p></details><details><summary>كم تبلغ التكلفة؟</summary><p>تبدأ من 2,500 جنيه لإصلاح ملف جوجل، ويتراوح الموقع بين 14,000 و35,000 جنيه. الفحص الأولي مجاني، ويُكتب السعر النهائي قبل البدء.</p></details><details><summary>كيف أقدّر التكلفة قبل أن أتواصل؟</summary><p>استخدم الحاسبة في قسم الأسعار لتختار الخدمات التي تحتاجها. هي تجمع الأسعار المذكورة وتعطيك نطاقًا تقديريًا، ويبقى السعر المكتوب بعد الفحص هو المعتمد.</p></details><details><summary>هل تعملون بالعربية؟</summary><p>نعم، العربية هي اللغة الأولى. وتتوفر مشاريع بالإنجليزية والفرنسية والإسبانية والكورية عند الطلب.</p></details><details><summary>هل تعدون بترتيب متقدم على جوجل أو بزيادة المبيعات؟</summary><p>لا. لا نعد بترتيب ولا بإيرادات. نوثّق كل تغيير، وتقيس الأثر بأرقامك.</p></details><details><summary>من يملك الموقع وملف جوجل؟</summary><p>أنت. الموقع وملف جوجل ملكك، والإدارة الشهرية يمكن إلغاؤها شهريًا بعد الحد الأدنى.</p></details><details><summary>كيف يعمل نموذج الشريك؟</summary><p>LocalDominate تضع المنهج والمعايير، والشريك المحلي يتولى السوق واللغة والمكالمات والتنفيذ. مصر هي أول شريك خارجي لنا.</p></details><details><summary>هل LocalDominate هي نفسها Local Dominator؟</summary><p>لا. LocalDominate لا ترتبط بشركة البرمجيات الأمريكية Local Dominator (localdominator.co).</p></details><details><summary>كيف يبدو الفحص المجاني؟</summary><p>مستند مكتوب بثلاث نقاط على الأكثر، مرتبة حسب الأثر والجهد، مع النقطة التي تبدأ بها. يوجد مثال توضيحي في قسم الأمثلة، وهو لشركة مختلقة.</p></details><details><summary>كيف أبدأ؟</summary><p>أرسل رابط موقعك أو ملفك على جوجل عبر النموذج أدناه. تحصل على نقاط محددة تبدأ بها، بلا التزام.</p></details></div>
 </div></section>
 
-<section class="sec alt" id="contact"><div class="wrap split">
+<section class="sec" id="contact"><div class="wrap split">
 <div class="split-h"><h2 class="h2">اطلب فحصك المجاني</h2><p class="lead">أخبرنا بالقليل عن شركتك. نرد عليك بالبريد الإلكتروني.</p></div>
 <div class="split-b">
 <form id="leadForm" class="form" novalidate>
@@ -873,13 +1102,13 @@ fieldset.field{border:0;padding:0;margin:0}
 <dl class="imp"><dt>الجهة المشغّلة</dt><dd><bdi>Explore Saudi Arabia Ltd</bdi> (<bdi>LocalDominate</bdi>)</dd><dt>العنوان</dt><dd><bdi>128 City Road, London EC1V 2NX, United Kingdom</bdi></dd><dt>السجل</dt><dd><bdi>Companies House</bdi>، رقم <bdi>16902019</bdi></dd><dt>يمثلها والمسؤول عن المحتوى</dt><dd><bdi>Markus Wimböck</bdi></dd><dt>ضريبة القيمة المضافة</dt><dd>الشركة غير مسجلة حاليًا في ضريبة القيمة المضافة.</dd><dt>التواصل</dt><dd><span class="addr" aria-live="polite"><button type="button" class="reveal" data-addr="i">إظهار البريد الإلكتروني</button></span></dd></dl>
 <div class="links"><a href="https://localdominate.org/impressum">البيانات القانونية الكاملة</a><a href="https://localdominate.org/datenschutz">سياسة الخصوصية</a></div>
 <p>لا ترتبط LocalDominate بشركة البرمجيات الأمريكية Local Dominator (localdominator.co).</p>
-<p>آخر تحديث: <time datetime="2026-10-19">19 أكتوبر 2026</time></p>
+<p>آخر تحديث: <time datetime="2026-10-20">20 أكتوبر 2026</time></p>
 <div class="links"><a href="https://localdominate.org">موقع LocalDominate الرئيسي</a><a href="/eg/en/" hreflang="en" lang="en">English</a></div>
 </div></footer>
 <div class="sticky" id="stickyCta"><a class="btn" href="#contact">احصل على فحص مجاني</a></div>
 <script>
 (function(){
-var T={"eName": "اكتب اسمك.", "eCompany": "اكتب اسم الشركة.", "eLink": "أضف رابط موقعك أو ملفك على جوجل.", "eGov": "اختر المحافظة.", "eSector": "اختر النشاط.", "eEmail": "اكتب بريدًا إلكترونيًا صحيحًا.", "eRegNone": "اختر أين سجّلت شركتك.", "eRegOut": "هذا العرض للشركات المسجلة في مصر فقط.", "eConsent": "أكّد موافقتك على استخدام البيانات.", "eAll": "راجع الحقول المحددة.", "copied": "تم النسخ.", "copyManual": "حدّد النص وانسخه يدويًا.", "sending": "جارٍ الإرسال…", "submitLabel": "اطلب الفحص المجاني", "resH": "طلبك جاهز", "resP": "اضغط «افتح البريد» وأرسل الرسالة. لم يُرسل شيء بعد. إن لم يفتح برنامج البريد، انسخ الرسالة وأظهر العنوان لإرسالها.", "sentH": "وصل طلبك", "sentP": "شكرًا لك. سنراجع طلبك ونرد على بريدك الإلكتروني.", "failH": "تعذّر إرسال الطلب", "failP": "لم يصل طلبك بعد. جرّب مرة أخرى بعد قليل، أو أرسل الرسالة الجاهزة بالبريد.", "subject": "طلب فحص مجاني: LocalDominate مصر", "lName": "الاسم", "lCompany": "الشركة", "lLink": "الرابط", "lGov": "المحافظة", "lSector": "النشاط", "lEmail": "البريد الإلكتروني", "lPhone": "الهاتف", "lGoal": "ما المطلوب تحسينه", "lReg": "الشركة مسجلة في مصر: نعم", "greeting": "مرحبًا، أرغب في فحص مجاني."}, AD={"p": [114, 101, 104, 97, 109, 46, 101, 108, 115, 104, 114, 107, 97, 119, 121, 64, 103, 109, 97, 105, 108, 46, 99, 111, 109], "i": [105, 110, 102, 111, 64, 108, 111, 99, 97, 108, 100, 111, 109, 105, 110, 97, 116, 101, 46, 111, 114, 103]};
+var T={"eName": "اكتب اسمك.", "eCompany": "اكتب اسم الشركة.", "eLink": "أضف رابط موقعك أو ملفك على جوجل.", "eGov": "اختر المحافظة.", "eSector": "اختر النشاط.", "eEmail": "اكتب بريدًا إلكترونيًا صحيحًا.", "eRegNone": "اختر أين سجّلت شركتك.", "eRegOut": "هذا العرض للشركات المسجلة في مصر فقط.", "eConsent": "أكّد موافقتك على استخدام البيانات.", "eAll": "راجع الحقول المحددة.", "copied": "تم النسخ.", "copyManual": "حدّد النص وانسخه يدويًا.", "sending": "جارٍ الإرسال…", "submitLabel": "اطلب الفحص المجاني", "resH": "طلبك جاهز", "resP": "اضغط «افتح البريد» وأرسل الرسالة. لم يُرسل شيء بعد. إن لم يفتح برنامج البريد، انسخ الرسالة وأظهر العنوان لإرسالها.", "sentH": "وصل طلبك", "sentP": "شكرًا لك. سنراجع طلبك ونرد على بريدك الإلكتروني.", "failH": "تعذّر إرسال الطلب", "failP": "لم يصل طلبك بعد. جرّب مرة أخرى بعد قليل، أو أرسل الرسالة الجاهزة بالبريد.", "subject": "طلب فحص مجاني: LocalDominate مصر", "lName": "الاسم", "lCompany": "الشركة", "lLink": "الرابط", "lGov": "المحافظة", "lSector": "النشاط", "lEmail": "البريد الإلكتروني", "lPhone": "الهاتف", "lGoal": "ما المطلوب تحسينه", "lReg": "الشركة مسجلة في مصر: نعم", "greeting": "مرحبًا، أرغب في فحص مجاني.", "cFrom": "من {a} جنيه", "cRange": "{a} إلى {b} جنيه", "cMonth": "{a} إلى {b} جنيه شهريًا، بحد أدنى ثلاثة أشهر", "cNone": "اختر خدمة لترى التقدير", "cFree": "الفحص المجاني بلا مقابل", "cWant": "أرغب في: ", "cSep": "، "}, AD={"p": [114, 101, 104, 97, 109, 46, 101, 108, 115, 104, 114, 107, 97, 119, 121, 64, 103, 109, 97, 105, 108, 46, 99, 111, 109], "i": [105, 110, 102, 111, 64, 108, 111, 99, 97, 108, 100, 111, 109, 105, 110, 97, 116, 101, 46, 111, 114, 103]};
 /* Web3Forms access key: public by design, put in by the Vercel build (VITE_WEB3FORMS_KEY). Without it the page falls back to the prepared email. */
 var WF='__WEB3FORMS_KEY__', WFOK=/^[0-9A-Za-z-]{20,64}$/.test(WF);
 function $(id){return document.getElementById(id)}
@@ -906,6 +1135,76 @@ try{
 /* sticky bar: only between the hero and the form */
 var sc=$('stickyCta');
 if(sc&&'IntersectionObserver' in window){var vis={};var io=new IntersectionObserver(function(en){en.forEach(function(e){vis[e.target.id]=e.isIntersecting});sc.classList.toggle('off',!!(vis.contact||vis.top))},{threshold:0.05});['contact','top'].forEach(function(i){var n=$(i);if(n)io.observe(n)})}
+/* v5: sector tabs, "use this sector" links, cost calculator */
+var PR=[[0, 0], [2500, null], [6000, 10000], [14000, 35000], [20000, 45000], [6000, null], [7500, 20000]], reduce=false;
+try{reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches}catch(err){}
+var spans=document.querySelectorAll('.spanel'), tlist=$('stabs');
+if(spans.length&&tlist){
+  var rtl=false,tabs=[];
+  try{rtl=getComputedStyle(page).direction==='rtl'}catch(err){}
+  tlist.setAttribute('role','tablist');tlist.setAttribute('aria-label',tlist.getAttribute('data-label')||'');
+  var pickTab=function(i,focus){
+    spans.forEach(function(p,j){p.classList.toggle('on',i===j)});
+    tabs.forEach(function(b,j){b.setAttribute('aria-selected',i===j?'true':'false');b.tabIndex=i===j?0:-1});
+    if(focus)tabs[i].focus();
+  };
+  spans.forEach(function(p,i){
+    var id=p.getAttribute('data-sector'),b=document.createElement('button');
+    b.type='button';b.className='stab';b.id='tab-'+id;b.setAttribute('role','tab');b.setAttribute('aria-controls','sp-'+id);
+    b.textContent=p.getAttribute('data-label');
+    p.setAttribute('role','tabpanel');p.setAttribute('aria-labelledby','tab-'+id);
+    b.addEventListener('click',function(){pickTab(i,false)});
+    b.addEventListener('keydown',function(e){
+      var n=tabs.length,nx=rtl?'ArrowLeft':'ArrowRight',pv=rtl?'ArrowRight':'ArrowLeft',k=e.key,t=-1;
+      if(k===nx)t=(i+1)%n;else if(k===pv)t=(i+n-1)%n;else if(k==='Home')t=0;else if(k==='End')t=n-1;
+      if(t>=0){e.preventDefault();pickTab(t,true)}
+    });
+    tlist.appendChild(b);tabs.push(b);
+  });
+  pickTab(0,false);
+}
+document.querySelectorAll('[data-pick]').forEach(function(a){
+  a.addEventListener('click',function(){var s=$('sector');if(s)s.value=a.getAttribute('data-pick')});
+});
+var cInputs=document.querySelectorAll('.calc input[data-i]');
+if(cInputs.length){
+  var AX=100000,goalAuto='';
+  var fmt=function(n){return n.toLocaleString('en-US')};
+  var money=function(lo,hi){return hi===null?T.cFrom.replace('{a}',fmt(lo)):T.cRange.replace('{a}',fmt(lo)).replace('{b}',fmt(hi))};
+  var bump=function(el){if(reduce)return;el.classList.remove('bump');void el.offsetWidth;el.classList.add('bump')};
+  var chosen=function(){var r=[];cInputs.forEach(function(x){var i=parseInt(x.getAttribute('data-i'),10);if(x.checked&&i>=0)r.push(i)});return r};
+  var calc=function(){
+    var ids=chosen(),lo=0,hi=0,open=false,once=0,ml=0,mh=0,month=false;
+    ids.forEach(function(i){
+      if(i===6){month=true;ml=PR[i][0];mh=PR[i][1];return}
+      once++;lo+=PR[i][0];if(PR[i][1]===null)open=true;else hi+=PR[i][1];
+    });
+    $('cNone').hidden=ids.length>0;
+    $('cOnceBox').hidden=!once;$('cMonthBox').hidden=!month;$('cCta').hidden=!ids.length;
+    if(once){
+      var v=money(lo,open?null:hi);$('cOnce').textContent=v;bump($('cOnce'));
+      var bar=$('cBar'),l=lo/AX*100,w=open?100-l:Math.max((hi-lo)/AX*100,1.5);
+      bar.className=open?'o':'';bar.style.setProperty('--l',l.toFixed(1)+'%');bar.style.setProperty('--w',w.toFixed(1)+'%');
+    }
+    if(month){$('cMonth').textContent=T.cMonth.replace('{a}',fmt(ml)).replace('{b}',fmt(mh));bump($('cMonth'))}
+  };
+  cInputs.forEach(function(x){x.addEventListener('change',calc)});
+  $('cCta').addEventListener('click',function(){
+    var g=$('goal');if(!g)return;
+    var names=[];cInputs.forEach(function(x){if(x.checked&&parseInt(x.getAttribute('data-i'),10)>=0)names.push(x.parentNode.querySelector('.nm').textContent)});
+    var txt=T.cWant+names.join(T.cSep);
+    if(g.value===''||g.value===goalAuto){g.value=txt;goalAuto=txt}
+  });
+  document.querySelectorAll('[data-ids]').forEach(function(b){
+    b.addEventListener('click',function(){
+      var want=b.getAttribute('data-ids').split(',').map(Number);
+      cInputs.forEach(function(x){var i=parseInt(x.getAttribute('data-i'),10);x.checked=i>=0?want.indexOf(i)>=0:want.indexOf(1)<0&&want.indexOf(2)<0});
+      calc();
+      var t=$('calc');if(t)t.scrollIntoView({behavior:reduce?'auto':'smooth',block:'start'});
+    });
+  });
+  calc();
+}
 var f=$('leadForm'); if(!f) return;
 var radios=f.querySelectorAll('input[name="reg"]'), submitBtn=$('submitBtn'), foreign=$('foreignNote');
 function regVal(){var v='';radios.forEach(function(r){if(r.checked)v=r.value});return v}
