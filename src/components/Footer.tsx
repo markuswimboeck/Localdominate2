@@ -103,18 +103,10 @@ const Footer = () => {
           >
             {t.footer.terms}
           </Link>
-          <a
-            href="https://www.e-recht24.de/muster-widerrufsbelehrung.html"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-pain-foreground/80 hover:text-primary transition-colors font-medium px-3 py-2 touch-target inline-flex items-center justify-center"
-          >
-            {t.footer.withdrawal}
-          </a>
         </div>
 
         {/* Copyright */}
-        <p className="text-pain-foreground/80 text-center mb-4">{t.footer.copyright}</p>
+        <p className="text-pain-foreground/80 text-center mb-4">{t.footer.copyright.replace("2025", String(new Date().getFullYear()))}</p>
 
         {/* Cookie Settings */}
         <div className="flex justify-center mb-4">
