@@ -322,7 +322,6 @@ export const translations = {
       imprint: "Impressum",
       privacy: "Datenschutz",
       terms: "AGB",
-      withdrawal: "Widerrufsrecht",
       disclaimer: "Dieses Angebot steht in keiner Verbindung zu Google™ oder Facebook™. Dies sind Marken der jeweiligen Inhaber.",
     },
     // ExpertSection
@@ -777,7 +776,6 @@ export const translations = {
       imprint: "Imprint",
       privacy: "Privacy Policy",
       terms: "Terms",
-      withdrawal: "Right of Withdrawal",
       disclaimer: "This offer is not affiliated with Google™ or Facebook™. These are trademarks of their respective owners.",
     },
     // ExpertSection
@@ -1232,7 +1230,6 @@ export const translations = {
       imprint: "بيانات الناشر",
       privacy: "سياسة الخصوصية",
       terms: "الشروط والأحكام",
-      withdrawal: "حق الانسحاب",
       disclaimer: "هذا العرض ليس مرتبطاً بـ Google™ أو Facebook™. هذه علامات تجارية لأصحابها.",
     },
     // ExpertSection
