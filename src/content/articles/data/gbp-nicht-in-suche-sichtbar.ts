@@ -98,7 +98,7 @@ const article: V4Article = {
             ["Aufforderung „Bestätigen“", "Das Profil ist nicht bestätigt und wird nicht als Ihr Unternehmen angezeigt", "Bestätigung abschließen, siehe [Bestätigung fehlgeschlagen](/blog/gbp-verifizierung-fehlgeschlagen)"],
             ["Bestätigung eingereicht, Prüfung läuft", "Google prüft Ihre Angaben oder Ihr Video", "Abwarten, keine Daten ändern, kein zweites Profil anlegen"],
             ["Hinweis auf Sperrung oder Deaktivierung", "Ein Richtlinienverstoß wurde festgestellt, andere Nutzer sehen das Profil nicht", "Verstoß beheben, dann Einspruch, siehe [gesperrtes Profil reaktivieren](/blog/gbp-suspendiert-reaktivieren)"],
-            ["Hinweis „Duplikat“", "Es gibt bereits ein Profil für denselben Betrieb", "Bestehendes Profil übernehmen oder zusammenführen, siehe [doppelte Einträge entfernen](/blog/duplicate-listing-entfernen)"],
+            ["Zweites Profil für denselben Betrieb oder dieselbe Adresse", "Eines der Profile kann als Duplikat eingestuft werden und erscheint dann weder in der Suche noch in Maps", "Bestehendes Profil übernehmen oder zusammenführen, siehe [doppelte Einträge entfernen](/blog/duplicate-listing-entfernen)"],
             ["Profil fehlt in der Verwaltung", "Es gehört einem anderen Konto oder existiert noch nicht", "Mit Name und Adresse in Maps suchen und Inhaberschaft anfordern statt neu anlegen"],
           ],
         },
@@ -112,7 +112,7 @@ const article: V4Article = {
       id: "wartezeiten",
       title: "Neue Profile und Änderungen: die Zeiten, die Google nennt",
       answer:
-        "Google nennt für neue Unternehmen bis zu einen Monat, bis sie in Rankings aufgenommen werden. Änderungen an Angaben werden laut Google meist innerhalb von zehn Minuten geprüft, gelegentlich dauert es bis zu 30 Tage. Bis zur Freigabe bleibt die alte Angabe sichtbar.",
+        "Google nennt für neue Unternehmen bis zu einen Monat, bis sie in Rankings aufgenommen werden. Änderungen an Angaben werden laut Google meist innerhalb von zehn Minuten geprüft, gelegentlich dauert es bis zu 30 Tage. Erst nach der Freigabe erscheint die neue Angabe im Profil.",
       blocks: [
         {
           t: "table",
@@ -191,7 +191,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Ein Betrieb ohne Kundenverkehr, der seine Adresse ausblendet, bleibt sichtbar. Er erscheint dann ohne Kartenpunkt an der Hausadresse, aber mit seinem Einzugsgebiet. Wie Handwerksbetriebe das sauber einrichten, steht in [Local SEO für Handwerker](/blog/local-seo-handwerker), eine englische Übersicht bietet unsere Seite für [Handwerksbetriebe (englische Seite)](/industries/trades).",
+          text: "Ein Betrieb ohne Kundenverkehr, der seine Adresse ausblendet, bleibt sichtbar. Er wird dann mit seinem Einzugsgebiet statt mit der Hausadresse angezeigt. Wie Handwerksbetriebe das sauber einrichten, steht in [Local SEO für Handwerker](/blog/local-seo-handwerker), eine englische Übersicht bietet unsere Seite für [Handwerksbetriebe (englische Seite)](/industries/trades).",
         },
         {
           t: "note",
@@ -214,7 +214,7 @@ const article: V4Article = {
             ["Sichtbar bei „Kanzlei Huber“, unsichtbar bei „Anwalt Mietrecht“", "Relevanz", "Hauptkategorie, Leistungen, Beschreibung, Inhalte der Website"],
             ["Sichtbar in der Nähe des Betriebs, wenige Straßen weiter nicht mehr", "Entfernung", "Normal bei vielen Wettbewerbern, Sichtbarkeit im Raster messen"],
             ["Wettbewerber mit ähnlichem Angebot stehen stets vor Ihnen", "Bekanntheit", "Bewertungen, Erwähnungen, Links von lokalen Seiten"],
-            ["Sichtbar in Maps, nicht im Kartenblock der Suche", "Alle drei", "Der Kartenblock zeigt meist nur drei Einträge, Maps zeigt mehr"],
+            ["Sichtbar in Maps, nicht im Kartenblock der Suche", "Alle drei", "Prüfen Sie beides getrennt, denn Kartenblock und Maps können abweichen"],
           ],
         },
         {
@@ -298,7 +298,7 @@ const article: V4Article = {
             ["Profil auch beim Namen nicht zu finden, Aufforderung „Bestätigen“", "Status in der Verwaltung", "Bestätigung abschließen"],
             ["Bestätigung eingereicht, Profil noch unsichtbar", "Datum der Einreichung", "Prüfung abwarten, nichts ändern, kein zweites Profil"],
             ["Profil verschwunden, Hinweis auf Sperrung", "Benachrichtigung im Konto, Richtlinien", "Verstoß beheben, Einspruch mit Nachweisen"],
-            ["Hinweis „Duplikat“", "Gibt es ein zweites Profil in Maps", "Inhaberschaft anfordern, Duplikat entfernen oder zusammenführen"],
+            ["Verdacht auf Duplikat", "Gibt es ein zweites Profil in Maps", "Inhaberschaft anfordern, Duplikat entfernen oder zusammenführen"],
             ["Neues Unternehmen, bestätigt, kaum sichtbar", "Datum der Bestätigung", "Bis zu einem Monat Zeit geben, Profil vollständig ausfüllen"],
             ["Änderung erscheint nicht", "Status der Änderung", "Ausstehend abwarten, bei „nicht genehmigt“ Angabe belegen oder Einspruch"],
             ["Beim Namen sichtbar, bei Leistungssuchen nicht", "Kategorie, Leistungen, Website", "Relevanz verbessern, Bewertungen aufbauen"],
@@ -327,7 +327,7 @@ const article: V4Article = {
     },
     {
       q: "Wird ein Betrieb ohne Ladengeschäft angezeigt?",
-      a: "Ja. Betriebe, die zu ihren Kunden fahren, blenden die Adresse aus und legen ein Einzugsgebiet fest. Das verlangt Google sogar, wenn an der Adresse kein Kundenverkehr stattfindet. Virtuelle Büros sind dagegen nicht zulässig.",
+      a: "Ja. Betriebe, die zu ihren Kunden fahren, blenden die Adresse aus und legen ein Einzugsgebiet fest. Google sieht vor, die Adresse nicht anzuzeigen, wenn dort kein Kundenverkehr stattfindet. Virtuelle Büros ohne eigenen Betrieb vor Ort sind dagegen nicht zulässig.",
     },
     {
       q: "Helfen regelmäßige Beiträge, damit Google ein neues Profil schneller zeigt?",

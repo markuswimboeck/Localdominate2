@@ -35,7 +35,7 @@ Tragen Sie im Unternehmensprofil die regulären Zeiten ein, zu denen Kunden Sie 
 
 Die Öffnungszeiten stehen direkt im Eintrag in Maps und in der Suche. Wer dort „Geöffnet“ liest und vor einer geschlossenen Tür steht, ist enttäuscht und schreibt im Zweifel eine schlechte Bewertung. Korrekte Zeiten sind deshalb vor allem eine Frage des Vertrauens.
 
-Google behandelt die Öffnungszeiten als Teil der Grunddaten eines Profils, so wie Name, Adresse und Telefonnummer. Googles Richtlinien für die Darstellung von Unternehmen verlangen „reguläre Öffnungszeiten für Kunden“, also die Zeiten, zu denen jemand tatsächlich bedient wird. Bei Betrieben mit Einzugsgebiet ohne Ladenlokal heißt das: Zu den angegebenen Zeiten muss jemand erreichbar sein. Wie Sie die übrigen Grunddaten pflegen, steht in [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren).
+Google behandelt die Öffnungszeiten als Teil der Grunddaten eines Profils, so wie Name, Adresse und Telefonnummer. Googles Richtlinien für die Darstellung von Unternehmen verlangen die üblichen Öffnungszeiten für Kunden, also die Zeiten, zu denen jemand tatsächlich bedient wird. Bei Betrieben mit Standort und Einzugsgebiet muss laut Google während der angegebenen Geschäftszeiten Personal vor Ort sein. Wie Sie die übrigen Grunddaten pflegen, steht in [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren).
 
 Wenn Sie Ihre Zeiten ändern, kann Google laut seiner Hilfe eine Bestätigung im Profil anzeigen und einen Beitrag im Bereich Neuigkeiten erstellen. Diesen Beitrag können Sie bearbeiten oder löschen. Prüfen Sie nach jeder Änderung kurz, was Ihre Kunden sehen.
 
@@ -78,7 +78,7 @@ Eine Mittagspause tragen Sie als zwei Zeiträume am selben Tag ein. Für Rund-um
 
 ## Wann Sie keine Öffnungszeiten angeben sollten
 
-Google nennt Betriebe, die keine Zeiten angeben sollen: solche mit wechselnden Zeiten wie Vorstellungen, Gottesdiensten oder Kursen, Betriebe nur nach Terminvereinbarung sowie Hotels und andere Unterkünfte, Schulen, Kinos, Verkehrsbetriebe, Veranstaltungsorte und Naturziele.
+Google nennt Betriebe, die keine Zeiten angeben sollen: solche mit wechselnden Zeiten wie Vorstellungen, Gottesdiensten oder Kursen, Betriebe nur nach Terminvereinbarung sowie Hotels und andere Unterkünfte, Schulen, Kinos, Verkehrsbetriebe, Veranstaltungsorte und Naturdenkmäler.
 
 Für Hotels heißt das: Die Rezeptionszeit ist keine Öffnungszeit des Hotels. Wer hier Zeiten einträgt, riskiert, dass Gäste das Haus nachts für geschlossen halten. Ferienwohnungen mit Check-in nach Absprache fallen nach derselben Logik unter Unterkünfte. Mehr zu den Besonderheiten lesen Sie in [Local SEO für Hotels](https://localdominate.org/blog/local-seo-hotels) und [SEO für Ferienwohnungen](https://localdominate.org/blog/seo-ferienwohnungen). Für Häuser im englischsprachigen Raum gibt es unsere englische Seite [für Hotels](https://localdominate.org/industries/hotels).
 
@@ -91,7 +91,7 @@ Spezielle Öffnungszeiten überschreiben die regulären Zeiten für einzelne Tag
 1. **Bereich öffnen.** „Profil bearbeiten“, dann „Öffnungszeiten“ und bei „Spezielle Öffnungszeiten“ auf Bearbeiten.
 2. **Datum wählen.** Bestätigen Sie ein vorgeschlagenes Datum über „Prüfen“, fügen Sie ein eigenes Datum hinzu oder ändern Sie ein bestehendes.
 3. **Geöffnet oder geschlossen.** Für einen geschlossenen Tag setzen Sie den Haken bei „Geschlossen“. Für geänderte Zeiten entfernen Sie den Haken und tragen die Zeiten ein.
-4. **Mehrere Zeiträume.** Über „Mehr“ und „Öffnungszeiten hinzufügen“ legen Sie einen zweiten Zeitraum für denselben Tag an.
+4. **Mehrere Zeiträume.** Über das Dreipunkt-Menü und „Öffnungszeiten hinzufügen“ legen Sie einen zweiten Zeitraum für denselben Tag an.
 5. **Speichern.** Speichern Sie und prüfen Sie den Eintrag am Vortag in Maps.
 
 Google schlägt in diesem Bereich selbst Daten zur Bestätigung vor. Laut Google sollten Sie die Zeiten für gesetzliche Feiertage **auch dann bestätigen, wenn sie den regulären Zeiten entsprechen**. So sehen Kunden, dass die Angabe geprüft ist, und Google muss nicht raten.
@@ -102,9 +102,9 @@ Google schlägt in diesem Bereich selbst Daten zur Bestätigung vor. Laut Google
 
 Weitere Öffnungszeiten zeigen, wann eine bestimmte Leistung verfügbar ist, etwa Lieferung, Mitnahme, Abholung oder Drive-in. Sie erscheinen erst, wenn reguläre Zeiten eingetragen sind, und sollten in der Regel innerhalb der regulären Zeiten liegen.
 
-Sie fügen sie unter „Profil bearbeiten“, „Öffnungszeiten“ und „Weitere Öffnungszeiten hinzufügen“ hinzu. Jede Art pflegen Sie getrennt mit eigenen Tagen und Zeiten. Google nennt als Beispiele Lieferung, Mitnahme, Drive-in und Abholung, im Beispiel eines Restaurants auch Happy Hour. In der Hilfe zu Sonderzeiten erwähnt Google außerdem Zeiten für Senioren.
+Sie fügen sie unter „Profil bearbeiten“, „Öffnungszeiten“ und „Weitere Öffnungszeiten hinzufügen“ hinzu. Jede Art pflegen Sie getrennt mit eigenen Tagen und Zeiten. Google nennt als Beispiele Lieferung, Mitnahme, Drive-in und Abholung, im Beispiel eines Restaurants auch Happy Hour. In der Hilfe zu Sonderzeiten erwähnt Google außerdem Zeiten für Risikogruppen.
 
-Welche Arten Ihnen angeboten werden, hängt laut Googles Schnittstellen-Dokumentation von der Kategorie des Profils ab. Fehlt Ihnen eine passende Art, prüfen Sie zuerst die Hauptkategorie. Hinweise dazu stehen im [Leitfaden zu Google-Kategorien](https://localdominate.org/blog/google-business-kategorien-guide).
+Laut Googles Schnittstellen-Dokumentation kann jede Kategorie eigene Arten weiterer Öffnungszeiten mitbringen. Fehlt Ihnen eine passende Art, prüfen Sie zuerst die Hauptkategorie. Hinweise dazu stehen im [Leitfaden zu Google-Kategorien](https://localdominate.org/blog/google-business-kategorien-guide).
 
 *Beispiele, wie Betriebe weitere Zeiten nutzen*
 
@@ -144,13 +144,13 @@ Laut Google dürfen Sie die aktuellen Saisonzeiten als reguläre Zeiten verwende
 3. Vor Saisonbeginn: neue reguläre Zeiten eintragen, Status zurücksetzen, aktuelle Fotos ergänzen (siehe [Fotos im Profil](https://localdominate.org/blog/gbp-fotos-optimieren)).
 4. Website und strukturierte Daten am selben Tag anpassen.
 
-> **Wenn das Ranking nach der Pause fehlt:** Weil vorübergehend geschlossene Profile bei allgemeinen Suchen weiter hinten stehen können, ist ein verspätetes Zurücksetzen ein häufiger Grund für einen schwachen Saisonstart. Weitere Ursachen prüfen Sie mit [Ranking plötzlich verschwunden](https://localdominate.org/blog/ranking-ploetzlich-verschwunden).
+> **Wenn das Ranking nach der Pause fehlt:** Weil vorübergehend geschlossene Profile bei allgemeinen Suchen weiter hinten stehen können, kann ein verspätetes Zurücksetzen ein Grund für einen schwachen Saisonstart sein. Weitere Ursachen prüfen Sie mit [Ranking plötzlich verschwunden](https://localdominate.org/blog/ranking-ploetzlich-verschwunden).
 
 ## Website und strukturierte Daten im Einklang
 
 Website, Impressum, Verzeichnisse und Profil müssen dieselben Zeiten zeigen. Auf der Website hilft das Markup openingHoursSpecification Google, die Zeiten maschinenlesbar zu verstehen. Saisonale Schließungen geben Sie dort mit validFrom und validThrough an.
 
-Widersprüchliche Zeiten verunsichern Kunden und machen es Google und KI-Assistenten schwerer, die richtige Angabe zu wählen. Behandeln Sie Öffnungszeiten deshalb wie Name, Adresse und Telefonnummer: eine Quelle, überall gleich. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo).
+Widersprüchliche Zeiten verunsichern Kunden. Behandeln Sie Öffnungszeiten deshalb wie Name, Adresse und Telefonnummer: eine Quelle, überall gleich. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo).
 
 *Öffnungszeiten in strukturierten Daten laut Google Search Central*
 
@@ -162,7 +162,7 @@ Widersprüchliche Zeiten verunsichern Kunden und machen es Google und KI-Assiste
 | Ganztägig geschlossen | opens und closes beide 00:00 |
 | Saisonale Schließung | opens und closes 00:00 mit validFrom und validThrough als Datum |
 
-Wie das vollständige LocalBusiness-Markup aussieht, beschreibt [Schema Markup für Local SEO](https://localdominate.org/blog/schema-markup-local-seo). Wichtig: Das Markup ersetzt keine Pflege im Profil. Google zeigt im Eintrag die Angaben aus dem Unternehmensprofil.
+Wie das vollständige LocalBusiness-Markup aussieht, beschreibt [Schema Markup für Local SEO](https://localdominate.org/blog/schema-markup-local-seo). Wichtig: Das Markup ersetzt nicht die Pflege der Zeiten im Unternehmensprofil.
 
 ## Feiertage in Deutschland, Österreich und der Schweiz
 
@@ -222,6 +222,8 @@ Prüfen Sie zuerst, ob für den Tag spezielle Öffnungszeiten gelten, denn sie �
 - [Öffnungszeiten bearbeiten](https://support.google.com/business/answer/15300403?hl=de), Google Unternehmensprofil-Hilfe
 - [Weitere Öffnungszeiten festlegen](https://support.google.com/business/answer/9876800?hl=de), Google Unternehmensprofil-Hilfe
 - [Unternehmen als geschlossen markieren](https://support.google.com/business/answer/15300196?hl=de), Google Unternehmensprofil-Hilfe
+- [Create a bulk upload spreadsheet for Business Profiles (Öffnungszeiten über Mitternacht, 24 Stunden)](https://support.google.com/business/answer/3370250?hl=en), Google Business Profile Help
+- [REST Resource: categories (MoreHoursType)](https://developers.google.com/my-business/reference/rest/v4/categories), Google Business Profile APIs
 - [Strukturierte Daten für lokale Unternehmen (openingHoursSpecification)](https://developers.google.com/search/docs/appearance/structured-data/local-business?hl=de), Google Search Central
 - [Feiertage in der Schweiz (Anhang, Auszug ArG und ArGV 1)](https://www.seco.admin.ch/dam/de/sd-web/x5LtHPJdNis5/Anhang-Feiertage-Schweiz-Auszug-ArG-ArGV1-5-SECO-SB-2024-DE.pdf), Staatssekretariat für Wirtschaft SECO
 - [Nein, der Tag der Deutschen Einheit soll nicht abgeschafft werden (Feiertage als Ländersache)](https://correctiv.org/faktencheck/2025/03/28/nein-der-tag-der-deutschen-einheit-soll-nicht-abgeschafft-werden/), Correctiv

@@ -2664,7 +2664,7 @@
           "name": "Darf eine Ärztin neben der Praxis ein eigenes Profil haben?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ja, wenn sie Kundenverkehr hat und am Standort zu den Öffnungszeiten direkt erreichbar ist. Ihr Profil zeigt nur ihren Namen. Angestellte dürfen keine eigenen Profile anlegen, und getrennte Profile je Fachgebiet sind nicht erlaubt.",
+            "text": "Ja, wenn sie Kundenverkehr hat und am Standort zu den Öffnungszeiten direkt erreichbar ist. Arbeiten mehrere Fachkräfte am Standort, trägt ihr Profil nur ihren Namen, die Praxis bekommt ein eigenes. Angestellte dürfen keine eigenen Profile anlegen, und getrennte Profile je Fachgebiet sind nicht erlaubt.",
             "url": "https://localdominate.org/blog/duplicate-listing-entfernen"
           }
         },
@@ -2673,7 +2673,7 @@
           "name": "Was mache ich, wenn eine frühere Agentur das Profil verwaltet?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Fordern Sie über business.google.com/add Zugriff an. Antwortet die Agentur nicht innerhalb von drei Tagen, können Sie das Profil oft selbst bestätigen. Lehnt sie ab, legen Sie Einspruch ein. Künftig gehört der primäre Inhaberzugang dem Betrieb.",
+            "text": "Fordern Sie über business.google.com/add Zugriff an. Antwortet die Agentur nicht innerhalb von drei Tagen, können Sie das Profil unter Umständen selbst bestätigen. Google bietet diese Option nicht immer an. Lehnt sie ab, legen Sie Einspruch ein. Künftig gehört der primäre Inhaberzugang dem Betrieb.",
             "url": "https://localdominate.org/blog/duplicate-listing-entfernen"
           }
         },
@@ -4650,7 +4650,7 @@
           "name": "Wird ein Betrieb ohne Ladengeschäft angezeigt?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ja. Betriebe, die zu ihren Kunden fahren, blenden die Adresse aus und legen ein Einzugsgebiet fest. Das verlangt Google sogar, wenn an der Adresse kein Kundenverkehr stattfindet. Virtuelle Büros sind dagegen nicht zulässig.",
+            "text": "Ja. Betriebe, die zu ihren Kunden fahren, blenden die Adresse aus und legen ein Einzugsgebiet fest. Google sieht vor, die Adresse nicht anzuzeigen, wenn dort kein Kundenverkehr stattfindet. Virtuelle Büros ohne eigenen Betrieb vor Ort sind dagegen nicht zulässig.",
             "url": "https://localdominate.org/blog/gbp-nicht-in-suche-sichtbar"
           }
         },

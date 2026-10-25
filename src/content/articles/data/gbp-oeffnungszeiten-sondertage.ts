@@ -31,7 +31,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google behandelt die Öffnungszeiten als Teil der Grunddaten eines Profils, so wie Name, Adresse und Telefonnummer. Googles Richtlinien für die Darstellung von Unternehmen verlangen „reguläre Öffnungszeiten für Kunden“, also die Zeiten, zu denen jemand tatsächlich bedient wird. Bei Betrieben mit Einzugsgebiet ohne Ladenlokal heißt das: Zu den angegebenen Zeiten muss jemand erreichbar sein. Wie Sie die übrigen Grunddaten pflegen, steht in [Google Unternehmensprofil optimieren](/blog/google-my-business-optimieren).",
+          text: "Google behandelt die Öffnungszeiten als Teil der Grunddaten eines Profils, so wie Name, Adresse und Telefonnummer. Googles Richtlinien für die Darstellung von Unternehmen verlangen die üblichen Öffnungszeiten für Kunden, also die Zeiten, zu denen jemand tatsächlich bedient wird. Bei Betrieben mit Standort und Einzugsgebiet muss laut Google während der angegebenen Geschäftszeiten Personal vor Ort sein. Wie Sie die übrigen Grunddaten pflegen, steht in [Google Unternehmensprofil optimieren](/blog/google-my-business-optimieren).",
         },
         {
           t: "p",
@@ -108,7 +108,7 @@ const article: V4Article = {
       id: "keine-zeiten",
       title: "Wann Sie keine Öffnungszeiten angeben sollten",
       answer:
-        "Google nennt Betriebe, die keine Zeiten angeben sollen: solche mit wechselnden Zeiten wie Vorstellungen, Gottesdiensten oder Kursen, Betriebe nur nach Terminvereinbarung sowie Hotels und andere Unterkünfte, Schulen, Kinos, Verkehrsbetriebe, Veranstaltungsorte und Naturziele.",
+        "Google nennt Betriebe, die keine Zeiten angeben sollen: solche mit wechselnden Zeiten wie Vorstellungen, Gottesdiensten oder Kursen, Betriebe nur nach Terminvereinbarung sowie Hotels und andere Unterkünfte, Schulen, Kinos, Verkehrsbetriebe, Veranstaltungsorte und Naturdenkmäler.",
       blocks: [
         {
           t: "p",
@@ -132,7 +132,7 @@ const article: V4Article = {
             { title: "Bereich öffnen", text: "„Profil bearbeiten“, dann „Öffnungszeiten“ und bei „Spezielle Öffnungszeiten“ auf Bearbeiten." },
             { title: "Datum wählen", text: "Bestätigen Sie ein vorgeschlagenes Datum über „Prüfen“, fügen Sie ein eigenes Datum hinzu oder ändern Sie ein bestehendes." },
             { title: "Geöffnet oder geschlossen", text: "Für einen geschlossenen Tag setzen Sie den Haken bei „Geschlossen“. Für geänderte Zeiten entfernen Sie den Haken und tragen die Zeiten ein." },
-            { title: "Mehrere Zeiträume", text: "Über „Mehr“ und „Öffnungszeiten hinzufügen“ legen Sie einen zweiten Zeitraum für denselben Tag an." },
+            { title: "Mehrere Zeiträume", text: "Über das Dreipunkt-Menü und „Öffnungszeiten hinzufügen“ legen Sie einen zweiten Zeitraum für denselben Tag an." },
             { title: "Speichern", text: "Speichern Sie und prüfen Sie den Eintrag am Vortag in Maps." },
           ],
         },
@@ -155,11 +155,11 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Sie fügen sie unter „Profil bearbeiten“, „Öffnungszeiten“ und „Weitere Öffnungszeiten hinzufügen“ hinzu. Jede Art pflegen Sie getrennt mit eigenen Tagen und Zeiten. Google nennt als Beispiele Lieferung, Mitnahme, Drive-in und Abholung, im Beispiel eines Restaurants auch Happy Hour. In der Hilfe zu Sonderzeiten erwähnt Google außerdem Zeiten für Senioren.",
+          text: "Sie fügen sie unter „Profil bearbeiten“, „Öffnungszeiten“ und „Weitere Öffnungszeiten hinzufügen“ hinzu. Jede Art pflegen Sie getrennt mit eigenen Tagen und Zeiten. Google nennt als Beispiele Lieferung, Mitnahme, Drive-in und Abholung, im Beispiel eines Restaurants auch Happy Hour. In der Hilfe zu Sonderzeiten erwähnt Google außerdem Zeiten für Risikogruppen.",
         },
         {
           t: "p",
-          text: "Welche Arten Ihnen angeboten werden, hängt laut Googles Schnittstellen-Dokumentation von der Kategorie des Profils ab. Fehlt Ihnen eine passende Art, prüfen Sie zuerst die Hauptkategorie. Hinweise dazu stehen im [Leitfaden zu Google-Kategorien](/blog/google-business-kategorien-guide).",
+          text: "Laut Googles Schnittstellen-Dokumentation kann jede Kategorie eigene Arten weiterer Öffnungszeiten mitbringen. Fehlt Ihnen eine passende Art, prüfen Sie zuerst die Hauptkategorie. Hinweise dazu stehen im [Leitfaden zu Google-Kategorien](/blog/google-business-kategorien-guide).",
         },
         {
           t: "table",
@@ -227,7 +227,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Wenn das Ranking nach der Pause fehlt",
-          text: "Weil vorübergehend geschlossene Profile bei allgemeinen Suchen weiter hinten stehen können, ist ein verspätetes Zurücksetzen ein häufiger Grund für einen schwachen Saisonstart. Weitere Ursachen prüfen Sie mit [Ranking plötzlich verschwunden](/blog/ranking-ploetzlich-verschwunden).",
+          text: "Weil vorübergehend geschlossene Profile bei allgemeinen Suchen weiter hinten stehen können, kann ein verspätetes Zurücksetzen ein Grund für einen schwachen Saisonstart sein. Weitere Ursachen prüfen Sie mit [Ranking plötzlich verschwunden](/blog/ranking-ploetzlich-verschwunden).",
         },
       ],
     },
@@ -239,7 +239,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Widersprüchliche Zeiten verunsichern Kunden und machen es Google und KI-Assistenten schwerer, die richtige Angabe zu wählen. Behandeln Sie Öffnungszeiten deshalb wie Name, Adresse und Telefonnummer: eine Quelle, überall gleich. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo).",
+          text: "Widersprüchliche Zeiten verunsichern Kunden. Behandeln Sie Öffnungszeiten deshalb wie Name, Adresse und Telefonnummer: eine Quelle, überall gleich. Wie Sie Abweichungen finden, zeigt [NAP-Konsistenz](/blog/nap-konsistenz-local-seo).",
         },
         {
           t: "table",
@@ -255,7 +255,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Wie das vollständige LocalBusiness-Markup aussieht, beschreibt [Schema Markup für Local SEO](/blog/schema-markup-local-seo). Wichtig: Das Markup ersetzt keine Pflege im Profil. Google zeigt im Eintrag die Angaben aus dem Unternehmensprofil.",
+          text: "Wie das vollständige LocalBusiness-Markup aussieht, beschreibt [Schema Markup für Local SEO](/blog/schema-markup-local-seo). Wichtig: Das Markup ersetzt nicht die Pflege der Zeiten im Unternehmensprofil.",
         },
       ],
     },
@@ -339,6 +339,8 @@ const article: V4Article = {
     { title: "Öffnungszeiten bearbeiten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/15300403?hl=de" },
     { title: "Weitere Öffnungszeiten festlegen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9876800?hl=de" },
     { title: "Unternehmen als geschlossen markieren", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/15300196?hl=de" },
+    { title: "Create a bulk upload spreadsheet for Business Profiles (Öffnungszeiten über Mitternacht, 24 Stunden)", publisher: "Google Business Profile Help", url: "https://support.google.com/business/answer/3370250?hl=en" },
+    { title: "REST Resource: categories (MoreHoursType)", publisher: "Google Business Profile APIs", url: "https://developers.google.com/my-business/reference/rest/v4/categories" },
     { title: "Strukturierte Daten für lokale Unternehmen (openingHoursSpecification)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/local-business?hl=de" },
     { title: "Feiertage in der Schweiz (Anhang, Auszug ArG und ArGV 1)", publisher: "Staatssekretariat für Wirtschaft SECO", url: "https://www.seco.admin.ch/dam/de/sd-web/x5LtHPJdNis5/Anhang-Feiertage-Schweiz-Auszug-ArG-ArGV1-5-SECO-SB-2024-DE.pdf" },
     { title: "Nein, der Tag der Deutschen Einheit soll nicht abgeschafft werden (Feiertage als Ländersache)", publisher: "Correctiv", url: "https://correctiv.org/faktencheck/2025/03/28/nein-der-tag-der-deutschen-einheit-soll-nicht-abgeschafft-werden/" },

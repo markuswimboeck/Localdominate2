@@ -26,7 +26,7 @@ Google erlaubt ein Profil pro Unternehmen und Standort. Ein Duplikat bereinigen 
 ## Das Wichtigste in Kürze
 
 - Pro Unternehmen und Standort ist ein Profil erlaubt. Ein als Duplikat markiertes Profil erscheint laut Google weder in der Suche noch in Maps.
-- Suchen Sie nicht nur nach dem Namen. Telefonnummern, alte Adressen, frühere Namen und Namen einzelner Fachkräfte führen zu den meisten vergessenen Einträgen.
+- Suchen Sie nicht nur nach dem Namen. Telefonnummern, alte Adressen, frühere Namen und Namen einzelner Fachkräfte führen zu vergessenen Einträgen.
 - Ein eigenes Duplikat entfernen Sie im Profil-Dashboard. Das löscht dessen Inhalte und Verwalter endgültig, deshalb zuerst prüfen, welches Profil bleibt.
 - Gehört das Duplikat jemand anderem, fordern Sie Zugriff an. Der Inhaber hat drei Tage Zeit zu antworten.
 - Nicht jeder zweite Eintrag ist ein Duplikat: Einzelne Fachkräfte, echte Abteilungen und eigenständige Marken am selben Ort dürfen unter Bedingungen eigene Profile haben.
@@ -44,7 +44,7 @@ Googles Richtlinien sind eindeutig: Pro Unternehmen soll nur ein Profil angelegt
 | Zweites Profil mit gleichem Betrieb und gleicher Adresse | Duplikat |
 | Getrennte Profile je Leistung oder Fachgebiet | Duplikat, Leistungen gehören in ein Profil |
 | Altes Profil an der früheren Adresse nach einem Umzug | Duplikat, das bestehende Profil hätte umziehen sollen |
-| Ärztin oder Anwalt mit Kundenverkehr, direkt erreichbar am Standort | Zulässig als eigenes Profil der Fachkraft, zusätzlich zum Profil der Praxis |
+| Ärztin oder Anwalt mit Kundenverkehr, direkt erreichbar am Standort | Zulässig als eigenes Profil der Fachkraft, bei mehreren Fachkräften zusätzlich zum Profil der Organisation |
 | Abteilung mit eigenem Namen, eigener Kategorie und eigenen Öffnungszeiten | Zulässig, etwa in Kliniken, Hochschulen oder Behörden |
 | Fleischtheke im Supermarkt, Markenbereich im Elektronikmarkt | Nicht zulässig, Google nennt genau diese Beispiele |
 
@@ -91,7 +91,7 @@ Entscheidend ist, wer das Duplikat verwaltet. Liegt es in Ihrem Konto, entfernen
 
 ## Ein eigenes Duplikat aus dem Konto entfernen
 
-Im Profil-Dashboard öffnen Sie über das Drei-Punkte-Menü die Einstellungen und wählen „Unternehmensprofil entfernen“, dann „Profilinhalt und Administratoren entfernen“. Das darf nur der primäre Inhaber, neue Inhaber erst nach sieben Tagen.
+Im Profil-Dashboard öffnen Sie über das Drei-Punkte-Menü die Einstellungen und wählen „Unternehmensprofil entfernen“, dann „Profilinhalt und Administratoren entfernen“. Das darf nur der primäre Inhaber. Neue Inhaber und Administratoren müssen sieben Tage warten.
 
 1. **Mit dem richtigen Konto anmelden.** Melden Sie sich mit dem Google-Konto an, das mit dem doppelten Profil verknüpft ist, und öffnen Sie das Profil-Dashboard. Prüfen Sie Name und Adresse zweimal, damit Sie nicht das falsche Profil wählen.
 2. **Einstellungen öffnen.** Wählen Sie im Drei-Punkte-Menü „Einstellungen für das Unternehmensprofil“.
@@ -104,7 +104,7 @@ Wichtig: Das Entfernen aus dem Konto löscht Beiträge, Fotos, Videos und Ihre A
 
 ## Zugriff anfordern, wenn jemand anderes das Duplikat verwaltet
 
-Über business.google.com/add suchen Sie Ihren Betrieb, wählen „Zugriff anfordern“ und füllen das Formular aus. Der aktuelle Inhaber hat drei Tage Zeit. Antwortet er nicht, können Sie das Profil oft selbst bestätigen und danach bereinigen.
+Über business.google.com/add suchen Sie Ihren Betrieb, wählen „Zugriff anfordern“ und füllen das Formular aus. Der aktuelle Inhaber hat drei Tage Zeit. Antwortet er nicht, können Sie das Profil unter Umständen selbst bestätigen und danach bereinigen.
 
 1. **Betrieb suchen.** Rufen Sie business.google.com/add auf, geben Sie Name und Adresse ein und wählen Sie den Eintrag aus der Liste. Google weist darauf hin, dass das Profil möglicherweise von jemand anderem verwaltet wird.
 2. **Zugriff anfordern.** Wählen Sie „Zugriff anfordern“, füllen Sie das Formular aus und senden Sie es ab. Sie bekommen eine Bestätigung per E-Mail, der Inhaber wird ebenfalls benachrichtigt.
@@ -140,7 +140,7 @@ Bei einer Zusammenführung zweier Einträge legt Google die Rezensionen zusammen
 
 Eine Quote, wie viele Bewertungen bei einer Zusammenführung erhalten bleiben, nennt Google nicht. Angaben wie „70 bis 80 Prozent“ sind Erfahrungswerte ohne Beleg. Sichern Sie wichtige Antworten vorher als Text, damit Sie sie bei Bedarf neu schreiben können.
 
-Rezensionen lassen sich nicht einzeln von einem Eintrag auf einen anderen verschieben. Wenn Sie eine einzelne unzulässige Bewertung loswerden wollen, ist das ein anderer Vorgang, beschrieben in [Google-Bewertung löschen lassen](https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung). Wie Sie nach der Bereinigung neue Bewertungen auf dem richtigen Profil sammeln, steht in [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
+Wenn Sie eine einzelne unzulässige Bewertung loswerden wollen, ist das ein anderer Vorgang, beschrieben in [Google-Bewertung löschen lassen](https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung). Wie Sie nach der Bereinigung neue Bewertungen auf dem richtigen Profil sammeln, steht in [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
 
 ## Sonderfälle: Praxis, Umzug, neuer Name, Abteilung
 
@@ -148,7 +148,7 @@ Fachkräfte mit eigenem Kundenstamm dürfen neben der Praxis ein eigenes Profil 
 
 ### Praxis und einzelne Fachkräfte
 
-Ärztinnen, Zahnärzte, Anwälte, Finanzberater, Versicherungsvertreter und Makler gelten bei Google als Fachkräfte mit eigenem Kundenstamm. Sie dürfen ein eigenes Profil haben, wenn sie Kundenverkehr haben und am bestätigten Standort zu den Öffnungszeiten direkt erreichbar sind. Die Praxis bekommt zusätzlich ihr eigenes Profil. Das Profil der Fachkraft zeigt nur den Namen der Person, nicht den der Praxis. Angestellte dürfen keine eigenen Profile anlegen, und niemand darf getrennte Profile je Fachgebiet führen.
+Ärztinnen, Zahnärzte, Anwälte, Finanzberater, Versicherungsvertreter und Makler gelten bei Google als Fachkräfte mit eigenem Kundenstamm. Sie dürfen ein eigenes Profil haben, wenn sie Kundenverkehr haben und am bestätigten Standort zu den Öffnungszeiten direkt erreichbar sind. Arbeiten mehrere Fachkräfte mit Kundenverkehr am Standort, sollte die Organisation zusätzlich ein eigenes Profil für den Standort anlegen. Die Profile der Fachkräfte tragen dann nur den Namen der Person, nicht den der Organisation. Angestellte dürfen keine eigenen Profile anlegen, und niemand darf getrennte Profile je Fachgebiet führen.
 
 Ist eine Fachkraft die einzige Ansprechperson an einem Standort einer Marke, gibt es nur ein gemeinsames Profil nach dem Muster „Marke: Name der Fachkraft“. Ein zweites Profil mit nur dem Markennamen wäre dann ein Duplikat. Wie Praxen ihr Profil im Rahmen des Berufsrechts aufbauen, steht in [Local SEO für Arztpraxen](https://localdominate.org/blog/local-seo-aerzte-praxen) und [Local SEO für Kanzleien](https://localdominate.org/blog/local-seo-anwaelte-kanzleien). Unsere Seite für Praxen finden Sie unter [Practices](https://localdominate.org/industries/practices) (englische Seite).
 
@@ -177,7 +177,7 @@ Verschwindet nach der Bereinigung Ihr gepflegtes Profil statt des Duplikats aus 
 
 ## Neue Duplikate vermeiden
 
-Die meisten Duplikate entstehen, weil jemand ein neues Profil anlegt, statt das bestehende zu suchen, zu beanspruchen oder zu ändern. Ein klarer Zuständiger, dokumentierte Zugänge und eine feste Regel für Umzug und Umbenennung verhindern das.
+Duplikate entstehen, wenn jemand ein neues Profil anlegt, statt das bestehende zu suchen, zu beanspruchen oder zu ändern. Ein klarer Zuständiger, dokumentierte Zugänge und eine feste Regel für Umzug und Umbenennung verhindern das.
 
 - **Ein Hauptkonto als primärer Inhaber,** das dem Betrieb gehört, nicht einem Mitarbeiter oder einer Agentur. Agenturen bekommen Verwalterzugriff.
 - **Vor jedem neuen Profil suchen:** über business.google.com/add mit Name und Adresse. Erscheint ein Eintrag, beanspruchen Sie ihn.
@@ -203,11 +203,11 @@ Nicht unbedingt. Google schreibt, dass ein Betrieb auch ohne Inhaber und Inhalte
 
 ### Darf eine Ärztin neben der Praxis ein eigenes Profil haben?
 
-Ja, wenn sie Kundenverkehr hat und am Standort zu den Öffnungszeiten direkt erreichbar ist. Ihr Profil zeigt nur ihren Namen. Angestellte dürfen keine eigenen Profile anlegen, und getrennte Profile je Fachgebiet sind nicht erlaubt.
+Ja, wenn sie Kundenverkehr hat und am Standort zu den Öffnungszeiten direkt erreichbar ist. Arbeiten mehrere Fachkräfte am Standort, trägt ihr Profil nur ihren Namen, die Praxis bekommt ein eigenes. Angestellte dürfen keine eigenen Profile anlegen, und getrennte Profile je Fachgebiet sind nicht erlaubt.
 
 ### Was mache ich, wenn eine frühere Agentur das Profil verwaltet?
 
-Fordern Sie über business.google.com/add Zugriff an. Antwortet die Agentur nicht innerhalb von drei Tagen, können Sie das Profil oft selbst bestätigen. Lehnt sie ab, legen Sie Einspruch ein. Künftig gehört der primäre Inhaberzugang dem Betrieb.
+Fordern Sie über business.google.com/add Zugriff an. Antwortet die Agentur nicht innerhalb von drei Tagen, können Sie das Profil unter Umständen selbst bestätigen. Google bietet diese Option nicht immer an. Lehnt sie ab, legen Sie Einspruch ein. Künftig gehört der primäre Inhaberzugang dem Betrieb.
 
 ### Wir sind umgezogen und haben jetzt zwei Einträge. Welcher bleibt?
 
