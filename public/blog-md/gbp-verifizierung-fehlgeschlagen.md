@@ -44,7 +44,6 @@ Laut Google-Hilfe gibt es drei typische Signale. Lesen Sie den Status genau, bev
 | Die Schaltfläche zur Bestätigung ist wieder da | Google konnte den Betrieb nicht vollständig bestätigen | Erneut bestätigen oder eine andere angebotene Methode nehmen |
 | Hinweis „Probleme ansehen“ nach einem Video | Das Video wurde nicht akzeptiert | Hinweis öffnen, die genannten Gründe lesen, ein neues Video aufnehmen |
 | Google bittet um weitere Angaben | Meist eine Folge kürzlich geänderter Firmendaten | Angaben ergänzen und den Betrieb erneut bestätigen |
-| Prüfung läuft | Google prüft Ihre Einreichung | Abwarten und in dieser Zeit nichts an Name, Adresse oder Kategorie ändern |
 
 Wie Sie ein Profil grundsätzlich anlegen, übernehmen und Feld für Feld ausfüllen, steht im Artikel [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren). Dieser Artikel setzt dort an, wo die Bestätigung nicht klappt.
 
@@ -57,7 +56,7 @@ Die Methoden im Einzelnen beschreibt der Abschnitt zur Bestätigung im [Profil-L
 - **Telefon oder SMS:** Sie müssen den Anruf auf der geschäftlichen Nummer selbst annehmen oder die SMS empfangen können. Eine Telefonanlage mit Sprachmenü empfängt den Code nicht.
 - **E-Mail:** Der Code geht an die Adresse, die Google auf dem Bestätigungsbildschirm anzeigt. Eine andere Adresse können Sie nicht eintragen.
 - **Live-Videoanruf:** nur für manche Betriebe und nur während der Öffnungszeiten Ihres Standorts.
-- **Postkarte:** nicht für jeden Betrieb verfügbar. Sie braucht einen Briefkasten an der Geschäftsadresse.
+- **Postkarte:** nicht für jeden Betrieb verfügbar. Google schickt den Code an die Postanschrift des Betriebs.
 - **Videoaufnahme:** Google empfiehlt sie, wenn sie angeboten wird. Reine Online-Unternehmen ohne Standort oder Einzugsgebiet sind dafür nicht zugelassen.
 
 Manche Profile bestätigt Google sofort, etwa wenn die Website bereits in der Google Search Console bestätigt ist oder bei der Sammelbestätigung für Unternehmen mit vielen Standorten. Eine Garantie dafür gibt es nicht.
@@ -93,7 +92,7 @@ Die meisten Ablehnungen haben einen Grund im Profil selbst: Name mit Zusätzen, 
 | --- | --- | --- |
 | Name im Profil weicht vom Schild ab | Der Name entspricht dem echten Namen auf Schild, Website und Briefpapier. Bei sichtbarer Adresse dauerhaftes Schild mit dem Namen | Profilnamen an den echten Namen angleichen oder ein festes Schild anbringen |
 | Ort, Leistung oder Slogan im Namen | Zusätze sind nicht erlaubt und können zur Sperrung führen | Zusätze entfernen. Leistungen gehören in die Leistungsliste |
-| Virtuelles Büro oder Postfach | Ein Profil nur für einen tatsächlichen Standort. Postfächer und virtuelle Büros sind nicht zulässig | Die echte Betriebsadresse eintragen oder als Betrieb mit Einzugsgebiet die Adresse ausblenden |
+| Virtuelles Büro oder Postfach | Ein Profil nur für einen tatsächlichen Standort. Postfächer oder Briefkästen an unternehmensfremden Standorten sind nicht zulässig, ebenso virtuelle Büros | Die echte Betriebsadresse eintragen oder als Betrieb mit Einzugsgebiet die Adresse ausblenden |
 | Coworking-Arbeitsplatz | Nur zulässig mit klarem Schild, Kundenempfang und eigenem Personal während der Öffnungszeiten | Prüfen, ob alle drei Bedingungen erfüllt sind. Wenn nicht, ist der Platz kein zulässiger Standort |
 | Einzugsgebiet mit sichtbarer Privatadresse | Betriebe, die zu Kunden fahren, sollen ihre Adresse ausblenden | Adresse ausblenden, Einzugsgebiet angeben, im Video die Umgebung der Adresse zeigen |
 | Zweites Profil für denselben Standort | Ein Profil je Standort, auch über mehrere Konten hinweg | Das bestehende Profil übernehmen statt ein neues zu bestätigen |
@@ -110,7 +109,7 @@ Gehen Sie in fester Reihenfolge vor: Status lesen, Profil mit der Wirklichkeit a
 3. **Richtlinienverstöße beheben.** Zusätze im Namen entfernen, virtuelle Adressen ersetzen, bei Betrieben mit Einzugsgebiet die Adresse ausblenden. Schließen Sie alle Änderungen ab, bevor Sie neu bestätigen.
 4. **Nach Duplikaten suchen.** Suchen Sie Ihren Betrieb in Google Maps unter Name, Adresse und Telefonnummer. Verwaltet jemand anderes schon ein Profil, beantragen Sie dort den Zugriff. Wie Sie doppelte Einträge bereinigen, steht unter [Duplikate entfernen](https://localdominate.org/blog/duplicate-listing-entfernen).
 5. **Erneut bestätigen.** Nutzen Sie dieselbe Methode mit korrigierten Voraussetzungen oder eine andere, die Google anbietet. Beim Video gilt: vollständig neu aufnehmen, inklusive der fehlenden Nachweise.
-6. **Prüfzeit abwarten.** Ändern Sie während der Prüfung nichts an Name, Adresse oder Kategorie. Jede solche Änderung kann einen neuen Prüfvorgang auslösen.
+6. **Prüfzeit abwarten.** Ändern Sie während der Prüfung nichts an Name, Adresse oder Kategorie. Nach solchen Änderungen kann Google eine erneute Bestätigung verlangen.
 7. **Support kontaktieren.** Erst wenn keine der angebotenen Methoden zum Ziel führt. Wie das geht, steht im Abschnitt zum Support weiter unten.
 
 > **Zugriff statt Neuanlage:** Wenn ein früherer Mitarbeiter, Vorbesitzer oder eine Agentur das Profil bereits bestätigt hat, stellen Sie über business.google.com/add eine Zugriffsanfrage. Der bisherige Inhaber hat laut Google drei Tage Zeit zu antworten. Reagiert er nicht, können Sie das Profil unter Umständen selbst beanspruchen.
@@ -119,7 +118,7 @@ Gehen Sie in fester Reihenfolge vor: Status lesen, Profil mit der Wirklichkeit a
 
 Bei der Postkarte kommen die meisten Codes laut Google innerhalb von 14 Tagen an, der Code läuft nach 30 Tagen ab. Wer in der Wartezeit Name, Adresse oder Kategorie ändert oder einen neuen Code anfordert, macht den unterwegs befindlichen Code ungültig.
 
-- **Adresse vor dem Anfordern prüfen:** Google bittet ausdrücklich darum, die Postanschrift vorher zu kontrollieren. Ist der Name am Briefkasten nicht zu lesen, kann die Karte nicht zugestellt werden.
+- **Adresse vor dem Anfordern prüfen:** Google bittet ausdrücklich darum, die Postanschrift vorher zu kontrollieren. Stimmt die Anschrift nicht, kommt der Code nicht an.
 - **Keinen neuen Code anfordern:** Ein neuer Code macht laut Google den alten ungültig und verlängert das Verfahren. Warten Sie die üblichen 14 Tage ab.
 - **Fünfstelligen Code korrekt eingeben:** im Profil im Feld „Code“ eintragen und absenden, bevor die 30 Tage um sind.
 - **Telefon ohne Sprachmenü:** Läuft Ihre Geschäftsnummer über eine Telefonanlage mit Ansage, kommt der Code nicht an. Nehmen Sie den Anruf direkt an oder wählen Sie SMS, falls angeboten.

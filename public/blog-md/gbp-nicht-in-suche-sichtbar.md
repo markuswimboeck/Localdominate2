@@ -70,14 +70,14 @@ Google schreibt: Nur bestätigte Unternehmen können ihre Angaben auf Google Map
 | Aufforderung „Bestätigen“ | Das Profil ist nicht bestätigt und wird nicht als Ihr Unternehmen angezeigt | Bestätigung abschließen, siehe [Bestätigung fehlgeschlagen](https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen) |
 | Bestätigung eingereicht, Prüfung läuft | Google prüft Ihre Angaben oder Ihr Video | Abwarten, keine Daten ändern, kein zweites Profil anlegen |
 | Hinweis auf Sperrung oder Deaktivierung | Ein Richtlinienverstoß wurde festgestellt, andere Nutzer sehen das Profil nicht | Verstoß beheben, dann Einspruch, siehe [gesperrtes Profil reaktivieren](https://localdominate.org/blog/gbp-suspendiert-reaktivieren) |
-| Hinweis „Duplikat“ | Es gibt bereits ein Profil für denselben Betrieb | Bestehendes Profil übernehmen oder zusammenführen, siehe [doppelte Einträge entfernen](https://localdominate.org/blog/duplicate-listing-entfernen) |
+| Zweites Profil für denselben Betrieb oder dieselbe Adresse | Eines der Profile kann als Duplikat eingestuft werden und erscheint dann weder in der Suche noch in Maps | Bestehendes Profil übernehmen oder zusammenführen, siehe [doppelte Einträge entfernen](https://localdominate.org/blog/duplicate-listing-entfernen) |
 | Profil fehlt in der Verwaltung | Es gehört einem anderen Konto oder existiert noch nicht | Mit Name und Adresse in Maps suchen und Inhaberschaft anfordern statt neu anlegen |
 
 Laut Google bekommen Sie bei einer Sperrung eine Benachrichtigung im Google-Konto, mit dem Sie das Profil verwalten. Prüfen Sie deshalb auch das Postfach dieses Kontos, nicht nur die Profilansicht.
 
 ## Neue Profile und Änderungen: die Zeiten, die Google nennt
 
-Google nennt für neue Unternehmen bis zu einen Monat, bis sie in Rankings aufgenommen werden. Änderungen an Angaben werden laut Google meist innerhalb von zehn Minuten geprüft, gelegentlich dauert es bis zu 30 Tage. Bis zur Freigabe bleibt die alte Angabe sichtbar.
+Google nennt für neue Unternehmen bis zu einen Monat, bis sie in Rankings aufgenommen werden. Änderungen an Angaben werden laut Google meist innerhalb von zehn Minuten geprüft, gelegentlich dauert es bis zu 30 Tage. Erst nach der Freigabe erscheint die neue Angabe im Profil.
 
 *Zeitangaben aus der Google-Hilfe*
 
@@ -124,7 +124,7 @@ Ein Profil ist nur zulässig, wenn Kunden den Betrieb während der Öffnungszeit
 | Ort, Leistung oder Slogan im Namen | Nicht erlaubt, kann zur Sperrung führen | Name wie auf Schild, Website und Briefpapier |
 | Privatadresse sichtbar bei Betrieb ohne Kundenverkehr | Adresse soll ausgeblendet werden | Adresse ausblenden, Einzugsgebiet festlegen |
 
-Ein Betrieb ohne Kundenverkehr, der seine Adresse ausblendet, bleibt sichtbar. Er erscheint dann ohne Kartenpunkt an der Hausadresse, aber mit seinem Einzugsgebiet. Wie Handwerksbetriebe das sauber einrichten, steht in [Local SEO für Handwerker](https://localdominate.org/blog/local-seo-handwerker), eine englische Übersicht bietet unsere Seite für [Handwerksbetriebe (englische Seite)](https://localdominate.org/industries/trades).
+Ein Betrieb ohne Kundenverkehr, der seine Adresse ausblendet, bleibt sichtbar. Er wird dann mit seinem Einzugsgebiet statt mit der Hausadresse angezeigt. Wie Handwerksbetriebe das sauber einrichten, steht in [Local SEO für Handwerker](https://localdominate.org/blog/local-seo-handwerker), eine englische Übersicht bietet unsere Seite für [Handwerksbetriebe (englische Seite)](https://localdominate.org/industries/trades).
 
 > **Warnung:** Ein „optimierter“ Name wie „Schlüsseldienst Müller Notdienst München 24h“ ist kein Rankingtrick, sondern ein Verstoß. Wettbewerber können ihn melden. Welche Muster Google als Spam einstuft, zeigt [Spam in Google Maps erkennen](https://localdominate.org/blog/google-maps-spam-erkennen).
 
@@ -139,7 +139,7 @@ Erscheint Ihr Profil bei der Namenssuche, ist es freigegeben. Fehlt es bei Suche
 | Sichtbar bei „Kanzlei Huber“, unsichtbar bei „Anwalt Mietrecht“ | Relevanz | Hauptkategorie, Leistungen, Beschreibung, Inhalte der Website |
 | Sichtbar in der Nähe des Betriebs, wenige Straßen weiter nicht mehr | Entfernung | Normal bei vielen Wettbewerbern, Sichtbarkeit im Raster messen |
 | Wettbewerber mit ähnlichem Angebot stehen stets vor Ihnen | Bekanntheit | Bewertungen, Erwähnungen, Links von lokalen Seiten |
-| Sichtbar in Maps, nicht im Kartenblock der Suche | Alle drei | Der Kartenblock zeigt meist nur drei Einträge, Maps zeigt mehr |
+| Sichtbar in Maps, nicht im Kartenblock der Suche | Alle drei | Prüfen Sie beides getrennt, denn Kartenblock und Maps können abweichen |
 
 Die Entfernung können Sie nicht beeinflussen, nur korrekt angeben. Eine falsche Adresse oder ein falsch gesetzter Kartenpunkt verschlechtert sie allerdings. Prüfen Sie in Maps, ob die Markierung tatsächlich auf Ihrem Eingang liegt.
 
@@ -182,7 +182,7 @@ Gehen Sie die Tabelle von oben nach unten durch. Die oberen Zeilen betreffen Fal
 | Profil auch beim Namen nicht zu finden, Aufforderung „Bestätigen“ | Status in der Verwaltung | Bestätigung abschließen |
 | Bestätigung eingereicht, Profil noch unsichtbar | Datum der Einreichung | Prüfung abwarten, nichts ändern, kein zweites Profil |
 | Profil verschwunden, Hinweis auf Sperrung | Benachrichtigung im Konto, Richtlinien | Verstoß beheben, Einspruch mit Nachweisen |
-| Hinweis „Duplikat“ | Gibt es ein zweites Profil in Maps | Inhaberschaft anfordern, Duplikat entfernen oder zusammenführen |
+| Verdacht auf Duplikat | Gibt es ein zweites Profil in Maps | Inhaberschaft anfordern, Duplikat entfernen oder zusammenführen |
 | Neues Unternehmen, bestätigt, kaum sichtbar | Datum der Bestätigung | Bis zu einem Monat Zeit geben, Profil vollständig ausfüllen |
 | Änderung erscheint nicht | Status der Änderung | Ausstehend abwarten, bei „nicht genehmigt“ Angabe belegen oder Einspruch |
 | Beim Namen sichtbar, bei Leistungssuchen nicht | Kategorie, Leistungen, Website | Relevanz verbessern, Bewertungen aufbauen |
@@ -206,7 +206,7 @@ Nein. Ein Unternehmen darf nur ein Profil haben. Ein zweites wird als Duplikat m
 
 ### Wird ein Betrieb ohne Ladengeschäft angezeigt?
 
-Ja. Betriebe, die zu ihren Kunden fahren, blenden die Adresse aus und legen ein Einzugsgebiet fest. Das verlangt Google sogar, wenn an der Adresse kein Kundenverkehr stattfindet. Virtuelle Büros sind dagegen nicht zulässig.
+Ja. Betriebe, die zu ihren Kunden fahren, blenden die Adresse aus und legen ein Einzugsgebiet fest. Google sieht vor, die Adresse nicht anzuzeigen, wenn dort kein Kundenverkehr stattfindet. Virtuelle Büros ohne eigenen Betrieb vor Ort sind dagegen nicht zulässig.
 
 ### Helfen regelmäßige Beiträge, damit Google ein neues Profil schneller zeigt?
 

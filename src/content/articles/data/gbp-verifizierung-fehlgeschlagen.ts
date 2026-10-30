@@ -41,7 +41,6 @@ const article: V4Article = {
             ["Die Schaltfläche zur Bestätigung ist wieder da", "Google konnte den Betrieb nicht vollständig bestätigen", "Erneut bestätigen oder eine andere angebotene Methode nehmen"],
             ["Hinweis „Probleme ansehen“ nach einem Video", "Das Video wurde nicht akzeptiert", "Hinweis öffnen, die genannten Gründe lesen, ein neues Video aufnehmen"],
             ["Google bittet um weitere Angaben", "Meist eine Folge kürzlich geänderter Firmendaten", "Angaben ergänzen und den Betrieb erneut bestätigen"],
-            ["Prüfung läuft", "Google prüft Ihre Einreichung", "Abwarten und in dieser Zeit nichts an Name, Adresse oder Kategorie ändern"],
           ],
         },
         {
@@ -66,7 +65,7 @@ const article: V4Article = {
             "**Telefon oder SMS:** Sie müssen den Anruf auf der geschäftlichen Nummer selbst annehmen oder die SMS empfangen können. Eine Telefonanlage mit Sprachmenü empfängt den Code nicht.",
             "**E-Mail:** Der Code geht an die Adresse, die Google auf dem Bestätigungsbildschirm anzeigt. Eine andere Adresse können Sie nicht eintragen.",
             "**Live-Videoanruf:** nur für manche Betriebe und nur während der Öffnungszeiten Ihres Standorts.",
-            "**Postkarte:** nicht für jeden Betrieb verfügbar. Sie braucht einen Briefkasten an der Geschäftsadresse.",
+            "**Postkarte:** nicht für jeden Betrieb verfügbar. Google schickt den Code an die Postanschrift des Betriebs.",
             "**Videoaufnahme:** Google empfiehlt sie, wenn sie angeboten wird. Reine Online-Unternehmen ohne Standort oder Einzugsgebiet sind dafür nicht zugelassen.",
           ],
         },
@@ -137,7 +136,7 @@ const article: V4Article = {
           rows: [
             ["Name im Profil weicht vom Schild ab", "Der Name entspricht dem echten Namen auf Schild, Website und Briefpapier. Bei sichtbarer Adresse dauerhaftes Schild mit dem Namen", "Profilnamen an den echten Namen angleichen oder ein festes Schild anbringen"],
             ["Ort, Leistung oder Slogan im Namen", "Zusätze sind nicht erlaubt und können zur Sperrung führen", "Zusätze entfernen. Leistungen gehören in die Leistungsliste"],
-            ["Virtuelles Büro oder Postfach", "Ein Profil nur für einen tatsächlichen Standort. Postfächer und virtuelle Büros sind nicht zulässig", "Die echte Betriebsadresse eintragen oder als Betrieb mit Einzugsgebiet die Adresse ausblenden"],
+            ["Virtuelles Büro oder Postfach", "Ein Profil nur für einen tatsächlichen Standort. Postfächer oder Briefkästen an unternehmensfremden Standorten sind nicht zulässig, ebenso virtuelle Büros", "Die echte Betriebsadresse eintragen oder als Betrieb mit Einzugsgebiet die Adresse ausblenden"],
             ["Coworking-Arbeitsplatz", "Nur zulässig mit klarem Schild, Kundenempfang und eigenem Personal während der Öffnungszeiten", "Prüfen, ob alle drei Bedingungen erfüllt sind. Wenn nicht, ist der Platz kein zulässiger Standort"],
             ["Einzugsgebiet mit sichtbarer Privatadresse", "Betriebe, die zu Kunden fahren, sollen ihre Adresse ausblenden", "Adresse ausblenden, Einzugsgebiet angeben, im Video die Umgebung der Adresse zeigen"],
             ["Zweites Profil für denselben Standort", "Ein Profil je Standort, auch über mehrere Konten hinweg", "Das bestehende Profil übernehmen statt ein neues zu bestätigen"],
@@ -181,7 +180,7 @@ const article: V4Article = {
             },
             {
               title: "Prüfzeit abwarten",
-              text: "Ändern Sie während der Prüfung nichts an Name, Adresse oder Kategorie. Jede solche Änderung kann einen neuen Prüfvorgang auslösen.",
+              text: "Ändern Sie während der Prüfung nichts an Name, Adresse oder Kategorie. Nach solchen Änderungen kann Google eine erneute Bestätigung verlangen.",
             },
             {
               title: "Support kontaktieren",
@@ -205,7 +204,7 @@ const article: V4Article = {
         {
           t: "ul",
           items: [
-            "**Adresse vor dem Anfordern prüfen:** Google bittet ausdrücklich darum, die Postanschrift vorher zu kontrollieren. Ist der Name am Briefkasten nicht zu lesen, kann die Karte nicht zugestellt werden.",
+            "**Adresse vor dem Anfordern prüfen:** Google bittet ausdrücklich darum, die Postanschrift vorher zu kontrollieren. Stimmt die Anschrift nicht, kommt der Code nicht an.",
             "**Keinen neuen Code anfordern:** Ein neuer Code macht laut Google den alten ungültig und verlängert das Verfahren. Warten Sie die üblichen 14 Tage ab.",
             "**Fünfstelligen Code korrekt eingeben:** im Profil im Feld „Code“ eintragen und absenden, bevor die 30 Tage um sind.",
             "**Telefon ohne Sprachmenü:** Läuft Ihre Geschäftsnummer über eine Telefonanlage mit Ansage, kommt der Code nicht an. Nehmen Sie den Anruf direkt an oder wählen Sie SMS, falls angeboten.",
