@@ -11,13 +11,13 @@ const article: V4Article = {
   lead:
     "Für Inhaber lokaler Betriebe, die in Google Maps hinter Einträgen stehen, die es so gar nicht geben dürfte, oder deren eigenes Profil mit falschen Bewertungen oder Änderungen angegriffen wird. Sie erfahren, woran Sie Verstöße erkennen, welcher Meldeweg zu welchem Fall passt und was Sie realistisch erwarten können.",
   answer:
-    "Spam in Google Maps sind Einträge und Beiträge, die gegen Googles Richtlinien verstoßen: Zusätze im Firmennamen, Scheinadressen, doppelte Profile, gekaufte oder erzwungene Bewertungen. Melden Sie einzelne Fälle in Maps über „Änderung vorschlagen“, Betrug bei Name, Telefonnummer oder Website über Googles Beschwerdeformular und unzulässige Rezensionen über die Meldefunktion. Belege sammeln Sie vorher.",
+    "Spam in Google Maps sind Einträge und Beiträge, die gegen Googles Richtlinien verstoßen: Zusätze im Firmennamen, Scheinadressen, doppelte Profile, gekaufte oder erzwungene Bewertungen. Melden Sie einzelne Fälle in Maps über „Änderung vorschlagen“, Betrug bei Name, Telefonnummer oder Website über Googles Beschwerdeformular und unzulässige Rezensionen über die Meldefunktion. Sammeln Sie die nötigen Angaben vorher, denn unvollständige Formulare bearbeitet Google nicht.",
   takeaways: [
     "Google hat 2025 nach eigenen Angaben mehr als 292 Millionen unzulässige Rezensionen blockiert oder entfernt und mehr als 13 Millionen gefälschte Unternehmensprofile gelöscht.",
-    "Die häufigsten Verstöße lassen sich mit Googles eigenen Richtlinien prüfen: Name wie auf dem Schild, echte Adresse mit Beschilderung, ein Profil je Standort, keine Gegenleistung für Bewertungen.",
+    "Typische Verstöße lassen sich mit Googles eigenen Richtlinien prüfen: Name wie auf dem Schild, echte Adresse mit Beschilderung, ein Profil je Standort, keine Gegenleistung für Bewertungen.",
     "Es gibt drei Meldewege: „Änderung vorschlagen“ in Maps, das Beschwerdeformular für Betrug und die Meldung einzelner Rezensionen.",
-    "Google sagt keine Bearbeitung zu und meldet beim Beschwerdeformular keinen Status zurück. Gute Belege erhöhen die Chance.",
-    "Prüfen Sie vor jeder Meldung Ihr eigenes Profil. Wer selbst gegen Regeln verstößt, wird oft als Nächster gemeldet.",
+    "Google sagt keine Bearbeitung zu und meldet beim Beschwerdeformular keinen Status zurück. Unvollständige Formulare werden nicht bearbeitet.",
+    "Prüfen Sie vor jeder Meldung Ihr eigenes Profil. Wer selbst gegen Regeln verstößt, kann ebenfalls gemeldet werden.",
   ],
   publishedAt: "2026-03-08",
   updatedAt: "2026-10-10",
@@ -54,7 +54,7 @@ const article: V4Article = {
       id: "spam-arten",
       title: "Die häufigsten Verstöße und woran Sie sie erkennen",
       answer:
-        "Die meisten Fälle betreffen den Namen, die Adresse, doppelte Profile und Bewertungen. Für jeden gibt es eine klare Regel in Googles Richtlinien, an der Sie den Verdacht prüfen können.",
+        "Typische Fälle betreffen den Namen, die Adresse, doppelte Profile und Bewertungen. Für jeden gibt es eine klare Regel in Googles Richtlinien, an der Sie den Verdacht prüfen können.",
       blocks: [
         {
           t: "table",
@@ -80,7 +80,7 @@ const article: V4Article = {
       id: "belege",
       title: "Belege sammeln, bevor Sie melden",
       answer:
-        "Eine Meldung mit Screenshots, Links und einer sachlichen Begründung hat bessere Chancen als ein bloßer Verdacht. Halten Sie fest, was Sie sehen, und vermeiden Sie Vorwürfe, die Sie nicht belegen können.",
+        "Eine Meldung mit Screenshots, Links und einer sachlichen Begründung ist nachvollziehbarer als ein bloßer Verdacht. Halten Sie fest, was Sie sehen, und vermeiden Sie Vorwürfe, die Sie nicht belegen können.",
       blocks: [
         {
           t: "steps",
@@ -146,7 +146,7 @@ const article: V4Article = {
             "**Bestätigt und aktiv bleiben.** Seit April 2026 führt Google E-Mail-Hinweise für bestätigte und aktive Inhaber ein. Damit können sie wichtige Änderungen an ihrem Profil prüfen, bevor diese erscheinen.",
             "**Regelmäßig ansehen.** Prüfen Sie einmal pro Woche Name, Adresse, Telefonnummer, Öffnungszeiten und Kategorie. Vorschläge von Nutzern können Angaben verändern.",
             "**Mehrere Inhaber oder Verwalter.** Hinterlegen Sie mindestens eine zweite Person, damit der Zugang nicht an einem Konto hängt.",
-            "**Laufend echte Bewertungen sammeln.** Ein breiter Bestand ehrlicher Rezensionen macht einzelne falsche weniger gewichtig.",
+            "**Echte Bewertungen ohne Gegenleistung erbitten.** Bitten Sie zufriedene Kunden laufend um ehrliche Rezensionen, ohne Rabatt oder Verlosung.",
           ],
         },
         {

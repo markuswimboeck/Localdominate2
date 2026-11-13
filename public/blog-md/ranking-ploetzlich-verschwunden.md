@@ -26,8 +26,8 @@ Prüfen Sie zuerst, ob der Betrieb wirklich verschwunden ist: Suche nach dem Nam
 ## Das Wichtigste in Kürze
 
 - Eine einzelne Suche auf dem eigenen Handy ist keine Messung. Google sortiert lokale Ergebnisse auch nach der Entfernung zum Suchenden.
-- Findet die Suche nach dem eigenen Namen das Profil nicht, liegt meist ein Problem am Profil selbst vor: Sperrung, Einschränkung oder Duplikat.
-- Änderungen am Profil prüft Google vorab. Das dauert laut Google meist bis zu zehn Minuten, manchmal bis zu 30 Tage. Nach einer Änderung von Name, Adresse oder Kategorie kann eine erneute Bestätigung nötig werden.
+- Findet die Suche nach dem eigenen Namen das Profil nicht, spricht das für ein Problem am Profil selbst: Sperrung, Einschränkung oder Duplikat.
+- Änderungen am Profil prüft Google vorab. Das dauert laut Google meist bis zu zehn Minuten, manchmal bis zu 30 Tage. Nach einer Änderung der Kategorie kann eine erneute Bestätigung nötig werden.
 - Ob ein grundlegendes Google-Update lief, sehen Sie im Search Status Dashboard. Namen von Updates aus Foren und Tools sind Vermutungen.
 - Legen Sie während einer Prüfung oder eines Einspruchs kein zweites Profil an. Das macht die Lage schlechter.
 
@@ -37,7 +37,7 @@ Oft ist der Betrieb nicht weg, sondern nur an einer anderen Stelle zu sehen, als
 
 Google sortiert lokale Ergebnisse nach Relevanz, Entfernung und Bekanntheit. Zur Entfernung schreibt Google, dass berücksichtigt wird, wie weit ein Unternehmen vom suchenden Kunden entfernt ist. Teilt jemand seinen Standort nicht, nutzt Google die Informationen, die über seinen Standort bekannt sind. Wer also im eigenen Laden sucht und dann zwei Kilometer weiter, sieht zwei verschiedene Listen.
 
-1. **Nach dem Namen suchen.** Suchen Sie in Google Maps und in der Google Suche nach dem genauen Firmennamen und dem Ort. Erscheint das Profil hier nicht, liegt das Problem sehr wahrscheinlich am Profil selbst. Dann gehen Sie direkt zum Abschnitt über den Profilstatus.
+1. **Nach dem Namen suchen.** Suchen Sie in Google Maps und in der Google Suche nach dem genauen Firmennamen und dem Ort. Erscheint das Profil hier nicht, spricht das für ein Problem am Profil selbst. Dann gehen Sie direkt zum Abschnitt über den Profilstatus.
 2. **Nach der Leistung suchen.** Suchen Sie nach dem Begriff, für den Sie früher sichtbar waren, zum Beispiel „Physiotherapie Augsburg“. Notieren Sie Datum, Uhrzeit, Gerät und Standort.
 3. **Mit einem Raster messen.** Wiederholen Sie dieselbe Suche an mehreren Punkten im Einzugsgebiet. Wie das geht, von Hand oder mit einem Werkzeug, steht im Abschnitt [Ranking richtig messen](https://localdominate.org/blog/google-maps-ranking-verbessern#ranking-messen).
 4. **Am nächsten Tag wiederholen.** Ein einzelner Ausreißer ist noch kein Verlust. Erst wenn sich das Bild mit denselben Einstellungen bestätigt, beginnt die Ursachensuche.
@@ -46,7 +46,7 @@ Google sortiert lokale Ergebnisse nach Relevanz, Entfernung und Bekanntheit. Zur
 
 ## Der Entscheidungsbaum: vom Symptom zur Ursache
 
-Das Muster des Verlusts verrät viel über die Ursache. Fehlt das Profil auch bei der Namenssuche, liegt es fast immer am Profil. Fällt es nur bei bestimmten Begriffen oder in einem Teil des Gebiets, sind eher Kategorie, Wettbewerber oder Spam zu prüfen.
+Das Muster des Verlusts verrät viel über die Ursache. Fehlt das Profil auch bei der Namenssuche, ist zuerst das Profil selbst zu prüfen. Fällt es nur bei bestimmten Begriffen oder in einem Teil des Gebiets, sind eher Kategorie, Wettbewerber oder Spam zu prüfen.
 
 *Symptom, mögliche Ursache und wo Sie nachsehen*
 
@@ -60,17 +60,17 @@ Das Muster des Verlusts verrät viel über die Ursache. Fehlt das Profil auch be
 | Nur ein Teil des Gebiets betroffen | Neuer Wettbewerber oder Spam-Einträge in der Nähe | Wer jetzt an Ihren früheren Plätzen steht |
 | Auch die Website verliert Besucher aus der Suche | Grundlegendes Google-Update oder manuelle Maßnahme | Search Status Dashboard, Search Console |
 
-Gehen Sie die Zeilen von oben nach unten durch. Die oberen Ursachen lassen sich schnell ausschließen und haben die größte Wirkung. Wer sofort an ein Google-Update denkt, übersieht leicht eine abgelehnte Änderung oder eine Sperrung.
+Gehen Sie die Zeilen von oben nach unten durch. Die oberen Ursachen lassen sich schnell ausschließen. Wer sofort an ein Google-Update denkt, übersieht leicht eine abgelehnte Änderung oder eine Sperrung.
 
 ## Profil gesperrt, deaktiviert oder eingeschränkt
 
 Profile, die gegen Googles Richtlinien verstoßen, können gesperrt oder deaktiviert werden. Ein entferntes Profil ist dann laut Google nicht öffentlich sichtbar, und Inhaber können es nicht mehr bearbeiten. Sie können aber über das Einspruchstool die Wiederherstellung beantragen.
 
-Öffnen Sie das Profil mit dem Google-Konto, mit dem es verwaltet wird. Achten Sie auf Hinweise zu einer Sperrung oder Einschränkung und auf E-Mails von Google. Im Einspruchstool sehen Sie laut Google das betroffene Profil, den Grund für die Moderation und einen Link auf die verletzte Richtlinie.
+Öffnen Sie das Profil mit dem Google-Konto, mit dem es verwaltet wird. Achten Sie auf Hinweise zu einer Sperrung oder Einschränkung und auf E-Mails von Google. Im Einspruchstool wählen Sie das betroffene Profil und die Entscheidung aus und können Nachweise und eine Begründung hinzufügen. Einsprüche lassen sich nur einmal einreichen.
 
 - **Profil gesperrt oder deaktiviert:** Das Profil erscheint weder in der Suche noch in Maps. Prüfen Sie zuerst selbst, ob alle Angaben den [Richtlinien](https://support.google.com/business/answer/3038177?hl=de) entsprechen, und legen Sie dann Einspruch ein.
-- **Konto eingeschränkt:** Dann sind laut Google alle Profile gesperrt, die das Konto verwaltet. Der Einspruch läuft in diesem Fall zuerst über die Kontoeinstellungen, erst danach über das Profil.
-- **Nachweise:** Google nennt Gewerbeanmeldung, Gewerbeschein, Steuerunterlagen oder Versorgerrechnungen. Name und Adresse darauf müssen zum Profil passen. Ein geöffnetes Nachweisformular muss innerhalb von 60 Minuten abgeschickt werden.
+- **Konto eingeschränkt:** Dann sind laut Google alle Profile gesperrt, die das Konto verwaltet. Der Einspruch gegen die Kontoeinschränkung läuft in diesem Fall über die Seite „Meine Konten“, erst nach deren Aufhebung kann für das Profil Einspruch eingelegt werden.
+- **Nachweise:** Google nennt Gewerbeanmeldung, Gewerbeschein, Steuerunterlagen oder Versorgerrechnungen. Name und Adresse darauf müssen zum Profil passen.
 
 > **Wichtig:** Legen Sie während eines laufenden Einspruchs kein neues Profil für denselben Betrieb an. Google weist ausdrücklich darauf hin. Den vollständigen Ablauf beschreibt der Artikel [Unternehmensprofil gesperrt: so reaktivieren Sie es](https://localdominate.org/blog/gbp-suspendiert-reaktivieren).
 
@@ -78,17 +78,17 @@ Profile, die gegen Googles Richtlinien verstoßen, können gesperrt oder deaktiv
 
 Jede Änderung an einem bestätigten Profil prüft Google, bevor sie sichtbar wird. Das dauert laut Google in der Regel bis zu zehn Minuten, manchmal bis zu 30 Tage. Eine Änderung kann angenommen, nicht genehmigt oder noch in Prüfung sein.
 
-Viele plötzliche Verluste fallen zeitlich mit einer Änderung zusammen: neuer Name, neue Adresse, andere Hauptkategorie, neue Website. Im Profil finden Sie unter „Status Ihrer Änderungen prüfen“, was aus jeder Änderung geworden ist.
+Ein plötzlicher Verlust kann zeitlich mit einer Änderung zusammenfallen: neuer Name, neue Adresse, andere Hauptkategorie, neue Website. Im Profil finden Sie unter „Status Ihrer Änderungen prüfen“, was aus jeder Änderung geworden ist.
 
 *Status einer Änderung und was er bedeutet*
 
 | Status | Bedeutung | Ihr nächster Schritt |
 | --- | --- | --- |
-| In Prüfung | Google prüft die Änderung noch | Abwarten, nicht mehrfach neu speichern |
+| Ausstehend | Google prüft die Änderung noch | Abwarten, nicht mehrfach neu speichern |
 | Nicht genehmigt | Google konnte die Richtigkeit nicht bestätigen | Angabe prüfen, belegen und Einspruch gegen die Ablehnung einlegen |
-| Angenommen | Die Änderung ist im Profil sichtbar | Messen, ob der Verlust damit zusammenhängt |
+| Akzeptiert | Die Änderung ist im Profil sichtbar | Messen, ob der Verlust damit zusammenhängt |
 
-Nach einer Namensänderung oder einem Umzug kann laut Google eine **erneute Bestätigung** nötig werden, ebenso nach einer Änderung der Kategorie. Läuft die Bestätigung nicht durch, hilft der Artikel [Bestätigung fehlgeschlagen](https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen).
+Nach einer Änderung der Kategorie kann laut Google eine **erneute Bestätigung** nötig werden. Läuft die Bestätigung nicht durch, hilft der Artikel [Bestätigung fehlgeschlagen](https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen).
 
 > **Google ändert auch selbst:** Erhält Google Meldungen, dass Angaben falsch sind, kann es das Profil aktualisieren. Sie werden benachrichtigt, und im Bereich „Profil bearbeiten“ erscheint ein Hinweis. Prüfen Sie deshalb auch Öffnungszeiten, Adresse und den Status „geschlossen“, selbst wenn Sie nichts geändert haben.
 
@@ -109,11 +109,11 @@ Die gewählten Kategorien wirken sich laut Google auf das Ranking in lokalen Suc
 
 Fällt der Betrieb nur bei bestimmten Begriffen heraus, vergleichen Sie die aktuelle Hauptkategorie mit der früheren. Ein Wechsel von „Zahnarzt“ zu „Kieferorthopäde“ oder von „Hotel“ zu „Pension“ verschiebt, für welche Suchen das Profil als passend gilt. Google empfiehlt die spezifischste passende Hauptkategorie und rät davon ab, für jedes Produkt eine eigene weitere Kategorie anzulegen. Mehr dazu im [Kategorien-Leitfaden](https://localdominate.org/blog/google-business-kategorien-guide).
 
-- **Adresse geändert oder umgezogen:** Nach einem Umzug kann laut Google eine erneute Bestätigung nötig sein. Bis sie abgeschlossen ist, prüfen Sie im Profil, ob die neue Adresse schon angenommen wurde.
+- **Adresse geändert oder umgezogen:** Prüfen Sie im Status Ihrer Änderungen, ob die neue Adresse schon akzeptiert wurde, und ob Google eine erneute Bestätigung verlangt.
 - **Adresse ausgeblendet oder Einzugsgebiet geändert:** Prüfen Sie, ob die Angaben noch der Wirklichkeit entsprechen. Was für Betriebe mit und ohne Kundenverkehr gilt, steht in den [Richtlinien für die Darstellung Ihres Unternehmens](https://support.google.com/business/answer/3038177?hl=de).
 - **Firmendaten im Netz widersprüchlich:** Stehen in Verzeichnissen andere Adressen oder Namen als im Profil, prüfen Sie diese nach der Methode aus [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo).
 
-Handwerker und mobile Dienste sind besonders oft betroffen, weil sie ohne sichtbaren Standort arbeiten. Wie wir solche Betriebe betreuen, zeigt unsere [englische Seite für Handwerksbetriebe](https://localdominate.org/industries/trades).
+Handwerker und mobile Dienste arbeiten oft ohne sichtbaren Standort, daher sind Adress- und Einzugsgebietsangaben bei ihnen besonders sorgfältig zu prüfen. Wie wir solche Betriebe betreuen, zeigt unsere [englische Seite für Handwerksbetriebe](https://localdominate.org/industries/trades).
 
 ## Neue Wettbewerber und Spam-Einträge
 

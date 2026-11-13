@@ -91,7 +91,7 @@ Für Barrierefreiheit gibt Google konkrete Kriterien vor. Ein Eingang ist rollst
 | Rollstuhlgerechter Eingang | der Eingang etwa 1 m breit ist und keine Stufen hat, oder bei Stufen eine feste oder mobile Rampe vorhanden ist. Nur eine Drehtür bedeutet Nein. |
 | Rollstuhlgerechtes WC | der Zugang zum WC etwa 1 m breit und stufenlos ist. Wird eine Kabine genutzt, sollte auch deren Eingang etwa 1 m breit sein. |
 | Rollstuhlgerechte Sitzgelegenheiten | der Hauptbereich stufenlos ist und genug Platz bietet, um an einen Tisch zu fahren. Nur hohe Tische wie Stehtische bedeuten Nein. |
-| Rollstuhlgerechter Parkplatz | es reservierte Plätze für Menschen mit eingeschränkter Mobilität gibt, meist durch Bodenmarkierung oder Schild gekennzeichnet. |
+| Rollstuhlgerechter Parkplatz | es reservierte Plätze für Menschen mit eingeschränkter Mobilität gibt, meist nach den örtlichen Vorschriften gekennzeichnet. |
 | Rollstuhlgerechter Aufzug | der Betrieb mehrere Etagen hat und der Aufzug groß genug für einen Rollstuhl ist. |
 | Induktive Höranlage | eine Höranlage fest installiert ist. |
 | Hörhilfen werden angeboten | Sie Kunden Geräte vor Ort leihen. |
@@ -149,7 +149,7 @@ Wer gegen die Richtlinien verstößt, riskiert laut Google geänderte Angaben, d
 
 ## Attribute aktuell halten
 
-Prüfen Sie Ihre Attribute immer dann, wenn sich im Betrieb etwas ändert, und zusätzlich in einem festen Rhythmus, etwa zusammen mit den Öffnungszeiten. Google schreibt, dass sich Namen von Attributen ändern können. Neue Merkmale tauchen ohne Ankündigung im Profil auf.
+Prüfen Sie Ihre Attribute immer dann, wenn sich im Betrieb etwas ändert, und zusätzlich in einem festen Rhythmus, etwa zusammen mit den Öffnungszeiten. Google schreibt, dass sich Namen von Attributen mit der Zeit ändern können.
 
 1. **Bei jeder Änderung im Betrieb.** Neue Terrasse, Umbau am Eingang, neues Kassensystem, Ende des Gästenetzes: Passen Sie das Attribut am selben Tag an.
 2. **Zur Saison.** Sitzplätze im Freien und saisonale Angebote prüfen Sie zusammen mit Sonderöffnungszeiten. Die Anleitung dazu steht in [Öffnungszeiten und Sondertage](https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage).

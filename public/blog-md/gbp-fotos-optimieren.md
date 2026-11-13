@@ -29,7 +29,7 @@ Laden Sie eigene, scharfe und kaum bearbeitete Fotos als JPG oder PNG hoch, zwis
 - Erlaubt sind echte Aufnahmen vom Ort. Bilddatenbank-Fotos, Screenshots, Collagen, Rahmen, Text im Bild und starke Filter rät Google ab.
 - Kundenfotos können Sie nicht selbst löschen, nur bei Google melden. Die Prüfung dauert laut Google mehrere Werktage.
 - Personen im Bild brauchen ihr Einverständnis, auch Mitarbeiter. Bei Arbeiten in Kundenwohnungen fragen Sie vorher.
-- Geotags in den Bilddaten und Dateinamen mit Keywords bringen nach allen veröffentlichten Tests nichts. Google bestätigt keinen Ranking-Effekt von Fotos.
+- Für Geotags in den Bilddaten und Dateinamen mit Keywords gibt es keine Google-Quelle. Google bestätigt keinen Ranking-Effekt von Fotos.
 
 ## Googles technische Vorgaben für Fotos und Videos
 
@@ -53,7 +53,7 @@ Feste Seitenverhältnisse für Logo, Titelbild oder Produktfotos schreibt Google
 
 Das Logo hilft Kunden, Sie wiederzuerkennen. Das Titelbild steht oben im Profil, Google garantiert aber nicht, dass es als erstes Bild erscheint. Bei schlechter Qualität kann Google ein Nutzerfoto an seine Stelle setzen.
 
-Beide fügen Sie unter **Fotos** im Profil hinzu, über „Logo hinzufügen“ und „Titelbild hinzufügen“, später über „Logo ändern“ und „Titelbild ändern“. Das Logo hebt Google laut Hilfe hervor, wenn Basisangaben wie Telefonnummer und Öffnungszeiten vorhanden sind.
+Beide fügen Sie unter **Fotos** im Profil hinzu, über „Logo hinzufügen“ und „Titelbild hinzufügen“, später über „Logo ändern“ und „Titelbild ändern“. Ein Logo wird laut Hilfe eher angezeigt, wenn Name, gültige Adresse, Kategorien, Telefonnummer und Öffnungszeiten im Profil stehen.
 
 - **Logo fehlt in der Anzeige:** Laut Google fehlen dann oft Pflichtangaben, also Name, gültige Adresse, Kategorien, Telefonnummer oder Öffnungszeiten. Prüfen Sie zuerst diese Felder, siehe [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren).
 - **Titelbild wird ersetzt:** Google kann statt Ihres Titelbilds ein von Nutzern hochgeladenes Bild zeigen, wenn Ihres unscharf ist oder erkennbar nicht das beste Motiv. Ein gut belichtetes, typisches Bild Ihres Betriebs ist die beste Vorbeugung.
@@ -80,9 +80,9 @@ Mehr zur jeweiligen Branche lesen Sie in [Local SEO für Hotels](https://localdo
 
 ## Echte Bilder statt Bilddatenbank
 
-Google rät, nur selbst aufgenommene Bilder vom Ort zu verwenden. Bilddatenbank-Fotos, Screenshots, GIFs, Collagen, stark bearbeitete Bilder, Rahmen und Text im Bild sollen Sie vermeiden. Bilder geringer Qualität kann Google ohne Einspruchsmöglichkeit entfernen.
+Google rät, nur selbst aufgenommene Bilder vom Ort zu verwenden. Bilddatenbank-Fotos, Screenshots, GIFs, Collagen, stark bearbeitete Bilder, Rahmen und Text im Bild sollen Sie vermeiden. Auch zu viele Filter oder KI-Werkzeuge rät Google ab.
 
-Die Tipps für Medien in Google Maps sind eindeutig: Medien sollen selbst aufgenommen sein, am Ort entstehen und den Ort in den Mittelpunkt stellen. Drehung und Helligkeit korrigieren ist in Ordnung, Filter auch, solange sie den Ort nicht stark verfälschen. Die Richtlinien für Beiträge in Maps nennen außerdem kopierte oder gestohlene Fotos als Verstoß.
+Die Tipps für Medien in Google Maps sind eindeutig: Medien sollen selbst aufgenommen sein, am Ort entstehen und den Ort in den Mittelpunkt stellen. Drehung und Helligkeit korrigieren ist in Ordnung, Filter auch, solange sie den Ort nicht stark verfälschen. Von Dritten erstellte Bilder rät Google ebenfalls ab.
 
 *Was Google bei Fotos empfiehlt und was nicht*
 
@@ -109,7 +109,7 @@ Videos dürfen laut Google höchstens 30 Sekunden lang und 75 MB groß sein, mit
 
 ## Hochladen, Prüfung und Löschen
 
-Sie laden Fotos in der Google-Suche oder in Maps über Ihr Profil unter Fotos hoch. Google prüft sie, bevor sie erscheinen. Das kann laut Hilfe 24 bis 48 Stunden dauern. Neue Medien zeigt Google zuerst.
+Sie laden Fotos in der Google-Suche oder in Maps über Ihr Profil unter Fotos hoch. Google prüft sie, bevor sie erscheinen. Es kann laut Hilfe 24 bis 48 Stunden dauern, bis ein Upload im Profil erscheint.
 
 1. **Profil öffnen.** In der Google-Suche oder in Maps nach Ihrem Firmennamen und Ort suchen, mit dem Konto angemeldet, das das Profil verwaltet.
 2. **Fotos hinzufügen.** Auf „Fotos“ und dann „Fotos hinzufügen“ klicken, eine oder mehrere Dateien auswählen.
@@ -126,7 +126,7 @@ Fotos von Kunden können Sie nicht selbst löschen. Sie können sie bei Google m
 2. **In der Google-Maps-App.** Unter „Unternehmen“ das Profil öffnen, „Fotos“ wählen, das Bild öffnen, über „Mehr“ auf „Melden“ tippen und einen Grund wählen, etwa Spam oder persönliche Daten.
 3. **Einmal melden, dann warten.** Laut Google dauert die Prüfung mehrere Werktage. Mehrfache Meldungen zum selben Bild können sie verzögern.
 
-Ein Kundenfoto, das Ihnen nur nicht gefällt, entfernt Google nicht. Hier hilft ein besseres eigenes Foto desselben Motivs. Für möglicherweise rechtswidrige Inhalte bietet Google ein eigenes rechtliches Meldeformular. Wie der Ablauf bei Bewertungen aussieht, beschreibt [Google-Bewertung löschen lassen](https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung), Fälschungen bei Wettbewerbern behandelt [Google-Maps-Spam erkennen](https://localdominate.org/blog/google-maps-spam-erkennen).
+Ein Kundenfoto, das Ihnen nur nicht gefällt, entfernt Google nicht. Hier hilft ein besseres eigenes Foto desselben Motivs. Für möglicherweise rechtswidrige Inhalte verweist Google auf einen eigenen rechtlichen Meldeweg. Wie der Ablauf bei Bewertungen aussieht, beschreibt [Google-Bewertung löschen lassen](https://localdominate.org/blog/gbp-bewertung-loeschen-anleitung), Fälschungen bei Wettbewerbern behandelt [Google-Maps-Spam erkennen](https://localdominate.org/blog/google-maps-spam-erkennen).
 
 ## Datenschutz: Personen, Mitarbeiter, Kundenwohnungen
 
@@ -144,13 +144,13 @@ Die Richtlinien für Beiträge in Google Maps verbieten persönliche Daten ander
 
 ## Geotags, Dateinamen, Ranking: was nicht stimmt
 
-Für einen Ranking-Vorteil durch Geotags in den Bilddaten oder Keywords im Dateinamen gibt es keine Google-Quelle. Veröffentlichte Tests fanden keinen Effekt. Google nennt Fotos in seinen Ranking-Tipps als Mittel, Kunden das Angebot zu zeigen, nicht als Ranking-Faktor.
+Für einen Ranking-Vorteil durch Geotags in den Bilddaten oder Keywords im Dateinamen gibt es keine Google-Quelle. Google nennt Fotos in seinen Ranking-Tipps als Mittel, Kunden das Angebot zu zeigen, nicht als Ranking-Faktor.
 
 *Verbreitete Foto-Tipps im Faktencheck*
 
 | Behauptung | Was belegt ist |
 | --- | --- |
-| Geotags (GPS in den EXIF-Daten) verbessern das Maps-Ranking | Keine Aussage von Google. Tests von Sterling Sky und Hypetrix fanden keinen Effekt. Whitespark führt Geotagging als verbreiteten Mythos. |
+| Geotags (GPS in den EXIF-Daten) verbessern das Maps-Ranking | Keine Aussage von Google. Whitespark führt Geotagging als verbreiteten Mythos. |
 | Dateinamen mit Keyword und Ort helfen | Keine Google-Quelle für das Unternehmensprofil. Der Dateiname ist für Kunden nicht sichtbar. |
 | Fotos sind ein Ranking-Faktor | Google nennt Relevanz, Entfernung und Bekanntheit. Fotos stehen in den Tipps unter „Kunden zeigen, was Sie anbieten“, ohne Ranking-Zusage. |
 | Profile mit mehr Fotos bekommen ein Vielfaches an Anrufen | Solche Prozentzahlen kursieren ohne nachvollziehbare Quelle. Wir verwenden sie nicht. |
@@ -190,11 +190,11 @@ Google garantiert nicht, dass das Titelbild als erstes erscheint. Wirkt es unsch
 
 ### Helfen Geotags in den Fotos beim Ranking?
 
-Dafür gibt es keine Aussage von Google. Veröffentlichte Tests von Sterling Sky und Hypetrix fanden keinen Effekt. Sie können sich diesen Schritt sparen.
+Dafür gibt es keine Aussage von Google. Whitespark führt Geotagging als verbreiteten Mythos. Ein belegter Nutzen ist nicht bekannt, Sie können sich diesen Schritt sparen.
 
 ### Darf ich Bilder aus einer Bilddatenbank nutzen?
 
-Google rät davon ab und empfiehlt selbst aufgenommene Bilder vom Ort. Kopierte oder fremde Fotos verstoßen gegen die Richtlinien. Kunden wollen sehen, wie es bei Ihnen tatsächlich aussieht.
+Google rät davon ab und empfiehlt selbst aufgenommene Bilder vom Ort. Auch von Dritten erstellte Bilder rät Google ab. Kunden wollen sehen, wie es bei Ihnen tatsächlich aussieht.
 
 ## Quellen
 

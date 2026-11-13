@@ -71,9 +71,9 @@ Welche Methoden zur Wahl stehen, entscheidet Google für jeden Betrieb selbst. S
 
 - **Der Ort:** Straßenschild mit Straßennamen, Hausnummer oder benachbarte Geschäfte.
 - **Der Betrieb:** Schild, Produkte, Fahrzeug mit Firmenbeschriftung, Werkzeug oder Werbematerial.
-- **Ihr Zugang:** Bereiche nur für Mitarbeiter wie Kasse, Küche oder Lager, nicht vertrauliche Geschäftsunterlagen oder das Aufschließen der Tür mit Ihrem Schlüssel.
+- **Ihr Zugang:** Bereiche nur für Mitarbeiter oder das Aufschließen der Räume mit Ihrem Schlüssel.
 
-Nach dem Einreichen prüft Google die Angaben, laut Hilfe meist innerhalb von bis zu fünf Werktagen, selten länger. Wenn Sie nach der Bestätigung umziehen, müssen Sie das Profil erneut bestätigen. Hängt die Bestätigung fest, hilft der Artikel [Verifizierung fehlgeschlagen](https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen).
+Nach dem Einreichen prüft Google die Angaben, laut Hilfe meist innerhalb von bis zu fünf Werktagen, selten länger. Hängt die Bestätigung fest, hilft der Artikel [Verifizierung fehlgeschlagen](https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen).
 
 > **Doppelte Profile vermeiden:** Google erlaubt ein Profil je Standort. Legen Sie kein neues Profil an, nur weil das alte von einem früheren Mitarbeiter oder einer Agentur verwaltet wurde. Fordern Sie stattdessen den Zugriff an. Wie Sie bereits vorhandene Duplikate bereinigen, steht unter [Duplikate entfernen](https://localdominate.org/blog/duplicate-listing-entfernen).
 
@@ -81,7 +81,7 @@ Nach dem Einreichen prüft Google die Angaben, laut Hilfe meist innerhalb von bi
 
 Tragen Sie den Namen so ein, wie er auf Schild, Briefpapier und Website steht. Wählen Sie die genaueste Hauptkategorie für Ihr Kerngeschäft und nur so viele weitere, wie wirklich zutreffen.
 
-Laut Googles Richtlinien dürfen Sie dem Namen keine unnötigen Informationen hinzufügen: keine Slogans, Orte, Leistungen, Telefonnummern, Webadressen oder Hinweise auf Öffnungszeiten. Google nennt ausdrücklich, dass Profile deswegen gesperrt werden können. Auch Großbuchstaben in ganzen Wörtern und Sonderzeichen sind nur erlaubt, wenn sie nachweislich zum offiziellen Namen gehören.
+Laut Googles Richtlinien dürfen Sie dem Namen keine unnötigen Informationen hinzufügen: keine Slogans, Orte, Leistungen, Telefonnummern, Webadressen oder Hinweise auf Öffnungszeiten. Google nennt ausdrücklich, dass Profile deswegen gesperrt werden können. Ganze Wörter in Großbuchstaben sind nicht erlaubt. Sonderzeichen und Rechtsformzusätze wie GmbH sind nur mit Nachweis erlaubt, dass sie zum Namen gehören.
 
 *Beispiele für den Firmennamen*
 
@@ -93,13 +93,13 @@ Laut Googles Richtlinien dürfen Sie dem Namen keine unnötigen Informationen hi
 
 ### Kategorien
 
-Die erste Kategorie ist die Hauptkategorie. Dazu können Sie bis zu neun weitere wählen. Google verlangt, so wenige Kategorien wie möglich zu nehmen und sie so genau wie möglich auf Ihr Kerngeschäft zu beziehen. Eine Kategorie beschreibt, was Ihr Betrieb ist, nicht was er hat. Ein Hotel mit Restaurant für Hausgäste ist ein Hotel. Kategorien sind kein Ersatz für Suchbegriffe.
+Die erste Kategorie ist die Hauptkategorie. Dazu können Sie bis zu neun weitere wählen. Google verlangt, so wenige Kategorien wie möglich zu nehmen und sie so genau wie möglich auf Ihr Kerngeschäft zu beziehen. Eine Kategorie beschreibt, was Ihr Betrieb ist, nicht was er hat. Ein Hotel mit Restaurant führt im Hotelprofil nur die Kategorie Hotel. Kategorien sind kein Ersatz für Suchbegriffe.
 
 Welche Begriffe Ihre Kunden tatsächlich nutzen, finden Sie mit der Methode aus [Local SEO Keywords finden](https://localdominate.org/blog/local-seo-keywords-finden). Diese Begriffe gehören in Leistungen und Website, nicht in Name oder Kategorienliste. Mehr zur Auswahl im [Kategorien-Leitfaden](https://localdominate.org/blog/google-business-kategorien-guide).
 
 ## Adresse oder Einzugsgebiet, Telefon und Website
 
-Mit Kundenverkehr vor Ort tragen Sie Ihre echte Adresse ein. Fahren Sie zu Ihren Kunden, blenden Sie die Adresse aus und geben ein Einzugsgebiet an, das laut Google nicht weiter als etwa zwei Autostunden reicht.
+Mit Kundenverkehr vor Ort tragen Sie Ihre echte Adresse ein. Fahren Sie zu Ihren Kunden, blenden Sie die Adresse aus und geben ein Einzugsgebiet an, das laut Google in der Regel nicht weiter als etwa zwei Autostunden reicht.
 
 Ein Profil gibt es nur für einen tatsächlichen Standort. Postfächer und virtuelle Büros sind laut Google nicht zulässig. Ein Coworking-Büro ist nur erlaubt, wenn es beschildert ist, während der Öffnungszeiten besetzt ist und dort Kunden empfangen werden. Das Einzugsgebiet legen Sie über Städte, Postleitzahlen oder andere Gebiete fest.
 
@@ -125,15 +125,15 @@ Falsche Zeiten führen dazu, dass Kunden vor verschlossener Tür stehen und das 
 
 ## Leistungen, Beschreibung, Attribute und Links
 
-Tragen Sie jede Leistung, die Kunden gezielt suchen, einzeln ein. Die Beschreibung erklärt in höchstens 750 Zeichen sachlich, was Sie anbieten, ohne Links und ohne Werbeaktionen.
+Tragen Sie jede Leistung, die Kunden gezielt suchen, einzeln ein. Die Beschreibung erklärt in höchstens 750 Zeichen sachlich, was Sie anbieten, ohne Links und ohne Werbung für Aktionen und Preise.
 
 ### Leistungen und Produkte
 
-Je nach Kategorie können Sie im Profil Leistungen eintragen. Halten Sie die Bezeichnungen kurz und sachlich, etwa „Badsanierung“ oder „Professionelle Zahnreinigung“, und ergänzen Sie eine kurze Beschreibung. Ein Handel kann zusätzlich Produkte zeigen, ein Restaurant pflegt seine Speisekarte im Menü-Editor, der laut Google nur für Gastronomie und Hotellerie verfügbar ist.
+Je nach Kategorie können Sie im Profil Leistungen eintragen. Halten Sie die Bezeichnungen kurz und sachlich, etwa „Badsanierung“ oder „Professionelle Zahnreinigung“, und ergänzen Sie eine kurze Beschreibung. Ein Handel kann zusätzlich Produkte zeigen, ein Restaurant pflegt seine Speisekarte im Menü-Editor, der laut Google nur für Unternehmen der Lebensmittel- und Gastronomiebranche verfügbar ist.
 
 ### Beschreibung
 
-Die Beschreibung darf laut Google höchstens 750 Zeichen lang sein und keine URLs oder HTML enthalten. Google empfiehlt, sich auf das Unternehmen zu konzentrieren und nicht auf Aktionen, Preise und Angebote. Gut funktioniert dieser Aufbau:
+Die Beschreibung darf laut Google höchstens 750 Zeichen lang sein. Links jeglicher Art sind nicht zulässig, ebenso Werbung für Sonderaktionen, günstige Preise und Angebote. Gut funktioniert dieser Aufbau:
 
 1. Was Sie anbieten und für wen, in einem Satz.
 2. Was Sie unterscheidet: Spezialisierung, Erfahrung, Sprachen, Ausstattung.
@@ -166,17 +166,17 @@ Wie andere Änderungen prüft Google auch neue Inhalte, bevor sie sichtbar werde
 
 ## Beiträge und Funktionen, die es nicht mehr gibt
 
-Beiträge informieren Kunden in Suche und Maps über Neuigkeiten, Angebote und Veranstaltungen. Dass sie das Ranking verbessern, bestätigt Google nicht. Chat und Fragen und Antworten im Profil gibt es nicht mehr.
+Beiträge informieren Kunden in Suche und Maps über Neuigkeiten, Angebote und Veranstaltungen. Chat und Fragen und Antworten im Profil gibt es nicht mehr.
 
 *Beitragsarten laut Google-Hilfe*
 
 | Art | Wofür | Pflichtangaben |
 | --- | --- | --- |
-| Aktuelles | Neuigkeiten, geänderte Abläufe, neue Leistung | Text, optional Bild und Button mit Link |
+| Aktuelles | Neuigkeiten, geänderte Abläufe, neue Leistung | Keine zwingenden, optional Beschreibung, Bild oder Video und Button mit Link |
 | Angebot | Aktionen und Rabatte | Titel und Zeitraum |
 | Veranstaltung | Termine wie Tag der offenen Tür, Weinabend, Kurs | Titel, Start und Ende |
 
-Beiträge, die älter als sechs Monate sind, archiviert Google, sofern Sie keinen Zeitraum festlegen. Sie lassen sich vorplanen und wiederholen. Google prüft Beiträge vor der Veröffentlichung. Eine Telefonnummer im Text kann zur Ablehnung führen, wenn Google sie nicht Ihrem Betrieb zuordnen kann. Schreiben Sie Beiträge, wenn Sie etwas mitzuteilen haben, nicht nach einem festen Takt.
+Beiträge, die älter als sechs Monate sind, archiviert Google, sofern Sie keinen Zeitraum festlegen. Sie lassen sich vorplanen und wiederholen. Google prüft Beiträge nach der Veröffentlichung auf die Inhaltsrichtlinien. Eine Telefonnummer im Text kann zur Ablehnung führen, wenn Google sie nicht Ihrem Betrieb zuordnen kann. Schreiben Sie Beiträge, wenn Sie etwas mitzuteilen haben, nicht nach einem festen Takt.
 
 > **Veraltete Ratschläge:** Die Chat-Funktion im Unternehmensprofil wurde am 31. Juli 2024 eingestellt. Die öffentliche Funktion „Fragen und Antworten“ hat Google Ende 2025 durch eine KI-Funktion ersetzt, die aus Ihren Profilangaben und Rezensionen antwortet. Umso wichtiger sind vollständige Leistungen, Beschreibung und Attribute. Anleitungen, die Ihnen noch Chat oder selbst gestellte Fragen empfehlen, sind nicht aktuell.
 
@@ -226,12 +226,12 @@ Gesperrt werden Profile, die gegen Googles Richtlinien verstoßen, etwa durch Zu
 | Orte, Leistungen oder Slogans im Namen | Name wie im echten Leben |
 | Postfach oder virtuelles Büro als Adresse | Ein Profil nur für einen tatsächlichen Standort |
 | Mehrere Profile für denselben Standort | Ein Profil je Standort |
-| Einzugsgebiet weit über das tatsächliche hinaus | Nicht mehr als etwa zwei Autostunden |
+| Einzugsgebiet weit über das tatsächliche hinaus | In der Regel nicht mehr als etwa zwei Autostunden |
 | Callcenter- oder Sonderrufnummer | Eine lokale Nummer, die der Betrieb selbst verwaltet |
 
-1. **Verstoß beheben.** Laut Google muss das Profil alle Richtlinien erfüllen, bevor Sie Einspruch einlegen. Im Einspruchstool sehen Sie den Grund der Einschränkung und die betroffene Richtlinie.
-2. **Nachweise vorbereiten.** Zum Beispiel Gewerbeanmeldung, Handelsregisterauszug, Steuerbescheinigung oder eine Strom- oder Telefonrechnung. Name und Adresse müssen mit dem Profil übereinstimmen.
-3. **Einspruch einlegen.** Mit dem Google-Konto anmelden, das mit dem Profil verknüpft ist, Profil auswählen, „Einspruch einlegen“ wählen. Ein geöffnetes Nachweisformular müssen Sie innerhalb von 60 Minuten senden.
+1. **Verstoß beheben.** Laut Google muss das Profil alle Richtlinien erfüllen, bevor Sie Einspruch einlegen. Im Einspruchstool wählen Sie das Profil und die Entscheidung aus und prüfen die Details.
+2. **Nachweise vorbereiten.** Zum Beispiel Gewerbeanmeldung, Gewerbeerlaubnis, Steuerbescheinigungen oder Rechnungen von Versorgungsunternehmen. Name und Adresse müssen mit dem Profil übereinstimmen.
+3. **Einspruch einlegen.** Das Einspruchstool für Unternehmensprofile öffnen, Profil und Entscheidung auswählen, die Details prüfen und „Einspruch senden“ wählen.
 4. **Abwarten, kein neues Profil anlegen.** Legen Sie während der Prüfung kein neues Profil für denselben Betrieb an. Die Entscheidung kommt per E-Mail.
 
 Eine ausführliche Anleitung für den Fall der Fälle finden Sie unter [Profil gesperrt: so reaktivieren Sie es](https://localdominate.org/blog/gbp-suspendiert-reaktivieren). Ob Ihr Profil heute Angaben enthält, die zu einer Sperrung führen können, prüfen wir im [kostenlosen Check](https://localdominate.org/de#check).
@@ -265,12 +265,12 @@ Selbst gemacht kostet es nur Zeit. Bei LocalDominate kostet der Profil Quick-Fix
 ## Quellen
 
 - [Unternehmen bei Google bestätigen](https://support.google.com/business/answer/7107242?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
 - [Unternehmensprofil bearbeiten](https://support.google.com/business/answer/3039617?hl=de), Google Unternehmensprofil-Hilfe
 - [Beiträge in Ihrem Unternehmensprofil erstellen und verwalten](https://support.google.com/business/answer/7342169?hl=de), Google Unternehmensprofil-Hilfe
 - [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/9918094?hl=de), Google Unternehmensprofil-Hilfe
-- [Nutzer eines Unternehmensprofils verwalten](https://support.google.com/business/answer/3403100?hl=de), Google Unternehmensprofil-Hilfe
-- [Einspruch gegen eingeschränkte oder gesperrte Profile](https://support.google.com/business/answer/4569145?hl=de), Google Unternehmensprofil-Hilfe
+- [Inhaber und Administratoren Ihres Unternehmensprofils verwalten](https://support.google.com/business/answer/3403100?hl=de), Google Unternehmensprofil-Hilfe
+- [Probleme mit gesperrten oder deaktivierten Profilen beheben](https://support.google.com/business/answer/4569145?hl=de), Google Unternehmensprofil-Hilfe
 - [Google quietly kills Q&A for an AI button most won't use](https://ppc.land/google-quietly-kills-q-a-for-an-ai-button-most-wont-use/), PPC Land
 
 ---

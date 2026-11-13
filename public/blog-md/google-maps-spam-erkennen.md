@@ -21,15 +21,15 @@ Für Inhaber lokaler Betriebe, die in Google Maps hinter Einträgen stehen, die 
 
 ## Die kurze Antwort
 
-Spam in Google Maps sind Einträge und Beiträge, die gegen Googles Richtlinien verstoßen: Zusätze im Firmennamen, Scheinadressen, doppelte Profile, gekaufte oder erzwungene Bewertungen. Melden Sie einzelne Fälle in Maps über „Änderung vorschlagen“, Betrug bei Name, Telefonnummer oder Website über Googles Beschwerdeformular und unzulässige Rezensionen über die Meldefunktion. Belege sammeln Sie vorher.
+Spam in Google Maps sind Einträge und Beiträge, die gegen Googles Richtlinien verstoßen: Zusätze im Firmennamen, Scheinadressen, doppelte Profile, gekaufte oder erzwungene Bewertungen. Melden Sie einzelne Fälle in Maps über „Änderung vorschlagen“, Betrug bei Name, Telefonnummer oder Website über Googles Beschwerdeformular und unzulässige Rezensionen über die Meldefunktion. Sammeln Sie die nötigen Angaben vorher, denn unvollständige Formulare bearbeitet Google nicht.
 
 ## Das Wichtigste in Kürze
 
 - Google hat 2025 nach eigenen Angaben mehr als 292 Millionen unzulässige Rezensionen blockiert oder entfernt und mehr als 13 Millionen gefälschte Unternehmensprofile gelöscht.
-- Die häufigsten Verstöße lassen sich mit Googles eigenen Richtlinien prüfen: Name wie auf dem Schild, echte Adresse mit Beschilderung, ein Profil je Standort, keine Gegenleistung für Bewertungen.
+- Typische Verstöße lassen sich mit Googles eigenen Richtlinien prüfen: Name wie auf dem Schild, echte Adresse mit Beschilderung, ein Profil je Standort, keine Gegenleistung für Bewertungen.
 - Es gibt drei Meldewege: „Änderung vorschlagen“ in Maps, das Beschwerdeformular für Betrug und die Meldung einzelner Rezensionen.
-- Google sagt keine Bearbeitung zu und meldet beim Beschwerdeformular keinen Status zurück. Gute Belege erhöhen die Chance.
-- Prüfen Sie vor jeder Meldung Ihr eigenes Profil. Wer selbst gegen Regeln verstößt, wird oft als Nächster gemeldet.
+- Google sagt keine Bearbeitung zu und meldet beim Beschwerdeformular keinen Status zurück. Unvollständige Formulare werden nicht bearbeitet.
+- Prüfen Sie vor jeder Meldung Ihr eigenes Profil. Wer selbst gegen Regeln verstößt, kann ebenfalls gemeldet werden.
 
 ## Was als Spam gilt und wie groß das Problem ist
 
@@ -50,7 +50,7 @@ Ein Beispiel aus dem Vorjahr nennt Google selbst: 2024 entfernte Google mehr als
 
 ## Die häufigsten Verstöße und woran Sie sie erkennen
 
-Die meisten Fälle betreffen den Namen, die Adresse, doppelte Profile und Bewertungen. Für jeden gibt es eine klare Regel in Googles Richtlinien, an der Sie den Verdacht prüfen können.
+Typische Fälle betreffen den Namen, die Adresse, doppelte Profile und Bewertungen. Für jeden gibt es eine klare Regel in Googles Richtlinien, an der Sie den Verdacht prüfen können.
 
 *Verstoß, Googles Regel und Prüfung*
 
@@ -68,7 +68,7 @@ Mehr zu doppelten Einträgen, auch im eigenen Profil, im Artikel [Doppelte Eintr
 
 ## Belege sammeln, bevor Sie melden
 
-Eine Meldung mit Screenshots, Links und einer sachlichen Begründung hat bessere Chancen als ein bloßer Verdacht. Halten Sie fest, was Sie sehen, und vermeiden Sie Vorwürfe, die Sie nicht belegen können.
+Eine Meldung mit Screenshots, Links und einer sachlichen Begründung ist nachvollziehbarer als ein bloßer Verdacht. Halten Sie fest, was Sie sehen, und vermeiden Sie Vorwürfe, die Sie nicht belegen können.
 
 1. **Profil-URL kopieren.** Den Eintrag in Google Maps öffnen und die vollständige Adresse aus der Browserzeile kopieren. Google verlangt sie im Beschwerdeformular, beginnend mit https://www.google.com/maps.
 2. **Screenshots mit Datum.** Name, Adresse, Kategorie und auffällige Bewertungen festhalten. Profile ändern sich, ein Screenshot bleibt.
@@ -106,7 +106,7 @@ Halten Sie Ihr Profil bestätigt und aktiv, prüfen Sie Änderungsvorschläge un
 - **Bestätigt und aktiv bleiben.** Seit April 2026 führt Google E-Mail-Hinweise für bestätigte und aktive Inhaber ein. Damit können sie wichtige Änderungen an ihrem Profil prüfen, bevor diese erscheinen.
 - **Regelmäßig ansehen.** Prüfen Sie einmal pro Woche Name, Adresse, Telefonnummer, Öffnungszeiten und Kategorie. Vorschläge von Nutzern können Angaben verändern.
 - **Mehrere Inhaber oder Verwalter.** Hinterlegen Sie mindestens eine zweite Person, damit der Zugang nicht an einem Konto hängt.
-- **Laufend echte Bewertungen sammeln.** Ein breiter Bestand ehrlicher Rezensionen macht einzelne falsche weniger gewichtig.
+- **Echte Bewertungen ohne Gegenleistung erbitten.** Bitten Sie zufriedene Kunden laufend um ehrliche Rezensionen, ohne Rabatt oder Verlosung.
 
 > **Erpressung mit Bewertungen:** Manche Betrüger veröffentlichen gefälschte Ein-Stern-Bewertungen und verlangen Geld für deren Entfernung. Zahlen Sie nicht. Google hat dafür einen eigenen Hilfeartikel und nach eigenen Angaben seine Systeme 2026 so erweitert, dass es bei einem plötzlichen Anstieg falscher Bewertungen die Inhalte entfernt, neue Rezensionen vorübergehend pausiert, den Inhaber informiert und einen Hinweis im Profil anzeigt. Bei Erpressung können Sie zusätzlich Anzeige erstatten.
 

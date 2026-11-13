@@ -16,7 +16,7 @@ const article: V4Article = {
     "Der Chat im Google-Unternehmensprofil und der Anrufverlauf sind seit dem 31. Juli 2024 abgeschaltet. Alte Anleitungen zum „Chat aktivieren“ funktionieren nicht mehr.",
     "Kunden finden und kontaktieren Sie weiter über Google Suche und Maps: per Anruf, über die Website, über Buchungslinks und, wo verfügbar, per SMS oder WhatsApp.",
     "Die neue Chat-Option für SMS oder WhatsApp gibt es laut Google nur in ausgewählten Regionen. Prüfen Sie im Profil unter Kontakt, ob sie bei Ihnen angeboten wird.",
-    "Auch die Fragen-und-Antworten-Funktion ist weg. Google ersetzt sie schrittweise durch eine KI-Funktion, die aus Profil, Rezensionen und Website antwortet.",
+    "Auch die Fragen-und-Antworten-Funktion ist weg. Google ersetzt sie schrittweise durch eine KI-Funktion, die aus Profil, Antworten des Betriebs und Rezensionen antwortet.",
     "Mehr Anfragen bringt nicht ein neuer Kanal, sondern eine feste Antwortroutine mit klaren Zuständigkeiten und Zeiten.",
   ],
   publishedAt: "2026-01-30",
@@ -39,8 +39,8 @@ const article: V4Article = {
           head: ["Datum", "Was passiert ist"],
           rows: [
             ["22. Mai 2024", "Keine neuen Partner, keine neuen Registrierungen und Starts von Chat-Agenten mehr"],
-            ["15. Juli 2024", "Kunden mit laufenden Chats wurden informiert, Google legte keine neuen Unterhaltungen mehr an"],
-            ["31. Juli 2024", "Chat und Anrufverlauf im Unternehmensprofil eingestellt, die Schnittstelle liefert nur noch Fehler"],
+            ["15. Juli 2024", "Kunden mit laufenden Chats wurden benachrichtigt"],
+            ["31. Juli 2024", "Chat und Anrufverlauf im Unternehmensprofil eingestellt, auch die Schnittstelle Google Business Messages war betroffen"],
             ["30. August 2024", "Letzter Tag, um alte Chat- und Anrufdaten über Google Takeout herunterzuladen"],
           ],
         },
@@ -59,7 +59,7 @@ const article: V4Article = {
       id: "was-kunden-sehen",
       title: "Was Kunden heute in Ihrem Profil sehen",
       answer:
-        "Kunden finden Ihr Profil weiter in Google Suche und Maps und sehen Website-Link, Beschreibung, Fotos und Telefonnummer. Anrufe aus dem Profil gehen direkt an Ihre eigene Nummer, nicht mehr an eine Weiterleitungsnummer von Google.",
+        "Kunden finden Ihr Profil weiter in Google Suche und Maps und sehen Website-Link, Beschreibung, Fotos und Telefonnummer. Ist im Profil eine Telefonnummer hinterlegt, zeigt der Anruf-Button laut Google diese Nummer statt einer Weiterleitungsnummer von Google.",
       blocks: [
         {
           t: "p",
@@ -70,7 +70,7 @@ const article: V4Article = {
           caption: "Kontaktwege im Profil heute",
           head: ["Kontaktweg", "Stand", "Was Sie tun sollten"],
           rows: [
-            ["Anruf-Button", "Verfügbar, zeigt Ihre eigene Nummer", "Nummer prüfen, die tatsächlich erreichbar ist"],
+            ["Anruf-Button", "Verfügbar, zeigt die im Profil hinterlegte Nummer", "Nummer prüfen, die tatsächlich erreichbar ist"],
             ["Website-Link", "Verfügbar", "Auf eine Seite verlinken, auf der Kunden sofort anfragen können"],
             ["Buchung oder Termin", "Verfügbar über Anbieter oder eigenen Link", "Buchungsweg einrichten, wenn Sie Termine vergeben"],
             ["SMS oder WhatsApp", "Nur in ausgewählten Regionen", "Im Profil unter Kontakt prüfen, ob die Option angeboten wird"],
@@ -92,7 +92,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Anders als früher läuft die Unterhaltung nicht mehr über Google. Der Button im Profil öffnet die SMS-App oder WhatsApp des Kunden, und Sie antworten in Ihrem eigenen Postfach. Google listet keine Länder auf, sondern schreibt nur, dass die Funktion in ausgewählten Regionen verfügbar ist und bei Ihrem Profil fehlen kann.",
+          text: "Anders als früher läuft die Unterhaltung nicht mehr über Google. Sie hinterlegen eine SMS-Nummer oder einen WhatsApp-Link, und Kunden schreiben Ihnen dort. Google listet keine Länder auf, sondern schreibt nur, dass die Funktion in ausgewählten Regionen verfügbar ist und bei Ihrem Profil fehlen kann.",
         },
         {
           t: "steps",
@@ -118,7 +118,7 @@ const article: V4Article = {
       id: "telefon",
       title: "Das Telefon bleibt der direkteste Weg",
       answer:
-        "Der Anruf-Button ist der Kontaktweg, den jedes Profil hat. Google verlangt eine Nummer, die direkt zu Ihrem Standort führt und unter Ihrer Kontrolle steht, möglichst eine lokale Nummer statt einer zentralen Hotline. Anrufe aus dem Profil zählt Google in den Leistungsdaten.",
+        "Der Anruf-Button ist der Kontaktweg, den jedes Profil hat. Google verlangt eine Nummer, die unmittelbar vom Unternehmen verwaltet wird, möglichst eine örtliche Nummer statt einer zentralen Hotline. Anrufe aus dem Profil zählt Google in den Leistungsdaten.",
       blocks: [
         {
           t: "p",
@@ -127,9 +127,8 @@ const article: V4Article = {
         {
           t: "ul",
           items: [
-            "**Richtige Nummer im Profil.** Google schreibt eine Nummer vor, die mit Ihrem einzelnen Standort verbunden ist und direkt vom Betrieb kontrolliert wird. Premium-Nummern sind nicht zulässig.",
-            "**Weitere Nummern sind möglich.** Google erlaubt zusätzliche Telefonnummern im Profil, etwa für eine Abteilung oder einen Notdienst.",
-            "**Keine Umleitungen auf fremde Ziele.** Nummern oder Links, die auf andere Betriebe oder Vermittler weiterleiten, verbieten Googles Richtlinien.",
+            "**Richtige Nummer im Profil.** Die Nummer muss laut Google unmittelbar vom Unternehmen verwaltet werden, nach Möglichkeit eine örtliche Nummer. Sonderrufnummern sind nicht zulässig.",
+              "**Keine Umleitungen.** Weiterleitungsrufnummern, über die Anrufer nicht direkt mit Ihrem Unternehmen verbunden werden, und Verweis-URLs auf andere Landingpages verbieten Googles Richtlinien.",
             "**Überall dieselbe Hauptnummer.** Profil, Website, Impressum und Verzeichnisse sollten dieselbe Hauptnummer zeigen. Warum das zählt, steht in [NAP-Konsistenz](/blog/nap-konsistenz-local-seo).",
             "**Erreichbarkeit regeln.** Legen Sie fest, wer zu welchen Zeiten abnimmt und was außerhalb der Öffnungszeiten passiert: Ansage mit Rückrufzeit, Weiterleitung oder Notdienstnummer.",
           ],
@@ -213,7 +212,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Laut Google erscheint ein angebundener Anbieter in der Regel innerhalb einer Woche im Profil. Eine Warteliste gibt es nur für Restaurants und nur über einen Anbieter von Reserve with Google. Für Gastronomie lohnt sich zusätzlich der Blick in [Local SEO für Restaurants](/blog/local-seo-fuer-restaurants), für Unterkünfte in [SEO für Ferienwohnungen](/blog/seo-ferienwohnungen).",
+          text: "Laut Google erscheint ein angebundener Anbieter innerhalb einer Woche im Profil. Eine Warteliste gibt es nur für Restaurants und nur über einen Anbieter von Reserve with Google. Für Gastronomie lohnt sich zusätzlich der Blick in [Local SEO für Restaurants](/blog/local-seo-fuer-restaurants), für Unterkünfte in [SEO für Ferienwohnungen](/blog/seo-ferienwohnungen).",
         },
         {
           t: "p",
@@ -257,7 +256,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Feste Vorgaben zur Antwortzeit macht Google für diese Kanäle nicht. Entscheidend ist, was Sie zusagen und ob Sie es halten. Eine ehrliche Angabe wie „Antwort am selben Werktag“ ist besser als ein Versprechen, das an vollen Tagen bricht.",
+          text: "Entscheidend ist, was Sie Kunden zusagen und ob Sie es halten. Eine ehrliche Angabe wie „Antwort am selben Werktag“ ist besser als ein Versprechen, das an vollen Tagen bricht.",
         },
         {
           t: "table",
@@ -296,7 +295,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Vergleichen Sie die Zahlen einmal im Monat. Steigen Anrufe im Profil, aber nicht die Termine, liegt das Problem meist bei der Erreichbarkeit. Wie Sie ein einfaches Reporting aufsetzen, zeigen [Local SEO Tracking](/blog/local-seo-tracking-kpis) und [Google Business Insights verstehen](/blog/google-business-insights-verstehen). Wie sich Ihre Sichtbarkeit in Maps steigern lässt, steht in [Google-Maps-Ranking verbessern](/blog/google-maps-ranking-verbessern).",
+          text: "Vergleichen Sie die Zahlen einmal im Monat. Steigen Anrufe im Profil, aber nicht die Termine, kann das Problem bei der Erreichbarkeit liegen. Wie Sie ein einfaches Reporting aufsetzen, zeigen [Local SEO Tracking](/blog/local-seo-tracking-kpis) und [Google Business Insights verstehen](/blog/google-business-insights-verstehen). Wie sich Ihre Sichtbarkeit in Maps steigern lässt, steht in [Google-Maps-Ranking verbessern](/blog/google-maps-ranking-verbessern).",
         },
       ],
     },
@@ -324,7 +323,7 @@ const article: V4Article = {
     },
     {
       q: "Welcher Kontaktweg ist für kleine Betriebe am wichtigsten?",
-      a: "Meist das Telefon, weil jedes Profil einen Anruf-Button hat. Ergänzen Sie es mit einem kurzen Formular auf der verlinkten Seite und, wenn Sie Termine vergeben, einem Buchungslink. Ein weiterer Kanal lohnt sich nur, wenn jemand ihn verlässlich betreut.",
+      a: "Das Telefon, weil Kunden es über den Anruf-Button im Profil direkt erreichen. Ergänzen Sie es mit einem kurzen Formular auf der verlinkten Seite und, wenn Sie Termine vergeben, einem Buchungslink. Ein weiterer Kanal lohnt sich nur, wenn jemand ihn verlässlich betreut.",
     },
   ],
   sources: [
