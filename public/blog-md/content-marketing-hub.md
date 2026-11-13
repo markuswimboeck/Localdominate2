@@ -54,6 +54,7 @@ Planen Sie nach Themen und Kundenfragen statt nach einzelnen Wörtern. Austausch
 Lokale Links entstehen über Mitgliedschaften, Partner, Vereine, Presse und nützliche Inhalte. Sie verdienen sie, statt sie zu kaufen.
 
 - [Local Link Building](https://localdominate.org/blog/local-link-building): lokale Links ohne Regelverstoß aufbauen.
+- [Local Link Building Blueprint](https://localdominate.org/blog/local-link-building-blueprint): der 90-Tage-Plan mit Vorlagen für lokale Links.
 - [Lokale Events für SEO nutzen](https://localdominate.org/blog/lokale-events-marketing): Sponsoring und Veranstaltungen.
 - [Lokale Influencer-Kooperationen](https://localdominate.org/blog/lokale-influencer-kooperationen): Zusammenarbeit mit Creatorn aus der Region.
 
@@ -63,6 +64,7 @@ Name, Adresse und Telefonnummer sollten überall gleich lauten: im Profil, auf d
 
 - [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo): Firmendaten überall auf einen Stand bringen.
 - [Citation-Tracking-Vorlage](https://localdominate.org/blog/citation-tracking-template): alle Einträge in einer Tabelle führen.
+- [Verzeichnisse in Deutschland, Österreich und der Schweiz](https://localdominate.org/blog/local-citations-2025): welche Branchenbücher und Portale in DACH für Ihren Betrieb zählen.
 
 ## Weitere Kanäle
 
