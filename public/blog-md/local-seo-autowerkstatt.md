@@ -95,7 +95,7 @@ Bei Reparaturen können Kunden die Arbeit selbst oft nur schwer beurteilen. Bewe
 | Auf alle Bewertungen antworten, auch auf kritische, sachlich und ohne persönliche Daten | Bewertungen von Angehörigen oder aus dem eigenen Team schreiben lassen, gekaufte Bewertungen |
 | Negative Bewertungen mit einer ehrlichen Antwort beantworten | Bewertungen ändern oder negative Bewertungen entfernen lassen |
 
-Google empfiehlt ausdrücklich, auf Bewertungen zu antworten. Bei negativen Bewertungen geben Sie keine persönlichen Daten preis, bleiben ehrlich und entschuldigen sich, wenn es angebracht ist.
+Laut Google zeigen Sie mit einer Antwort, dass Sie das Feedback schätzen. Bei negativen Bewertungen geben Sie keine persönlichen Daten preis, bleiben ehrlich und entschuldigen sich, wenn es angebracht ist.
 
 Drängen Sie Kunden nicht zu einer Bewertung, solange sie noch in der Werkstatt sind oder auf ihr Auto warten. Ein Hinweis auf der Rechnung oder am Empfang, den man ignorieren kann, reicht.
 
@@ -152,9 +152,9 @@ Ja. Google erlaubt es, Kunden über einen Link oder QR-Code um eine Bewertung zu
 
 ## Quellen
 
-- [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
 - [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
-- [Google-Hilfe zu Bewertungen: Bitten, Anreize und Antworten](https://support.google.com/business/answer/3474122?hl=de), Google Unternehmensprofil-Hilfe
+- [Tipps für mehr Rezensionen](https://support.google.com/business/answer/3474122?hl=de), Google Unternehmensprofil-Hilfe
 - [Fotos und Videos im Unternehmensprofil: Richtlinien](https://support.google.com/business/answer/6103862?hl=de), Google Unternehmensprofil-Hilfe
 - [Strukturierte Daten für lokale Unternehmen (LocalBusiness)](https://developers.google.com/search/docs/advanced/structured-data/local-business?hl=de), Google Search Central
 - [Spam-Richtlinien für die Google-Suche (Doorway-Missbrauch)](https://developers.google.com/search/docs/essentials/spam-policies), Google Search Central

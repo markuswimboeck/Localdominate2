@@ -45,7 +45,7 @@ Wer in Maps oder im Kartenblock der Suche nach „Zahnarzt“, „Pension Kitzb�
 | Entfernung | Wie weit der Betrieb vom Suchenden entfernt ist; ohne geteilten Standort nutzt Google, was es über den Standort weiß | Adresse und Kartenpunkt korrekt halten, bei Betrieben ohne Kundenverkehr ein ehrliches Einzugsgebiet angeben |
 | Bekanntheit | Wie bekannt der Betrieb ist, unter anderem gemessen an Websites, die auf ihn verweisen, und an Rezensionen | Echte Bewertungen sammeln, in lokalen Medien, Verbänden und bei Partnern erwähnt werden |
 
-Daraus folgt eine unbequeme, aber nützliche Erkenntnis: Sie können nicht überall im Umkreis oben stehen. Ein Betrieb am Stadtrand wird für Suchende in der Innenstadt meist hinter näher gelegenen Wettbewerbern erscheinen. Ziel ist, im eigenen Einzugsgebiet für die richtigen Suchen so weit vorne zu stehen, wie es Ihr Angebot rechtfertigt.
+Daraus folgt eine unbequeme, aber nützliche Erkenntnis: Sie können nicht überall im Umkreis oben stehen. Ein Betrieb am Stadtrand kann für Suchende in der Innenstadt hinter näher gelegenen Wettbewerbern erscheinen. Ziel ist, im eigenen Einzugsgebiet für die richtigen Suchen so weit vorne zu stehen, wie es Ihr Angebot rechtfertigt.
 
 > **Gut zu wissen:** Fachleute versuchen in jährlichen Umfragen, die Gewichtung einzelner Signale zu schätzen. Das sind Meinungen, keine Messungen von Google. Prozentangaben zu „Ranking-Faktoren“ sollten Sie deshalb nicht als Tatsache lesen. Wie Google die drei Faktoren zusammensetzt, ist nicht veröffentlicht.
 
@@ -119,7 +119,7 @@ Machen Sie die Bitte um eine Bewertung zu einem festen Schritt im Ablauf: nach d
 | --- | --- |
 | Alle Kunden um eine ehrliche Bewertung bitten | Nur zufriedene Kunden gezielt fragen oder negative Bewertungen verhindern |
 | Link in Bestätigungsmail, auf Rechnung oder als QR-Code am Empfang | Geld, Rabatte oder Gratisleistungen für eine Bewertung |
-| Auf jede Bewertung sachlich antworten | Bewertungen von Mitarbeitenden oder über mehrere eigene Konten |
+| Auf Bewertungen sachlich antworten | Bewertungen von Mitarbeitenden oder über mehrere eigene Konten |
 
 Antworten auf Bewertungen zeigen laut Google, dass Sie das Feedback schätzen, und helfen, sich von Wettbewerbern abzuheben. Ob Antworten selbst das Ranking beeinflussen, sagt Google nicht. Für Menschen, die zwischen drei Einträgen wählen, zählen sie in jedem Fall. Praktische Abläufe finden Sie in [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen) und [Negative Google-Bewertungen](https://localdominate.org/blog/negative-google-bewertungen).
 
@@ -147,14 +147,14 @@ Google beschreibt Fotos und Videos als Möglichkeit, Kunden zu zeigen, was Sie a
 
 ## Was Ihrem Ranking schadet
 
-Die meisten Abstürze und Sperrungen gehen auf Abkürzungen zurück, die gegen Googles Richtlinien verstoßen. Sie wirken kurzfristig verlockend und gefährden das ganze Profil.
+Abkürzungen, die gegen Googles Richtlinien verstoßen, können das ganze Profil gefährden. Sie wirken kurzfristig verlockend, doch Google kann Profile einschränken und Inhalte entfernen.
 
 *Häufige Fehler und ihre Folgen*
 
 | Fehler | Warum er schadet |
 | --- | --- |
 | Ort oder Leistung im Firmennamen („Hotel Alpenblick Wellness Zell am See“, wenn das Haus nur „Hotel Alpenblick“ heißt) | Verstößt gegen die Namensrichtlinie, kann gemeldet und korrigiert werden, das Profil kann gesperrt werden |
-| Virtuelles Büro oder Briefkastenadresse, um näher an der Stadtmitte zu sein | Laut Google nicht zulässig, häufiger Grund für eine Sperrung |
+| Virtuelles Büro oder Briefkastenadresse, um näher an der Stadtmitte zu sein | Laut Google kann für eine solche Adresse kein Unternehmensprofil erstellt werden |
 | Zweites Profil für denselben Standort | Google erlaubt ein Profil je Standort, Duplikate werden zusammengeführt oder entfernt |
 | Gekaufte, belohnte oder gefilterte Bewertungen | Werden als manipuliert entfernt, das Profil kann eingeschränkt werden |
 | Viele Kategorien „zur Sicherheit“ | Verwässert die Relevanz und widerspricht Googles Vorgabe, so wenige wie möglich zu wählen |
@@ -180,7 +180,7 @@ Rechnen Sie mit Wochen bis Monaten, bis sich Veränderungen stabil im Raster zei
 
 ### Wie lange dauert es, bis sich mein Maps-Ranking verbessert?
 
-Korrekturen an den Profildaten sind oft nach Googles Prüfung sichtbar. Bis sich Positionen über Ihr Einzugsgebiet stabil verändern, vergehen meist Wochen bis Monate, je nach Wettbewerb. Feste Zeiträume oder Plätze kann niemand seriös zusagen.
+Korrekturen an den Profildaten sind oft nach Googles Prüfung sichtbar. Bis sich Positionen über Ihr Einzugsgebiet stabil verändern, kann es Wochen bis Monate dauern, je nach Wettbewerb. Feste Zeiträume oder Plätze kann niemand seriös zusagen.
 
 ### Warum sehe ich mich auf dem Handy oben, meine Kunden aber nicht?
 
@@ -204,9 +204,9 @@ Selbst gemacht kostet es nur Zeit. Bei LocalDominate kostet der Profil Quick-Fix
 
 ## Quellen
 
-- [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe
+- [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Verbotene und eingeschränkt zulässige Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe
 - [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/9918094?hl=de), Google Unternehmensprofil-Hilfe
 - [Beiträge in Ihrem Unternehmensprofil erstellen und verwalten](https://support.google.com/business/answer/7342169?hl=de), Google Unternehmensprofil-Hilfe
 - [Änderungen an der Chatfunktion und Anrufliste in Google Unternehmensprofil](https://support.google.com/business/answer/14919056?hl=de), Google Unternehmensprofil-Hilfe

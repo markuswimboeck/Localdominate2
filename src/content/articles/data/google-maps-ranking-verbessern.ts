@@ -45,7 +45,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Daraus folgt eine unbequeme, aber nützliche Erkenntnis: Sie können nicht überall im Umkreis oben stehen. Ein Betrieb am Stadtrand wird für Suchende in der Innenstadt meist hinter näher gelegenen Wettbewerbern erscheinen. Ziel ist, im eigenen Einzugsgebiet für die richtigen Suchen so weit vorne zu stehen, wie es Ihr Angebot rechtfertigt.",
+          text: "Daraus folgt eine unbequeme, aber nützliche Erkenntnis: Sie können nicht überall im Umkreis oben stehen. Ein Betrieb am Stadtrand kann für Suchende in der Innenstadt hinter näher gelegenen Wettbewerbern erscheinen. Ziel ist, im eigenen Einzugsgebiet für die richtigen Suchen so weit vorne zu stehen, wie es Ihr Angebot rechtfertigt.",
         },
         {
           t: "note",
@@ -204,7 +204,7 @@ const article: V4Article = {
           rows: [
             ["Alle Kunden um eine ehrliche Bewertung bitten", "Nur zufriedene Kunden gezielt fragen oder negative Bewertungen verhindern"],
             ["Link in Bestätigungsmail, auf Rechnung oder als QR-Code am Empfang", "Geld, Rabatte oder Gratisleistungen für eine Bewertung"],
-            ["Auf jede Bewertung sachlich antworten", "Bewertungen von Mitarbeitenden oder über mehrere eigene Konten"],
+            ["Auf Bewertungen sachlich antworten", "Bewertungen von Mitarbeitenden oder über mehrere eigene Konten"],
           ],
         },
         {
@@ -262,7 +262,7 @@ const article: V4Article = {
       id: "fehler",
       title: "Was Ihrem Ranking schadet",
       answer:
-        "Die meisten Abstürze und Sperrungen gehen auf Abkürzungen zurück, die gegen Googles Richtlinien verstoßen. Sie wirken kurzfristig verlockend und gefährden das ganze Profil.",
+        "Abkürzungen, die gegen Googles Richtlinien verstoßen, können das ganze Profil gefährden. Sie wirken kurzfristig verlockend, doch Google kann Profile einschränken und Inhalte entfernen.",
       blocks: [
         {
           t: "table",
@@ -270,7 +270,7 @@ const article: V4Article = {
           head: ["Fehler", "Warum er schadet"],
           rows: [
             ["Ort oder Leistung im Firmennamen („Hotel Alpenblick Wellness Zell am See“, wenn das Haus nur „Hotel Alpenblick“ heißt)", "Verstößt gegen die Namensrichtlinie, kann gemeldet und korrigiert werden, das Profil kann gesperrt werden"],
-            ["Virtuelles Büro oder Briefkastenadresse, um näher an der Stadtmitte zu sein", "Laut Google nicht zulässig, häufiger Grund für eine Sperrung"],
+            ["Virtuelles Büro oder Briefkastenadresse, um näher an der Stadtmitte zu sein", "Laut Google kann für eine solche Adresse kein Unternehmensprofil erstellt werden"],
             ["Zweites Profil für denselben Standort", "Google erlaubt ein Profil je Standort, Duplikate werden zusammengeführt oder entfernt"],
             ["Gekaufte, belohnte oder gefilterte Bewertungen", "Werden als manipuliert entfernt, das Profil kann eingeschränkt werden"],
             ["Viele Kategorien „zur Sicherheit“", "Verwässert die Relevanz und widerspricht Googles Vorgabe, so wenige wie möglich zu wählen"],
@@ -311,7 +311,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Wie lange dauert es, bis sich mein Maps-Ranking verbessert?",
-      a: "Korrekturen an den Profildaten sind oft nach Googles Prüfung sichtbar. Bis sich Positionen über Ihr Einzugsgebiet stabil verändern, vergehen meist Wochen bis Monate, je nach Wettbewerb. Feste Zeiträume oder Plätze kann niemand seriös zusagen.",
+      a: "Korrekturen an den Profildaten sind oft nach Googles Prüfung sichtbar. Bis sich Positionen über Ihr Einzugsgebiet stabil verändern, kann es Wochen bis Monate dauern, je nach Wettbewerb. Feste Zeiträume oder Plätze kann niemand seriös zusagen.",
     },
     {
       q: "Warum sehe ich mich auf dem Handy oben, meine Kunden aber nicht?",
@@ -335,9 +335,9 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
-    { title: "Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
+    { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Verbotene und eingeschränkt zulässige Inhalte", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
     { title: "Leistung und Statistiken Ihres Unternehmensprofils", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9918094?hl=de" },
     { title: "Beiträge in Ihrem Unternehmensprofil erstellen und verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7342169?hl=de" },
     { title: "Änderungen an der Chatfunktion und Anrufliste in Google Unternehmensprofil", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/14919056?hl=de" },

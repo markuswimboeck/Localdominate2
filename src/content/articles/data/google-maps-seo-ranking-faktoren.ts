@@ -164,7 +164,7 @@ const article: V4Article = {
           items: [
             { title: "Profil bestätigen und Daten korrigieren", text: "Name, Adresse oder Einzugsgebiet, Telefon, Website, Öffnungs- und Sonderzeiten. Von Google bestätigt." },
             { title: "Hauptkategorie und Leistungen schärfen", text: "Die genaueste Kategorie und jede gesuchte Leistung einzeln. Von Google als Relevanz beschrieben, in der Umfrage auf Platz 1." },
-            { title: "Bewertungen als Ablauf", text: "Alle Kunden fragen, auf jede Rezension antworten. Von Google bestätigt." },
+            { title: "Bewertungen als Ablauf", text: "Alle Kunden um ehrliche Bewertungen bitten und sachlich antworten. Dass mehr Rezensionen und positive Bewertungen das Ranking verbessern können, bestätigt Google." },
             { title: "Website und lokale Erwähnungen", text: "Eine Seite je wichtiger Leistung, Links von Verbänden, Partnern und Presse. Verweisende Websites sind von Google bestätigt." },
             { title: "Öffnungszeiten ehrlich und vollständig", text: "Falls die Öffnung zur Suchzeit zählt, profitieren Sie von korrekten Zeiten. Wenn nicht, profitieren in jedem Fall Ihre Kunden." },
             { title: "Messen statt glauben", text: "Monatlich Raster über das Einzugsgebiet und Leistungsdaten des Profils vergleichen." },

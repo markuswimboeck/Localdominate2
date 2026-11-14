@@ -101,7 +101,7 @@ const article: V4Article = {
           items: [
             {
               title: "Hauptkategorie prüfen",
-              text: "Wenn Sie überwiegend Nägel machen, passt eine andere Hauptkategorie als bei einem Studio für Gesichtsbehandlungen. Unsere Empfehlung: Entscheiden Sie nach Ihrem Umsatz, nicht nach der Größe der Suche. Google verlangt, dass die Hauptkategorie Ihr Unternehmen als Ganzes beschreibt.",
+              text: "Wenn Sie überwiegend Nägel machen, passt eine andere Hauptkategorie als bei einem Studio für Gesichtsbehandlungen. Unsere Empfehlung: Entscheiden Sie nach Ihrem Umsatz, nicht nach der Größe der Suche. Google verlangt eine primäre Kategorie, die Ihr Unternehmen am besten beschreibt.",
             },
             {
               title: "Leistungen eintragen",
@@ -109,7 +109,7 @@ const article: V4Article = {
             },
             {
               title: "Name wie auf dem Schild",
-              text: "Im Firmennamen stehen nur der echte Name, keine Behandlungen oder Ortsnamen als Zusatz. Solche Zusätze lässt Googles Richtlinie in der Regel nicht zu.",
+              text: "Im Firmennamen stehen nur der echte Name, keine Behandlungen oder Ortsnamen als Zusatz. Solche Zusätze lässt Googles Richtlinie nicht zu.",
             },
             {
               title: "Fotos von Ihren Räumen und Ihrer Arbeit",
@@ -153,7 +153,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Eine ausführlichere Darstellung zur Werbung mit Behandlungen finden Sie im Beitrag für [Arztpraxen](/blog/local-seo-aerzte-praxen). Beachten Sie außerdem: Invasive Verfahren wie Unterspritzungen oder tiefe Peelings können berufsrechtlich der Heilkunde zugerechnet werden. Klären Sie vor dem Angebot, ob Ihre Qualifikation dafür ausreicht.",
+          text: "Eine ausführlichere Darstellung zur Werbung mit Behandlungen finden Sie im Beitrag für [Arztpraxen](/blog/local-seo-aerzte-praxen). Beachten Sie außerdem: Invasive Verfahren wie Unterspritzungen können der Heilkunde zugerechnet werden und gehören dann nicht mehr zur Kosmetik. Klären Sie vor dem Angebot mit der zuständigen Behörde, ob Ihre Qualifikation dafür ausreicht.",
         },
       ],
     },
@@ -161,19 +161,18 @@ const article: V4Article = {
       id: "geraete",
       title: "Laser, IPL und Geräte: die NiSV",
       answer:
-        "Wer in einem Studio Laser, intensive Lichtquellen oder bestimmte Stimulationsgeräte nutzt, braucht nach der NiSV einen Fachkundenachweis. Manche Anwendungen, etwa die Entfernung von Tattoos und Permanent Make-up, sind Ärzten mit Weiterbildung vorbehalten.",
+        "Wer in einem Studio Laser oder intensive Lichtquellen nutzt, braucht nach der NiSV einen Fachkundenachweis. Manche Anwendungen, etwa die Entfernung von Tattoos und Permanent Make-up, sind Ärztinnen und Ärzten vorbehalten.",
       blocks: [
         {
           t: "p",
-          text: "Die Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung (NiSV) gilt für gewerbliche Anwendungen zu kosmetischen Zwecken, zum Beispiel mit Laser und intensiven Lichtquellen wie bei der Haarentfernung. Nach dem Merkblatt der Gewerbeaufsicht Bayern gilt für Laser und intensive Lichtquellen seit dem 31. Dezember 2021 die Pflicht zum Nachweis der Fachkunde. Die Entfernung von Tattoos und Permanent Make-up zählt zu den Anwendungen, die approbierten Ärztinnen und Ärzten mit entsprechender Weiterbildung vorbehalten sind, ebenso etwa ablative Laseranwendungen.",
+          text: "Die Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung (NiSV) gilt für gewerbliche Anwendungen zu kosmetischen Zwecken, zum Beispiel mit Laser und intensiven Lichtquellen wie bei der Haarentfernung. Für Laser und intensive Lichtquellen ist ein Nachweis der Fachkunde nötig. Welche Fristen und Anwendungen im Einzelnen gelten, steht im Merkblatt der Gewerbeaufsicht Bayern. Die Entfernung von Tattoos und Permanent Make-up zählt zu den Anwendungen, die approbierten Ärztinnen und Ärzten vorbehalten sind.",
         },
         {
           t: "ul",
           items: [
             "Beschreiben Sie auf Ihrer Website nur Behandlungen, die Sie nach Ihrer Qualifikation rechtlich durchführen dürfen.",
             "Nennen Sie Ihre Ausbildung und Zertifikate, wenn Sie sie haben. Das schafft Vertrauen und ist sachlich überprüfbar.",
-            "Bei Kombigeräten mit mehreren Verfahren gilt die Fachkunde für jedes eingesetzte Verfahren.",
-            "Klären Sie Fragen zu Ihrem Gerät und Ihrer Qualifikation mit der zuständigen Behörde, bevor Sie die Behandlung bewerben.",
+                "Klären Sie Fragen zu Ihrem Gerät und Ihrer Qualifikation mit der zuständigen Behörde, bevor Sie die Behandlung bewerben.",
           ],
         },
       ],
@@ -186,7 +185,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Bilder von fertiger Arbeit sind bei Nägeln und Wimpern das stärkste Argument. Fragen Sie die Kundin oder den Kunden vor dem Foto, halten Sie die Einwilligung schriftlich fest, weisen Sie auf die Möglichkeit des Widerrufs hin und zeigen Sie Gesichter nur, wenn die Person zugestimmt hat. Bilder der Haut können Gesundheitsdaten sein, lassen Sie dafür ausdrücklich einwilligen. Vorher-Nachher-Bilder sind riskant, sobald die Behandlung als Eingriff gilt oder eine Heilwirkung behauptet wird, siehe oben.",
+          text: "Bilder von fertiger Arbeit sind bei Nägeln und Wimpern das stärkste Argument. Fragen Sie die Kundin oder den Kunden vor dem Foto, halten Sie die Einwilligung schriftlich fest, weisen Sie auf die Möglichkeit des Widerrufs hin und zeigen Sie Gesichter nur, wenn die Person zugestimmt hat. Bilder der Haut können je nach Fall Gesundheitsdaten sein, lassen Sie dann ausdrücklich einwilligen. Vorher-Nachher-Bilder sind riskant, sobald die Behandlung als Eingriff gilt oder eine Heilwirkung behauptet wird, siehe oben.",
         },
         {
           t: "p",
@@ -247,7 +246,7 @@ const article: V4Article = {
     },
     {
       q: "Darf ich Laser- oder IPL-Behandlungen anbieten?",
-      a: "Für Laser und intensive Lichtquellen verlangt die NiSV einen Fachkundenachweis. Manche Anwendungen, etwa die Entfernung von Tattoos, sind Ärztinnen und Ärzten mit Weiterbildung vorbehalten. Klären Sie Ihre Qualifikation, bevor Sie die Behandlung bewerben.",
+      a: "Für Laser und intensive Lichtquellen verlangt die NiSV einen Fachkundenachweis. Manche Anwendungen, etwa die Entfernung von Tattoos, sind Ärztinnen und Ärzten vorbehalten. Klären Sie Ihre Qualifikation, bevor Sie die Behandlung bewerben.",
     },
     {
       q: "Was kostet Local SEO für ein Kosmetikstudio?",
@@ -260,12 +259,12 @@ const article: V4Article = {
   ],
   sources: [
     {
-      title: "Tipps zur Verbesserung des lokalen Rankings bei Google",
+      title: "Ranking in lokalen Suchergebnissen auf Google verbessern",
       publisher: "Google Unternehmensprofil-Hilfe",
       url: "https://support.google.com/business/answer/7091?hl=de",
     },
     {
-      title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google",
+      title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google",
       publisher: "Google Unternehmensprofil-Hilfe",
       url: "https://support.google.com/business/answer/3038177?hl=de",
     },
@@ -280,7 +279,7 @@ const article: V4Article = {
       url: "https://support.google.com/business/answer/9455399?hl=de",
     },
     {
-      title: "Heilmittelwerbegesetz (HWG), insbesondere § 3 und § 11",
+      title: "Gesetz über die Werbung auf dem Gebiete des Heilwesens (Heilmittelwerbegesetz, HWG), insbesondere § 3 und § 11",
       publisher: "Bundesministerium der Justiz, gesetze-im-internet.de",
       url: "https://www.gesetze-im-internet.de/heilmwerbg/",
     },

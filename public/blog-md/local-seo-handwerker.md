@@ -51,22 +51,22 @@ Google sortiert lokale Ergebnisse nach Relevanz, Entfernung und Bekanntheit. Wie
 
 Empfangen Sie keine Kunden an Ihrer Betriebsadresse, entfernen Sie die Adresse aus dem Profil und legen Sie ein Einzugsgebiet fest. Haben Sie eine Ausstellung oder Werkstatt mit Kundenverkehr und Personal zu den Öffnungszeiten, dürfen Sie Adresse und Einzugsgebiet zeigen.
 
-Google nennt das „Unternehmen ohne festen Standort in einem Einzugsgebiet“. Typisch ist ein Installateur, der vom Büro oder von zu Hause aus zu den Kunden fährt. Google verlangt in diesem Fall, dass die Adresse nicht angezeigt wird. Gefunden werden Sie trotzdem, und zwar bei Suchen in den Gebieten, die Sie angeben.
+Google nennt das „Unternehmen ohne festen Standort in einem Einzugsgebiet“. Typisch ist ein Installateur, der vom Büro oder von zu Hause aus zu den Kunden fährt. Google sagt dazu, dass Sie die Adresse in diesem Fall aus dem Profil entfernen sollen. Gefunden werden Sie trotzdem, und zwar bei Suchen in den Gebieten, die Sie angeben.
 
 1. **Adresse ausblenden.** Wenn an Ihrer Adresse keine Kunden empfangen werden, entfernen Sie sie im Profil.
 2. **Gebiete wählen.** Tragen Sie Städte, Gemeinden oder Postleitzahlen ein, in denen Sie wirklich arbeiten. Google erlaubt bis zu 20 Gebiete und empfiehlt, dass das Gebiet nicht weiter als etwa zwei Autostunden vom Betrieb entfernt liegt.
 3. **Nur ein Profil.** Ein Betrieb ohne beschilderten Standort darf genau ein Profil haben. Zusätzliche Profile für Orte, an denen Sie keine echte Niederlassung mit eigenem Personal haben, sind nicht zulässig.
 
-> **Keine Scheinadressen:** Eine gemietete Postanschrift ohne echten Betrieb dahinter darf kein Profil bekommen. Ein Coworking-Büro ist nur zulässig, wenn es beschildert ist und dort während der Öffnungszeiten eigene Mitarbeiter Kunden empfangen. Wer mit Briefkastenadressen in Nachbarstädten „Filialen“ anlegt, riskiert die Sperrung aller Profile.
+> **Keine Scheinadressen:** Eine gemietete Postanschrift ohne echten Betrieb dahinter darf kein Profil bekommen. Ein Coworking-Büro ist nur zulässig, wenn es beschildert ist und dort während der Öffnungszeiten eigene Mitarbeiter Kunden empfangen. Wer mit Briefkastenadressen in Nachbarstädten „Filialen“ anlegt, riskiert die Sperrung der Profile.
 
 ## Name, Kategorie und Leistungen im Profil
 
 Der Name im Profil muss dem echten Firmennamen entsprechen, ohne Zusätze wie Ort, Leistung oder „24 Stunden“. Die Hauptkategorie beschreibt Ihr Gewerk so genau wie möglich, die Leistungen tragen Sie einzeln ein.
 
-- **Name:** „Haustechnik Huber GmbH“ ist richtig. „Huber Heizung Sanitär Notdienst München 24h“ verstößt gegen Googles Richtlinien. Google nennt Öffnungszeiten und Hinweise wie „24 Stunden geöffnet“ ausdrücklich als unzulässige Namenszusätze.
+- **Name:** „Haustechnik Huber“ ist richtig. „Huber Heizung Sanitär Notdienst München 24h“ verstößt gegen Googles Richtlinien. Google nennt Öffnungszeiten und Hinweise wie „24 Stunden geöffnet“ ausdrücklich als unzulässige Namenszusätze.
 - **Hauptkategorie:** Wählen Sie den Eintrag aus Googles Liste, der Ihr Kerngewerk am genauesten trifft, und ergänzen Sie nur wenige weitere. Hilfe bei der Auswahl gibt der [Kategorien-Leitfaden](https://localdominate.org/blog/google-business-kategorien-guide).
 - **Leistungen:** Tragen Sie jede Leistung einzeln ein, zum Beispiel Badsanierung, Heizungswartung, Wärmepumpeninstallation, Rohrreinigung. Das hilft Google, Ihr Profil konkreten Suchen zuzuordnen.
-- **Beschreibung:** Sachlich erklären, was Sie machen, für wen und in welcher Region. Keine Preise oder Aktionen.
+- **Beschreibung:** Sachlich erklären, was Sie machen, für wen und in welcher Region.
 - **Telefonnummer:** Eine Nummer, unter der zu den angegebenen Zeiten wirklich jemand abnimmt.
 
 Name, Telefonnummer und Website sollten im Profil, im Impressum und in Verzeichnissen gleich geschrieben sein. Wie Sie Abweichungen finden, zeigt der Artikel [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo). Die vollständige Anleitung zum Profil steht in [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren).
@@ -184,7 +184,7 @@ Wenn Sie Ihr Profil nicht selbst durchgehen wollen: Beim Google Profile Quick-Fi
 
 ### Muss ich als Handwerker meine Adresse bei Google zeigen?
 
-Nein. Wenn Sie an Ihrer Adresse keine Kunden empfangen, verlangt Google sogar, dass Sie die Adresse aus dem Profil entfernen und stattdessen ein Einzugsgebiet angeben. Nur wenn Sie eine Ausstellung oder Werkstatt mit Kundenverkehr und Personal haben, zeigen Sie Adresse und Einzugsgebiet.
+Nein. Wenn Sie an Ihrer Adresse keine Kunden empfangen, sollen Sie laut Google die Adresse aus dem Profil entfernen und stattdessen ein Einzugsgebiet angeben. Nur wenn Sie eine Ausstellung oder Werkstatt mit Kundenverkehr und Personal haben, zeigen Sie Adresse und Einzugsgebiet.
 
 ### Wie groß darf mein Einzugsgebiet sein?
 
@@ -211,10 +211,11 @@ Die Grundlagen kosten Zeit, das Unternehmensprofil selbst ist kostenlos. Bei Loc
 - [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
 - [Einzugsgebiete für Unternehmen ohne festen Standort und Hybridunternehmen verwalten](https://support.google.com/business/answer/9157481?hl=de), Google Unternehmensprofil-Hilfe
 - [Spamrichtlinien für die Google Websuche (Missbrauch von Brückenseiten)](https://developers.google.com/search/docs/essentials/spam-policies?hl=de), Google Search Central
-- [Verbotene und eingeschränkt zulässige Inhalte (Rezensionen)](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe
+- [Verbotene und eingeschränkt zulässige Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Richtlinien für von Maps-Nutzern veröffentlichte Inhalte-Hilfe
 - [Fotos und Videos in Ihrem Unternehmensprofil verwalten](https://support.google.com/business/answer/6103862?hl=de), Google Unternehmensprofil-Hilfe
+- [Kundenrezensionen verwalten](https://support.google.com/business/answer/3474050?hl=de), Google Unternehmensprofil-Hilfe
 - [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/9918094?hl=de), Google Unternehmensprofil-Hilfe
-- [Google Lokale Dienstleistungen im Überblick](https://support.google.com/localservices/answer/6224841?hl=de), Google Lokale Dienstleistungen-Hilfe
+- [Google Lokale Dienstleistungen im Überblick](https://support.google.com/localservices/answer/6224841?hl=de), Local Services-Hilfe
 - [Handwerksordnung (HwO), § 1](https://www.gesetze-im-internet.de/hwo/__1.html), Bundesministerium der Justiz, gesetze-im-internet.de
 
 ---

@@ -26,7 +26,7 @@ Makler werden über Local SEO gefunden, wenn Google ihr Unternehmensprofil, ihre
 ## Das Wichtigste in Kürze
 
 - Verkäufer und Käufer suchen mit unterschiedlichen Begriffen. Beide Gruppen brauchen Seiten mit Ortsbezug und echten Inhalten.
-- Google nennt Relevanz, Entfernung und Bekanntheit als Grundlage lokaler Ergebnisse. Vollständige und genaue Profilangaben erhöhen die Chance, dort zu erscheinen.
+- Google nennt Relevanz, Entfernung und Bekanntheit als Grundlage lokaler Ergebnisse. Vollständige und korrekte Profilangaben erhöhen die Chance, dort zu erscheinen.
 - Ein besseres lokales Ranking lässt sich bei Google weder anfordern noch bezahlen. Pro Standort ist ein Profil vorgesehen, Duplikate sind nicht zulässig.
 - Bitten Sie alle Kunden um eine Bewertung, ohne Gegenleistung. Anreize wie Rabatte oder Geschenke sind laut Google streng verboten.
 - Messen Sie Anrufe, Wegbeschreibungen und Anfragen. Positionen allein sagen wenig darüber, ob Anfragen kommen.
@@ -49,14 +49,14 @@ Welche Begriffe in Ihrem Ort tatsächlich gesucht werden, lesen Sie nicht aus ei
 
 ## Das Unternehmensprofil richtig einrichten
 
-Google nennt Relevanz, Entfernung und Bekanntheit als Grundlage lokaler Ergebnisse. Vollständige und genaue Angaben im Profil erhöhen laut Google die Chance, dort zu erscheinen.
+Google nennt Relevanz, Entfernung und Bekanntheit als Grundlage lokaler Ergebnisse. Vollständige und korrekte Angaben im Profil erhöhen laut Google die Chance, dort zu erscheinen.
 
 Die Entfernung zum Suchenden können Sie nicht verschieben, nur korrekt angeben. Relevanz und Bekanntheit können Sie dagegen aktiv beeinflussen, vor allem über vollständige Angaben im Profil und über Bewertungen.
 
 1. **Name wie auf dem Schild.** Der Name muss dem realen Namen Ihres Unternehmens entsprechen. Zusätze mit Ort, Leistung oder Werbeslogan sind laut Google nicht erlaubt.
 2. **Kategorien genau und wenige.** Wählen Sie die Kategorien, die Ihr Kerngeschäft am genauesten beschreiben, und möglichst wenige. Die Kategorie soll den Satz „Dieses Unternehmen ist ein …“ vervollständigen, nicht „hat ein …“.
 3. **Adresse oder Einzugsgebiet.** Empfangen Sie Kunden im Büro, geben Sie die Büroadresse an. Fahren Sie zu Ihren Kunden und haben kein Ladengeschäft, kann ein Einzugsgebiet mit ausgeblendeter Adresse passen. Eine gemietete Adresse ohne besetztes Büro ist kein zulässiger Standort.
-4. **Ein Profil pro Standort.** Jeder Standort mit eigener Adresse bekommt ein Profil. Ein zweites Profil für denselben Standort ist nicht zulässig, auch nicht über ein anderes Konto.
+4. **Ein Profil pro Standort.** Jeder Standort mit eigener Adresse bekommt ein Profil. Mehrere Profile für denselben Standort sind nicht vorgesehen.
 5. **Leistungen einzeln eintragen.** Tragen Sie Verkauf, Vermietung, Bewertung und Verwaltung einzeln ein, soweit Sie diese Leistungen anbieten. Die Beschreibung nennt sachlich, welche Leistungen und Orte Sie abdecken.
 6. **Änderungen kontrollieren.** Google kann Änderungen am Profil ablehnen. Prüfen Sie nach jeder Änderung, ob sie übernommen wurde.
 
@@ -94,11 +94,11 @@ Google schreibt, dass mehr Bewertungen und positive Bewertungen das lokale Ranki
 
 Name, Adresse und Telefonnummer sollten im Profil, auf der Website, im Impressum und in Verzeichnissen gleich geschrieben sein. Widersprüche verwirren Google und Interessenten gleichermaßen.
 
-Ein Makler mit einer alten Telefonnummer auf einem Portal und einer neuen auf der Website erzeugt genau diesen Widerspruch. Google sagt, dass vollständige und genaue Angaben eher in lokalen Ergebnissen erscheinen. Deshalb gleichen Sie alle Angaben einmal vollständig ab.
+Ein Makler mit einer alten Telefonnummer auf einem Portal und einer neuen auf der Website erzeugt genau diesen Widerspruch. Google sagt, dass Unternehmen mit vollständigen und korrekten Informationen eher in lokalen Ergebnissen erscheinen. Deshalb gleichen Sie alle Angaben einmal vollständig ab.
 
 - **Startseite und Kontaktseite.** Adresse, Telefonnummer, E-Mail und Öffnungszeiten stehen als Text auf der Seite, nicht nur als Bild. Die Telefonnummer lässt sich auf dem Handy mit einem Tipp anrufen.
 - **Impressum.** Die Firmendaten im Impressum entsprechen dem Profil. Welche Pflichtangaben gelten, klärt Ihr Berater oder die zuständige Kammer. Dieser Text ersetzt keine Rechtsauskunft.
-- **Verzeichnisse und Portale.** Pflegen Sie Ihre Einträge dort, wo Ihre Kunden suchen, etwa bei ImmobilienScout24, Immonet oder Immowelt. Ein veralteter Eintrag widerspricht Ihren anderen Angaben und sollte korrigiert oder entfernt werden.
+- **Verzeichnisse und Portale.** Pflegen Sie Ihre Einträge dort, wo Ihre Kunden suchen, etwa bei den großen Immobilienportalen. Ein veralteter Eintrag widerspricht Ihren anderen Angaben und sollte korrigiert oder entfernt werden.
 - **Strukturierte Daten.** Name, Adresse und Telefonnummer lassen sich auch als strukturierte Daten auf der Website hinterlegen. Wie das für lokale Unternehmen aussieht, erklärt der Artikel [Schema Markup für lokale Unternehmen](https://localdominate.org/blog/schema-markup-local-seo).
 
 Für den Abgleich der Einträge eignet sich der Artikel [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo).
@@ -120,7 +120,7 @@ Gekaufte Linkpakete bringen für den Ort wenig. Setzen Sie auf Quellen, die Ihre
 
 Messen Sie Anrufe, Wegbeschreibungen, Website-Klicks und Anfragen, nicht nur Positionen in der Suche. Die Leistungsdaten im Unternehmensprofil zeigen die meisten dieser Werte direkt.
 
-Unter Leistung und Statistiken zeigt Google im Profil unter anderem Aufrufe, Suchanfragen, Anrufe, Wegbeschreibungen und Websiteklicks. Die Suchanfragen werden laut Google zu Beginn des Monats aktualisiert, die Anzeige kann bis zu fünf Tage dauern.
+Unter „Leistung“ zeigt Google im Profil unter anderem Aufrufe, Suchanfragen, Anrufe, Wegbeschreibungen und Websiteklicks. Die Suchanfragen werden laut Google zu Beginn des Monats aktualisiert, die Anzeige kann bis zu fünf Tage dauern.
 
 *Was Sie regelmäßig vergleichen*
 
@@ -144,7 +144,7 @@ Eine feste Zeitspanne nennen wir nicht. Google kann Profiländerungen ablehnen, 
 
 ### Darf ich für jedes Büro ein eigenes Profil anlegen?
 
-Ja, pro Standort ist ein Profil vorgesehen. Mehrere Profile für denselben Standort sind dagegen nicht zulässig, auch nicht über verschiedene Konten.
+Ja, pro Standort ist ein Profil vorgesehen. Mehrere Profile für denselben Standort sind dagegen nicht vorgesehen.
 
 ### Darf ich Kunden um Bewertungen bitten?
 
@@ -152,11 +152,12 @@ Ja, aber bitten Sie alle Kunden auf dieselbe Weise. Google schreibt, dass eine M
 
 ## Quellen
 
-- [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
 - [Tipps für mehr Rezensionen](https://support.google.com/business/answer/3474122?hl=de), Google Unternehmensprofil-Hilfe
 - [Link oder QR-Code zum Anfordern von Rezensionen erstellen](https://support.google.com/business/answer/16816815?hl=de), Google Unternehmensprofil-Hilfe
 - [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/9918094?hl=de), Google Unternehmensprofil-Hilfe
+- [Verbotene und eingeschränkt zulässige Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Richtlinien für von Maps-Nutzern veröffentlichte Inhalte-Hilfe
 
 ---
 
