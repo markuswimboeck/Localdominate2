@@ -3081,6 +3081,28 @@ export const blogArticles: BlogArticle[] = [
     keywords: ["gbp verifizierung", "google verifizierung fehlgeschlagen", "postkarte nicht erhalten", "verifizierungscode", "video verifizierung"]
   },
   {
+    slug: "google-unternehmensprofil-erstellen",
+    de: {
+      title: "Google Unternehmensprofil erstellen: Schritt-für-Schritt-Anleitung für Deutschland, Österreich und die Schweiz",
+      metaTitle: "Google Unternehmensprofil erstellen: kostenlose Anleitung",
+      metaDescription: "Google Unternehmensprofil kostenlos erstellen: Voraussetzungen, Name, Kategorie, Einzugsgebiet, Bestätigung, Erstellen lassen und typische Fehler.",
+      excerpt: "Google Unternehmensprofil kostenlos erstellen: Voraussetzungen, Name, Kategorie, Einzugsgebiet, Bestätigung, Erstellen lassen und typische Fehler.",
+      category: "Google Business"
+    },
+    en: {
+      title: "How to Create a Google Business Profile: Step-by-Step Guide",
+      metaTitle: "Create a Google Business Profile: Free Step-by-Step Guide",
+      metaDescription: "Create a Google Business Profile for free: who is eligible, name, category, service area, verification, having it set up for you and typical mistakes.",
+      excerpt: "Create a Google Business Profile for free: eligibility, name, category, service area, verification and typical mistakes.",
+      category: "Google Business"
+    },
+    readingTime: 11,
+    publishedAt: "2026-11-14",
+    updatedAt: "2026-11-14",
+    icon: "🏪",
+    keywords: ["google unternehmensprofil erstellen", "google unternehmensprofil einrichten", "firma bei google eintragen", "unternehmen bei google eintragen", "google business profil erstellen", "google unternehmensprofil kostenlos"]
+  },
+  {
     slug: "duplicate-listing-entfernen",
     de: {
       title: "Doppelte Google-Einträge finden und entfernen: alle offiziellen Wege",
