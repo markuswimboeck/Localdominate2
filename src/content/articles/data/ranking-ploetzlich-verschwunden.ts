@@ -14,8 +14,8 @@ const article: V4Article = {
     "Prüfen Sie zuerst, ob der Betrieb wirklich verschwunden ist: Suche nach dem Namen, Messung von mehreren Punkten im Einzugsgebiet. Dann folgt der Profilstatus (gesperrt, eingeschränkt, als Duplikat eingestuft), danach kürzliche Änderungen an Name, Adresse oder Kategorie. Erst wenn das alles stimmt, lohnt der Blick auf Wettbewerber, Spam und bestätigte Google-Updates.",
   takeaways: [
     "Eine einzelne Suche auf dem eigenen Handy ist keine Messung. Google sortiert lokale Ergebnisse auch nach der Entfernung zum Suchenden.",
-    "Findet die Suche nach dem eigenen Namen das Profil nicht, liegt meist ein Problem am Profil selbst vor: Sperrung, Einschränkung oder Duplikat.",
-    "Änderungen am Profil prüft Google vorab. Das dauert laut Google meist bis zu zehn Minuten, manchmal bis zu 30 Tage. Nach einer Änderung von Name, Adresse oder Kategorie kann eine erneute Bestätigung nötig werden.",
+    "Findet die Suche nach dem eigenen Namen das Profil nicht, spricht das für ein Problem am Profil selbst: Sperrung, Einschränkung oder Duplikat.",
+    "Änderungen am Profil prüft Google vorab. Das dauert laut Google meist bis zu zehn Minuten, manchmal bis zu 30 Tage. Nach einer Änderung der Kategorie kann eine erneute Bestätigung nötig werden.",
     "Ob ein grundlegendes Google-Update lief, sehen Sie im Search Status Dashboard. Namen von Updates aus Foren und Tools sind Vermutungen.",
     "Legen Sie während einer Prüfung oder eines Einspruchs kein zweites Profil an. Das macht die Lage schlechter.",
   ],
@@ -38,7 +38,7 @@ const article: V4Article = {
           items: [
             {
               title: "Nach dem Namen suchen",
-              text: "Suchen Sie in Google Maps und in der Google Suche nach dem genauen Firmennamen und dem Ort. Erscheint das Profil hier nicht, liegt das Problem sehr wahrscheinlich am Profil selbst. Dann gehen Sie direkt zum Abschnitt über den Profilstatus.",
+              text: "Suchen Sie in Google Maps und in der Google Suche nach dem genauen Firmennamen und dem Ort. Erscheint das Profil hier nicht, spricht das für ein Problem am Profil selbst. Dann gehen Sie direkt zum Abschnitt über den Profilstatus.",
             },
             {
               title: "Nach der Leistung suchen",
@@ -65,7 +65,7 @@ const article: V4Article = {
       id: "entscheidungsbaum",
       title: "Der Entscheidungsbaum: vom Symptom zur Ursache",
       answer:
-        "Das Muster des Verlusts verrät viel über die Ursache. Fehlt das Profil auch bei der Namenssuche, liegt es fast immer am Profil. Fällt es nur bei bestimmten Begriffen oder in einem Teil des Gebiets, sind eher Kategorie, Wettbewerber oder Spam zu prüfen.",
+        "Das Muster des Verlusts verrät viel über die Ursache. Fehlt das Profil auch bei der Namenssuche, ist zuerst das Profil selbst zu prüfen. Fällt es nur bei bestimmten Begriffen oder in einem Teil des Gebiets, sind eher Kategorie, Wettbewerber oder Spam zu prüfen.",
       blocks: [
         {
           t: "table",
@@ -83,7 +83,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Gehen Sie die Zeilen von oben nach unten durch. Die oberen Ursachen lassen sich schnell ausschließen und haben die größte Wirkung. Wer sofort an ein Google-Update denkt, übersieht leicht eine abgelehnte Änderung oder eine Sperrung.",
+          text: "Gehen Sie die Zeilen von oben nach unten durch. Die oberen Ursachen lassen sich schnell ausschließen. Wer sofort an ein Google-Update denkt, übersieht leicht eine abgelehnte Änderung oder eine Sperrung.",
         },
       ],
     },
@@ -95,14 +95,14 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Öffnen Sie das Profil mit dem Google-Konto, mit dem es verwaltet wird. Achten Sie auf Hinweise zu einer Sperrung oder Einschränkung und auf E-Mails von Google. Im Einspruchstool sehen Sie laut Google das betroffene Profil, den Grund für die Moderation und einen Link auf die verletzte Richtlinie.",
+          text: "Öffnen Sie das Profil mit dem Google-Konto, mit dem es verwaltet wird. Achten Sie auf Hinweise zu einer Sperrung oder Einschränkung und auf E-Mails von Google. Im Einspruchstool wählen Sie das betroffene Profil und die Entscheidung aus und können Nachweise und eine Begründung hinzufügen. Einsprüche lassen sich nur einmal einreichen.",
         },
         {
           t: "ul",
           items: [
             "**Profil gesperrt oder deaktiviert:** Das Profil erscheint weder in der Suche noch in Maps. Prüfen Sie zuerst selbst, ob alle Angaben den [Richtlinien](https://support.google.com/business/answer/3038177?hl=de) entsprechen, und legen Sie dann Einspruch ein.",
-            "**Konto eingeschränkt:** Dann sind laut Google alle Profile gesperrt, die das Konto verwaltet. Der Einspruch läuft in diesem Fall zuerst über die Kontoeinstellungen, erst danach über das Profil.",
-            "**Nachweise:** Google nennt Gewerbeanmeldung, Gewerbeschein, Steuerunterlagen oder Versorgerrechnungen. Name und Adresse darauf müssen zum Profil passen. Ein geöffnetes Nachweisformular muss innerhalb von 60 Minuten abgeschickt werden.",
+            "**Konto eingeschränkt:** Dann sind laut Google alle Profile gesperrt, die das Konto verwaltet. Der Einspruch gegen die Kontoeinschränkung läuft in diesem Fall über die Seite „Meine Konten“, erst nach deren Aufhebung kann für das Profil Einspruch eingelegt werden.",
+            "**Nachweise:** Google nennt Gewerbeanmeldung, Gewerbeschein, Steuerunterlagen oder Versorgerrechnungen. Name und Adresse darauf müssen zum Profil passen.",
           ],
         },
         {
@@ -120,21 +120,21 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Viele plötzliche Verluste fallen zeitlich mit einer Änderung zusammen: neuer Name, neue Adresse, andere Hauptkategorie, neue Website. Im Profil finden Sie unter „Status Ihrer Änderungen prüfen“, was aus jeder Änderung geworden ist.",
+          text: "Ein plötzlicher Verlust kann zeitlich mit einer Änderung zusammenfallen: neuer Name, neue Adresse, andere Hauptkategorie, neue Website. Im Profil finden Sie unter „Status Ihrer Änderungen prüfen“, was aus jeder Änderung geworden ist.",
         },
         {
           t: "table",
           caption: "Status einer Änderung und was er bedeutet",
           head: ["Status", "Bedeutung", "Ihr nächster Schritt"],
           rows: [
-            ["In Prüfung", "Google prüft die Änderung noch", "Abwarten, nicht mehrfach neu speichern"],
+            ["Ausstehend", "Google prüft die Änderung noch", "Abwarten, nicht mehrfach neu speichern"],
             ["Nicht genehmigt", "Google konnte die Richtigkeit nicht bestätigen", "Angabe prüfen, belegen und Einspruch gegen die Ablehnung einlegen"],
-            ["Angenommen", "Die Änderung ist im Profil sichtbar", "Messen, ob der Verlust damit zusammenhängt"],
+            ["Akzeptiert", "Die Änderung ist im Profil sichtbar", "Messen, ob der Verlust damit zusammenhängt"],
           ],
         },
         {
           t: "p",
-          text: "Nach einer Namensänderung oder einem Umzug kann laut Google eine **erneute Bestätigung** nötig werden, ebenso nach einer Änderung der Kategorie. Läuft die Bestätigung nicht durch, hilft der Artikel [Bestätigung fehlgeschlagen](/blog/gbp-verifizierung-fehlgeschlagen).",
+          text: "Nach einer Änderung der Kategorie kann laut Google eine **erneute Bestätigung** nötig werden. Läuft die Bestätigung nicht durch, hilft der Artikel [Bestätigung fehlgeschlagen](/blog/gbp-verifizierung-fehlgeschlagen).",
         },
         {
           t: "note",
@@ -177,14 +177,14 @@ const article: V4Article = {
         {
           t: "ul",
           items: [
-            "**Adresse geändert oder umgezogen:** Nach einem Umzug kann laut Google eine erneute Bestätigung nötig sein. Bis sie abgeschlossen ist, prüfen Sie im Profil, ob die neue Adresse schon angenommen wurde.",
+            "**Adresse geändert oder umgezogen:** Prüfen Sie im Status Ihrer Änderungen, ob die neue Adresse schon akzeptiert wurde, und ob Google eine erneute Bestätigung verlangt.",
             "**Adresse ausgeblendet oder Einzugsgebiet geändert:** Prüfen Sie, ob die Angaben noch der Wirklichkeit entsprechen. Was für Betriebe mit und ohne Kundenverkehr gilt, steht in den [Richtlinien für die Darstellung Ihres Unternehmens](https://support.google.com/business/answer/3038177?hl=de).",
             "**Firmendaten im Netz widersprüchlich:** Stehen in Verzeichnissen andere Adressen oder Namen als im Profil, prüfen Sie diese nach der Methode aus [NAP-Konsistenz](/blog/nap-konsistenz-local-seo).",
           ],
         },
         {
           t: "p",
-          text: "Handwerker und mobile Dienste sind besonders oft betroffen, weil sie ohne sichtbaren Standort arbeiten. Wie wir solche Betriebe betreuen, zeigt unsere [englische Seite für Handwerksbetriebe](/industries/trades).",
+          text: "Handwerker und mobile Dienste arbeiten oft ohne sichtbaren Standort, daher sind Adress- und Einzugsgebietsangaben bei ihnen besonders sorgfältig zu prüfen. Wie wir solche Betriebe betreuen, zeigt unsere [englische Seite für Handwerksbetriebe](/industries/trades).",
         },
       ],
     },

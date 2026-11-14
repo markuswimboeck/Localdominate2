@@ -51,9 +51,9 @@ Google verlangt in seinen Richtlinien, so wenige Kategorien wie möglich zu verw
 2. **So genau wie möglich.** Google nennt als Beispiel „Nagelstudio“ statt eines allgemeinen Eintrags. Gibt es keine genaue Kategorie, nehmen Sie die nächstpassende allgemeine.
 3. **Was der Betrieb ist, nicht was er hat.** Ein Motel mit Pool ist laut Google ein „Motel“, nicht „Hotel“ plus „Schwimmbad“. Ausstattung gehört in Attribute und Beschreibung.
 4. **Keine Kategorien als Suchbegriffe.** Google untersagt, Kategorien als Keywords oder zur Beschreibung von Merkmalen zu nutzen. Begriffe, nach denen Kunden suchen, gehören in Leistungen und Website.
-5. **Keine doppelten Oberbegriffe.** Google ergänzt allgemeinere Kategorien teils selbst. Laut Richtlinie bringt „Golfresort“ die Kategorien „Hotel“ und „Golfplatz“ automatisch mit. Diese müssen Sie nicht zusätzlich wählen.
+5. **Keine doppelten Oberbegriffe.** Google ergänzt allgemeinere Kategorien teils selbst. Laut Richtlinie bringt „Golfresort“ die Kategorien „Resorthotel“, „Hotel“ und „Golfplatz“ automatisch mit. Diese müssen Sie nicht zusätzlich wählen.
 
-Google zeigt in den Richtlinien weitere Fälle: Ein Pizzabetrieb, der nur Abholung und Lieferung anbietet, wählt „Pizzalieferdienst“ oder „Pizza zum Mitnehmen“ und keine Restaurant-Kategorie. Eine Fast-Food-Kette wählt eine Fast-Food-Kategorie, auch wenn sie Desserts verkauft. Die Logik ist immer dieselbe: Die Kategorie beschreibt den Betrieb als Ganzes.
+Google zeigt in den Richtlinien weitere Fälle: Ein Pizzabetrieb, der nur Abholung und Lieferung anbietet, wählt „Pizzalieferdienst“ und keine Restaurant-Kategorie. Eine Fast-Food-Kette wählt eine Fast-Food-Kategorie, auch wenn sie Desserts verkauft. Die Logik ist immer dieselbe: Die Kategorie beschreibt den Betrieb als Ganzes.
 
 > **Gut zu wissen:** Eigene Kategorien kann niemand anlegen. Sie wählen aus der Liste, die Google beim Eintippen vorschlägt. Fehlt die genaue Kategorie, nehmen Sie laut Google eine allgemeinere, die zutrifft.
 
@@ -77,7 +77,7 @@ Google nennt in seiner Hilfe drei Beispiele: Hotels können Hotelkategorie und A
 
 | Bereich | Was die Kategorie freischaltet | Was Sie prüfen sollten |
 | --- | --- | --- |
-| Hotels | Hotelkategorie (Sterne) und Hotelausstattung | Ob die Ausstattung vollständig und richtig eingetragen ist |
+| Hotels | Hotelkategorie und Hotelausstattung | Ob die Ausstattung vollständig und richtig eingetragen ist |
 | Restaurants | Links für Onlinebestellung, Reservierung und Speisekarte, Speisekarte direkt im Profil | Ob die Links auf die passende Seite führen und die Speisekarte aktuell ist |
 | Gesundheit und Schönheit | Schaltfläche zum Buchen, Leistungsverzeichnis | Ob der Buchungslink funktioniert und die Leistungen stimmen |
 
@@ -106,18 +106,18 @@ Die folgende Tabelle zeigt Beispiele, wie die Auswahl für fünf verbreitete Bet
 | Hotel oder Pension | „Hotel“, „Pension“ und die Unterkunftsart, die Ihren Betrieb am genauesten beschreibt | Ein weiterer Bereich als eigenes Geschäft zutrifft, ohne eigenen Eingang und eigenen Kundenverkehr | Pool, Sauna, Frühstück (Ausstattung). Ein Restaurant mit eigenem Gästeverkehr bekommt in der Regel ein eigenes Profil |
 | Zahnarztpraxis | „Zahnarzt“ oder die Fachrichtung, falls sich die Praxis darauf beschränkt | Die Praxis tatsächlich auch als weitere Fachrichtung arbeitet | Einzelne Behandlungen wie Zahnreinigung oder Implantate (Leistungen) |
 | Elektrobetrieb | „Elektriker“ und genauere Begriffe für Ihren Schwerpunkt | Sie zum Beispiel zusätzlich ein Ladengeschäft mit Verkauf betreiben | Notdienst, Smart Home, Wallbox-Montage (Leistungen und Öffnungszeiten) |
-| Restaurant | Die Küche oder Form, etwa „italienisches Restaurant“, statt nur „Restaurant“ | Der Betrieb zum Beispiel auch eine eigenständige Bar ist | Terrasse, vegetarische Gerichte (Attribute, Speisekarte). Nur Abholung und Lieferung: Liefer- oder Mitnahme-Kategorie statt Restaurant |
+| Restaurant | Die Küche oder Form, etwa „italienisches Restaurant“, statt nur „Restaurant“ | Der Betrieb zum Beispiel auch eine eigenständige Bar ist | Terrasse, vegetarische Gerichte (Attribute, Speisekarte). Nur Abholung und Lieferung: Lieferdienst-Kategorie statt Restaurant |
 | Steuerberatung | „Steuerberater“ | Die Kanzlei als Betrieb auch etwas anderes ist, nicht nur eine Leistung anbietet | Lohnbuchhaltung, Jahresabschluss, Existenzgründung (Leistungen) |
 
 Branchenartikel mit dem ganzen Bild: [Local SEO für Hotels](https://localdominate.org/blog/local-seo-hotels), [Local SEO für Ärzte und Praxen](https://localdominate.org/blog/local-seo-aerzte-praxen), [Local SEO für Handwerker](https://localdominate.org/blog/local-seo-handwerker), [Local SEO für Restaurants](https://localdominate.org/blog/local-seo-fuer-restaurants) und [Local SEO für Steuerberater](https://localdominate.org/blog/local-seo-steuerberater). Für Praxen gibt es außerdem eine Übersicht auf Englisch: [Local search for practices (englische Seite)](https://localdominate.org/industries/practices).
 
 ## Gemeinsame Standorte und Filialen
 
-Liegt ein Betrieb in einem anderen, beschreibt jedes Profil nur die eigene Tätigkeit. Bei Filialen verlangt Google, dass alle Standorte denselben Namen und dieselben Kategorien für dieselben Leistungen nutzen.
+Liegt ein Betrieb in einem anderen, beschreibt jedes Profil nur die eigene Tätigkeit. Bei Filialen verlangt Google, dass alle Standorte dieselben Kategorien für dieselben Leistungen nutzen.
 
-Google nennt als Beispiel ein Café in einer Buchhandlung: Das Café wählt „Café“, die Buchhandlung bleibt bei „Buchhandlung“. Restaurants in Hotels, Apotheken in Supermärkten oder Tankstellen neben Supermärkten sollten laut Richtlinien in der Regel eigene Profile mit eigenem Namen haben.
+Google nennt als Beispiel ein Café in einer Buchhandlung: Das Café wählt „Café“, die Buchhandlung bleibt bei „Buchhandlung“. Betriebe, die sich einen Standort teilen, etwa ein Restaurant in einem Hotel oder eine Apotheke in einem Supermarkt, sollten laut Richtlinien in der Regel eigene Profile haben.
 
-Für Ketten und Betriebe mit mehreren Standorten gilt: gleicher Name, gleiche Kategorien, solange dieselben Leistungen angeboten werden. Hat eine Marke Unterbereiche, bekommt jeder Bereich seinen eigenen, einheitlichen Kategoriensatz. Wie Sie mehrere Standorte sauber verwalten, beschreibt der Artikel [Mehrere Standorte im Unternehmensprofil](https://localdominate.org/blog/gbp-mehrere-standorte).
+Für Ketten und Betriebe mit mehreren Standorten gilt: gleiche Kategorien, solange dieselben Leistungen angeboten werden. Abteilungen mit eigenem Kundenverkehr können laut Google ein eigenes Profil bekommen. Name und Kategorien müssen sich dann vom Hauptunternehmen unterscheiden. Wie Sie mehrere Standorte sauber verwalten, beschreibt der Artikel [Mehrere Standorte im Unternehmensprofil](https://localdominate.org/blog/gbp-mehrere-standorte).
 
 ## Kategorie ändern: Ablauf und erneute Bestätigung
 
@@ -170,7 +170,7 @@ Nein. Google untersagt, Kategorien als Keywords oder zur Beschreibung von Merkma
 
 ### Was mache ich, wenn mein Hotel auch ein Restaurant hat?
 
-Ist das Restaurant vor allem für Hausgäste da, bleibt das Hotel ein Hotel. Hat das Restaurant eigenen Gästeverkehr von außen, sollte es laut Googles Richtlinien in der Regel ein eigenes Profil mit eigenem Namen bekommen.
+Das Hotel bleibt ein Hotel. Ein Restaurant in einem Hotel sollte laut Googles Richtlinien in der Regel ein eigenes Profil bekommen, statt als weitere Kategorie im Hotelprofil zu stehen.
 
 ### Was kostet es, die Kategorien prüfen zu lassen?
 

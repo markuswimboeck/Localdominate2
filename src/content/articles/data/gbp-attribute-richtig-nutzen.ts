@@ -122,7 +122,7 @@ const article: V4Article = {
             ["Rollstuhlgerechter Eingang", "der Eingang etwa 1 m breit ist und keine Stufen hat, oder bei Stufen eine feste oder mobile Rampe vorhanden ist. Nur eine Drehtür bedeutet Nein."],
             ["Rollstuhlgerechtes WC", "der Zugang zum WC etwa 1 m breit und stufenlos ist. Wird eine Kabine genutzt, sollte auch deren Eingang etwa 1 m breit sein."],
             ["Rollstuhlgerechte Sitzgelegenheiten", "der Hauptbereich stufenlos ist und genug Platz bietet, um an einen Tisch zu fahren. Nur hohe Tische wie Stehtische bedeuten Nein."],
-            ["Rollstuhlgerechter Parkplatz", "es reservierte Plätze für Menschen mit eingeschränkter Mobilität gibt, meist durch Bodenmarkierung oder Schild gekennzeichnet."],
+            ["Rollstuhlgerechter Parkplatz", "es reservierte Plätze für Menschen mit eingeschränkter Mobilität gibt, meist nach den örtlichen Vorschriften gekennzeichnet."],
             ["Rollstuhlgerechter Aufzug", "der Betrieb mehrere Etagen hat und der Aufzug groß genug für einen Rollstuhl ist."],
             ["Induktive Höranlage", "eine Höranlage fest installiert ist."],
             ["Hörhilfen werden angeboten", "Sie Kunden Geräte vor Ort leihen."],
@@ -227,7 +227,7 @@ const article: V4Article = {
       id: "aktuell-halten",
       title: "Attribute aktuell halten",
       answer:
-        "Prüfen Sie Ihre Attribute immer dann, wenn sich im Betrieb etwas ändert, und zusätzlich in einem festen Rhythmus, etwa zusammen mit den Öffnungszeiten. Google schreibt, dass sich Namen von Attributen ändern können. Neue Merkmale tauchen ohne Ankündigung im Profil auf.",
+        "Prüfen Sie Ihre Attribute immer dann, wenn sich im Betrieb etwas ändert, und zusätzlich in einem festen Rhythmus, etwa zusammen mit den Öffnungszeiten. Google schreibt, dass sich Namen von Attributen mit der Zeit ändern können.",
       blocks: [
         {
           t: "steps",

@@ -74,13 +74,13 @@ const article: V4Article = {
             },
             {
               title: "Keine doppelten Oberbegriffe",
-              text: "Google ergänzt allgemeinere Kategorien teils selbst. Laut Richtlinie bringt „Golfresort“ die Kategorien „Hotel“ und „Golfplatz“ automatisch mit. Diese müssen Sie nicht zusätzlich wählen.",
+              text: "Google ergänzt allgemeinere Kategorien teils selbst. Laut Richtlinie bringt „Golfresort“ die Kategorien „Resorthotel“, „Hotel“ und „Golfplatz“ automatisch mit. Diese müssen Sie nicht zusätzlich wählen.",
             },
           ],
         },
         {
           t: "p",
-          text: "Google zeigt in den Richtlinien weitere Fälle: Ein Pizzabetrieb, der nur Abholung und Lieferung anbietet, wählt „Pizzalieferdienst“ oder „Pizza zum Mitnehmen“ und keine Restaurant-Kategorie. Eine Fast-Food-Kette wählt eine Fast-Food-Kategorie, auch wenn sie Desserts verkauft. Die Logik ist immer dieselbe: Die Kategorie beschreibt den Betrieb als Ganzes.",
+          text: "Google zeigt in den Richtlinien weitere Fälle: Ein Pizzabetrieb, der nur Abholung und Lieferung anbietet, wählt „Pizzalieferdienst“ und keine Restaurant-Kategorie. Eine Fast-Food-Kette wählt eine Fast-Food-Kategorie, auch wenn sie Desserts verkauft. Die Logik ist immer dieselbe: Die Kategorie beschreibt den Betrieb als Ganzes.",
         },
         {
           t: "note",
@@ -125,7 +125,7 @@ const article: V4Article = {
           caption: "Von Google dokumentierte Funktionen je Kategoriebereich",
           head: ["Bereich", "Was die Kategorie freischaltet", "Was Sie prüfen sollten"],
           rows: [
-            ["Hotels", "Hotelkategorie (Sterne) und Hotelausstattung", "Ob die Ausstattung vollständig und richtig eingetragen ist"],
+            ["Hotels", "Hotelkategorie und Hotelausstattung", "Ob die Ausstattung vollständig und richtig eingetragen ist"],
             ["Restaurants", "Links für Onlinebestellung, Reservierung und Speisekarte, Speisekarte direkt im Profil", "Ob die Links auf die passende Seite führen und die Speisekarte aktuell ist"],
             ["Gesundheit und Schönheit", "Schaltfläche zum Buchen, Leistungsverzeichnis", "Ob der Buchungslink funktioniert und die Leistungen stimmen"],
           ],
@@ -187,7 +187,7 @@ const article: V4Article = {
             ["Hotel oder Pension", "„Hotel“, „Pension“ und die Unterkunftsart, die Ihren Betrieb am genauesten beschreibt", "Ein weiterer Bereich als eigenes Geschäft zutrifft, ohne eigenen Eingang und eigenen Kundenverkehr", "Pool, Sauna, Frühstück (Ausstattung). Ein Restaurant mit eigenem Gästeverkehr bekommt in der Regel ein eigenes Profil"],
             ["Zahnarztpraxis", "„Zahnarzt“ oder die Fachrichtung, falls sich die Praxis darauf beschränkt", "Die Praxis tatsächlich auch als weitere Fachrichtung arbeitet", "Einzelne Behandlungen wie Zahnreinigung oder Implantate (Leistungen)"],
             ["Elektrobetrieb", "„Elektriker“ und genauere Begriffe für Ihren Schwerpunkt", "Sie zum Beispiel zusätzlich ein Ladengeschäft mit Verkauf betreiben", "Notdienst, Smart Home, Wallbox-Montage (Leistungen und Öffnungszeiten)"],
-            ["Restaurant", "Die Küche oder Form, etwa „italienisches Restaurant“, statt nur „Restaurant“", "Der Betrieb zum Beispiel auch eine eigenständige Bar ist", "Terrasse, vegetarische Gerichte (Attribute, Speisekarte). Nur Abholung und Lieferung: Liefer- oder Mitnahme-Kategorie statt Restaurant"],
+            ["Restaurant", "Die Küche oder Form, etwa „italienisches Restaurant“, statt nur „Restaurant“", "Der Betrieb zum Beispiel auch eine eigenständige Bar ist", "Terrasse, vegetarische Gerichte (Attribute, Speisekarte). Nur Abholung und Lieferung: Lieferdienst-Kategorie statt Restaurant"],
             ["Steuerberatung", "„Steuerberater“", "Die Kanzlei als Betrieb auch etwas anderes ist, nicht nur eine Leistung anbietet", "Lohnbuchhaltung, Jahresabschluss, Existenzgründung (Leistungen)"],
           ],
         },
@@ -201,15 +201,15 @@ const article: V4Article = {
       id: "standort-und-filialen",
       title: "Gemeinsame Standorte und Filialen",
       answer:
-        "Liegt ein Betrieb in einem anderen, beschreibt jedes Profil nur die eigene Tätigkeit. Bei Filialen verlangt Google, dass alle Standorte denselben Namen und dieselben Kategorien für dieselben Leistungen nutzen.",
+        "Liegt ein Betrieb in einem anderen, beschreibt jedes Profil nur die eigene Tätigkeit. Bei Filialen verlangt Google, dass alle Standorte dieselben Kategorien für dieselben Leistungen nutzen.",
       blocks: [
         {
           t: "p",
-          text: "Google nennt als Beispiel ein Café in einer Buchhandlung: Das Café wählt „Café“, die Buchhandlung bleibt bei „Buchhandlung“. Restaurants in Hotels, Apotheken in Supermärkten oder Tankstellen neben Supermärkten sollten laut Richtlinien in der Regel eigene Profile mit eigenem Namen haben.",
+          text: "Google nennt als Beispiel ein Café in einer Buchhandlung: Das Café wählt „Café“, die Buchhandlung bleibt bei „Buchhandlung“. Betriebe, die sich einen Standort teilen, etwa ein Restaurant in einem Hotel oder eine Apotheke in einem Supermarkt, sollten laut Richtlinien in der Regel eigene Profile haben.",
         },
         {
           t: "p",
-          text: "Für Ketten und Betriebe mit mehreren Standorten gilt: gleicher Name, gleiche Kategorien, solange dieselben Leistungen angeboten werden. Hat eine Marke Unterbereiche, bekommt jeder Bereich seinen eigenen, einheitlichen Kategoriensatz. Wie Sie mehrere Standorte sauber verwalten, beschreibt der Artikel [Mehrere Standorte im Unternehmensprofil](/blog/gbp-mehrere-standorte).",
+          text: "Für Ketten und Betriebe mit mehreren Standorten gilt: gleiche Kategorien, solange dieselben Leistungen angeboten werden. Abteilungen mit eigenem Kundenverkehr können laut Google ein eigenes Profil bekommen. Name und Kategorien müssen sich dann vom Hauptunternehmen unterscheiden. Wie Sie mehrere Standorte sauber verwalten, beschreibt der Artikel [Mehrere Standorte im Unternehmensprofil](/blog/gbp-mehrere-standorte).",
         },
       ],
     },
@@ -285,7 +285,7 @@ const article: V4Article = {
     },
     {
       q: "Was mache ich, wenn mein Hotel auch ein Restaurant hat?",
-      a: "Ist das Restaurant vor allem für Hausgäste da, bleibt das Hotel ein Hotel. Hat das Restaurant eigenen Gästeverkehr von außen, sollte es laut Googles Richtlinien in der Regel ein eigenes Profil mit eigenem Namen bekommen.",
+      a: "Das Hotel bleibt ein Hotel. Ein Restaurant in einem Hotel sollte laut Googles Richtlinien in der Regel ein eigenes Profil bekommen, statt als weitere Kategorie im Hotelprofil zu stehen.",
     },
     {
       q: "Was kostet es, die Kategorien prüfen zu lassen?",

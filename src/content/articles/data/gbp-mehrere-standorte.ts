@@ -11,11 +11,11 @@ const article: V4Article = {
   lead:
     "Für Betriebe mit zwei bis fünfzig Standorten: Filialisten, Praxisgruppen, Handwerksbetriebe mit mehreren Niederlassungen und Hotels mit mehreren Häusern. Sie erfahren, welcher Standort ein eigenes Profil bekommt, wie Sie Namen, Zugriffe und Bestätigung sauber regeln und wie die Website dazu passt.",
   answer:
-    "Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Unternehmensprofil. Alle Standorte tragen denselben echten Namen, mit Ortszusatz nur, wenn der Standort in der realen Welt durchgehend so heißt, und möglichst dieselben Kategorien. Verwalten Sie die Profile in einer Unternehmensgruppe mit klaren Rollen. Ab zehn Standorten ist eine Sammelbestätigung möglich. Auf der Website bekommt jeder Standort eine eigene Seite mit eigenen Inhalten.",
+    "Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Unternehmensprofil. Alle Standorte tragen denselben echten Namen, mit Ortszusatz nur, wenn der Standort in der realen Welt durchgehend so heißt, und möglichst dieselben Kategorien. Verwalten Sie die Profile in einer Standortgruppe mit klaren Rollen. Ab zehn Standorten ist eine Sammelbestätigung möglich. Auf der Website bekommt jeder Standort eine eigene Seite mit eigenen Inhalten.",
   takeaways: [
     "Ein Profil je Standort, aber nur für Standorte, an denen Ihr Team während der Öffnungszeiten erreichbar ist. Mehr als ein Profil je Standort verbietet Google.",
     "Alle Standorte in einem Land tragen denselben Namen. Ortszusätze wie „München Schwabing“ im Namen sind laut Google nicht zulässig.",
-    "Unternehmensgruppen im Business Profile Manager bündeln die Profile. Inhaber und Manager einer Gruppe sehen alle Profile darin.",
+    "Standortgruppen im Business Profile Manager bündeln die Profile. Inhaber und Administratoren einer Gruppe sehen alle Profile darin.",
     "Ab zehn Profilen desselben Unternehmens ist eine Sammelbestätigung möglich, nicht für Unternehmen mit Einzugsgebiet.",
     "Jede Standortseite auf der Website braucht eigene, nützliche Inhalte und eigenes LocalBusiness-Markup. Austauschbare Städteseiten gelten als Brückenseiten.",
   ],
@@ -31,7 +31,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Googles Richtlinien sind hier eindeutig: Pro Standort darf es nur ein Profil geben, egal ob in einem oder in mehreren Konten. Eine gemietete Postadresse, an der Sie nicht arbeiten, ist kein zulässiger Standort. Ein Büro in einem Coworking-Space zählt nur, wenn es während der Öffnungszeiten mit Ihren eigenen Mitarbeitenden besetzt ist.",
+          text: "Googles Richtlinien sind hier eindeutig: Pro Standort darf es nur ein Profil geben, egal ob in einem oder in mehreren Konten. Eine gemietete Postadresse, an der Sie nicht arbeiten, ist kein zulässiger Standort. Ein Büro in einem Coworking-Space zählt nur, wenn es klar beschildert und während der Öffnungszeiten mit Ihren eigenen Mitarbeitenden besetzt ist, die dort Kunden empfangen.",
         },
         {
           t: "table",
@@ -59,7 +59,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google schreibt für Ketten und Marken, dass alle Standorte innerhalb eines Landes denselben Namen haben müssen. Ein Zusatz wie „am Marktplatz“ oder „München Schwabing“ ist ausdrücklich nicht vorgesehen. Den Ort zeigt Google ohnehin über die Adresse an. Eine Ausnahme sind Untermarken: Tragen bestimmte Standorte durchgehend einen eigenen Namen, etwa eine Express-Variante, darf dieser Name verwendet werden.",
+          text: "Google schreibt für Ketten und Marken, dass alle Standorte innerhalb eines Landes denselben Namen haben müssen. Ein Zusatz mit Ortsangabe ist nicht zulässig. Google nennt als Beispiel „The Home Depot in Springfield“ statt „The Home Depot“. Den Ort zeigt Google ohnehin über die Adresse an. Ausnahmen sind Untermarken und ein durchgehend verwendeter alternativer Name, etwa auf Schild und Briefpapier.",
         },
         {
           t: "table",
@@ -74,7 +74,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Auch die Kategorien sollten über alle Standorte gleich sein, wenn dort dieselben Leistungen angeboten werden. Bietet ein Standort zusätzlich etwas an, etwa eine Filiale mit Café, kann dort eine weitere Kategorie dazukommen. Wie Sie die richtige Hauptkategorie wählen, zeigt der [Kategorien-Leitfaden](/blog/google-business-kategorien-guide).",
+          text: "Auch die Kategorien sollten über alle Standorte gleich sein, wenn dort dieselben Leistungen angeboten werden. Wie Sie die richtige Hauptkategorie wählen, zeigt der [Kategorien-Leitfaden](/blog/google-business-kategorien-guide).",
         },
         {
           t: "note",
@@ -85,13 +85,13 @@ const article: V4Article = {
     },
     {
       id: "gruppen-rollen",
-      title: "Unternehmensgruppen und Rollen",
+      title: "Standortgruppen und Rollen",
       answer:
-        "Ab zwei Profilen können Sie im Business Profile Manager eine Unternehmensgruppe anlegen. Wer dort Inhaber oder Manager ist, hat Zugriff auf alle aktuellen und künftigen Profile der Gruppe. Einzelne Standortleiter fügen Sie besser direkt am jeweiligen Profil hinzu.",
+        "Ab zwei Profilen können Sie im Business Profile Manager eine Standortgruppe anlegen. Wer dort Inhaber oder Administrator ist, hat Zugriff auf alle aktuellen und künftigen Profile der Gruppe. Einzelne Standortleiter fügen Sie besser direkt am jeweiligen Profil hinzu.",
       blocks: [
         {
           t: "p",
-          text: "Eine Unternehmensgruppe funktioniert wie ein gemeinsamer Ordner. Google empfiehlt, je Unternehmen oder Marke nur eine Gruppe zu nutzen. Profile verschieben Sie über „Aktionen“ und „Unternehmen übertragen“ in eine Gruppe, die Sie besitzen oder verwalten. Eine Gruppe kann nicht Manager einer anderen Gruppe sein.",
+          text: "Eine Standortgruppe funktioniert wie ein gemeinsamer Ordner. Google empfiehlt, je Unternehmen oder Marke nur eine Gruppe zu nutzen. Profile verschieben Sie über „Aktionen“ und „Unternehmen übertragen“ in eine Gruppe, deren Inhaber oder Administrator Sie sind. Eine Gruppe kann nicht Administrator einer anderen Gruppe sein.",
         },
         {
           t: "table",
@@ -99,8 +99,8 @@ const article: V4Article = {
           head: ["Rolle", "Darf", "Darf nicht"],
           rows: [
             ["Primärer Inhaber", "Alles, inklusive Übertragung der Hauptinhaberschaft", "Sich selbst entfernen, bevor er die Hauptinhaberschaft übergeben hat"],
-            ["Inhaber", "Nutzer hinzufügen und entfernen, Rollen ändern, Profil entfernen, alle Angaben bearbeiten", "Neue Inhaber müssen sieben Tage warten, bevor sie Nutzer entfernen oder das Profil löschen dürfen"],
-            ["Manager", "Öffnungszeiten, Fotos, Leistungen und Beiträge bearbeiten, auf Rezensionen antworten, Statistiken herunterladen", "Nutzer verwalten oder das Profil entfernen"],
+            ["Inhaber", "Nutzer hinzufügen und entfernen, Rollen ändern, Profil löschen, alle Angaben bearbeiten", "Neue Inhaber und Administratoren müssen sieben Tage warten, bevor sie andere Nutzer entfernen, das Profil löschen oder die Hauptinhaberschaft übertragen"],
+            ["Administrator", "Fast alles wie ein Inhaber: Angaben bearbeiten, Statistiken ansehen", "Nutzer hinzufügen oder entfernen, das Profil löschen"],
           ],
         },
         {
@@ -108,8 +108,8 @@ const article: V4Article = {
           items: [
             { title: "Ein Firmenkonto als Hauptinhaber", text: "Nutzen Sie ein Google-Konto mit E-Mail-Adresse Ihrer Firmendomain, nicht das private Konto eines Mitarbeiters. So bleibt der Zugriff bei Personalwechseln im Betrieb." },
             { title: "Zentrale als Inhaber der Gruppe", text: "Zwei Personen aus der Zentrale als Inhaber, damit niemand allein den Schlüssel hat." },
-            { title: "Standortleitung als Manager am eigenen Profil", text: "Die Leitung vor Ort pflegt Sonderöffnungszeiten, Fotos und Antworten auf Rezensionen nur für ihren Standort." },
-            { title: "Agenturen als Manager", text: "Externe Dienstleister bekommen die Managerrolle, nie die Hauptinhaberschaft." },
+            { title: "Standortleitung als Administrator am eigenen Profil", text: "Die Leitung vor Ort pflegt Sonderöffnungszeiten, Fotos und Antworten nur für ihren Standort." },
+            { title: "Agenturen als Administrator", text: "Externe Dienstleister bekommen die Rolle Administrator, nie die Hauptinhaberschaft." },
           ],
         },
       ],
@@ -118,22 +118,22 @@ const article: V4Article = {
       id: "tabelle-geschaeftscodes",
       title: "Viele Standorte per Tabelle anlegen: Geschäftscodes",
       answer:
-        "Ab zehn Standorten können Sie Profile per Tabelle hochladen und pflegen. Jeder Standort braucht dafür einen eindeutigen Geschäftscode (Store Code) mit höchstens 64 Zeichen. Der Code ist eine interne Kennung und erscheint nicht im Namen.",
+        "Google bietet die Verwaltung per Tabelle für Unternehmen mit zehn oder mehr Standorten an. Jeder Standort braucht dafür einen eindeutigen Geschäftscode (Store Code) mit höchstens 64 Zeichen. Der Code ist eine interne Kennung und erscheint nicht im Namen.",
       blocks: [
         {
           t: "p",
-          text: "Google beschreibt den Ablauf so: Firmenkonto anlegen, Unternehmensgruppe erstellen, Tabelle mit allen Standorten ausfüllen, hochladen, Fehler im Dashboard beheben, dann die Bestätigung beantragen. Jede Unternehmensgruppe braucht ihre eigene Tabelle. Hotelattribute lassen sich laut Google nicht über die Tabelle ändern.",
+          text: "Google beschreibt den Ablauf so: Google-Konto (möglichst mit Ihrer Firmendomain) anlegen, Standortgruppe erstellen, Tabelle mit allen Standorten ausfüllen, hochladen, Fehler im Dashboard beheben, dann die Bestätigung beantragen. Jede Standortgruppe braucht ihre eigene Tabelle. Hotelattribute lassen sich laut Google nicht über die Tabelle ändern.",
         },
         {
           t: "table",
           caption: "Pflichtangaben in der Upload-Tabelle",
           head: ["Spalte", "Regel laut Google"],
           rows: [
-            ["Geschäftscode", "Pflicht, je Standort verschieden, höchstens 64 Zeichen"],
+            ["Geschäftscode", "Pflicht, je Standort verschieden, höchstens 64 Zeichen, ohne Leerzeichen am Rand, Sonderzeichen oder URL"],
             ["Name", "Pflicht für jeden Standort"],
             ["Primäre Telefonnummer oder Website", "Mindestens eines von beiden"],
             ["Primäre Kategorie", "Pflicht, möglichst für alle Standorte gleich"],
-            ["Breiten- und Längengrad", "Nötig, wenn Google die Adresse eines neuen Standorts nicht bestätigen kann"],
+            ["Breiten- und Längengrad", "Nötig, wenn Google die Adresse nicht bestätigen kann, und nur beim ersten Anlegen"],
           ],
         },
         {
@@ -143,7 +143,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Bei zwei bis neun Standorten legen Sie die Profile einzeln an und bestätigen sie einzeln. Was tun, wenn eine Bestätigung scheitert, steht in [Verifizierung fehlgeschlagen](/blog/gbp-verifizierung-fehlgeschlagen).",
+          text: "Bei weniger als zehn Standorten bestätigen Sie die Profile einzeln. Was tun, wenn eine Bestätigung scheitert, steht in [Verifizierung fehlgeschlagen](/blog/gbp-verifizierung-fehlgeschlagen).",
         },
       ],
     },
@@ -151,7 +151,7 @@ const article: V4Article = {
       id: "sammelbestaetigung",
       title: "Sammelbestätigung ab zehn Standorten",
       answer:
-        "Die Sammelbestätigung steht Unternehmen mit mindestens zehn Profilen desselben Unternehmens offen. Doppelte, gesperrte oder deaktivierte Profile zählen nicht mit. Unternehmen mit Einzugsgebiet und Agenturen mit mehreren Kunden in einem Konto sind ausgeschlossen.",
+        "Die Sammelbestätigung setzt eine Tabelle mit mindestens zehn Profilen desselben Unternehmens voraus. Doppelte, gesperrte oder deaktivierte Profile zählen nicht mit. Unternehmen mit Einzugsgebiet und Agenturen mit mehreren Kunden in einem Konto sind ausgeschlossen.",
       blocks: [
         {
           t: "ul",
@@ -164,7 +164,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Eine Bearbeitungsdauer nennt Google nicht. Erscheint der Bereich „Bestätigungen“ gar nicht, fehlen meist genug berechtigte Profile. Dann bleibt nur die Einzelbestätigung je Standort.",
+          text: "Eine Bearbeitungsdauer nennt Google nicht. Erscheint der Bereich „Bestätigungen“ nicht, haben Sie laut Google möglicherweise zu wenige berechtigte Profile. Dann bestätigen Sie jeden Standort einzeln.",
         },
       ],
     },
@@ -176,11 +176,11 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Ein Sanitärbetrieb mit Hauptsitz in Augsburg und einer besetzten Niederlassung in Ulm darf also zwei Profile führen. Eine bloße Telefonweiterleitung oder ein Briefkasten in Ulm reicht nicht. Das Einzugsgebiet je Profil sollte laut Google nicht weiter als etwa zwei Autostunden vom Standort reichen.",
+          text: "Ein Sanitärbetrieb mit Hauptsitz in Augsburg und einer besetzten Niederlassung in Ulm darf also zwei Profile führen. Eine bloße Telefonweiterleitung oder ein Briefkasten in Ulm reicht nicht. Das Einzugsgebiet je Profil sollte laut Google in der Regel nicht weiter als etwa zwei Autostunden vom Standort reichen.",
         },
         {
           t: "p",
-          text: "Die Einzugsgebiete der Niederlassungen dürfen sich überschneiden, sollten aber die tatsächliche Arbeitsweise abbilden. Eine Sammelbestätigung ist für Unternehmen mit Einzugsgebiet nicht möglich, jede Niederlassung wird einzeln bestätigt. Mehr zu Handwerksbetrieben steht in [Local SEO für Handwerker](/blog/local-seo-handwerker).",
+          text: "Das Einzugsgebiet jeder Niederlassung sollte die tatsächliche Arbeitsweise abbilden. Eine Sammelbestätigung ist für Unternehmen mit Einzugsgebiet nicht möglich, jede Niederlassung wird einzeln bestätigt. Mehr zu Handwerksbetrieben steht in [Local SEO für Handwerker](/blog/local-seo-handwerker).",
         },
       ],
     },
@@ -224,9 +224,9 @@ const article: V4Article = {
           t: "ul",
           items: [
             "Geben Sie jedem Standort seinen eigenen Link oder QR-Code. Ein Link der Zentrale auf einer Filialrechnung führt Bewertungen zum falschen Profil.",
-            "Legen Sie fest, wer antwortet: die Standortleitung als Manager oder ein zentrales Team. Wichtig ist eine feste Zuständigkeit je Profil.",
+            "Legen Sie fest, wer antwortet: die Standortleitung als Administrator oder ein zentrales Team. Wichtig ist eine feste Zuständigkeit je Profil.",
             "Antworten Sie konkret auf den Standort und den Anlass. Persönliche Daten von Kunden oder Patienten gehören nie in eine Antwort.",
-            "Belohnungen für Bewertungen, Bewertungsquoten für Mitarbeitende oder Druck vor Ort verbieten die Google-Richtlinien. Das gilt auch für Wettbewerbe zwischen Filialen.",
+            "Belohnungen für Bewertungen, Bewertungsquoten für Mitarbeitende oder Druck vor Ort verbieten die Google-Richtlinien.",
           ],
         },
         {
@@ -245,7 +245,7 @@ const article: V4Article = {
           t: "steps",
           items: [
             { title: "Profile auswählen", text: "Im Business Profile Manager am Computer die gewünschten Profile markieren." },
-            { title: "Statistiken öffnen", text: "Über „Aktionen“ die Statistiken wählen, einen Zeitraum festlegen und den Bericht herunterladen." },
+            { title: "Statistiken öffnen", text: "Über „Aktionen“ die „Statistiken“ wählen, einen Zeitraum festlegen und auf „Bericht herunterladen“ klicken." },
             { title: "Je Standort vergleichen", text: "Anrufe, Routen, Website-Klicks und Suchbegriffe nebeneinanderlegen. Auffällige Abweichungen zeigen, wo ein Profil Pflege braucht." },
             { title: "Website-Daten ergänzen", text: "Den Website-Link jedes Profils mit UTM-Parametern versehen, die den Standort enthalten. Dann sehen Sie in der Web-Analyse, welche Filiale Besucher bringt." },
           ],
@@ -268,7 +268,7 @@ const article: V4Article = {
           head: ["Fehler", "Folge", "Besser"],
           rows: [
             ["Ort oder Filialnummer im Namen", "Verstoß gegen die Namensrichtlinie, Sperrung möglich", "Einheitlicher Markenname, Ort über die Adresse"],
-            ["Eine Hotline für alle Standorte", "Google bevorzugt Nummern, unter denen der jeweilige Standort erreichbar ist", "Direkte Nummer je Standort"],
+            ["Eine Hotline für alle Standorte", "Hotlines und Weiterleitungen ohne direkte Verbindung sind laut Google nicht zulässig", "Direkte Nummer je Standort"],
             ["Alle Profile verlinken auf die Startseite", "Kunden landen nicht bei ihrem Standort", "Link auf die jeweilige Standortseite"],
             ["Standortseiten aus einer Vorlage mit getauschtem Ortsnamen", "Gefahr, als Brückenseiten gewertet zu werden", "Eigene Inhalte je Standort"],
             ["Zugang nur über das Konto eines Mitarbeiters", "Zugriff geht beim Personalwechsel verloren", "Firmenkonto als Hauptinhaber, Rollen je Profil"],
@@ -293,7 +293,7 @@ const article: V4Article = {
     },
     {
       q: "Können verschiedene Mitarbeitende verschiedene Standorte verwalten?",
-      a: "Ja. Fügen Sie die Standortleitung als Manager direkt am jeweiligen Profil hinzu. Wer Inhaber oder Manager der ganzen Unternehmensgruppe ist, sieht dagegen alle Profile der Gruppe.",
+      a: "Ja. Fügen Sie die Standortleitung als Administrator direkt am jeweiligen Profil hinzu. Wer Inhaber oder Administrator der ganzen Standortgruppe ist, sieht dagegen alle Profile der Gruppe.",
     },
     {
       q: "Was ist ein Geschäftscode?",
@@ -309,11 +309,11 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google (Ketten und Marken, Einzugsgebiete)", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
-    { title: "Bulk verification for Business Profiles (chains)", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/4490296?hl=en" },
-    { title: "Add & manage multiple Business Profiles in bulk", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3217744?hl=en" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Verify Business Profiles in bulk", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/4490296?hl=en" },
+    { title: "Bulk location management overview", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3217744?hl=en" },
     { title: "Create a bulk upload spreadsheet for Business Profiles", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3370250?hl=en" },
-    { title: "Manage business groups", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/6085339?hl=en" },
+    { title: "Create & manage business groups", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/6085339?hl=en" },
     { title: "Manage your Business Profile owners & managers", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3403100?hl=en" },
     { title: "Understand your Business Profile performance and insights", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9918094?hl=en" },
     { title: "Spam policies for Google web search (doorway abuse)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies?hl=en" },

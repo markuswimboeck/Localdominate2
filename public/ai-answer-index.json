@@ -4353,7 +4353,7 @@
           "name": "Helfen Geotags in den Fotos beim Ranking?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Dafür gibt es keine Aussage von Google. Veröffentlichte Tests von Sterling Sky und Hypetrix fanden keinen Effekt. Sie können sich diesen Schritt sparen.",
+            "text": "Dafür gibt es keine Aussage von Google. Whitespark führt Geotagging als verbreiteten Mythos. Ein belegter Nutzen ist nicht bekannt, Sie können sich diesen Schritt sparen.",
             "url": "https://localdominate.org/blog/gbp-fotos-optimieren"
           }
         },
@@ -4362,7 +4362,7 @@
           "name": "Darf ich Bilder aus einer Bilddatenbank nutzen?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Google rät davon ab und empfiehlt selbst aufgenommene Bilder vom Ort. Kopierte oder fremde Fotos verstoßen gegen die Richtlinien. Kunden wollen sehen, wie es bei Ihnen tatsächlich aussieht.",
+            "text": "Google rät davon ab und empfiehlt selbst aufgenommene Bilder vom Ort. Auch von Dritten erstellte Bilder rät Google ab. Kunden wollen sehen, wie es bei Ihnen tatsächlich aussieht.",
             "url": "https://localdominate.org/blog/gbp-fotos-optimieren"
           }
         },
@@ -4461,7 +4461,7 @@
           "name": "Mehrere Standorte bei Google verwalten: ein Leitfaden für 2 bis 50 Filialen",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Unternehmensprofil. Alle Standorte tragen denselben echten Namen, mit Ortszusatz nur, wenn der Standort in der realen Welt durchgehend so heißt, und möglichst dieselben Kategorien. Verwalten Sie die Profile in einer Unternehmensgruppe mit klaren Rollen. Ab zehn Standorten ist eine Sammelbestätigung möglich. Auf der Website bekommt jeder Standort eine eigene Seite mit eigenen Inhalten.",
+            "text": "Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Unternehmensprofil. Alle Standorte tragen denselben echten Namen, mit Ortszusatz nur, wenn der Standort in der realen Welt durchgehend so heißt, und möglichst dieselben Kategorien. Verwalten Sie die Profile in einer Standortgruppe mit klaren Rollen. Ab zehn Standorten ist eine Sammelbestätigung möglich. Auf der Website bekommt jeder Standort eine eigene Seite mit eigenen Inhalten.",
             "url": "https://localdominate.org/blog/gbp-mehrere-standorte"
           }
         },
@@ -4488,7 +4488,7 @@
           "name": "Können verschiedene Mitarbeitende verschiedene Standorte verwalten?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ja. Fügen Sie die Standortleitung als Manager direkt am jeweiligen Profil hinzu. Wer Inhaber oder Manager der ganzen Unternehmensgruppe ist, sieht dagegen alle Profile der Gruppe.",
+            "text": "Ja. Fügen Sie die Standortleitung als Administrator direkt am jeweiligen Profil hinzu. Wer Inhaber oder Administrator der ganzen Standortgruppe ist, sieht dagegen alle Profile der Gruppe.",
             "url": "https://localdominate.org/blog/gbp-mehrere-standorte"
           }
         },
@@ -6009,7 +6009,7 @@
           "name": "Was mache ich, wenn mein Hotel auch ein Restaurant hat?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ist das Restaurant vor allem für Hausgäste da, bleibt das Hotel ein Hotel. Hat das Restaurant eigenen Gästeverkehr von außen, sollte es laut Googles Richtlinien in der Regel ein eigenes Profil mit eigenem Namen bekommen.",
+            "text": "Das Hotel bleibt ein Hotel. Ein Restaurant in einem Hotel sollte laut Googles Richtlinien in der Regel ein eigenes Profil bekommen, statt als weitere Kategorie im Hotelprofil zu stehen.",
             "url": "https://localdominate.org/blog/google-business-kategorien-guide"
           }
         },
@@ -6171,7 +6171,7 @@
           "name": "Welcher Kontaktweg ist für kleine Betriebe am wichtigsten?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Meist das Telefon, weil jedes Profil einen Anruf-Button hat. Ergänzen Sie es mit einem kurzen Formular auf der verlinkten Seite und, wenn Sie Termine vergeben, einem Buchungslink. Ein weiterer Kanal lohnt sich nur, wenn jemand ihn verlässlich betreut.",
+            "text": "Das Telefon, weil Kunden es über den Anruf-Button im Profil direkt erreichen. Ergänzen Sie es mit einem kurzen Formular auf der verlinkten Seite und, wenn Sie Termine vergeben, einem Buchungslink. Ein weiterer Kanal lohnt sich nur, wenn jemand ihn verlässlich betreut.",
             "url": "https://localdominate.org/blog/google-business-messaging"
           }
         },
@@ -7722,7 +7722,7 @@
           "name": "Google-Maps-Spam erkennen und melden: so schützen Sie Ihren Markt und Ihr eigenes Profil",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Spam in Google Maps sind Einträge und Beiträge, die gegen Googles Richtlinien verstoßen: Zusätze im Firmennamen, Scheinadressen, doppelte Profile, gekaufte oder erzwungene Bewertungen. Melden Sie einzelne Fälle in Maps über „Änderung vorschlagen“, Betrug bei Name, Telefonnummer oder Website über Googles Beschwerdeformular und unzulässige Rezensionen über die Meldefunktion. Belege sammeln Sie vorher.",
+            "text": "Spam in Google Maps sind Einträge und Beiträge, die gegen Googles Richtlinien verstoßen: Zusätze im Firmennamen, Scheinadressen, doppelte Profile, gekaufte oder erzwungene Bewertungen. Melden Sie einzelne Fälle in Maps über „Änderung vorschlagen“, Betrug bei Name, Telefonnummer oder Website über Googles Beschwerdeformular und unzulässige Rezensionen über die Meldefunktion. Sammeln Sie die nötigen Angaben vorher, denn unvollständige Formulare bearbeitet Google nicht.",
             "url": "https://localdominate.org/blog/google-maps-spam-erkennen"
           }
         },

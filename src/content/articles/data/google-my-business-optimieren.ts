@@ -84,12 +84,12 @@ const article: V4Article = {
           items: [
             "**Der Ort:** Straßenschild mit Straßennamen, Hausnummer oder benachbarte Geschäfte.",
             "**Der Betrieb:** Schild, Produkte, Fahrzeug mit Firmenbeschriftung, Werkzeug oder Werbematerial.",
-            "**Ihr Zugang:** Bereiche nur für Mitarbeiter wie Kasse, Küche oder Lager, nicht vertrauliche Geschäftsunterlagen oder das Aufschließen der Tür mit Ihrem Schlüssel.",
+            "**Ihr Zugang:** Bereiche nur für Mitarbeiter oder das Aufschließen der Räume mit Ihrem Schlüssel.",
           ],
         },
         {
           t: "p",
-          text: "Nach dem Einreichen prüft Google die Angaben, laut Hilfe meist innerhalb von bis zu fünf Werktagen, selten länger. Wenn Sie nach der Bestätigung umziehen, müssen Sie das Profil erneut bestätigen. Hängt die Bestätigung fest, hilft der Artikel [Verifizierung fehlgeschlagen](/blog/gbp-verifizierung-fehlgeschlagen).",
+          text: "Nach dem Einreichen prüft Google die Angaben, laut Hilfe meist innerhalb von bis zu fünf Werktagen, selten länger. Hängt die Bestätigung fest, hilft der Artikel [Verifizierung fehlgeschlagen](/blog/gbp-verifizierung-fehlgeschlagen).",
         },
         {
           t: "note",
@@ -106,7 +106,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Laut Googles Richtlinien dürfen Sie dem Namen keine unnötigen Informationen hinzufügen: keine Slogans, Orte, Leistungen, Telefonnummern, Webadressen oder Hinweise auf Öffnungszeiten. Google nennt ausdrücklich, dass Profile deswegen gesperrt werden können. Auch Großbuchstaben in ganzen Wörtern und Sonderzeichen sind nur erlaubt, wenn sie nachweislich zum offiziellen Namen gehören.",
+          text: "Laut Googles Richtlinien dürfen Sie dem Namen keine unnötigen Informationen hinzufügen: keine Slogans, Orte, Leistungen, Telefonnummern, Webadressen oder Hinweise auf Öffnungszeiten. Google nennt ausdrücklich, dass Profile deswegen gesperrt werden können. Ganze Wörter in Großbuchstaben sind nicht erlaubt. Sonderzeichen und Rechtsformzusätze wie GmbH sind nur mit Nachweis erlaubt, dass sie zum Namen gehören.",
         },
         {
           t: "table",
@@ -124,7 +124,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Die erste Kategorie ist die Hauptkategorie. Dazu können Sie bis zu neun weitere wählen. Google verlangt, so wenige Kategorien wie möglich zu nehmen und sie so genau wie möglich auf Ihr Kerngeschäft zu beziehen. Eine Kategorie beschreibt, was Ihr Betrieb ist, nicht was er hat. Ein Hotel mit Restaurant für Hausgäste ist ein Hotel. Kategorien sind kein Ersatz für Suchbegriffe.",
+          text: "Die erste Kategorie ist die Hauptkategorie. Dazu können Sie bis zu neun weitere wählen. Google verlangt, so wenige Kategorien wie möglich zu nehmen und sie so genau wie möglich auf Ihr Kerngeschäft zu beziehen. Eine Kategorie beschreibt, was Ihr Betrieb ist, nicht was er hat. Ein Hotel mit Restaurant führt im Hotelprofil nur die Kategorie Hotel. Kategorien sind kein Ersatz für Suchbegriffe.",
         },
         {
           t: "p",
@@ -136,7 +136,7 @@ const article: V4Article = {
       id: "adresse-einzugsgebiet",
       title: "Adresse oder Einzugsgebiet, Telefon und Website",
       answer:
-        "Mit Kundenverkehr vor Ort tragen Sie Ihre echte Adresse ein. Fahren Sie zu Ihren Kunden, blenden Sie die Adresse aus und geben ein Einzugsgebiet an, das laut Google nicht weiter als etwa zwei Autostunden reicht.",
+        "Mit Kundenverkehr vor Ort tragen Sie Ihre echte Adresse ein. Fahren Sie zu Ihren Kunden, blenden Sie die Adresse aus und geben ein Einzugsgebiet an, das laut Google in der Regel nicht weiter als etwa zwei Autostunden reicht.",
       blocks: [
         {
           t: "p",
@@ -199,7 +199,7 @@ const article: V4Article = {
       id: "leistungen-beschreibung",
       title: "Leistungen, Beschreibung, Attribute und Links",
       answer:
-        "Tragen Sie jede Leistung, die Kunden gezielt suchen, einzeln ein. Die Beschreibung erklärt in höchstens 750 Zeichen sachlich, was Sie anbieten, ohne Links und ohne Werbeaktionen.",
+        "Tragen Sie jede Leistung, die Kunden gezielt suchen, einzeln ein. Die Beschreibung erklärt in höchstens 750 Zeichen sachlich, was Sie anbieten, ohne Links und ohne Werbung für Aktionen und Preise.",
       blocks: [
         {
           t: "h3",
@@ -207,7 +207,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Je nach Kategorie können Sie im Profil Leistungen eintragen. Halten Sie die Bezeichnungen kurz und sachlich, etwa „Badsanierung“ oder „Professionelle Zahnreinigung“, und ergänzen Sie eine kurze Beschreibung. Ein Handel kann zusätzlich Produkte zeigen, ein Restaurant pflegt seine Speisekarte im Menü-Editor, der laut Google nur für Gastronomie und Hotellerie verfügbar ist.",
+          text: "Je nach Kategorie können Sie im Profil Leistungen eintragen. Halten Sie die Bezeichnungen kurz und sachlich, etwa „Badsanierung“ oder „Professionelle Zahnreinigung“, und ergänzen Sie eine kurze Beschreibung. Ein Handel kann zusätzlich Produkte zeigen, ein Restaurant pflegt seine Speisekarte im Menü-Editor, der laut Google nur für Unternehmen der Lebensmittel- und Gastronomiebranche verfügbar ist.",
         },
         {
           t: "h3",
@@ -215,7 +215,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Die Beschreibung darf laut Google höchstens 750 Zeichen lang sein und keine URLs oder HTML enthalten. Google empfiehlt, sich auf das Unternehmen zu konzentrieren und nicht auf Aktionen, Preise und Angebote. Gut funktioniert dieser Aufbau:",
+          text: "Die Beschreibung darf laut Google höchstens 750 Zeichen lang sein. Links jeglicher Art sind nicht zulässig, ebenso Werbung für Sonderaktionen, günstige Preise und Angebote. Gut funktioniert dieser Aufbau:",
         },
         {
           t: "ol",
@@ -272,21 +272,21 @@ const article: V4Article = {
       id: "beitraege",
       title: "Beiträge und Funktionen, die es nicht mehr gibt",
       answer:
-        "Beiträge informieren Kunden in Suche und Maps über Neuigkeiten, Angebote und Veranstaltungen. Dass sie das Ranking verbessern, bestätigt Google nicht. Chat und Fragen und Antworten im Profil gibt es nicht mehr.",
+        "Beiträge informieren Kunden in Suche und Maps über Neuigkeiten, Angebote und Veranstaltungen. Chat und Fragen und Antworten im Profil gibt es nicht mehr.",
       blocks: [
         {
           t: "table",
           caption: "Beitragsarten laut Google-Hilfe",
           head: ["Art", "Wofür", "Pflichtangaben"],
           rows: [
-            ["Aktuelles", "Neuigkeiten, geänderte Abläufe, neue Leistung", "Text, optional Bild und Button mit Link"],
+            ["Aktuelles", "Neuigkeiten, geänderte Abläufe, neue Leistung", "Keine zwingenden, optional Beschreibung, Bild oder Video und Button mit Link"],
             ["Angebot", "Aktionen und Rabatte", "Titel und Zeitraum"],
             ["Veranstaltung", "Termine wie Tag der offenen Tür, Weinabend, Kurs", "Titel, Start und Ende"],
           ],
         },
         {
           t: "p",
-          text: "Beiträge, die älter als sechs Monate sind, archiviert Google, sofern Sie keinen Zeitraum festlegen. Sie lassen sich vorplanen und wiederholen. Google prüft Beiträge vor der Veröffentlichung. Eine Telefonnummer im Text kann zur Ablehnung führen, wenn Google sie nicht Ihrem Betrieb zuordnen kann. Schreiben Sie Beiträge, wenn Sie etwas mitzuteilen haben, nicht nach einem festen Takt.",
+          text: "Beiträge, die älter als sechs Monate sind, archiviert Google, sofern Sie keinen Zeitraum festlegen. Sie lassen sich vorplanen und wiederholen. Google prüft Beiträge nach der Veröffentlichung auf die Inhaltsrichtlinien. Eine Telefonnummer im Text kann zur Ablehnung führen, wenn Google sie nicht Ihrem Betrieb zuordnen kann. Schreiben Sie Beiträge, wenn Sie etwas mitzuteilen haben, nicht nach einem festen Takt.",
         },
         {
           t: "note",
@@ -365,7 +365,7 @@ const article: V4Article = {
             ["Orte, Leistungen oder Slogans im Namen", "Name wie im echten Leben"],
             ["Postfach oder virtuelles Büro als Adresse", "Ein Profil nur für einen tatsächlichen Standort"],
             ["Mehrere Profile für denselben Standort", "Ein Profil je Standort"],
-            ["Einzugsgebiet weit über das tatsächliche hinaus", "Nicht mehr als etwa zwei Autostunden"],
+            ["Einzugsgebiet weit über das tatsächliche hinaus", "In der Regel nicht mehr als etwa zwei Autostunden"],
             ["Callcenter- oder Sonderrufnummer", "Eine lokale Nummer, die der Betrieb selbst verwaltet"],
           ],
         },
@@ -374,15 +374,15 @@ const article: V4Article = {
           items: [
             {
               title: "Verstoß beheben",
-              text: "Laut Google muss das Profil alle Richtlinien erfüllen, bevor Sie Einspruch einlegen. Im Einspruchstool sehen Sie den Grund der Einschränkung und die betroffene Richtlinie.",
+              text: "Laut Google muss das Profil alle Richtlinien erfüllen, bevor Sie Einspruch einlegen. Im Einspruchstool wählen Sie das Profil und die Entscheidung aus und prüfen die Details.",
             },
             {
               title: "Nachweise vorbereiten",
-              text: "Zum Beispiel Gewerbeanmeldung, Handelsregisterauszug, Steuerbescheinigung oder eine Strom- oder Telefonrechnung. Name und Adresse müssen mit dem Profil übereinstimmen.",
+              text: "Zum Beispiel Gewerbeanmeldung, Gewerbeerlaubnis, Steuerbescheinigungen oder Rechnungen von Versorgungsunternehmen. Name und Adresse müssen mit dem Profil übereinstimmen.",
             },
             {
               title: "Einspruch einlegen",
-              text: "Mit dem Google-Konto anmelden, das mit dem Profil verknüpft ist, Profil auswählen, „Einspruch einlegen“ wählen. Ein geöffnetes Nachweisformular müssen Sie innerhalb von 60 Minuten senden.",
+              text: "Das Einspruchstool für Unternehmensprofile öffnen, Profil und Entscheidung auswählen, die Details prüfen und „Einspruch senden“ wählen.",
             },
             {
               title: "Abwarten, kein neues Profil anlegen",
@@ -425,12 +425,12 @@ const article: V4Article = {
   ],
   sources: [
     { title: "Unternehmen bei Google bestätigen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7107242?hl=de" },
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
     { title: "Unternehmensprofil bearbeiten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3039617?hl=de" },
     { title: "Beiträge in Ihrem Unternehmensprofil erstellen und verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7342169?hl=de" },
     { title: "Leistung und Statistiken Ihres Unternehmensprofils", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9918094?hl=de" },
-    { title: "Nutzer eines Unternehmensprofils verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3403100?hl=de" },
-    { title: "Einspruch gegen eingeschränkte oder gesperrte Profile", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/4569145?hl=de" },
+    { title: "Inhaber und Administratoren Ihres Unternehmensprofils verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3403100?hl=de" },
+    { title: "Probleme mit gesperrten oder deaktivierten Profilen beheben", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/4569145?hl=de" },
     { title: "Google quietly kills Q&A for an AI button most won't use", publisher: "PPC Land", url: "https://ppc.land/google-quietly-kills-q-a-for-an-ai-button-most-wont-use/" },
   ],
   related: [

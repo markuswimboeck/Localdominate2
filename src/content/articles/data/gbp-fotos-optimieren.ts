@@ -17,7 +17,7 @@ const article: V4Article = {
     "Erlaubt sind echte Aufnahmen vom Ort. Bilddatenbank-Fotos, Screenshots, Collagen, Rahmen, Text im Bild und starke Filter rät Google ab.",
     "Kundenfotos können Sie nicht selbst löschen, nur bei Google melden. Die Prüfung dauert laut Google mehrere Werktage.",
     "Personen im Bild brauchen ihr Einverständnis, auch Mitarbeiter. Bei Arbeiten in Kundenwohnungen fragen Sie vorher.",
-    "Geotags in den Bilddaten und Dateinamen mit Keywords bringen nach allen veröffentlichten Tests nichts. Google bestätigt keinen Ranking-Effekt von Fotos.",
+    "Für Geotags in den Bilddaten und Dateinamen mit Keywords gibt es keine Google-Quelle. Google bestätigt keinen Ranking-Effekt von Fotos.",
   ],
   publishedAt: "2026-01-12",
   updatedAt: "2026-10-10",
@@ -60,7 +60,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Beide fügen Sie unter **Fotos** im Profil hinzu, über „Logo hinzufügen“ und „Titelbild hinzufügen“, später über „Logo ändern“ und „Titelbild ändern“. Das Logo hebt Google laut Hilfe hervor, wenn Basisangaben wie Telefonnummer und Öffnungszeiten vorhanden sind.",
+          text: "Beide fügen Sie unter **Fotos** im Profil hinzu, über „Logo hinzufügen“ und „Titelbild hinzufügen“, später über „Logo ändern“ und „Titelbild ändern“. Ein Logo wird laut Hilfe eher angezeigt, wenn Name, gültige Adresse, Kategorien, Telefonnummer und Öffnungszeiten im Profil stehen.",
         },
         {
           t: "ul",
@@ -108,11 +108,11 @@ const article: V4Article = {
       id: "echt-statt-stock",
       title: "Echte Bilder statt Bilddatenbank",
       answer:
-        "Google rät, nur selbst aufgenommene Bilder vom Ort zu verwenden. Bilddatenbank-Fotos, Screenshots, GIFs, Collagen, stark bearbeitete Bilder, Rahmen und Text im Bild sollen Sie vermeiden. Bilder geringer Qualität kann Google ohne Einspruchsmöglichkeit entfernen.",
+        "Google rät, nur selbst aufgenommene Bilder vom Ort zu verwenden. Bilddatenbank-Fotos, Screenshots, GIFs, Collagen, stark bearbeitete Bilder, Rahmen und Text im Bild sollen Sie vermeiden. Auch zu viele Filter oder KI-Werkzeuge rät Google ab.",
       blocks: [
         {
           t: "p",
-          text: "Die Tipps für Medien in Google Maps sind eindeutig: Medien sollen selbst aufgenommen sein, am Ort entstehen und den Ort in den Mittelpunkt stellen. Drehung und Helligkeit korrigieren ist in Ordnung, Filter auch, solange sie den Ort nicht stark verfälschen. Die Richtlinien für Beiträge in Maps nennen außerdem kopierte oder gestohlene Fotos als Verstoß.",
+          text: "Die Tipps für Medien in Google Maps sind eindeutig: Medien sollen selbst aufgenommen sein, am Ort entstehen und den Ort in den Mittelpunkt stellen. Drehung und Helligkeit korrigieren ist in Ordnung, Filter auch, solange sie den Ort nicht stark verfälschen. Von Dritten erstellte Bilder rät Google ebenfalls ab.",
         },
         {
           t: "table",
@@ -158,7 +158,7 @@ const article: V4Article = {
       id: "hochladen-pruefung",
       title: "Hochladen, Prüfung und Löschen",
       answer:
-        "Sie laden Fotos in der Google-Suche oder in Maps über Ihr Profil unter Fotos hoch. Google prüft sie, bevor sie erscheinen. Das kann laut Hilfe 24 bis 48 Stunden dauern. Neue Medien zeigt Google zuerst.",
+        "Sie laden Fotos in der Google-Suche oder in Maps über Ihr Profil unter Fotos hoch. Google prüft sie, bevor sie erscheinen. Es kann laut Hilfe 24 bis 48 Stunden dauern, bis ein Upload im Profil erscheint.",
       blocks: [
         {
           t: "steps",
@@ -191,7 +191,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Ein Kundenfoto, das Ihnen nur nicht gefällt, entfernt Google nicht. Hier hilft ein besseres eigenes Foto desselben Motivs. Für möglicherweise rechtswidrige Inhalte bietet Google ein eigenes rechtliches Meldeformular. Wie der Ablauf bei Bewertungen aussieht, beschreibt [Google-Bewertung löschen lassen](/blog/gbp-bewertung-loeschen-anleitung), Fälschungen bei Wettbewerbern behandelt [Google-Maps-Spam erkennen](/blog/google-maps-spam-erkennen).",
+          text: "Ein Kundenfoto, das Ihnen nur nicht gefällt, entfernt Google nicht. Hier hilft ein besseres eigenes Foto desselben Motivs. Für möglicherweise rechtswidrige Inhalte verweist Google auf einen eigenen rechtlichen Meldeweg. Wie der Ablauf bei Bewertungen aussieht, beschreibt [Google-Bewertung löschen lassen](/blog/gbp-bewertung-loeschen-anleitung), Fälschungen bei Wettbewerbern behandelt [Google-Maps-Spam erkennen](/blog/google-maps-spam-erkennen).",
         },
       ],
     },
@@ -226,14 +226,14 @@ const article: V4Article = {
       id: "mythen",
       title: "Geotags, Dateinamen, Ranking: was nicht stimmt",
       answer:
-        "Für einen Ranking-Vorteil durch Geotags in den Bilddaten oder Keywords im Dateinamen gibt es keine Google-Quelle. Veröffentlichte Tests fanden keinen Effekt. Google nennt Fotos in seinen Ranking-Tipps als Mittel, Kunden das Angebot zu zeigen, nicht als Ranking-Faktor.",
+        "Für einen Ranking-Vorteil durch Geotags in den Bilddaten oder Keywords im Dateinamen gibt es keine Google-Quelle. Google nennt Fotos in seinen Ranking-Tipps als Mittel, Kunden das Angebot zu zeigen, nicht als Ranking-Faktor.",
       blocks: [
         {
           t: "table",
           caption: "Verbreitete Foto-Tipps im Faktencheck",
           head: ["Behauptung", "Was belegt ist"],
           rows: [
-            ["Geotags (GPS in den EXIF-Daten) verbessern das Maps-Ranking", "Keine Aussage von Google. Tests von Sterling Sky und Hypetrix fanden keinen Effekt. Whitespark führt Geotagging als verbreiteten Mythos."],
+            ["Geotags (GPS in den EXIF-Daten) verbessern das Maps-Ranking", "Keine Aussage von Google. Whitespark führt Geotagging als verbreiteten Mythos."],
             ["Dateinamen mit Keyword und Ort helfen", "Keine Google-Quelle für das Unternehmensprofil. Der Dateiname ist für Kunden nicht sichtbar."],
             ["Fotos sind ein Ranking-Faktor", "Google nennt Relevanz, Entfernung und Bekanntheit. Fotos stehen in den Tipps unter „Kunden zeigen, was Sie anbieten“, ohne Ranking-Zusage."],
             ["Profile mit mehr Fotos bekommen ein Vielfaches an Anrufen", "Solche Prozentzahlen kursieren ohne nachvollziehbare Quelle. Wir verwenden sie nicht."],
@@ -288,11 +288,11 @@ const article: V4Article = {
     },
     {
       q: "Helfen Geotags in den Fotos beim Ranking?",
-      a: "Dafür gibt es keine Aussage von Google. Veröffentlichte Tests von Sterling Sky und Hypetrix fanden keinen Effekt. Sie können sich diesen Schritt sparen.",
+      a: "Dafür gibt es keine Aussage von Google. Whitespark führt Geotagging als verbreiteten Mythos. Ein belegter Nutzen ist nicht bekannt, Sie können sich diesen Schritt sparen.",
     },
     {
       q: "Darf ich Bilder aus einer Bilddatenbank nutzen?",
-      a: "Google rät davon ab und empfiehlt selbst aufgenommene Bilder vom Ort. Kopierte oder fremde Fotos verstoßen gegen die Richtlinien. Kunden wollen sehen, wie es bei Ihnen tatsächlich aussieht.",
+      a: "Google rät davon ab und empfiehlt selbst aufgenommene Bilder vom Ort. Auch von Dritten erstellte Bilder rät Google ab. Kunden wollen sehen, wie es bei Ihnen tatsächlich aussieht.",
     },
   ],
   sources: [

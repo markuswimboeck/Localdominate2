@@ -551,7 +551,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 **Markdown:** https://localdominate.org/blog-md/google-maps-spam-erkennen.md
 **Aktualisiert:** 2026-10-10
 
-**Kurzantwort:** Spam in Google Maps sind Einträge und Beiträge, die gegen Googles Richtlinien verstoßen: Zusätze im Firmennamen, Scheinadressen, doppelte Profile, gekaufte oder erzwungene Bewertungen. Melden Sie einzelne Fälle in Maps über „Änderung vorschlagen“, Betrug bei Name, Telefonnummer oder Website über Googles Beschwerdeformular und unzulässige Rezensionen über die Meldefunktion. Belege sammeln Sie vorher.
+**Kurzantwort:** Spam in Google Maps sind Einträge und Beiträge, die gegen Googles Richtlinien verstoßen: Zusätze im Firmennamen, Scheinadressen, doppelte Profile, gekaufte oder erzwungene Bewertungen. Melden Sie einzelne Fälle in Maps über „Änderung vorschlagen“, Betrug bei Name, Telefonnummer oder Website über Googles Beschwerdeformular und unzulässige Rezensionen über die Meldefunktion. Sammeln Sie die nötigen Angaben vorher, denn unvollständige Formulare bearbeitet Google nicht.
 
 ---
 
@@ -589,7 +589,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 **Markdown:** https://localdominate.org/blog-md/gbp-mehrere-standorte.md
 **Aktualisiert:** 2026-10-10
 
-**Kurzantwort:** Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Unternehmensprofil. Alle Standorte tragen denselben echten Namen, mit Ortszusatz nur, wenn der Standort in der realen Welt durchgehend so heißt, und möglichst dieselben Kategorien. Verwalten Sie die Profile in einer Unternehmensgruppe mit klaren Rollen. Ab zehn Standorten ist eine Sammelbestätigung möglich. Auf der Website bekommt jeder Standort eine eigene Seite mit eigenen Inhalten.
+**Kurzantwort:** Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Unternehmensprofil. Alle Standorte tragen denselben echten Namen, mit Ortszusatz nur, wenn der Standort in der realen Welt durchgehend so heißt, und möglichst dieselben Kategorien. Verwalten Sie die Profile in einer Standortgruppe mit klaren Rollen. Ab zehn Standorten ist eine Sammelbestätigung möglich. Auf der Website bekommt jeder Standort eine eigene Seite mit eigenen Inhalten.
 
 ---
 
