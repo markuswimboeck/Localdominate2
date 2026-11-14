@@ -14,7 +14,7 @@ const article: V4Article = {
     "Makler werden über Local SEO gefunden, wenn Google ihr Unternehmensprofil, ihre Website und ihre Bewertungen einem Ort und einer Leistung zuordnen kann. Verkäufer suchen einen Makler vor Ort, Käufer suchen ein Objekt in einem Stadtteil. Wichtig sind ein korrektes Profil mit einem Eintrag pro Büro, Seiten mit echten Inhalten und Bewertungen, die Sie allen Kunden auf dieselbe Weise anbieten.",
   takeaways: [
     "Verkäufer und Käufer suchen mit unterschiedlichen Begriffen. Beide Gruppen brauchen Seiten mit Ortsbezug und echten Inhalten.",
-    "Google nennt Relevanz, Entfernung und Bekanntheit als Grundlage lokaler Ergebnisse. Vollständige und genaue Profilangaben erhöhen die Chance, dort zu erscheinen.",
+    "Google nennt Relevanz, Entfernung und Bekanntheit als Grundlage lokaler Ergebnisse. Vollständige und korrekte Profilangaben erhöhen die Chance, dort zu erscheinen.",
     "Ein besseres lokales Ranking lässt sich bei Google weder anfordern noch bezahlen. Pro Standort ist ein Profil vorgesehen, Duplikate sind nicht zulässig.",
     "Bitten Sie alle Kunden um eine Bewertung, ohne Gegenleistung. Anreize wie Rabatte oder Geschenke sind laut Google streng verboten.",
     "Messen Sie Anrufe, Wegbeschreibungen und Anfragen. Positionen allein sagen wenig darüber, ob Anfragen kommen.",
@@ -53,7 +53,7 @@ const article: V4Article = {
       id: "unternehmensprofil",
       title: "Das Unternehmensprofil richtig einrichten",
       answer:
-        "Google nennt Relevanz, Entfernung und Bekanntheit als Grundlage lokaler Ergebnisse. Vollständige und genaue Angaben im Profil erhöhen laut Google die Chance, dort zu erscheinen.",
+        "Google nennt Relevanz, Entfernung und Bekanntheit als Grundlage lokaler Ergebnisse. Vollständige und korrekte Angaben im Profil erhöhen laut Google die Chance, dort zu erscheinen.",
       blocks: [
         {
           t: "p",
@@ -76,7 +76,7 @@ const article: V4Article = {
             },
             {
               title: "Ein Profil pro Standort",
-              text: "Jeder Standort mit eigener Adresse bekommt ein Profil. Ein zweites Profil für denselben Standort ist nicht zulässig, auch nicht über ein anderes Konto.",
+              text: "Jeder Standort mit eigener Adresse bekommt ein Profil. Mehrere Profile für denselben Standort sind nicht vorgesehen.",
             },
             {
               title: "Leistungen einzeln eintragen",
@@ -170,14 +170,14 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Ein Makler mit einer alten Telefonnummer auf einem Portal und einer neuen auf der Website erzeugt genau diesen Widerspruch. Google sagt, dass vollständige und genaue Angaben eher in lokalen Ergebnissen erscheinen. Deshalb gleichen Sie alle Angaben einmal vollständig ab.",
+          text: "Ein Makler mit einer alten Telefonnummer auf einem Portal und einer neuen auf der Website erzeugt genau diesen Widerspruch. Google sagt, dass Unternehmen mit vollständigen und korrekten Informationen eher in lokalen Ergebnissen erscheinen. Deshalb gleichen Sie alle Angaben einmal vollständig ab.",
         },
         {
           t: "ul",
           items: [
             "**Startseite und Kontaktseite.** Adresse, Telefonnummer, E-Mail und Öffnungszeiten stehen als Text auf der Seite, nicht nur als Bild. Die Telefonnummer lässt sich auf dem Handy mit einem Tipp anrufen.",
             "**Impressum.** Die Firmendaten im Impressum entsprechen dem Profil. Welche Pflichtangaben gelten, klärt Ihr Berater oder die zuständige Kammer. Dieser Text ersetzt keine Rechtsauskunft.",
-            "**Verzeichnisse und Portale.** Pflegen Sie Ihre Einträge dort, wo Ihre Kunden suchen, etwa bei ImmobilienScout24, Immonet oder Immowelt. Ein veralteter Eintrag widerspricht Ihren anderen Angaben und sollte korrigiert oder entfernt werden.",
+            "**Verzeichnisse und Portale.** Pflegen Sie Ihre Einträge dort, wo Ihre Kunden suchen, etwa bei den großen Immobilienportalen. Ein veralteter Eintrag widerspricht Ihren anderen Angaben und sollte korrigiert oder entfernt werden.",
             "**Strukturierte Daten.** Name, Adresse und Telefonnummer lassen sich auch als strukturierte Daten auf der Website hinterlegen. Wie das für lokale Unternehmen aussieht, erklärt der Artikel [Schema Markup für lokale Unternehmen](/blog/schema-markup-local-seo).",
           ],
         },
@@ -220,7 +220,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Unter Leistung und Statistiken zeigt Google im Profil unter anderem Aufrufe, Suchanfragen, Anrufe, Wegbeschreibungen und Websiteklicks. Die Suchanfragen werden laut Google zu Beginn des Monats aktualisiert, die Anzeige kann bis zu fünf Tage dauern.",
+          text: "Unter „Leistung“ zeigt Google im Profil unter anderem Aufrufe, Suchanfragen, Anrufe, Wegbeschreibungen und Websiteklicks. Die Suchanfragen werden laut Google zu Beginn des Monats aktualisiert, die Anzeige kann bis zu fünf Tage dauern.",
         },
         {
           t: "table",
@@ -250,7 +250,7 @@ const article: V4Article = {
     },
     {
       q: "Darf ich für jedes Büro ein eigenes Profil anlegen?",
-      a: "Ja, pro Standort ist ein Profil vorgesehen. Mehrere Profile für denselben Standort sind dagegen nicht zulässig, auch nicht über verschiedene Konten.",
+      a: "Ja, pro Standort ist ein Profil vorgesehen. Mehrere Profile für denselben Standort sind dagegen nicht vorgesehen.",
     },
     {
       q: "Darf ich Kunden um Bewertungen bitten?",
@@ -258,11 +258,12 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
     { title: "Tipps für mehr Rezensionen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3474122?hl=de" },
     { title: "Link oder QR-Code zum Anfordern von Rezensionen erstellen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/16816815?hl=de" },
     { title: "Leistung und Statistiken Ihres Unternehmensprofils", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9918094?hl=de" },
+    { title: "Verbotene und eingeschränkt zulässige Inhalte", publisher: "Richtlinien für von Maps-Nutzern veröffentlichte Inhalte-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
   ],
   related: [
     { slug: "google-my-business-optimieren", title: "Google Unternehmensprofil optimieren: die praktische Anleitung" },

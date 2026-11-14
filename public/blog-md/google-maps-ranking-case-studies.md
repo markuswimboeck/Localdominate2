@@ -33,7 +33,7 @@ Eine belastbare Fallstudie zum Google-Maps-Ranking braucht eine dokumentierte **
 
 ## Warum viele Ranking-Fallstudien wenig beweisen
 
-Die meisten veröffentlichten Erfolgsgeschichten zeigen ein Vorher und ein Nachher, aber nicht, wie gemessen wurde. Damit lässt sich nicht prüfen, ob die genannten Maßnahmen die Ursache waren.
+Viele veröffentlichte Erfolgsgeschichten zeigen ein Vorher und ein Nachher, aber nicht, wie gemessen wurde. Damit lässt sich nicht prüfen, ob die genannten Maßnahmen die Ursache waren.
 
 „Von unsichtbar auf Platz 1 in sechs Monaten“ klingt überzeugend. Ob die Aussage stimmt, hängt an Details, die selten genannt werden: Für welchen Suchbegriff? Von welchem Ort aus? Wie oft gemessen? Was hat sich in derselben Zeit sonst verändert?
 
@@ -41,12 +41,12 @@ Die meisten veröffentlichten Erfolgsgeschichten zeigen ein Vorher und ein Nachh
 
 | Schwäche | Warum sie das Ergebnis verzerrt |
 | --- | --- |
-| Nur eine Messung vom eigenen Standort | Google berücksichtigt die Entfernung zum Suchenden. Am eigenen Standort steht fast jeder Betrieb weit vorne |
+| Nur eine Messung vom eigenen Standort | Google berücksichtigt die Entfernung zum Suchenden. Am eigenen Standort kann das Ergebnis ganz anders aussehen als bei Kunden an anderen Orten |
 | Keine Ausgangsmessung mit Datum | Ohne festen Startpunkt ist jede Verbesserung eine Schätzung |
 | Viele Maßnahmen gleichzeitig | Man sieht, dass sich etwas geändert hat, aber nicht, welche Maßnahme gewirkt hat |
 | Nur Positionen, keine Anfragen | Eine bessere Position ist wertlos, wenn sie nicht zu Anrufen, Routen oder Buchungen führt |
 | Zeitraum fällt in die Hochsaison | Mehr Anrufe im Sommer sagen bei einem Eiscafé wenig über die Maßnahmen aus |
-| Nur Erfolge werden gezeigt | Projekte ohne Wirkung tauchen nicht auf. Das Bild wird zu positiv |
+| Nur Erfolge werden gezeigt | Projekte ohne Wirkung können fehlen. Das Bild wird dann zu positiv |
 
 > **Hinweis zu diesem Artikel:** In einer früheren Fassung standen hier sechs Erfolgsgeschichten aus verschiedenen Branchen mit Zahlen und Zitaten. Sie waren nicht belegt. Wir haben sie entfernt und zeigen stattdessen, wie Sie solche Geschichten prüfen und eigene Ergebnisse nachvollziehbar festhalten.
 
@@ -196,8 +196,8 @@ Sie können, aber Sie erfahren dann nicht, welche gewirkt hat. Wenn es die Zeit 
 
 - [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
 - [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/9918094?hl=de), Google Unternehmensprofil-Hilfe
-- [Leistungsbericht (Google-Suchergebnisse): Übersicht](https://support.google.com/webmasters/answer/7576553?hl=de), Search Console-Hilfe
-- [Kampagnendaten mit benutzerdefinierten URLs erfassen](https://support.google.com/analytics/answer/10917952?hl=de), Google Analytics-Hilfe
+- [Leistungsbericht (Google-Suchergebnisse): Übersicht und grundlegende Einrichtung](https://support.google.com/webmasters/answer/7576553?hl=de), Search Console-Hilfe
+- [Tools zur URL-Erstellung: Kampagnendaten mithilfe benutzerdefinierter URLs erfassen](https://support.google.com/analytics/answer/10917952?hl=de), Google Analytics-Hilfe
 - [Startleitfaden zur Suchmaschinenoptimierung (SEO)](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=de), Google Search Central
 - [Google Search Status Dashboard: Ranking](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history?hl=de), Google
 

@@ -17,7 +17,7 @@ const article: V4Article = {
     "Mit Free Booking Links kann Ihre eigene Buchungsseite in der Hotelsuche neben den Portalen erscheinen. Klicks darauf kosten laut Google nichts. Die Preise liefert in der Regel Ihr Buchungssystem.",
     "Einzelne Ferienwohnungen ohne besetztes Büro bekommen laut Google kein Unternehmensprofil. Eine Vermietung mit Rezeption oder Büro vor Ort schon.",
     "Ob sich Direktbuchungen lohnen, rechnen Sie mit Ihren Zimmern, Ihrer Auslastung, Ihrem Durchschnittspreis, Ihrem Portalanteil und Ihrem Provisionssatz aus dem Vertrag.",
-    "Seit dem 14. November 2024 muss Booking.com in der EU erlauben, dass Hotels auf der eigenen Website günstigere Preise und Konditionen anbieten.",
+    "Seit November 2024 muss Booking.com in der EU erlauben, dass Hotels auf der eigenen Website günstigere Preise und Konditionen anbieten.",
   ],
   publishedAt: "2026-01-24",
   updatedAt: "2026-10-10",
@@ -61,7 +61,7 @@ const article: V4Article = {
           items: [
             {
               title: "Profil beanspruchen und verifizieren",
-              text: "Laut Google müssen Sie das Profil beanspruchen und verifizieren, um alle Ausstattungsmerkmale selbst bearbeiten zu können. Ohne Verifizierung bleiben Ihnen nur Korrekturvorschläge.",
+              text: "Laut Google müssen Sie das Profil beanspruchen und verifizieren, um alle Ausstattungsmerkmale selbst bearbeiten zu können.",
             },
             {
               title: "Keine Öffnungszeiten eintragen",
@@ -69,7 +69,7 @@ const article: V4Article = {
             },
             {
               title: "Hoteldetails vollständig ausfüllen",
-              text: "Unter „Profil bearbeiten“ und „Hoteldetails“ suchen Sie jedes Merkmal und tragen es ein, etwa WLAN, Parken, Haustiere, Frühstück, Barrierefreiheit sowie Check-in und Check-out. Attribute lassen sich laut Google nicht per Tabellen-Upload ändern, nur im Profil oder über die Schnittstelle.",
+              text: "Im Bereich „Hoteldetails“ tragen Sie jedes Merkmal ein, etwa WLAN, Parken, Haustiere, Frühstück, Barrierefreiheit sowie Check-in und Check-out. Attribute lassen sich laut Google nicht per Tabellen-Upload ändern, nur im Profil oder über die Schnittstelle.",
             },
             {
               title: "Hotelklasse prüfen",
@@ -77,22 +77,22 @@ const article: V4Article = {
             },
             {
               title: "Restaurant und Spa getrennt behandeln",
-              text: "Ein Restaurant, eine Bar oder ein Spa im Haus, das auch Besucher ohne Übernachtung nutzen können, bekommt ein eigenes Profil mit eigenem Namen. Die Verknüpfung „befindet sich in“ richtet der Support ein. Das Hotelprofil selbst erhält keine Restaurantkategorie.",
+              text: "Ein Restaurant, eine Bar oder ein Spa im Haus, das auch Besucher ohne Übernachtung nutzen können, bekommt ein eigenes Profil mit eigenem Namen. Das Hotelprofil selbst erhält keine Restaurantkategorie.",
             },
             {
               title: "Name wie auf dem Schild",
-              text: "„Hotel Alpenblick“ bleibt „Hotel Alpenblick“. Zusätze wie „Wellness“, „Bestpreis“ oder der Ortsname, die nicht zum echten Namen gehören, verstoßen gegen Googles Richtlinien und können zur Sperrung führen.",
+              text: "„Hotel Alpenblick“ bleibt „Hotel Alpenblick“. Zusätze wie „Wellness“, „Bestpreis“ oder der Ortsname, die nicht zum echten Namen gehören, lässt Googles Richtlinie nicht zu.",
             },
           ],
         },
         {
           t: "note",
           label: "Gut zu wissen",
-          text: "Die Symbole neben der Ausstattung, etwa „Haustiere erlaubt“ oder „Kostenloses WLAN“, zeigt Google nicht bei jedem Hotel. Falsche Angaben melden Sie dem Support. Wie Sie Kategorien und Attribute allgemein wählen, steht in [Google Unternehmensprofil optimieren](/blog/google-my-business-optimieren) und in [Attribute richtig nutzen](/blog/gbp-attribute-richtig-nutzen).",
+          text: "Falsche Angaben zur Ausstattung korrigieren Sie als Inhaber im Bereich „Hoteldetails“. Wie Sie Kategorien und Attribute allgemein wählen, steht in [Google Unternehmensprofil optimieren](/blog/google-my-business-optimieren) und in [Attribute richtig nutzen](/blog/gbp-attribute-richtig-nutzen).",
         },
         {
           t: "p",
-          text: "Für Beiträge im Profil empfiehlt Google Hotels Neuigkeiten und Veranstaltungen. Angebotsbeiträge mit Rabatten können Hotels nach Googles Hotel-Leitfaden nicht erstellen. Pauschalen und Preise gehören deshalb auf Ihre Website.",
+          text: "In der Profilbeschreibung sind Preise, Sonderaktionen und Angebote nach Googles Richtlinien nicht erlaubt. Pauschalen und Preise gehören deshalb auf Ihre Website.",
         },
       ],
     },
@@ -104,20 +104,20 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Googles Richtlinien zur Berechtigung nennen „zu vermietende Immobilien wie Ferienwohnungen“ ausdrücklich als Beispiel für Betriebe ohne Anspruch auf ein Unternehmensprofil. Ausgenommen sind Büros, die vermieten oder verkaufen. Voraussetzung für jedes Profil ist persönlicher Kontakt mit Kunden zu den angegebenen Zeiten.",
+          text: "Googles Richtlinien zur Berechtigung nennen „zu vermietende Immobilien wie Ferienwohnungen“ ausdrücklich als Beispiel für Betriebe ohne Anspruch auf ein Unternehmensprofil. Ausgenommen sind Verkaufsbüros oder Leasingunternehmen, für die eine Bestätigung möglich ist. Voraussetzung für jedes Profil ist persönlicher Kontakt mit Kunden zu den angegebenen Zeiten.",
         },
         {
           t: "ul",
           items: [
             "**Pension, Gasthof, Hotel garni:** eigenes Hotelprofil am Standort des Hauses.",
-            "**Mehrere Ferienwohnungen mit Rezeption oder Büro:** ein Profil für das Büro, nicht je Wohnung eines.",
+            "**Mehrere Ferienwohnungen mit Rezeption oder Büro:** höchstens ein Profil für das Büro am Standort, nicht je Wohnung eines.",
             "**Einzelne Ferienwohnung ohne Büro:** kein Profil. Sichtbarkeit entsteht hier über die eigene Website, Portale und den Tourismusverband.",
           ],
         },
         {
           t: "note",
           label: "Achtung",
-          text: "Ein Profil je Wohnung anzulegen, um in der Karte öfter aufzutauchen, verstößt gegen die Richtlinien und gefährdet auch ein zulässiges Profil. Was Ferienwohnungen stattdessen tun können, beschreibt [SEO für Ferienwohnungen](/blog/seo-ferienwohnungen).",
+          text: "Ein Profil je Wohnung anzulegen, um in der Karte öfter aufzutauchen, verstößt gegen die Richtlinien. Was Ferienwohnungen stattdessen tun können, beschreibt [SEO für Ferienwohnungen](/blog/seo-ferienwohnungen).",
         },
       ],
     },
@@ -148,7 +148,7 @@ const article: V4Article = {
             },
             {
               title: "Hotel Ads nur bewusst",
-              text: "Bezahlte Hotel Ads sind ein zusätzlicher, freiwilliger Schritt. Free Booking Links funktionieren laut Google auch ohne Anzeigenkampagne.",
+              text: "Bezahlte Hotel Ads sind ein zusätzlicher, freiwilliger Schritt. Ohne eigenes Hotel-Center-Konto können Sie Free Booking Links laut Google über einen Anbindungspartner erhalten.",
             },
           ],
         },
@@ -210,7 +210,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Preisfreiheit",
-          text: "Die EU-Kommission hat Booking.com als Gatekeeper nach dem Digital Markets Act eingestuft. Seit dem 14. November 2024 muss Booking.com Hotels erlauben, auf anderen Kanälen, auch auf der eigenen Website, bessere Preise und Konditionen anzubieten. Das gilt in der EU, also für Deutschland und Österreich. Für die Schweiz gelten eigene Regeln, siehe [Local SEO in der Schweiz](/blog/local-seo-schweiz).",
+          text: "Die EU-Kommission hat Booking.com als Gatekeeper nach dem Digital Markets Act eingestuft. Seit November 2024 muss Booking.com Hotels erlauben, auf anderen Kanälen, auch auf der eigenen Website, bessere Preise und Konditionen anzubieten. Das gilt in der EU, also für Deutschland und Österreich. Für die Schweiz gelten eigene Regeln, siehe [Local SEO in der Schweiz](/blog/local-seo-schweiz).",
         },
       ],
     },
@@ -226,7 +226,7 @@ const article: V4Article = {
           head: ["Plattform", "Wer bewertet", "Was Sie tun können"],
           rows: [
             ["Google", "Jeder Nutzer mit echter Erfahrung", "Direktgäste per Link oder QR-Code bitten, auf alle Rezensionen antworten"],
-            ["Booking.com", "Nur Gäste mit Buchung über Booking.com, die angereist sind", "Antworten im Extranet, eigene Bewertung des Hauses ist nicht erlaubt"],
+            ["Booking.com", "Gäste, die über Booking.com gebucht haben", "Im Extranet antworten"],
             ["Tripadvisor", "Reisende nach eigenen Regeln der Plattform", "Eintrag beanspruchen, Richtlinien im Eigentümerbereich prüfen, antworten"],
           ],
         },
@@ -234,8 +234,8 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Keine Anreize.** Google verbietet Rabatte, Gratisleistungen oder Zahlungen für eine Rezension oder für das Ändern einer negativen Rezension. Auch ein Gratis-Getränk an der Bar gegen eine Bewertung fällt darunter.",
-            "**Kein Interessenkonflikt.** Bewertungen von Mitarbeitenden, früheren Mitarbeitenden oder Vertragspartnern entfernt Google.",
-            "**Alle fragen, nicht nur Zufriedene.** Senden Sie denselben Link an alle Gäste, etwa in der Abreisemail. Wie das konkret geht, steht in [Mehr Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen).",
+            "**Kein Interessenkonflikt.** Bewertungen von Mitarbeitenden, früheren Mitarbeitenden oder Vertragspartnern gelten bei Google als Interessenkonflikt und sind nicht erlaubt.",
+            "**Alle fragen, nicht nur Zufriedene.** Senden Sie denselben Link an alle Gäste, etwa in der Abreisemail, und drängen Sie niemanden vor Ort. Wie das konkret geht, steht in [Mehr Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen).",
             "**Antworten in der Sprache des Gastes**, kurz und konkret. Vorlagen finden Sie in [Bewertungen beantworten](/blog/bewertungs-antworten-vorlagen), den Umgang mit Kritik in [Negative Google-Bewertungen](/blog/negative-google-bewertungen).",
           ],
         },
@@ -399,7 +399,7 @@ const article: V4Article = {
     },
     {
       q: "Darf ich auf meiner Website günstiger sein als auf Booking.com?",
-      a: "In der EU ja. Seit dem 14. November 2024 muss Booking.com nach dem Digital Markets Act erlauben, dass Hotels auf anderen Kanälen und auf der eigenen Website bessere Preise und Konditionen anbieten. In der Schweiz gelten eigene Regeln.",
+      a: "In der EU ja. Seit November 2024 muss Booking.com nach dem Digital Markets Act erlauben, dass Hotels auf anderen Kanälen und auf der eigenen Website bessere Preise und Konditionen anbieten. In der Schweiz gelten eigene Regeln.",
     },
     {
       q: "Wie ändere ich die Hotelklasse bei Google?",
@@ -411,12 +411,11 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Get started with a Business Profile for your hotel", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9177958?hl=en" },
-    { title: "Hotels Google Business Profile Best Practices Playbook 2026", publisher: "Google", url: "https://services.google.com/fh/files/helpcenter/hotels_gbp_best_practices_playbook_2026.pdf" },
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
-    { title: "Richtlinien zur Berechtigung und Inhaberschaft", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/13763036?hl=de" },
+    { title: "Manage your hotel's details", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9177958?hl=en" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Richtlinien zur Berechtigung und Inhaberschaft für Unternehmen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/13763036?hl=de" },
     { title: "About hotel free booking links", publisher: "Google Hotel Center-Hilfe", url: "https://support.google.com/hotelprices/answer/10472393?hl=en" },
-    { title: "Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
+    { title: "Verbotene und eingeschränkt zulässige Inhalte", publisher: "Richtlinien für von Maps-Nutzern veröffentlichte Inhalte-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
     { title: "Inhaltsrichtlinien für Bewertungen", publisher: "Booking.com", url: "https://www.booking.com/content-moderation-policy/content-guidelines.de.html" },
     { title: "Booking must comply with all relevant obligations under the Digital Markets Act", publisher: "Europäische Kommission", url: "https://digital-markets-act.ec.europa.eu/booking-must-comply-all-relevant-obligations-under-digital-markets-act-2024-11-14_en" },
   ],
