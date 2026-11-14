@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen
 markdown_url: https://localdominate.org/blog-md/gbp-verifizierung-fehlgeschlagen.md
 language: de-DE
 published: 2025-01-10
-updated: 2026-10-10
+updated: 2026-10-30
 reading_time_minutes: 11
 category: "Google Unternehmensprofil"
 author: LocalDominate Redaktion
@@ -229,4 +229,4 @@ Video, Live-Anruf, Telefon und Postkarte setzen voraus, dass Sie am Betrieb oder
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-30. Fehler gefunden? info@localdominate.org

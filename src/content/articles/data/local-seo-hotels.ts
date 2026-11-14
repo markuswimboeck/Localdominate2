@@ -20,7 +20,7 @@ const article: V4Article = {
     "Seit November 2024 muss Booking.com in der EU erlauben, dass Hotels auf der eigenen Website günstigere Preise und Konditionen anbieten.",
   ],
   publishedAt: "2026-01-24",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 13,
   sections: [
     {

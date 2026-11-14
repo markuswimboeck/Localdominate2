@@ -20,7 +20,7 @@ const article: V4Article = {
     "Legen Sie kein neues Profil an und zahlen Sie niemandem für eine „Verifizierung“. Google verlangt dafür kein Geld und fragt nie nach Ihrem Code.",
   ],
   publishedAt: "2025-01-10",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-30",
   readingTime: 11,
   sections: [
     {

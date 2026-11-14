@@ -20,7 +20,7 @@ const article: V4Article = {
     "Keywords im Firmennamen, virtuelle Adressen und gekaufte oder gefilterte Bewertungen verstoßen gegen Googles Richtlinien und gefährden das Profil.",
   ],
   publishedAt: "2026-01-07",
-  updatedAt: "2026-10-09",
+  updatedAt: "2026-11-14",
   readingTime: 12,
   sections: [
     {

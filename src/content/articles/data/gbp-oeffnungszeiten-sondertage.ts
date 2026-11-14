@@ -20,7 +20,7 @@ const article: V4Article = {
     "Website, strukturierte Daten und Profil müssen dieselben Zeiten zeigen. Ein fester Jahreskalender verhindert die meisten Fehler.",
   ],
   publishedAt: "2025-01-10",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-30",
   readingTime: 11,
   sections: [
     {

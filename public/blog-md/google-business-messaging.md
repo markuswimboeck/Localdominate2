@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/google-business-messaging
 markdown_url: https://localdominate.org/blog-md/google-business-messaging.md
 language: de-DE
 published: 2026-01-30
-updated: 2026-10-10
+updated: 2026-11-14
 reading_time_minutes: 9
 category: "Google-Unternehmensprofil"
 author: LocalDominate Redaktion
@@ -226,4 +226,4 @@ Das Telefon, weil Kunden es über den Anruf-Button im Profil direkt erreichen. E
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-11-14. Fehler gefunden? info@localdominate.org

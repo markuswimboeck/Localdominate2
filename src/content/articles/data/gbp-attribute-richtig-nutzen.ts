@@ -20,7 +20,7 @@ const article: V4Article = {
     "Setzen Sie nur, was stimmt. Google verlangt ehrliche Angaben, und ein falsches Merkmal enttäuscht genau die Kunden, die darauf achten.",
   ],
   publishedAt: "2025-01-10",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 9,
   sections: [
     {

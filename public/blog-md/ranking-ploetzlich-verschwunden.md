@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/ranking-ploetzlich-verschwunden
 markdown_url: https://localdominate.org/blog-md/ranking-ploetzlich-verschwunden.md
 language: de-DE
 published: 2025-01-10
-updated: 2026-10-10
+updated: 2026-11-14
 reading_time_minutes: 11
 category: "Fehlersuche"
 author: LocalDominate Redaktion
@@ -210,4 +210,4 @@ Die erste Einschätzung ist kostenlos. Der Profil Quick-Fix kostet 79 €, die v
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-11-14. Fehler gefunden? info@localdominate.org

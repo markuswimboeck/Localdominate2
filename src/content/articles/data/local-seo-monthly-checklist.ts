@@ -20,7 +20,7 @@ const article: V4Article = {
     "Fragen und Antworten sowie den Chat im Profil gibt es nicht mehr. Diese Punkte gehören nicht mehr auf Ihre Liste.",
   ],
   publishedAt: "2026-03-08",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 9,
   sections: [
     {

@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-10-15",
+  "lastUpdated": "2026-11-14",
   "language": "de-DE",
   "source": "LocalDominate",
   "website": "https://localdominate.org",
@@ -54,28 +54,28 @@
           "question": "Kann ich bei Google eine andere Bestätigungsmethode beantragen?",
           "answer": "Nein. Google legt fest, welche Methoden zur Wahl stehen, und Sie können das nicht ändern. Wenn mehrere angeboten werden, dürfen Sie nach einem gescheiterten Versuch eine andere nutzen.",
           "url": "https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen",
-          "lastUpdated": "2026-10-10"
+          "lastUpdated": "2026-10-30"
         },
         {
           "id": "gbp-verifizierung-fehlgeschlagen-2",
           "question": "Wie lang muss das Bestätigungsvideo sein?",
           "answer": "Mindestens 30 Sekunden, live aufgenommen über das Profil auf dem Smartphone, in einem Stück und ohne Bearbeitung. Wichtiger als die Länge ist, dass Standort, Betrieb und Ihr Zugang als Verantwortlicher klar zu sehen sind.",
           "url": "https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen",
-          "lastUpdated": "2026-10-10"
+          "lastUpdated": "2026-10-30"
         },
         {
           "id": "google-business-kategorien-guide-1",
           "question": "Wie viele Kategorien kann ich im Google-Unternehmensprofil wählen?",
           "answer": "Eine Hauptkategorie ist Pflicht. Dazu kommen laut Googles Hilfe bis zu neun weitere Kategorien. Google verlangt aber, so wenige Kategorien wie möglich zu verwenden. Die Obergrenze ist also kein Ziel.",
           "url": "https://localdominate.org/blog/google-business-kategorien-guide",
-          "lastUpdated": "2026-10-10"
+          "lastUpdated": "2026-11-14"
         },
         {
           "id": "google-business-kategorien-guide-2",
           "question": "Kann ich eine eigene Kategorie anlegen?",
           "answer": "Nein. Google schreibt, dass das Erstellen einer eigenen Kategorie nicht möglich ist. Fehlt die genaue Kategorie, wählen Sie eine allgemeinere, die zutrifft, und beschreiben das Besondere in Leistungen, Beschreibung und auf Ihrer Website.",
           "url": "https://localdominate.org/blog/google-business-kategorien-guide",
-          "lastUpdated": "2026-10-10"
+          "lastUpdated": "2026-11-14"
         },
         {
           "id": "google-posts-ranking-faktor-1",

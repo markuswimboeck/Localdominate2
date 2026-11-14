@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/gbp-attribute-richtig-nutzen
 markdown_url: https://localdominate.org/blog-md/gbp-attribute-richtig-nutzen.md
 language: de-DE
 published: 2025-01-10
-updated: 2026-10-10
+updated: 2026-11-14
 reading_time_minutes: 9
 category: "Google Unternehmensprofil"
 author: LocalDominate Redaktion
@@ -195,4 +195,4 @@ Nein. Diese Merkmale sind freiwillig, Sie können mehrere wählen und sie jederz
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-11-14. Fehler gefunden? info@localdominate.org

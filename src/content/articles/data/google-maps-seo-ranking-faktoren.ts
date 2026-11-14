@@ -20,7 +20,7 @@ const article: V4Article = {
     "Prozentangaben wie „Profilsignale 32 Prozent“ sind geschätzte Gewichtungen aus Umfragen. Lesen Sie sie als Tendenz, nicht als Tatsache.",
   ],
   publishedAt: "2026-01-28",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 10,
   sections: [
     {
