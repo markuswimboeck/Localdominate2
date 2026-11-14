@@ -11,9 +11,9 @@ const article: V4Article = {
   lead:
     "Für Betriebe in der Stadt und im Kanton Zürich, die bei Suchen wie „Coiffeur Wiedikon“ oder „Physiotherapie in der Nähe“ erscheinen wollen. Sie erfahren, warum in einer dichten Stadt wenige hundert Meter zählen, wie Sie Kreise und Quartiere ehrlich nutzen und wie Sie Ihre Sichtbarkeit über die ganze Stadt messen.",
   answer:
-    "In Zürich liegen viele Anbieter derselben Branche nah beieinander. Weil Google lokale Treffer auch nach der **Entfernung** sortiert, ist Ihr Einzugsgebiet oft nur ein Kreis oder ein paar Quartiere gross. Pflegen Sie Ihr Unternehmensprofil mit echter Adresse, nennen Sie auf der Website nur Quartiere, die Sie wirklich bedienen, bauen Sie lokale Erwähnungen auf und messen Sie mit einem Raster über die Stadt.",
+    "In Zürich liegen viele Anbieter derselben Branche nah beieinander. Weil Google lokale Treffer auch nach der **Entfernung** sortiert, kann Ihr Einzugsgebiet auf einen Kreis oder ein paar Quartiere schrumpfen. Pflegen Sie Ihr Unternehmensprofil mit echter Adresse, nennen Sie auf der Website nur Quartiere, die Sie wirklich bedienen, bauen Sie lokale Erwähnungen auf und messen Sie mit einem Raster über die Stadt.",
   takeaways: [
-    "Google sortiert lokale Treffer nach Relevanz, Entfernung und Bekanntheit. In einer dichten Stadt wie Zürich wirkt die Entfernung besonders stark, weil die nächsten Wettbewerber oft nur wenige Strassen entfernt sind.",
+    "Google sortiert lokale Treffer nach Relevanz, Entfernung und Bekanntheit. In einer dichten Stadt wie Zürich kann die Entfernung stark ins Gewicht fallen, weil nahe Wettbewerber nur wenige Strassen entfernt sein können.",
     "Die Stadt Zürich besteht aus 12 Kreisen mit 34 statistischen Quartieren. Planen Sie Ihre Sichtbarkeit auf dieser Ebene, nicht für „ganz Zürich“.",
     "Nennen Sie Quartiere nur dort, wo Sie wirklich arbeiten. Fast gleiche Seiten für jeden Kreis gelten bei Google als Brückenseiten.",
     "Englische Seiten lohnen sich, wenn Sie Kunden tatsächlich auf Englisch bedienen. hreflang gehört nur zu echten, übersetzten Inhalten.",
@@ -35,7 +35,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Auf dem Land gibt es im Umkreis von einigen Kilometern oft nur wenige Anbieter einer Branche. In der Stadt Zürich finden Suchende Coiffeure, Zahnarztpraxen oder Cafés häufig in derselben Strasse. Für Google gibt es dann fast immer einen passenden Betrieb, der näher liegt als Sie. Das heisst: Ihr realistisches Einzugsgebiet bei Suchen wie „in der Nähe“ ist kleiner als „ganz Zürich“.",
+          text: "Auf dem Land gibt es im Umkreis von einigen Kilometern oft nur wenige Anbieter einer Branche. In der Stadt Zürich können Suchende Coiffeure, Zahnarztpraxen oder Cafés in derselben Strasse finden. Dann kann ein passender Betrieb näher am Suchenden liegen als Sie. Das heisst: Ihr realistisches Einzugsgebiet bei Suchen wie „in der Nähe“ kann kleiner sein als „ganz Zürich“.",
         },
         {
           t: "table",
@@ -58,7 +58,7 @@ const article: V4Article = {
       id: "kreise-und-quartiere",
       title: "Kreise und Quartiere als Planungsebene",
       answer:
-        "Die Stadt Zürich ist in 12 Kreise gegliedert, die 22 historische Stadtquartiere und 34 statistische Quartiere umfassen. Diese Einteilung kennen Ihre Kunden, und sie eignet sich gut, um Einzugsgebiet, Inhalte und Messpunkte zu planen.",
+        "Die Stadt Zürich ist in 12 Kreise gegliedert, die 22 Stadtquartiere und 34 statistische Quartiere umfassen. Diese Einteilung kennen Ihre Kunden, und sie eignet sich gut, um Einzugsgebiet, Inhalte und Messpunkte zu planen.",
       blocks: [
         {
           t: "p",
@@ -85,7 +85,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Für die Statistik sind einige dieser Stadtquartiere weiter unterteilt, daher die Zahl von 34 statistischen Quartieren. Im Alltag tauchen zudem Namen auf, die keine offiziellen Quartiere sind, etwa Seefeld, Langstrasse oder Zürich-West. Verwenden Sie die Namen, die Ihre Kunden selbst benutzen, und prüfen Sie mit der Methode aus [Local SEO Keywords finden](/blog/local-seo-keywords-finden), welche davon tatsächlich gesucht werden.",
+          text: "Für die Statistik sind einige dieser Stadtquartiere weiter unterteilt, daher die Zahl von 34 statistischen Quartieren. Im Alltag tauchen zudem Namen auf, die keines der 22 Stadtquartiere bezeichnen, etwa Zürich-West. Verwenden Sie die Namen, die Ihre Kunden selbst benutzen, und prüfen Sie mit der Methode aus [Local SEO Keywords finden](/blog/local-seo-keywords-finden), welche davon tatsächlich gesucht werden.",
         },
         {
           t: "note",
@@ -139,7 +139,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google beschreibt Brückenseiten (englisch „doorway pages“) als Seiten, die erstellt werden, um bei ähnlichen Suchanfragen zu erscheinen, und die Nutzer zu weniger hilfreichen Zwischenseiten führen. Als Beispiel nennt Google ausdrücklich mehrere Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind. Zwölf Seiten „Elektriker Kreis 1“ bis „Elektriker Kreis 12“ mit demselben Text fallen genau darunter.",
+          text: "Google beschreibt Brückenseiten (englisch „doorway pages“) als Seiten, die erstellt werden, um bei ähnlichen Suchanfragen zu erscheinen, und die Nutzer zu weniger hilfreichen Zwischenseiten führen. Als Beispiel nennt Google ausdrücklich mehrere Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind. Zwölf Seiten „Elektriker Kreis 1“ bis „Elektriker Kreis 12“ mit demselben Text sind ein typischer Fall.",
         },
         {
           t: "table",
@@ -166,7 +166,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "In Zürich arbeiten und leben viele Menschen, die lieber auf Englisch suchen. Ob das für Ihren Betrieb zählt, wissen Sie selbst am besten: Fragen Kunden am Telefon auf Englisch? Kommen englische Bewertungen? Wenn ja, ist eine englische Version ein echter Service. Wenn Sie aber nur auf Deutsch beraten, weckt eine englische Seite falsche Erwartungen.",
+          text: "In Zürich leben und arbeiten auch Menschen, die lieber auf Englisch suchen. Ob das für Ihren Betrieb zählt, wissen Sie selbst am besten: Fragen Kunden am Telefon auf Englisch? Kommen englische Bewertungen? Wenn ja, ist eine englische Version ein echter Service. Wenn Sie aber nur auf Deutsch beraten, weckt eine englische Seite falsche Erwartungen.",
         },
         {
           t: "ul",
@@ -187,7 +187,7 @@ const article: V4Article = {
       id: "verzeichnisse",
       title: "local.ch, search.ch und einheitliche Firmendaten",
       answer:
-        "In der Schweiz sind local.ch und search.ch die bekannten allgemeinen Verzeichnisse. Wichtiger als viele Einträge ist, dass Name, Adresse und Telefonnummer überall gleich geschrieben sind wie im Google-Profil und auf der Website.",
+        "In der Schweiz betreibt localsearch die allgemeinen Verzeichnisse local.ch und search.ch. Wichtiger als viele Einträge ist, dass Name, Adresse und Telefonnummer überall gleich geschrieben sind wie im Google-Profil und auf der Website.",
       blocks: [
         {
           t: "p",
@@ -209,7 +209,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Gewerbeverband der Stadt Zürich (GVZ).** Der Verband besteht seit 1841 und vertritt nach eigenen Angaben als Dachorganisation rund 2000 Unternehmen in der Stadt.",
-            "**Quartiervereine.** In der Stadt gibt es 25 Quartiervereine, zusammengeschlossen in der Quartierkonferenz. Sie organisieren Anlässe, etwa für Neuzuzügerinnen und Neuzuzüger. Mitmachen, unterstützen oder einen Anlass mittragen ergibt Kontakte und oft eine Erwähnung.",
+            "**Quartiervereine.** Laut Stadt Zürich sind 25 Quartiervereine in den 34 Stadtquartieren aktiv. Sie organisieren ehrenamtlich unter anderem Info-Veranstaltungen für Neuzuziehende. Mitmachen, unterstützen oder einen Anlass mittragen ergibt Kontakte und oft eine Erwähnung.",
             "**Quartierzeitungen.** Neben dem Tagblatt der Stadt Zürich erscheinen Quartierzeitungen wie „Höngger“, „Zürich 2“, „Zürich West“, „Züriberg“ und „Zürich Nord“. Ein Jubiläum, eine neue Lehrstelle oder ein Angebot fürs Quartier ist ein echter Anlass für einen Hinweis.",
             "**Partner und Nachbarn.** Lieferanten, Vermieter, Coworking-Gastgeber oder Betriebe im selben Haus, die Sie auf ihrer Website nennen.",
           ],
@@ -314,7 +314,7 @@ const article: V4Article = {
     },
     {
       q: "Darf ich „Zürich“ oder den Kreis in meinen Firmennamen im Profil schreiben?",
-      a: "Nur wenn es Teil Ihres echten, auch auf Schild und Website verwendeten Namens ist. Zusätze, die nur der Sichtbarkeit dienen, verbietet Google. Wettbewerber können solche Namen melden, und das Profil kann gesperrt werden.",
+      a: "Nur wenn es Teil Ihres echten, auch auf Schild und Website verwendeten Namens ist. Zusätze, die nur der Sichtbarkeit dienen, verbietet Google. Bei Namensverstössen kann das Profil gesperrt werden.",
     },
     {
       q: "Kann ich als Handwerker mit Sitz ausserhalb der Stadt in Zürich erscheinen?",
@@ -322,14 +322,15 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
-    { title: "Einzugsgebiet verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9157481?hl=de" },
-    { title: "Spamrichtlinien für die Google Websuche (Brückenseiten)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies?hl=de" },
-    { title: "Lokalisierte Versionen deiner Seiten (hreflang)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de" },
+    { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Einzugsgebiete für Unternehmen ohne festen Standort und Hybridunternehmen verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9157481?hl=de" },
+    { title: "Spam Policies for Google Web Search (Doorway abuse)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies?hl=de" },
+    { title: "Lokalisierte Versionen deiner Seiten", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de" },
     { title: "Quartiervereine", publisher: "Stadt Zürich", url: "https://www.stadt-zuerich.ch/de/stadtleben/zusammenleben/in-den-quartieren/quartiervereine.html" },
-    { title: "Verband: Gewerbeverband der Stadt Zürich", publisher: "Gewerbeverband der Stadt Zürich (GVZ)", url: "https://gewerbezuerich.ch/verband/" },
-    { title: "Zürich: Stadtkreise und Stadtquartiere, Medien", publisher: "Wikipedia", url: "https://de.wikipedia.org/wiki/Z%C3%BCrich" },
+    { title: "Verband", publisher: "Gewerbeverband der Stadt Zürich (GVZ)", url: "https://gewerbezuerich.ch/verband/" },
+    { title: "Zürich (Medien, Stadtkreise)", publisher: "Wikipedia", url: "https://de.wikipedia.org/wiki/Z%C3%BCrich" },
+    { title: "Stadtteile der Stadt Zürich (12 Kreise, 22 Stadtquartiere, 34 statistische Quartiere)", publisher: "Wikipedia", url: "https://de.wikipedia.org/wiki/Stadtteile_der_Stadt_Z%C3%BCrich" },
   ],
   related: [
     { slug: "local-seo-schweiz", title: "Local SEO in der Schweiz" },

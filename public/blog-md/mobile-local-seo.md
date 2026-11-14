@@ -55,7 +55,7 @@ Google empfiehlt **responsives Webdesign**: Alle Geräte bekommen denselben HTML
 | --- | --- |
 | Gleiche Inhalte mobil wie am Computer | Was mobil fehlt, kennt Google nicht. Das betrifft auch Texte in eingeklappten Bereichen, die erst nach Klick nachgeladen werden |
 | Kein Nachladen der Hauptinhalte erst nach Tippen oder Wischen | Google lädt keine Inhalte, die eine Nutzerinteraktion voraussetzen |
-| Gleicher Title und gleiche Meta-Beschreibung | Google verlangt bei getrennten Versionen identische Angaben; fehlt die Beschreibung mobil, fehlt sie für Google |
+| Gleicher Title und gleiche Meta-Beschreibung | Google nennt gleichwertige Angaben in beiden Versionen als Vorgabe; fehlt die Beschreibung mobil, fehlt sie für Google |
 | Gleiche strukturierte Daten | Fehlt das LocalBusiness-Markup mobil, fehlt es für Google ganz |
 | Gleiche robots-Angaben | Ein noindex nur auf der mobilen Version kann die Seite aus dem Index nehmen |
 
@@ -134,7 +134,7 @@ Wenn Sie eine zweite Meinung möchten, sehen wir uns Ihre mobile Seite und Ihr P
 
 ### Was bedeutet Mobile-First-Indexierung?
 
-Google crawlt Ihre Seiten mit einem Smartphone-Agenten und nutzt diese mobile Version für Indexierung und Ranking. Eine eigene mobile Fassung ist nicht vorgeschrieben, Google empfiehlt sie aber dringend, am besten als responsives Design.
+Google crawlt Ihre Seiten mit einem Smartphone-Agenten und nutzt diese mobile Version für Indexierung und Ranking. Eine eigene mobile Fassung ist nicht vorgeschrieben. Google empfiehlt responsives Webdesign, weil es am einfachsten umzusetzen und zu pflegen ist.
 
 ### Wie schnell muss meine Seite auf dem Handy laden?
 
@@ -163,10 +163,10 @@ Für Hotels, Ferienwohnungen und Shops bietet LocalDominate den 72h Conversion S
 - [Nutzerfreundlichkeit von Seiten in den Google-Suchergebnissen](https://developers.google.com/search/docs/appearance/page-experience?hl=de), Google Search Central
 - [Störende Interstitials und Dialogfelder vermeiden](https://developers.google.com/search/docs/appearance/avoid-intrusive-interstitials?hl=de), Google Search Central
 - [AMP-Seiten in der Google Suche](https://developers.google.com/search/docs/crawling-indexing/amp?hl=de), Google Search Central
-- [Latest documentation updates (Mobile-Friendly-Test eingestellt, INP ersetzt FID)](https://developers.google.com/search/updates), Google Search Central
+- [Latest Google Search Documentation Updates](https://developers.google.com/search/updates), Google Search Central
 - [Leistungsbericht (Suchergebnisse)](https://support.google.com/webmasters/answer/7576553?hl=de), Search Console-Hilfe
 - [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/9918094?hl=de), Google Unternehmensprofil-Hilfe
-- [Get started with Maps URLs](https://developers.google.com/maps/documentation/urls/get-started), Google for Developers
+- [Get Started | Maps URLs](https://developers.google.com/maps/documentation/urls/get-started), Google for Developers
 - [Understanding Success Criterion 2.5.8: Target Size (Minimum)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html), W3C
 
 ---

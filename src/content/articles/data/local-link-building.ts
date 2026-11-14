@@ -11,7 +11,7 @@ const article: V4Article = {
   lead:
     "Für Inhaber und Marketingverantwortliche lokaler Betriebe in Deutschland, Österreich und der Schweiz, die mehr Verweise von Websites aus ihrer Region wollen. Sie erfahren, welche Quellen sich lohnen, wie Sie freundlich um einen Link bitten und wo Googles Regeln eine klare Grenze ziehen.",
   answer:
-    "Lokale Links entstehen, wenn Websites aus Ihrer Region einen echten Grund haben, auf Sie zu verweisen: Mitgliedschaften bei Kammer und Verband, Partner und Lieferanten, Vereine, lokale Presse und nützliche Inhalte. Google nennt die **Zahl der Websites, die auf ein Unternehmen verweisen**, als Teil der Bekanntheit. Gekaufte oder getauschte Links verstoßen gegen Googles Spamrichtlinien.",
+    "Lokale Links entstehen, wenn Websites aus Ihrer Region einen echten Grund haben, auf Sie zu verweisen: Mitgliedschaften bei Kammer und Verband, Partner und Lieferanten, Vereine, lokale Presse und nützliche Inhalte. Google nennt die **Zahl der Websites, die auf ein Unternehmen verweisen**, als Teil der Bekanntheit. Gekaufte Links und übermäßiger Linktausch verstoßen gegen Googles Spamrichtlinien.",
   takeaways: [
     "Google zählt die Websites, die auf Ihr Unternehmen verweisen, zur Bekanntheit, einem der drei Faktoren für lokale Ergebnisse.",
     "Die besten Quellen sind Verbindungen, die Sie schon haben: Kammer, Innung, Verband, Lieferanten, Partner, Vereine.",
@@ -90,7 +90,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Ehrlich bleiben",
-          text: "Viele Vereinswebsites setzen Sponsorenlinks ohne Kennzeichnung. Das ist ein Risiko für die Website des Vereins und für Sie. Bitten Sie freundlich darum, Sponsorenlinks mit „sponsored“ zu versehen. Eine Mitgliedschaft, die Sie ohnehin haben, ist dagegen keine bezahlte Platzierung.",
+          text: "Viele Vereinswebsites setzen Sponsorenlinks ohne Kennzeichnung. Das ist ein Risiko für die Website des Vereins und für Sie. Bitten Sie freundlich darum, Sponsorenlinks mit „sponsored“ zu versehen.",
         },
       ],
     },
@@ -257,7 +257,7 @@ const article: V4Article = {
   sources: [
     { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
     { title: "Spamrichtlinien für die Google Websuche (Link-Spam)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies?hl=de" },
-    { title: "Ausgehende Links für Google eingrenzen", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links?hl=de" },
+    { title: "Ausgehende Links für SEO eingrenzen", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links?hl=de" },
     { title: "Startleitfaden zur Suchmaschinenoptimierung (SEO)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=de" },
     { title: "Benötigst du einen Suchmaschinenoptimierer (SEO)?", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/fundamentals/do-i-need-seo?hl=de" },
   ],

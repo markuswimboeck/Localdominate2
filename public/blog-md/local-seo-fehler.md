@@ -21,7 +21,7 @@ Für Inhaber und Verantwortliche lokaler Betriebe, die bei Suchen wie „Zahnarz
 
 ## Die kurze Antwort
 
-Die häufigsten Local-SEO-Fehler sind ein Profilname mit Zusätzen, falsche Kategorien, Adressen ohne besetzte Betriebsstätte, Bewertungen mit Anreiz oder gezielter Auswahl und Stadtseiten mit fast gleichem Text. Google sortiert lokale Ergebnisse nach **Relevanz, Entfernung und Bekanntheit** und sagt, dass sich ein besseres lokales Ranking weder anfordern noch bezahlen lässt.
+Typische Local-SEO-Fehler sind ein Profilname mit Zusätzen, falsche Kategorien, Adressen ohne besetzte Betriebsstätte, Bewertungen mit Anreiz oder gezielter Auswahl und Stadtseiten mit fast gleichem Text. Google sortiert lokale Ergebnisse nach **Relevanz, Entfernung und Bekanntheit** und sagt, dass sich ein besseres lokales Ranking weder anfordern noch bezahlen lässt.
 
 ## Das Wichtigste in Kürze
 
@@ -53,7 +53,7 @@ Googles Hilfe zum lokalen Ranking sagt außerdem: Ein besseres lokales Ranking l
 
 Der Profilname entspricht dem Namen auf Schild und Briefkopf, ohne Zusätze. Kategorien beschreiben, was der Betrieb ist, und die Adresse muss zu einer echten, besetzten Betriebsstätte passen.
 
-Das Unternehmensprofil ist der Eintrag, den Suchende in Google Maps und im Kartenblock sehen. Googles Richtlinien für Name, Kategorie und Adresse sind konkret. Diese Fehler kommen häufig vor und widersprechen den Richtlinien.
+Das Unternehmensprofil ist der Eintrag, den Suchende in Google Maps und im Kartenblock sehen. Googles Richtlinien für Name, Kategorie und Adresse sind konkret. Diese Fehler widersprechen den Richtlinien.
 
 1. **Ort, Leistung oder Slogan im Namen.** Ein Name wie „Malerbetrieb Huber München Fassade“ enthält Zusätze, die Google nicht erlaubt. Der Name soll dem realen Namen Ihres Unternehmens entsprechen, wie auf Schild und Briefkopf.
 2. **Zu viele oder schlagwortartige Kategorien.** Wählen Sie möglichst wenige Kategorien, die beschreiben, was Ihr Betrieb ist. Kategorien dürfen nicht allein als Schlagworte dienen oder Eigenschaften beschreiben.
@@ -67,9 +67,9 @@ Prüfen Sie diese Punkte zuerst. Wenn Sie eine Adresse oder ein Servicegebiet ni
 
 Eine Seite je Ort mit fast gleichem Text, Listen von Städtenamen und Textblöcke zum Ranken gelten nach Googles Spam-Richtlinien als Problem. Besser ist eine Seite je Leistung mit eigenem Inhalt.
 
-Viele Betriebe wollen für jede Nachbargemeinde eine eigene Seite. Die Spam-Richtlinien von Google beschreiben solche Konstruktionen als Doorway-Seiten. Das sind Seiten, die für ähnliche Suchanfragen entstehen und Besucher auf eine Zielseite weiterleiten, die nicht so nützlich ist wie das eigentliche Ziel.
+Mancher Betrieb möchte für jede Nachbargemeinde eine eigene Seite. Die Spam-Richtlinien von Google beschreiben solche Konstruktionen als Doorway-Seiten. Das sind Seiten, die für ähnliche Suchanfragen entstehen und Besucher auf eine Zielseite weiterleiten, die nicht so nützlich ist wie das eigentliche Ziel.
 
-- **Mehrere Seiten mit fast gleichem Text** für Orte wie Stadtteile oder Nachbarorte. Google nennt Seiten, die sich im Wesentlichen ähneln, als Problem.
+- **Mehrere Seiten mit fast gleichem Text** für Orte wie Stadtteile oder Nachbarorte. Google nennt Seiten für bestimmte Regionen oder Städte, die Nutzer auf eine Zielseite lenken, als Brückenseiten.
 - **Textblöcke mit Städtenamen**, mit denen eine Seite für viele Orte ranken soll. Google nennt das Keyword-Stuffing.
 - **Wiederholte Begriffe**, die unnatürlich klingen, und Listen von Telefonnummern ohne eigenen Nutzen.
 
@@ -81,7 +81,7 @@ Schreiben Sie stattdessen eine Seite je Leistung. Sie nennt Ihren Ort in ganzen 
 
 Google erlaubt, Kunden um eine Bewertung zu bitten, die auf einem echten Erlebnis beruht. Verboten sind Belohnungen, gekaufte oder gefälschte Bewertungen, die gezielte Auswahl zufriedener Kunden und Bewertungen von Menschen mit Interessenkonflikt.
 
-Bewertungen wirken bei Google auf die Bekanntheit, und sie entscheiden mit, wer aus dem Kartenblock anruft. Die Richtlinien zu Rezensionen sind konkret. Die Tabelle fasst die wichtigsten Punkte zusammen.
+Bewertungen wirken bei Google auf die Bekanntheit: Anzahl und Bewertung der Rezensionen zählen laut Google dazu. Die Richtlinien zu Rezensionen sind konkret. Die Tabelle fasst die wichtigsten Punkte zusammen.
 
 *Bewertungen: erlaubt und nicht erlaubt*
 
@@ -154,10 +154,10 @@ Bei LocalDominate kostet der Google Profile Quick-Fix 79 €. Die volle Optimier
 
 ## Quellen
 
-- [Tips to improve your local ranking on Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe
-- [Spamrichtlinien für die Google-Websuche](https://developers.google.com/search/docs/essentials/spam-policies?hl=de), Google Search Central
+- [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Verbotene und eingeschränkt zulässige Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Richtlinien für von Maps-Nutzern veröffentlichte Inhalte-Hilfe
+- [Spam Policies for Google Web Search](https://developers.google.com/search/docs/essentials/spam-policies?hl=de), Google Search Central
 
 ---
 

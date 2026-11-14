@@ -31,7 +31,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Eine Suche nach einem Studio hat oft einen Ortsbezug. Er steht entweder in der Anfrage, etwa „Tattoo Studio Köln“, oder Google leitet ihn aus dem Standort des Suchenden ab, etwa bei „Piercing in der Nähe“. Daneben gibt es Stil-Suchen wie „Fine Line Tattoo“, die viele Kunden mit einem Ort verbinden.",
+          text: "Eine lokale Suche hat einen Ortsbezug. Er steht entweder in der Anfrage, etwa „Tattoo Studio Köln“, oder Google leitet ihn aus dem Standort des Suchenden ab, etwa bei „Piercing in der Nähe“. Daneben gibt es Stil-Suchen wie „Fine Line Tattoo“.",
         },
         {
           t: "table",
@@ -53,7 +53,7 @@ const article: V4Article = {
       id: "unternehmensprofil",
       title: "Das Unternehmensprofil richtig einrichten",
       answer:
-        "Das Unternehmensprofil ist der Eintrag, den Kunden in Google Maps und im Kartenblock sehen. Google verlangt einen Namen, der dem realen Namen entspricht, und so wenige Kategorien wie möglich.",
+        "Das Unternehmensprofil ist der Eintrag, den Kunden in Google Maps und im Kartenblock sehen. Google verlangt einen Namen, der dem realen Namen entspricht, und rät zu einer genauen Hauptkategorie mit wenigen weiteren.",
       blocks: [
         {
           t: "steps",
@@ -76,7 +76,7 @@ const article: V4Article = {
             },
             {
               title: "Beschreibung ohne Aktionen",
-              text: "Die Beschreibung erklärt, was Ihr Studio ist und wofür es steht. Google untersagt, sie auf Preise und Sonderaktionen auszurichten, und Links sind dort nicht erlaubt.",
+              text: "Die Beschreibung erklärt, was Ihr Studio ist und wofür es steht. Werbung für Sonderaktionen, günstige Preise und Angebote ist dort nicht zulässig, ebenso wenig Links.",
             },
             {
               title: "Fotos, die Ihr Studio zeigen",
@@ -128,7 +128,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Dateinamen mit Inhalt.** Google empfiehlt kurze, aber beschreibende Dateinamen und rät von generischen Namen wie image1.jpg ab. Aus IMG_4521.jpg wird zum Beispiel fine-line-tattoo-unterarm.jpg.",
-            "**Alt-Text in einem Satz.** Beschreiben Sie, was auf dem Bild zu sehen ist. Google warnt davor, Alt-Attribute mit Keywords zu füllen, Stadt und Stil gehören deshalb nicht dort hinein.",
+            "**Alt-Text in einem Satz.** Beschreiben Sie, was auf dem Bild zu sehen ist. Google warnt davor, Alt-Attribute mit Keywords zu überladen. Schreiben Sie keine Keyword-Listen hinein.",
             "**Bild nah am passenden Text.** Stellen Sie eine Arbeit dort ein, wo der Text zu diesem Stil steht. Google empfiehlt, Bilder möglichst nah an passendem Text zu platzieren.",
           ],
         },
@@ -154,7 +154,7 @@ const article: V4Article = {
           head: ["Erlaubt", "Verboten"],
           rows: [
             ["Kunden nach dem Termin auf den Google-Link oder QR-Code hinweisen", "Geld, Rabatte oder kostenlose Leistungen als Gegenleistung für eine Bewertung"],
-            ["Einen QR-Code am Empfang anbieten, ohne Druck", "Kunden gezielt um positive Bewertungen bitten oder negative Bewertungen verhindern"],
+            ["Link oder QR-Code als freies Angebot bereitstellen, ohne Druck und ohne Einfluss auf den Inhalt", "Kunden gezielt um positive Bewertungen bitten oder negative Bewertungen verhindern"],
             ["Auf Bewertungen antworten, sachlich und ohne private Daten des Verfassers", "Bewertungen von Personen mit Interessenkonflikt, etwa aktuellen oder früheren Mitarbeitern"],
           ],
         },
@@ -164,7 +164,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Drängen Sie niemanden. Ein Kunde, der gerade ein Tattoo bekommen hat, ist kein guter Moment für eine Bitte mit Nachdruck. Einen praktischen Ablauf zeigt [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen).",
+          text: "Drängen Sie niemanden. Google untersagt, Kundschaft, die noch vor Ort ist, zu einer Bewertung aufzufordern oder unter Druck zu setzen. Ein Kunde, der gerade ein Tattoo bekommen hat, ist kein guter Moment für eine Bitte mit Nachdruck. Einen praktischen Ablauf zeigt [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen).",
         },
       ],
     },
@@ -172,11 +172,11 @@ const article: V4Article = {
       id: "fehler",
       title: "Abkürzungen, die Ihrem Studio schaden",
       answer:
-        "Die häufigsten Fehler sind Zusätze im Firmennamen, gekaufte oder gesteuerte Bewertungen und Versprechen auf einen festen Listenplatz. Durch Anreize motivierte Bewertungen entfernt Google aus Maps.",
+        "Vermeiden Sie Zusätze im Firmennamen, gekaufte oder gesteuerte Bewertungen und Versprechen auf einen festen Listenplatz. Durch Anreize motivierte Bewertungen entfernt Google aus Maps.",
       blocks: [
         {
           t: "table",
-          caption: "Häufige Fehler und ihre Folgen",
+          caption: "Fehler und ihre Folgen",
           head: ["Fehler", "Warum er schadet"],
           rows: [
             ["Stil oder Ort im Firmennamen", "Googles Namensregeln lassen Zusätze zu Leistungen oder Standort nicht zu"],
@@ -184,7 +184,7 @@ const article: V4Article = {
             ["Gekaufte, gefilterte oder gesteuerte Bewertungen", "Anreize sind verboten, und durch Anreize motivierte Bewertungen entfernt Google aus Maps"],
             ["Jemand verspricht einen festen Listenplatz", "Google nennt keinen Weg, ein besseres lokales Ranking anzufordern oder zu bezahlen"],
             ["Eine Seite je Stadt mit gleichem Text", "Googles Spam-Richtlinien zählen solche Seiten zum Doorway-Missbrauch"],
-            ["Preise oder Aktionen in der Profilbeschreibung", "Google untersagt, die Beschreibung auf Preise und Aktionen auszurichten, Links sind nicht erlaubt"],
+            ["Preise oder Aktionen in der Profilbeschreibung", "Werbung für Sonderaktionen, günstige Preise und Angebote ist in der Beschreibung nicht zulässig, Links ebenfalls nicht"],
           ],
         },
       ],
@@ -235,13 +235,14 @@ const article: V4Article = {
   sources: [
     { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
     { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Unternehmenskategorie verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7249669?hl=de" },
     { title: "Verbotene und eingeschränkt zulässige Inhalte", publisher: "Google Maps-Hilfe, Richtlinien für Nutzerbeiträge", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=DE" },
     { title: "Tipps für mehr Rezensionen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3474122?hl=de" },
     { title: "Link oder QR-Code zum Anfordern von Rezensionen erstellen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/16816815?hl=de" },
     { title: "Leistung und Statistiken Ihres Unternehmensprofils", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9918094?hl=de" },
-    { title: "Richtlinien für Fotos und Videos sowie Inhaltsrichtlinien für Beiträge in Ihrem Unternehmensprofil", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7213077?hl=de-CH" },
+    { title: "Inhaltsrichtlinien für Fotos, Videos und Beiträge im Unternehmensprofil", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7213077?hl=de-CH" },
     { title: "Spam Policies for Google Web Search", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies" },
-    { title: "Image SEO Best Practices", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/google-images" },
+    { title: "Best Practices für die Suchmaschinenoptimierung für Bilder", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/google-images?hl=de" },
   ],
   related: [
     { slug: "google-my-business-optimieren", title: "Google Unternehmensprofil optimieren: die praktische Anleitung" },

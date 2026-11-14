@@ -100,7 +100,7 @@ Laut Google kann ein Unternehmen mit mehr Rezensionen und positiven Bewertungen 
 | Antworten fehlen oder sind unfreundlich | Ein einfacher Bereich, in dem Sie besser sein können |
 | Viele Rezensionen in kurzer Zeit, danach Stille | Eine einmalige Aktion. Für Sie zählt ein laufender Ablauf |
 
-> **Grenze:** Schreiben Sie keine Rezensionen über Wettbewerber und lassen Sie niemanden welche schreiben. Googles Richtlinien verbieten Inhalte, die auf einem Interessenkonflikt beruhen, und Inhalte über Mitbewerber, die deren Ruf schaden sollen.
+> **Grenze:** Schreiben Sie keine Rezensionen über Wettbewerber und lassen Sie niemanden welche schreiben. Googles Richtlinien verbieten Inhalte, die auf einem Interessenkonflikt beruhen, und Inhalte über den Ort oder das Unternehmen eines Mitbewerbers.
 
 ## Schritt 4: Lücken in Maßnahmen übersetzen
 
@@ -134,7 +134,7 @@ In Google Maps können Sie für ein Profil eine Bearbeitung vorschlagen oder ein
 
 ## Wie oft Sie die Analyse wiederholen
 
-Eine vollständige Analyse lohnt sich etwa zweimal im Jahr. Dazwischen reicht ein kurzer Blick einmal im Monat auf Messpunkte und neue Rezensionen der drei Hauptwettbewerber.
+Planen Sie die vollständige Analyse als feste Routine, zum Beispiel zweimal im Jahr. Dazwischen hilft ein kurzer Blick einmal im Monat auf Messpunkte und neue Rezensionen der drei Hauptwettbewerber. Das ist unsere Empfehlung, keine Vorgabe von Google.
 
 1. **Monatlich.** Dieselben Suchbegriffe an denselben Messpunkten prüfen. Neue Rezensionen der Wettbewerber zählen.
 2. **Bei plötzlichen Veränderungen.** Wenn Sie an vielen Punkten absinken, zuerst Ihr eigenes Profil prüfen, dann die Wettbewerber, dann das Google Search Status Dashboard auf angekündigte Updates.
@@ -146,7 +146,7 @@ Wenn Sie lieber eine zweite Meinung möchten, sehen wir uns Ihr Profil im [koste
 
 ### Wie viele Wettbewerber sollte ich vergleichen?
 
-Drei sind ein guter Start. Wählen Sie die Betriebe, die bei Ihren wichtigsten Suchbegriffen an den meisten Messpunkten vor Ihnen stehen. Mehr Betriebe kosten viel Zeit und bringen selten neue Erkenntnisse.
+Drei sind ein guter Start. Wählen Sie die Betriebe, die bei Ihren wichtigsten Suchbegriffen an den meisten Messpunkten vor Ihnen stehen. Mehr Betriebe kosten viel Zeit.
 
 ### Sehe ich die weiteren Kategorien eines Wettbewerbers?
 
@@ -158,7 +158,7 @@ Für den Vergleichsbogen nicht. Google Maps, der Test für Rich-Suchergebnisse u
 
 ### Darf ich die Texte und Fotos eines Wettbewerbers übernehmen?
 
-Nein. Lassen Sie sich von der Struktur anregen, etwa welche Leistungen genannt werden, und schreiben Sie eigene Texte mit eigenen Fotos. Kopierte Inhalte helfen Ihnen nicht und können rechtliche Probleme verursachen.
+Nein. Lassen Sie sich von der Struktur anregen, etwa welche Leistungen genannt werden, und schreiben Sie eigene Texte mit eigenen Fotos. Kopierte Inhalte helfen Ihnen nicht und können urheberrechtlich problematisch sein.
 
 ### Was, wenn alle Wettbewerber in allem besser sind?
 
@@ -167,8 +167,8 @@ Dann beginnen Sie mit dem, was Sie selbst steuern: Kategorie, vollständige Date
 ## Quellen
 
 - [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
-- [Verbotene und eingeschränkt zulässige Inhalte (Rezensionen)](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Verbotene und eingeschränkt zulässige Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Richtlinien für von Maps-Nutzern veröffentlichte Inhalte-Hilfe
 - [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/9918094?hl=de), Google Unternehmensprofil-Hilfe
 - [Daten- oder Inhaltsfehler auf Google Maps melden](https://support.google.com/maps/answer/3094088?hl=de), Google Maps-Hilfe
 - [Test für Rich-Suchergebnisse](https://support.google.com/webmasters/answer/7445569?hl=de), Search Console-Hilfe

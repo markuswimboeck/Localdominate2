@@ -35,7 +35,7 @@ Local SEO heißt für ein Tattoo- oder Piercing-Studio, bei Suchen mit Ortsbezug
 
 Kunden suchen nach einem Ort, nach einem Stil oder nach einer Leistung in ihrer Nähe. Ihr Studio sollte für alle drei Suchformen klar erkennbar sein.
 
-Eine Suche nach einem Studio hat oft einen Ortsbezug. Er steht entweder in der Anfrage, etwa „Tattoo Studio Köln“, oder Google leitet ihn aus dem Standort des Suchenden ab, etwa bei „Piercing in der Nähe“. Daneben gibt es Stil-Suchen wie „Fine Line Tattoo“, die viele Kunden mit einem Ort verbinden.
+Eine lokale Suche hat einen Ortsbezug. Er steht entweder in der Anfrage, etwa „Tattoo Studio Köln“, oder Google leitet ihn aus dem Standort des Suchenden ab, etwa bei „Piercing in der Nähe“. Daneben gibt es Stil-Suchen wie „Fine Line Tattoo“.
 
 *Drei Suchformen und was Ihr Studio dafür braucht*
 
@@ -49,13 +49,13 @@ Welche Begriffe Ihre Kundschaft in Ihrer Region tatsächlich nutzt, zeigt die Me
 
 ## Das Unternehmensprofil richtig einrichten
 
-Das Unternehmensprofil ist der Eintrag, den Kunden in Google Maps und im Kartenblock sehen. Google verlangt einen Namen, der dem realen Namen entspricht, und so wenige Kategorien wie möglich.
+Das Unternehmensprofil ist der Eintrag, den Kunden in Google Maps und im Kartenblock sehen. Google verlangt einen Namen, der dem realen Namen entspricht, und rät zu einer genauen Hauptkategorie mit wenigen weiteren.
 
 1. **Name wie auf dem Schild.** Der Name entspricht dem Namen auf Schild, Website und Impressum. Zusätze zu Leistungen oder Standort sind nach Googles Richtlinien nicht zulässig, auch kein Ortsname hinter dem Studionamen.
 2. **Kategorie: wenige und genaue.** Wählen Sie die Hauptkategorie, die beschreibt, was Ihr Betrieb ist, und nur wenige weitere. Prüfen Sie in Ihrem Profil, welche Tattoo- oder Piercing-Kategorien Google für Ihr Land anbietet.
 3. **Adresse oder Einzugsgebiet.** Ein Studio mit Kundschaft vor Ort zeigt seine Adresse. Ein Einzugsgebiet ist für Betriebe gedacht, die zu ihren Kunden fahren. Dort blenden Sie die Adresse aus.
 4. **Öffnungszeiten und Feiertage.** Pflegen Sie Feiertage, Urlaube und abweichende Zeiten im Profil. Falsche Zeiten führen Kunden vor verschlossene Türen.
-5. **Beschreibung ohne Aktionen.** Die Beschreibung erklärt, was Ihr Studio ist und wofür es steht. Google untersagt, sie auf Preise und Sonderaktionen auszurichten, und Links sind dort nicht erlaubt.
+5. **Beschreibung ohne Aktionen.** Die Beschreibung erklärt, was Ihr Studio ist und wofür es steht. Werbung für Sonderaktionen, günstige Preise und Angebote ist dort nicht zulässig, ebenso wenig Links.
 6. **Fotos, die Ihr Studio zeigen.** Außenansicht, Eingang, Arbeitsplätze, Team und Ihre Arbeiten. Für Fotos und Videos gelten Googles Richtlinien mit zusätzlichen Kriterien.
 
 Die vollständige Einrichtung Schritt für Schritt steht in [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren).
@@ -80,7 +80,7 @@ Ein Stil ist eine eigene Suche. Schreiben Sie deshalb für jeden Stil und jede L
 Fotos sollten echt sein und Ihr Studio zeigen, nicht Stockbilder. Dateinamen und Alt-Texte beschreiben das Bild in einfachen Worten, ohne Keywords zu stapeln.
 
 - **Dateinamen mit Inhalt.** Google empfiehlt kurze, aber beschreibende Dateinamen und rät von generischen Namen wie image1.jpg ab. Aus IMG_4521.jpg wird zum Beispiel fine-line-tattoo-unterarm.jpg.
-- **Alt-Text in einem Satz.** Beschreiben Sie, was auf dem Bild zu sehen ist. Google warnt davor, Alt-Attribute mit Keywords zu füllen, Stadt und Stil gehören deshalb nicht dort hinein.
+- **Alt-Text in einem Satz.** Beschreiben Sie, was auf dem Bild zu sehen ist. Google warnt davor, Alt-Attribute mit Keywords zu überladen. Schreiben Sie keine Keyword-Listen hinein.
 - **Bild nah am passenden Text.** Stellen Sie eine Arbeit dort ein, wo der Text zu diesem Stil steht. Google empfiehlt, Bilder möglichst nah an passendem Text zu platzieren.
 
 Veröffentlichen Sie Fotos von Kundinnen und Kunden nur mit deren ausdrücklicher Zustimmung. Mehr zu Profilfotos finden Sie im Artikel [Google Business Fotos optimieren](https://localdominate.org/blog/gbp-fotos-optimieren).
@@ -96,18 +96,18 @@ Bewertungen wirken auf zwei Wegen: Google zählt sie zur Bekanntheit, und Intere
 | Erlaubt | Verboten |
 | --- | --- |
 | Kunden nach dem Termin auf den Google-Link oder QR-Code hinweisen | Geld, Rabatte oder kostenlose Leistungen als Gegenleistung für eine Bewertung |
-| Einen QR-Code am Empfang anbieten, ohne Druck | Kunden gezielt um positive Bewertungen bitten oder negative Bewertungen verhindern |
+| Link oder QR-Code als freies Angebot bereitstellen, ohne Druck und ohne Einfluss auf den Inhalt | Kunden gezielt um positive Bewertungen bitten oder negative Bewertungen verhindern |
 | Auf Bewertungen antworten, sachlich und ohne private Daten des Verfassers | Bewertungen von Personen mit Interessenkonflikt, etwa aktuellen oder früheren Mitarbeitern |
 
 Link und QR-Code erstellen Sie in Google selbst. Den QR-Code erzeugen Sie am Computer, nicht am Handy. Die Anleitung steht in der Google-Hilfe unter „Link oder QR-Code zum Anfordern von Rezensionen erstellen“.
 
-Drängen Sie niemanden. Ein Kunde, der gerade ein Tattoo bekommen hat, ist kein guter Moment für eine Bitte mit Nachdruck. Einen praktischen Ablauf zeigt [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
+Drängen Sie niemanden. Google untersagt, Kundschaft, die noch vor Ort ist, zu einer Bewertung aufzufordern oder unter Druck zu setzen. Ein Kunde, der gerade ein Tattoo bekommen hat, ist kein guter Moment für eine Bitte mit Nachdruck. Einen praktischen Ablauf zeigt [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
 
 ## Abkürzungen, die Ihrem Studio schaden
 
-Die häufigsten Fehler sind Zusätze im Firmennamen, gekaufte oder gesteuerte Bewertungen und Versprechen auf einen festen Listenplatz. Durch Anreize motivierte Bewertungen entfernt Google aus Maps.
+Vermeiden Sie Zusätze im Firmennamen, gekaufte oder gesteuerte Bewertungen und Versprechen auf einen festen Listenplatz. Durch Anreize motivierte Bewertungen entfernt Google aus Maps.
 
-*Häufige Fehler und ihre Folgen*
+*Fehler und ihre Folgen*
 
 | Fehler | Warum er schadet |
 | --- | --- |
@@ -116,7 +116,7 @@ Die häufigsten Fehler sind Zusätze im Firmennamen, gekaufte oder gesteuerte Be
 | Gekaufte, gefilterte oder gesteuerte Bewertungen | Anreize sind verboten, und durch Anreize motivierte Bewertungen entfernt Google aus Maps |
 | Jemand verspricht einen festen Listenplatz | Google nennt keinen Weg, ein besseres lokales Ranking anzufordern oder zu bezahlen |
 | Eine Seite je Stadt mit gleichem Text | Googles Spam-Richtlinien zählen solche Seiten zum Doorway-Missbrauch |
-| Preise oder Aktionen in der Profilbeschreibung | Google untersagt, die Beschreibung auf Preise und Aktionen auszurichten, Links sind nicht erlaubt |
+| Preise oder Aktionen in der Profilbeschreibung | Werbung für Sonderaktionen, günstige Preise und Angebote ist in der Beschreibung nicht zulässig, Links ebenfalls nicht |
 
 ## Erfolg messen, nicht nur Positionen
 
@@ -152,13 +152,14 @@ Ihr Unternehmensprofil können Sie selbst pflegen. Bei LocalDominate kostet der 
 
 - [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
 - [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Unternehmenskategorie verwalten](https://support.google.com/business/answer/7249669?hl=de), Google Unternehmensprofil-Hilfe
 - [Verbotene und eingeschränkt zulässige Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=DE), Google Maps-Hilfe, Richtlinien für Nutzerbeiträge
 - [Tipps für mehr Rezensionen](https://support.google.com/business/answer/3474122?hl=de), Google Unternehmensprofil-Hilfe
 - [Link oder QR-Code zum Anfordern von Rezensionen erstellen](https://support.google.com/business/answer/16816815?hl=de), Google Unternehmensprofil-Hilfe
 - [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/9918094?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für Fotos und Videos sowie Inhaltsrichtlinien für Beiträge in Ihrem Unternehmensprofil](https://support.google.com/business/answer/7213077?hl=de-CH), Google Unternehmensprofil-Hilfe
+- [Inhaltsrichtlinien für Fotos, Videos und Beiträge im Unternehmensprofil](https://support.google.com/business/answer/7213077?hl=de-CH), Google Unternehmensprofil-Hilfe
 - [Spam Policies for Google Web Search](https://developers.google.com/search/docs/essentials/spam-policies), Google Search Central
-- [Image SEO Best Practices](https://developers.google.com/search/docs/appearance/google-images), Google Search Central
+- [Best Practices für die Suchmaschinenoptimierung für Bilder](https://developers.google.com/search/docs/appearance/google-images?hl=de), Google Search Central
 
 ---
 

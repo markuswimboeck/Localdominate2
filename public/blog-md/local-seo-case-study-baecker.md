@@ -28,8 +28,8 @@ Ein Bäckerei-Profil bei Google prüfen Sie in sechs Schritten: Bestand und Name
 - Google sagt, Betriebe mit vollständigen und genauen Angaben erscheinen eher in lokalen Ergebnissen. Daran misst sich jeder Prüfpunkt.
 - Name, Kategorien und Leistungen beschreiben nur, was Ihr Betrieb tatsächlich ist. Angebote, Ortsangaben und Slogans gehören nicht in den Namen.
 - Feiertage und Betriebsurlaub tragen Sie als Sondertage ein, rechtzeitig vor dem Termin.
-- Fotos zeigen Fassade, Auslage und Sortiment so, wie Kunden sie erleben. Bearbeiten Sie wenig und verwenden Sie keine Bilder aus Bilddatenbanken.
-- Bewertungen entstehen aus echten Erfahrungen. Bitten Sie alle Kunden gleich, ohne Anreiz, und antworten Sie sachlich.
+- Fotos zeigen Fassade, Auslage und Sortiment so, wie Kunden sie erleben. Bearbeiten Sie wenig und zeigen Sie Ihren echten Betrieb.
+- Bewertungen entstehen aus echten Erfahrungen. Bitten Sie alle Kunden gleich, ohne Anreiz und ohne Druck vor Ort, und antworten Sie bei Bedarf sachlich.
 
 ## Der Profil-Check im Überblick
 
@@ -79,7 +79,7 @@ Google nennt die Kategorien ausdrücklich als Faktor für das Ranking: „Die vo
 | Haben Sie einen Bereich mit eigenem Angebot, etwa eine Konditorei? | Als Zusatzkategorie nur, wenn er zum Betrieb gehört und Sie ihn führen |
 | Bieten Sie einzelne Produkte wie Torten oder Brot an? | Nicht als Kategorie, sondern als Leistung eintragen |
 
-> **Gut zu wissen:** Google zeigt als Beispiel ein Lebensmittelgeschäft mit der Hauptkategorie Lebensmittelgeschäft und den Zusatzkategorien Bäckerei und Feinkost. Die Kategorien sollten standortübergreifend gleich sein, wenn dort dieselbe Leistung angeboten wird.
+> **Gut zu wissen:** Google zeigt als Beispiel ein Lebensmittelgeschäft mit der Hauptkategorie Lebensmittelgeschäft und den Zusatzkategorien Bäckerei und Feinkost.
 
 ## Schritt 3: Fotos auswählen
 
@@ -97,7 +97,7 @@ Google nennt ein Logo, ein Titelbild und unternehmensspezifische Fotos. Die Einl
 - Empfohlen sind 720 × 720 Pixel, das Minimum liegt bei 250 × 250 Pixel.
 - Bearbeitung und Filter sparsam einsetzen. Google erwartet eine realistische Darstellung.
 
-> **Gut zu wissen:** Google nennt unternehmensspezifische Fotos ausdrücklich. Bilder aus einer Bilddatenbank passen nicht zu diesem Zweck. Gemeldete Fotos, die gegen die Richtlinien verstoßen, erhalten den Status „Nicht genehmigt“.
+> **Gut zu wissen:** Google empfiehlt Fotos Ihres Betriebs, Ihrer Produkte und Ihrer Dienstleistungen. Gemeldete Fotos, die gegen die Richtlinien verstoßen, erhalten den Status „Nicht genehmigt“.
 
 ## Schritt 4: Öffnungszeiten und Sondertage pflegen
 
@@ -114,7 +114,7 @@ Google sagt, Betriebe mit vollständigen und genauen Angaben erscheinen eher in 
 
 ## Schritt 5: Leistungen und Beschreibung
 
-Leistungen tragen Sie einzeln ein. Die Beschreibung bleibt sachlich, ohne Preise, Aktionen und Links.
+Leistungen tragen Sie einzeln ein. Die Beschreibung bleibt sachlich, ohne Werbung für Aktionen und Preisangebote und ohne Links.
 
 Kategorien beschreiben den Betrieb insgesamt, einzelne Produkte und Dienstleistungen gehören nicht hinein. Google bietet dafür eigene Funktionen im Profil, etwa das Leistungsverzeichnis.
 
@@ -122,34 +122,34 @@ Kategorien beschreiben den Betrieb insgesamt, einzelne Produkte und Dienstleistu
 - Kurze, konkrete Namen. Keine Werbesprache.
 - Keine Leistung, die Sie nicht anbieten. Die Angaben müssen zu Ihrem Betrieb passen.
 
-Die Beschreibung darf Leistungen, Produkte, Mission und Geschichte des Betriebs nennen. Nicht erlaubt sind Links jeder Art, Werbung und Angebote mit Preisen oder Rabatten. Minderwertige, irrelevante oder ablenkende Inhalte, etwa Tippfehler oder Zeichenspielereien, sind ebenfalls nicht zulässig.
+Die Beschreibung darf Dienstleistungen, Produkte, Philosophie und Geschichte des Betriebs nennen. Nicht erlaubt sind Links jeder Art sowie Werbung für Sonderaktionen, günstige Preise und Angebote. Minderwertige, irrelevante oder ablenkende Inhalte, etwa Tippfehler oder Zeichenspielereien, sind ebenfalls nicht zulässig.
 
 *Beschreibung: was hinein gehört*
 
 | Gehört hinein | Gehört nicht hinein |
 | --- | --- |
 | Ihr Sortiment und Ihre Herstellung | Links zu Website, Bestellseite oder Social Media |
-| Die Geschichte Ihres Betriebs und Ihre Handwerkstradition | Preise, Rabatte und Wochenangebote |
+| Die Geschichte Ihres Betriebs und Ihre Handwerkstradition | Werbung für Rabatte, günstige Preise und Wochenangebote |
 
 > **Achtung:** Ihre Website und Ihr Profil sollten dieselben Leistungen nennen. Widersprüche machen es schwerer, die Angaben eindeutig zuzuordnen.
 
 ## Schritt 6: Bewertungen ohne Druck
 
-Bewertungen entstehen aus echten Erfahrungen. Bitten Sie alle Kunden gleich, ohne Anreiz und ohne Auswahl, und antworten Sie sachlich auf jede Bewertung.
+Bewertungen entstehen aus echten Erfahrungen. Bitten Sie alle Kunden gleich, ohne Anreiz, ohne Auswahl und ohne Druck vor Ort. Antworten Sie bei Bedarf sachlich.
 
-Google nennt mehr Bewertungen und positive Bewertungen als Faktor für die Bekanntheit im lokalen Ranking. Hilfreiche Antworten des Betriebs hebt Google ebenfalls hervor. Die Regeln sind streng: Bewertungen, die für Geld oder andere Gegenleistungen abgegeben wurden, werden entfernt. Unternehmen dürfen negative Bewertungen weder unterdrücken noch gezielt positive Kunden zur Bewertung auffordern. Auch Vorgaben an Mitarbeitende, eine feste Zahl an Bewertungen zu sammeln, sind nicht erlaubt.
+Google nennt mehr Bewertungen und positive Bewertungen als Faktor für die Bekanntheit im lokalen Ranking. Positive Bewertungen und hilfreiche Antworten des Betriebs können laut Google helfen, sich von der Konkurrenz abzuheben. Die Regeln sind streng: Bewertungen, die für Geld oder andere Gegenleistungen abgegeben wurden, werden entfernt. Unternehmen dürfen negative Bewertungen weder unterdrücken noch gezielt positive Kunden zur Bewertung auffordern. Auch Vorgaben an Mitarbeitende, eine feste Zahl an Bewertungen zu sammeln, sind nicht erlaubt. Kunden, die noch im Laden sind, dürfen Sie nicht zu einer Bewertung auffordern oder unter Druck setzen.
 
 *Bitten um Bewertungen: erlaubt und nicht erlaubt*
 
 | Erlaubt | Nicht erlaubt |
 | --- | --- |
-| Alle Kunden auf die Möglichkeit hinweisen, etwa mit einem Link auf Kassenbon oder Schild | Rabatt, Gebäck oder eine andere Gegenleistung für eine Bewertung |
+| Alle Kunden auf die Möglichkeit hinweisen, etwa mit einem Link auf dem Kassenbon, ohne Druck im Laden | Rabatt, Gebäck oder eine andere Gegenleistung für eine Bewertung |
 | Ein QR-Code zum Bewerten, als freies Angebot ohne Gegenleistung | Nur zufriedene Kunden gezielt ansprechen und die übrigen auslassen |
-| Sachliche Antworten auf alle Bewertungen, auch auf kritische | Negative Bewertungen unterdrücken oder löschen lassen |
-| Bitten, die für echte Erfahrungen stehen | Bewertungen von Mitarbeitenden, Familie oder aus mehreren Konten |
+| Sachliche Antworten auf Bewertungen, auch auf kritische | Negative Bewertungen unterdrücken oder löschen lassen |
+| Bitten, die für echte Erfahrungen stehen | Bewertungen von Mitarbeitenden, Familie oder aus mehreren Konten einer Person |
 
-1. **Hinweis festlegen.** Ein Schild am Tresen oder ein Hinweis auf dem Kassenbon mit dem Bewertungslink, ohne Druck und ohne Gegenleistung. Den Ablauf im Kundenkontakt beschreibt auch der Artikel [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
-2. **Antworten im Rhythmus.** Antworten Sie innerhalb weniger Tage, sachlich und ohne persönliche Angaben des Kunden.
+1. **Hinweis festlegen.** Ein Hinweis auf dem Kassenbon mit dem Bewertungslink, ohne Druck und ohne Gegenleistung. Den Ablauf im Kundenkontakt beschreibt auch der Artikel [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
+2. **Antworten, wenn es nötig ist.** Google verlangt nicht, jede Bewertung zu beantworten. Antworten Sie bei Bedarf, bei negativen Bewertungen zeitnah, sachlich und ohne persönliche Angaben des Kunden.
 3. **Auffälligkeiten erkennen.** Bewertungen, die gegen die Richtlinien verstoßen, entfernt Google. Prüfen Sie Ihre Bewertungen regelmäßig, damit Sie solche Fälle bemerken.
 
 > **Achtung:** Drängen Sie niemanden zu einer Bewertung. Ein freundlicher Hinweis reicht, und wer nicht bewerten möchte, wird nicht weiter gefragt.
@@ -158,7 +158,7 @@ Google nennt mehr Bewertungen und positive Bewertungen als Faktor für die Bekan
 
 ### Wie oft sollte ich den Profil-Check wiederholen?
 
-Öffnungszeiten und Sondertage prüfen Sie vor jedem Feiertag und jeder Schließung. Den gesamten Check wiederholen Sie etwa zweimal im Jahr, weil sich Sortiment und Angebote ändern.
+Öffnungszeiten und Sondertage prüfen Sie vor jedem Feiertag und jeder Schließung. Den gesamten Check wiederholen Sie nach unserer Empfehlung regelmäßig, etwa halbjährlich. Google gibt dafür keinen Rhythmus vor.
 
 ### Darf ich Kunden bitten, eine Bewertung abzugeben?
 
@@ -166,11 +166,11 @@ Ja, wenn Sie echte Erfahrungen anregen, ohne Anreiz und ohne Auswahl. Google ver
 
 ### Muss ich auf jede Bewertung antworten?
 
-Google hebt hilfreiche Antworten als Stärke hervor. Antworten Sie deshalb sachlich auf alle Bewertungen, auch auf kritische, und ohne persönliche Angaben des Kunden.
+Nein, Google schreibt das nicht vor. Die Hilfe sagt ausdrücklich, dass Sie nicht jedem öffentlich danken müssen. Antworten Sie bei Bedarf, bei negativen Bewertungen zeitnah, sachlich und ohne persönliche Angaben des Kunden.
 
 ### Wir haben mehrere Filialen. Was gilt?
 
-Jeder Standort mit eigener Adresse bekommt ein eigenes Profil, und Google sieht pro Standort nur eine Seite vor. Der Name muss im selben Land an allen Standorten gleich sein. Die Kategorien sollten gleich bleiben, wenn dort dieselben Leistungen angeboten werden.
+Jeder Standort mit eigener Adresse bekommt ein eigenes Profil, und Google sieht pro Standort nur eine Seite vor. Der Name muss im selben Land grundsätzlich an allen Standorten gleich sein.
 
 ### Kann ich mir ein besseres lokales Ranking kaufen?
 
@@ -178,12 +178,12 @@ Nein. Google schreibt, dass ein besseres lokales Ranking nicht angefragt oder be
 
 ## Quellen
 
-- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
 - [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe
-- [Fotos zu Ihrem Unternehmensprofil](https://support.google.com/business/answer/6103862?hl=de), Google Unternehmensprofil-Hilfe
-- [Kategorien für Ihr Unternehmensprofil](https://support.google.com/business/answer/7249669?hl=de), Google Unternehmensprofil-Hilfe
-- [How to set Special hours](https://support.google.com/business/answer/6303076?hl=de), Google Unternehmensprofil-Hilfe
+- [Verbotene und eingeschränkt zulässige Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe, Richtlinien für Nutzerbeiträge
+- [Fotos und Videos in Ihrem Unternehmensprofil verwalten](https://support.google.com/business/answer/6103862?hl=de), Google Unternehmensprofil-Hilfe
+- [Unternehmenskategorie verwalten](https://support.google.com/business/answer/7249669?hl=de), Google Unternehmensprofil-Hilfe
+- [Spezielle Öffnungszeiten festlegen](https://support.google.com/business/answer/6303076?hl=de), Google Unternehmensprofil-Hilfe
 
 ---
 

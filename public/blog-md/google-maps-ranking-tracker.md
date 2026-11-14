@@ -43,7 +43,7 @@ Google nennt Relevanz, Entfernung und Bekanntheit als Grundlage der lokalen Erge
 | --- | --- | --- |
 | Eigene Suche am Handy | Ihre Position an Ihrem Standort | Sagt nichts über andere Orte im Einzugsgebiet |
 | Raster von Hand | Position an mehreren festen Punkten | Kostet Zeit, nur für wenige Begriffe praktikabel |
-| Raster mit einem Werkzeug | Position an vielen Punkten als Karte | Kostet Guthaben je Messpunkt, Ergebnisse je Anbieter leicht verschieden |
+| Raster mit einem Werkzeug | Position an vielen Punkten als Karte | Kostet Guthaben je Messpunkt, Ergebnisse können je Anbieter abweichen |
 | Leistungsdaten im Unternehmensprofil | Aufrufe, Suchanfragen, Anrufe, Routen, Websiteklicks | Keine Positionen |
 | Google Search Console | Klicks, Impressionen und durchschnittliche Position Ihrer Website in der Google Suche | Laut Google nur Google-Suchergebnisse, keine Positionen in der Maps-Liste |
 
@@ -54,10 +54,10 @@ Bevor Sie messen, legen Sie Begriffe, Punkte, Abstand, Rhythmus und Uhrzeit fest
 1. **Suchbegriffe wählen.** Drei bis zehn Begriffe, die Kunden tatsächlich nutzen und die zu Ihrem Umsatz passen. Gute Kandidaten finden Sie in den Suchanfragen Ihres Unternehmensprofils. Messen Sie Begriffe ohne Ortsangabe. Steht der Ort im Begriff, gibt er die Gegend fest vor, und das Raster verliert seinen Sinn. Ihren eigenen Firmennamen brauchen Sie nicht zu messen.
 2. **Rastergröße festlegen.** Übliche Raster sind 3 × 3 (9 Punkte), 5 × 5 (25 Punkte) oder 7 × 7 (49 Punkte). Von Hand ist ein 3 × 3-Raster realistisch. Punkte über Wasser, Wald oder Gebieten ohne Kunden können Sie weglassen.
 3. **Abstand der Punkte festlegen.** Das Raster soll Ihr echtes Einzugsgebiet abdecken. Ein Café in der Innenstadt braucht engere Abstände als ein Installateur, der eine ganze Region bedient.
-4. **Rhythmus festlegen.** Einmal im Monat genügt für die meisten Betriebe. Nach größeren Änderungen am Profil können Sie zusätzlich eine Woche später messen.
+4. **Rhythmus festlegen.** Einmal im Monat ist ein praktikabler Rhythmus. Nach größeren Änderungen am Profil können Sie zusätzlich eine Woche später messen.
 5. **Uhrzeit festlegen.** Messen Sie immer etwa zur gleichen Zeit und möglichst während Ihrer Öffnungszeiten, damit die Bedingungen vergleichbar bleiben.
 
-> **Kosten bei Werkzeugen:** Bei Raster-Werkzeugen ist jeder Messpunkt eine eigene Suche. BrightLocal rechnet als Beispiel vor: Zwei Begriffe in einem 5 × 5-Raster ergeben 50 Abfragen. Rechnen Sie Begriffe mal Punkte mal Messungen im Jahr, bevor Sie ein Paket wählen, und prüfen Sie die aktuellen Preise direkt beim Anbieter.
+> **Kosten bei Werkzeugen:** Bei Raster-Werkzeugen ist jeder Messpunkt eine eigene Suche. BrightLocal rechnet als Beispiel vor: Zwei Begriffe in einem 5 × 5-Raster kosten 50 Credits. Rechnen Sie Begriffe mal Punkte mal Messungen im Jahr, bevor Sie ein Paket wählen, und prüfen Sie die aktuellen Preise direkt beim Anbieter.
 
 ## Die Vorlage: vier Blätter
 
@@ -162,7 +162,7 @@ Ist Ihr Betrieb gar nicht mehr zu finden, hilft der Artikel [Ranking plötzlich 
 
 ### Wie oft sollte ich meine Maps-Positionen messen?
 
-Einmal im Monat reicht für die meisten Betriebe. Wichtig ist, dass Sie immer mit denselben Begriffen, Punkten und ähnlicher Uhrzeit messen. Nach größeren Änderungen am Profil können Sie zusätzlich nach einer Woche messen.
+Einmal im Monat ist ein praktikabler Rhythmus. Wichtig ist, dass Sie immer mit denselben Begriffen, Punkten und ähnlicher Uhrzeit messen. Nach größeren Änderungen am Profil können Sie zusätzlich nach einer Woche messen.
 
 ### Reicht die Google Search Console für das Tracking?
 
@@ -170,7 +170,7 @@ Für Maps nicht. Die durchschnittliche Position in der Search Console bezieht si
 
 ### Wie viele Suchbegriffe sollte ich verfolgen?
 
-Drei bis zehn genügen für die meisten Betriebe. Wählen Sie Begriffe mit klarer Kaufabsicht, die zu Ihren wichtigsten Leistungen passen. Jeder weitere Begriff vervielfacht Aufwand oder Kosten.
+Drei bis zehn sind ein praktikabler Umfang. Wählen Sie Begriffe mit klarer Kaufabsicht, die zu Ihren wichtigsten Leistungen passen. Jeder weitere Begriff vervielfacht Aufwand oder Kosten.
 
 ### Mein Ranking schwankt von Messung zu Messung. Ist das normal?
 
@@ -182,12 +182,12 @@ Wir beginnen mit dem [kostenlosen Check](https://localdominate.org/de#check) Ihr
 
 ## Quellen
 
-- [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
 - [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/9918094?hl=de), Google Unternehmensprofil-Hilfe
 - [Was sind Impressionen, Position und Klicks?](https://support.google.com/webmasters/answer/7042828?hl=de), Search Console-Hilfe
-- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
 - [Unternehmensprofil bearbeiten](https://support.google.com/business/answer/3039617?hl=de), Google Unternehmensprofil-Hilfe
-- [Geo Grid Ranking Tools Compared](https://www.brightlocal.com/resources/geo-grid-ranking-tool-comparison-guide/), BrightLocal
+- [Geo Grid Ranking Tools Compared: Local Viking, Local Falcon, Semrush, and More](https://www.brightlocal.com/resources/geo-grid-ranking-tool-comparison-guide/), BrightLocal
 
 ---
 

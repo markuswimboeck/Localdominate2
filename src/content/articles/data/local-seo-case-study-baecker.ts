@@ -16,8 +16,8 @@ const article: V4Article = {
     "Google sagt, Betriebe mit vollständigen und genauen Angaben erscheinen eher in lokalen Ergebnissen. Daran misst sich jeder Prüfpunkt.",
     "Name, Kategorien und Leistungen beschreiben nur, was Ihr Betrieb tatsächlich ist. Angebote, Ortsangaben und Slogans gehören nicht in den Namen.",
     "Feiertage und Betriebsurlaub tragen Sie als Sondertage ein, rechtzeitig vor dem Termin.",
-    "Fotos zeigen Fassade, Auslage und Sortiment so, wie Kunden sie erleben. Bearbeiten Sie wenig und verwenden Sie keine Bilder aus Bilddatenbanken.",
-    "Bewertungen entstehen aus echten Erfahrungen. Bitten Sie alle Kunden gleich, ohne Anreiz, und antworten Sie sachlich.",
+    "Fotos zeigen Fassade, Auslage und Sortiment so, wie Kunden sie erleben. Bearbeiten Sie wenig und zeigen Sie Ihren echten Betrieb.",
+    "Bewertungen entstehen aus echten Erfahrungen. Bitten Sie alle Kunden gleich, ohne Anreiz und ohne Druck vor Ort, und antworten Sie bei Bedarf sachlich.",
   ],
   publishedAt: "2026-02-02",
   updatedAt: "2026-10-10",
@@ -117,7 +117,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Gut zu wissen",
-          text: "Google zeigt als Beispiel ein Lebensmittelgeschäft mit der Hauptkategorie Lebensmittelgeschäft und den Zusatzkategorien Bäckerei und Feinkost. Die Kategorien sollten standortübergreifend gleich sein, wenn dort dieselbe Leistung angeboten wird.",
+          text: "Google zeigt als Beispiel ein Lebensmittelgeschäft mit der Hauptkategorie Lebensmittelgeschäft und den Zusatzkategorien Bäckerei und Feinkost.",
         },
       ],
     },
@@ -152,7 +152,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Gut zu wissen",
-          text: "Google nennt unternehmensspezifische Fotos ausdrücklich. Bilder aus einer Bilddatenbank passen nicht zu diesem Zweck. Gemeldete Fotos, die gegen die Richtlinien verstoßen, erhalten den Status „Nicht genehmigt“.",
+          text: "Google empfiehlt Fotos Ihres Betriebs, Ihrer Produkte und Ihrer Dienstleistungen. Gemeldete Fotos, die gegen die Richtlinien verstoßen, erhalten den Status „Nicht genehmigt“.",
         },
       ],
     },
@@ -186,7 +186,7 @@ const article: V4Article = {
       id: "schritt-5-leistungen-beschreibung",
       title: "Schritt 5: Leistungen und Beschreibung",
       answer:
-        "Leistungen tragen Sie einzeln ein. Die Beschreibung bleibt sachlich, ohne Preise, Aktionen und Links.",
+        "Leistungen tragen Sie einzeln ein. Die Beschreibung bleibt sachlich, ohne Werbung für Aktionen und Preisangebote und ohne Links.",
       blocks: [
         {
           t: "p",
@@ -202,7 +202,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Die Beschreibung darf Leistungen, Produkte, Mission und Geschichte des Betriebs nennen. Nicht erlaubt sind Links jeder Art, Werbung und Angebote mit Preisen oder Rabatten. Minderwertige, irrelevante oder ablenkende Inhalte, etwa Tippfehler oder Zeichenspielereien, sind ebenfalls nicht zulässig.",
+          text: "Die Beschreibung darf Dienstleistungen, Produkte, Philosophie und Geschichte des Betriebs nennen. Nicht erlaubt sind Links jeder Art sowie Werbung für Sonderaktionen, günstige Preise und Angebote. Minderwertige, irrelevante oder ablenkende Inhalte, etwa Tippfehler oder Zeichenspielereien, sind ebenfalls nicht zulässig.",
         },
         {
           t: "table",
@@ -210,7 +210,7 @@ const article: V4Article = {
           head: ["Gehört hinein", "Gehört nicht hinein"],
           rows: [
             ["Ihr Sortiment und Ihre Herstellung", "Links zu Website, Bestellseite oder Social Media"],
-            ["Die Geschichte Ihres Betriebs und Ihre Handwerkstradition", "Preise, Rabatte und Wochenangebote"],
+            ["Die Geschichte Ihres Betriebs und Ihre Handwerkstradition", "Werbung für Rabatte, günstige Preise und Wochenangebote"],
           ],
         },
         {
@@ -224,28 +224,28 @@ const article: V4Article = {
       id: "schritt-6-bewertungen",
       title: "Schritt 6: Bewertungen ohne Druck",
       answer:
-        "Bewertungen entstehen aus echten Erfahrungen. Bitten Sie alle Kunden gleich, ohne Anreiz und ohne Auswahl, und antworten Sie sachlich auf jede Bewertung.",
+        "Bewertungen entstehen aus echten Erfahrungen. Bitten Sie alle Kunden gleich, ohne Anreiz, ohne Auswahl und ohne Druck vor Ort. Antworten Sie bei Bedarf sachlich.",
       blocks: [
         {
           t: "p",
-          text: "Google nennt mehr Bewertungen und positive Bewertungen als Faktor für die Bekanntheit im lokalen Ranking. Hilfreiche Antworten des Betriebs hebt Google ebenfalls hervor. Die Regeln sind streng: Bewertungen, die für Geld oder andere Gegenleistungen abgegeben wurden, werden entfernt. Unternehmen dürfen negative Bewertungen weder unterdrücken noch gezielt positive Kunden zur Bewertung auffordern. Auch Vorgaben an Mitarbeitende, eine feste Zahl an Bewertungen zu sammeln, sind nicht erlaubt.",
+          text: "Google nennt mehr Bewertungen und positive Bewertungen als Faktor für die Bekanntheit im lokalen Ranking. Positive Bewertungen und hilfreiche Antworten des Betriebs können laut Google helfen, sich von der Konkurrenz abzuheben. Die Regeln sind streng: Bewertungen, die für Geld oder andere Gegenleistungen abgegeben wurden, werden entfernt. Unternehmen dürfen negative Bewertungen weder unterdrücken noch gezielt positive Kunden zur Bewertung auffordern. Auch Vorgaben an Mitarbeitende, eine feste Zahl an Bewertungen zu sammeln, sind nicht erlaubt. Kunden, die noch im Laden sind, dürfen Sie nicht zu einer Bewertung auffordern oder unter Druck setzen.",
         },
         {
           t: "table",
           caption: "Bitten um Bewertungen: erlaubt und nicht erlaubt",
           head: ["Erlaubt", "Nicht erlaubt"],
           rows: [
-            ["Alle Kunden auf die Möglichkeit hinweisen, etwa mit einem Link auf Kassenbon oder Schild", "Rabatt, Gebäck oder eine andere Gegenleistung für eine Bewertung"],
+            ["Alle Kunden auf die Möglichkeit hinweisen, etwa mit einem Link auf dem Kassenbon, ohne Druck im Laden", "Rabatt, Gebäck oder eine andere Gegenleistung für eine Bewertung"],
             ["Ein QR-Code zum Bewerten, als freies Angebot ohne Gegenleistung", "Nur zufriedene Kunden gezielt ansprechen und die übrigen auslassen"],
-            ["Sachliche Antworten auf alle Bewertungen, auch auf kritische", "Negative Bewertungen unterdrücken oder löschen lassen"],
-            ["Bitten, die für echte Erfahrungen stehen", "Bewertungen von Mitarbeitenden, Familie oder aus mehreren Konten"],
+            ["Sachliche Antworten auf Bewertungen, auch auf kritische", "Negative Bewertungen unterdrücken oder löschen lassen"],
+            ["Bitten, die für echte Erfahrungen stehen", "Bewertungen von Mitarbeitenden, Familie oder aus mehreren Konten einer Person"],
           ],
         },
         {
           t: "steps",
           items: [
-            { title: "Hinweis festlegen", text: "Ein Schild am Tresen oder ein Hinweis auf dem Kassenbon mit dem Bewertungslink, ohne Druck und ohne Gegenleistung. Den Ablauf im Kundenkontakt beschreibt auch der Artikel [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen)." },
-            { title: "Antworten im Rhythmus", text: "Antworten Sie innerhalb weniger Tage, sachlich und ohne persönliche Angaben des Kunden." },
+            { title: "Hinweis festlegen", text: "Ein Hinweis auf dem Kassenbon mit dem Bewertungslink, ohne Druck und ohne Gegenleistung. Den Ablauf im Kundenkontakt beschreibt auch der Artikel [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen)." },
+            { title: "Antworten, wenn es nötig ist", text: "Google verlangt nicht, jede Bewertung zu beantworten. Antworten Sie bei Bedarf, bei negativen Bewertungen zeitnah, sachlich und ohne persönliche Angaben des Kunden." },
             { title: "Auffälligkeiten erkennen", text: "Bewertungen, die gegen die Richtlinien verstoßen, entfernt Google. Prüfen Sie Ihre Bewertungen regelmäßig, damit Sie solche Fälle bemerken." },
           ],
         },
@@ -260,7 +260,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Wie oft sollte ich den Profil-Check wiederholen?",
-      a: "Öffnungszeiten und Sondertage prüfen Sie vor jedem Feiertag und jeder Schließung. Den gesamten Check wiederholen Sie etwa zweimal im Jahr, weil sich Sortiment und Angebote ändern.",
+      a: "Öffnungszeiten und Sondertage prüfen Sie vor jedem Feiertag und jeder Schließung. Den gesamten Check wiederholen Sie nach unserer Empfehlung regelmäßig, etwa halbjährlich. Google gibt dafür keinen Rhythmus vor.",
     },
     {
       q: "Darf ich Kunden bitten, eine Bewertung abzugeben?",
@@ -268,11 +268,11 @@ const article: V4Article = {
     },
     {
       q: "Muss ich auf jede Bewertung antworten?",
-      a: "Google hebt hilfreiche Antworten als Stärke hervor. Antworten Sie deshalb sachlich auf alle Bewertungen, auch auf kritische, und ohne persönliche Angaben des Kunden.",
+      a: "Nein, Google schreibt das nicht vor. Die Hilfe sagt ausdrücklich, dass Sie nicht jedem öffentlich danken müssen. Antworten Sie bei Bedarf, bei negativen Bewertungen zeitnah, sachlich und ohne persönliche Angaben des Kunden.",
     },
     {
       q: "Wir haben mehrere Filialen. Was gilt?",
-      a: "Jeder Standort mit eigener Adresse bekommt ein eigenes Profil, und Google sieht pro Standort nur eine Seite vor. Der Name muss im selben Land an allen Standorten gleich sein. Die Kategorien sollten gleich bleiben, wenn dort dieselben Leistungen angeboten werden.",
+      a: "Jeder Standort mit eigener Adresse bekommt ein eigenes Profil, und Google sieht pro Standort nur eine Seite vor. Der Name muss im selben Land grundsätzlich an allen Standorten gleich sein.",
     },
     {
       q: "Kann ich mir ein besseres lokales Ranking kaufen?",
@@ -280,12 +280,12 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
     { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
-    { title: "Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
-    { title: "Fotos zu Ihrem Unternehmensprofil", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/6103862?hl=de" },
-    { title: "Kategorien für Ihr Unternehmensprofil", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7249669?hl=de" },
-    { title: "How to set Special hours", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/6303076?hl=de" },
+    { title: "Verbotene und eingeschränkt zulässige Inhalte", publisher: "Google Maps-Hilfe, Richtlinien für Nutzerbeiträge", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
+    { title: "Fotos und Videos in Ihrem Unternehmensprofil verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/6103862?hl=de" },
+    { title: "Unternehmenskategorie verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7249669?hl=de" },
+    { title: "Spezielle Öffnungszeiten festlegen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/6303076?hl=de" },
   ],
   related: [
     { slug: "google-my-business-optimieren", title: "Google Unternehmensprofil optimieren: die praktische Anleitung" },

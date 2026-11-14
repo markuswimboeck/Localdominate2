@@ -21,11 +21,11 @@ Für Betriebe in der Stadt und im Kanton Zürich, die bei Suchen wie „Coiffeur
 
 ## Die kurze Antwort
 
-In Zürich liegen viele Anbieter derselben Branche nah beieinander. Weil Google lokale Treffer auch nach der **Entfernung** sortiert, ist Ihr Einzugsgebiet oft nur ein Kreis oder ein paar Quartiere gross. Pflegen Sie Ihr Unternehmensprofil mit echter Adresse, nennen Sie auf der Website nur Quartiere, die Sie wirklich bedienen, bauen Sie lokale Erwähnungen auf und messen Sie mit einem Raster über die Stadt.
+In Zürich liegen viele Anbieter derselben Branche nah beieinander. Weil Google lokale Treffer auch nach der **Entfernung** sortiert, kann Ihr Einzugsgebiet auf einen Kreis oder ein paar Quartiere schrumpfen. Pflegen Sie Ihr Unternehmensprofil mit echter Adresse, nennen Sie auf der Website nur Quartiere, die Sie wirklich bedienen, bauen Sie lokale Erwähnungen auf und messen Sie mit einem Raster über die Stadt.
 
 ## Das Wichtigste in Kürze
 
-- Google sortiert lokale Treffer nach Relevanz, Entfernung und Bekanntheit. In einer dichten Stadt wie Zürich wirkt die Entfernung besonders stark, weil die nächsten Wettbewerber oft nur wenige Strassen entfernt sind.
+- Google sortiert lokale Treffer nach Relevanz, Entfernung und Bekanntheit. In einer dichten Stadt wie Zürich kann die Entfernung stark ins Gewicht fallen, weil nahe Wettbewerber nur wenige Strassen entfernt sein können.
 - Die Stadt Zürich besteht aus 12 Kreisen mit 34 statistischen Quartieren. Planen Sie Ihre Sichtbarkeit auf dieser Ebene, nicht für „ganz Zürich“.
 - Nennen Sie Quartiere nur dort, wo Sie wirklich arbeiten. Fast gleiche Seiten für jeden Kreis gelten bei Google als Brückenseiten.
 - Englische Seiten lohnen sich, wenn Sie Kunden tatsächlich auf Englisch bedienen. hreflang gehört nur zu echten, übersetzten Inhalten.
@@ -37,7 +37,7 @@ Die Regeln sind dieselben wie überall: Google sortiert nach Relevanz, Entfernun
 
 Google beschreibt in seiner Hilfe drei Faktoren für das lokale Ranking: **Relevanz** (passt das Profil zur Suche), **Entfernung** (wie weit ist der Betrieb vom Suchenden oder vom gesuchten Ort entfernt) und **Bekanntheit** (wie bekannt ist der Betrieb). Dort steht auch, dass sich ein besseres lokales Ranking nicht kaufen lässt. Wie diese Faktoren allgemein wirken, erklärt der [Local-SEO-Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo).
 
-Auf dem Land gibt es im Umkreis von einigen Kilometern oft nur wenige Anbieter einer Branche. In der Stadt Zürich finden Suchende Coiffeure, Zahnarztpraxen oder Cafés häufig in derselben Strasse. Für Google gibt es dann fast immer einen passenden Betrieb, der näher liegt als Sie. Das heisst: Ihr realistisches Einzugsgebiet bei Suchen wie „in der Nähe“ ist kleiner als „ganz Zürich“.
+Auf dem Land gibt es im Umkreis von einigen Kilometern oft nur wenige Anbieter einer Branche. In der Stadt Zürich können Suchende Coiffeure, Zahnarztpraxen oder Cafés in derselben Strasse finden. Dann kann ein passender Betrieb näher am Suchenden liegen als Sie. Das heisst: Ihr realistisches Einzugsgebiet bei Suchen wie „in der Nähe“ kann kleiner sein als „ganz Zürich“.
 
 *Stadt und Land im Vergleich (vereinfacht)*
 
@@ -51,7 +51,7 @@ Auf dem Land gibt es im Umkreis von einigen Kilometern oft nur wenige Anbieter e
 
 ## Kreise und Quartiere als Planungsebene
 
-Die Stadt Zürich ist in 12 Kreise gegliedert, die 22 historische Stadtquartiere und 34 statistische Quartiere umfassen. Diese Einteilung kennen Ihre Kunden, und sie eignet sich gut, um Einzugsgebiet, Inhalte und Messpunkte zu planen.
+Die Stadt Zürich ist in 12 Kreise gegliedert, die 22 Stadtquartiere und 34 statistische Quartiere umfassen. Diese Einteilung kennen Ihre Kunden, und sie eignet sich gut, um Einzugsgebiet, Inhalte und Messpunkte zu planen.
 
 Viele Zürcherinnen und Zürcher denken in Kreisen („im Kreis 4“) oder in Quartiernamen („in Oerlikon“). Suchanfragen folgen oft derselben Logik. Planen Sie deshalb nicht für „Zürich“, sondern für die Kreise und Quartiere, aus denen Ihre Kunden tatsächlich kommen.
 
@@ -72,7 +72,7 @@ Viele Zürcherinnen und Zürcher denken in Kreisen („im Kreis 4“) oder in Qu
 | Kreis 11 | Affoltern, Oerlikon, Seebach |
 | Kreis 12 | Schwamendingen |
 
-Für die Statistik sind einige dieser Stadtquartiere weiter unterteilt, daher die Zahl von 34 statistischen Quartieren. Im Alltag tauchen zudem Namen auf, die keine offiziellen Quartiere sind, etwa Seefeld, Langstrasse oder Zürich-West. Verwenden Sie die Namen, die Ihre Kunden selbst benutzen, und prüfen Sie mit der Methode aus [Local SEO Keywords finden](https://localdominate.org/blog/local-seo-keywords-finden), welche davon tatsächlich gesucht werden.
+Für die Statistik sind einige dieser Stadtquartiere weiter unterteilt, daher die Zahl von 34 statistischen Quartieren. Im Alltag tauchen zudem Namen auf, die keines der 22 Stadtquartiere bezeichnen, etwa Zürich-West. Verwenden Sie die Namen, die Ihre Kunden selbst benutzen, und prüfen Sie mit der Methode aus [Local SEO Keywords finden](https://localdominate.org/blog/local-seo-keywords-finden), welche davon tatsächlich gesucht werden.
 
 > **Keine Rangliste der Kreise:** Es gibt keine verlässliche öffentliche Messung, in welchem Kreis der Wettbewerb „am kleinsten“ ist. Das hängt von Ihrer Branche ab. Ein Coiffeur im Kreis 4 hat andere Nachbarn als eine Treuhandfirma im Kreis 1. Wie stark der Wettbewerb in Ihrem Fall ist, zeigt erst eine eigene Messung.
 
@@ -92,7 +92,7 @@ Achten Sie auf die Schweizer Schreibweise der Adresse („Strasse“, nicht „S
 
 Nennen Sie ein Quartier auf Ihrer Website nur, wenn Sie dort wirklich arbeiten oder Kunden von dort haben, und sagen Sie dann etwas Eigenes dazu. Fast gleiche Seiten für jeden Kreis, bei denen nur der Name ausgetauscht ist, gelten bei Google als Brückenseiten und verstossen gegen die Spam-Richtlinien.
 
-Google beschreibt Brückenseiten (englisch „doorway pages“) als Seiten, die erstellt werden, um bei ähnlichen Suchanfragen zu erscheinen, und die Nutzer zu weniger hilfreichen Zwischenseiten führen. Als Beispiel nennt Google ausdrücklich mehrere Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind. Zwölf Seiten „Elektriker Kreis 1“ bis „Elektriker Kreis 12“ mit demselben Text fallen genau darunter.
+Google beschreibt Brückenseiten (englisch „doorway pages“) als Seiten, die erstellt werden, um bei ähnlichen Suchanfragen zu erscheinen, und die Nutzer zu weniger hilfreichen Zwischenseiten führen. Als Beispiel nennt Google ausdrücklich mehrere Seiten, die auf bestimmte Regionen oder Städte ausgerichtet sind. Zwölf Seiten „Elektriker Kreis 1“ bis „Elektriker Kreis 12“ mit demselben Text sind ein typischer Fall.
 
 *Quartiersbezug: hilfreich oder Brückenseite*
 
@@ -109,7 +109,7 @@ Wie gute Standortseiten aufgebaut sind, beschreibt der Artikel [Lokale Landingpa
 
 Eine englische Version lohnt sich, wenn Sie Kunden tatsächlich auf Englisch beraten, behandeln oder bedienen. Dann gehören vollständig übersetzte Seiten und korrekte hreflang-Angaben dazu. Eine halb übersetzte Website oder hreflang ohne echte Übersetzung bringt nichts.
 
-In Zürich arbeiten und leben viele Menschen, die lieber auf Englisch suchen. Ob das für Ihren Betrieb zählt, wissen Sie selbst am besten: Fragen Kunden am Telefon auf Englisch? Kommen englische Bewertungen? Wenn ja, ist eine englische Version ein echter Service. Wenn Sie aber nur auf Deutsch beraten, weckt eine englische Seite falsche Erwartungen.
+In Zürich leben und arbeiten auch Menschen, die lieber auf Englisch suchen. Ob das für Ihren Betrieb zählt, wissen Sie selbst am besten: Fragen Kunden am Telefon auf Englisch? Kommen englische Bewertungen? Wenn ja, ist eine englische Version ein echter Service. Wenn Sie aber nur auf Deutsch beraten, weckt eine englische Seite falsche Erwartungen.
 
 - **hreflang nur für echte Sprachversionen.** Google nutzt hreflang, um Nutzern die passende Sprachversion derselben Seite zu zeigen. Jede Version muss sich selbst und alle anderen nennen, sonst ignoriert Google die Angaben.
 - **Die Sprache erkennt Google am Inhalt.** Laut Google werden weder hreflang noch das lang-Attribut genutzt, um die Sprache einer Seite zu bestimmen. Übersetzen Sie deshalb den Hauptinhalt, nicht nur Menü und Fusszeile.
@@ -120,7 +120,7 @@ Welche englischen und deutschen Begriffe tatsächlich gesucht werden, prüfen Si
 
 ## local.ch, search.ch und einheitliche Firmendaten
 
-In der Schweiz sind local.ch und search.ch die bekannten allgemeinen Verzeichnisse. Wichtiger als viele Einträge ist, dass Name, Adresse und Telefonnummer überall gleich geschrieben sind wie im Google-Profil und auf der Website.
+In der Schweiz betreibt localsearch die allgemeinen Verzeichnisse local.ch und search.ch. Wichtiger als viele Einträge ist, dass Name, Adresse und Telefonnummer überall gleich geschrieben sind wie im Google-Profil und auf der Website.
 
 Prüfen Sie zuerst, ob es bei local.ch und search.ch bereits Einträge zu Ihrem Betrieb gibt, und korrigieren Sie veraltete Telefonnummern, alte Adressen oder frühere Firmennamen. Danach kommen die Plattformen Ihrer Branche: Bewertungs- und Buchungsportale für Gastronomie und Hotellerie, Verzeichnisse von Berufsverbänden für Praxen und Handwerk.
 
@@ -131,7 +131,7 @@ Welche Verzeichnisse schweizweit zählen und was rechtlich gilt, etwa beim Impre
 Bekanntheit entsteht in Zürich über reale Verbindungen: eine Mitgliedschaft im Gewerbeverband, Engagement im Quartierverein, ein Bericht in der Quartierzeitung, Partner im selben Quartier. Solche Erwähnungen zeigen Google und Kunden, dass Ihr Betrieb vor Ort eine Rolle spielt.
 
 - **Gewerbeverband der Stadt Zürich (GVZ).** Der Verband besteht seit 1841 und vertritt nach eigenen Angaben als Dachorganisation rund 2000 Unternehmen in der Stadt.
-- **Quartiervereine.** In der Stadt gibt es 25 Quartiervereine, zusammengeschlossen in der Quartierkonferenz. Sie organisieren Anlässe, etwa für Neuzuzügerinnen und Neuzuzüger. Mitmachen, unterstützen oder einen Anlass mittragen ergibt Kontakte und oft eine Erwähnung.
+- **Quartiervereine.** Laut Stadt Zürich sind 25 Quartiervereine in den 34 Stadtquartieren aktiv. Sie organisieren ehrenamtlich unter anderem Info-Veranstaltungen für Neuzuziehende. Mitmachen, unterstützen oder einen Anlass mittragen ergibt Kontakte und oft eine Erwähnung.
 - **Quartierzeitungen.** Neben dem Tagblatt der Stadt Zürich erscheinen Quartierzeitungen wie „Höngger“, „Zürich 2“, „Zürich West“, „Züriberg“ und „Zürich Nord“. Ein Jubiläum, eine neue Lehrstelle oder ein Angebot fürs Quartier ist ein echter Anlass für einen Hinweis.
 - **Partner und Nachbarn.** Lieferanten, Vermieter, Coworking-Gastgeber oder Betriebe im selben Haus, die Sie auf ihrer Website nennen.
 
@@ -191,7 +191,7 @@ Nur wenn Sie Kunden auf Englisch bedienen. Dann übersetzen Sie die wichtigen Se
 
 ### Darf ich „Zürich“ oder den Kreis in meinen Firmennamen im Profil schreiben?
 
-Nur wenn es Teil Ihres echten, auch auf Schild und Website verwendeten Namens ist. Zusätze, die nur der Sichtbarkeit dienen, verbietet Google. Wettbewerber können solche Namen melden, und das Profil kann gesperrt werden.
+Nur wenn es Teil Ihres echten, auch auf Schild und Website verwendeten Namens ist. Zusätze, die nur der Sichtbarkeit dienen, verbietet Google. Bei Namensverstössen kann das Profil gesperrt werden.
 
 ### Kann ich als Handwerker mit Sitz ausserhalb der Stadt in Zürich erscheinen?
 
@@ -199,14 +199,15 @@ Ja, wenn Sie dort tatsächlich arbeiten. Geben Sie im Profil die Stadt Zürich o
 
 ## Quellen
 
-- [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
-- [Einzugsgebiet verwalten](https://support.google.com/business/answer/9157481?hl=de), Google Unternehmensprofil-Hilfe
-- [Spamrichtlinien für die Google Websuche (Brückenseiten)](https://developers.google.com/search/docs/essentials/spam-policies?hl=de), Google Search Central
-- [Lokalisierte Versionen deiner Seiten (hreflang)](https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de), Google Search Central
+- [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Einzugsgebiete für Unternehmen ohne festen Standort und Hybridunternehmen verwalten](https://support.google.com/business/answer/9157481?hl=de), Google Unternehmensprofil-Hilfe
+- [Spam Policies for Google Web Search (Doorway abuse)](https://developers.google.com/search/docs/essentials/spam-policies?hl=de), Google Search Central
+- [Lokalisierte Versionen deiner Seiten](https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de), Google Search Central
 - [Quartiervereine](https://www.stadt-zuerich.ch/de/stadtleben/zusammenleben/in-den-quartieren/quartiervereine.html), Stadt Zürich
-- [Verband: Gewerbeverband der Stadt Zürich](https://gewerbezuerich.ch/verband/), Gewerbeverband der Stadt Zürich (GVZ)
-- [Zürich: Stadtkreise und Stadtquartiere, Medien](https://de.wikipedia.org/wiki/Z%C3%BCrich), Wikipedia
+- [Verband](https://gewerbezuerich.ch/verband/), Gewerbeverband der Stadt Zürich (GVZ)
+- [Zürich (Medien, Stadtkreise)](https://de.wikipedia.org/wiki/Z%C3%BCrich), Wikipedia
+- [Stadtteile der Stadt Zürich (12 Kreise, 22 Stadtquartiere, 34 statistische Quartiere)](https://de.wikipedia.org/wiki/Stadtteile_der_Stadt_Z%C3%BCrich), Wikipedia
 
 ---
 
