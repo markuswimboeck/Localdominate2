@@ -77,9 +77,9 @@ Wählen Sie als Hauptkategorie die Kategorie, die Ihr Hauptgeschäft am besten b
 
 Die Kategorie sagt Google, worum es bei Ihrem Betrieb geht. Wählen Sie die Hauptkategorie aus Googles Liste, die Ihr Hauptgeschäft am genauesten trifft, und ergänzen Sie weitere Kategorien nur, wenn sie auf echte Leistungen zutreffen. Wie die Auswahl funktioniert, steht im Beitrag zu den [Google-Business-Kategorien](https://localdominate.org/blog/google-business-kategorien-guide).
 
-1. **Hauptkategorie prüfen.** Wenn Sie überwiegend Nägel machen, passt eine andere Hauptkategorie als bei einem Studio für Gesichtsbehandlungen. Unsere Empfehlung: Entscheiden Sie nach Ihrem Umsatz, nicht nach der Größe der Suche. Google verlangt, dass die Hauptkategorie Ihr Unternehmen als Ganzes beschreibt.
+1. **Hauptkategorie prüfen.** Wenn Sie überwiegend Nägel machen, passt eine andere Hauptkategorie als bei einem Studio für Gesichtsbehandlungen. Unsere Empfehlung: Entscheiden Sie nach Ihrem Umsatz, nicht nach der Größe der Suche. Google verlangt eine primäre Kategorie, die Ihr Unternehmen am besten beschreibt.
 2. **Leistungen eintragen.** Legen Sie jede Behandlung als Leistung an, mit kurzer Beschreibung und, wenn möglich, Preis. Verwenden Sie dieselben Bezeichnungen wie auf Ihrer Website.
-3. **Name wie auf dem Schild.** Im Firmennamen stehen nur der echte Name, keine Behandlungen oder Ortsnamen als Zusatz. Solche Zusätze lässt Googles Richtlinie in der Regel nicht zu.
+3. **Name wie auf dem Schild.** Im Firmennamen stehen nur der echte Name, keine Behandlungen oder Ortsnamen als Zusatz. Solche Zusätze lässt Googles Richtlinie nicht zu.
 4. **Fotos von Ihren Räumen und Ihrer Arbeit.** Zeigen Sie Empfang, Behandlungsraum und fertige Arbeiten. Siehe dazu die Tipps zu [Fotos im Unternehmensprofil](https://localdominate.org/blog/gbp-fotos-optimieren).
 
 > **Studio in der Wohnung:** Wer Kunden zu Hause empfängt, sollte vor der Adressangabe die Richtlinien lesen. Google unterscheidet, ob Kunden den Betrieb aufsuchen oder der Betrieb zu den Kunden kommt, und regelt, wann eine Adresse sichtbar sein darf.
@@ -102,24 +102,23 @@ Kosmetik pflegt und verschönert, Medizin behandelt Krankheiten. Die Grenze best
 
 > **Keine Rechtsberatung:** Wo genau die Grenze verläuft, hängt vom Einzelfall ab. Lassen Sie Texte, die Wirkung oder Behandlung von Beschwerden versprechen, vor der Veröffentlichung prüfen, etwa durch einen Rechtsanwalt oder Ihren Berufsverband.
 
-Eine ausführlichere Darstellung zur Werbung mit Behandlungen finden Sie im Beitrag für [Arztpraxen](https://localdominate.org/blog/local-seo-aerzte-praxen). Beachten Sie außerdem: Invasive Verfahren wie Unterspritzungen oder tiefe Peelings können berufsrechtlich der Heilkunde zugerechnet werden. Klären Sie vor dem Angebot, ob Ihre Qualifikation dafür ausreicht.
+Eine ausführlichere Darstellung zur Werbung mit Behandlungen finden Sie im Beitrag für [Arztpraxen](https://localdominate.org/blog/local-seo-aerzte-praxen). Beachten Sie außerdem: Invasive Verfahren wie Unterspritzungen können der Heilkunde zugerechnet werden und gehören dann nicht mehr zur Kosmetik. Klären Sie vor dem Angebot mit der zuständigen Behörde, ob Ihre Qualifikation dafür ausreicht.
 
 ## Laser, IPL und Geräte: die NiSV
 
-Wer in einem Studio Laser, intensive Lichtquellen oder bestimmte Stimulationsgeräte nutzt, braucht nach der NiSV einen Fachkundenachweis. Manche Anwendungen, etwa die Entfernung von Tattoos und Permanent Make-up, sind Ärzten mit Weiterbildung vorbehalten.
+Wer in einem Studio Laser oder intensive Lichtquellen nutzt, braucht nach der NiSV einen Fachkundenachweis. Manche Anwendungen, etwa die Entfernung von Tattoos und Permanent Make-up, sind Ärztinnen und Ärzten vorbehalten.
 
-Die Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung (NiSV) gilt für gewerbliche Anwendungen zu kosmetischen Zwecken, zum Beispiel mit Laser und intensiven Lichtquellen wie bei der Haarentfernung. Nach dem Merkblatt der Gewerbeaufsicht Bayern gilt für Laser und intensive Lichtquellen seit dem 31. Dezember 2021 die Pflicht zum Nachweis der Fachkunde. Die Entfernung von Tattoos und Permanent Make-up zählt zu den Anwendungen, die approbierten Ärztinnen und Ärzten mit entsprechender Weiterbildung vorbehalten sind, ebenso etwa ablative Laseranwendungen.
+Die Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung (NiSV) gilt für gewerbliche Anwendungen zu kosmetischen Zwecken, zum Beispiel mit Laser und intensiven Lichtquellen wie bei der Haarentfernung. Für Laser und intensive Lichtquellen ist ein Nachweis der Fachkunde nötig. Welche Fristen und Anwendungen im Einzelnen gelten, steht im Merkblatt der Gewerbeaufsicht Bayern. Die Entfernung von Tattoos und Permanent Make-up zählt zu den Anwendungen, die approbierten Ärztinnen und Ärzten vorbehalten sind.
 
 - Beschreiben Sie auf Ihrer Website nur Behandlungen, die Sie nach Ihrer Qualifikation rechtlich durchführen dürfen.
 - Nennen Sie Ihre Ausbildung und Zertifikate, wenn Sie sie haben. Das schafft Vertrauen und ist sachlich überprüfbar.
-- Bei Kombigeräten mit mehreren Verfahren gilt die Fachkunde für jedes eingesetzte Verfahren.
 - Klären Sie Fragen zu Ihrem Gerät und Ihrer Qualifikation mit der zuständigen Behörde, bevor Sie die Behandlung bewerben.
 
 ## Fotos und Bewertungen im Kosmetikbereich
 
 Zeigen Sie Ergebnisse nur mit nachweisbarer Einwilligung der abgebildeten Person und ohne Erfolgsversprechen. Bewertungen holen Sie nach dem Termin und ohne Anreiz ein, wie bei jedem Betrieb.
 
-Bilder von fertiger Arbeit sind bei Nägeln und Wimpern das stärkste Argument. Fragen Sie die Kundin oder den Kunden vor dem Foto, halten Sie die Einwilligung schriftlich fest, weisen Sie auf die Möglichkeit des Widerrufs hin und zeigen Sie Gesichter nur, wenn die Person zugestimmt hat. Bilder der Haut können Gesundheitsdaten sein, lassen Sie dafür ausdrücklich einwilligen. Vorher-Nachher-Bilder sind riskant, sobald die Behandlung als Eingriff gilt oder eine Heilwirkung behauptet wird, siehe oben.
+Bilder von fertiger Arbeit sind bei Nägeln und Wimpern das stärkste Argument. Fragen Sie die Kundin oder den Kunden vor dem Foto, halten Sie die Einwilligung schriftlich fest, weisen Sie auf die Möglichkeit des Widerrufs hin und zeigen Sie Gesichter nur, wenn die Person zugestimmt hat. Bilder der Haut können je nach Fall Gesundheitsdaten sein, lassen Sie dann ausdrücklich einwilligen. Vorher-Nachher-Bilder sind riskant, sobald die Behandlung als Eingriff gilt oder eine Heilwirkung behauptet wird, siehe oben.
 
 Für Bewertungen gelten Googles Regeln: Bitten Sie nach dem Besuch ohne Anreiz und ohne Auswahl nur zufriedener Kunden. Die Einzelheiten und eine Tabelle mit erlaubten und nicht erlaubten Wegen stehen im Beitrag [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen). Bei Kosmetik taucht oft persönliche Information in Bewertungen auf, etwa zu Haut oder Gesundheit. Antworten Sie darauf allgemein und nennen Sie keine Einzelheiten der Behandlung.
 
@@ -148,7 +147,7 @@ Nur mit Einwilligung der abgebildeten Person. Bei Eingriffen, für die das Heilm
 
 ### Darf ich Laser- oder IPL-Behandlungen anbieten?
 
-Für Laser und intensive Lichtquellen verlangt die NiSV einen Fachkundenachweis. Manche Anwendungen, etwa die Entfernung von Tattoos, sind Ärztinnen und Ärzten mit Weiterbildung vorbehalten. Klären Sie Ihre Qualifikation, bevor Sie die Behandlung bewerben.
+Für Laser und intensive Lichtquellen verlangt die NiSV einen Fachkundenachweis. Manche Anwendungen, etwa die Entfernung von Tattoos, sind Ärztinnen und Ärzten vorbehalten. Klären Sie Ihre Qualifikation, bevor Sie die Behandlung bewerben.
 
 ### Was kostet Local SEO für ein Kosmetikstudio?
 
@@ -160,11 +159,11 @@ Nein. Google schreibt, dass man ein besseres lokales Ranking weder anfordern noc
 
 ## Quellen
 
-- [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
 - [Unternehmenskategorie verwalten](https://support.google.com/business/answer/7249669?hl=de), Google Unternehmensprofil-Hilfe
 - [Dienstleistungen in Ihrem Unternehmensprofil verwalten](https://support.google.com/business/answer/9455399?hl=de), Google Unternehmensprofil-Hilfe
-- [Heilmittelwerbegesetz (HWG), insbesondere § 3 und § 11](https://www.gesetze-im-internet.de/heilmwerbg/), Bundesministerium der Justiz, gesetze-im-internet.de
+- [Gesetz über die Werbung auf dem Gebiete des Heilwesens (Heilmittelwerbegesetz, HWG), insbesondere § 3 und § 11](https://www.gesetze-im-internet.de/heilmwerbg/), Bundesministerium der Justiz, gesetze-im-internet.de
 - [Merkblatt zur Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung (NiSV)](https://www.gewerbeaufsicht.bayern.de/gefahrenschutz/doc/merkblatt_nisv_2021.pdf), Gewerbeaufsichtsverwaltung Bayern
 
 ---

@@ -90,7 +90,7 @@ const article: V4Article = {
           items: [
             "**Antworten:** auf positive und negative Bewertungen sachlich und freundlich. Laut Google zeigen Sie damit, dass Sie das Feedback schätzen. Vorlagen finden Sie in [Antworten auf Bewertungen](/blog/bewertungs-antworten-vorlagen).",
             "**Melden:** Rezensionen, die gegen die Inhaltsrichtlinien verstoßen, über das Profil melden. Eine schlechte, aber echte Bewertung ist kein Verstoß.",
-            "**Anfragen:** alle Kunden um eine ehrliche Bewertung bitten, etwa per Link oder QR-Code, den Google im Profil bereitstellt.",
+            "**Anfragen:** alle Kunden um eine ehrliche Bewertung bitten, etwa per Link oder QR-Code, den Google bereitstellt.",
             "**Andere Portale:** Bewertungen auf den Plattformen Ihrer Branche lesen und beantworten, soweit das Portal es erlaubt.",
           ],
         },
@@ -101,7 +101,7 @@ const article: V4Article = {
           rows: [
             ["Gezielt nur zufriedene Kunden um Bewertungen bitten", "Google nennt das ausdrücklich als unzulässig"],
             ["Negative Bewertungen verhindern oder verbieten", "Ebenfalls ausdrücklich unzulässig"],
-            ["Zahlungen, Rabatte oder Gratisleistungen für eine Bewertung", "Bewertungen mit Anreiz gelten als manipuliert und werden entfernt"],
+            ["Zahlungen, Rabatte oder Gratisleistungen für eine Bewertung", "Anreize für Rezensionen sind laut Google unzulässig"],
           ],
         },
         {
@@ -285,12 +285,12 @@ const article: V4Article = {
   sources: [
     { title: "Spezielle Öffnungszeiten festlegen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/6303076?hl=de" },
     { title: "Kundenrezensionen verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3474050?hl=de" },
-    { title: "Verbotene und eingeschränkt zulässige Inhalte", publisher: "Google Maps-Hilfe, Richtlinien für Nutzerinhalte", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
+    { title: "Verbotene und eingeschränkt zulässige Inhalte", publisher: "Richtlinien für von Maps-Nutzern veröffentlichte Inhalte-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
     { title: "Fotos und Videos in Ihrem Unternehmensprofil verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/6103862?hl=de" },
     { title: "Beiträge in Ihrem Unternehmensprofil erstellen und verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7342169?hl=de" },
     { title: "Unternehmensprofil bearbeiten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3039617?hl=de" },
     { title: "Leistung und Statistiken Ihres Unternehmensprofils", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9918094?hl=de" },
-    { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
+    { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
     { title: "Core Web Vitals und Google-Suchergebnisse", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/core-web-vitals?hl=de" },
     { title: "Test für Rich-Suchergebnisse", publisher: "Search Console-Hilfe", url: "https://support.google.com/webmasters/answer/7445569?hl=de" },
     { title: "Allgemeine Richtlinien für strukturierte Daten", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/sd-policies?hl=de" },

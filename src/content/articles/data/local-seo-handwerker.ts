@@ -57,7 +57,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Google nennt das „Unternehmen ohne festen Standort in einem Einzugsgebiet“. Typisch ist ein Installateur, der vom Büro oder von zu Hause aus zu den Kunden fährt. Google verlangt in diesem Fall, dass die Adresse nicht angezeigt wird. Gefunden werden Sie trotzdem, und zwar bei Suchen in den Gebieten, die Sie angeben.",
+          text: "Google nennt das „Unternehmen ohne festen Standort in einem Einzugsgebiet“. Typisch ist ein Installateur, der vom Büro oder von zu Hause aus zu den Kunden fährt. Google sagt dazu, dass Sie die Adresse in diesem Fall aus dem Profil entfernen sollen. Gefunden werden Sie trotzdem, und zwar bei Suchen in den Gebieten, die Sie angeben.",
         },
         {
           t: "steps",
@@ -79,7 +79,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Keine Scheinadressen",
-          text: "Eine gemietete Postanschrift ohne echten Betrieb dahinter darf kein Profil bekommen. Ein Coworking-Büro ist nur zulässig, wenn es beschildert ist und dort während der Öffnungszeiten eigene Mitarbeiter Kunden empfangen. Wer mit Briefkastenadressen in Nachbarstädten „Filialen“ anlegt, riskiert die Sperrung aller Profile.",
+          text: "Eine gemietete Postanschrift ohne echten Betrieb dahinter darf kein Profil bekommen. Ein Coworking-Büro ist nur zulässig, wenn es beschildert ist und dort während der Öffnungszeiten eigene Mitarbeiter Kunden empfangen. Wer mit Briefkastenadressen in Nachbarstädten „Filialen“ anlegt, riskiert die Sperrung der Profile.",
         },
       ],
     },
@@ -92,10 +92,10 @@ const article: V4Article = {
         {
           t: "ul",
           items: [
-            "**Name:** „Haustechnik Huber GmbH“ ist richtig. „Huber Heizung Sanitär Notdienst München 24h“ verstößt gegen Googles Richtlinien. Google nennt Öffnungszeiten und Hinweise wie „24 Stunden geöffnet“ ausdrücklich als unzulässige Namenszusätze.",
+            "**Name:** „Haustechnik Huber“ ist richtig. „Huber Heizung Sanitär Notdienst München 24h“ verstößt gegen Googles Richtlinien. Google nennt Öffnungszeiten und Hinweise wie „24 Stunden geöffnet“ ausdrücklich als unzulässige Namenszusätze.",
             "**Hauptkategorie:** Wählen Sie den Eintrag aus Googles Liste, der Ihr Kerngewerk am genauesten trifft, und ergänzen Sie nur wenige weitere. Hilfe bei der Auswahl gibt der [Kategorien-Leitfaden](/blog/google-business-kategorien-guide).",
             "**Leistungen:** Tragen Sie jede Leistung einzeln ein, zum Beispiel Badsanierung, Heizungswartung, Wärmepumpeninstallation, Rohrreinigung. Das hilft Google, Ihr Profil konkreten Suchen zuzuordnen.",
-            "**Beschreibung:** Sachlich erklären, was Sie machen, für wen und in welcher Region. Keine Preise oder Aktionen.",
+            "**Beschreibung:** Sachlich erklären, was Sie machen, für wen und in welcher Region.",
             "**Telefonnummer:** Eine Nummer, unter der zu den angegebenen Zeiten wirklich jemand abnimmt.",
           ],
         },
@@ -307,7 +307,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Muss ich als Handwerker meine Adresse bei Google zeigen?",
-      a: "Nein. Wenn Sie an Ihrer Adresse keine Kunden empfangen, verlangt Google sogar, dass Sie die Adresse aus dem Profil entfernen und stattdessen ein Einzugsgebiet angeben. Nur wenn Sie eine Ausstellung oder Werkstatt mit Kundenverkehr und Personal haben, zeigen Sie Adresse und Einzugsgebiet.",
+      a: "Nein. Wenn Sie an Ihrer Adresse keine Kunden empfangen, sollen Sie laut Google die Adresse aus dem Profil entfernen und stattdessen ein Einzugsgebiet angeben. Nur wenn Sie eine Ausstellung oder Werkstatt mit Kundenverkehr und Personal haben, zeigen Sie Adresse und Einzugsgebiet.",
     },
     {
       q: "Wie groß darf mein Einzugsgebiet sein?",
@@ -334,10 +334,11 @@ const article: V4Article = {
     { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
     { title: "Einzugsgebiete für Unternehmen ohne festen Standort und Hybridunternehmen verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9157481?hl=de" },
     { title: "Spamrichtlinien für die Google Websuche (Missbrauch von Brückenseiten)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies?hl=de" },
-    { title: "Verbotene und eingeschränkt zulässige Inhalte (Rezensionen)", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
+    { title: "Verbotene und eingeschränkt zulässige Inhalte", publisher: "Richtlinien für von Maps-Nutzern veröffentlichte Inhalte-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
     { title: "Fotos und Videos in Ihrem Unternehmensprofil verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/6103862?hl=de" },
+    { title: "Kundenrezensionen verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3474050?hl=de" },
     { title: "Leistung und Statistiken Ihres Unternehmensprofils", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9918094?hl=de" },
-    { title: "Google Lokale Dienstleistungen im Überblick", publisher: "Google Lokale Dienstleistungen-Hilfe", url: "https://support.google.com/localservices/answer/6224841?hl=de" },
+    { title: "Google Lokale Dienstleistungen im Überblick", publisher: "Local Services-Hilfe", url: "https://support.google.com/localservices/answer/6224841?hl=de" },
     { title: "Handwerksordnung (HwO), § 1", publisher: "Bundesministerium der Justiz, gesetze-im-internet.de", url: "https://www.gesetze-im-internet.de/hwo/__1.html" },
   ],
   related: [

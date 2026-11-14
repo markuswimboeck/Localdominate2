@@ -35,7 +35,7 @@ Ein Google-Maps-Audit prüft in fester Reihenfolge: Inhaberschaft und Status des
 
 Übernehmen Sie jede Tabelle in ein eigenes Blatt einer Tabellenkalkulation und ergänzen Sie zwei Spalten: „Ist“ und „Status“. Als Status genügen drei Werte: in Ordnung, Lücke, Verstoß.
 
-1. **Zugang klären.** Sie brauchen Inhaber- oder Verwalterzugriff auf das Unternehmensprofil, Zugriff auf die Website und, wenn vorhanden, auf Search Console und Google Analytics.
+1. **Zugang klären.** Sie brauchen Inhaber- oder Administratorzugriff auf das Unternehmensprofil, Zugriff auf die Website und, wenn vorhanden, auf Search Console und Google Analytics.
 2. **Stammdaten bereitlegen.** Offizieller Name, Adresse, Telefonnummer, Website, Öffnungszeiten. So wie sie auf Schild, Briefpapier und im Impressum stehen.
 3. **Bögen der Reihe nach ausfüllen.** Beginnen Sie mit Bogen 1. Verstöße und Fehler in frühen Bögen beeinflussen alles Weitere.
 4. **Status setzen.** In Ordnung, Lücke (fehlt oder ist unvollständig) oder Verstoß (widerspricht Googles Richtlinien oder ist falsch).
@@ -52,7 +52,7 @@ Prüfen Sie, wer Zugriff auf das Profil hat, ob es bestätigt ist und ob es weit
 | Prüfpunkt | Wo prüfen | Soll |
 | --- | --- | --- |
 | Profil bestätigt | Unternehmensprofil, Hinweise im Profil | Bestätigt. Laut Google wird ein bestätigtes Unternehmen eher in den Ergebnissen angezeigt |
-| Inhaber und Verwalter | Unternehmensprofil, Verwaltung der Nutzer | Mindestens ein Inhaberkonto gehört dem Betrieb selbst, nicht nur einer Agentur oder einem ehemaligen Mitarbeiter |
+| Inhaber und Administratoren | Einstellungen für das Unternehmensprofil, Personen und Zugriff | Mindestens ein Inhaberkonto gehört dem Betrieb selbst, nicht nur einer Agentur oder einem ehemaligen Mitarbeiter |
 | Doppelte Profile | Google Maps: Suche nach Name, Name mit Ort, alter Adresse, Telefonnummer | Es gibt nur ein Profil pro Standort |
 | Hinweise auf Sperrung oder Einschränkung | Unternehmensprofil | Keine Hinweise |
 
@@ -215,15 +215,16 @@ Selbst gemacht kostet es nur Zeit. Bei LocalDominate kostet der Profil Quick-Fix
 
 ## Quellen
 
-- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
 - [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Inhaber und Administratoren Ihres Unternehmensprofils verwalten](https://support.google.com/business/answer/3403100?hl=de), Google Unternehmensprofil-Hilfe
 - [Probleme mit doppelten Profilen und Eigentumsrechten beheben](https://support.google.com/business/answer/12756178?hl=de), Google Unternehmensprofil-Hilfe
 - [Einzugsgebiete für Unternehmen ohne festen Standort und Hybridunternehmen verwalten](https://support.google.com/business/answer/9157481?hl=de), Google Unternehmensprofil-Hilfe
 - [Spezielle Öffnungszeiten festlegen](https://support.google.com/business/answer/6303076?hl=de), Google Unternehmensprofil-Hilfe
 - [Unternehmensattribute verwalten](https://support.google.com/business/answer/9049526?hl=de), Google Unternehmensprofil-Hilfe
 - [Fotos und Videos in Ihrem Unternehmensprofil verwalten](https://support.google.com/business/answer/6103862?hl=de), Google Unternehmensprofil-Hilfe
 - [Tipps für mehr Rezensionen](https://support.google.com/business/answer/3474122?hl=de), Google Unternehmensprofil-Hilfe
-- [Verbotene und eingeschränkt zulässige Inhalte (Rezensionen)](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe
+- [Verbotene und eingeschränkt zulässige Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe
 - [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/9918094?hl=de), Google Unternehmensprofil-Hilfe
 - [Strukturierte Daten für lokale Unternehmen (LocalBusiness)](https://developers.google.com/search/docs/appearance/structured-data/local-business?hl=de), Google Search Central
 - [Über PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about?hl=de), Google for Developers

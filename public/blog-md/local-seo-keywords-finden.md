@@ -98,16 +98,16 @@ Die Google Search Console zeigt, bei welchen Suchanfragen Ihre Website bereits i
 
 ### Google Search Console
 
-Im Leistungsbericht unter dem Reiter „Suchanfragen“ sehen Sie für jede Anfrage **Impressionen** (wie oft Ihre Website in den Ergebnissen erschien), **Klicks**, **Klickrate** und die **durchschnittliche Position**. Standardmäßig zeigt der Bericht die letzten drei Monate.
+Im Leistungsbericht unter „Abfragen“ sehen Sie für jede Anfrage **Impressionen** (wie oft Ihre Website in den Ergebnissen erschien), **Klicks**, **Klickrate** und die **durchschnittliche Position**. Standardmäßig zeigt der Bericht die letzten drei Monate.
 
 - **Viele Impressionen, wenige Klicks:** Die Seite erscheint, überzeugt aber nicht. Prüfen Sie, ob Title und Beschreibung die Suche wirklich beantworten.
-- **Durchschnittliche Position auf der zweiten Ergebnisseite:** Google hält die Seite für passend, aber nicht für die beste. Oft hilft ein eigener, ausführlicherer Abschnitt zu genau diesem Thema.
+- **Durchschnittliche Position auf der zweiten Ergebnisseite:** Die Seite erscheint, aber weit hinten. Oft hilft ein eigener, ausführlicherer Abschnitt zu genau diesem Thema.
 - **Anfragen, mit denen Sie nicht gerechnet haben:** Das sind Hinweise auf Leistungen oder Fragen, für die es noch keine eigene Seite gibt.
-- **Filter nach Seite:** Klicken Sie eine Leistungsseite an und sehen Sie, für welche Begriffe genau diese Seite erscheint.
+- **Dimension „Seiten“:** Wählen Sie eine Leistungsseite aus und sehen Sie, für welche Abfragen genau diese Seite erscheint.
 
 ### Suchanfragen im Unternehmensprofil
 
-In den Leistungsdaten Ihres Google-Unternehmensprofils finden Sie die Suchbegriffe, mit denen Nutzer Ihr Unternehmen gefunden haben. Google aktualisiert diesen Wert jeweils zu Beginn des Monats. Vergleichen Sie die Liste mit Ihrer Startliste: Tauchen Ihre wichtigsten Leistungen auf, oder finden Menschen Sie fast nur über Ihren Firmennamen? Im zweiten Fall fehlt dem Profil Relevanz für Leistungssuchen. Mehr dazu im Artikel [Google Business Insights verstehen](https://localdominate.org/blog/google-business-insights-verstehen).
+In den Leistungsdaten Ihres Google-Unternehmensprofils finden Sie die Suchbegriffe, mit denen Nutzer Ihr Unternehmen gefunden haben. Google aktualisiert diesen Wert jeweils zu Beginn des Monats. Vergleichen Sie die Liste mit Ihrer Startliste: Tauchen Ihre wichtigsten Leistungen auf, oder finden Menschen Sie fast nur über Ihren Firmennamen? Im zweiten Fall wird das Profil bei Leistungssuchen möglicherweise kaum angezeigt. Mehr dazu im Artikel [Google Business Insights verstehen](https://localdominate.org/blog/google-business-insights-verstehen).
 
 > **Neue Website ohne Daten:** Für eine neue Website oder ein neues Profil gibt es noch keine Werte. Arbeiten Sie dann mit Startliste und Google-Vorschlägen und schauen Sie regelmäßig nach, ob erste Werte erscheinen.
 
@@ -213,16 +213,16 @@ Weniger, als es scheint. Die Werte im Keyword-Planer sind gerundete Schätzungen
 
 ### Wie finde ich heraus, für welche Begriffe ich schon gefunden werde?
 
-In der Google Search Console unter Leistung und dem Reiter „Suchanfragen“ für Ihre Website, und in den Leistungsdaten Ihres Unternehmensprofils für Ihr Profil. Beides ist kostenlos und zeigt Begriffe, bei denen Sie tatsächlich erschienen sind.
+In der Google Search Console im Leistungsbericht unter „Abfragen“ für Ihre Website, und in den Leistungsdaten Ihres Unternehmensprofils für Ihr Profil. Beides ist kostenlos und zeigt Begriffe, bei denen Sie tatsächlich erschienen sind.
 
 ## Quellen
 
 - [Funktionsweise der automatischen Vervollständigung in der Google Suche](https://support.google.com/websearch/answer/7368877?hl=de), Google Suche-Hilfe
-- [Leistungsbericht (Suchergebnisse)](https://support.google.com/webmasters/answer/7576553?hl=de), Google Search Console-Hilfe
-- [Leistungsdaten des Unternehmensprofils ansehen](https://support.google.com/business/answer/7689763?hl=de), Google Unternehmensprofil-Hilfe
-- [Prognosen im Keyword-Planer](https://support.google.com/google-ads/answer/3022575?hl=de), Google Ads-Hilfe
+- [Leistungsbericht (Google-Suchergebnisse): Übersicht und grundlegende Einrichtung](https://support.google.com/webmasters/answer/7576553?hl=de), Search Console-Hilfe
+- [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/7689763?hl=de), Google Unternehmensprofil-Hilfe
+- [Keyword-Planer: Prognosen](https://support.google.com/google-ads/answer/3022575?hl=de), Google Ads-Hilfe
 - [SEO-Startleitfaden](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=de), Google Search Central
-- [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
 - [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
 - [Spamrichtlinien für die Google Websuche](https://developers.google.com/search/docs/essentials/spam-policies?hl=de), Google Search Central
 

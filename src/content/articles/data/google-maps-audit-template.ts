@@ -32,7 +32,7 @@ const article: V4Article = {
         {
           t: "steps",
           items: [
-            { title: "Zugang klären", text: "Sie brauchen Inhaber- oder Verwalterzugriff auf das Unternehmensprofil, Zugriff auf die Website und, wenn vorhanden, auf Search Console und Google Analytics." },
+            { title: "Zugang klären", text: "Sie brauchen Inhaber- oder Administratorzugriff auf das Unternehmensprofil, Zugriff auf die Website und, wenn vorhanden, auf Search Console und Google Analytics." },
             { title: "Stammdaten bereitlegen", text: "Offizieller Name, Adresse, Telefonnummer, Website, Öffnungszeiten. So wie sie auf Schild, Briefpapier und im Impressum stehen." },
             { title: "Bögen der Reihe nach ausfüllen", text: "Beginnen Sie mit Bogen 1. Verstöße und Fehler in frühen Bögen beeinflussen alles Weitere." },
             { title: "Status setzen", text: "In Ordnung, Lücke (fehlt oder ist unvollständig) oder Verstoß (widerspricht Googles Richtlinien oder ist falsch)." },
@@ -58,7 +58,7 @@ const article: V4Article = {
           head: ["Prüfpunkt", "Wo prüfen", "Soll"],
           rows: [
             ["Profil bestätigt", "Unternehmensprofil, Hinweise im Profil", "Bestätigt. Laut Google wird ein bestätigtes Unternehmen eher in den Ergebnissen angezeigt"],
-            ["Inhaber und Verwalter", "Unternehmensprofil, Verwaltung der Nutzer", "Mindestens ein Inhaberkonto gehört dem Betrieb selbst, nicht nur einer Agentur oder einem ehemaligen Mitarbeiter"],
+            ["Inhaber und Administratoren", "Einstellungen für das Unternehmensprofil, Personen und Zugriff", "Mindestens ein Inhaberkonto gehört dem Betrieb selbst, nicht nur einer Agentur oder einem ehemaligen Mitarbeiter"],
             ["Doppelte Profile", "Google Maps: Suche nach Name, Name mit Ort, alter Adresse, Telefonnummer", "Es gibt nur ein Profil pro Standort"],
             ["Hinweise auf Sperrung oder Einschränkung", "Unternehmensprofil", "Keine Hinweise"],
           ],
@@ -287,15 +287,16 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
     { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
+    { title: "Inhaber und Administratoren Ihres Unternehmensprofils verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3403100?hl=de" },
     { title: "Probleme mit doppelten Profilen und Eigentumsrechten beheben", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/12756178?hl=de" },
     { title: "Einzugsgebiete für Unternehmen ohne festen Standort und Hybridunternehmen verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9157481?hl=de" },
     { title: "Spezielle Öffnungszeiten festlegen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/6303076?hl=de" },
     { title: "Unternehmensattribute verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9049526?hl=de" },
     { title: "Fotos und Videos in Ihrem Unternehmensprofil verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/6103862?hl=de" },
     { title: "Tipps für mehr Rezensionen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3474122?hl=de" },
-    { title: "Verbotene und eingeschränkt zulässige Inhalte (Rezensionen)", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
+    { title: "Verbotene und eingeschränkt zulässige Inhalte", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
     { title: "Leistung und Statistiken Ihres Unternehmensprofils", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9918094?hl=de" },
     { title: "Strukturierte Daten für lokale Unternehmen (LocalBusiness)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/local-business?hl=de" },
     { title: "Über PageSpeed Insights", publisher: "Google for Developers", url: "https://developers.google.com/speed/docs/insights/v5/about?hl=de" },

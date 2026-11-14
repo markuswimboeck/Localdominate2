@@ -7138,7 +7138,7 @@
           "name": "Wie lange dauert es, bis sich mein Maps-Ranking verbessert?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Korrekturen an den Profildaten sind oft nach Googles Prüfung sichtbar. Bis sich Positionen über Ihr Einzugsgebiet stabil verändern, vergehen meist Wochen bis Monate, je nach Wettbewerb. Feste Zeiträume oder Plätze kann niemand seriös zusagen.",
+            "text": "Korrekturen an den Profildaten sind oft nach Googles Prüfung sichtbar. Bis sich Positionen über Ihr Einzugsgebiet stabil verändern, kann es Wochen bis Monate dauern, je nach Wettbewerb. Feste Zeiträume oder Plätze kann niemand seriös zusagen.",
             "url": "https://localdominate.org/blog/google-maps-ranking-verbessern"
           }
         },
@@ -12922,7 +12922,7 @@
           "name": "Muss ich als Handwerker meine Adresse bei Google zeigen?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Nein. Wenn Sie an Ihrer Adresse keine Kunden empfangen, verlangt Google sogar, dass Sie die Adresse aus dem Profil entfernen und stattdessen ein Einzugsgebiet angeben. Nur wenn Sie eine Ausstellung oder Werkstatt mit Kundenverkehr und Personal haben, zeigen Sie Adresse und Einzugsgebiet.",
+            "text": "Nein. Wenn Sie an Ihrer Adresse keine Kunden empfangen, sollen Sie laut Google die Adresse aus dem Profil entfernen und stattdessen ein Einzugsgebiet angeben. Nur wenn Sie eine Ausstellung oder Werkstatt mit Kundenverkehr und Personal haben, zeigen Sie Adresse und Einzugsgebiet.",
             "url": "https://localdominate.org/blog/local-seo-handwerker"
           }
         },
@@ -13506,7 +13506,7 @@
           "name": "Darf ich auf meiner Website günstiger sein als auf Booking.com?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "In der EU ja. Seit dem 14. November 2024 muss Booking.com nach dem Digital Markets Act erlauben, dass Hotels auf anderen Kanälen und auf der eigenen Website bessere Preise und Konditionen anbieten. In der Schweiz gelten eigene Regeln.",
+            "text": "In der EU ja. Seit November 2024 muss Booking.com nach dem Digital Markets Act erlauben, dass Hotels auf anderen Kanälen und auf der eigenen Website bessere Preise und Konditionen anbieten. In der Schweiz gelten eigene Regeln.",
             "url": "https://localdominate.org/blog/local-seo-hotels"
           }
         },
@@ -13646,7 +13646,7 @@
           "name": "Darf ich für jedes Büro ein eigenes Profil anlegen?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ja, pro Standort ist ein Profil vorgesehen. Mehrere Profile für denselben Standort sind dagegen nicht zulässig, auch nicht über verschiedene Konten.",
+            "text": "Ja, pro Standort ist ein Profil vorgesehen. Mehrere Profile für denselben Standort sind dagegen nicht vorgesehen.",
             "url": "https://localdominate.org/blog/local-seo-immobilienmakler"
           }
         },
@@ -13800,7 +13800,7 @@
           "name": "Wie finde ich heraus, für welche Begriffe ich schon gefunden werde?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "In der Google Search Console unter Leistung und dem Reiter „Suchanfragen“ für Ihre Website, und in den Leistungsdaten Ihres Unternehmensprofils für Ihr Profil. Beides ist kostenlos und zeigt Begriffe, bei denen Sie tatsächlich erschienen sind.",
+            "text": "In der Google Search Console im Leistungsbericht unter „Abfragen“ für Ihre Website, und in den Leistungsdaten Ihres Unternehmensprofils für Ihr Profil. Beides ist kostenlos und zeigt Begriffe, bei denen Sie tatsächlich erschienen sind.",
             "url": "https://localdominate.org/blog/local-seo-keywords-finden"
           }
         },
@@ -16812,7 +16812,7 @@
           "name": "Was gilt für Hausbesuche ohne Praxisraum?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Sie blenden im Profil die Adresse aus und geben ein Einzugsgebiet an. Als Richtwert nennt Google höchstens rund zwei Stunden Fahrzeit vom Standort. Eine Postadresse ohne Praxisbetrieb ist kein zulässiger Standort.",
+            "text": "Sie blenden im Profil die Adresse aus und geben ein Einzugsgebiet an. Als Richtwert nennt Google etwa zwei Autostunden vom Standort. Eine Postadresse ohne Praxisbetrieb ist kein zulässiger Standort.",
             "url": "https://localdominate.org/blog/local-seo-tierarzt"
           }
         },
@@ -22945,7 +22945,7 @@
           "name": "Darf ich Laser- oder IPL-Behandlungen anbieten?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Für Laser und intensive Lichtquellen verlangt die NiSV einen Fachkundenachweis. Manche Anwendungen, etwa die Entfernung von Tattoos, sind Ärztinnen und Ärzten mit Weiterbildung vorbehalten. Klären Sie Ihre Qualifikation, bevor Sie die Behandlung bewerben.",
+            "text": "Für Laser und intensive Lichtquellen verlangt die NiSV einen Fachkundenachweis. Manche Anwendungen, etwa die Entfernung von Tattoos, sind Ärztinnen und Ärzten vorbehalten. Klären Sie Ihre Qualifikation, bevor Sie die Behandlung bewerben.",
             "url": "https://localdominate.org/blog/local-seo-kosmetikstudio"
           }
         },

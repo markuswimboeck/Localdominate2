@@ -154,7 +154,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Google empfiehlt ausdrücklich, auf Bewertungen zu antworten. Bei negativen Bewertungen geben Sie keine persönlichen Daten preis, bleiben ehrlich und entschuldigen sich, wenn es angebracht ist.",
+          text: "Laut Google zeigen Sie mit einer Antwort, dass Sie das Feedback schätzen. Bei negativen Bewertungen geben Sie keine persönlichen Daten preis, bleiben ehrlich und entschuldigen sich, wenn es angebracht ist.",
         },
         {
           t: "p",
@@ -238,9 +238,9 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
+    { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
     { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
-    { title: "Google-Hilfe zu Bewertungen: Bitten, Anreize und Antworten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3474122?hl=de" },
+    { title: "Tipps für mehr Rezensionen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3474122?hl=de" },
     { title: "Fotos und Videos im Unternehmensprofil: Richtlinien", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/6103862?hl=de" },
     { title: "Strukturierte Daten für lokale Unternehmen (LocalBusiness)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/advanced/structured-data/local-business?hl=de" },
     { title: "Spam-Richtlinien für die Google-Suche (Doorway-Missbrauch)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies" },

@@ -27,7 +27,7 @@ const article: V4Article = {
       id: "warum-vorsicht",
       title: "Warum viele Ranking-Fallstudien wenig beweisen",
       answer:
-        "Die meisten veröffentlichten Erfolgsgeschichten zeigen ein Vorher und ein Nachher, aber nicht, wie gemessen wurde. Damit lässt sich nicht prüfen, ob die genannten Maßnahmen die Ursache waren.",
+        "Viele veröffentlichte Erfolgsgeschichten zeigen ein Vorher und ein Nachher, aber nicht, wie gemessen wurde. Damit lässt sich nicht prüfen, ob die genannten Maßnahmen die Ursache waren.",
       blocks: [
         {
           t: "p",
@@ -38,12 +38,12 @@ const article: V4Article = {
           caption: "Häufige Schwächen von Fallstudien",
           head: ["Schwäche", "Warum sie das Ergebnis verzerrt"],
           rows: [
-            ["Nur eine Messung vom eigenen Standort", "Google berücksichtigt die Entfernung zum Suchenden. Am eigenen Standort steht fast jeder Betrieb weit vorne"],
+            ["Nur eine Messung vom eigenen Standort", "Google berücksichtigt die Entfernung zum Suchenden. Am eigenen Standort kann das Ergebnis ganz anders aussehen als bei Kunden an anderen Orten"],
             ["Keine Ausgangsmessung mit Datum", "Ohne festen Startpunkt ist jede Verbesserung eine Schätzung"],
             ["Viele Maßnahmen gleichzeitig", "Man sieht, dass sich etwas geändert hat, aber nicht, welche Maßnahme gewirkt hat"],
             ["Nur Positionen, keine Anfragen", "Eine bessere Position ist wertlos, wenn sie nicht zu Anrufen, Routen oder Buchungen führt"],
             ["Zeitraum fällt in die Hochsaison", "Mehr Anrufe im Sommer sagen bei einem Eiscafé wenig über die Maßnahmen aus"],
-            ["Nur Erfolge werden gezeigt", "Projekte ohne Wirkung tauchen nicht auf. Das Bild wird zu positiv"],
+            ["Nur Erfolge werden gezeigt", "Projekte ohne Wirkung können fehlen. Das Bild wird dann zu positiv"],
           ],
         },
         {
@@ -280,8 +280,8 @@ const article: V4Article = {
   sources: [
     { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
     { title: "Leistung und Statistiken Ihres Unternehmensprofils", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9918094?hl=de" },
-    { title: "Leistungsbericht (Google-Suchergebnisse): Übersicht", publisher: "Search Console-Hilfe", url: "https://support.google.com/webmasters/answer/7576553?hl=de" },
-    { title: "Kampagnendaten mit benutzerdefinierten URLs erfassen", publisher: "Google Analytics-Hilfe", url: "https://support.google.com/analytics/answer/10917952?hl=de" },
+    { title: "Leistungsbericht (Google-Suchergebnisse): Übersicht und grundlegende Einrichtung", publisher: "Search Console-Hilfe", url: "https://support.google.com/webmasters/answer/7576553?hl=de" },
+    { title: "Tools zur URL-Erstellung: Kampagnendaten mithilfe benutzerdefinierter URLs erfassen", publisher: "Google Analytics-Hilfe", url: "https://support.google.com/analytics/answer/10917952?hl=de" },
     { title: "Startleitfaden zur Suchmaschinenoptimierung (SEO)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=de" },
     { title: "Google Search Status Dashboard: Ranking", publisher: "Google", url: "https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history?hl=de" },
   ],

@@ -51,7 +51,7 @@ Der Kartenblock wird oft als Local Pack bezeichnet. Klassische Suchmaschinenopti
 
 Google nennt drei Faktoren: Relevanz, Entfernung und Bekanntheit. Eine bessere Position lässt sich laut Google weder einfordern noch bezahlen.
 
-Relevanz bedeutet, wie gut Ihr Profil zur Suchanfrage passt. Google nennt dafür vollständige und genaue Angaben als Hilfe. Die Entfernung hängt vom Standort des Suchenden ab. Bekanntheit entsteht aus Links von anderen Websites sowie aus Zahl und Bewertung Ihrer Rezensionen.
+Relevanz bedeutet, wie gut Ihr Profil zur Suchanfrage passt. Google nennt dafür vollständige und korrekte Angaben als Hilfe. Die Entfernung hängt vom Standort des Suchenden ab. Bekanntheit entsteht aus Links von anderen Websites sowie aus Zahl und Bewertung Ihrer Rezensionen.
 
 *Die drei Faktoren und Ihr Einfluss*
 
@@ -69,7 +69,7 @@ Das Profil ist der Eintrag, den Tierbesitzer im Kartenblock und in Google Maps s
 
 1. **Name wie auf dem Schild.** Der Name muss dem entsprechen, was auf Schild, Briefkopf und Website steht. Google erlaubt keine unnötigen Zusätze. Dazu zählen Leistungen, Orte, Slogans, Öffnungszeiten und Telefonnummern im Namen.
 2. **Kategorie: wenige, aber genaue.** Wählen Sie die Kategorie, die Ihre Praxis am genauesten beschreibt, etwa Tierarzt. Google empfiehlt so wenige Kategorien wie möglich, und zwar für das, was Ihr Betrieb ist. Kategorien sind keine Keyword-Liste.
-3. **Adresse oder Einzugsgebiet.** Mit Praxisbetrieb vor Ort geben Sie die echte Adresse an. Ein Hausbesuchsdienst ohne Praxisraum blendet die Adresse aus und nennt ein Einzugsgebiet. Als Richtwert nennt Google höchstens rund zwei Stunden Fahrzeit. Eine Postadresse ohne Praxisbetrieb ist kein zulässiger Standort.
+3. **Adresse oder Einzugsgebiet.** Mit Praxisbetrieb vor Ort geben Sie die echte Adresse an. Ein Hausbesuchsdienst ohne Praxisraum blendet die Adresse aus und nennt ein Einzugsgebiet. Als Richtwert nennt Google etwa zwei Autostunden vom Standort. Eine Postadresse ohne Praxisbetrieb ist kein zulässiger Standort.
 4. **Sprechzeiten und Notdienst.** Tragen Sie Sprechzeiten, Feiertage und Betriebsurlaub ein. Notdienstzeiten schreiben Sie so auf, dass sie mit Website und Telefonansage übereinstimmen. Falsche Zeiten kosten Vertrauen schneller als eine fehlende Optimierung.
 5. **Leistungen einzeln, Beschreibung sachlich.** Tragen Sie jede Leistung einzeln ein, die Sie tatsächlich anbieten, etwa Impfungen, Kastrationen oder Zahnbehandlungen. Die Beschreibung erklärt Ihre Praxis. Preise, Aktionen und Links gehören nach Googles Richtlinien nicht hinein.
 6. **Fotos aus Ihrer Praxis.** Zeigen Sie Außenansicht, Eingang, Empfang, Behandlungsraum und Team. Verwenden Sie eigene Fotos statt Bilddatenbanken.
@@ -156,16 +156,16 @@ Eine eigene Seite hilft Tierbesitzern, Zeiten und Telefonnummer schnell zu finde
 
 ### Was gilt für Hausbesuche ohne Praxisraum?
 
-Sie blenden im Profil die Adresse aus und geben ein Einzugsgebiet an. Als Richtwert nennt Google höchstens rund zwei Stunden Fahrzeit vom Standort. Eine Postadresse ohne Praxisbetrieb ist kein zulässiger Standort.
+Sie blenden im Profil die Adresse aus und geben ein Einzugsgebiet an. Als Richtwert nennt Google etwa zwei Autostunden vom Standort. Eine Postadresse ohne Praxisbetrieb ist kein zulässiger Standort.
 
 ## Quellen
 
-- [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
 - [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe
+- [Verbotene und eingeschränkt zulässige Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Richtlinien für von Maps-Nutzern veröffentlichte Inhalte-Hilfe
 - [Tipps für mehr Rezensionen](https://support.google.com/business/answer/3474122?hl=de), Google Unternehmensprofil-Hilfe
 - [Kundenrezensionen verwalten](https://support.google.com/business/answer/3474050?hl=de), Google Unternehmensprofil-Hilfe
-- [Leistung Ihres Unternehmensprofils analysieren](https://support.google.com/business/answer/7689763?hl=de), Google Unternehmensprofil-Hilfe
+- [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/7689763?hl=de), Google Unternehmensprofil-Hilfe
 - [Was sind Impressionen, Position und Klicks?](https://support.google.com/webmasters/answer/7042828?hl=de), Google Search Console-Hilfe
 - [Strukturierte Daten für lokale Unternehmen (LocalBusiness)](https://developers.google.com/search/docs/appearance/structured-data/local-business), Google Search Central
 

@@ -57,7 +57,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Relevanz bedeutet, wie gut Ihr Profil zur Suchanfrage passt. Google nennt dafür vollständige und genaue Angaben als Hilfe. Die Entfernung hängt vom Standort des Suchenden ab. Bekanntheit entsteht aus Links von anderen Websites sowie aus Zahl und Bewertung Ihrer Rezensionen.",
+          text: "Relevanz bedeutet, wie gut Ihr Profil zur Suchanfrage passt. Google nennt dafür vollständige und korrekte Angaben als Hilfe. Die Entfernung hängt vom Standort des Suchenden ab. Bekanntheit entsteht aus Links von anderen Websites sowie aus Zahl und Bewertung Ihrer Rezensionen.",
         },
         {
           t: "table",
@@ -95,7 +95,7 @@ const article: V4Article = {
             },
             {
               title: "Adresse oder Einzugsgebiet",
-              text: "Mit Praxisbetrieb vor Ort geben Sie die echte Adresse an. Ein Hausbesuchsdienst ohne Praxisraum blendet die Adresse aus und nennt ein Einzugsgebiet. Als Richtwert nennt Google höchstens rund zwei Stunden Fahrzeit. Eine Postadresse ohne Praxisbetrieb ist kein zulässiger Standort.",
+              text: "Mit Praxisbetrieb vor Ort geben Sie die echte Adresse an. Ein Hausbesuchsdienst ohne Praxisraum blendet die Adresse aus und nennt ein Einzugsgebiet. Als Richtwert nennt Google etwa zwei Autostunden vom Standort. Eine Postadresse ohne Praxisbetrieb ist kein zulässiger Standort.",
             },
             {
               title: "Sprechzeiten und Notdienst",
@@ -254,16 +254,16 @@ const article: V4Article = {
     },
     {
       q: "Was gilt für Hausbesuche ohne Praxisraum?",
-      a: "Sie blenden im Profil die Adresse aus und geben ein Einzugsgebiet an. Als Richtwert nennt Google höchstens rund zwei Stunden Fahrzeit vom Standort. Eine Postadresse ohne Praxisbetrieb ist kein zulässiger Standort.",
+      a: "Sie blenden im Profil die Adresse aus und geben ein Einzugsgebiet an. Als Richtwert nennt Google etwa zwei Autostunden vom Standort. Eine Postadresse ohne Praxisbetrieb ist kein zulässiger Standort.",
     },
   ],
   sources: [
-    { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
+    { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
     { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
-    { title: "Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
+    { title: "Verbotene und eingeschränkt zulässige Inhalte", publisher: "Richtlinien für von Maps-Nutzern veröffentlichte Inhalte-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
     { title: "Tipps für mehr Rezensionen", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3474122?hl=de" },
     { title: "Kundenrezensionen verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3474050?hl=de" },
-    { title: "Leistung Ihres Unternehmensprofils analysieren", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7689763?hl=de" },
+    { title: "Leistung und Statistiken Ihres Unternehmensprofils", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7689763?hl=de" },
     { title: "Was sind Impressionen, Position und Klicks?", publisher: "Google Search Console-Hilfe", url: "https://support.google.com/webmasters/answer/7042828?hl=de" },
     { title: "Strukturierte Daten für lokale Unternehmen (LocalBusiness)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/local-business" },
   ],

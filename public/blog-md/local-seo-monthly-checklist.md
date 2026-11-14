@@ -62,7 +62,7 @@ Beantworten Sie jede neue Bewertung, melden Sie Rezensionen, die gegen Googles R
 
 - **Antworten:** auf positive und negative Bewertungen sachlich und freundlich. Laut Google zeigen Sie damit, dass Sie das Feedback schätzen. Vorlagen finden Sie in [Antworten auf Bewertungen](https://localdominate.org/blog/bewertungs-antworten-vorlagen).
 - **Melden:** Rezensionen, die gegen die Inhaltsrichtlinien verstoßen, über das Profil melden. Eine schlechte, aber echte Bewertung ist kein Verstoß.
-- **Anfragen:** alle Kunden um eine ehrliche Bewertung bitten, etwa per Link oder QR-Code, den Google im Profil bereitstellt.
+- **Anfragen:** alle Kunden um eine ehrliche Bewertung bitten, etwa per Link oder QR-Code, den Google bereitstellt.
 - **Andere Portale:** Bewertungen auf den Plattformen Ihrer Branche lesen und beantworten, soweit das Portal es erlaubt.
 
 *Was Googles Richtlinien bei Bewertungen verbieten*
@@ -71,7 +71,7 @@ Beantworten Sie jede neue Bewertung, melden Sie Rezensionen, die gegen Googles R
 | --- | --- |
 | Gezielt nur zufriedene Kunden um Bewertungen bitten | Google nennt das ausdrücklich als unzulässig |
 | Negative Bewertungen verhindern oder verbieten | Ebenfalls ausdrücklich unzulässig |
-| Zahlungen, Rabatte oder Gratisleistungen für eine Bewertung | Bewertungen mit Anreiz gelten als manipuliert und werden entfernt |
+| Zahlungen, Rabatte oder Gratisleistungen für eine Bewertung | Anreize für Rezensionen sind laut Google unzulässig |
 
 Abläufe, wie Sie mehr echte Bewertungen bekommen, beschreibt der Artikel [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
 
@@ -204,12 +204,12 @@ Wir beginnen mit dem [kostenlosen Check](https://localdominate.org/de#check) Ihr
 
 - [Spezielle Öffnungszeiten festlegen](https://support.google.com/business/answer/6303076?hl=de), Google Unternehmensprofil-Hilfe
 - [Kundenrezensionen verwalten](https://support.google.com/business/answer/3474050?hl=de), Google Unternehmensprofil-Hilfe
-- [Verbotene und eingeschränkt zulässige Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe, Richtlinien für Nutzerinhalte
+- [Verbotene und eingeschränkt zulässige Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Richtlinien für von Maps-Nutzern veröffentlichte Inhalte-Hilfe
 - [Fotos und Videos in Ihrem Unternehmensprofil verwalten](https://support.google.com/business/answer/6103862?hl=de), Google Unternehmensprofil-Hilfe
 - [Beiträge in Ihrem Unternehmensprofil erstellen und verwalten](https://support.google.com/business/answer/7342169?hl=de), Google Unternehmensprofil-Hilfe
 - [Unternehmensprofil bearbeiten](https://support.google.com/business/answer/3039617?hl=de), Google Unternehmensprofil-Hilfe
 - [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/9918094?hl=de), Google Unternehmensprofil-Hilfe
-- [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
 - [Core Web Vitals und Google-Suchergebnisse](https://developers.google.com/search/docs/appearance/core-web-vitals?hl=de), Google Search Central
 - [Test für Rich-Suchergebnisse](https://support.google.com/webmasters/answer/7445569?hl=de), Search Console-Hilfe
 - [Allgemeine Richtlinien für strukturierte Daten](https://developers.google.com/search/docs/appearance/structured-data/sd-policies?hl=de), Google Search Central

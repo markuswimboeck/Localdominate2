@@ -122,7 +122,7 @@ Arbeiten Sie zuerst an dem, was Google bestätigt, dann an dem, was Fachleute ü
 
 1. **Profil bestätigen und Daten korrigieren.** Name, Adresse oder Einzugsgebiet, Telefon, Website, Öffnungs- und Sonderzeiten. Von Google bestätigt.
 2. **Hauptkategorie und Leistungen schärfen.** Die genaueste Kategorie und jede gesuchte Leistung einzeln. Von Google als Relevanz beschrieben, in der Umfrage auf Platz 1.
-3. **Bewertungen als Ablauf.** Alle Kunden fragen, auf jede Rezension antworten. Von Google bestätigt.
+3. **Bewertungen als Ablauf.** Alle Kunden um ehrliche Bewertungen bitten und sachlich antworten. Dass mehr Rezensionen und positive Bewertungen das Ranking verbessern können, bestätigt Google.
 4. **Website und lokale Erwähnungen.** Eine Seite je wichtiger Leistung, Links von Verbänden, Partnern und Presse. Verweisende Websites sind von Google bestätigt.
 5. **Öffnungszeiten ehrlich und vollständig.** Falls die Öffnung zur Suchzeit zählt, profitieren Sie von korrekten Zeiten. Wenn nicht, profitieren in jedem Fall Ihre Kunden.
 6. **Messen statt glauben.** Monatlich Raster über das Einzugsgebiet und Leistungsdaten des Profils vergleichen.
