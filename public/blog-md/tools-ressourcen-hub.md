@@ -37,6 +37,7 @@ Am Anfang steht eine geordnete Bestandsaufnahme. Danach wissen Sie, welche drei 
 - [Local SEO Audit](https://localdominate.org/blog/local-seo-audit-checkliste): die Checkliste zum Selbstprüfen.
 - [Google-Maps-Audit](https://localdominate.org/blog/google-maps-audit-template): die Vorlage zum Ausfüllen für Ihr Unternehmensprofil, mit Soll, Ist und Status.
 - [KI-Sichtbarkeit prüfen](https://localdominate.org/blog/ai-visibility-checklist): die Checkliste für Website und Profil.
+- [Local SEO Implementierungs-Checkliste](https://localdominate.org/blog/local-seo-checkliste-komplett): die Ersteinrichtung für lokale Betriebe.
 
 ## Planen: Strategie und Reihenfolge
 
@@ -60,6 +61,7 @@ Gemessen wird jeden Monat nach derselben Methode. Erst Positionen, Leistungsdate
 
 - [Local SEO jeden Monat](https://localdominate.org/blog/local-seo-monthly-checklist): die Routine-Checkliste mit Wochenplan.
 - [Google-Maps-Ranking-Tracker](https://localdominate.org/blog/google-maps-ranking-tracker): Positionen über Monate protokollieren.
+- [Local SEO Reporting Template](https://localdominate.org/blog/local-seo-reporting-template): der Monatsbericht.
 - [Sichtbarkeit in KI-Antworten messen](https://localdominate.org/blog/ai-visibility-index-local-seo-metrik): eine eigene, ehrliche Kennzahl.
 
 ## Werkzeuge

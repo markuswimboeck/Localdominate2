@@ -81,6 +81,7 @@ Bei beratenden Berufen wählen Mandanten sorgfältig. Profil und Website müssen
 Studios und Schulen leben von Terminen, Probestunden und Bewertungen. Wichtig sind ein klarer Buchungsweg und echte Fotos.
 
 - [Local SEO für Friseursalons und Beauty-Studios](https://localdominate.org/blog/local-seo-friseursalon-beauty)
+- [SEO für Kosmetikstudios](https://localdominate.org/blog/local-seo-kosmetikstudio)
 - [Local SEO für Fitnessstudios und Personal Trainer](https://localdominate.org/blog/local-seo-fitness)
 - [Local SEO für Yoga- und Pilates-Studios](https://localdominate.org/blog/local-seo-yoga-studios)
 - [Local SEO für Tattoo-Studios](https://localdominate.org/blog/local-seo-tattoo-studios)
