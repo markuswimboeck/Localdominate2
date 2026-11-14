@@ -47,6 +47,7 @@ export const HUB_OF: Readonly<Record<string, { slug: string; label: string }>> =
   "google-maps-spam-erkennen": { slug: "troubleshooting-hub", label: "Probleme mit dem Google-Profil" },
   "google-my-business-optimieren": { slug: "google-business-profil-hub", label: "Google-Unternehmensprofil" },
   "google-posts-ranking-faktor": { slug: "google-business-profil-hub", label: "Google-Unternehmensprofil" },
+  "google-unternehmensprofil-erstellen": { slug: "google-business-profil-hub", label: "Google-Unternehmensprofil" },
   "ki-aufgaben-hotel-rezeption": { slug: "ai-zukunft-hub", label: "KI-Suche und GEO" },
   "ki-kompetenzpflicht-art-4-ki-verordnung": { slug: "ai-zukunft-hub", label: "KI-Suche und GEO" },
   "ki-tools-local-seo": { slug: "ai-zukunft-hub", label: "KI-Suche und GEO" },

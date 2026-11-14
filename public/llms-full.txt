@@ -638,6 +638,15 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 
 ---
 
+#### Google Unternehmensprofil erstellen: Schritt-für-Schritt-Anleitung für Deutschland, Österreich und die Schweiz
+**URL:** https://localdominate.org/blog/google-unternehmensprofil-erstellen
+**Markdown:** https://localdominate.org/blog-md/google-unternehmensprofil-erstellen.md
+**Aktualisiert:** 2026-11-14
+
+**Kurzantwort:** Ein Google Unternehmensprofil erstellen Sie kostenlos unter business.google.com/add. Sie brauchen ein Google-Konto und einen Betrieb mit persönlichem Kundenkontakt zu den angegebenen Zeiten. Prüfen Sie zuerst, ob es schon ein Profil gibt. Dann geben Sie Name, Hauptkategorie, Adresse oder Einzugsgebiet und Kontaktdaten ein und bestätigen den Betrieb mit einer Methode, die Google Ihnen anbietet.
+
+---
+
 #### Google-Unternehmensprofil und KI 2026: Was Google dokumentiert und welche Felder Sie pflegen sollten
 **URL:** https://localdominate.org/blog/unternehmensprofil-ki-funktionen-2026
 **Markdown:** https://localdominate.org/blog-md/unternehmensprofil-ki-funktionen-2026.md

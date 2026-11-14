@@ -25,6 +25,16 @@
     <!-- Erzeugt mit npm run geo:files aus den V4-Artikeldaten -->
 
     <item>
+      <title>Google Unternehmensprofil erstellen: Schritt-für-Schritt-Anleitung für Deutschland, Österreich und die Schweiz</title>
+      <link>https://localdominate.org/blog/google-unternehmensprofil-erstellen</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/google-unternehmensprofil-erstellen</guid>
+      <pubDate>Sat, 14 Nov 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Google Unternehmensprofil</category>
+      <description><![CDATA[Google Unternehmensprofil kostenlos erstellen: Voraussetzungen, Name, Kategorie, Einzugsgebiet, Bestätigung, Erstellen lassen und typische Fehler.]]></description>
+    </item>
+
+    <item>
       <title>SEO für Kosmetikstudios: So finden Kunden Ihre Behandlungen bei Google</title>
       <link>https://localdominate.org/blog/local-seo-kosmetikstudio</link>
       <guid isPermaLink="true">https://localdominate.org/blog/local-seo-kosmetikstudio</guid>
@@ -512,16 +522,6 @@
       <dc:creator>LocalDominate</dc:creator>
       <category>Vorlage</category>
       <description><![CDATA[Tabellenvorlage für lokale Suchbegriffe: Spalten, Quellen, Bewertung und Seitenzuordnung. So halten Sie Ihre Keyword-Liste mit wenig Aufwand aktuell.]]></description>
-    </item>
-
-    <item>
-      <title>Local Link Building Blueprint: Der 90-Tage-Plan mit Vorlagen für lokale Links</title>
-      <link>https://localdominate.org/blog/local-link-building-blueprint</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-link-building-blueprint</guid>
-      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
-      <dc:creator>LocalDominate</dc:creator>
-      <category>Vorlage</category>
-      <description><![CDATA[90-Tage-Plan für lokale Links: Kammern, Vereine, Partner, Presse und Veranstaltungen Woche für Woche, mit Tracking-Tabelle und E-Mail-Vorlagen auf Deutsch.]]></description>
     </item>
   </channel>
 </rss>

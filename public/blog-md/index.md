@@ -3,7 +3,7 @@ title: "LocalDominate Blog Markdown Corpus"
 url: https://localdominate.org/blog-md/index.md
 language: de-DE
 updated: 2026-11-14
-article_count: 166
+article_count: 167
 license: https://creativecommons.org/licenses/by/4.0/
 ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler ohne JavaScript-Ausführung."
 ---
@@ -16,7 +16,7 @@ ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler o
 - Sitemap: https://localdominate.org/sitemap-ai.xml
 - Kurzbriefing: https://localdominate.org/llms.txt
 - Vollbriefing: https://localdominate.org/llms-full.txt
-- Artikelanzahl: 166
+- Artikelanzahl: 167
 - Lizenz: CC-BY 4.0 — Zitate mit Quellenangabe erwünscht.
 
 ## Artikel
@@ -80,6 +80,7 @@ ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler o
 - [Google-Maps-Spam erkennen und melden: so schützen Sie Ihren Markt und Ihr eigenes Profil](https://localdominate.org/blog-md/google-maps-spam-erkennen.md) — Kategorie: Google Maps; HTML: https://localdominate.org/blog/google-maps-spam-erkennen; Aktualisiert: 2026-11-14
 - [Google Unternehmensprofil optimieren: die praktische Anleitung](https://localdominate.org/blog-md/google-my-business-optimieren.md) — Kategorie: Google Unternehmensprofil; HTML: https://localdominate.org/blog/google-my-business-optimieren; Aktualisiert: 2026-11-14
 - [Beiträge im Google-Unternehmensprofil: Was sie für Ranking und Kunden wirklich leisten](https://localdominate.org/blog-md/google-posts-ranking-faktor.md) — Kategorie: Unternehmensprofil; HTML: https://localdominate.org/blog/google-posts-ranking-faktor; Aktualisiert: 2026-10-13
+- [Google Unternehmensprofil erstellen: Schritt-für-Schritt-Anleitung für Deutschland, Österreich und die Schweiz](https://localdominate.org/blog-md/google-unternehmensprofil-erstellen.md) — Kategorie: Google Unternehmensprofil; HTML: https://localdominate.org/blog/google-unternehmensprofil-erstellen; Aktualisiert: 2026-11-14
 - [Welche Aufgaben KI an der Hotel-Rezeption übernehmen kann](https://localdominate.org/blog-md/ki-aufgaben-hotel-rezeption.md) — Kategorie: KI in der Hotellerie; HTML: https://localdominate.org/blog/ki-aufgaben-hotel-rezeption; Aktualisiert: 2026-10-10
 - [KI-Kompetenzpflicht nach Art. 4 KI-Verordnung: Was KMU jetzt tun müssen](https://localdominate.org/blog-md/ki-kompetenzpflicht-art-4-ki-verordnung.md) — Kategorie: KI im Unternehmen; HTML: https://localdominate.org/blog/ki-kompetenzpflicht-art-4-ki-verordnung; Aktualisiert: 2026-10-10
 - [KI-Tools für Local SEO: Wofür sie taugen, was Google erlaubt und was Datenschutz verlangt](https://localdominate.org/blog-md/ki-tools-local-seo.md) — Kategorie: KI im Betrieb; HTML: https://localdominate.org/blog/ki-tools-local-seo; Aktualisiert: 2026-10-12

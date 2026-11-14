@@ -23400,6 +23400,123 @@
           }
         }
       ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://localdominate.org/ai-answer-index.json#google-unternehmensprofil-erstellen",
+      "name": "Google Unternehmensprofil erstellen: Schritt-für-Schritt-Anleitung für Deutschland, Österreich und die Schweiz — AI Answer Index",
+      "headline": "Google Unternehmensprofil erstellen: Schritt-für-Schritt-Anleitung für Deutschland, Österreich und die Schweiz",
+      "description": "Google Unternehmensprofil kostenlos erstellen: Voraussetzungen, Name, Kategorie, Einzugsgebiet, Bestätigung, Erstellen lassen und typische Fehler.",
+      "url": "https://localdominate.org/blog/google-unternehmensprofil-erstellen",
+      "sameAs": "https://localdominate.org/blog-md/google-unternehmensprofil-erstellen.md",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-11-14",
+      "dateModified": "2026-11-14",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "publisher": {
+        "@type": "Organization",
+        "name": "LocalDominate",
+        "url": "https://localdominate.org"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Google Unternehmensprofil"
+        }
+      ],
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Google Unternehmensprofil erstellen: Schritt-für-Schritt-Anleitung für Deutschland, Österreich und die Schweiz",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Google Unternehmensprofil erstellen Sie kostenlos unter business.google.com/add. Sie brauchen ein Google-Konto und einen Betrieb mit persönlichem Kundenkontakt zu den angegebenen Zeiten. Prüfen Sie zuerst, ob es schon ein Profil gibt. Dann geben Sie Name, Hauptkategorie, Adresse oder Einzugsgebiet und Kontaktdaten ein und bestätigen den Betrieb mit einer Methode, die Google Ihnen anbietet.",
+            "url": "https://localdominate.org/blog/google-unternehmensprofil-erstellen"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist das Google Unternehmensprofil kostenlos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Laut Google können Sie Ihr Unternehmensprofil kostenlos hinzufügen oder beanspruchen. Auch die Bestätigung kostet nichts. Geld kostet nur Hilfe von Dienstleistern beim Ausfüllen oder bei der Pflege.",
+            "url": "https://localdominate.org/blog/google-unternehmensprofil-erstellen"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich ein Unternehmensprofil ohne Google-Konto erstellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, Sie melden sich zum Anlegen und Verwalten mit einem Google-Konto an. Eine Gmail-Adresse brauchen Sie aber nicht. Sie können ein Google-Konto mit Ihrer vorhandenen Firmen-E-Mail-Adresse anlegen.",
+            "url": "https://localdominate.org/blog/google-unternehmensprofil-erstellen"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was bedeutet es, das Profil freizuschalten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gemeint ist die Bestätigung, auch Verifizierung genannt. Sie weisen Google nach, dass es den Betrieb gibt und Sie ihn führen, etwa per Video, Telefon, E-Mail oder Postkarte. Welche Methoden Sie bekommen, entscheidet Google.",
+            "url": "https://localdominate.org/blog/google-unternehmensprofil-erstellen"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie lange dauert es, bis mein Eintrag in Google Maps erscheint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nach der Bestätigung kann die Prüfung laut Google bis zu fünf Arbeitstage dauern, selten länger. Spätere Änderungen prüft Google vor der Veröffentlichung, eine allgemeine Dauer nennt die Hilfe nicht.",
+            "url": "https://localdominate.org/blog/google-unternehmensprofil-erstellen"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Brauche ich eine Adresse, um bei Google gelistet zu werden?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Für die Bestätigung tragen Sie eine Adresse ein, die Google finden kann, zeigen müssen Sie sie aber nur, wenn Sie dort Kunden empfangen. Fahren Sie zu Kunden, blenden Sie die Adresse aus und geben ein Einzugsgebiet an. Virtuelle Büros und Postfächer sind nicht zulässig.",
+            "url": "https://localdominate.org/blog/google-unternehmensprofil-erstellen"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich mein Google Unternehmensprofil erstellen lassen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, durch einen Dienstleister, der mit Ihrem ausdrücklichen Einverständnis handelt. Bleiben Sie selbst Inhaber und geben Sie ihm die Rolle Administrator. Für die Bestätigung braucht es in der Regel Sie oder Ihr Team vor Ort.",
+            "url": "https://localdominate.org/blog/google-unternehmensprofil-erstellen"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Soll ich mein Profil löschen und neu erstellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, das löst die üblichen Probleme nicht. Der alte Eintrag kann laut Google weiter erscheinen, Bewertungen bleiben dort, und ein neues Profil für denselben Standort wäre ein Duplikat. Korrigieren Sie das bestehende Profil oder fordern Sie Zugriff an.",
+            "url": "https://localdominate.org/blog/google-unternehmensprofil-erstellen"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Darf ich als Agentur ein Profil für meinen Kunden erstellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, aber nur mit ausdrücklichem Einverständnis des Inhabers, und die Bestätigung erfolgt in Zusammenarbeit mit ihm. Am saubersten ist es, wenn der Kunde Inhaber ist und die Agentur als Administrator arbeitet.",
+            "url": "https://localdominate.org/blog/google-unternehmensprofil-erstellen"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie soll „Google Unternehmensprofil erstellen: Schritt-für-Schritt-Anleitung für Deutschland, Österreich und die Schweiz” zitiert werden?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "LocalDominate (2026-11-14). Google Unternehmensprofil erstellen: Schritt-für-Schritt-Anleitung für Deutschland, Österreich und die Schweiz. https://localdominate.org/blog/google-unternehmensprofil-erstellen",
+            "url": "https://localdominate.org/blog/google-unternehmensprofil-erstellen"
+          }
+        }
+      ]
     }
   ]
 }
