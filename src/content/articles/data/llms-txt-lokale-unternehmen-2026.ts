@@ -35,7 +35,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Laut Projektseite war die Datei vor allem für den Moment einer Anfrage gedacht, nicht für das Training von Sprachmodellen. Die zweite Fassung vom August 2026 begründet der Autor mit zwei Jahren Erfahrung: Tausende Websites veröffentlichten inzwischen eine llms.txt, und Programmier-Agenten nutzten sie zuverlässig. Eine unabhängige Messung ist das nicht.",
+          text: "Laut Projektseite war die Datei vor allem für den Moment einer Anfrage gedacht (Inferenz) und nicht in erster Linie für das Training von Sprachmodellen. Auch Trainingsläufe könnten sie laut Projektseite nutzen. Die zweite Fassung vom August 2026 begründet der Autor mit zwei Jahren Erfahrung: Tausende Websites veröffentlichten inzwischen eine llms.txt, und Programmier-Agenten nutzten sie zuverlässig. Eine unabhängige Messung ist das nicht.",
         },
         {
           t: "table",
@@ -74,7 +74,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Zusätzlich schlägt llmstxt.org vor, wichtige Seiten auch als reine Markdown-Fassung mit der Endung „.md“ anzubieten. Die zweite Fassung ergänzt, wie Agenten die Datei finden: Eine Seite verweist mit der Link-Beziehung „describedby“ auf ihre llms.txt, entweder als link-Element im HTML-Kopf oder als Link-Header der HTTP-Antwort.",
+          text: "Zusätzlich schlägt llmstxt.org vor, wichtige Seiten auch als reine Markdown-Fassung anzubieten, mit angehängter oder ersetzter Endung „.md“. Die zweite Fassung ergänzt, wie Agenten die Datei finden: Eine Seite verweist mit der Link-Beziehung „describedby“ auf ihre llms.txt, entweder als link-Element im HTML-Kopf oder als Link-Header der HTTP-Antwort.",
         },
         {
           t: "note",
@@ -95,7 +95,7 @@ const article: V4Article = {
           head: ["Anbieter", "Was dokumentiert ist", "Was daraus folgt"],
           rows: [
             ["Google Suche", "Der Leitfaden zu generativen KI-Funktionen (seit 15. Mai 2026) zählt llms.txt zu den Taktiken, die Sie für die Google Suche ignorieren können. Seit 15. Juni 2026 steht dort: Die Suche ignoriert die Dateien, sie schaden und helfen nicht. Für Übersichten mit KI und den KI-Modus sind keine KI-Textdateien nötig.", "Für die Google Suche ohne Wirkung, in beide Richtungen"],
-            ["Google Chrome (Lighthouse)", "Seit Version 13.3 im Mai 2026 prüft die Kategorie „Agentic Browsing“ laut Fachmedien, ob eine llms.txt vorhanden ist und Links enthält. Fehlt sie, gilt der Punkt als nicht anwendbar.", "Ein Prüfpunkt für KI-Agenten, kein Signal für die Google Suche"],
+            ["Google Chrome (Lighthouse)", "Laut Chrome-Dokumentation ist die Kategorie „Agentic Browsing“ experimentell. Eine fehlende llms.txt gilt als nicht anwendbar, ein Serverfehler beim Abruf wird markiert. Fachmedien berichten, dass seit Version 13.3 (Mai 2026) auch geprüft wird, ob die Datei Links enthält.", "Ein Prüfpunkt für KI-Agenten, kein Signal für die Google Suche"],
             ["OpenAI", "Für die ChatGPT-Suche nennt OpenAI den Zugriff von OAI-SearchBot. In der FAQ für Website-Betreiber kommt llms.txt nicht vor.", "Keine dokumentierte Rolle für die ChatGPT-Suche"],
             ["Anthropic", "Die Hilfeseite zu den Crawlern beschreibt ClaudeBot, Claude-User und Claude-SearchBot und verweist auf die robots.txt. llms.txt wird nicht erwähnt.", "Keine dokumentierte Rolle für die Suche in Claude"],
             ["Perplexity", "Die Crawler-Dokumentation beschreibt PerplexityBot für die Suche und Perplexity-User für Abrufe auf Nutzerwunsch. llms.txt erscheint dort nur als Inhaltsverzeichnis der eigenen Dokumentation.", "Keine dokumentierte Rolle für die Suche in Perplexity"],
@@ -238,7 +238,7 @@ const article: V4Article = {
             { title: "Inhalt schreiben", text: "Titel, ein Satz zum Angebot, Einzugsgebiet und Erreichbarkeit, dann die fünf bis zehn wichtigsten öffentlichen Seiten mit kurzer Notiz." },
             { title: "Als Textdatei speichern", text: "Dateiname llms.txt, Zeichenkodierung UTF-8 für korrekte Umlaute, abgelegt im Hauptverzeichnis. Bei WordPress oder Wix prüfen Sie zuerst, ob Ihr SEO-Plugin oder der Baukasten das übernimmt." },
             { title: "Im Browser aufrufen", text: "Die Datei muss ohne Anmeldung lesbar sein und darf nicht durch die robots.txt gesperrt werden. Klicken Sie jeden Link einmal an." },
-            { title: "Bei Bedarf mit Lighthouse testen", text: "Ab Version 13.3 zeigt die Kategorie „Agentic Browsing“, ob die Datei gefunden wurde und Links enthält. Über Ihre Sichtbarkeit in KI-Antworten sagt das nichts." },
+            { title: "Bei Bedarf mit Lighthouse testen", text: "Die experimentelle Kategorie „Agentic Browsing“ zeigt, ob der Abruf der Datei gelingt, laut Fachmedien auch, ob sie Links enthält. Über Ihre Sichtbarkeit in KI-Antworten sagt das nichts." },
             { title: "Abrufe beobachten", text: "In den Server-Logs oder der Statistik Ihres Hosters sehen Sie, ob und welche Crawler /llms.txt abrufen." },
             { title: "Mitpflegen", text: "Bei jeder Änderung an Leistungen, Öffnungszeiten oder Seitenadressen auch die llms.txt anpassen, am besten zusammen mit dem Unternehmensprofil." },
           ],
@@ -293,11 +293,11 @@ const article: V4Article = {
     },
     {
       q: "Kann ich mit einer llms.txt KI-Crawler sperren?",
-      a: "Nein. Die Datei ist eine Übersicht, keine Zugriffsregel. Crawler steuern Sie über die robots.txt, bei OpenAI und Anthropic getrennt für Suche und Training. Abrufe, die ein Nutzer direkt auslöst, folgen der robots.txt laut OpenAI und Perplexity nicht immer.",
+      a: "Nein. Die Datei ist eine Übersicht, keine Zugriffsregel. Crawler steuern Sie über die robots.txt, bei OpenAI und Anthropic getrennt für Suche und Training. Abrufe, die ein Nutzer direkt auslöst, folgen der robots.txt laut OpenAI nicht unbedingt und laut Perplexity in der Regel nicht.",
     },
     {
       q: "Warum prüft Lighthouse die llms.txt, wenn die Google Suche sie ignoriert?",
-      a: "Lighthouse bewertet seit Version 13.3 auch, wie gut KI-Agenten mit einer Website zurechtkommen; über Rankings entscheidet die Suche. Fehlt die Datei, gilt der Lighthouse-Punkt laut Fachberichten als nicht anwendbar, nicht als Fehler. Für die Google Suche bleibt sie ohne Bedeutung.",
+      a: "Lighthouse bewertet in der experimentellen Kategorie „Agentic Browsing“ auch, wie gut KI-Agenten mit einer Website zurechtkommen; über Rankings entscheidet die Suche. Fehlt die Datei, gilt der Lighthouse-Punkt laut Fachberichten als nicht anwendbar, nicht als Fehler. Für die Google Suche bleibt sie ohne Bedeutung.",
     },
   ],
   sources: [
@@ -312,6 +312,7 @@ const article: V4Article = {
     { title: "Does Anthropic crawl data from the web, and how can site owners block the crawler?", publisher: "Claude Help Center", url: "https://support.claude.com/en/articles/8896518" },
     { title: "Perplexity Crawlers", publisher: "Perplexity", url: "https://docs.perplexity.ai/docs/resources/perplexity-crawlers.md" },
     { title: "llms.txt der Perplexity-Dokumentation", publisher: "Perplexity", url: "https://docs.perplexity.ai/llms.txt" },
+    { title: "llms.txt (Lighthouse Agentic Browsing)", publisher: "Chrome for Developers", url: "https://developer.chrome.com/docs/lighthouse/agentic-browsing/llms-txt" },
     { title: "Google’s llms.txt Guidance Depends On Which Product You Ask (20. Mai 2026)", publisher: "Search Engine Journal", url: "https://searchenginejournal.com/googles-llms-txt-guidance-depends-on-which-product-you-ask/575431/" },
     { title: "How to Interpret the New Agentic Browsing Audit in Lighthouse (25. Juni 2026)", publisher: "Locomotive Agency", url: "https://locomotive.agency/blog/lighthouse-agentic-browsing-audit/" },
     { title: "Lighthouse Fails Your Llms.txt Without Markdown Links (3. Juli 2026)", publisher: "Search Engine Journal", url: "https://www.searchenginejournal.com/lighthouse-fails-your-llms-txt-without-markdown-links/577590/" },

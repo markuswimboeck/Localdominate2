@@ -108,7 +108,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Die Websuche startete im März 2025 zunächst für zahlende Nutzer in den USA. Seit dem 27. Mai 2025 ist sie laut Anthropic weltweit in allen Tarifen verfügbar. Eingeschaltet wird sie im Chat über das Schieberegler-Symbol im Eingabefeld. In Team- und Enterprise-Konten muss zuerst der Inhaber des Arbeitsbereichs sie für alle freigeben. In kostenlosen Konten zählen Suche und Seitenabruf zu den täglichen Nutzungsgrenzen.",
+          text: "Die Websuche startete im März 2025 zunächst für zahlende Nutzer in den USA. Seit dem 27. Mai 2025 ist sie laut Anthropic weltweit in allen Tarifen verfügbar. Eingeschaltet wird sie laut Anthropic im Chat über das Plus-Symbol unten links im Eingabefeld und den Eintrag „Web search“. In Team- und Enterprise-Konten muss zuerst der Inhaber des Arbeitsbereichs sie für alle freigeben. In kostenlosen Konten zählen Suche und Seitenabruf zu den Nutzungsgrenzen, die alle fünf Stunden zurückgesetzt werden.",
         },
         {
           t: "p",
@@ -145,11 +145,11 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Eine mögliche Einstellung für einen Betrieb, der in den Antworten erscheinen, aber kein Trainingsmaterial liefern will: PerplexityBot, Claude-SearchBot und Claude-User erlauben, ClaudeBot sperren. Ob Sie das Training ausschließen, ist eine eigene Entscheidung. Änderungen wirken bei Perplexity laut Anbieter nach bis zu 24 Stunden. Anthropic weist darauf hin, dass die Regeln in der robots.txt jeder Subdomain stehen müssen, die Sie ausschließen wollen, und unterstützt zusätzlich die Angabe Crawl-delay.",
+          text: "Eine mögliche Einstellung für einen Betrieb, der in den Antworten erscheinen, aber kein Trainingsmaterial liefern will: PerplexityBot, Claude-SearchBot und Claude-User erlauben, ClaudeBot sperren. Ob Sie das Training ausschließen, ist eine eigene Entscheidung. Änderungen wirken bei Perplexity laut Anbieter nach bis zu 24 Stunden. Anthropic weist darauf hin, dass die Regeln in der robots.txt jeder Subdomain stehen müssen, die Sie ausschließen wollen, und unterstützt zusätzlich die Angabe Crawl-delay. Seit dem 30. Oktober 2026 erkennt Anthropic außerdem ein maschinenlesbares Signal gegen KI-Training. Regeln, die ClaudeBot ausdrücklich nennen, haben laut Anthropic Vorrang.",
         },
         {
           t: "p",
-          text: "Bot-Schutz kann Crawler abweisen, obwohl die robots.txt sie erlaubt. Perplexity veröffentlicht seine IP-Bereiche als JSON-Dateien und beschreibt, wie Sie in Cloudflare oder AWS WAF eine Ausnahme einrichten. Anthropic veröffentlicht keine IP-Bereiche und schreibt, dass Sperren nach IP-Adresse möglicherweise nicht richtig funktionieren. Bei Cloudflare lassen sich KI-Crawler inzwischen getrennt nach Suche, Training und Agenten steuern; die aktuellen Einstellungen beschreibt [KI-Crawler steuern](/blog/ai-crawler-steuern-gptbot-claudebot-2026#cdn-firewall).",
+          text: "Bot-Schutz kann Crawler abweisen, obwohl die robots.txt sie erlaubt. Perplexity veröffentlicht seine IP-Bereiche als JSON-Dateien und beschreibt, wie Sie in Cloudflare oder AWS WAF eine Ausnahme einrichten. Anthropic führt unter claude.com/crawling/bots.json eine Liste seiner Crawler-IP-Adressen und schreibt, dass Sperren nach IP-Adresse möglicherweise nicht richtig funktionieren, weil die Bots dann die robots.txt nicht lesen können. Bei Cloudflare lassen sich KI-Crawler inzwischen getrennt nach Suche, Training und Agenten steuern; die aktuellen Einstellungen beschreibt [KI-Crawler steuern](/blog/ai-crawler-steuern-gptbot-claudebot-2026#cdn-firewall).",
         },
         {
           t: "note",
@@ -214,10 +214,10 @@ const article: V4Article = {
           t: "steps",
           items: [
             { title: "Fragen festlegen", text: "So, wie Kunden fragen: „Welche Physiotherapie in Linz hat samstags Termine?“, „Hotel mit Hund am Bodensee“, „Schlüsseldienst Winterthur Notdienst“. Immer mit Ort im Text, weil beide Dienste sonst den Standort Ihrer Internetverbindung verwenden können." },
-            { title: "Bedingungen gleich halten", text: "Jedes Mal eine neue Unterhaltung. In Perplexity prüfen, ob im Profil ein Standort fest eingestellt ist, und ihn bei Bedarf entfernen. In Claude die Websuche über das Schieberegler-Symbol prüfen, denn nur mit ihr greift Claude auf aktuelle Daten zu und liefert Zitate." },
+            { title: "Bedingungen gleich halten", text: "Jedes Mal eine neue Unterhaltung. In Perplexity prüfen, ob im Profil ein Standort fest eingestellt ist, und ihn bei Bedarf entfernen. In Claude die Websuche über das Plus-Symbol im Eingabefeld prüfen, denn nur mit ihr greift Claude auf aktuelle Daten zu und liefert Zitate." },
             { title: "Ergebnis festhalten", text: "Datum, Dienst, Frage, genannt ja oder nein, genannte Angaben wie Adresse, Zeiten und Preise, verlinkte Quellen. Dazu ein Bildschirmfoto als Beleg." },
             { title: "Quellen auswerten", text: "Klicken Sie die Verweise an. Sie zeigen, welche Seiten für diese Frage herangezogen werden, und damit, wo Ihre Angaben stimmen müssen. Falsche Angaben korrigieren Sie an der Quelle, den Ablauf beschreibt [KI-Falschangaben korrigieren](/blog/ai-falschangaben-korrigieren-2026)." },
-            { title: "Server-Logs prüfen", text: "Suchen Sie nach den User-Agents PerplexityBot, Perplexity-User, Claude-SearchBot und Claude-User. Zugriffe von Perplexity lassen sich mit den veröffentlichten IP-Listen abgleichen; für Anthropic gibt es keine solche Liste." },
+            { title: "Server-Logs prüfen", text: "Suchen Sie nach den User-Agents PerplexityBot, Perplexity-User, Claude-SearchBot und Claude-User. Zugriffe von Perplexity und von Anthropic lassen sich mit den veröffentlichten IP-Listen abgleichen." },
             { title: "Verlauf vergleichen", text: "Antworten schwanken, auch bei gleicher Frage. Erst der Vergleich über mehrere Monate zeigt eine Richtung." },
           ],
         },

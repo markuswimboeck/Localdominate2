@@ -205,7 +205,7 @@ const article: V4Article = {
           rows: [
             ["Übersicht mit KI (Google)", "„Mag ich nicht“, dann „Problem melden“, Kategorie und Details, „Senden“; alternativ Dreipunktmenü und „Feedback geben“", "Eintrag selbst über Profil oder Maps korrigieren"],
             ["ChatGPT", "Daumen runter; bei rechtlichen Anliegen die Kategorie für Sicherheits- oder Rechtsbedenken", "Webformular für Inhaltsmeldungen, für Daten über Personen das Privacy Portal"],
-            ["Perplexity", "Dreipunktmenü unter der Antwort, dann „Report“", "E-Mail an support@perplexity.ai mit Link zum Thread"],
+            ["Perplexity", "Dreipunktmenü unter der Antwort, dann „Report“; eine zweite Hilfeseite nennt das Flaggensymbol unter der Antwort", "E-Mail an support@perplexity.ai mit Link zum Thread"],
             ["Microsoft Copilot", "Feedback-Funktion im Copilot; in Microsoft-365-Apps Daumen hoch oder runter", "In Firmen kann die IT das Feedback abschalten"],
             ["Claude", "Daumen runter unter der Antwort", "Meldeformular bei Verstößen gegen Richtlinien oder Gesetze; Website-Betreiber können mit Eigentumsnachweis beantragen, dass eine eigene URL in Claude-Antworten gesperrt wird"],
           ],
@@ -248,7 +248,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Hilft der Anbieter nicht, bleibt die Beschwerde bei einer Datenschutzbehörde. OpenAI nennt die irische Datenschutzkommission oder Ihre örtliche Behörde, für die Schweiz den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten. Wie offen die Frage ist, zeigt eine Beschwerde von noyb bei der österreichischen Datenschutzbehörde vom April 2024. noyb warf OpenAI vor, falsche Angaben nicht berichtigen, sondern nur filtern oder sperren zu können.",
+          text: "Hilft der Anbieter nicht, bleibt die Beschwerde bei einer Datenschutzbehörde. OpenAI nennt in der EU-Datenschutzerklärung das Recht, sich bei der örtlichen Datenschutzbehörde zu beschweren. Wie offen die Frage ist, zeigt eine Beschwerde von noyb bei der österreichischen Datenschutzbehörde vom April 2024. noyb warf OpenAI vor, falsche Angaben nicht berichtigen, sondern nur filtern oder sperren zu können.",
         },
         {
           t: "note",
@@ -314,9 +314,10 @@ const article: V4Article = {
     { title: "Right to be forgotten and personal data removal from ChatGPT", publisher: "OpenAI Help Center", url: "https://help.openai.com/en/articles/20001057" },
     { title: "EU Privacy Policy (Stand 24. August 2026)", publisher: "OpenAI", url: "https://openai.com/policies/eu-privacy-policy" },
     { title: "Need support? (Stand 3. März 2026)", publisher: "Perplexity Help Center", url: "https://intercom.help/perplexity-ai/en/articles/10354888-need-support" },
+    { title: "How can I report incorrect or inaccurate answers?", publisher: "Perplexity Help Center", url: "https://intercom.help/perplexity-ai/en/articles/10354902-how-can-i-report-incorrect-or-inaccurate-answers" },
     { title: "How does Perplexity work?", publisher: "Perplexity", url: "https://hub-prod.perplexity.ai/hub/faq/how-does-perplexity-work" },
     { title: "Privacy Policy (Stand 31. Oktober 2025)", publisher: "Perplexity", url: "https://hub-prod.perplexity.ai/hub/legal/privacy-policy" },
-    { title: "Transparency Note for Microsoft Copilot (Stand 18. August 2026)", publisher: "Microsoft Support", url: "https://support.microsoft.com/en-US/Privacy/microsoft-copilot/transparency-note" },
+    { title: "Transparency Note for Microsoft Copilot (Stand 10. November 2026)", publisher: "Microsoft Support", url: "https://support.microsoft.com/en-US/Privacy/microsoft-copilot/transparency-note" },
     { title: "Providing feedback about Microsoft Copilot with Microsoft 365 apps", publisher: "Microsoft Support", url: "https://support.microsoft.com/privacy/microsoft-copilot/providing-feedback" },
     { title: "Introducing the New Bing Places for Business (3. Oktober 2025)", publisher: "Microsoft Bing Blogs", url: "https://blogs.bing.com/search/October-2025/Introducing-the-New-Bing-Places-for-Business-Built-for-Business-Owners,-Powered-by-Research" },
     { title: "Introducing AI Performance in Bing Webmaster Tools Public Preview (10. Februar 2026)", publisher: "Microsoft Bing Webmaster Blog", url: "https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview" },

@@ -31,7 +31,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Sie erreichen ihn über die Google-Startseite, einen eigenen Reiter auf der Ergebnisseite und die Google-App für Android und iOS. Fragen lassen sich tippen, sprechen oder mit einem Foto stellen. Laut Google waren die Fragen der ersten Nutzer **zwei- bis dreimal so lang** wie übliche Suchanfragen. Der KI-Modus beruht auf Googles Gemini-Modellen; ein stärkeres Modell (Gemini 3 Pro) gibt es laut Google-Hilfe nur für Abonnenten und nur auf Englisch.",
+          text: "Sie erreichen ihn über die Google-Startseite, einen eigenen Reiter auf der Ergebnisseite und die Google-App für Android und iOS. Fragen lassen sich tippen, sprechen oder mit einem Foto stellen. Laut Google waren die Fragen der ersten Nutzer **zwei- bis dreimal so lang** wie übliche Suchanfragen. Der KI-Modus beruht auf Googles Gemini-Modellen; ein auswählbares stärkeres Modell (Gemini 4 Carbon) setzt laut Google-Hilfe ein Abonnement von Google AI Ultra voraus und hat Tageslimits.",
         },
         {
           t: "table",

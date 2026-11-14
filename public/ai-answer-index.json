@@ -1487,7 +1487,7 @@
           "name": "Kostet Apple Business etwas?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Die Plattform ist laut Apple kostenlos. Kostenpflichtig sind Zusatzleistungen wie Anzeigen in Apple Karten, die es laut Apple vorerst nur in den USA und Kanada gibt, sowie einige Geräteleistungen, die nur in den USA angeboten werden.",
+            "text": "Die Plattform ist laut Apple kostenlos. Kostenpflichtig sind laut Apple Zusatzleistungen wie iCloud-Speicher oder AppleCare+ for Business. Anzeigen in Apple Karten kündigte Apple für Sommer 2026 in den USA und Kanada an, einen Preis nennt die Ankündigung nicht.",
             "url": "https://localdominate.org/blog/apple-business-connect-local-seo-2026"
           }
         },
@@ -1514,7 +1514,7 @@
           "name": "Übernimmt Apple meine Daten aus dem Google-Unternehmensprofil?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Nein, beide Systeme sind getrennt. Sie pflegen Apple Business selbst oder über einen Partner. Halten Sie Name, Adresse, Telefonnummer und Öffnungszeiten in beiden Einträgen identisch, damit Kunden überall dieselben Angaben sehen.",
+            "text": "Apple beschreibt in den geprüften Hilfeseiten keinen Import aus dem Google-Profil. Sie pflegen Apple Business selbst oder über einen Partner. Halten Sie Name, Adresse, Telefonnummer und Öffnungszeiten in beiden Einträgen identisch, damit Kunden überall dieselben Angaben sehen.",
             "url": "https://localdominate.org/blog/apple-business-connect-local-seo-2026"
           }
         },
@@ -8505,7 +8505,7 @@
           "name": "Kann ich mit einer llms.txt KI-Crawler sperren?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Nein. Die Datei ist eine Übersicht, keine Zugriffsregel. Crawler steuern Sie über die robots.txt, bei OpenAI und Anthropic getrennt für Suche und Training. Abrufe, die ein Nutzer direkt auslöst, folgen der robots.txt laut OpenAI und Perplexity nicht immer.",
+            "text": "Nein. Die Datei ist eine Übersicht, keine Zugriffsregel. Crawler steuern Sie über die robots.txt, bei OpenAI und Anthropic getrennt für Suche und Training. Abrufe, die ein Nutzer direkt auslöst, folgen der robots.txt laut OpenAI nicht unbedingt und laut Perplexity in der Regel nicht.",
             "url": "https://localdominate.org/blog/llms-txt-lokale-unternehmen-2026"
           }
         },
@@ -8514,7 +8514,7 @@
           "name": "Warum prüft Lighthouse die llms.txt, wenn die Google Suche sie ignoriert?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Lighthouse bewertet seit Version 13.3 auch, wie gut KI-Agenten mit einer Website zurechtkommen; über Rankings entscheidet die Suche. Fehlt die Datei, gilt der Lighthouse-Punkt laut Fachberichten als nicht anwendbar, nicht als Fehler. Für die Google Suche bleibt sie ohne Bedeutung.",
+            "text": "Lighthouse bewertet in der experimentellen Kategorie „Agentic Browsing“ auch, wie gut KI-Agenten mit einer Website zurechtkommen; über Rankings entscheidet die Suche. Fehlt die Datei, gilt der Lighthouse-Punkt laut Fachberichten als nicht anwendbar, nicht als Fehler. Für die Google Suche bleibt sie ohne Bedeutung.",
             "url": "https://localdominate.org/blog/llms-txt-lokale-unternehmen-2026"
           }
         },
@@ -21423,7 +21423,7 @@
           "name": "Ist Ask Maps in Deutschland, Österreich und der Schweiz verfügbar?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Google hat dafür keinen Start angekündigt (Stand 11. Oktober 2026). Ask Maps startete im März 2026 in den USA und Indien, im August 2026 kamen weitere Länder dazu, die Google nur teilweise nennt.",
+            "text": "Google nennt die drei Länder nicht ausdrücklich (Stand 11. Oktober 2026). Ask Maps startete im März 2026 in den USA und Indien, im August 2026 kamen weitere Länder dazu. Auf Englisch gibt es Ask Maps laut Google in über 150 Ländern und Gebieten, die Google nicht einzeln aufführt. Ob es bei Ihnen erscheint, zeigt nur ein Blick in Google Maps.",
             "url": "https://localdominate.org/blog/unternehmensprofil-ki-funktionen-2026"
           }
         },
@@ -21432,7 +21432,7 @@
           "name": "Kann ich mein Unternehmensprofil mit Gemini verwalten?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "In Deutschland und Österreich nicht, weil Google die Funktion im Europäischen Wirtschaftsraum ausschließt. Für die Schweiz enthält die Hilfe keinen Ausschluss.",
+            "text": "Laut Google-Hilfe überall, wo die Gemini-Web-App unterstützt wird, im Browser unter gemini.google.com. Nötig sind ein privates Google-Konto, ein Alter ab 18 Jahren, gespeicherte Gemini-Aktivitäten und genau ein bestätigtes Profil. Eine Länderliste nennt Google nicht, ob es in Ihrem Land schon geht, zeigt nur ein Test.",
             "url": "https://localdominate.org/blog/unternehmensprofil-ki-funktionen-2026"
           }
         },
