@@ -6706,7 +6706,7 @@
           "name": "Wie viele Wettbewerber sollte ich vergleichen?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Drei sind ein guter Start. Wählen Sie die Betriebe, die bei Ihren wichtigsten Suchbegriffen an den meisten Messpunkten vor Ihnen stehen. Mehr Betriebe kosten viel Zeit und bringen selten neue Erkenntnisse.",
+            "text": "Drei sind ein guter Start. Wählen Sie die Betriebe, die bei Ihren wichtigsten Suchbegriffen an den meisten Messpunkten vor Ihnen stehen. Mehr Betriebe kosten viel Zeit.",
             "url": "https://localdominate.org/blog/google-maps-konkurrenzanalyse"
           }
         },
@@ -6733,7 +6733,7 @@
           "name": "Darf ich die Texte und Fotos eines Wettbewerbers übernehmen?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Nein. Lassen Sie sich von der Struktur anregen, etwa welche Leistungen genannt werden, und schreiben Sie eigene Texte mit eigenen Fotos. Kopierte Inhalte helfen Ihnen nicht und können rechtliche Probleme verursachen.",
+            "text": "Nein. Lassen Sie sich von der Struktur anregen, etwa welche Leistungen genannt werden, und schreiben Sie eigene Texte mit eigenen Fotos. Kopierte Inhalte helfen Ihnen nicht und können urheberrechtlich problematisch sein.",
             "url": "https://localdominate.org/blog/google-maps-konkurrenzanalyse"
           }
         },
@@ -7002,7 +7002,7 @@
           "name": "Wie oft sollte ich meine Maps-Positionen messen?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Einmal im Monat reicht für die meisten Betriebe. Wichtig ist, dass Sie immer mit denselben Begriffen, Punkten und ähnlicher Uhrzeit messen. Nach größeren Änderungen am Profil können Sie zusätzlich nach einer Woche messen.",
+            "text": "Einmal im Monat ist ein praktikabler Rhythmus. Wichtig ist, dass Sie immer mit denselben Begriffen, Punkten und ähnlicher Uhrzeit messen. Nach größeren Änderungen am Profil können Sie zusätzlich nach einer Woche messen.",
             "url": "https://localdominate.org/blog/google-maps-ranking-tracker"
           }
         },
@@ -7020,7 +7020,7 @@
           "name": "Wie viele Suchbegriffe sollte ich verfolgen?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Drei bis zehn genügen für die meisten Betriebe. Wählen Sie Begriffe mit klarer Kaufabsicht, die zu Ihren wichtigsten Leistungen passen. Jeder weitere Begriff vervielfacht Aufwand oder Kosten.",
+            "text": "Drei bis zehn sind ein praktikabler Umfang. Wählen Sie Begriffe mit klarer Kaufabsicht, die zu Ihren wichtigsten Leistungen passen. Jeder weitere Begriff vervielfacht Aufwand oder Kosten.",
             "url": "https://localdominate.org/blog/google-maps-ranking-tracker"
           }
         },
@@ -9214,7 +9214,7 @@
           "name": "Local Link Building: Lokale Links ohne Regelverstoß aufbauen",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Lokale Links entstehen, wenn Websites aus Ihrer Region einen echten Grund haben, auf Sie zu verweisen: Mitgliedschaften bei Kammer und Verband, Partner und Lieferanten, Vereine, lokale Presse und nützliche Inhalte. Google nennt die Zahl der Websites, die auf ein Unternehmen verweisen, als Teil der Bekanntheit. Gekaufte oder getauschte Links verstoßen gegen Googles Spamrichtlinien.",
+            "text": "Lokale Links entstehen, wenn Websites aus Ihrer Region einen echten Grund haben, auf Sie zu verweisen: Mitgliedschaften bei Kammer und Verband, Partner und Lieferanten, Vereine, lokale Presse und nützliche Inhalte. Google nennt die Zahl der Websites, die auf ein Unternehmen verweisen, als Teil der Bekanntheit. Gekaufte Links und übermäßiger Linktausch verstoßen gegen Googles Spamrichtlinien.",
             "url": "https://localdominate.org/blog/local-link-building"
           }
         },
@@ -10819,7 +10819,7 @@
           "name": "Wie oft sollte ich den Profil-Check wiederholen?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Öffnungszeiten und Sondertage prüfen Sie vor jedem Feiertag und jeder Schließung. Den gesamten Check wiederholen Sie etwa zweimal im Jahr, weil sich Sortiment und Angebote ändern.",
+            "text": "Öffnungszeiten und Sondertage prüfen Sie vor jedem Feiertag und jeder Schließung. Den gesamten Check wiederholen Sie nach unserer Empfehlung regelmäßig, etwa halbjährlich. Google gibt dafür keinen Rhythmus vor.",
             "url": "https://localdominate.org/blog/local-seo-case-study-baecker"
           }
         },
@@ -10837,7 +10837,7 @@
           "name": "Muss ich auf jede Bewertung antworten?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Google hebt hilfreiche Antworten als Stärke hervor. Antworten Sie deshalb sachlich auf alle Bewertungen, auch auf kritische, und ohne persönliche Angaben des Kunden.",
+            "text": "Nein, Google schreibt das nicht vor. Die Hilfe sagt ausdrücklich, dass Sie nicht jedem öffentlich danken müssen. Antworten Sie bei Bedarf, bei negativen Bewertungen zeitnah, sachlich und ohne persönliche Angaben des Kunden.",
             "url": "https://localdominate.org/blog/local-seo-case-study-baecker"
           }
         },
@@ -10846,7 +10846,7 @@
           "name": "Wir haben mehrere Filialen. Was gilt?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Jeder Standort mit eigener Adresse bekommt ein eigenes Profil, und Google sieht pro Standort nur eine Seite vor. Der Name muss im selben Land an allen Standorten gleich sein. Die Kategorien sollten gleich bleiben, wenn dort dieselben Leistungen angeboten werden.",
+            "text": "Jeder Standort mit eigener Adresse bekommt ein eigenes Profil, und Google sieht pro Standort nur eine Seite vor. Der Name muss im selben Land grundsätzlich an allen Standorten gleich sein.",
             "url": "https://localdominate.org/blog/local-seo-case-study-baecker"
           }
         },
@@ -11128,7 +11128,7 @@
           "name": "Wie lange dauert es, bis Änderungen wirken?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Eine verlässliche Zeitangabe gibt es nicht, weil sie vom Wettbewerb im Ort abhängt. Vergleichen Sie Ihre Angaben deshalb über mehrere Monate, statt nach wenigen Tagen zu urteilen.",
+            "text": "Eine verlässliche Zeitangabe gibt es nicht, weil sie vom Wettbewerb im Ort abhängt. Vergleichen Sie Ihre Zahlen deshalb über einen längeren Zeitraum, statt nach wenigen Tagen zu urteilen.",
             "url": "https://localdominate.org/blog/local-seo-doener-kebab-imbiss"
           }
         },
@@ -11645,7 +11645,7 @@
           "name": "Local SEO Fehler: Warum Ihr Betrieb lokal nicht gefunden wird",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Die häufigsten Local-SEO-Fehler sind ein Profilname mit Zusätzen, falsche Kategorien, Adressen ohne besetzte Betriebsstätte, Bewertungen mit Anreiz oder gezielter Auswahl und Stadtseiten mit fast gleichem Text. Google sortiert lokale Ergebnisse nach Relevanz, Entfernung und Bekanntheit und sagt, dass sich ein besseres lokales Ranking weder anfordern noch bezahlen lässt.",
+            "text": "Typische Local-SEO-Fehler sind ein Profilname mit Zusätzen, falsche Kategorien, Adressen ohne besetzte Betriebsstätte, Bewertungen mit Anreiz oder gezielter Auswahl und Stadtseiten mit fast gleichem Text. Google sortiert lokale Ergebnisse nach Relevanz, Entfernung und Bekanntheit und sagt, dass sich ein besseres lokales Ranking weder anfordern noch bezahlen lässt.",
             "url": "https://localdominate.org/blog/local-seo-fehler"
           }
         },
@@ -18033,7 +18033,7 @@
           "name": "Local SEO in Zürich: gefunden werden, wo Ihre Kunden sind",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "In Zürich liegen viele Anbieter derselben Branche nah beieinander. Weil Google lokale Treffer auch nach der Entfernung sortiert, ist Ihr Einzugsgebiet oft nur ein Kreis oder ein paar Quartiere gross. Pflegen Sie Ihr Unternehmensprofil mit echter Adresse, nennen Sie auf der Website nur Quartiere, die Sie wirklich bedienen, bauen Sie lokale Erwähnungen auf und messen Sie mit einem Raster über die Stadt.",
+            "text": "In Zürich liegen viele Anbieter derselben Branche nah beieinander. Weil Google lokale Treffer auch nach der Entfernung sortiert, kann Ihr Einzugsgebiet auf einen Kreis oder ein paar Quartiere schrumpfen. Pflegen Sie Ihr Unternehmensprofil mit echter Adresse, nennen Sie auf der Website nur Quartiere, die Sie wirklich bedienen, bauen Sie lokale Erwähnungen auf und messen Sie mit einem Raster über die Stadt.",
             "url": "https://localdominate.org/blog/local-seo-zuerich"
           }
         },
@@ -18078,7 +18078,7 @@
           "name": "Darf ich „Zürich“ oder den Kreis in meinen Firmennamen im Profil schreiben?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Nur wenn es Teil Ihres echten, auch auf Schild und Website verwendeten Namens ist. Zusätze, die nur der Sichtbarkeit dienen, verbietet Google. Wettbewerber können solche Namen melden, und das Profil kann gesperrt werden.",
+            "text": "Nur wenn es Teil Ihres echten, auch auf Schild und Website verwendeten Namens ist. Zusätze, die nur der Sichtbarkeit dienen, verbietet Google. Bei Namensverstössen kann das Profil gesperrt werden.",
             "url": "https://localdominate.org/blog/local-seo-zuerich"
           }
         },
@@ -18925,7 +18925,7 @@
           "name": "Was bedeutet Mobile-First-Indexierung?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Google crawlt Ihre Seiten mit einem Smartphone-Agenten und nutzt diese mobile Version für Indexierung und Ranking. Eine eigene mobile Fassung ist nicht vorgeschrieben, Google empfiehlt sie aber dringend, am besten als responsives Design.",
+            "text": "Google crawlt Ihre Seiten mit einem Smartphone-Agenten und nutzt diese mobile Version für Indexierung und Ranking. Eine eigene mobile Fassung ist nicht vorgeschrieben. Google empfiehlt responsives Webdesign, weil es am einfachsten umzusetzen und zu pflegen ist.",
             "url": "https://localdominate.org/blog/mobile-local-seo"
           }
         },

@@ -25,7 +25,7 @@ In München konkurrieren viele Betriebe auf engem Raum. Google sortiert lokale T
 
 ## Das Wichtigste in Kürze
 
-- In einer dichten Stadt wie München entscheidet die Entfernung oft darüber, wer im Kartenblock erscheint. Ihren Standort können Sie nicht verschieben, nur korrekt angeben.
+- In einer dichten Stadt wie München kann die Entfernung mitentscheiden, wer im Kartenblock erscheint. Ihren Standort können Sie nicht verschieben, nur korrekt angeben.
 - München hat 25 Stadtbezirke. Nennen Sie Bezirke und Viertel nur dort, wo Sie wirklich Kunden haben oder hinfahren.
 - Eine Seite je Bezirk mit austauschbarem Text ist eine Brückenseite und verstößt gegen Googles Spam-Richtlinien. Eigene Seiten lohnen sich nur mit echtem, eigenem Inhalt.
 - „München“ oder ein Viertel im Firmennamen ist nur erlaubt, wenn es tatsächlich Teil Ihres Namens ist.
@@ -51,14 +51,14 @@ Wenn Sie die Grundlagen noch nicht kennen, beginnen Sie mit dem [Local-SEO-Leitf
 
 ## Die Entfernung in einer dichten Stadt
 
-Google berücksichtigt bei lokalen Treffern, wie weit ein Betrieb von der suchenden Person entfernt ist. In München liegen oft mehrere passende Anbieter wenige hundert Meter auseinander. Der Umkreis, in dem Sie im Kartenblock erscheinen, ist deshalb meist kleiner als die Stadt.
+Google berücksichtigt bei lokalen Treffern, wie weit ein Betrieb von der suchenden Person entfernt ist. In München können mehrere passende Anbieter nah beieinander liegen. Der Umkreis, in dem Sie im Kartenblock erscheinen, kann deshalb kleiner sein als die Stadt.
 
 Laut Googles Hilfe zum lokalen Ranking zählen **Relevanz, Entfernung und Bekanntheit**. Ein besseres lokales Ranking lässt sich nach Googles Aussage nicht einfordern, auch nicht gegen Bezahlung. Die Entfernung können Sie nur begrenzt beeinflussen: Sie geben den Standort korrekt an, verschieben können Sie ihn nicht.
 
 Für die Praxis heißt das: Eine Suche nach „Physiotherapie“ in Moosach liefert eine andere Liste als dieselbe Suche in Bogenhausen. Es ist normal, dass Sie in Ihrem Bezirk gut sichtbar sind und am anderen Ende der Stadt gar nicht. Ziel ist nicht, überall in München oben zu stehen, sondern dort, wo Ihre Kunden herkommen.
 
 - **Relevanz ausbauen**, weil Sie hier den größten Einfluss haben: genaue Hauptkategorie, einzeln eingetragene Leistungen, eine Seite je Leistung auf der Website.
-- **Bekanntheit aufbauen**: echte Bewertungen, Erwähnungen von Kammern, Verbänden und lokalen Medien.
+- **Bekanntheit aufbauen**: echte Bewertungen und Links von anderen Websites, etwa von Kammern, Verbänden und lokalen Medien.
 - **Mit Ortsangabe gesuchte Begriffe abdecken**: Wer „Steuerberater Schwabing“ sucht, nennt den Ort selbst. Hier zählt, ob Ihre Website und Ihr Profil den Bezirk glaubwürdig nennen.
 
 Wie Sie die einzelnen Hebel im Profil umsetzen, zeigt der Artikel [Google-Maps-Ranking verbessern](https://localdominate.org/blog/google-maps-ranking-verbessern).
@@ -67,7 +67,7 @@ Wie Sie die einzelnen Hebel im Profil umsetzen, zeigt der Artikel [Google-Maps-R
 
 Die Landeshauptstadt München ist amtlich in 25 Stadtbezirke gegliedert, jeder mit eigenem Bezirksausschuss. Viele Menschen suchen aber mit dem Namen eines Viertels wie Haidhausen, Giesing oder Westend. Nennen Sie beides nur dort, wo Sie wirklich tätig sind.
 
-*Die 25 Münchner Stadtbezirke (amtliche Bezeichnungen, Stand Kommunalwahl 2026)*
+*Die 25 Münchner Stadtbezirke (amtliche Bezeichnungen laut Bezirksausschuss-Satzung, letzte Änderung 18.11.2025)*
 
 | Nr. | Stadtbezirk | Nr. | Stadtbezirk |
 | --- | --- | --- | --- |
@@ -79,7 +79,7 @@ Die Landeshauptstadt München ist amtlich in 25 Stadtbezirke gegliedert, jeder m
 | 6 | Sendling | 19 | Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln |
 | 7 | Sendling-Westpark | 20 | Hadern |
 | 8 | Schwanthalerhöhe | 21 | Pasing-Obermenzing |
-| 9 | Neuhausen-Nymphenburg | 22 | Aubing-Lochhausen-Langwied |
+| 9 | Neuhausen-Nymphenburg | 22 | Aubing-Lochhausen-Langwied-Freiham |
 | 10 | Moosach | 23 | Allach-Untermenzing |
 | 11 | Milbertshofen-Am Hart | 24 | Feldmoching-Hasenbergl |
 | 12 | Schwabing-Freimann | 25 | Laim |
@@ -109,10 +109,10 @@ Die Faustregel: Würde ein Kunde aus diesem Bezirk auf der Seite etwas erfahren,
 
 ## Das Unternehmensprofil in München
 
-Für das Profil gelten in München dieselben Richtlinien wie überall. Drei Punkte sind in der Großstadt besonders oft falsch: Ortsangaben im Namen, ein zu großes oder unklares Einzugsgebiet und Adressen in Coworking-Räumen oder virtuellen Büros.
+Für das Profil gelten in München dieselben Richtlinien wie überall. Drei Punkte verdienen in der Großstadt besondere Aufmerksamkeit: Ortsangaben im Namen, ein zu großes oder unklares Einzugsgebiet und Adressen in Coworking-Räumen oder virtuellen Büros.
 
 1. **Name ohne Ortszusatz.** Googles Richtlinien verbieten unnötige Zusätze im Namen, ausdrücklich auch Ortsangaben. „Malerei Huber München Schwabing“ ist nur zulässig, wenn der Betrieb auf Schild und Briefpapier genau so heißt.
-2. **Adresse oder Einzugsgebiet.** Mit Kundenverkehr zeigen Sie die Adresse. Fahren Sie nur zum Kunden, blenden Sie die Adresse aus und legen ein Einzugsgebiet fest. Google nennt als Richtwert nicht mehr als etwa zwei Autostunden vom Standort. In München reicht oft eine Auswahl an Bezirken und Nachbargemeinden.
+2. **Adresse oder Einzugsgebiet.** Mit Kundenverkehr zeigen Sie die Adresse. Fahren Sie nur zum Kunden, entfernen Sie die Adresse aus dem Profil und legen ein Einzugsgebiet fest. Google nennt als Richtwert nicht mehr als etwa zwei Autostunden vom Standort. In München reicht oft eine Auswahl an Bezirken und Nachbargemeinden.
 3. **Kein virtuelles Büro.** Für eine angemietete Postadresse ohne Präsenz darf kein Profil erstellt werden. Ein Büro im Coworking-Space ist nur zulässig, wenn es klar beschildert ist und dort während der Öffnungszeiten Personal Kunden empfängt.
 4. **Sonderöffnungszeiten pflegen.** Feiertage und besondere Anlässe tragen Sie als Sonderöffnungszeiten ein. Das betrifft in München etwa geänderte Zeiten während großer Veranstaltungen in Ihrer Nähe. Details stehen in [Öffnungszeiten an Sondertagen](https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage).
 
@@ -122,7 +122,7 @@ Kategorien, Leistungen, Beschreibung und Fotos behandelt die Anleitung [Google U
 
 München hat viele internationale Einwohner, Pendler und Gäste. Englische Inhalte lohnen sich, wenn Sie diese Menschen tatsächlich auf Englisch bedienen. Dann gehört eine vollständige englische Fassung der wichtigen Seiten auf die Website, mit hreflang verknüpft, und keine halbe Übersetzung.
 
-Wer sich in München nicht auf Deutsch zurechtfindet, sucht oft auf Englisch, etwa nach einer Praxis, einer Kanzlei oder einem Handwerker. Bieten Sie Beratung, Termine oder Angebote auf Englisch an, schreiben Sie das klar auf die Website. Behaupten Sie es nicht, wenn es niemand im Team leisten kann.
+Wer sich in München nicht auf Deutsch zurechtfindet, sucht möglicherweise auf Englisch, etwa nach einer Praxis, einer Kanzlei oder einem Handwerker. Bieten Sie Beratung, Termine oder Angebote auf Englisch an, schreiben Sie das klar auf die Website. Behaupten Sie es nicht, wenn es niemand im Team leisten kann.
 
 - **Vollständige Übersetzung** der Seiten, die internationale Kunden brauchen: Leistung, Ablauf, Preise ab, Kontakt, Anfahrt.
 - **hreflang** zwischen deutscher und englischer Fassung. Google empfiehlt, Sprachversionen ausdrücklich anzugeben, und behandelt übersetzte Seiten nicht als Duplikate, wenn der Hauptinhalt übersetzt ist.
@@ -130,7 +130,7 @@ Wer sich in München nicht auf Deutsch zurechtfindet, sucht oft auf Englisch, et
 
 ### Oktoberfest und Saison nur als Kontext
 
-Das Oktoberfest findet nach Angaben der Stadt jedes Jahr auf der Theresienwiese statt, ab dem Samstag nach dem 15. September bis zum ersten Sonntag im Oktober. Für Hotels, Gastronomie und manche Dienstleister in der Nähe ändert das Anfragen, Öffnungszeiten und Anfahrt. Pflegen Sie in dieser Zeit Sonderöffnungszeiten und aktuelle Hinweise. Eine Wiesn-Seite lohnt sich nur, wenn Sie dazu etwas Eigenes anbieten. Wie Sie Sonderöffnungszeiten eintragen, steht in [Öffnungszeiten und Sondertage](https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage).
+Das Oktoberfest findet nach Angaben der Stadt jedes Jahr auf der Theresienwiese statt, ab dem Samstag nach dem 15. September bis zum ersten Sonntag im Oktober. Fällt der 1. oder 2. Oktober auf einen Sonntag, dauert es bis einschließlich 3. Oktober. Für Hotels, Gastronomie und manche Dienstleister in der Nähe ändert das Anfragen, Öffnungszeiten und Anfahrt. Pflegen Sie in dieser Zeit Sonderöffnungszeiten und aktuelle Hinweise. Eine Wiesn-Seite lohnt sich nur, wenn Sie dazu etwas Eigenes anbieten. Wie Sie Sonderöffnungszeiten eintragen, steht in [Öffnungszeiten und Sondertage](https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage).
 
 ## Erwähnungen von Münchner Institutionen
 
@@ -140,7 +140,7 @@ Bekanntheit entsteht auch über Erwähnungen bei Institutionen, in denen Sie ohn
 
 | Institution | Für wen | Was Sie prüfen können |
 | --- | --- | --- |
-| IHK für München und Oberbayern | Gewerbebetriebe mit Sitz oder Betriebsstätte in Oberbayern | Ausbildungsbetrieb, Veranstaltungen, Ehrenamt, Fachgremien |
+| IHK für München und Oberbayern | Gewerbliche Unternehmen mit mindestens einer Betriebsstätte in Oberbayern, reine Handwerksbetriebe und freie Berufe sind ausgenommen | Ausbildungsbetrieb, Veranstaltungen, Ehrenamt, Fachgremien |
 | Handwerkskammer für München und Oberbayern | Handwerksbetriebe in München und Oberbayern | Eintrag als Ausbildungsbetrieb, Mitarbeit in Ausschüssen, Meldungen der Kammer |
 | Innungen und Fachverbände | Je nach Gewerk oder Beruf | Mitgliederverzeichnis mit Link auf Ihre Website |
 | Berufskammern | Ärzte, Anwälte, Steuerberater und weitere freie Berufe | Ob es ein öffentliches Verzeichnis gibt und Ihre Daten dort stimmen |
@@ -210,14 +210,15 @@ Bei LocalDominate kostet der Google Profil Quick-Fix 79 € und die vollständig
 
 ## Quellen
 
-- [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
-- [Spam-Richtlinien für die Google Websuche (Missbrauch von Brückenseiten)](https://developers.google.com/search/docs/essentials/spam-policies?hl=de), Google Search Central
-- [Lokalisierte Versionen deiner Seiten für Google angeben (hreflang)](https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de), Google Search Central
-- [Musterstimmzettel für die Kommunalwahlen in München (25 Bezirksausschüsse)](https://stadt.muenchen.de/infos/kommunalwahl-musterstimmzettel.html), Landeshauptstadt München
-- [Die IHK für München und Oberbayern](https://ihk-muenchen.de/ihk/documents/IHK-Wahl-2026/IHK-2-Pager_Die_IHK.pdf), IHK für München und Oberbayern
-- [All info about the Oktoberfest in Munich](https://www.muenchen.de/int/en/events/oktoberfest.html), muenchen.de, offizielles Stadtportal
+- [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Spam Policies for Google Web Search (Doorway abuse)](https://developers.google.com/search/docs/essentials/spam-policies?hl=de), Google Search Central
+- [Lokalisierte Versionen deiner Seiten](https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de), Google Search Central
+- [Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung)](https://stadt.muenchen.de/rathaus/stadtrecht/vorschrift/20/version29/0.html), Landeshauptstadt München
+- [Mitgliedschaft in der IHK für München und Oberbayern: Wer ist betroffen?](https://ihk-muenchen.de/ihk/documents/IHK-Wahl-2026/IHK-2-Pager_Die_IHK.pdf), IHK für München und Oberbayern
+- [Oktoberfest in Munich: Program, Tents, Map and more](https://www.muenchen.de/int/en/events/oktoberfest.html), muenchen.de, offizielles Stadtportal
 - [Digitale-Dienste-Gesetz (DDG), § 5 Allgemeine Informationspflichten](https://www.gesetze-im-internet.de/ddg/__5.html), Bundesministerium der Justiz, gesetze-im-internet.de
+- [Anhang zu § 3 Absatz 3 UWG (Nr. 23b und 23c, Verbraucherbewertungen)](https://www.gesetze-im-internet.de/uwg_2004/anhang.html), Bundesministerium der Justiz, gesetze-im-internet.de
 
 ---
 

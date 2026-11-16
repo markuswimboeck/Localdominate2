@@ -13,7 +13,7 @@ const article: V4Article = {
   answer:
     "In München konkurrieren viele Betriebe auf engem Raum. Google sortiert lokale Treffer nach **Relevanz, Entfernung und Bekanntheit**, deshalb sieht jemand in Pasing eine andere Liste als jemand in Haidhausen. Planen Sie Ihr Einzugsgebiet nach den Bezirken, die Sie wirklich bedienen, halten Sie Profil und Website widerspruchsfrei und messen Sie Ihre Sichtbarkeit mit einem Raster über diese Bezirke.",
   takeaways: [
-    "In einer dichten Stadt wie München entscheidet die Entfernung oft darüber, wer im Kartenblock erscheint. Ihren Standort können Sie nicht verschieben, nur korrekt angeben.",
+    "In einer dichten Stadt wie München kann die Entfernung mitentscheiden, wer im Kartenblock erscheint. Ihren Standort können Sie nicht verschieben, nur korrekt angeben.",
     "München hat 25 Stadtbezirke. Nennen Sie Bezirke und Viertel nur dort, wo Sie wirklich Kunden haben oder hinfahren.",
     "Eine Seite je Bezirk mit austauschbarem Text ist eine Brückenseite und verstößt gegen Googles Spam-Richtlinien. Eigene Seiten lohnen sich nur mit echtem, eigenem Inhalt.",
     "„München“ oder ein Viertel im Firmennamen ist nur erlaubt, wenn es tatsächlich Teil Ihres Namens ist.",
@@ -56,7 +56,7 @@ const article: V4Article = {
       id: "entfernung",
       title: "Die Entfernung in einer dichten Stadt",
       answer:
-        "Google berücksichtigt bei lokalen Treffern, wie weit ein Betrieb von der suchenden Person entfernt ist. In München liegen oft mehrere passende Anbieter wenige hundert Meter auseinander. Der Umkreis, in dem Sie im Kartenblock erscheinen, ist deshalb meist kleiner als die Stadt.",
+        "Google berücksichtigt bei lokalen Treffern, wie weit ein Betrieb von der suchenden Person entfernt ist. In München können mehrere passende Anbieter nah beieinander liegen. Der Umkreis, in dem Sie im Kartenblock erscheinen, kann deshalb kleiner sein als die Stadt.",
       blocks: [
         {
           t: "p",
@@ -70,7 +70,7 @@ const article: V4Article = {
           t: "ul",
           items: [
             "**Relevanz ausbauen**, weil Sie hier den größten Einfluss haben: genaue Hauptkategorie, einzeln eingetragene Leistungen, eine Seite je Leistung auf der Website.",
-            "**Bekanntheit aufbauen**: echte Bewertungen, Erwähnungen von Kammern, Verbänden und lokalen Medien.",
+            "**Bekanntheit aufbauen**: echte Bewertungen und Links von anderen Websites, etwa von Kammern, Verbänden und lokalen Medien.",
             "**Mit Ortsangabe gesuchte Begriffe abdecken**: Wer „Steuerberater Schwabing“ sucht, nennt den Ort selbst. Hier zählt, ob Ihre Website und Ihr Profil den Bezirk glaubwürdig nennen.",
           ],
         },
@@ -88,7 +88,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "table",
-          caption: "Die 25 Münchner Stadtbezirke (amtliche Bezeichnungen, Stand Kommunalwahl 2026)",
+          caption: "Die 25 Münchner Stadtbezirke (amtliche Bezeichnungen laut Bezirksausschuss-Satzung, letzte Änderung 18.11.2025)",
           head: ["Nr.", "Stadtbezirk", "Nr.", "Stadtbezirk"],
           rows: [
             ["1", "Altstadt-Lehel", "14", "Berg am Laim"],
@@ -99,7 +99,7 @@ const article: V4Article = {
             ["6", "Sendling", "19", "Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"],
             ["7", "Sendling-Westpark", "20", "Hadern"],
             ["8", "Schwanthalerhöhe", "21", "Pasing-Obermenzing"],
-            ["9", "Neuhausen-Nymphenburg", "22", "Aubing-Lochhausen-Langwied"],
+            ["9", "Neuhausen-Nymphenburg", "22", "Aubing-Lochhausen-Langwied-Freiham"],
             ["10", "Moosach", "23", "Allach-Untermenzing"],
             ["11", "Milbertshofen-Am Hart", "24", "Feldmoching-Hasenbergl"],
             ["12", "Schwabing-Freimann", "25", "Laim"],
@@ -150,7 +150,7 @@ const article: V4Article = {
       id: "unternehmensprofil",
       title: "Das Unternehmensprofil in München",
       answer:
-        "Für das Profil gelten in München dieselben Richtlinien wie überall. Drei Punkte sind in der Großstadt besonders oft falsch: Ortsangaben im Namen, ein zu großes oder unklares Einzugsgebiet und Adressen in Coworking-Räumen oder virtuellen Büros.",
+        "Für das Profil gelten in München dieselben Richtlinien wie überall. Drei Punkte verdienen in der Großstadt besondere Aufmerksamkeit: Ortsangaben im Namen, ein zu großes oder unklares Einzugsgebiet und Adressen in Coworking-Räumen oder virtuellen Büros.",
       blocks: [
         {
           t: "steps",
@@ -161,7 +161,7 @@ const article: V4Article = {
             },
             {
               title: "Adresse oder Einzugsgebiet",
-              text: "Mit Kundenverkehr zeigen Sie die Adresse. Fahren Sie nur zum Kunden, blenden Sie die Adresse aus und legen ein Einzugsgebiet fest. Google nennt als Richtwert nicht mehr als etwa zwei Autostunden vom Standort. In München reicht oft eine Auswahl an Bezirken und Nachbargemeinden.",
+              text: "Mit Kundenverkehr zeigen Sie die Adresse. Fahren Sie nur zum Kunden, entfernen Sie die Adresse aus dem Profil und legen ein Einzugsgebiet fest. Google nennt als Richtwert nicht mehr als etwa zwei Autostunden vom Standort. In München reicht oft eine Auswahl an Bezirken und Nachbargemeinden.",
             },
             {
               title: "Kein virtuelles Büro",
@@ -187,7 +187,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Wer sich in München nicht auf Deutsch zurechtfindet, sucht oft auf Englisch, etwa nach einer Praxis, einer Kanzlei oder einem Handwerker. Bieten Sie Beratung, Termine oder Angebote auf Englisch an, schreiben Sie das klar auf die Website. Behaupten Sie es nicht, wenn es niemand im Team leisten kann.",
+          text: "Wer sich in München nicht auf Deutsch zurechtfindet, sucht möglicherweise auf Englisch, etwa nach einer Praxis, einer Kanzlei oder einem Handwerker. Bieten Sie Beratung, Termine oder Angebote auf Englisch an, schreiben Sie das klar auf die Website. Behaupten Sie es nicht, wenn es niemand im Team leisten kann.",
         },
         {
           t: "ul",
@@ -203,7 +203,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Das Oktoberfest findet nach Angaben der Stadt jedes Jahr auf der Theresienwiese statt, ab dem Samstag nach dem 15. September bis zum ersten Sonntag im Oktober. Für Hotels, Gastronomie und manche Dienstleister in der Nähe ändert das Anfragen, Öffnungszeiten und Anfahrt. Pflegen Sie in dieser Zeit Sonderöffnungszeiten und aktuelle Hinweise. Eine Wiesn-Seite lohnt sich nur, wenn Sie dazu etwas Eigenes anbieten. Wie Sie Sonderöffnungszeiten eintragen, steht in [Öffnungszeiten und Sondertage](/blog/gbp-oeffnungszeiten-sondertage).",
+          text: "Das Oktoberfest findet nach Angaben der Stadt jedes Jahr auf der Theresienwiese statt, ab dem Samstag nach dem 15. September bis zum ersten Sonntag im Oktober. Fällt der 1. oder 2. Oktober auf einen Sonntag, dauert es bis einschließlich 3. Oktober. Für Hotels, Gastronomie und manche Dienstleister in der Nähe ändert das Anfragen, Öffnungszeiten und Anfahrt. Pflegen Sie in dieser Zeit Sonderöffnungszeiten und aktuelle Hinweise. Eine Wiesn-Seite lohnt sich nur, wenn Sie dazu etwas Eigenes anbieten. Wie Sie Sonderöffnungszeiten eintragen, steht in [Öffnungszeiten und Sondertage](/blog/gbp-oeffnungszeiten-sondertage).",
         },
       ],
     },
@@ -218,7 +218,7 @@ const article: V4Article = {
           caption: "Mögliche Quellen für Erwähnungen (Auswahl, ohne Rangfolge)",
           head: ["Institution", "Für wen", "Was Sie prüfen können"],
           rows: [
-            ["IHK für München und Oberbayern", "Gewerbebetriebe mit Sitz oder Betriebsstätte in Oberbayern", "Ausbildungsbetrieb, Veranstaltungen, Ehrenamt, Fachgremien"],
+            ["IHK für München und Oberbayern", "Gewerbliche Unternehmen mit mindestens einer Betriebsstätte in Oberbayern, reine Handwerksbetriebe und freie Berufe sind ausgenommen", "Ausbildungsbetrieb, Veranstaltungen, Ehrenamt, Fachgremien"],
             ["Handwerkskammer für München und Oberbayern", "Handwerksbetriebe in München und Oberbayern", "Eintrag als Ausbildungsbetrieb, Mitarbeit in Ausschüssen, Meldungen der Kammer"],
             ["Innungen und Fachverbände", "Je nach Gewerk oder Beruf", "Mitgliederverzeichnis mit Link auf Ihre Website"],
             ["Berufskammern", "Ärzte, Anwälte, Steuerberater und weitere freie Berufe", "Ob es ein öffentliches Verzeichnis gibt und Ihre Daten dort stimmen"],
@@ -338,14 +338,15 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
-    { title: "Spam-Richtlinien für die Google Websuche (Missbrauch von Brückenseiten)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies?hl=de" },
-    { title: "Lokalisierte Versionen deiner Seiten für Google angeben (hreflang)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de" },
-    { title: "Musterstimmzettel für die Kommunalwahlen in München (25 Bezirksausschüsse)", publisher: "Landeshauptstadt München", url: "https://stadt.muenchen.de/infos/kommunalwahl-musterstimmzettel.html" },
-    { title: "Die IHK für München und Oberbayern", publisher: "IHK für München und Oberbayern", url: "https://ihk-muenchen.de/ihk/documents/IHK-Wahl-2026/IHK-2-Pager_Die_IHK.pdf" },
-    { title: "All info about the Oktoberfest in Munich", publisher: "muenchen.de, offizielles Stadtportal", url: "https://www.muenchen.de/int/en/events/oktoberfest.html" },
+    { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Spam Policies for Google Web Search (Doorway abuse)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies?hl=de" },
+    { title: "Lokalisierte Versionen deiner Seiten", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de" },
+    { title: "Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung)", publisher: "Landeshauptstadt München", url: "https://stadt.muenchen.de/rathaus/stadtrecht/vorschrift/20/version29/0.html" },
+    { title: "Mitgliedschaft in der IHK für München und Oberbayern: Wer ist betroffen?", publisher: "IHK für München und Oberbayern", url: "https://ihk-muenchen.de/ihk/documents/IHK-Wahl-2026/IHK-2-Pager_Die_IHK.pdf" },
+    { title: "Oktoberfest in Munich: Program, Tents, Map and more", publisher: "muenchen.de, offizielles Stadtportal", url: "https://www.muenchen.de/int/en/events/oktoberfest.html" },
     { title: "Digitale-Dienste-Gesetz (DDG), § 5 Allgemeine Informationspflichten", publisher: "Bundesministerium der Justiz, gesetze-im-internet.de", url: "https://www.gesetze-im-internet.de/ddg/__5.html" },
+    { title: "Anhang zu § 3 Absatz 3 UWG (Nr. 23b und 23c, Verbraucherbewertungen)", publisher: "Bundesministerium der Justiz, gesetze-im-internet.de", url: "https://www.gesetze-im-internet.de/uwg_2004/anhang.html" },
   ],
   related: [
     { slug: "google-maps-ranking-verbessern", title: "Google-Maps-Ranking verbessern" },

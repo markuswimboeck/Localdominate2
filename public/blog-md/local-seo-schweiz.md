@@ -25,7 +25,7 @@ Local SEO funktioniert in der Schweiz nach denselben Grundregeln wie überall: G
 
 ## Das Wichtigste in Kürze
 
-- Die Schweiz hat mehrere Sprachregionen. Laut Bundesamt für Statistik nennen 61 % der Bevölkerung Deutsch oder Schweizerdeutsch als Hauptsprache, 23 % Französisch und 8 % Italienisch.
+- Die Schweiz hat mehrere Sprachregionen. Laut Bundesamt für Statistik (Referenzjahr 2023) nennen 61 % der Bevölkerung Deutsch oder Schweizerdeutsch als Hauptsprache, 23 % Französisch und 8 % Italienisch.
 - Jede Sprachversion braucht eine eigene URL und hreflang-Angaben, die sich gegenseitig nennen, zum Beispiel de-CH, fr-CH und it-CH.
 - Im Google-Unternehmensprofil darf der Name nicht in mehreren Sprachen wiederholt werden. Die Sprachvielfalt gehört auf die Website.
 - local.ch und search.ch gehören beide zu localsearch (Swisscom Directories AG). Pflegen Sie dort dieselben Firmendaten wie im Profil.
@@ -123,9 +123,9 @@ Die allgemeine Anleitung für jedes Feld finden Sie in [Google Unternehmensprofi
 
 ## local.ch, search.ch und einheitliche Firmendaten
 
-In der Schweiz sind local.ch und search.ch die bekanntesten Verzeichnisse. Beide gehören zu localsearch, einer Marke der Swisscom Directories AG. Wichtig ist, dass dort dieselben Daten stehen wie im Google-Profil und auf der Website.
+In der Schweiz betreibt localsearch, die Swisscom Directories AG, die Verzeichnisse local.ch und search.ch. Wichtig ist, dass dort dieselben Daten stehen wie im Google-Profil und auf der Website.
 
-localsearch beschreibt local.ch und search.ch als Nummer eins im Schweizer Verzeichnismarkt. Für Sie heisst das: Ein falscher Eintrag dort wird gesehen. Prüfen Sie beide Plattformen und korrigieren Sie alte Adressen, Telefonnummern und Öffnungszeiten.
+localsearch bezeichnet local.ch und search.ch auf der eigenen Website als Nummer eins im Schweizer Verzeichnismarkt, einen unabhängigen Beleg gibt es dafür hier nicht. Für Sie heisst das: Ein falscher Eintrag dort wird gesehen. Prüfen Sie beide Plattformen und korrigieren Sie alte Adressen, Telefonnummern und Öffnungszeiten.
 
 *Schweizer Stolpersteine bei Name, Adresse und Telefon*
 
@@ -177,7 +177,7 @@ Wer Waren, Werke oder Leistungen im elektronischen Geschäftsverkehr anbietet, m
 - **Name:** wie im Handelsregister eingetragen. Einzelunternehmer nennen Vor- und Nachnamen.
 - **Postadresse:** mit Strasse. Ein Postfach allein reicht laut Handelsverband Schweiz nicht.
 - **E-Mail-Adresse:** Kunden müssen per E-Mail Kontakt aufnehmen können. Ein Chat allein genügt nicht.
-- **Erreichbarkeit:** Das Impressum sollte von jeder Seite aus mit einem klar beschrifteten Link erreichbar sein.
+- **Erreichbarkeit:** Laut Handelsverband Schweiz sollte der Link klar beschriftet und mindestens auf der Startseite, idealerweise auf allen Unterseiten erreichbar sein.
 
 Für Local SEO hat das Impressum eine zweite Funktion: Es ist eine Stelle, an der Google und KI-Systeme Ihren offiziellen Namen und Ihre Adresse finden. Schreiben Sie dort exakt dieselben Angaben wie im Google-Profil und auf local.ch.
 
@@ -191,8 +191,8 @@ Regionale Unterschiede zeigen sich in Sprache, Wettbewerb und Entfernungen, nich
 | --- | --- |
 | Grosse Städte | Viele Anbieter auf engem Raum, Entfernung zählt stark. Wie heben Sie sich mit Leistungen, Bewertungen und Fotos ab? |
 | Sprachgrenze | Kommen Kunden aus beiden Sprachgebieten? Dann zwei Sprachversionen der Website und Antworten in beiden Sprachen. |
-| Ländliche Regionen und Täler | Grössere Einzugsgebiete, weniger Wettbewerb. Ist das Einzugsgebiet im Profil korrekt angegeben? |
-| Tourismusorte | Gäste suchen vor der Anreise, oft auf Englisch. Gibt es eine englische Version und aktuelle Saisonzeiten? |
+| Ländliche Regionen und Täler | Möglicherweise grössere Einzugsgebiete und weniger Wettbewerb. Ist das Einzugsgebiet im Profil korrekt angegeben? |
+| Tourismusorte | Gäste suchen vor der Anreise, womöglich auch auf Englisch. Gibt es eine englische Version und aktuelle Saisonzeiten? |
 
 Wie das für eine einzelne Stadt konkret aussieht, zeigt die Vertiefung [Local SEO Zürich](https://localdominate.org/blog/local-seo-zuerich). Zum Vergleich mit einem deutschen Markt eignet sich [Local SEO München](https://localdominate.org/blog/local-seo-muenchen). Branchenbeispiele finden Sie in [Local SEO für Arztpraxen](https://localdominate.org/blog/local-seo-aerzte-praxen), [Local SEO für Handwerker](https://localdominate.org/blog/local-seo-handwerker) und [Local SEO für Restaurants](https://localdominate.org/blog/local-seo-fuer-restaurants).
 
@@ -227,13 +227,13 @@ Das Unternehmensprofil und die Grundeinträge kosten nur Zeit. Bei LocalDominate
 ## Quellen
 
 - [Sprachliche Praktiken in der Schweiz: Erhebung zur Sprache, Religion und Kultur 2024](https://dam-api.bfs.admin.ch/hub/api/dam/assets/34788128/master), Bundesamt für Statistik (BFS)
-- [Lokalisierte Versionen deiner Seiten an Google melden (hreflang)](https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de), Google Search Central
-- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
-- [About search.ch und localsearch](https://search.ch/about.en.html), search.ch
+- [Lokalisierte Versionen deiner Seiten](https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de), Google Search Central
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [About - search.ch](https://search.ch/about.en.html), search.ch
 - [FAQ zur Preisbekanntgabe](https://www.seco.admin.ch/de/faq-pbv), Staatssekretariat für Wirtschaft (SECO)
 - [Neues Datenschutzgesetz (revDSG)](https://www.kmu.admin.ch/de/neues-datenschutzgesetz-revdsg), KMU-Portal des Bundes
-- [Merkblatt Cookies und Online-Tracking](https://www.edoeb.admin.ch/dam/de/sd-web/ByXs53ExpIEy/20260327%20Merkblatt%20Cookies_DE.pdf), Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)
-- [Impressumspflicht nach UWG Art. 3 Abs. 1 lit. s](https://handelsverband.swiss/swiss-online-garantie-zertifizierung-impressum/), Handelsverband.swiss
+- [Verwendung von Cookies und ähnlichen Technologien im Zusammenhang mit Online-Tracking (Merkblatt)](https://www.edoeb.admin.ch/dam/de/sd-web/ByXs53ExpIEy/20260327%20Merkblatt%20Cookies_DE.pdf), Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)
+- [Swiss Online Garantie Zertifizierung: Impressum](https://handelsverband.swiss/swiss-online-garantie-zertifizierung-impressum/), Handelsverband.swiss
 
 ---
 

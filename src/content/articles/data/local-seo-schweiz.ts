@@ -13,7 +13,7 @@ const article: V4Article = {
   answer:
     "Local SEO funktioniert in der Schweiz nach denselben Grundregeln wie überall: Google sortiert nach **Relevanz, Entfernung und Bekanntheit**. Anders sind die Rahmenbedingungen. Sie brauchen eine Sprachstrategie für Ihr Einzugsgebiet, saubere hreflang-Angaben wie de-CH oder fr-CH, einheitliche Einträge auf local.ch und search.ch, Preise in CHF sowie ein Impressum und eine Datenschutzerklärung nach Schweizer Recht.",
   takeaways: [
-    "Die Schweiz hat mehrere Sprachregionen. Laut Bundesamt für Statistik nennen 61 % der Bevölkerung Deutsch oder Schweizerdeutsch als Hauptsprache, 23 % Französisch und 8 % Italienisch.",
+    "Die Schweiz hat mehrere Sprachregionen. Laut Bundesamt für Statistik (Referenzjahr 2023) nennen 61 % der Bevölkerung Deutsch oder Schweizerdeutsch als Hauptsprache, 23 % Französisch und 8 % Italienisch.",
     "Jede Sprachversion braucht eine eigene URL und hreflang-Angaben, die sich gegenseitig nennen, zum Beispiel de-CH, fr-CH und it-CH.",
     "Im Google-Unternehmensprofil darf der Name nicht in mehreren Sprachen wiederholt werden. Die Sprachvielfalt gehört auf die Website.",
     "local.ch und search.ch gehören beide zu localsearch (Swisscom Directories AG). Pflegen Sie dort dieselben Firmendaten wie im Profil.",
@@ -180,11 +180,11 @@ const article: V4Article = {
       id: "verzeichnisse",
       title: "local.ch, search.ch und einheitliche Firmendaten",
       answer:
-        "In der Schweiz sind local.ch und search.ch die bekanntesten Verzeichnisse. Beide gehören zu localsearch, einer Marke der Swisscom Directories AG. Wichtig ist, dass dort dieselben Daten stehen wie im Google-Profil und auf der Website.",
+        "In der Schweiz betreibt localsearch, die Swisscom Directories AG, die Verzeichnisse local.ch und search.ch. Wichtig ist, dass dort dieselben Daten stehen wie im Google-Profil und auf der Website.",
       blocks: [
         {
           t: "p",
-          text: "localsearch beschreibt local.ch und search.ch als Nummer eins im Schweizer Verzeichnismarkt. Für Sie heisst das: Ein falscher Eintrag dort wird gesehen. Prüfen Sie beide Plattformen und korrigieren Sie alte Adressen, Telefonnummern und Öffnungszeiten.",
+          text: "localsearch bezeichnet local.ch und search.ch auf der eigenen Website als Nummer eins im Schweizer Verzeichnismarkt, einen unabhängigen Beleg gibt es dafür hier nicht. Für Sie heisst das: Ein falscher Eintrag dort wird gesehen. Prüfen Sie beide Plattformen und korrigieren Sie alte Adressen, Telefonnummern und Öffnungszeiten.",
         },
         {
           t: "table",
@@ -273,7 +273,7 @@ const article: V4Article = {
             "**Name:** wie im Handelsregister eingetragen. Einzelunternehmer nennen Vor- und Nachnamen.",
             "**Postadresse:** mit Strasse. Ein Postfach allein reicht laut Handelsverband Schweiz nicht.",
             "**E-Mail-Adresse:** Kunden müssen per E-Mail Kontakt aufnehmen können. Ein Chat allein genügt nicht.",
-            "**Erreichbarkeit:** Das Impressum sollte von jeder Seite aus mit einem klar beschrifteten Link erreichbar sein.",
+            "**Erreichbarkeit:** Laut Handelsverband Schweiz sollte der Link klar beschriftet und mindestens auf der Startseite, idealerweise auf allen Unterseiten erreichbar sein.",
           ],
         },
         {
@@ -295,8 +295,8 @@ const article: V4Article = {
           rows: [
             ["Grosse Städte", "Viele Anbieter auf engem Raum, Entfernung zählt stark. Wie heben Sie sich mit Leistungen, Bewertungen und Fotos ab?"],
             ["Sprachgrenze", "Kommen Kunden aus beiden Sprachgebieten? Dann zwei Sprachversionen der Website und Antworten in beiden Sprachen."],
-            ["Ländliche Regionen und Täler", "Grössere Einzugsgebiete, weniger Wettbewerb. Ist das Einzugsgebiet im Profil korrekt angegeben?"],
-            ["Tourismusorte", "Gäste suchen vor der Anreise, oft auf Englisch. Gibt es eine englische Version und aktuelle Saisonzeiten?"],
+            ["Ländliche Regionen und Täler", "Möglicherweise grössere Einzugsgebiete und weniger Wettbewerb. Ist das Einzugsgebiet im Profil korrekt angegeben?"],
+            ["Tourismusorte", "Gäste suchen vor der Anreise, womöglich auch auf Englisch. Gibt es eine englische Version und aktuelle Saisonzeiten?"],
           ],
         },
         {
@@ -343,17 +343,17 @@ const article: V4Article = {
       url: "https://dam-api.bfs.admin.ch/hub/api/dam/assets/34788128/master",
     },
     {
-      title: "Lokalisierte Versionen deiner Seiten an Google melden (hreflang)",
+      title: "Lokalisierte Versionen deiner Seiten",
       publisher: "Google Search Central",
       url: "https://developers.google.com/search/docs/specialty/international/localized-versions?hl=de",
     },
     {
-      title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google",
+      title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google",
       publisher: "Google Unternehmensprofil-Hilfe",
       url: "https://support.google.com/business/answer/3038177?hl=de",
     },
     {
-      title: "About search.ch und localsearch",
+      title: "About - search.ch",
       publisher: "search.ch",
       url: "https://search.ch/about.en.html",
     },
@@ -368,12 +368,12 @@ const article: V4Article = {
       url: "https://www.kmu.admin.ch/de/neues-datenschutzgesetz-revdsg",
     },
     {
-      title: "Merkblatt Cookies und Online-Tracking",
+      title: "Verwendung von Cookies und ähnlichen Technologien im Zusammenhang mit Online-Tracking (Merkblatt)",
       publisher: "Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)",
       url: "https://www.edoeb.admin.ch/dam/de/sd-web/ByXs53ExpIEy/20260327%20Merkblatt%20Cookies_DE.pdf",
     },
     {
-      title: "Impressumspflicht nach UWG Art. 3 Abs. 1 lit. s",
+      title: "Swiss Online Garantie Zertifizierung: Impressum",
       publisher: "Handelsverband.swiss",
       url: "https://handelsverband.swiss/swiss-online-garantie-zertifizierung-impressum/",
     },

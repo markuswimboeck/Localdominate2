@@ -11,7 +11,7 @@ const article: V4Article = {
   lead:
     "Für Inhaber und Verantwortliche lokaler Betriebe, die bei Suchen wie „Zahnarzt in Graz“ oder „Elektriker in meiner Nähe“ nicht auftauchen. Sie erfahren, welche Fehler Google ausdrücklich nennt, welche Gewohnheiten schaden und in welcher Reihenfolge Sie die Korrekturen angehen.",
   answer:
-    "Die häufigsten Local-SEO-Fehler sind ein Profilname mit Zusätzen, falsche Kategorien, Adressen ohne besetzte Betriebsstätte, Bewertungen mit Anreiz oder gezielter Auswahl und Stadtseiten mit fast gleichem Text. Google sortiert lokale Ergebnisse nach **Relevanz, Entfernung und Bekanntheit** und sagt, dass sich ein besseres lokales Ranking weder anfordern noch bezahlen lässt.",
+    "Typische Local-SEO-Fehler sind ein Profilname mit Zusätzen, falsche Kategorien, Adressen ohne besetzte Betriebsstätte, Bewertungen mit Anreiz oder gezielter Auswahl und Stadtseiten mit fast gleichem Text. Google sortiert lokale Ergebnisse nach **Relevanz, Entfernung und Bekanntheit** und sagt, dass sich ein besseres lokales Ranking weder anfordern noch bezahlen lässt.",
   takeaways: [
     "Google sortiert lokale Ergebnisse nach Relevanz, Entfernung und Bekanntheit. Ein besseres lokales Ranking lässt sich laut Google weder anfordern noch bezahlen.",
     "Profilname, Kategorien und Adresse müssen zum realen Betrieb passen. Zusätze im Namen sind nicht zulässig, eine gemietete Adresse ohne Betrieb auch nicht.",
@@ -62,7 +62,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Das Unternehmensprofil ist der Eintrag, den Suchende in Google Maps und im Kartenblock sehen. Googles Richtlinien für Name, Kategorie und Adresse sind konkret. Diese Fehler kommen häufig vor und widersprechen den Richtlinien.",
+          text: "Das Unternehmensprofil ist der Eintrag, den Suchende in Google Maps und im Kartenblock sehen. Googles Richtlinien für Name, Kategorie und Adresse sind konkret. Diese Fehler widersprechen den Richtlinien.",
         },
         {
           t: "steps",
@@ -103,12 +103,12 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Viele Betriebe wollen für jede Nachbargemeinde eine eigene Seite. Die Spam-Richtlinien von Google beschreiben solche Konstruktionen als Doorway-Seiten. Das sind Seiten, die für ähnliche Suchanfragen entstehen und Besucher auf eine Zielseite weiterleiten, die nicht so nützlich ist wie das eigentliche Ziel.",
+          text: "Mancher Betrieb möchte für jede Nachbargemeinde eine eigene Seite. Die Spam-Richtlinien von Google beschreiben solche Konstruktionen als Doorway-Seiten. Das sind Seiten, die für ähnliche Suchanfragen entstehen und Besucher auf eine Zielseite weiterleiten, die nicht so nützlich ist wie das eigentliche Ziel.",
         },
         {
           t: "ul",
           items: [
-            "**Mehrere Seiten mit fast gleichem Text** für Orte wie Stadtteile oder Nachbarorte. Google nennt Seiten, die sich im Wesentlichen ähneln, als Problem.",
+            "**Mehrere Seiten mit fast gleichem Text** für Orte wie Stadtteile oder Nachbarorte. Google nennt Seiten für bestimmte Regionen oder Städte, die Nutzer auf eine Zielseite lenken, als Brückenseiten.",
             "**Textblöcke mit Städtenamen**, mit denen eine Seite für viele Orte ranken soll. Google nennt das Keyword-Stuffing.",
             "**Wiederholte Begriffe**, die unnatürlich klingen, und Listen von Telefonnummern ohne eigenen Nutzen.",
           ],
@@ -132,7 +132,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Bewertungen wirken bei Google auf die Bekanntheit, und sie entscheiden mit, wer aus dem Kartenblock anruft. Die Richtlinien zu Rezensionen sind konkret. Die Tabelle fasst die wichtigsten Punkte zusammen.",
+          text: "Bewertungen wirken bei Google auf die Bekanntheit: Anzahl und Bewertung der Rezensionen zählen laut Google dazu. Die Richtlinien zu Rezensionen sind konkret. Die Tabelle fasst die wichtigsten Punkte zusammen.",
         },
         {
           t: "table",
@@ -249,10 +249,10 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Tips to improve your local ranking on Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
-    { title: "Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
-    { title: "Spamrichtlinien für die Google-Websuche", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies?hl=de" },
+    { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Verbotene und eingeschränkt zulässige Inhalte", publisher: "Richtlinien für von Maps-Nutzern veröffentlichte Inhalte-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
+    { title: "Spam Policies for Google Web Search", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/essentials/spam-policies?hl=de" },
   ],
   related: [
     { slug: "google-my-business-optimieren", title: "Google Unternehmensprofil optimieren: die praktische Anleitung" },

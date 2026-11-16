@@ -40,7 +40,7 @@ const article: V4Article = {
           rows: [
             ["Eigene Suche am Handy", "Ihre Position an Ihrem Standort", "Sagt nichts über andere Orte im Einzugsgebiet"],
             ["Raster von Hand", "Position an mehreren festen Punkten", "Kostet Zeit, nur für wenige Begriffe praktikabel"],
-            ["Raster mit einem Werkzeug", "Position an vielen Punkten als Karte", "Kostet Guthaben je Messpunkt, Ergebnisse je Anbieter leicht verschieden"],
+            ["Raster mit einem Werkzeug", "Position an vielen Punkten als Karte", "Kostet Guthaben je Messpunkt, Ergebnisse können je Anbieter abweichen"],
             ["Leistungsdaten im Unternehmensprofil", "Aufrufe, Suchanfragen, Anrufe, Routen, Websiteklicks", "Keine Positionen"],
             ["Google Search Console", "Klicks, Impressionen und durchschnittliche Position Ihrer Website in der Google Suche", "Laut Google nur Google-Suchergebnisse, keine Positionen in der Maps-Liste"],
           ],
@@ -70,7 +70,7 @@ const article: V4Article = {
             },
             {
               title: "Rhythmus festlegen",
-              text: "Einmal im Monat genügt für die meisten Betriebe. Nach größeren Änderungen am Profil können Sie zusätzlich eine Woche später messen.",
+              text: "Einmal im Monat ist ein praktikabler Rhythmus. Nach größeren Änderungen am Profil können Sie zusätzlich eine Woche später messen.",
             },
             {
               title: "Uhrzeit festlegen",
@@ -81,7 +81,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Kosten bei Werkzeugen",
-          text: "Bei Raster-Werkzeugen ist jeder Messpunkt eine eigene Suche. BrightLocal rechnet als Beispiel vor: Zwei Begriffe in einem 5 × 5-Raster ergeben 50 Abfragen. Rechnen Sie Begriffe mal Punkte mal Messungen im Jahr, bevor Sie ein Paket wählen, und prüfen Sie die aktuellen Preise direkt beim Anbieter.",
+          text: "Bei Raster-Werkzeugen ist jeder Messpunkt eine eigene Suche. BrightLocal rechnet als Beispiel vor: Zwei Begriffe in einem 5 × 5-Raster kosten 50 Credits. Rechnen Sie Begriffe mal Punkte mal Messungen im Jahr, bevor Sie ein Paket wählen, und prüfen Sie die aktuellen Preise direkt beim Anbieter.",
         },
       ],
     },
@@ -239,7 +239,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Wie oft sollte ich meine Maps-Positionen messen?",
-      a: "Einmal im Monat reicht für die meisten Betriebe. Wichtig ist, dass Sie immer mit denselben Begriffen, Punkten und ähnlicher Uhrzeit messen. Nach größeren Änderungen am Profil können Sie zusätzlich nach einer Woche messen.",
+      a: "Einmal im Monat ist ein praktikabler Rhythmus. Wichtig ist, dass Sie immer mit denselben Begriffen, Punkten und ähnlicher Uhrzeit messen. Nach größeren Änderungen am Profil können Sie zusätzlich nach einer Woche messen.",
     },
     {
       q: "Reicht die Google Search Console für das Tracking?",
@@ -247,7 +247,7 @@ const article: V4Article = {
     },
     {
       q: "Wie viele Suchbegriffe sollte ich verfolgen?",
-      a: "Drei bis zehn genügen für die meisten Betriebe. Wählen Sie Begriffe mit klarer Kaufabsicht, die zu Ihren wichtigsten Leistungen passen. Jeder weitere Begriff vervielfacht Aufwand oder Kosten.",
+      a: "Drei bis zehn sind ein praktikabler Umfang. Wählen Sie Begriffe mit klarer Kaufabsicht, die zu Ihren wichtigsten Leistungen passen. Jeder weitere Begriff vervielfacht Aufwand oder Kosten.",
     },
     {
       q: "Mein Ranking schwankt von Messung zu Messung. Ist das normal?",
@@ -259,12 +259,12 @@ const article: V4Article = {
     },
   ],
   sources: [
-    { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
+    { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
     { title: "Leistung und Statistiken Ihres Unternehmensprofils", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9918094?hl=de" },
     { title: "Was sind Impressionen, Position und Klicks?", publisher: "Search Console-Hilfe", url: "https://support.google.com/webmasters/answer/7042828?hl=de" },
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
     { title: "Unternehmensprofil bearbeiten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3039617?hl=de" },
-    { title: "Geo Grid Ranking Tools Compared", publisher: "BrightLocal", url: "https://www.brightlocal.com/resources/geo-grid-ranking-tool-comparison-guide/" },
+    { title: "Geo Grid Ranking Tools Compared: Local Viking, Local Falcon, Semrush, and More", publisher: "BrightLocal", url: "https://www.brightlocal.com/resources/geo-grid-ranking-tool-comparison-guide/" },
   ],
   related: [
     { slug: "google-maps-ranking-verbessern", title: "Google-Maps-Ranking verbessern" },

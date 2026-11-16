@@ -143,7 +143,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Grenze",
-          text: "Schreiben Sie keine Rezensionen über Wettbewerber und lassen Sie niemanden welche schreiben. Googles Richtlinien verbieten Inhalte, die auf einem Interessenkonflikt beruhen, und Inhalte über Mitbewerber, die deren Ruf schaden sollen.",
+          text: "Schreiben Sie keine Rezensionen über Wettbewerber und lassen Sie niemanden welche schreiben. Googles Richtlinien verbieten Inhalte, die auf einem Interessenkonflikt beruhen, und Inhalte über den Ort oder das Unternehmen eines Mitbewerbers.",
         },
       ],
     },
@@ -202,7 +202,7 @@ const article: V4Article = {
       id: "rhythmus",
       title: "Wie oft Sie die Analyse wiederholen",
       answer:
-        "Eine vollständige Analyse lohnt sich etwa zweimal im Jahr. Dazwischen reicht ein kurzer Blick einmal im Monat auf Messpunkte und neue Rezensionen der drei Hauptwettbewerber.",
+        "Planen Sie die vollständige Analyse als feste Routine, zum Beispiel zweimal im Jahr. Dazwischen hilft ein kurzer Blick einmal im Monat auf Messpunkte und neue Rezensionen der drei Hauptwettbewerber. Das ist unsere Empfehlung, keine Vorgabe von Google.",
       blocks: [
         {
           t: "steps",
@@ -222,7 +222,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Wie viele Wettbewerber sollte ich vergleichen?",
-      a: "Drei sind ein guter Start. Wählen Sie die Betriebe, die bei Ihren wichtigsten Suchbegriffen an den meisten Messpunkten vor Ihnen stehen. Mehr Betriebe kosten viel Zeit und bringen selten neue Erkenntnisse.",
+      a: "Drei sind ein guter Start. Wählen Sie die Betriebe, die bei Ihren wichtigsten Suchbegriffen an den meisten Messpunkten vor Ihnen stehen. Mehr Betriebe kosten viel Zeit.",
     },
     {
       q: "Sehe ich die weiteren Kategorien eines Wettbewerbers?",
@@ -234,7 +234,7 @@ const article: V4Article = {
     },
     {
       q: "Darf ich die Texte und Fotos eines Wettbewerbers übernehmen?",
-      a: "Nein. Lassen Sie sich von der Struktur anregen, etwa welche Leistungen genannt werden, und schreiben Sie eigene Texte mit eigenen Fotos. Kopierte Inhalte helfen Ihnen nicht und können rechtliche Probleme verursachen.",
+      a: "Nein. Lassen Sie sich von der Struktur anregen, etwa welche Leistungen genannt werden, und schreiben Sie eigene Texte mit eigenen Fotos. Kopierte Inhalte helfen Ihnen nicht und können urheberrechtlich problematisch sein.",
     },
     {
       q: "Was, wenn alle Wettbewerber in allem besser sind?",
@@ -243,8 +243,8 @@ const article: V4Article = {
   ],
   sources: [
     { title: "Ranking in lokalen Suchergebnissen auf Google verbessern", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
-    { title: "Verbotene und eingeschränkt zulässige Inhalte (Rezensionen)", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Verbotene und eingeschränkt zulässige Inhalte", publisher: "Richtlinien für von Maps-Nutzern veröffentlichte Inhalte-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
     { title: "Leistung und Statistiken Ihres Unternehmensprofils", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9918094?hl=de" },
     { title: "Daten- oder Inhaltsfehler auf Google Maps melden", publisher: "Google Maps-Hilfe", url: "https://support.google.com/maps/answer/3094088?hl=de" },
     { title: "Test für Rich-Suchergebnisse", publisher: "Search Console-Hilfe", url: "https://support.google.com/webmasters/answer/7445569?hl=de" },

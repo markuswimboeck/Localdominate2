@@ -235,7 +235,7 @@
         {
           "id": "mobile-local-seo-1",
           "question": "Was bedeutet Mobile-First-Indexierung?",
-          "answer": "Google crawlt Ihre Seiten mit einem Smartphone-Agenten und nutzt diese mobile Version für Indexierung und Ranking. Eine eigene mobile Fassung ist nicht vorgeschrieben, Google empfiehlt sie aber dringend, am besten als responsives Design.",
+          "answer": "Google crawlt Ihre Seiten mit einem Smartphone-Agenten und nutzt diese mobile Version für Indexierung und Ranking. Eine eigene mobile Fassung ist nicht vorgeschrieben. Google empfiehlt responsives Webdesign, weil es am einfachsten umzusetzen und zu pflegen ist.",
           "url": "https://localdominate.org/blog/mobile-local-seo",
           "lastUpdated": "2026-10-10"
         },

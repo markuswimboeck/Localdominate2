@@ -127,10 +127,10 @@ const article: V4Article = {
           caption: "Bewertungen sammeln: erlaubt und nicht erlaubt",
           head: ["Erlaubt", "Nicht erlaubt"],
           rows: [
-            ["Alle Teilnehmenden offen um eine Bewertung bitten", "Nur zufriedene Teilnehmende gezielt fragen und andere auslassen"],
+            ["Alle Teilnehmenden gleich um eine Bewertung bitten, ohne Druck", "Nur zufriedene Teilnehmende gezielt fragen und andere auslassen"],
             ["Ein freies Angebot am Empfang mit QR-Code oder Link, den jeder nutzen oder ignorieren kann", "Gratis-Stunde, Rabatt oder Geschenk für eine Bewertung"],
-            ["Auf jede Bewertung sachlich antworten, auch auf kritische", "Bewertungen von Mitarbeitenden, Lehrkräften oder Familie"],
-            ["Mitarbeitende bitten, Bewertungen einzuholen, ohne Zielzahl", "Zielzahlen für Mitarbeitende oder Druck auf Gäste, eine Bewertung zu schreiben"],
+            ["Sachlich auf Bewertungen antworten, auch auf kritische", "Bewertungen von Mitarbeitenden, Lehrkräften oder Familie"],
+            ["Bitten, die für echte Erfahrungen stehen, ohne Einfluss auf den Inhalt", "Zielzahlen für Mitarbeitende, vorgegebene Inhalte oder Druck auf Gäste vor Ort, eine Bewertung zu schreiben"],
           ],
         },
         {
@@ -139,7 +139,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Ein einfacher Ablauf: Alle Teilnehmenden erhalten am Ende des Kurses dieselbe Bitte mit Link, ohne Auswahl und ohne Gegenleistung. Wie Sie Wortlaut und Zeitpunkt wählen, zeigt der Artikel [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen).",
+          text: "Ein einfacher Ablauf: Alle Teilnehmenden erhalten dieselbe Bitte mit Link, ohne Auswahl und ohne Gegenleistung. Google untersagt, Gäste, die noch vor Ort sind, zu einer Bewertung aufzufordern oder unter Druck zu setzen. Senden Sie die Bitte deshalb nach dem Kurs, zum Beispiel per E-Mail. Wie Sie Wortlaut und Zeitpunkt wählen, zeigt der Artikel [Google-Bewertungen bekommen](/blog/google-bewertungen-bekommen).",
         },
         {
           t: "note",
@@ -152,11 +152,11 @@ const article: V4Article = {
       id: "vorsicht",
       title: "Abkürzungen, die Ihrem Studio schaden",
       answer:
-        "Die meisten Schäden entstehen durch Zusätze im Namen, doppelte Profile, virtuelle Adressen und gekaufte Bewertungen. Jede dieser Abkürzungen verstößt gegen Googles Richtlinien.",
+        "Vermeiden Sie Zusätze im Namen, doppelte Profile, virtuelle Adressen ohne Besetzung und gekaufte Bewertungen. Jede dieser Abkürzungen verstößt gegen Googles Richtlinien.",
       blocks: [
         {
           t: "table",
-          caption: "Häufige Fehler und was Google dazu sagt",
+          caption: "Fehler und was Google dazu sagt",
           head: ["Fehler", "Was Google dazu sagt"],
           rows: [
             ["Kursart oder Stadt im Profilnamen", "Zusätze im Namen sind nicht erlaubt und können zur Sperrung des Profils führen"],
@@ -199,7 +199,7 @@ const article: V4Article = {
         {
           t: "note",
           label: "Gut zu wissen",
-          text: "Rechnen Sie mit mehreren Monaten, bis sich Änderungen in den Zahlen zeigen. Wie lange es bei Ihnen dauert, hängt vom Wettbewerb im Ort ab. Eine feste Zeitspanne können wir dafür nicht seriös nennen.",
+          text: "Änderungen zeigen sich nicht sofort. Wie lange es bei Ihnen dauert, hängt vom Wettbewerb im Ort ab. Eine feste Zeitspanne können wir dafür nicht seriös nennen.",
         },
       ],
     },
@@ -229,22 +229,22 @@ const article: V4Article = {
       url: "https://support.google.com/business/answer/7091?hl=de",
     },
     {
-      title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google",
+      title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google",
       publisher: "Google Unternehmensprofil-Hilfe",
       url: "https://support.google.com/business/answer/3038177?hl=de",
     },
     {
-      title: "Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte",
-      publisher: "Google Maps-Hilfe (englische Fassung)",
-      url: "https://support.google.com/contributionpolicy/answer/7400114",
+      title: "Verbotene und eingeschränkt zulässige Inhalte",
+      publisher: "Google Maps-Hilfe, Richtlinien für Nutzerbeiträge",
+      url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de",
     },
     {
-      title: "Strukturierte Daten für lokale Unternehmen (LocalBusiness)",
+      title: "Local Business (LocalBusiness) Structured Data",
       publisher: "Google Search Central (englische Fassung)",
       url: "https://developers.google.com/search/docs/appearance/structured-data/local-business?hl=en",
     },
     {
-      title: "Dienstleistungen im Unternehmensprofil",
+      title: "Dienstleistungen in Ihrem Unternehmensprofil verwalten",
       publisher: "Google Unternehmensprofil-Hilfe",
       url: "https://support.google.com/business/answer/9455399?hl=de",
     },
@@ -254,7 +254,7 @@ const article: V4Article = {
       url: "https://support.google.com/business/answer/9918094?hl=de",
     },
     {
-      title: "Bilder in der Google-Suche: Best Practices",
+      title: "Best Practices für die Suchmaschinenoptimierung für Bilder",
       publisher: "Google Search Central",
       url: "https://developers.google.com/search/docs/appearance/google-images?hl=de",
     },

@@ -64,7 +64,7 @@ const article: V4Article = {
           rows: [
             ["Gleiche Inhalte mobil wie am Computer", "Was mobil fehlt, kennt Google nicht. Das betrifft auch Texte in eingeklappten Bereichen, die erst nach Klick nachgeladen werden"],
             ["Kein Nachladen der Hauptinhalte erst nach Tippen oder Wischen", "Google lädt keine Inhalte, die eine Nutzerinteraktion voraussetzen"],
-            ["Gleicher Title und gleiche Meta-Beschreibung", "Google verlangt bei getrennten Versionen identische Angaben; fehlt die Beschreibung mobil, fehlt sie für Google"],
+            ["Gleicher Title und gleiche Meta-Beschreibung", "Google nennt gleichwertige Angaben in beiden Versionen als Vorgabe; fehlt die Beschreibung mobil, fehlt sie für Google"],
             ["Gleiche strukturierte Daten", "Fehlt das LocalBusiness-Markup mobil, fehlt es für Google ganz"],
             ["Gleiche robots-Angaben", "Ein noindex nur auf der mobilen Version kann die Seite aus dem Index nehmen"],
           ],
@@ -209,7 +209,7 @@ const article: V4Article = {
   faq: [
     {
       q: "Was bedeutet Mobile-First-Indexierung?",
-      a: "Google crawlt Ihre Seiten mit einem Smartphone-Agenten und nutzt diese mobile Version für Indexierung und Ranking. Eine eigene mobile Fassung ist nicht vorgeschrieben, Google empfiehlt sie aber dringend, am besten als responsives Design.",
+      a: "Google crawlt Ihre Seiten mit einem Smartphone-Agenten und nutzt diese mobile Version für Indexierung und Ranking. Eine eigene mobile Fassung ist nicht vorgeschrieben. Google empfiehlt responsives Webdesign, weil es am einfachsten umzusetzen und zu pflegen ist.",
     },
     {
       q: "Wie schnell muss meine Seite auf dem Handy laden?",
@@ -238,10 +238,10 @@ const article: V4Article = {
     { title: "Nutzerfreundlichkeit von Seiten in den Google-Suchergebnissen", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/page-experience?hl=de" },
     { title: "Störende Interstitials und Dialogfelder vermeiden", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/avoid-intrusive-interstitials?hl=de" },
     { title: "AMP-Seiten in der Google Suche", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/crawling-indexing/amp?hl=de" },
-    { title: "Latest documentation updates (Mobile-Friendly-Test eingestellt, INP ersetzt FID)", publisher: "Google Search Central", url: "https://developers.google.com/search/updates" },
+    { title: "Latest Google Search Documentation Updates", publisher: "Google Search Central", url: "https://developers.google.com/search/updates" },
     { title: "Leistungsbericht (Suchergebnisse)", publisher: "Search Console-Hilfe", url: "https://support.google.com/webmasters/answer/7576553?hl=de" },
     { title: "Leistung und Statistiken Ihres Unternehmensprofils", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/9918094?hl=de" },
-    { title: "Get started with Maps URLs", publisher: "Google for Developers", url: "https://developers.google.com/maps/documentation/urls/get-started" },
+    { title: "Get Started | Maps URLs", publisher: "Google for Developers", url: "https://developers.google.com/maps/documentation/urls/get-started" },
     { title: "Understanding Success Criterion 2.5.8: Target Size (Minimum)", publisher: "W3C", url: "https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html" },
   ],
   related: [

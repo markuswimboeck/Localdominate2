@@ -86,7 +86,7 @@ const article: V4Article = {
         {
           t: "ul",
           items: [
-            "**Außenansicht zuerst.** Ein Außenfoto soll Kunden helfen, den Betrieb in ihrer Nähe schneller zu finden. Zeigen Sie Schild und Eingang.",
+            "**Außenansicht zuerst.** Google empfiehlt Fotos der Außenansicht. Zeigen Sie Schild und Eingang.",
             "**Speisen und Leistungen.** Dönerspieß, fertiger Döner, Dürüm, Lahmacun oder Pide zeigen, was Sie anbieten. Nehmen Sie das Essen bei Tageslicht auf.",
             "**Keine starke Bearbeitung.** Google legt Wert auf eine realistische Darstellung und rät von starker Nachbearbeitung und vielen Filtern ab.",
             "**Technik.** Google nennt JPG oder PNG mit 10 KB bis 5 MB. Empfohlen werden 720 x 720 Pixel, mindestens 250 x 250 Pixel.",
@@ -114,7 +114,7 @@ const article: V4Article = {
           items: [
             "**Speisekarte als Text.** Gerichte mit Namen, Zutaten und, wenn Sie es möchten, Preisen stehen am besten auf einer eigenen Seite als Text.",
             "**Ort, Telefon und Öffnungszeiten** in Kopf- oder Fußzeile und auf der Kontaktseite, mit denselben Angaben wie im Profil.",
-            "**Strukturierte Daten.** Für LocalBusiness nennt Google Name und Adresse als erforderlich, wenn Rich Results erscheinen sollen. Telefon und Öffnungszeiten (openingHoursSpecification) empfiehlt Google. Für Restaurants sieht Google zusätzlich die Eigenschaft menu vor.",
+            "**Strukturierte Daten.** Für LocalBusiness nennt Google Name und Adresse als erforderlich, wenn Rich Results erscheinen sollen. Telefon und Öffnungszeiten (openingHoursSpecification) empfiehlt Google. Für Gastronomiebetriebe empfiehlt Google zusätzlich die Eigenschaft menu mit der Adresse der Speisekarte.",
           ],
         },
         {
@@ -182,13 +182,13 @@ const article: V4Article = {
     },
     {
       id: "fehler-messen",
-      title: "Häufige Fehler und wie Sie messen",
+      title: "Fehler vermeiden und messen",
       answer:
-        "Viele Probleme entstehen durch wenige Fehler: unzulässige Namenszusätze, gekaufte Bewertungen und veraltete Angaben. Messen Sie Anrufe, Anfragen und Bestellungen, nicht nur Positionen.",
+        "Vermeiden Sie unzulässige Namenszusätze, gekaufte Bewertungen und veraltete Angaben. Messen Sie Anrufe, Anfragen und Bestellungen, nicht nur Positionen.",
       blocks: [
         {
           t: "table",
-          caption: "Häufige Fehler und ihre Folgen",
+          caption: "Fehler und ihre Folgen",
           head: ["Fehler", "Warum er schadet"],
           rows: [
             ["Leistung, Standort oder Slogan im Firmennamen", "Google nennt solche Zusätze unzulässig, sie können zur Sperrung führen"],
@@ -202,7 +202,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Nutzen Sie die Leistungsangaben im Unternehmensprofil, die Google Search Console für Ihre Website und Ihre Bestellübersicht. Rechnen Sie mit mehreren Monaten, bevor Änderungen stabil sichtbar werden. Eine feste Zeitangabe gibt es nicht, weil sie vom Wettbewerb im Ort abhängt.",
+          text: "Nutzen Sie die Leistungsangaben im Unternehmensprofil, die Google Search Console für Ihre Website und Ihre Bestellübersicht. Änderungen zeigen sich nicht sofort. Eine feste Zeitangabe gibt es nicht, weil sie vom Wettbewerb im Ort abhängt.",
         },
         {
           t: "p",
@@ -218,7 +218,7 @@ const article: V4Article = {
     },
     {
       q: "Wie lange dauert es, bis Änderungen wirken?",
-      a: "Eine verlässliche Zeitangabe gibt es nicht, weil sie vom Wettbewerb im Ort abhängt. Vergleichen Sie Ihre Angaben deshalb über mehrere Monate, statt nach wenigen Tagen zu urteilen.",
+      a: "Eine verlässliche Zeitangabe gibt es nicht, weil sie vom Wettbewerb im Ort abhängt. Vergleichen Sie Ihre Zahlen deshalb über einen längeren Zeitraum, statt nach wenigen Tagen zu urteilen.",
     },
     {
       q: "Kann ich ein besseres lokales Ranking kaufen?",
@@ -231,10 +231,10 @@ const article: V4Article = {
   ],
   sources: [
     { title: "Tipps zur Verbesserung des lokalen Rankings bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/7091?hl=de" },
-    { title: "Richtlinien für die Darstellung Ihres Unternehmens bei Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
+    { title: "Richtlinien für die Präsentation Ihres Unternehmens auf Google", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/3038177?hl=de" },
     { title: "Fotos und Videos in Ihrem Unternehmensprofil verwalten", publisher: "Google Unternehmensprofil-Hilfe", url: "https://support.google.com/business/answer/6103862?hl=de" },
-    { title: "Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte", publisher: "Google Maps-Hilfe", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
-    { title: "Strukturierte Daten für lokale Unternehmen (LocalBusiness)", publisher: "Google Search Central", url: "https://developers.google.com/search/docs/appearance/structured-data/local-business" },
+    { title: "Verbotene und eingeschränkt zulässige Inhalte", publisher: "Google Maps-Hilfe, Richtlinien für Nutzerbeiträge", url: "https://support.google.com/contributionpolicy/answer/7400114?hl=de" },
+    { title: "Local Business (LocalBusiness) Structured Data", publisher: "Google Search Central (englische Fassung)", url: "https://developers.google.com/search/docs/appearance/structured-data/local-business" },
   ],
   related: [
     { slug: "local-seo-fuer-restaurants", title: "Local SEO für Restaurants: So finden Gäste Ihren Tisch" },

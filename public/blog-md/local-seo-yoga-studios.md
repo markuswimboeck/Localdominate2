@@ -77,22 +77,22 @@ Bewertungen wirken auf zwei Ebenen. Sie zählen für die Bekanntheit im lokalen 
 
 | Erlaubt | Nicht erlaubt |
 | --- | --- |
-| Alle Teilnehmenden offen um eine Bewertung bitten | Nur zufriedene Teilnehmende gezielt fragen und andere auslassen |
+| Alle Teilnehmenden gleich um eine Bewertung bitten, ohne Druck | Nur zufriedene Teilnehmende gezielt fragen und andere auslassen |
 | Ein freies Angebot am Empfang mit QR-Code oder Link, den jeder nutzen oder ignorieren kann | Gratis-Stunde, Rabatt oder Geschenk für eine Bewertung |
-| Auf jede Bewertung sachlich antworten, auch auf kritische | Bewertungen von Mitarbeitenden, Lehrkräften oder Familie |
-| Mitarbeitende bitten, Bewertungen einzuholen, ohne Zielzahl | Zielzahlen für Mitarbeitende oder Druck auf Gäste, eine Bewertung zu schreiben |
+| Sachlich auf Bewertungen antworten, auch auf kritische | Bewertungen von Mitarbeitenden, Lehrkräften oder Familie |
+| Bitten, die für echte Erfahrungen stehen, ohne Einfluss auf den Inhalt | Zielzahlen für Mitarbeitende, vorgegebene Inhalte oder Druck auf Gäste vor Ort, eine Bewertung zu schreiben |
 
 Ein QR-Code am Empfang ist in Ordnung, solange er ein freies Angebot bleibt. Sobald er an eine Gegenleistung oder an Druck im Gespräch gekoppelt wird, verstößt er gegen die Richtlinien.
 
-Ein einfacher Ablauf: Alle Teilnehmenden erhalten am Ende des Kurses dieselbe Bitte mit Link, ohne Auswahl und ohne Gegenleistung. Wie Sie Wortlaut und Zeitpunkt wählen, zeigt der Artikel [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
+Ein einfacher Ablauf: Alle Teilnehmenden erhalten dieselbe Bitte mit Link, ohne Auswahl und ohne Gegenleistung. Google untersagt, Gäste, die noch vor Ort sind, zu einer Bewertung aufzufordern oder unter Druck zu setzen. Senden Sie die Bitte deshalb nach dem Kurs, zum Beispiel per E-Mail. Wie Sie Wortlaut und Zeitpunkt wählen, zeigt der Artikel [Google-Bewertungen bekommen](https://localdominate.org/blog/google-bewertungen-bekommen).
 
 > **Gut zu wissen:** Google sagt, dass Antworten auf Kundenbewertungen Wertschätzung zeigen. Antworten Sie sachlich und ohne persönliche Angaben zu der Person, die bewertet hat.
 
 ## Abkürzungen, die Ihrem Studio schaden
 
-Die meisten Schäden entstehen durch Zusätze im Namen, doppelte Profile, virtuelle Adressen und gekaufte Bewertungen. Jede dieser Abkürzungen verstößt gegen Googles Richtlinien.
+Vermeiden Sie Zusätze im Namen, doppelte Profile, virtuelle Adressen ohne Besetzung und gekaufte Bewertungen. Jede dieser Abkürzungen verstößt gegen Googles Richtlinien.
 
-*Häufige Fehler und was Google dazu sagt*
+*Fehler und was Google dazu sagt*
 
 | Fehler | Was Google dazu sagt |
 | --- | --- |
@@ -122,7 +122,7 @@ Messen Sie, was Interessierte tun: Aufrufe, Anrufe, Wegbeschreibungen und Klicks
 
 Die wichtigste Zahl bleibt die Zahl der Anmeldungen und Probestunden in Ihrer eigenen Verwaltung. Die Profilzahlen zeigen, wo Interesse entsteht. Ihre Anmeldeliste zeigt, ob daraus Teilnehmende werden.
 
-> **Gut zu wissen:** Rechnen Sie mit mehreren Monaten, bis sich Änderungen in den Zahlen zeigen. Wie lange es bei Ihnen dauert, hängt vom Wettbewerb im Ort ab. Eine feste Zeitspanne können wir dafür nicht seriös nennen.
+> **Gut zu wissen:** Änderungen zeigen sich nicht sofort. Wie lange es bei Ihnen dauert, hängt vom Wettbewerb im Ort ab. Eine feste Zeitspanne können wir dafür nicht seriös nennen.
 
 ## Häufige Fragen
 
@@ -145,12 +145,12 @@ Ja. Dann legen Sie ein Profil für Dienstleistungsgebiete an und verbergen Ihre 
 ## Quellen
 
 - [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte](https://support.google.com/contributionpolicy/answer/7400114), Google Maps-Hilfe (englische Fassung)
-- [Strukturierte Daten für lokale Unternehmen (LocalBusiness)](https://developers.google.com/search/docs/appearance/structured-data/local-business?hl=en), Google Search Central (englische Fassung)
-- [Dienstleistungen im Unternehmensprofil](https://support.google.com/business/answer/9455399?hl=de), Google Unternehmensprofil-Hilfe
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Verbotene und eingeschränkt zulässige Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe, Richtlinien für Nutzerbeiträge
+- [Local Business (LocalBusiness) Structured Data](https://developers.google.com/search/docs/appearance/structured-data/local-business?hl=en), Google Search Central (englische Fassung)
+- [Dienstleistungen in Ihrem Unternehmensprofil verwalten](https://support.google.com/business/answer/9455399?hl=de), Google Unternehmensprofil-Hilfe
 - [Leistung und Statistiken Ihres Unternehmensprofils](https://support.google.com/business/answer/9918094?hl=de), Google Unternehmensprofil-Hilfe
-- [Bilder in der Google-Suche: Best Practices](https://developers.google.com/search/docs/appearance/google-images?hl=de), Google Search Central
+- [Best Practices für die Suchmaschinenoptimierung für Bilder](https://developers.google.com/search/docs/appearance/google-images?hl=de), Google Search Central
 - [Leistungsbericht (Google-Suchergebnisse): Übersicht und grundlegende Einrichtung](https://support.google.com/webmasters/answer/7576553?hl=de), Google Search Console-Hilfe
 
 ---

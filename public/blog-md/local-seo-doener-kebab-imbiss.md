@@ -56,7 +56,7 @@ Ein besseres Ranking lässt sich bei Google weder einfordern noch bezahlen. Wer 
 
 Google empfiehlt Fotos der Außenansicht sowie Ihrer Produkte und Dienstleistungen. Die Bilder sollten scharf, gut ausgeleuchtet und realistisch sein.
 
-- **Außenansicht zuerst.** Ein Außenfoto soll Kunden helfen, den Betrieb in ihrer Nähe schneller zu finden. Zeigen Sie Schild und Eingang.
+- **Außenansicht zuerst.** Google empfiehlt Fotos der Außenansicht. Zeigen Sie Schild und Eingang.
 - **Speisen und Leistungen.** Dönerspieß, fertiger Döner, Dürüm, Lahmacun oder Pide zeigen, was Sie anbieten. Nehmen Sie das Essen bei Tageslicht auf.
 - **Keine starke Bearbeitung.** Google legt Wert auf eine realistische Darstellung und rät von starker Nachbearbeitung und vielen Filtern ab.
 - **Technik.** Google nennt JPG oder PNG mit 10 KB bis 5 MB. Empfohlen werden 720 x 720 Pixel, mindestens 250 x 250 Pixel.
@@ -71,7 +71,7 @@ Speisekarte, Leistungen und Angaben sollten als lesbarer Text auf Ihrer Website 
 
 - **Speisekarte als Text.** Gerichte mit Namen, Zutaten und, wenn Sie es möchten, Preisen stehen am besten auf einer eigenen Seite als Text.
 - **Ort, Telefon und Öffnungszeiten** in Kopf- oder Fußzeile und auf der Kontaktseite, mit denselben Angaben wie im Profil.
-- **Strukturierte Daten.** Für LocalBusiness nennt Google Name und Adresse als erforderlich, wenn Rich Results erscheinen sollen. Telefon und Öffnungszeiten (openingHoursSpecification) empfiehlt Google. Für Restaurants sieht Google zusätzlich die Eigenschaft menu vor.
+- **Strukturierte Daten.** Für LocalBusiness nennt Google Name und Adresse als erforderlich, wenn Rich Results erscheinen sollen. Telefon und Öffnungszeiten (openingHoursSpecification) empfiehlt Google. Für Gastronomiebetriebe empfiehlt Google zusätzlich die Eigenschaft menu mit der Adresse der Speisekarte.
 
 > **Was strukturierte Daten nicht leisten:** Google weist ausdrücklich darauf hin, dass strukturierte Daten keine garantierte Darstellung in den Suchergebnissen bewirken. Sie helfen Google, Ihre Angaben zu verstehen, sind aber kein Mittel, um mehr Sichtbarkeit zu erzwingen.
 
@@ -106,11 +106,11 @@ Lieferportale können Reichweite bringen, verlangen aber eine Provision, deren H
 
 Ob sich ein Portal lohnt, hängt von Ihrer Marge, Ihrem Einzugsgebiet und Ihren Bestellwegen ab. Rechnen Sie mit Ihren eigenen Zahlen, denn eine pauschale Antwort für jeden Imbiss gibt es nicht.
 
-## Häufige Fehler und wie Sie messen
+## Fehler vermeiden und messen
 
-Viele Probleme entstehen durch wenige Fehler: unzulässige Namenszusätze, gekaufte Bewertungen und veraltete Angaben. Messen Sie Anrufe, Anfragen und Bestellungen, nicht nur Positionen.
+Vermeiden Sie unzulässige Namenszusätze, gekaufte Bewertungen und veraltete Angaben. Messen Sie Anrufe, Anfragen und Bestellungen, nicht nur Positionen.
 
-*Häufige Fehler und ihre Folgen*
+*Fehler und ihre Folgen*
 
 | Fehler | Warum er schadet |
 | --- | --- |
@@ -122,7 +122,7 @@ Viele Probleme entstehen durch wenige Fehler: unzulässige Namenszusätze, gekau
 | Falsche Öffnungszeiten, auch an Feiertagen | Gäste kommen umsonst, und Profil und Website widersprechen sich |
 | Versprechen eines garantierten ersten Platzes | Google schließt ein eingefordertes oder bezahltes besseres Ranking aus |
 
-Nutzen Sie die Leistungsangaben im Unternehmensprofil, die Google Search Console für Ihre Website und Ihre Bestellübersicht. Rechnen Sie mit mehreren Monaten, bevor Änderungen stabil sichtbar werden. Eine feste Zeitangabe gibt es nicht, weil sie vom Wettbewerb im Ort abhängt.
+Nutzen Sie die Leistungsangaben im Unternehmensprofil, die Google Search Console für Ihre Website und Ihre Bestellübersicht. Änderungen zeigen sich nicht sofort. Eine feste Zeitangabe gibt es nicht, weil sie vom Wettbewerb im Ort abhängt.
 
 Wenn Sie wissen wollen, wo Ihr Imbiss heute steht, schauen wir uns Ihr Profil und Ihre Website im [kostenlosen Check](https://localdominate.org/de#check) an.
 
@@ -134,7 +134,7 @@ Die Prüfung und Korrektur des Profils können Sie selbst übernehmen. Wenn Sie 
 
 ### Wie lange dauert es, bis Änderungen wirken?
 
-Eine verlässliche Zeitangabe gibt es nicht, weil sie vom Wettbewerb im Ort abhängt. Vergleichen Sie Ihre Angaben deshalb über mehrere Monate, statt nach wenigen Tagen zu urteilen.
+Eine verlässliche Zeitangabe gibt es nicht, weil sie vom Wettbewerb im Ort abhängt. Vergleichen Sie Ihre Zahlen deshalb über einen längeren Zeitraum, statt nach wenigen Tagen zu urteilen.
 
 ### Kann ich ein besseres lokales Ranking kaufen?
 
@@ -147,10 +147,10 @@ Ja, wenn Döner Teil des realen Namens auf Schild und Briefpapier ist. Zusätze 
 ## Quellen
 
 - [Tipps zur Verbesserung des lokalen Rankings bei Google](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für die Darstellung Ihres Unternehmens bei Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
+- [Richtlinien für die Präsentation Ihres Unternehmens auf Google](https://support.google.com/business/answer/3038177?hl=de), Google Unternehmensprofil-Hilfe
 - [Fotos und Videos in Ihrem Unternehmensprofil verwalten](https://support.google.com/business/answer/6103862?hl=de), Google Unternehmensprofil-Hilfe
-- [Richtlinien für Rezensionen: verbotene und eingeschränkte Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe
-- [Strukturierte Daten für lokale Unternehmen (LocalBusiness)](https://developers.google.com/search/docs/appearance/structured-data/local-business), Google Search Central
+- [Verbotene und eingeschränkt zulässige Inhalte](https://support.google.com/contributionpolicy/answer/7400114?hl=de), Google Maps-Hilfe, Richtlinien für Nutzerbeiträge
+- [Local Business (LocalBusiness) Structured Data](https://developers.google.com/search/docs/appearance/structured-data/local-business), Google Search Central (englische Fassung)
 
 ---
 

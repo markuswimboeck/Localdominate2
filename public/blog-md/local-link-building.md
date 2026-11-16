@@ -21,7 +21,7 @@ Für Inhaber und Marketingverantwortliche lokaler Betriebe in Deutschland, Öste
 
 ## Die kurze Antwort
 
-Lokale Links entstehen, wenn Websites aus Ihrer Region einen echten Grund haben, auf Sie zu verweisen: Mitgliedschaften bei Kammer und Verband, Partner und Lieferanten, Vereine, lokale Presse und nützliche Inhalte. Google nennt die **Zahl der Websites, die auf ein Unternehmen verweisen**, als Teil der Bekanntheit. Gekaufte oder getauschte Links verstoßen gegen Googles Spamrichtlinien.
+Lokale Links entstehen, wenn Websites aus Ihrer Region einen echten Grund haben, auf Sie zu verweisen: Mitgliedschaften bei Kammer und Verband, Partner und Lieferanten, Vereine, lokale Presse und nützliche Inhalte. Google nennt die **Zahl der Websites, die auf ein Unternehmen verweisen**, als Teil der Bekanntheit. Gekaufte Links und übermäßiger Linktausch verstoßen gegen Googles Spamrichtlinien.
 
 ## Das Wichtigste in Kürze
 
@@ -68,7 +68,7 @@ Google schreibt, dass der An- und Verkauf von Links für Werbe- und Sponsoringzw
 - **Was Sie nicht verlangen sollten:** einen ungekennzeichneten Link oder einen Ankertext mit Keywords. Beides macht aus Sponsoring einen gekauften Link.
 - **Was Sie liefern:** Logo, korrekter Firmenname wie im Unternehmensprofil, Adresse, Website-Adresse. So stimmen auch Ihre Firmendaten.
 
-> **Ehrlich bleiben:** Viele Vereinswebsites setzen Sponsorenlinks ohne Kennzeichnung. Das ist ein Risiko für die Website des Vereins und für Sie. Bitten Sie freundlich darum, Sponsorenlinks mit „sponsored“ zu versehen. Eine Mitgliedschaft, die Sie ohnehin haben, ist dagegen keine bezahlte Platzierung.
+> **Ehrlich bleiben:** Viele Vereinswebsites setzen Sponsorenlinks ohne Kennzeichnung. Das ist ein Risiko für die Website des Vereins und für Sie. Bitten Sie freundlich darum, Sponsorenlinks mit „sponsored“ zu versehen.
 
 ## Lokale Quellen, die sich lohnen
 
@@ -175,7 +175,7 @@ Google nennt keine Frist. Ein neuer Link muss zuerst gefunden werden, und Bekann
 
 - [Ranking in lokalen Suchergebnissen auf Google verbessern](https://support.google.com/business/answer/7091?hl=de), Google Unternehmensprofil-Hilfe
 - [Spamrichtlinien für die Google Websuche (Link-Spam)](https://developers.google.com/search/docs/essentials/spam-policies?hl=de), Google Search Central
-- [Ausgehende Links für Google eingrenzen](https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links?hl=de), Google Search Central
+- [Ausgehende Links für SEO eingrenzen](https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links?hl=de), Google Search Central
 - [Startleitfaden zur Suchmaschinenoptimierung (SEO)](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=de), Google Search Central
 - [Benötigst du einen Suchmaschinenoptimierer (SEO)?](https://developers.google.com/search/docs/fundamentals/do-i-need-seo?hl=de), Google Search Central
 
