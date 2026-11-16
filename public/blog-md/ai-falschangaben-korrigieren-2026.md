@@ -142,7 +142,7 @@ Alle fünf Anbieter bieten eine Rückmeldung direkt an der Antwort, meist über 
 | --- | --- | --- |
 | Übersicht mit KI (Google) | „Mag ich nicht“, dann „Problem melden“, Kategorie und Details, „Senden“; alternativ Dreipunktmenü und „Feedback geben“ | Eintrag selbst über Profil oder Maps korrigieren |
 | ChatGPT | Daumen runter; bei rechtlichen Anliegen die Kategorie für Sicherheits- oder Rechtsbedenken | Webformular für Inhaltsmeldungen, für Daten über Personen das Privacy Portal |
-| Perplexity | Dreipunktmenü unter der Antwort, dann „Report“ | E-Mail an support@perplexity.ai mit Link zum Thread |
+| Perplexity | Dreipunktmenü unter der Antwort, dann „Report“; eine zweite Hilfeseite nennt das Flaggensymbol unter der Antwort | E-Mail an support@perplexity.ai mit Link zum Thread |
 | Microsoft Copilot | Feedback-Funktion im Copilot; in Microsoft-365-Apps Daumen hoch oder runter | In Firmen kann die IT das Feedback abschalten |
 | Claude | Daumen runter unter der Antwort | Meldeformular bei Verstößen gegen Richtlinien oder Gesetze; Website-Betreiber können mit Eigentumsnachweis beantragen, dass eine eigene URL in Claude-Antworten gesperrt wird |
 
@@ -167,7 +167,7 @@ Laut Europäischer Kommission gelten die Datenschutzregeln nicht für Daten übe
 | Anthropic | Verweist für Datenschutzfragen auf sein Privacy Center; für EU-Nutzer ist der Support-Chat die Kontaktstelle nach dem Digital Services Act |
 | Google, Microsoft | Eigene Formulare; die Wege für KI-Antworten haben wir hier nicht geprüft |
 
-Hilft der Anbieter nicht, bleibt die Beschwerde bei einer Datenschutzbehörde. OpenAI nennt die irische Datenschutzkommission oder Ihre örtliche Behörde, für die Schweiz den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten. Wie offen die Frage ist, zeigt eine Beschwerde von noyb bei der österreichischen Datenschutzbehörde vom April 2024. noyb warf OpenAI vor, falsche Angaben nicht berichtigen, sondern nur filtern oder sperren zu können.
+Hilft der Anbieter nicht, bleibt die Beschwerde bei einer Datenschutzbehörde. OpenAI nennt in der EU-Datenschutzerklärung das Recht, sich bei der örtlichen Datenschutzbehörde zu beschweren. Wie offen die Frage ist, zeigt eine Beschwerde von noyb bei der österreichischen Datenschutzbehörde vom April 2024. noyb warf OpenAI vor, falsche Angaben nicht berichtigen, sondern nur filtern oder sperren zu können.
 
 > **Einschätzung:** Der Datenschutzweg ist meist der zweite Schritt, sinnvoll bei falschen Aussagen über Sie als Person, die trotz bereinigter Quellen bleiben.
 
@@ -218,9 +218,10 @@ Nein. Kein Anbieter sagt zu, eine gemeldete Antwort zu ändern, und OpenAI behä
 - [Right to be forgotten and personal data removal from ChatGPT](https://help.openai.com/en/articles/20001057), OpenAI Help Center
 - [EU Privacy Policy (Stand 24. August 2026)](https://openai.com/policies/eu-privacy-policy), OpenAI
 - [Need support? (Stand 3. März 2026)](https://intercom.help/perplexity-ai/en/articles/10354888-need-support), Perplexity Help Center
+- [How can I report incorrect or inaccurate answers?](https://intercom.help/perplexity-ai/en/articles/10354902-how-can-i-report-incorrect-or-inaccurate-answers), Perplexity Help Center
 - [How does Perplexity work?](https://hub-prod.perplexity.ai/hub/faq/how-does-perplexity-work), Perplexity
 - [Privacy Policy (Stand 31. Oktober 2025)](https://hub-prod.perplexity.ai/hub/legal/privacy-policy), Perplexity
-- [Transparency Note for Microsoft Copilot (Stand 18. August 2026)](https://support.microsoft.com/en-US/Privacy/microsoft-copilot/transparency-note), Microsoft Support
+- [Transparency Note for Microsoft Copilot (Stand 10. November 2026)](https://support.microsoft.com/en-US/Privacy/microsoft-copilot/transparency-note), Microsoft Support
 - [Providing feedback about Microsoft Copilot with Microsoft 365 apps](https://support.microsoft.com/privacy/microsoft-copilot/providing-feedback), Microsoft Support
 - [Introducing the New Bing Places for Business (3. Oktober 2025)](https://blogs.bing.com/search/October-2025/Introducing-the-New-Bing-Places-for-Business-Built-for-Business-Owners,-Powered-by-Research), Microsoft Bing Blogs
 - [Introducing AI Performance in Bing Webmaster Tools Public Preview (10. Februar 2026)](https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview), Microsoft Bing Webmaster Blog

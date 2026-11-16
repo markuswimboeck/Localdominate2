@@ -57,7 +57,7 @@ Die Autoren kamen von der Princeton University und dem Indian Institute of Techn
 | Messgröße | Wie viel Text der Antwort auf diese Quelle zurückgeht und wie weit oben er steht |
 | Neun Methoden | Unter anderem Zitate, Statistiken oder Quellenangaben einfügen, flüssiger formulieren, Schlüsselwörter häufen |
 | Ergebnis | Zitate, Statistiken und Quellenangaben erhöhten den gemessenen Textanteil um bis zu rund 40 Prozent, am stärksten eingefügte Zitate. Bei der Bewertung durch ein Sprachmodell lag der beste Wert bei 28 Prozent. Gehäufte Schlüsselwörter senkten den Textanteil unter den des unveränderten Texts |
-| Praxistest | 200 Fragen in Perplexity, Quellen als Dateien hochgeladen: bis zu 22 Prozent mehr Textanteil und bis zu 37 Prozent bei der Bewertung durch ein Sprachmodell |
+| Praxistest | Dieselben Methoden in Perplexity getestet: Eingefügte Zitate erhöhten den Textanteil um 22 Prozent, gehäufte Schlüsselwörter lagen 10 Prozent unter dem Ausgangswert |
 
 Zwei Nebenbefunde: Quellen, die unter den fünf Treffern weiter unten standen, profitierten stärker. Für „Quellen angeben“ berichten die Autoren bei der fünften Quelle eine relative Steigerung von 115 Prozent. Die jeweils erste Quelle verlor dagegen mit allen dort aufgeführten Methoden Anteile, mit „Quellen angeben“ rund 30 Prozent. Und welche Methode wirkte, hing vom Themenbereich ab.
 

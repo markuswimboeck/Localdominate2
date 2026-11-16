@@ -31,7 +31,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Microsoft verwendet den Namen Copilot für mehrere Produkte: den Assistenten für Privatpersonen, die Copilot-Suche in Bing und Copilot im Unternehmen, das früher Microsoft 365 Copilot hieß. Was Generative Engine Optimization insgesamt bedeutet, erklärt [Was ist GEO?](/blog/was-ist-geo-generative-engine-optimization).",
+          text: "Microsoft verwendet den Namen Copilot für mehrere Produkte: den Assistenten für Privatpersonen, die Copilot-Suche in Bing und Copilot in Organisationen (Microsoft Copilot und Copilot Chat im Unternehmen). Was Generative Engine Optimization insgesamt bedeutet, erklärt [Was ist GEO?](/blog/was-ist-geo-generative-engine-optimization).",
         },
         {
           t: "table",
@@ -40,7 +40,7 @@ const article: V4Article = {
           rows: [
             ["Bing-Suche und Bing Maps", "Einträge aus Bing Places und Websites aus dem Bing-Index", "Eintrag in Bing Places, Website, die bingbot lesen darf"],
             ["Microsoft Copilot", "Antworten auf Grundlage von Websuchergebnissen, mit verlinkten Quellen", "Klare Fakten auf Ihrer Website"],
-            ["Copilot-Suche und KI-Zusammenfassungen in Bing", "KI-Antworten in der Bing-Suche mit zitierten Quellen; die Copilot-Suche gibt es seit April 2025", "Wie bei Copilot"],
+            ["Copilot-Suche und KI-Zusammenfassungen in Bing", "KI-Antworten in der Bing-Suche mit zitierten Quellen; die Copilot-Suche gibt es laut Fachmedien seit April 2025", "Wie bei Copilot"],
             ["Copilot im Unternehmen", "Antworten mit Websuche über den Bing-Suchdienst, wenn die Organisation sie zulässt", "Ihre öffentliche Website"],
           ],
         },
@@ -256,7 +256,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Seit März 2026 führt Microsoft laut einem Fachmedium weltweit eine Ansicht ein, die Grounding Queries und zitierte Seiten verknüpft. Für einen lokalen Betrieb ist das die nützlichste Ansicht: Taucht etwa „Heizungsnotdienst Innsbruck“ auf, und welche Seite wird dafür genannt?",
+          text: "Seit März 2026 führt Microsoft laut einem Fachmedium weltweit eine Ansicht ein, die Grounding Queries und zitierte Seiten verknüpft. Im Juni 2026 hat Microsoft die Vorschau laut eigenem Blog um Intents, Topics, Citation Share und Compare erweitert. Citation Share zeigt ausdrücklich keinen Anteil am Traffic. Für einen lokalen Betrieb ist das die nützlichste Ansicht: Taucht etwa „Heizungsnotdienst Innsbruck“ auf, und welche Seite wird dafür genannt?",
         },
         {
           t: "note",
@@ -327,8 +327,9 @@ const article: V4Article = {
     { title: "Announcing new options for webmasters to control usage of their content in Bing Chat (22. September 2023)", publisher: "Microsoft Bing Webmaster Blog", url: "https://blogs.bing.com/webmaster/september-2023/Announcing-new-options-for-webmasters-to-control-usage-of-their-content-in-Bing-Chat" },
     { title: "To crawl or not to crawl, that is BingBot's question (Mai 2012)", publisher: "Microsoft Bing Webmaster Blog", url: "https://blogs.bing.com/webmaster/May-2012/To-crawl-or-not-to-crawl,-that-is-BingBot-s-questi/" },
     { title: "Bing crawler bingbot on the horizon (Juni 2010)", publisher: "Microsoft Bing Webmaster Blog", url: "https://blogs.bing.com/webmaster/June-2010/Bing-crawler-bingbot-on-the-horizon" },
-    { title: "Transparency Note for Microsoft Copilot (for individuals), Stand 18. August 2026", publisher: "Microsoft Support", url: "https://support.microsoft.com/en-US/Privacy/microsoft-copilot/transparency-note" },
-    { title: "Websuche in Microsoft Copilot und Copilot Chat verwalten, Stand 18. August 2026", publisher: "Microsoft Learn", url: "https://learn.microsoft.com/copilot/microsoft-365/manage-public-web-access" },
+    { title: "Transparency Note for Microsoft Copilot (for individuals), Stand 10. November 2026", publisher: "Microsoft Support", url: "https://support.microsoft.com/en-US/Privacy/microsoft-copilot/transparency-note" },
+    { title: "Websuche in Microsoft Copilot und Copilot Chat verwalten, Stand 3. November 2026", publisher: "Microsoft Learn", url: "https://learn.microsoft.com/copilot/microsoft-365/manage-public-web-access" },
+    { title: "New AI Visibility Insights in Bing Webmaster Tools: Intents, Topics, Citation Share, Compare (16. Juni 2026)", publisher: "Microsoft Bing Blogs", url: "https://blogs.bing.com/search/June-2026/New-AI-Visibility-Insights-in-Bing-Webmaster-Tools-Intents-Topics-Citation-Share-Compare" },
     { title: "Bing Places for Business Pending Publishing for over 7 weeks (16. Januar 2026)", publisher: "Microsoft Q&A", url: "https://learn.microsoft.com/en-nz/answers/questions/5721268/bing-places-for-business-pending-publishing-for-ov" },
     { title: "How to verify business (Dezember 2025)", publisher: "Microsoft Q&A", url: "https://learn.microsoft.com/en-us/answers/a/12408094" },
     { title: "Robots.txt tip from Bing: Include all relevant directives if you have a Bingbot section (3. Januar 2019)", publisher: "Search Engine Land", url: "https://searchengineland.com/robots-txt-tip-from-bing-include-all-relevant-directives-if-you-have-a-bingbot-section-309970" },

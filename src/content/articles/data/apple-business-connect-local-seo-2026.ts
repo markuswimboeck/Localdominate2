@@ -32,7 +32,7 @@ const article: V4Article = {
       blocks: [
         {
           t: "p",
-          text: "Laut Apple ist Apple Business ein kostenloser Dienst, der in den USA und in mehr als 200 weiteren Ländern und Regionen angeboten wird. Bestehende Daten aus Business Connect hat Apple beim Start automatisch übernommen, darunter beanspruchte Standorte, Angaben auf der Ortskarte, Fotos, Organisationsdaten und Kontodetails. Sie müssen Ihren Eintrag also nicht neu anlegen, wenn Sie ihn schon in Business Connect verwaltet haben.",
+          text: "Laut Apple ist Apple Business ein kostenloser Dienst, der laut Apple in mehr als 200 Ländern und Regionen angeboten wird, wobei einzelne Funktionen je nach Land abweichen können. Bestehende Daten aus Business Connect hat Apple beim Start automatisch übernommen, darunter beanspruchte Standorte, Angaben auf der Ortskarte, Fotos, Organisationsdaten und Kontodetails. Sie müssen Ihren Eintrag also nicht neu anlegen, wenn Sie ihn schon in Business Connect verwaltet haben.",
         },
         {
           t: "p",
@@ -58,12 +58,12 @@ const article: V4Article = {
           rows: [
             ["Ortskarte", "Fotos, Standortangaben und Öffnungszeiten, sichtbar in Apple Karten, Safari und Spotlight"],
             ["Showcases", "Hinweise auf Angebote, neue Produkte oder saisonale Artikel direkt auf der Ortskarte"],
-            ["Aktionen", "Schaltflächen wie Bestellen oder Reservieren, die auf Ihre Website oder App führen"],
+            ["Aktionen", "Aktionen auf der Ortskarte wie Bestellen oder Reservieren"],
             ["Markenprofil", "Name, Logo und wichtige Angaben einheitlich in Apple Karten, Wallet und anderen Apps"],
             ["Mail und Wallet", "Markenauftritt in der Mail-App und in iCloud Mail sowie bei verfolgten Bestellungen in Wallet"],
             ["Tap to Pay auf dem iPhone", "Logo und Name auf dem Bezahlbildschirm"],
             ["Auswertungen", "Suchen, Aufrufe und Tipps auf Aktionen Ihres Eintrags"],
-            ["Anzeigen in Apple Karten", "Laut Apple ab Sommer 2026 nur in den USA und Kanada"],
+            ["Anzeigen in Apple Karten", "Laut Apple ab Sommer 2026 in den USA und Kanada, für andere Länder nannte Apple in der Ankündigung nichts"],
           ],
         },
         {
@@ -76,7 +76,7 @@ const article: V4Article = {
       id: "verfuegbarkeit-dach",
       title: "Was in Deutschland, Österreich und der Schweiz verfügbar ist",
       answer:
-        "Apples Übersicht zur Verfügbarkeit führt für Deutschland, Österreich und die Schweiz unter anderem die Marken- und Standortverwaltung, Branded Mail und Tap to Pay auf dem iPhone. Anzeigen in Apple Karten gibt es dort laut Apple vorerst nicht. Einzelne Funktionen wie Showcases sind in der Tabelle nicht nach Ländern aufgeführt.",
+        "Apples Übersicht zur Verfügbarkeit führt für Deutschland, Österreich und die Schweiz unter anderem die Marken- und Standortverwaltung, Branded Mail und Tap to Pay auf dem iPhone. Anzeigen in Apple Karten führt die Übersicht nicht auf; Apple nannte dafür in der Ankündigung nur die USA und Kanada. Einzelne Funktionen wie Showcases sind in der Tabelle nicht nach Ländern aufgeführt.",
       blocks: [
         {
           t: "table",
@@ -86,7 +86,7 @@ const article: V4Article = {
             ["Marken- und Standortverwaltung (Ortskarten)", "Aufgeführt", "Grundlage für Ihren Eintrag in Apple Karten"],
             ["Branded Mail", "Aufgeführt", "Name und Logo in der Mail-App"],
             ["Tap to Pay auf dem iPhone", "Aufgeführt", "Nicht in allen Ländern verfügbar, laut Apple"],
-            ["Anzeigen in Apple Karten", "Nicht verfügbar", "Laut Apple ab Sommer 2026 nur USA und Kanada"],
+            ["Anzeigen in Apple Karten", "Nicht aufgeführt", "Apple nannte in der Ankündigung (März 2026) für Sommer 2026 die USA und Kanada"],
             ["Showcases, Aktionen, Auswertungen", "Nicht nach Ländern aufgeführt", "Im Konto prüfen, ob die Funktion angeboten wird"],
           ],
         },
@@ -100,7 +100,7 @@ const article: V4Article = {
       id: "organisation-verifizieren",
       title: "Anmelden und Organisation verifizieren",
       answer:
-        "Sie registrieren Ihre Organisation unter business.apple.com und bestätigen sie danach mit zwei Nachweisen. Möglich sind laut Apple eine Unternehmenskennung wie die D-U-N-S-Nummer, ein DNS-Eintrag für Ihre Domain, eine App im App Store oder amtliche Dokumente. Die Prüfung kann bis zu fünf Werktage dauern.",
+        "Sie registrieren Ihre Organisation unter business.apple.com und bestätigen sie danach mit zwei Nachweisen. Möglich sind laut Apple eine Unternehmenskennung wie die D-U-N-S-Nummer, ein DNS-Eintrag für Ihre Domain, eine App im App Store oder hochgeladene Dokumente wie Gewerbeanmeldung, Mietvertrag oder Rechnung eines Versorgers. Die Prüfung kann bis zu fünf Werktage dauern.",
       blocks: [
         {
           t: "steps",
@@ -118,7 +118,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Mit einem privaten Apple Account haben Sie laut Apple nur Zugriff auf Marken- und Standortverwaltung. Für die volle Funktionsbreite legt Apple einen verwalteten Apple Account für die Arbeit nahe. Für einen einzelnen Standort genügt in der Regel der erste Weg.",
+          text: "Mit einem privaten Apple Account haben Sie laut Apple nur Zugriff auf Marken- und Standortverwaltung. Der volle Funktionsumfang von Apple Business steht laut Apple mit einem verwalteten Apple Account („Apple Account for Work“) zur Verfügung.",
         },
       ],
     },
@@ -158,9 +158,9 @@ const article: V4Article = {
         {
           t: "ul",
           items: [
-            "**Hauptkategorie:** Sie bestimmt auch, welche Merkmale (Ausstattung, Angebote) Sie eintragen können. Eine Änderung der Hauptkategorie muss Apple freigeben und kann das Kartensymbol und die Suche beeinflussen.",
+            "**Hauptkategorie:** Sie bestimmt auch, welche Merkmale (Ausstattung, Angebote) Sie eintragen können. Eine Änderung der Hauptkategorie muss Apple freigeben und kann laut Apple das Suchverhalten beeinflussen.",
             "**Weitere Kategorien:** Bis zu 19, für konkrete Leistungen oder Produkte. Sie lassen sich ohne Freigabe entfernen. Apple hat die Kategorien zuletzt erweitert und empfiehlt, bestehende Einträge zu prüfen.",
-            "**Anzeigename:** So, wie Ihr Betrieb tatsächlich heißt. Zusätze wie Leistungen oder Orte im Namen empfehlen wir nicht. Bei Google verstoßen sie gegen die Richtlinien, und Apple prüft Namensänderungen einzeln.",
+            "**Anzeigename:** So, wie Ihr Betrieb tatsächlich heißt. Zusätze wie Leistungen oder Orte im Namen empfehlen wir nicht. Bei Google verstoßen sie gegen die Richtlinien.",
             "**Öffnungszeiten und Status:** Feiertage und Betriebsurlaub einplanen. Ein Eintrag, der „geöffnet“ zeigt, obwohl Sie zu haben, ist genau der Fall, den Nutzer melden.",
           ],
         },
@@ -179,7 +179,7 @@ const article: V4Article = {
       id: "showcases-und-aktionen",
       title: "Showcases und Aktionen",
       answer:
-        "Ein Showcase ist ein Hinweis auf der Ortskarte mit Überschrift, kurzem Text, Bild und Schaltfläche. Er läuft bis zu 365 Tage, standardmäßig 90. Apple prüft jeden Showcase, was bis zu drei Kalendertage dauern kann. Aktionen sind Schaltflächen wie Bestellen oder Reservieren, die auf Ihre Website oder App führen.",
+        "Ein Showcase ist ein Hinweis auf der Ortskarte mit Überschrift, kurzem Text und Bild. Er läuft bis zu 365 Tage, standardmäßig 90. Apple prüft jeden Showcase, was bis zu drei Kalendertage dauern kann. Aktionen sind Funktionen auf der Ortskarte wie Bestellen oder Reservieren.",
       blocks: [
         {
           t: "table",
@@ -189,7 +189,7 @@ const article: V4Article = {
             ["Überschrift", "Bis 38 Zeichen"],
             ["Text", "Bis 100 Zeichen"],
             ["Alternativtext des Bildes", "Bis 100 Zeichen"],
-            ["Bild", "Format nach Apples Foto- und Textrichtlinien, wird zugeschnitten"],
+            ["Bild", "Von Apple freigegeben, mit passender Größe und passendem Seitenverhältnis"],
             ["Laufzeit", "Bis 365 Tage, Standard 90 Tage, mit Start- und Enddatum"],
             ["Prüfung", "Bis zu drei Kalendertage, mindestens so früh einreichen"],
             ["Sprachen", "Mehrere möglich. Wird eine Sprache abgelehnt, ist der ganze Showcase abgelehnt"],
@@ -201,7 +201,7 @@ const article: V4Article = {
         },
         {
           t: "p",
-          text: "Restaurants nutzen Aktionen vor allem für Reservierung und Bestellung. Wie das mit Google-Profil und Website zusammenspielt, zeigt [Local SEO für Restaurants](/blog/local-seo-fuer-restaurants). Für Betriebe mit englischsprachigen Gästen gibt es unsere Seite [Restaurants (englische Seite)](/industries/restaurants).",
+          text: "Für Restaurants liegen Aktionen wie Reservieren oder Bestellen nahe. Wie das mit Google-Profil und Website zusammenspielt, zeigt [Local SEO für Restaurants](/blog/local-seo-fuer-restaurants). Für Betriebe mit englischsprachigen Gästen gibt es unsere Seite [Restaurants (englische Seite)](/industries/restaurants).",
         },
       ],
     },
@@ -230,7 +230,7 @@ const article: V4Article = {
       id: "abgleich-mit-google",
       title: "Daten mit Google und Website abgleichen",
       answer:
-        "Apple Business und das Google-Unternehmensprofil sind getrennte Systeme. Keines übernimmt Daten automatisch vom anderen. Pflegen Sie Name, Adresse, Telefonnummer, Website und Öffnungszeiten deshalb aus einer gemeinsamen Stammdatenliste und gleichen Sie beide Einträge nach jeder Änderung ab. So sehen Kunden auf dem iPhone dieselben Angaben wie bei Google.",
+        "Apple Business und das Google-Unternehmensprofil sind getrennte Systeme. In den geprüften Apple-Hilfeseiten steht kein Import aus dem Google-Profil. Pflegen Sie Name, Adresse, Telefonnummer, Website und Öffnungszeiten deshalb aus einer gemeinsamen Stammdatenliste und gleichen Sie beide Einträge nach jeder Änderung ab. So sehen Kunden auf dem iPhone dieselben Angaben wie bei Google.",
       blocks: [
         {
           t: "table",
@@ -240,8 +240,8 @@ const article: V4Article = {
             ["Kosten", "Kostenlos", "Kostenlos"],
             ["Bewertungen", "Gefällt mir oder Gefällt mir nicht je Kategorie, nicht in allen Ländern", "Sterne mit Text"],
             ["Hinweise auf Angebote", "Showcases, von Apple geprüft", "Beiträge im Profil"],
-            ["Weitere Kategorien", "Bis zu 19", "Möglichst wenige, laut Google"],
-            ["Anzeigen in der Karte", "In DACH vorerst nicht", "Über Google Ads"],
+            ["Weitere Kategorien", "Bis zu 19", "Nur einige, laut Google"],
+            ["Anzeigen in der Karte", "Für DACH hat Apple keine Angabe gemacht", "Über Google Ads"],
             ["Veröffentlichte Ranking-Faktoren", "Keine", "Relevanz, Entfernung, Bekanntheit"],
           ],
         },
@@ -284,7 +284,7 @@ const article: V4Article = {
     },
     {
       q: "Kostet Apple Business etwas?",
-      a: "Die Plattform ist laut Apple kostenlos. Kostenpflichtig sind Zusatzleistungen wie Anzeigen in Apple Karten, die es laut Apple vorerst nur in den USA und Kanada gibt, sowie einige Geräteleistungen, die nur in den USA angeboten werden.",
+      a: "Die Plattform ist laut Apple kostenlos. Kostenpflichtig sind laut Apple Zusatzleistungen wie iCloud-Speicher oder AppleCare+ for Business. Anzeigen in Apple Karten kündigte Apple für Sommer 2026 in den USA und Kanada an, einen Preis nennt die Ankündigung nicht.",
     },
     {
       q: "Ist Apple Business in Deutschland, Österreich und der Schweiz verfügbar?",
@@ -296,7 +296,7 @@ const article: V4Article = {
     },
     {
       q: "Übernimmt Apple meine Daten aus dem Google-Unternehmensprofil?",
-      a: "Nein, beide Systeme sind getrennt. Sie pflegen Apple Business selbst oder über einen Partner. Halten Sie Name, Adresse, Telefonnummer und Öffnungszeiten in beiden Einträgen identisch, damit Kunden überall dieselben Angaben sehen.",
+      a: "Apple beschreibt in den geprüften Hilfeseiten keinen Import aus dem Google-Profil. Sie pflegen Apple Business selbst oder über einen Partner. Halten Sie Name, Adresse, Telefonnummer und Öffnungszeiten in beiden Einträgen identisch, damit Kunden überall dieselben Angaben sehen.",
     },
     {
       q: "Kann ich mein Ranking in Apple Karten verbessern?",
@@ -311,6 +311,7 @@ const article: V4Article = {
     { title: "About categories", publisher: "Apple Business Hilfe", url: "https://support.apple.com/guide/business/about-categories-abcb5add1f54/web" },
     { title: "Create your first showcase", publisher: "Apple Business Hilfe", url: "https://support.apple.com/guide/business/create-your-first-showcase-abcb04e20054/web" },
     { title: "Maintain location information accuracy", publisher: "Apple Business Hilfe", url: "https://support.apple.com/guide/business/maintain-location-information-accuracy-abcb91c1d565/web" },
+    { title: "Insights for locations", publisher: "Apple Business Hilfe", url: "https://support.apple.com/guide/business/abcbb749656b/web" },
     { title: "Rate places and add photos in Maps on iPhone", publisher: "Apple iPhone-Benutzerhandbuch", url: "https://support.apple.com/guide/iphone/rate-places-and-add-photos-iphc3e29e15d/ios" },
   ],
   related: [

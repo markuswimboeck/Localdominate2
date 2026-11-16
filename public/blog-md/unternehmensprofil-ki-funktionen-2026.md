@@ -27,8 +27,8 @@ Google setzt rund um das Unternehmensprofil vor allem an drei Stellen KI ein: be
 
 - Die öffentliche Rubrik Fragen und Antworten zeigt Maps nicht mehr. KI-Antworten auf Kundenfragen beruhen laut Google auf Ihren Antworten und relevanten Rezensionen.
 - KI-Zusammenfassungen von Rezensionen beruhen laut Google auf den Rezensionen des letzten Jahres. Bearbeiten können Sie sie nicht, einen Meldeweg in Maps beschreibt Googles Hilfe nur für andere Arten von Zusammenfassungen.
-- Für Ask Maps, die Gesprächssuche in Google Maps, hat Google keinen Start in Deutschland, Österreich oder der Schweiz angekündigt.
-- Die Profilverwaltung in der Gemini-Web-App schließt Google im Europäischen Wirtschaftsraum aus, also auch in Deutschland und Österreich.
+- Für Ask Maps, die Gesprächssuche in Google Maps, nennt Google Deutschland, Österreich und die Schweiz nicht ausdrücklich. Auf Englisch gibt es sie laut Google in über 150 Ländern und Gebieten, ohne Liste.
+- Die Profilverwaltung in der Gemini-Web-App gibt es laut Google-Hilfe überall, wo die Gemini-Web-App unterstützt wird, aber nur mit privatem Konto und genau einem bestätigten Profil.
 - Welches Feld in welche KI-Antwort einfließt, legt Google nicht offen. Pflegen Sie deshalb alle Felder vollständig und passend zu Ihrer Website.
 
 ## Welche KI-Funktionen Ihr Profil betreffen
@@ -43,9 +43,9 @@ Die Tabelle trennt, was Google dokumentiert, von dem, was Fachmedien berichten. 
 | --- | --- | --- | --- |
 | Zusammenfassung von Rezensionen mit Tipps | Kunden | Rezensionen des letzten Jahres | Laut Medienberichten in Deutschland und Österreich zu sehen, nicht bei allen Betrieben |
 | Fragen zu einem Ort (Ersatz für Fragen und Antworten) | Kunden | Antworten des Betriebs und relevante Rezensionen | Keine Länderangabe von Google, beobachtet in den USA |
-| Ask Maps (Gesprächssuche in Maps) | Kunden | Daten zu über 300 Millionen Orten, Rezensionen der Community | Kein angekündigter Start |
+| Ask Maps (Gesprächssuche in Maps) | Kunden | Daten zu über 300 Millionen Orten, Rezensionen der Community | Nicht ausdrücklich genannt, auf Englisch in über 150 Ländern ohne Liste |
 | Beschreibung vorschlagen lassen | Inhaber | Profilangaben und andere Quellen wie Ihre Website | Ausgewählte Regionen und Sprachen, ohne Liste |
-| Profil in der Gemini-Web-App verwalten | Inhaber | Zugriff auf Profil, Rezensionen, Leistungsdaten | Nicht im EWR, also nicht in Deutschland und Österreich |
+| Profil in der Gemini-Web-App verwalten | Inhaber | Zugriff auf Profil, Rezensionen, Leistungsdaten | Laut Hilfe überall, wo die Gemini-Web-App unterstützt wird, keine Länderliste |
 | KI-Antworten auf Rezensionen | Inhaber | Nicht dokumentiert, nur als Test berichtet | Laut Fachmedien in Europa kaum zu sehen |
 
 ## KI-Zusammenfassungen von Rezensionen
@@ -88,7 +88,7 @@ Wo die Frage-Schaltfläche erscheint, nennt Google nicht. Whitespark sah sie im 
 
 ## Ask Maps: die Gesprächssuche in Google Maps
 
-Ask Maps beantwortet in Google Maps Fragen im Gesprächsstil, seit März 2026 in den USA und Indien und seit August 2026 in weiteren Ländern. Einen Start in Deutschland, Österreich oder der Schweiz hat Google nicht angekündigt.
+Ask Maps beantwortet in Google Maps Fragen im Gesprächsstil, seit März 2026 in den USA und Indien und seit August 2026 in weiteren Ländern. Deutschland, Österreich und die Schweiz nennt Google dabei nicht ausdrücklich.
 
 Laut Google wertet Ask Maps Informationen zu über 300 Millionen Orten aus und stützt sich auf Rezensionen von mehr als 500 Millionen Beitragenden, persönlich zugeschnitten etwa nach gespeicherten Orten. Im August 2026 kamen Australien, Brasilien, Kanada, Indonesien, Japan und Mexiko dazu sowie über 150 Länder und Gebiete auf Englisch, die Google nicht einzeln nennt.
 
@@ -107,7 +107,7 @@ Für Inhaber zählt die dritte Zeile: Nutzer können Änderungen an Ihrem Eintra
 
 ## KI-Hilfen für Inhaber
 
-Inhaber können sich in ausgewählten Regionen und Sprachen eine Beschreibung von Google vorschlagen lassen. Die Profilverwaltung mit Gemini gibt es laut Google nicht im Europäischen Wirtschaftsraum.
+Inhaber können sich in ausgewählten Regionen und Sprachen eine Beschreibung von Google vorschlagen lassen. Die Profilverwaltung mit Gemini nennt Google ohne Länderliste, mit mehreren Bedingungen.
 
 ### Beschreibung vorschlagen lassen
 
@@ -115,9 +115,9 @@ Beim Bearbeiten der Beschreibung kann Google einen Text vorschlagen, der laut Hi
 
 ### Profil mit Gemini verwalten
 
-In der Gemini-Web-App können Inhaber laut Google Öffnungszeiten, Kontaktdaten und Aktionslinks ändern, Antworten auf Rezensionen und Beiträge entwerfen, Rezensionen auswerten und Leistungsdaten abrufen. Die Hilfe verlangt ein privates Google-Konto und Zugriff auf genau ein bestätigtes Profil. Laut PPC Land (August 2026) klappt die Verwaltung inzwischen auch mit mehreren Profilen.
+In der Gemini-Web-App können Inhaber laut Google Öffnungszeiten, Kontaktdaten und Aktionslinks ändern, Antworten auf Rezensionen und Beiträge entwerfen, Rezensionen auswerten und Leistungsdaten abrufen. Die Hilfe verlangt ein privates Google-Konto, ein Mindestalter von 18 Jahren, gespeicherte Gemini-Aktivitäten und Zugriff auf genau ein bestätigtes Profil. Laut PPC Land (August 2026) klappt die Verwaltung inzwischen auch mit mehreren Profilen.
 
-Verfügbar ist sie laut Google überall, wo es die Gemini-Web-App gibt, **außer im Europäischen Wirtschaftsraum und im Vereinigten Königreich**. Deutsch wird unterstützt. In Deutschland und Österreich ist die Funktion damit derzeit nicht nutzbar. Die Schweiz gehört nicht zum EWR und ist nach dem Wortlaut nicht ausgeschlossen. Ob die Funktion dort erscheint, haben wir nicht geprüft.
+Verfügbar ist sie laut Google **überall, wo die Gemini-Web-App unterstützt wird**, und nur im Browser unter gemini.google.com, nicht in den mobilen Apps. Eine Länder- oder Sprachliste nennt die Hilfeseite nicht. Ob die Funktion in Deutschland, Österreich und der Schweiz bereitsteht, haben wir nicht geprüft. Eine frühere Fassung dieses Artikels nannte einen Ausschluss des Europäischen Wirtschaftsraums. Die aktuelle Hilfeseite enthält ihn nicht mehr.
 
 ### Tests und Sortimentsfragen
 
@@ -206,11 +206,11 @@ Nein. Sie entsteht laut Google aus den Rezensionen des letzten Jahres und wird r
 
 ### Ist Ask Maps in Deutschland, Österreich und der Schweiz verfügbar?
 
-Google hat dafür keinen Start angekündigt (Stand 11. Oktober 2026). Ask Maps startete im März 2026 in den USA und Indien, im August 2026 kamen weitere Länder dazu, die Google nur teilweise nennt.
+Google nennt die drei Länder nicht ausdrücklich (Stand 11. Oktober 2026). Ask Maps startete im März 2026 in den USA und Indien, im August 2026 kamen weitere Länder dazu. Auf Englisch gibt es Ask Maps laut Google in über 150 Ländern und Gebieten, die Google nicht einzeln aufführt. Ob es bei Ihnen erscheint, zeigt nur ein Blick in Google Maps.
 
 ### Kann ich mein Unternehmensprofil mit Gemini verwalten?
 
-In Deutschland und Österreich nicht, weil Google die Funktion im Europäischen Wirtschaftsraum ausschließt. Für die Schweiz enthält die Hilfe keinen Ausschluss.
+Laut Google-Hilfe überall, wo die Gemini-Web-App unterstützt wird, im Browser unter gemini.google.com. Nötig sind ein privates Google-Konto, ein Alter ab 18 Jahren, gespeicherte Gemini-Aktivitäten und genau ein bestätigtes Profil. Eine Länderliste nennt Google nicht, ob es in Ihrem Land schon geht, zeigt nur ein Test.
 
 ### Soll ich die von Google vorgeschlagene Beschreibung übernehmen?
 

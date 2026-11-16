@@ -111,6 +111,7 @@ Die robots.txt liegt im Hauptverzeichnis jeder Domain und Subdomain, und ein Cra
 - **Eine Gruppe je Crawler:** Nach Googles Auslegung des Standards kommen die Regeln unter „User-agent: *“ nicht zu einer eigenen Gruppe hinzu. Wiederholen Sie gemeinsame Sperren wie /admin/ deshalb in jeder eigenen Gruppe.
 - **Schreibweise:** Bei Crawler-Namen spielt Groß- und Kleinschreibung keine Rolle, bei Pfaden schon. „/Preise“ und „/preise“ sind zwei Pfade.
 - **Wartezeit:** Google speichert die robots.txt in der Regel bis zu 24 Stunden zwischen, OpenAI nennt etwa 24 Stunden, Perplexity und Meta bis zu 24 Stunden.
+- **Anthropic:** Seit dem 30. Oktober 2026 erkennt Anthropic zusätzlich ein maschinenlesbares Signal gegen KI-Training. Regeln, die ClaudeBot ausdrücklich nennen, haben laut Anthropic Vorrang.
 - **Apple:** Steht Applebot nicht in der Datei, wohl aber Googlebot, folgt Applebot laut Apple den Regeln für Googlebot.
 
 > **Wichtig:** Die robots.txt ist kein Zugriffsschutz. Laut Google kann eine gesperrte Seite trotzdem im Index landen, wenn andere Seiten auf sie verlinken; Privates gehört hinter ein Passwort. Was eine llms.txt leisten kann, steht in [llms.txt für lokale Unternehmen](https://localdominate.org/blog/llms-txt-lokale-unternehmen-2026).
@@ -171,14 +172,14 @@ Für neue Domains ohne Werbung schlägt Cloudflare vor, alles zu erlauben. Mit W
 
 ## Echte Crawler von Fälschungen unterscheiden
 
-Den Namen im User-Agent kann jeder fälschen, deshalb prüfen Sie die IP-Adresse gegen die Liste des Anbieters oder per Reverse-DNS. Anthropic veröffentlicht derzeit keine IP-Bereiche und warnt, dass Sperren nach IP-Adresse nicht zuverlässig wirken, weil die Bots dann Ihre robots.txt nicht lesen können.
+Den Namen im User-Agent kann jeder fälschen, deshalb prüfen Sie die IP-Adresse gegen die Liste des Anbieters oder per Reverse-DNS. Anthropic nennt eine IP-Liste unter claude.com/crawling/bots.json, warnt aber, dass Sperren nach IP-Adresse nicht zuverlässig wirken, weil die Bots dann Ihre robots.txt nicht lesen können.
 
 *So prüfen Sie, ob ein Zugriff wirklich vom Anbieter kommt*
 
 | Anbieter | Prüfweg laut Anbieter |
 | --- | --- |
 | OpenAI | IP-Listen je Crawler: openai.com/searchbot.json, openai.com/gptbot.json, openai.com/chatgpt-user.json |
-| Anthropic | Keine IP-Listen; IP-Sperren können verhindern, dass die Bots Ihre robots.txt lesen |
+| Anthropic | IP-Liste unter claude.com/crawling/bots.json; IP-Sperren können verhindern, dass die Bots Ihre robots.txt lesen |
 | Perplexity | perplexity.com/perplexitybot.json und perplexity.com/perplexity-user.json; Firewall-Regeln sollen Name und IP kombinieren |
 | Google | Reverse-DNS auf googlebot.com, google.com oder googleusercontent.com, dann Forward-DNS auf dieselbe IP; alternativ IP-Listen wie common-crawlers.json |
 | Apple | Reverse-DNS auf *.applebot.apple.com oder search.developer.apple.com/applebot.json |

@@ -36,7 +36,7 @@ Apple Business Connect gibt es seit dem 14. April 2026 nicht mehr. Apple hat es 
 
 Apple hat am 24. März 2026 Apple Business angekündigt und am 14. April 2026 gestartet. Die neue Plattform ersetzt Apple Business Connect, Apple Business Manager und Apple Business Essentials. Für Ihren Eintrag in Apple Karten ändert sich vor allem die Adresse, unter der Sie ihn pflegen.
 
-Laut Apple ist Apple Business ein kostenloser Dienst, der in den USA und in mehr als 200 weiteren Ländern und Regionen angeboten wird. Bestehende Daten aus Business Connect hat Apple beim Start automatisch übernommen, darunter beanspruchte Standorte, Angaben auf der Ortskarte, Fotos, Organisationsdaten und Kontodetails. Sie müssen Ihren Eintrag also nicht neu anlegen, wenn Sie ihn schon in Business Connect verwaltet haben.
+Laut Apple ist Apple Business ein kostenloser Dienst, der laut Apple in mehr als 200 Ländern und Regionen angeboten wird, wobei einzelne Funktionen je nach Land abweichen können. Bestehende Daten aus Business Connect hat Apple beim Start automatisch übernommen, darunter beanspruchte Standorte, Angaben auf der Ortskarte, Fotos, Organisationsdaten und Kontodetails. Sie müssen Ihren Eintrag also nicht neu anlegen, wenn Sie ihn schon in Business Connect verwaltet haben.
 
 Die Plattform bündelt nun Themen, die früher getrennt waren: Ortskarten in Apple Karten, Markenauftritt in anderen Apple-Apps und die Verwaltung von Firmengeräten. Für lokale Sichtbarkeit zählt der erste Teil. Die Anmeldung erfolgt über business.apple.com.
 
@@ -52,18 +52,18 @@ Sie steuern die Ortskarte Ihres Standorts: Name, Adresse, Kategorien, Öffnungsz
 | --- | --- |
 | Ortskarte | Fotos, Standortangaben und Öffnungszeiten, sichtbar in Apple Karten, Safari und Spotlight |
 | Showcases | Hinweise auf Angebote, neue Produkte oder saisonale Artikel direkt auf der Ortskarte |
-| Aktionen | Schaltflächen wie Bestellen oder Reservieren, die auf Ihre Website oder App führen |
+| Aktionen | Aktionen auf der Ortskarte wie Bestellen oder Reservieren |
 | Markenprofil | Name, Logo und wichtige Angaben einheitlich in Apple Karten, Wallet und anderen Apps |
 | Mail und Wallet | Markenauftritt in der Mail-App und in iCloud Mail sowie bei verfolgten Bestellungen in Wallet |
 | Tap to Pay auf dem iPhone | Logo und Name auf dem Bezahlbildschirm |
 | Auswertungen | Suchen, Aufrufe und Tipps auf Aktionen Ihres Eintrags |
-| Anzeigen in Apple Karten | Laut Apple ab Sommer 2026 nur in den USA und Kanada |
+| Anzeigen in Apple Karten | Laut Apple ab Sommer 2026 in den USA und Kanada, für andere Länder nannte Apple in der Ankündigung nichts |
 
 Apple nennt Siri in der Ankündigung als einen der Orte, an denen Betriebe Kunden erreichen. Wie Siri die Daten aus Apple Business verwendet, beschreibt Apple dort nicht. Wir leiten daraus nur ab, dass korrekte Angaben auch bei Sprachanfragen helfen, nicht aber eine bestimmte Reihenfolge. Mehr zu Sprachassistenten steht in [Voice Search und Sprachassistenten](https://localdominate.org/blog/voice-search-sprachassistenten-local-seo-2026).
 
 ## Was in Deutschland, Österreich und der Schweiz verfügbar ist
 
-Apples Übersicht zur Verfügbarkeit führt für Deutschland, Österreich und die Schweiz unter anderem die Marken- und Standortverwaltung, Branded Mail und Tap to Pay auf dem iPhone. Anzeigen in Apple Karten gibt es dort laut Apple vorerst nicht. Einzelne Funktionen wie Showcases sind in der Tabelle nicht nach Ländern aufgeführt.
+Apples Übersicht zur Verfügbarkeit führt für Deutschland, Österreich und die Schweiz unter anderem die Marken- und Standortverwaltung, Branded Mail und Tap to Pay auf dem iPhone. Anzeigen in Apple Karten führt die Übersicht nicht auf; Apple nannte dafür in der Ankündigung nur die USA und Kanada. Einzelne Funktionen wie Showcases sind in der Tabelle nicht nach Ländern aufgeführt.
 
 *Apple-Business-Funktionen in DACH (Stand: Apple-Übersicht vom 14. April 2026)*
 
@@ -72,14 +72,14 @@ Apples Übersicht zur Verfügbarkeit führt für Deutschland, Österreich und di
 | Marken- und Standortverwaltung (Ortskarten) | Aufgeführt | Grundlage für Ihren Eintrag in Apple Karten |
 | Branded Mail | Aufgeführt | Name und Logo in der Mail-App |
 | Tap to Pay auf dem iPhone | Aufgeführt | Nicht in allen Ländern verfügbar, laut Apple |
-| Anzeigen in Apple Karten | Nicht verfügbar | Laut Apple ab Sommer 2026 nur USA und Kanada |
+| Anzeigen in Apple Karten | Nicht aufgeführt | Apple nannte in der Ankündigung (März 2026) für Sommer 2026 die USA und Kanada |
 | Showcases, Aktionen, Auswertungen | Nicht nach Ländern aufgeführt | Im Konto prüfen, ob die Funktion angeboten wird |
 
 Apple schreibt in der Ankündigung, dass einzelne Funktionen je nach Land oder Region abweichen können. Verlassen Sie sich deshalb nicht auf Screenshots aus den USA. Was in Ihrem Konto als Menüpunkt erscheint, ist für Ihren Standort maßgeblich. Für Schweizer Betriebe gelten zusätzlich die Besonderheiten aus [Local SEO in der Schweiz](https://localdominate.org/blog/local-seo-schweiz), etwa mehrsprachige Angaben.
 
 ## Anmelden und Organisation verifizieren
 
-Sie registrieren Ihre Organisation unter business.apple.com und bestätigen sie danach mit zwei Nachweisen. Möglich sind laut Apple eine Unternehmenskennung wie die D-U-N-S-Nummer, ein DNS-Eintrag für Ihre Domain, eine App im App Store oder amtliche Dokumente. Die Prüfung kann bis zu fünf Werktage dauern.
+Sie registrieren Ihre Organisation unter business.apple.com und bestätigen sie danach mit zwei Nachweisen. Möglich sind laut Apple eine Unternehmenskennung wie die D-U-N-S-Nummer, ein DNS-Eintrag für Ihre Domain, eine App im App Store oder hochgeladene Dokumente wie Gewerbeanmeldung, Mietvertrag oder Rechnung eines Versorgers. Die Prüfung kann bis zu fünf Werktage dauern.
 
 1. **Konto anlegen.** Auf business.apple.com „Sign up now“ wählen. Organisationsname, Adresse und optional die Website eintragen. Die Website kann laut Apple die Verifizierung beschleunigen.
 2. **Kontaktperson angeben.** Echter Vor- und Nachname der Person, die sich anmeldet. Platzhalter wie „IT-Abteilung“ schickt Apple zur Korrektur zurück. Telefonnummer und E-Mail werden per Code bestätigt.
@@ -88,7 +88,7 @@ Sie registrieren Ihre Organisation unter business.apple.com und bestätigen sie 
 
 > **Frist beachten:** Nach der Anmeldung haben Sie laut Apple 60 Tage Zeit für die Verifizierung. Wird die Organisation in dieser Zeit nicht bestätigt, löscht Apple sie samt Daten. Stellen Sie außerdem sicher, dass Ihr E-Mail-Filter Nachrichten von apple.com durchlässt.
 
-Mit einem privaten Apple Account haben Sie laut Apple nur Zugriff auf Marken- und Standortverwaltung. Für die volle Funktionsbreite legt Apple einen verwalteten Apple Account für die Arbeit nahe. Für einen einzelnen Standort genügt in der Regel der erste Weg.
+Mit einem privaten Apple Account haben Sie laut Apple nur Zugriff auf Marken- und Standortverwaltung. Der volle Funktionsumfang von Apple Business steht laut Apple mit einem verwalteten Apple Account („Apple Account for Work“) zur Verfügung.
 
 ## Standort beanspruchen oder neu anlegen
 
@@ -108,9 +108,9 @@ Verwaltet eine fremde Organisation Ihren Standort, etwa eine frühere Agentur, k
 
 Die Hauptkategorie beschreibt, was Ihr Betrieb ist, und beeinflusst laut Apple die Genauigkeit der Suche. Bis zu 19 weitere Kategorien sind je Marke und Standort möglich. Halten Sie Öffnungszeiten aktuell, denn Nutzer können falsche Angaben melden und Apple passt die Ortskarte dann selbst an.
 
-- **Hauptkategorie:** Sie bestimmt auch, welche Merkmale (Ausstattung, Angebote) Sie eintragen können. Eine Änderung der Hauptkategorie muss Apple freigeben und kann das Kartensymbol und die Suche beeinflussen.
+- **Hauptkategorie:** Sie bestimmt auch, welche Merkmale (Ausstattung, Angebote) Sie eintragen können. Eine Änderung der Hauptkategorie muss Apple freigeben und kann laut Apple das Suchverhalten beeinflussen.
 - **Weitere Kategorien:** Bis zu 19, für konkrete Leistungen oder Produkte. Sie lassen sich ohne Freigabe entfernen. Apple hat die Kategorien zuletzt erweitert und empfiehlt, bestehende Einträge zu prüfen.
-- **Anzeigename:** So, wie Ihr Betrieb tatsächlich heißt. Zusätze wie Leistungen oder Orte im Namen empfehlen wir nicht. Bei Google verstoßen sie gegen die Richtlinien, und Apple prüft Namensänderungen einzeln.
+- **Anzeigename:** So, wie Ihr Betrieb tatsächlich heißt. Zusätze wie Leistungen oder Orte im Namen empfehlen wir nicht. Bei Google verstoßen sie gegen die Richtlinien.
 - **Öffnungszeiten und Status:** Feiertage und Betriebsurlaub einplanen. Ein Eintrag, der „geöffnet“ zeigt, obwohl Sie zu haben, ist genau der Fall, den Nutzer melden.
 
 Ändert Apple nach einer Nutzermeldung Name, Status oder Öffnungszeiten, bekommen Administratoren eine E-Mail. Im Konto sehen Sie dann „Updates Available“. Sie können die Änderung mit „Looks Good“ annehmen oder einen anderen Wert eintragen. Eine Namensänderung können Sie mit Belegen anfechten, die Prüfung dauert bis zu fünf Werktage.
@@ -119,7 +119,7 @@ Die Hauptkategorie beschreibt, was Ihr Betrieb ist, und beeinflusst laut Apple d
 
 ## Showcases und Aktionen
 
-Ein Showcase ist ein Hinweis auf der Ortskarte mit Überschrift, kurzem Text, Bild und Schaltfläche. Er läuft bis zu 365 Tage, standardmäßig 90. Apple prüft jeden Showcase, was bis zu drei Kalendertage dauern kann. Aktionen sind Schaltflächen wie Bestellen oder Reservieren, die auf Ihre Website oder App führen.
+Ein Showcase ist ein Hinweis auf der Ortskarte mit Überschrift, kurzem Text und Bild. Er läuft bis zu 365 Tage, standardmäßig 90. Apple prüft jeden Showcase, was bis zu drei Kalendertage dauern kann. Aktionen sind Funktionen auf der Ortskarte wie Bestellen oder Reservieren.
 
 *Vorgaben für Showcases (laut Apple-Business-Hilfe)*
 
@@ -128,14 +128,14 @@ Ein Showcase ist ein Hinweis auf der Ortskarte mit Überschrift, kurzem Text, Bi
 | Überschrift | Bis 38 Zeichen |
 | Text | Bis 100 Zeichen |
 | Alternativtext des Bildes | Bis 100 Zeichen |
-| Bild | Format nach Apples Foto- und Textrichtlinien, wird zugeschnitten |
+| Bild | Von Apple freigegeben, mit passender Größe und passendem Seitenverhältnis |
 | Laufzeit | Bis 365 Tage, Standard 90 Tage, mit Start- und Enddatum |
 | Prüfung | Bis zu drei Kalendertage, mindestens so früh einreichen |
 | Sprachen | Mehrere möglich. Wird eine Sprache abgelehnt, ist der ganze Showcase abgelehnt |
 
 Sinnvoll sind Showcases für Dinge mit Anfang und Ende: ein Saisonmenü, die Öffnung nach Betriebsurlaub, ein neues Angebot. Planen Sie die Prüfzeit ein und bearbeiten Sie einen Showcase nicht, während er geprüft wird, das verzögert die Freigabe. Belege, dass Showcases die Position in Apple Karten verbessern, hat Apple nicht veröffentlicht.
 
-Restaurants nutzen Aktionen vor allem für Reservierung und Bestellung. Wie das mit Google-Profil und Website zusammenspielt, zeigt [Local SEO für Restaurants](https://localdominate.org/blog/local-seo-fuer-restaurants). Für Betriebe mit englischsprachigen Gästen gibt es unsere Seite [Restaurants (englische Seite)](https://localdominate.org/industries/restaurants).
+Für Restaurants liegen Aktionen wie Reservieren oder Bestellen nahe. Wie das mit Google-Profil und Website zusammenspielt, zeigt [Local SEO für Restaurants](https://localdominate.org/blog/local-seo-fuer-restaurants). Für Betriebe mit englischsprachigen Gästen gibt es unsere Seite [Restaurants (englische Seite)](https://localdominate.org/industries/restaurants).
 
 ## Bewertungen in Apple Karten
 
@@ -149,7 +149,7 @@ Ob auf Ihrer Ortskarte außerdem Bewertungen von Partnerplattformen erscheinen, 
 
 ## Daten mit Google und Website abgleichen
 
-Apple Business und das Google-Unternehmensprofil sind getrennte Systeme. Keines übernimmt Daten automatisch vom anderen. Pflegen Sie Name, Adresse, Telefonnummer, Website und Öffnungszeiten deshalb aus einer gemeinsamen Stammdatenliste und gleichen Sie beide Einträge nach jeder Änderung ab. So sehen Kunden auf dem iPhone dieselben Angaben wie bei Google.
+Apple Business und das Google-Unternehmensprofil sind getrennte Systeme. In den geprüften Apple-Hilfeseiten steht kein Import aus dem Google-Profil. Pflegen Sie Name, Adresse, Telefonnummer, Website und Öffnungszeiten deshalb aus einer gemeinsamen Stammdatenliste und gleichen Sie beide Einträge nach jeder Änderung ab. So sehen Kunden auf dem iPhone dieselben Angaben wie bei Google.
 
 *Apple Business und Google-Unternehmensprofil im Vergleich*
 
@@ -158,8 +158,8 @@ Apple Business und das Google-Unternehmensprofil sind getrennte Systeme. Keines 
 | Kosten | Kostenlos | Kostenlos |
 | Bewertungen | Gefällt mir oder Gefällt mir nicht je Kategorie, nicht in allen Ländern | Sterne mit Text |
 | Hinweise auf Angebote | Showcases, von Apple geprüft | Beiträge im Profil |
-| Weitere Kategorien | Bis zu 19 | Möglichst wenige, laut Google |
-| Anzeigen in der Karte | In DACH vorerst nicht | Über Google Ads |
+| Weitere Kategorien | Bis zu 19 | Nur einige, laut Google |
+| Anzeigen in der Karte | Für DACH hat Apple keine Angabe gemacht | Über Google Ads |
 | Veröffentlichte Ranking-Faktoren | Keine | Relevanz, Entfernung, Bekanntheit |
 
 Nehmen Sie Ihre Angaben im Google-Profil als Referenz, weil Sie diese am häufigsten pflegen, und übertragen Sie jede Änderung am selben Tag zu Apple, auf die Website und in die Verzeichnisse. Wie Sie Abweichungen systematisch finden, beschreibt [NAP-Konsistenz im Local SEO](https://localdominate.org/blog/nap-konsistenz-local-seo). Das Google-Profil selbst behandelt [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren), verbreitete Verzeichnisse je Land der [Local SEO Leitfaden](https://localdominate.org/blog/ultimate-guide-local-seo#firmendaten-verzeichnisse).
@@ -184,7 +184,7 @@ Nein. Apple hat Business Connect am 14. April 2026 durch Apple Business ersetzt.
 
 ### Kostet Apple Business etwas?
 
-Die Plattform ist laut Apple kostenlos. Kostenpflichtig sind Zusatzleistungen wie Anzeigen in Apple Karten, die es laut Apple vorerst nur in den USA und Kanada gibt, sowie einige Geräteleistungen, die nur in den USA angeboten werden.
+Die Plattform ist laut Apple kostenlos. Kostenpflichtig sind laut Apple Zusatzleistungen wie iCloud-Speicher oder AppleCare+ for Business. Anzeigen in Apple Karten kündigte Apple für Sommer 2026 in den USA und Kanada an, einen Preis nennt die Ankündigung nicht.
 
 ### Ist Apple Business in Deutschland, Österreich und der Schweiz verfügbar?
 
@@ -196,7 +196,7 @@ Die Prüfung der Organisation dauert laut Apple bis zu fünf Werktage, bei hohem
 
 ### Übernimmt Apple meine Daten aus dem Google-Unternehmensprofil?
 
-Nein, beide Systeme sind getrennt. Sie pflegen Apple Business selbst oder über einen Partner. Halten Sie Name, Adresse, Telefonnummer und Öffnungszeiten in beiden Einträgen identisch, damit Kunden überall dieselben Angaben sehen.
+Apple beschreibt in den geprüften Hilfeseiten keinen Import aus dem Google-Profil. Sie pflegen Apple Business selbst oder über einen Partner. Halten Sie Name, Adresse, Telefonnummer und Öffnungszeiten in beiden Einträgen identisch, damit Kunden überall dieselben Angaben sehen.
 
 ### Kann ich mein Ranking in Apple Karten verbessern?
 
@@ -211,6 +211,7 @@ Apple veröffentlicht keine Ranking-Faktoren. Belegt ist, dass passende Kategori
 - [About categories](https://support.apple.com/guide/business/about-categories-abcb5add1f54/web), Apple Business Hilfe
 - [Create your first showcase](https://support.apple.com/guide/business/create-your-first-showcase-abcb04e20054/web), Apple Business Hilfe
 - [Maintain location information accuracy](https://support.apple.com/guide/business/maintain-location-information-accuracy-abcb91c1d565/web), Apple Business Hilfe
+- [Insights for locations](https://support.apple.com/guide/business/abcbb749656b/web), Apple Business Hilfe
 - [Rate places and add photos in Maps on iPhone](https://support.apple.com/guide/iphone/rate-places-and-add-photos-iphc3e29e15d/ios), Apple iPhone-Benutzerhandbuch
 
 ---
