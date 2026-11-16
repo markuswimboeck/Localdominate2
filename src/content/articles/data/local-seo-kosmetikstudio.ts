@@ -20,7 +20,7 @@ const article: V4Article = {
     "Zeigen Sie Vorher-Nachher-Fotos nur mit Einwilligung der Kundin oder des Kunden und ohne Erfolgsversprechen.",
   ],
   publishedAt: "2026-10-18",
-  updatedAt: "2026-10-18",
+  updatedAt: "2026-11-14",
   readingTime: 9,
   sections: [
     {

@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-autowerkstatt
 markdown_url: https://localdominate.org/blog-md/local-seo-autowerkstatt.md
 language: de-DE
 published: 2026-01-19
-updated: 2026-10-10
+updated: 2026-11-14
 reading_time_minutes: 9
 category: "KFZ-Betriebe"
 author: LocalDominate Redaktion
@@ -161,4 +161,4 @@ Ja. Google erlaubt es, Kunden über einen Link oder QR-Code um eine Bewertung zu
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-11-14. Fehler gefunden? info@localdominate.org

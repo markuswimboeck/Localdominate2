@@ -125,7 +125,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 9,
     publishedAt: "2026-10-18",
-    updatedAt: "2026-10-18",
+    updatedAt: "2026-11-14",
     icon: "💅",
     keywords: ["seo kosmetikstudio", "kosmetikstudio google", "wimpernverlängerung seo", "nagelstudio seo", "kosmetikerin marketing", "kosmetikstudio werbung hwg"]
   },
@@ -196,7 +196,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-10-09",
+    updatedAt: "2026-11-14",
     icon: "🔍",
     keywords: ["local seo keywords", "keyword research", "local keywords"],
     featured: true
@@ -219,7 +219,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-10-09",
+    updatedAt: "2026-11-14",
     icon: "📍",
     keywords: ["google maps ranking verbessern", "maps ranking steigern", "google maps optimierung anleitung"],
     featured: true
@@ -286,7 +286,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "📊",
     keywords: ["google my business", "gmb optimize", "google business profile"]
   },
@@ -353,7 +353,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-01-07",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "🔧",
     keywords: ["contractor seo", "local seo contractors", "contractor marketing"]
   },
@@ -588,7 +588,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-01-24",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "🏨",
     keywords: ["hotel seo", "direktbuchungen", "local seo hotels", "google hotel ads", "booking alternative"],
     featured: false
@@ -682,7 +682,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 10,
     publishedAt: "2026-01-28",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "🗺️",
     keywords: ["google maps ranking signale", "ranking faktoren gewichtung", "local pack signale", "maps seo 2026", "proximity relevance prominence gewichtung"],
     featured: true
@@ -705,7 +705,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 10,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "🛡️",
     keywords: ["google maps spam", "spam melden", "fake bewertungen", "keyword stuffing", "google business spam", "spam erkennen"],
     featured: false
@@ -751,7 +751,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "🏆",
     keywords: ["case study", "google maps ranking", "local seo erfolg", "ranking verbessern", "fallstudie", "branchenvergleich"],
     featured: true
@@ -821,7 +821,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "🗺️",
     keywords: ["google maps audit", "maps audit template", "local seo audit", "gbp audit", "google maps checkliste", "maps ranking audit"],
     featured: false
@@ -893,7 +893,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 9,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "📅",
     keywords: ["monthly checklist", "monatliche checkliste", "local seo routine", "local seo pflege", "seo maintenance", "monatliches seo"],
     featured: false
@@ -1183,7 +1183,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 10,
     publishedAt: "2026-01-11",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "🏠",
     keywords: ["immobilienmakler seo", "makler marketing", "local seo immobilien", "objektanfragen"],
     featured: false
@@ -1229,7 +1229,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 9,
     publishedAt: "2026-01-19",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "🚗",
     keywords: ["autowerkstatt seo", "kfz marketing", "local seo werkstatt", "autohaus seo"],
     featured: false
@@ -1252,7 +1252,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 9,
     publishedAt: "2026-01-23",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "🐕",
     keywords: ["tierarzt seo", "tierpraxis marketing", "local seo tierarzt", "veterinär marketing"],
     featured: false
@@ -2639,7 +2639,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-01-12",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "📸",
     keywords: ["google business fotos", "gbp bilder", "google maps bilder", "unternehmensfotos", "foto optimierung"],
     featured: false
@@ -2731,7 +2731,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 9,
     publishedAt: "2026-01-30",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "💬",
     keywords: ["google business messaging", "gbp chat", "kundenkommunikation", "google chat", "messaging einrichten"],
     featured: false
@@ -2800,7 +2800,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2026-02-05",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "📁",
     keywords: ["google business kategorien", "gbp category", "branchenkategorie", "kategorie wählen", "unternehmenskategorie"],
     featured: false
@@ -3076,7 +3076,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-30",
     icon: "✅",
     keywords: ["gbp verifizierung", "google verifizierung fehlgeschlagen", "postkarte nicht erhalten", "verifizierungscode", "video verifizierung"]
   },
@@ -3120,7 +3120,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-30",
     icon: "📋",
     keywords: ["duplicate listing", "doppelte einträge", "google business duplicate", "duplicate entfernen", "mehrere google einträge"]
   },
@@ -3164,7 +3164,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "📉",
     keywords: ["ranking verschwunden", "google ranking weg", "ranking einbruch", "google penalty", "ranking verloren"]
   },
@@ -3186,7 +3186,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-30",
     icon: "👁️",
     keywords: ["gbp nicht sichtbar", "google business nicht gefunden", "profil nicht angezeigt", "maps eintrag fehlt", "gbp indexierung"]
   },
@@ -3208,7 +3208,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 12,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "🏢",
     keywords: ["gbp mehrere standorte", "multi location seo", "standortgruppen", "bulk upload", "filialisten google"]
   },
@@ -3230,7 +3230,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 11,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-10-30",
     icon: "🕐",
     keywords: ["gbp öffnungszeiten", "google business feiertage", "sonderöffnungszeiten", "betriebsferien eintragen", "öffnungszeiten ändern"]
   },
@@ -3252,7 +3252,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 9,
     publishedAt: "2025-01-10",
-    updatedAt: "2026-10-10",
+    updatedAt: "2026-11-14",
     icon: "🏷️",
     keywords: ["gbp attribute", "google business attribute", "barrierefreiheit", "lgbtq freundlich", "ausstattungsmerkmale"]
   },

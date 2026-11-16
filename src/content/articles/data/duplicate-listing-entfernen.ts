@@ -20,7 +20,7 @@ const article: V4Article = {
     "Nicht jeder zweite Eintrag ist ein Duplikat: Einzelne Fachkräfte, echte Abteilungen und eigenständige Marken am selben Ort dürfen unter Bedingungen eigene Profile haben.",
   ],
   publishedAt: "2025-01-10",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-30",
   readingTime: 11,
   sections: [
     {

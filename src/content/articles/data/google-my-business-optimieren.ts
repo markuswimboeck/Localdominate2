@@ -20,7 +20,7 @@ const article: V4Article = {
     "Geben Sie Mitarbeitern und Agenturen eigene Zugänge als Administrator, nicht Ihr Passwort, und behalten Sie selbst die Rolle als primärer Inhaber.",
   ],
   publishedAt: "2026-01-07",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 13,
   sections: [
     {

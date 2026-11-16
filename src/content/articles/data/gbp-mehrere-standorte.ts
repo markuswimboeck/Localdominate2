@@ -20,7 +20,7 @@ const article: V4Article = {
     "Jede Standortseite auf der Website braucht eigene, nützliche Inhalte und eigenes LocalBusiness-Markup. Austauschbare Städteseiten gelten als Brückenseiten.",
   ],
   publishedAt: "2025-01-10",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 12,
   sections: [
     {

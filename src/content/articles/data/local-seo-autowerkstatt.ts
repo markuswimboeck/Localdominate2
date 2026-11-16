@@ -21,7 +21,7 @@ const article: V4Article = {
     "Messen Sie Anrufe und Anfragen. Einzelne Positionen in der Suche schwanken je nach Standort des Suchenden.",
   ],
   publishedAt: "2026-01-19",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 9,
   sections: [
     {

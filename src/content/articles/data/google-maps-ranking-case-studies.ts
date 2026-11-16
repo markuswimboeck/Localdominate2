@@ -20,7 +20,7 @@ const article: V4Article = {
     "Laut Google kann es Stunden bis Monate dauern, bis Änderungen wirken. Planen Sie die Auswertung nach mehreren Wochen, nicht nach wenigen Tagen.",
   ],
   publishedAt: "2026-03-08",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 12,
   sections: [
     {

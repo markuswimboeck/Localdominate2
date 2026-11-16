@@ -20,7 +20,7 @@ const article: V4Article = {
     "Chat und „Fragen und Antworten“ gibt es im Unternehmensprofil nicht mehr. Sie gehören nicht mehr in ein Audit.",
   ],
   publishedAt: "2026-03-08",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 12,
   sections: [
     {

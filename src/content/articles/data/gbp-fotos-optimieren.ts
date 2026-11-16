@@ -20,7 +20,7 @@ const article: V4Article = {
     "Für Geotags in den Bilddaten und Dateinamen mit Keywords gibt es keine Google-Quelle. Google bestätigt keinen Ranking-Effekt von Fotos.",
   ],
   publishedAt: "2026-01-12",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 11,
   sections: [
     {

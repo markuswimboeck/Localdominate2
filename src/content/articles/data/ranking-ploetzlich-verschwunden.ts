@@ -20,7 +20,7 @@ const article: V4Article = {
     "Legen Sie während einer Prüfung oder eines Einspruchs kein zweites Profil an. Das macht die Lage schlechter.",
   ],
   publishedAt: "2025-01-10",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 11,
   sections: [
     {

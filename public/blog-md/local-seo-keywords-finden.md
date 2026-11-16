@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/local-seo-keywords-finden
 markdown_url: https://localdominate.org/blog-md/local-seo-keywords-finden.md
 language: de-DE
 published: 2026-01-07
-updated: 2026-10-09
+updated: 2026-11-14
 reading_time_minutes: 12
 category: "Strategie"
 author: LocalDominate Redaktion
@@ -228,4 +228,4 @@ In der Google Search Console im Leistungsbericht unter „Abfragen“ für Ihre 
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-09. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-11-14. Fehler gefunden? info@localdominate.org

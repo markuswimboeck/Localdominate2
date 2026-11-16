@@ -20,7 +20,7 @@ const article: V4Article = {
     "Keywords gehören nicht in den Firmennamen im Profil und nicht als Städteliste in den Text. Beides verstößt gegen Googles Richtlinien.",
   ],
   publishedAt: "2026-01-07",
-  updatedAt: "2026-10-09",
+  updatedAt: "2026-11-14",
   readingTime: 12,
   sections: [
     {

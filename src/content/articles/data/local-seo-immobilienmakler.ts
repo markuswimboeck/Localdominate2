@@ -20,7 +20,7 @@ const article: V4Article = {
     "Messen Sie Anrufe, Wegbeschreibungen und Anfragen. Positionen allein sagen wenig darüber, ob Anfragen kommen.",
   ],
   publishedAt: "2026-01-11",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 10,
   sections: [
     {

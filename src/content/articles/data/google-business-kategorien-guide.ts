@@ -20,7 +20,7 @@ const article: V4Article = {
     "Eine neue oder geänderte Kategorie kann laut Google eine erneute Bestätigung des Profils auslösen.",
   ],
   publishedAt: "2026-02-05",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 11,
   sections: [
     {

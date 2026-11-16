@@ -241,7 +241,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Local SEO für Handwerker: So finden Kunden Ihren Betrieb
 **URL:** https://localdominate.org/blog/local-seo-handwerker
 **Markdown:** https://localdominate.org/blog-md/local-seo-handwerker.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Handwerker werden lokal gefunden, wenn drei Dinge stimmen: ein Google-Unternehmensprofil mit ausgeblendeter Adresse und realistischem Einzugsgebiet, eine Website mit einer Seite je Leistung wie Badsanierung oder Wärmepumpe und echte Bewertungen nach jeder Abnahme. Dazu kommen ehrliche Notdienstzeiten, Fotos eigener Arbeiten und sichtbare Nachweise wie Meistertitel oder Innungsmitgliedschaft.
 
@@ -259,7 +259,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Local SEO für Hotels: So holen Sie mehr Direktbuchungen über Google
 **URL:** https://localdominate.org/blog/local-seo-hotels
 **Markdown:** https://localdominate.org/blog-md/local-seo-hotels.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Local SEO für Hotels heißt: Ihr Haus erscheint in Google Maps und in der Hotelsuche mit vollständigem Hotelprofil, echten Fotos und Bewertungen, und neben den Buchungsportalen steht Ihre eigene Website als Buchungsoption. Dafür brauchen Sie ein verifiziertes Profil, gepflegte Hoteldetails und eine Buchungsmaschine oder einen Channel Manager, der Ihre Preise an Google übermittelt.
 
@@ -268,7 +268,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Local SEO für Immobilienmakler: So kommen Verkäufer und Käufer über Google zu Ihnen
 **URL:** https://localdominate.org/blog/local-seo-immobilienmakler
 **Markdown:** https://localdominate.org/blog-md/local-seo-immobilienmakler.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Makler werden über Local SEO gefunden, wenn Google ihr Unternehmensprofil, ihre Website und ihre Bewertungen einem Ort und einer Leistung zuordnen kann. Verkäufer suchen einen Makler vor Ort, Käufer suchen ein Objekt in einem Stadtteil. Wichtig sind ein korrektes Profil mit einem Eintrag pro Büro, Seiten mit echten Inhalten und Bewertungen, die Sie allen Kunden auf dieselbe Weise anbieten.
 
@@ -322,7 +322,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Local SEO für Tierärzte und Tierpraxen
 **URL:** https://localdominate.org/blog/local-seo-tierarzt
 **Markdown:** https://localdominate.org/blog-md/local-seo-tierarzt.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Local SEO sorgt dafür, dass Ihre Tierarztpraxis bei Suchen mit Ortsbezug in Google Maps und im Kartenblock der Suche erscheint. Google sortiert nach Relevanz, Entfernung und Bekanntheit. Den größten Einfluss haben ein vollständiges Unternehmensprofil, eine Website mit klaren Leistungs- und Notdienstangaben, übereinstimmende Firmendaten und echte Bewertungen, die Sie nach Googles Regeln sammeln.
 
@@ -369,7 +369,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Local SEO jeden Monat: die Routine-Checkliste mit Wochenplan
 **URL:** https://localdominate.org/blog/local-seo-monthly-checklist
 **Markdown:** https://localdominate.org/blog-md/local-seo-monthly-checklist.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Teilen Sie die Pflege auf vier Wochen auf: Woche 1 Profil und Bewertungen, Woche 2 Website und Technik, Woche 3 Einträge und lokale Erwähnungen, Woche 4 Messen und Monatsbericht. Jede Woche hat wenige feste Aufgaben. Wichtiger als Vollständigkeit ist, dass die Routine jeden Monat stattfindet.
 
@@ -422,7 +422,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Plötzlich nicht mehr in Google Maps: Ursachen finden und richtig handeln
 **URL:** https://localdominate.org/blog/ranking-ploetzlich-verschwunden
 **Markdown:** https://localdominate.org/blog-md/ranking-ploetzlich-verschwunden.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Prüfen Sie zuerst, ob der Betrieb wirklich verschwunden ist: Suche nach dem Namen, Messung von mehreren Punkten im Einzugsgebiet. Dann folgt der Profilstatus (gesperrt, eingeschränkt, als Duplikat eingestuft), danach kürzliche Änderungen an Name, Adresse oder Kategorie. Erst wenn das alles stimmt, lohnt der Blick auf Wettbewerber, Spam und bestätigte Google-Updates.
 
@@ -495,7 +495,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Google-Maps-Audit: die Vorlage zum Ausfüllen für Ihr Unternehmensprofil
 **URL:** https://localdominate.org/blog/google-maps-audit-template
 **Markdown:** https://localdominate.org/blog-md/google-maps-audit-template.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Ein Google-Maps-Audit prüft in fester Reihenfolge: Inhaberschaft und Status des Profils, Stammdaten, Kategorien und Leistungen, Fotos und Beiträge, Rezensionen, Sichtbarkeit im Einzugsgebiet und die verlinkte Website. Für jeden Punkt notieren Sie Soll, Ist und Status. Zuerst beheben Sie, was gegen Googles Richtlinien verstößt oder falsch ist, dann, was fehlt.
 
@@ -513,7 +513,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Google-Maps-Ranking-Fallstudien: Ergebnisse prüfen und selbst sauber dokumentieren
 **URL:** https://localdominate.org/blog/google-maps-ranking-case-studies
 **Markdown:** https://localdominate.org/blog-md/google-maps-ranking-case-studies.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Eine belastbare Fallstudie zum Google-Maps-Ranking braucht eine dokumentierte Ausgangslage, feste Suchbegriffe und Messpunkte, ein Protokoll aller Änderungen mit Datum und denselben Messungen danach. Dazu gehören Leistungsdaten wie Anrufe und Websiteklicks, nicht nur Positionen. Ohne diese Angaben ist eine Vorher-nachher-Geschichte eine Behauptung, kein Beleg. Mit ihnen können Sie Ihre eigenen Ergebnisse ehrlich beurteilen.
 
@@ -522,7 +522,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Google-Maps-Ranking verbessern: messen, verstehen, gezielt handeln
 **URL:** https://localdominate.org/blog/google-maps-ranking-verbessern
 **Markdown:** https://localdominate.org/blog-md/google-maps-ranking-verbessern.md
-**Aktualisiert:** 2026-10-09
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Google sortiert Treffer in Maps nach Relevanz, Entfernung und Bekanntheit, und eine bessere Position lässt sich laut Google nicht kaufen. Messen Sie zuerst mit einem Raster aus Punkten über Ihr Einzugsgebiet, wo Sie heute stehen. Verbessern Sie dann Kategorie, Leistungen und Daten im Profil, sammeln Sie laufend echte Bewertungen und stärken Sie Website und lokale Erwähnungen.
 
@@ -531,7 +531,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Google-Maps-Ranking-Faktoren: was Google bestätigt, was Fachleute vermuten und was verboten ist
 **URL:** https://localdominate.org/blog/google-maps-seo-ranking-faktoren
 **Markdown:** https://localdominate.org/blog-md/google-maps-seo-ranking-faktoren.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Google nennt drei Faktoren für das lokale Ranking: Relevanz, Entfernung und Bekanntheit. Konkret bestätigt Google, dass ein bestätigtes Profil, vollständige und korrekte Angaben, Links auf Ihre Website sowie mehr Rezensionen und positive Bewertungen helfen. Alles Weitere, besonders Prozent-Gewichtungen, stammt aus Umfragen und Tests von Fachleuten. Das sind fundierte Meinungen, keine Messwerte von Google.
 
@@ -549,7 +549,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Google-Maps-Spam erkennen und melden: so schützen Sie Ihren Markt und Ihr eigenes Profil
 **URL:** https://localdominate.org/blog/google-maps-spam-erkennen
 **Markdown:** https://localdominate.org/blog-md/google-maps-spam-erkennen.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Spam in Google Maps sind Einträge und Beiträge, die gegen Googles Richtlinien verstoßen: Zusätze im Firmennamen, Scheinadressen, doppelte Profile, gekaufte oder erzwungene Bewertungen. Melden Sie einzelne Fälle in Maps über „Änderung vorschlagen“, Betrug bei Name, Telefonnummer oder Website über Googles Beschwerdeformular und unzulässige Rezensionen über die Meldefunktion. Sammeln Sie die nötigen Angaben vorher, denn unvollständige Formulare bearbeitet Google nicht.
 
@@ -569,7 +569,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Attribute im Google-Unternehmensprofil richtig nutzen
 **URL:** https://localdominate.org/blog/gbp-attribute-richtig-nutzen
 **Markdown:** https://localdominate.org/blog-md/gbp-attribute-richtig-nutzen.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Attribute sind Ja-oder-Nein-Angaben im Unternehmensprofil, etwa WLAN, Sitzplätze im Freien, Zahlungsarten oder ein rollstuhlgerechter Eingang. Sie erscheinen laut Google im Profil in der Suche und in Maps und können helfen, bei Suchen nach solchen Merkmalen zu erscheinen. Einige setzen Sie selbst, andere stammen aus Angaben von Kunden. Welche verfügbar sind, hängt von Land und Kategorie ab.
 
@@ -578,7 +578,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Fotos und Videos im Google-Unternehmensprofil richtig einsetzen
 **URL:** https://localdominate.org/blog/gbp-fotos-optimieren
 **Markdown:** https://localdominate.org/blog-md/gbp-fotos-optimieren.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Laden Sie eigene, scharfe und kaum bearbeitete Fotos als JPG oder PNG hoch, zwischen 10 KB und 5 MB, empfohlen 720 × 720 Pixel. Videos dürfen höchstens 30 Sekunden lang und 75 MB groß sein. Zeigen Sie Außenansicht, Räume, Arbeit, Produkte und Team. Dass Fotos das Ranking verbessern, sagt Google nicht. Sie helfen Kunden bei der Entscheidung.
 
@@ -587,7 +587,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Mehrere Standorte bei Google verwalten: ein Leitfaden für 2 bis 50 Filialen
 **URL:** https://localdominate.org/blog/gbp-mehrere-standorte
 **Markdown:** https://localdominate.org/blog-md/gbp-mehrere-standorte.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Jeder Standort, der während der Öffnungszeiten mit eigenem Personal besetzt ist, bekommt ein eigenes Unternehmensprofil. Alle Standorte tragen denselben echten Namen, mit Ortszusatz nur, wenn der Standort in der realen Welt durchgehend so heißt, und möglichst dieselben Kategorien. Verwalten Sie die Profile in einer Standortgruppe mit klaren Rollen. Ab zehn Standorten ist eine Sammelbestätigung möglich. Auf der Website bekommt jeder Standort eine eigene Seite mit eigenen Inhalten.
 
@@ -596,7 +596,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Google-Unternehmensprofil nicht in der Suche sichtbar: Ursachen finden und beheben
 **URL:** https://localdominate.org/blog/gbp-nicht-in-suche-sichtbar
 **Markdown:** https://localdominate.org/blog-md/gbp-nicht-in-suche-sichtbar.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-10-30
 
 **Kurzantwort:** Erscheint Ihr Profil nicht einmal bei der Suche nach Ihrem Namen und Ort, liegt fast immer ein Statusproblem vor: nicht bestätigt, noch in Prüfung, gesperrt oder als Duplikat markiert. Erscheint es beim Namen, aber nicht bei Suchen wie „Elektriker Graz“, ist es sichtbar und verliert nur im Ranking. Dort zählen Relevanz, Entfernung und Bekanntheit.
 
@@ -605,7 +605,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Öffnungszeiten, Feiertage und Sonderzeiten im Google-Unternehmensprofil
 **URL:** https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage
 **Markdown:** https://localdominate.org/blog-md/gbp-oeffnungszeiten-sondertage.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-10-30
 
 **Kurzantwort:** Tragen Sie im Unternehmensprofil die regulären Zeiten ein, zu denen Kunden Sie erreichen. Für Feiertage und Schließungen bis zu sechs Tagen nutzen Sie spezielle Öffnungszeiten, ab sieben Tagen den Status „vorübergehend geschlossen“. Saisonbetriebe tragen in der Saison reguläre Zeiten ein und sind außerhalb vorübergehend geschlossen. Hotels und Betriebe nur mit Termin geben laut Google keine Zeiten an.
 
@@ -614,7 +614,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Google-Profil lässt sich nicht bestätigen: Ursachen und Lösungen
 **URL:** https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen
 **Markdown:** https://localdominate.org/blog-md/gbp-verifizierung-fehlgeschlagen.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-10-30
 
 **Kurzantwort:** Scheitert die Bestätigung (Verifizierung), passen meistens Profil und Wirklichkeit nicht zusammen: Der Name steht nicht dauerhaft am Gebäude, die Adresse ist ein virtuelles Büro, das Video zeigt zu wenig oder Name und Adresse wurden kurz vorher geändert. Gleichen Sie zuerst Ihre Angaben mit Schild und Standort ab, beheben Sie Richtlinienverstöße und bestätigen Sie dann erneut mit einer angebotenen Methode.
 
@@ -623,7 +623,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Google Business Kategorien: So wählen Sie die richtige
 **URL:** https://localdominate.org/blog/google-business-kategorien-guide
 **Markdown:** https://localdominate.org/blog-md/google-business-kategorien-guide.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Wählen Sie als Hauptkategorie die genaueste Kategorie, die beschreibt, was Ihr Betrieb ist, nicht was er hat. Ergänzen Sie nur weitere Kategorien, die ebenfalls zutreffen. Google verlangt so wenige und so genaue Kategorien wie möglich. Die Kategorie beeinflusst das lokale Ranking und schaltet je nach Branche Funktionen frei, etwa Speisekarte, Buchungsschaltfläche oder Hotelausstattung.
 
@@ -632,7 +632,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Google Unternehmensprofil optimieren: die praktische Anleitung
 **URL:** https://localdominate.org/blog/google-my-business-optimieren
 **Markdown:** https://localdominate.org/blog-md/google-my-business-optimieren.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Das Google Unternehmensprofil, früher Google My Business, ist Ihr kostenloser Eintrag in der Google-Suche und in Maps. Optimieren heißt: das Profil übernehmen und bestätigen, Name, Kategorie, Adresse oder Einzugsgebiet und Öffnungszeiten nach Googles Richtlinien eintragen, Leistungen, Beschreibung und echte Fotos ergänzen, den Zugriff sauber regeln und die Leistungsdaten monatlich ansehen.
 
@@ -661,7 +661,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Doppelte Google-Einträge finden und entfernen: alle offiziellen Wege
 **URL:** https://localdominate.org/blog/duplicate-listing-entfernen
 **Markdown:** https://localdominate.org/blog-md/duplicate-listing-entfernen.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-10-30
 
 **Kurzantwort:** Google erlaubt ein Profil pro Unternehmen und Standort. Ein Duplikat bereinigen Sie je nach Lage auf einem von drei Wegen: ein eigenes doppeltes Profil aus dem Konto entfernen, beim fremden Inhaber Zugriff anfordern oder in Maps über „Änderung vorschlagen“ ein Duplikat melden. Bei einer Zusammenführung legt Google die Rezensionen zusammen, Antworten darauf können verloren gehen.
 
@@ -670,7 +670,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Google Business Messaging eingestellt: So erreichen Kunden Sie heute
 **URL:** https://localdominate.org/blog/google-business-messaging
 **Markdown:** https://localdominate.org/blog-md/google-business-messaging.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Google hat den Chat im Unternehmensprofil, oft Google Business Messaging genannt, am 31. Juli 2024 eingestellt. Seitdem können Kunden Ihnen über das Profil keine Google-Nachrichten mehr schicken. Sie erreichen Sie weiter per Anruf, über die Website und in ausgewählten Regionen per SMS oder WhatsApp. Wichtig sind heute eine erreichbare Telefonnummer, ein schnelles Kontaktformular, Buchungslinks und eine feste Antwortroutine.
 
@@ -732,7 +732,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Local SEO für Autowerkstätten: so werden Sie in Ihrer Region gefunden
 **URL:** https://localdominate.org/blog/local-seo-autowerkstatt
 **Markdown:** https://localdominate.org/blog-md/local-seo-autowerkstatt.md
-**Aktualisiert:** 2026-10-10
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Local SEO sorgt dafür, dass Ihre Werkstatt bei Suchen mit Ortsbezug in Google Maps und im Kartenblock erscheint. Google sortiert nach Relevanz, Entfernung und Bekanntheit. Die wichtigsten Bausteine sind ein genau gepflegtes Unternehmensprofil, eine Seite je Leistung, einheitliche Firmendaten und echte Bewertungen, die Sie nach den Regeln einholen.
 
@@ -991,7 +991,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### SEO für Kosmetikstudios: So finden Kunden Ihre Behandlungen bei Google
 **URL:** https://localdominate.org/blog/local-seo-kosmetikstudio
 **Markdown:** https://localdominate.org/blog-md/local-seo-kosmetikstudio.md
-**Aktualisiert:** 2026-10-18
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Kosmetikstudios werden über einzelne Behandlungen gesucht, nicht über das Wort „Kosmetik“. Deshalb braucht jede wichtige Behandlung eine eigene Seite mit Ablauf, Dauer und Preis, dazu ein Google-Profil mit passender Kategorie und allen Leistungen. Bei Werbeaussagen zu Wirkung und Heilung sowie bei Geräten mit Licht oder Strom gelten gesetzliche Grenzen.
 
@@ -1267,7 +1267,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Local SEO Keywords finden: So suchen Ihre Kunden wirklich
 **URL:** https://localdominate.org/blog/local-seo-keywords-finden
 **Markdown:** https://localdominate.org/blog-md/local-seo-keywords-finden.md
-**Aktualisiert:** 2026-10-09
+**Aktualisiert:** 2026-11-14
 
 **Kurzantwort:** Lokale Keywords sind die Suchbegriffe, mit denen Menschen einen Betrieb in ihrer Nähe suchen, etwa „Physiotherapie Hausbesuch Graz“ oder „Hotel mit Hund Zillertal“. Sie finden sie in der Sprache Ihrer Kunden, in Googles Suchvorschlägen, in der Search Console und in den Suchanfragen Ihres Unternehmensprofils. Danach ordnen Sie jedem wichtigen Begriff genau eine passende Seite zu.
 

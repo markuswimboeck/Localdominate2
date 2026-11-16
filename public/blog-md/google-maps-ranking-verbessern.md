@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/google-maps-ranking-verbessern
 markdown_url: https://localdominate.org/blog-md/google-maps-ranking-verbessern.md
 language: de-DE
 published: 2026-01-07
-updated: 2026-10-09
+updated: 2026-11-14
 reading_time_minutes: 12
 category: "Google Maps"
 author: LocalDominate Redaktion
@@ -215,4 +215,4 @@ Selbst gemacht kostet es nur Zeit. Bei LocalDominate kostet der Profil Quick-Fix
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-09. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-11-14. Fehler gefunden? info@localdominate.org

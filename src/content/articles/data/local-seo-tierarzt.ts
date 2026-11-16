@@ -20,7 +20,7 @@ const article: V4Article = {
     "Messen Sie Anrufe, Routenanfragen und Terminbuchungen, nicht nur Platzierungen.",
   ],
   publishedAt: "2026-01-23",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 9,
   sections: [
     {

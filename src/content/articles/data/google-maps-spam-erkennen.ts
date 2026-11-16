@@ -20,7 +20,7 @@ const article: V4Article = {
     "Prüfen Sie vor jeder Meldung Ihr eigenes Profil. Wer selbst gegen Regeln verstößt, kann ebenfalls gemeldet werden.",
   ],
   publishedAt: "2026-03-08",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 10,
   sections: [
     {

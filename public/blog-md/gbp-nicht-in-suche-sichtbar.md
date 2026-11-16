@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/gbp-nicht-in-suche-sichtbar
 markdown_url: https://localdominate.org/blog-md/gbp-nicht-in-suche-sichtbar.md
 language: de-DE
 published: 2025-01-10
-updated: 2026-10-10
+updated: 2026-10-30
 reading_time_minutes: 11
 category: "Google Unternehmensprofil"
 author: LocalDominate Redaktion
@@ -227,4 +227,4 @@ Ja. Im kostenlosen Check sehen wir uns Profil und Website an und schicken Ihnen 
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-30. Fehler gefunden? info@localdominate.org

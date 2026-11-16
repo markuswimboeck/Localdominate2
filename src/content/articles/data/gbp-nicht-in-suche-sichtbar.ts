@@ -20,7 +20,7 @@ const article: V4Article = {
     "War das Profil früher gut sichtbar und ist plötzlich weg, lesen Sie den Artikel zum plötzlichen Rankingverlust. Dieser Artikel behandelt Profile, die nie oder derzeit gar nicht erscheinen.",
   ],
   publishedAt: "2025-01-10",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-10-30",
   readingTime: 11,
   sections: [
     {

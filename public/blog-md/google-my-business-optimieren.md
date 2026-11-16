@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/google-my-business-optimieren
 markdown_url: https://localdominate.org/blog-md/google-my-business-optimieren.md
 language: de-DE
 published: 2026-01-07
-updated: 2026-10-10
+updated: 2026-11-14
 reading_time_minutes: 13
 category: "Google Unternehmensprofil"
 author: LocalDominate Redaktion
@@ -275,4 +275,4 @@ Selbst gemacht kostet es nur Zeit. Bei LocalDominate kostet der Profil Quick-Fix
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-11-14. Fehler gefunden? info@localdominate.org

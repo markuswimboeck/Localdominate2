@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/google-business-kategorien-guide
 markdown_url: https://localdominate.org/blog-md/google-business-kategorien-guide.md
 language: de-DE
 published: 2026-02-05
-updated: 2026-10-10
+updated: 2026-11-14
 reading_time_minutes: 11
 category: "Google Unternehmensprofil"
 author: LocalDominate Redaktion
@@ -186,4 +186,4 @@ Die Kategorien sind Teil des Profil Quick-Fix für 79 €, bei dem wir Ihr Unter
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-11-14. Fehler gefunden? info@localdominate.org

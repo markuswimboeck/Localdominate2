@@ -20,7 +20,7 @@ const article: V4Article = {
     "Mehr Anfragen bringt nicht ein neuer Kanal, sondern eine feste Antwortroutine mit klaren Zuständigkeiten und Zeiten.",
   ],
   publishedAt: "2026-01-30",
-  updatedAt: "2026-10-10",
+  updatedAt: "2026-11-14",
   readingTime: 9,
   sections: [
     {

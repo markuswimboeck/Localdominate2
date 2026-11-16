@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/gbp-oeffnungszeiten-sondertage
 markdown_url: https://localdominate.org/blog-md/gbp-oeffnungszeiten-sondertage.md
 language: de-DE
 published: 2025-01-10
-updated: 2026-10-10
+updated: 2026-10-30
 reading_time_minutes: 11
 category: "Google Unternehmensprofil"
 author: LocalDominate Redaktion
@@ -230,4 +230,4 @@ Prüfen Sie zuerst, ob für den Tag spezielle Öffnungszeiten gelten, denn sie �
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-10. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-30. Fehler gefunden? info@localdominate.org
