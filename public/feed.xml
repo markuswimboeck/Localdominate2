@@ -9,7 +9,7 @@
     <description>Expertenwissen zu Local SEO, Google Maps Optimierung und lokaler Suchmaschinenoptimierung für Unternehmen in Deutschland, Österreich und der Schweiz.</description>
     <language>de-DE</language>
     <copyright>© 2026 LocalDominate. Alle Rechte vorbehalten.</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:00:00 +0000</lastBuildDate>
     <managingEditor>info@localdominate.org (LocalDominate)</managingEditor>
     <webMaster>info@localdominate.org (LocalDominate)</webMaster>
     <ttl>60</ttl>
@@ -23,6 +23,16 @@
     <atom:link href="https://localdominate.org/feed.xml" rel="self" type="application/rss+xml"/>
 
     <!-- Erzeugt mit npm run geo:files aus den V4-Artikeldaten -->
+
+    <item>
+      <title>Google Unternehmensprofil erstellen: Schritt-für-Schritt-Anleitung für Deutschland, Österreich und die Schweiz</title>
+      <link>https://localdominate.org/blog/google-unternehmensprofil-erstellen</link>
+      <guid isPermaLink="true">https://localdominate.org/blog/google-unternehmensprofil-erstellen</guid>
+      <pubDate>Sat, 14 Nov 2026 07:00:00 +0000</pubDate>
+      <dc:creator>LocalDominate</dc:creator>
+      <category>Google Unternehmensprofil</category>
+      <description><![CDATA[Google Unternehmensprofil kostenlos erstellen: Voraussetzungen, Name, Kategorie, Einzugsgebiet, Bestätigung, Erstellen lassen und typische Fehler.]]></description>
+    </item>
 
     <item>
       <title>SEO für Kosmetikstudios: So finden Kunden Ihre Behandlungen bei Google</title>
@@ -512,16 +522,6 @@
       <dc:creator>LocalDominate</dc:creator>
       <category>Vorlage</category>
       <description><![CDATA[Tabellenvorlage für lokale Suchbegriffe: Spalten, Quellen, Bewertung und Seitenzuordnung. So halten Sie Ihre Keyword-Liste mit wenig Aufwand aktuell.]]></description>
-    </item>
-
-    <item>
-      <title>Local Link Building Blueprint: Der 90-Tage-Plan mit Vorlagen für lokale Links</title>
-      <link>https://localdominate.org/blog/local-link-building-blueprint</link>
-      <guid isPermaLink="true">https://localdominate.org/blog/local-link-building-blueprint</guid>
-      <pubDate>Sun, 08 Mar 2026 07:00:00 +0000</pubDate>
-      <dc:creator>LocalDominate</dc:creator>
-      <category>Vorlage</category>
-      <description><![CDATA[90-Tage-Plan für lokale Links: Kammern, Vereine, Partner, Presse und Veranstaltungen Woche für Woche, mit Tracking-Tabelle und E-Mail-Vorlagen auf Deutsch.]]></description>
     </item>
   </channel>
 </rss>

@@ -33,7 +33,7 @@ const article: V4Article = {
         {
           t: "steps",
           items: [
-            { title: "Profil übernehmen und bestätigen", text: "Klären, wer Inhaber ist, und das Profil bestätigen. Anleitung: [Google Unternehmensprofil optimieren](/blog/google-my-business-optimieren). Scheitert die Bestätigung, hilft [Google-Profil lässt sich nicht bestätigen](/blog/gbp-verifizierung-fehlgeschlagen)." },
+            { title: "Profil anlegen oder übernehmen und bestätigen", text: "Gibt es noch kein Profil, legen Sie es nach der Anleitung [Google Unternehmensprofil erstellen](/blog/google-unternehmensprofil-erstellen) an. Sonst klären Sie, wer Inhaber ist, und bestätigen das Profil. Anleitung: [Google Unternehmensprofil optimieren](/blog/google-my-business-optimieren). Scheitert die Bestätigung, hilft [Google-Profil lässt sich nicht bestätigen](/blog/gbp-verifizierung-fehlgeschlagen)." },
             { title: "Hauptkategorie festlegen", text: "Die Kategorie entscheidet mit darüber, bei welchen Suchen Sie erscheinen: [Google Business Kategorien richtig wählen](/blog/google-business-kategorien-guide)." },
             { title: "Stammdaten überall gleich halten", text: "Name, Adresse und Telefonnummer sollten im Profil, auf der Website und in Verzeichnissen übereinstimmen: [NAP-Konsistenz](/blog/nap-konsistenz-local-seo)." },
             { title: "Profil vervollständigen", text: "Öffnungszeiten, Attribute, Leistungen, Fotos. Die einzelnen Anleitungen stehen im nächsten Abschnitt." },

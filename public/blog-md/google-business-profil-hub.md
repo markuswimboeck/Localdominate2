@@ -35,7 +35,7 @@ Das Google-Unternehmensprofil, früher Google My Business, ist Ihr kostenloser E
 
 Wer neu anfängt oder ein vernachlässigtes Profil übernimmt, geht am besten in fünf Schritten vor. Jeder Schritt hat eine eigene Anleitung.
 
-1. **Profil übernehmen und bestätigen.** Klären, wer Inhaber ist, und das Profil bestätigen. Anleitung: [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren). Scheitert die Bestätigung, hilft [Google-Profil lässt sich nicht bestätigen](https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen).
+1. **Profil anlegen oder übernehmen und bestätigen.** Gibt es noch kein Profil, legen Sie es nach der Anleitung [Google Unternehmensprofil erstellen](https://localdominate.org/blog/google-unternehmensprofil-erstellen) an. Sonst klären Sie, wer Inhaber ist, und bestätigen das Profil. Anleitung: [Google Unternehmensprofil optimieren](https://localdominate.org/blog/google-my-business-optimieren). Scheitert die Bestätigung, hilft [Google-Profil lässt sich nicht bestätigen](https://localdominate.org/blog/gbp-verifizierung-fehlgeschlagen).
 2. **Hauptkategorie festlegen.** Die Kategorie entscheidet mit darüber, bei welchen Suchen Sie erscheinen: [Google Business Kategorien richtig wählen](https://localdominate.org/blog/google-business-kategorien-guide).
 3. **Stammdaten überall gleich halten.** Name, Adresse und Telefonnummer sollten im Profil, auf der Website und in Verzeichnissen übereinstimmen: [NAP-Konsistenz](https://localdominate.org/blog/nap-konsistenz-local-seo).
 4. **Profil vervollständigen.** Öffnungszeiten, Attribute, Leistungen, Fotos. Die einzelnen Anleitungen stehen im nächsten Abschnitt.

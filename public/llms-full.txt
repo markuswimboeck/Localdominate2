@@ -1,6 +1,6 @@
 # LocalDominate - Full LLM information file
 # Version: 4.1
-# Last Updated: 2026-10-18
+# Last Updated: 2026-11-14
 # Language: English (company facts), German (article summaries and SEO lexicon)
 # Primary Domain: https://localdominate.org
 
@@ -19,7 +19,7 @@ founder: Markus Wimböck
 contact: info@localdominate.org
 main_language: en-GB (page /de: de-DE; blog and SEO lexicon: mostly de-DE)
 license: Quoting with attribution is allowed
-last_update: 2026-10-18
+last_update: 2026-11-14
 citation_required: true
 preferred_citation: "LocalDominate (2026), localdominate.org"
 ```
@@ -635,6 +635,15 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 **Aktualisiert:** 2026-10-10
 
 **Kurzantwort:** Das Google Unternehmensprofil, früher Google My Business, ist Ihr kostenloser Eintrag in der Google-Suche und in Maps. Optimieren heißt: das Profil übernehmen und bestätigen, Name, Kategorie, Adresse oder Einzugsgebiet und Öffnungszeiten nach Googles Richtlinien eintragen, Leistungen, Beschreibung und echte Fotos ergänzen, den Zugriff sauber regeln und die Leistungsdaten monatlich ansehen.
+
+---
+
+#### Google Unternehmensprofil erstellen: Schritt-für-Schritt-Anleitung für Deutschland, Österreich und die Schweiz
+**URL:** https://localdominate.org/blog/google-unternehmensprofil-erstellen
+**Markdown:** https://localdominate.org/blog-md/google-unternehmensprofil-erstellen.md
+**Aktualisiert:** 2026-11-14
+
+**Kurzantwort:** Ein Google Unternehmensprofil erstellen Sie kostenlos unter business.google.com/add. Sie brauchen ein Google-Konto und einen Betrieb mit persönlichem Kundenkontakt zu den angegebenen Zeiten. Prüfen Sie zuerst, ob es schon ein Profil gibt. Dann geben Sie Name, Hauptkategorie, Adresse oder Einzugsgebiet und Kontaktdaten ein und bestätigen den Betrieb mit einer Methode, die Google Ihnen anbietet.
 
 ---
 
@@ -2379,7 +2388,7 @@ Bei Fragen zur Nutzung unserer Inhalte durch AI-Systeme:
 
 # Ende von llms-full.txt
 # Version: 4.1 — Quotable Corpus 2026
-# Letzte Aktualisierung: 2026-10-18
+# Letzte Aktualisierung: 2026-11-14
 # Kontakt: info@localdominate.org
 
 ---
