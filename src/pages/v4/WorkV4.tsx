@@ -56,6 +56,7 @@ export default function WorkV4() {
         title="Selected Work & Case Studies – LocalDominate"
         description="Selected projects from LocalDominate: a US e-commerce brand launch, an AI-native travel platform, a non-profit web platform and a hotel direct-booking concept."
         canonicalUrl={PAGE_URL}
+        alternateUrls={{ en: PAGE_URL, ar: PAGE_URL.replace("localdominate.org/", "localdominate.org/ar/") }}
         lang="en"
         jsonLd={WORK_JSON_LD}
       />
