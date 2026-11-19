@@ -2,7 +2,7 @@
 title: "LocalDominate Blog Markdown Corpus"
 url: https://localdominate.org/blog-md/index.md
 language: de-DE
-updated: 2026-11-14
+updated: 2026-11-19
 article_count: 167
 license: https://creativecommons.org/licenses/by/4.0/
 ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler ohne JavaScript-Ausführung."
@@ -133,7 +133,7 @@ ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler o
 - [Local SEO für Optiker und Hörakustiker: Profil, Sehtest, Hörtest und Werberecht](https://localdominate.org/blog-md/local-seo-optiker.md) — Kategorie: Branchen; HTML: https://localdominate.org/blog/local-seo-optiker; Aktualisiert: 2026-10-12
 - [SEO für Physiotherapie und Heilpraktiker: Leistungen, Verordnung, Hausbesuche und Werberecht](https://localdominate.org/blog-md/local-seo-physiotherapie.md) — Kategorie: Branchen; HTML: https://localdominate.org/blog/local-seo-physiotherapie; Aktualisiert: 2026-10-12
 - [Local SEO Ranking Faktoren erklärt: Relevanz, Entfernung und Bekanntheit mit Beispielen](https://localdominate.org/blog-md/local-seo-ranking-faktoren-erklaert.md) — Kategorie: Grundlagen; HTML: https://localdominate.org/blog/local-seo-ranking-faktoren-erklaert; Aktualisiert: 2026-10-12
-- [Local-SEO-Reporting: die Vorlage für einen Monatsbericht auf einer Seite](https://localdominate.org/blog-md/local-seo-reporting-template.md) — Kategorie: Messen; HTML: https://localdominate.org/blog/local-seo-reporting-template; Aktualisiert: 2026-10-13
+- [Local-SEO-Reporting: die Vorlage für einen Monatsbericht auf einer Seite](https://localdominate.org/blog-md/local-seo-reporting-template.md) — Kategorie: Messen; HTML: https://localdominate.org/blog/local-seo-reporting-template; Aktualisiert: 2026-11-19
 - [Local SEO in 12 Wochen: Der Wochenplan zum Abarbeiten](https://localdominate.org/blog-md/local-seo-roadmap-90-tage.md) — Kategorie: Planung; HTML: https://localdominate.org/blog/local-seo-roadmap-90-tage; Aktualisiert: 2026-10-10
 - [Local SEO in der Schweiz: Sprachen, Verzeichnisse und Recht](https://localdominate.org/blog-md/local-seo-schweiz.md) — Kategorie: Regionen; HTML: https://localdominate.org/blog/local-seo-schweiz; Aktualisiert: 2026-10-10
 - [Local SEO für Sprachschulen & Nachhilfe-Institute](https://localdominate.org/blog-md/local-seo-sprachschule.md) — Kategorie: Branchen; HTML: https://localdominate.org/blog/local-seo-sprachschule; Aktualisiert: 2026-08-08
@@ -181,7 +181,7 @@ ai_crawler_notice: "Index aller kanonischen Markdown-Fassungen für AI-Crawler o
 - [TikTok als Suchort für lokale Betriebe: Was TikTok dokumentiert und was Sie tun können](https://localdominate.org/blog-md/tiktok-search-local-seo-2026.md) — Kategorie: Soziale Suche; HTML: https://localdominate.org/blog/tiktok-search-local-seo-2026; Aktualisiert: 2026-10-12
 - [Local-SEO-Vorlagen, Checklisten und Werkzeuge im Überblick](https://localdominate.org/blog-md/tools-ressourcen-hub.md) — Kategorie: Themenübersicht; HTML: https://localdominate.org/blog/tools-ressourcen-hub; Aktualisiert: 2026-10-12
 - [Probleme mit dem Google-Unternehmensprofil: alle Lösungen im Überblick](https://localdominate.org/blog-md/troubleshooting-hub.md) — Kategorie: Themenübersicht; HTML: https://localdominate.org/blog/troubleshooting-hub; Aktualisiert: 2026-10-12
-- [Local SEO: Der Leitfaden für lokale Unternehmen](https://localdominate.org/blog-md/ultimate-guide-local-seo.md) — Kategorie: Grundlagen; HTML: https://localdominate.org/blog/ultimate-guide-local-seo; Aktualisiert: 2026-10-12
+- [Local SEO: Der Leitfaden für lokale Unternehmen](https://localdominate.org/blog-md/ultimate-guide-local-seo.md) — Kategorie: Grundlagen; HTML: https://localdominate.org/blog/ultimate-guide-local-seo; Aktualisiert: 2026-11-19
 - [Google-Unternehmensprofil und KI 2026: Was Google dokumentiert und welche Felder Sie pflegen sollten](https://localdominate.org/blog-md/unternehmensprofil-ki-funktionen-2026.md) — Kategorie: Google Unternehmensprofil; HTML: https://localdominate.org/blog/unternehmensprofil-ki-funktionen-2026; Aktualisiert: 2026-10-11
 - [Sprachassistenten 2026: Siri, Gemini und Alexa für lokale Betriebe in Deutschland, Österreich und der Schweiz](https://localdominate.org/blog-md/voice-search-sprachassistenten-local-seo-2026.md) — Kategorie: Sprachsuche; HTML: https://localdominate.org/blog/voice-search-sprachassistenten-local-seo-2026; Aktualisiert: 2026-10-12
 - [Was ist GEO? Generative Engine Optimization zwischen Forschung, Google-Aussagen und Agenturversprechen](https://localdominate.org/blog-md/was-ist-geo-generative-engine-optimization.md) — Kategorie: KI-Suche; HTML: https://localdominate.org/blog/was-ist-geo-generative-engine-optimization; Aktualisiert: 2026-10-11

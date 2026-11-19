@@ -327,6 +327,7 @@ const article: V4Article = {
     { slug: "local-seo-zahnarzt", title: "Local SEO für Zahnärzte" },
     { slug: "google-bewertungen-bekommen", title: "Google-Bewertungen bekommen" },
     { slug: "google-business-kategorien-guide", title: "Google Business Kategorien richtig wählen" },
+    { slug: "local-seo-fitness", title: "Lokales SEO für Fitnessstudios: mehr Probetrainings" },
   ],
   cta: {
     title: "Wie steht Ihre Praxis bei Google da?",

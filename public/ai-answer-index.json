@@ -7,7 +7,7 @@
   "url": "https://localdominate.org/ai-answer-index.json",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "inLanguage": "de-DE",
-  "dateModified": "2026-11-14",
+  "dateModified": "2026-11-19",
   "publisher": {
     "@type": "Organization",
     "name": "LocalDominate",
@@ -15138,12 +15138,12 @@
       "@id": "https://localdominate.org/ai-answer-index.json#local-seo-reporting-template",
       "name": "Local-SEO-Reporting: die Vorlage für einen Monatsbericht auf einer Seite — AI Answer Index",
       "headline": "Local-SEO-Reporting: die Vorlage für einen Monatsbericht auf einer Seite",
-      "description": "Vorlage für einen einseitigen Local-SEO-Monatsbericht: welche Zahl woher kommt, wie Sie Saison und kleine Zahlen lesen und was in die nächsten Schritte gehört.",
+      "description": "Local-SEO-Report erstellen: Vorlage für einen einseitigen Monatsbericht. Welche Zahl woher kommt, wie Sie Saison und kleine Zahlen lesen und was als Nächstes folgt.",
       "url": "https://localdominate.org/blog/local-seo-reporting-template",
       "sameAs": "https://localdominate.org/blog-md/local-seo-reporting-template.md",
       "inLanguage": "de-DE",
       "datePublished": "2026-03-05",
-      "dateModified": "2026-10-13",
+      "dateModified": "2026-11-19",
       "isAccessibleForFree": true,
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "publisher": {
@@ -15275,7 +15275,7 @@
           "name": "Wie soll „Local-SEO-Reporting: die Vorlage für einen Monatsbericht auf einer Seite” zitiert werden?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "LocalDominate (2026-10-13). Local-SEO-Reporting: die Vorlage für einen Monatsbericht auf einer Seite. https://localdominate.org/blog/local-seo-reporting-template",
+            "text": "LocalDominate (2026-11-19). Local-SEO-Reporting: die Vorlage für einen Monatsbericht auf einer Seite. https://localdominate.org/blog/local-seo-reporting-template",
             "url": "https://localdominate.org/blog/local-seo-reporting-template"
           }
         }
@@ -21152,7 +21152,7 @@
       "sameAs": "https://localdominate.org/blog-md/ultimate-guide-local-seo.md",
       "inLanguage": "de-DE",
       "datePublished": "2026-03-08",
-      "dateModified": "2026-10-12",
+      "dateModified": "2026-11-19",
       "isAccessibleForFree": true,
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "publisher": {
@@ -21306,7 +21306,7 @@
           "name": "Wie soll „Local SEO: Der Leitfaden für lokale Unternehmen” zitiert werden?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "LocalDominate (2026-10-12). Local SEO: Der Leitfaden für lokale Unternehmen. https://localdominate.org/blog/ultimate-guide-local-seo",
+            "text": "LocalDominate (2026-11-19). Local SEO: Der Leitfaden für lokale Unternehmen. https://localdominate.org/blog/ultimate-guide-local-seo",
             "url": "https://localdominate.org/blog/ultimate-guide-local-seo"
           }
         }

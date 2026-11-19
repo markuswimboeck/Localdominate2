@@ -6,13 +6,13 @@ canonical: https://localdominate.org/blog/local-seo-reporting-template
 markdown_url: https://localdominate.org/blog-md/local-seo-reporting-template.md
 language: de-DE
 published: 2026-03-05
-updated: 2026-10-13
+updated: 2026-11-19
 reading_time_minutes: 13
 category: "Messen"
 author: LocalDominate Redaktion
 accountable: Markus Wimböck
 publisher: LocalDominate
-description: "Vorlage für einen einseitigen Local-SEO-Monatsbericht: welche Zahl woher kommt, wie Sie Saison und kleine Zahlen lesen und was in die nächsten Schritte gehört."
+description: "Local-SEO-Report erstellen: Vorlage für einen einseitigen Monatsbericht. Welche Zahl woher kommt, wie Sie Saison und kleine Zahlen lesen und was als Nächstes folgt."
 ---
 
 # Local-SEO-Reporting: die Vorlage für einen Monatsbericht auf einer Seite
@@ -244,4 +244,4 @@ Monatlich reicht für die meisten lokalen Betriebe. Die Suchbegriffe im Unterneh
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-13. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-11-19. Fehler gefunden? info@localdominate.org

@@ -304,6 +304,7 @@ const article: V4Article = {
     { slug: "google-my-business-optimieren", title: "Google Unternehmensprofil optimieren" },
     { slug: "gbp-attribute-richtig-nutzen", title: "Attribute im Unternehmensprofil richtig nutzen" },
     { slug: "gbp-mehrere-standorte", title: "Mehrere Standorte im Unternehmensprofil" },
+    { slug: "google-unternehmensprofil-erstellen", title: "Google Unternehmensprofil erstellen: kostenlose Anleitung" },
   ],
   cta: {
     title: "Passt Ihre Kategorie zu Ihrem Betrieb?",

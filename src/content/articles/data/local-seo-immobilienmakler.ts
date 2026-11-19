@@ -270,6 +270,7 @@ const article: V4Article = {
     { slug: "google-bewertungen-bekommen", title: "Google-Bewertungen bekommen: So fragen Sie richtig" },
     { slug: "nap-konsistenz-local-seo", title: "NAP-Konsistenz: So bringen Sie Ihre Firmendaten überall auf einen Stand" },
     { slug: "local-seo-muenchen", title: "Local SEO in München: sichtbar in den Vierteln, die Sie wirklich bedienen" },
+    { slug: "local-seo-umzugsunternehmen", title: "Local SEO für Umzugsunternehmen: in zwei Städten gefunden" },
   ],
   cta: {
     title: "Wo steht Ihr Büro heute?",

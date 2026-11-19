@@ -292,6 +292,7 @@ const article: V4Article = {
     { slug: "google-business-kategorien-guide", title: "Google Business Kategorien richtig wählen" },
     { slug: "google-bewertungen-bekommen", title: "Google-Bewertungen bekommen" },
     { slug: "localbusiness-schema-implementierung", title: "LocalBusiness Schema implementieren" },
+    { slug: "local-seo-umzugsunternehmen", title: "Local SEO für Umzugsunternehmen: in zwei Städten gefunden" },
   ],
   cta: {
     title: "Wie finden Firmenkunden Ihre Reinigungsfirma?",

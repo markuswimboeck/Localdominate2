@@ -378,6 +378,7 @@ const article: V4Article = {
     { slug: "duplicate-listing-entfernen", title: "Doppelte Einträge entfernen" },
     { slug: "nap-konsistenz-local-seo", title: "NAP-Konsistenz: einheitliche Firmendaten" },
     { slug: "local-seo-handwerker", title: "Local SEO für Handwerker" },
+    { slug: "google-unternehmensprofil-erstellen", title: "Google Unternehmensprofil erstellen: kostenlose Anleitung" },
   ],
   cta: {
     title: "Hängt Ihre Bestätigung fest?",
