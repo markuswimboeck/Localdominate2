@@ -10,7 +10,7 @@
  *
  * Output (inside dist/):
  *   index.html, <path>/index.html   prerendered pages (en-US, like Googlebot sees them today)
- *   spa-fallback.html               the untouched SPA shell; hosts must serve it for unknown paths
+ *   spa-fallback.html               the SPA shell with robots noindex; hosts must serve it for unknown paths
  *                                   (serving the prerendered index.html there would leak the home
  *                                   page canonical onto 404s)
  *   prerender-manifest.json         list of prerendered paths
@@ -36,6 +36,7 @@ const PORT = Number(args.port || 4180);
 const BASE = `http://127.0.0.1:${PORT}`;
 const GENERIC_TITLE = "Local Dominator â€“ Local SEO & AI-Sichtbarkeit";
 const LOCALE = "en-US";
+const FALLBACK_ROBOTS_RE = /<meta name="robots" content="noindex, follow" data-indexable="([^"]*)" \/>/;
 // Live pages that are newer than the frozen SEO baseline. They are prerendered like the baseline
 // URLs but are not part of the baseline, so seo-check does not compare them.
 const AUDIENCE_SLUGS = ["hotels", "holiday-rentals", "trades", "restaurants", "practices", "online-stores", "hair-salons", "fitness-studios"]; // keep in sync with src/data/v4AudienceSlugs.ts
@@ -168,7 +169,9 @@ async function main() {
   // Keep the pristine shell (re-running the script must not prerender on top of a prerendered page).
   const fallbackPath = path.join(DIST, "spa-fallback.html");
   if (!fs.existsSync(fallbackPath)) fs.copyFileSync(shellPath, fallbackPath);
-  let shell = fs.readFileSync(fallbackPath, "utf8");
+  // The fallback is written back with a noindex robots tag at the end of this run (see below); undo
+  // that here so a re-run starts from the pristine shell again.
+  let shell = fs.readFileSync(fallbackPath, "utf8").replace(FALLBACK_ROBOTS_RE, (_m, original) => `<meta name="robots" content="${original}" />`);
   // Mark the shell's own scripts/styles so capture() keeps exactly those and drops runtime-injected ones.
   const markedShell = shell.replace(/<(script|style)/g, "<$1 data-shell");
   const mainCssMatch = shell.match(/<link rel="stylesheet" crossorigin href="(\/assets\/index-[^"]+\.css)">/);
@@ -260,6 +263,16 @@ async function main() {
     const out = toFile(r.path);
     fs.mkdirSync(path.dirname(out), { recursive: true });
     fs.writeFileSync(out, html);
+  }
+  // Unknown paths get spa-fallback.html with HTTP 200 (a static host cannot send 404 for them). The
+  // NotFound page sets noindex only once JavaScript has run, so a crawler that reads the raw HTML saw
+  // "index, follow" on every invented URL. Every indexable route is prerendered to its own file, so the
+  // fallback only ever answers unknown paths and internal previews: ship it as noindex. The app still
+  // rewrites the tag at runtime; data-indexable keeps the original value for the next run.
+  if (!only) {
+    const robotsRe = /<meta name="robots" content="([^"]*)"\s*\/?>/;
+    if (!robotsRe.test(shell)) { console.error("dist/index.html has no robots meta tag; cannot mark the fallback noindex"); process.exit(2); }
+    fs.writeFileSync(fallbackPath, shell.replace(robotsRe, (_m, original) => `<meta name="robots" content="noindex, follow" data-indexable="${original}" />`));
   }
   fs.writeFileSync(path.join(DIST, "prerender-manifest.json"), JSON.stringify({ locale: LOCALE, pages: results.map((r) => r.path).sort() }, null, 1));
 
