@@ -342,6 +342,7 @@ const article: V4Article = {
     { slug: "google-bewertungen-bekommen", title: "Google-Bewertungen bekommen: So fragen Sie richtig" },
     { slug: "negative-google-bewertungen", title: "Negative Google-Bewertungen: Richtig antworten, richtig melden" },
     { slug: "local-seo-keywords-finden", title: "Local SEO Keywords finden: So suchen Ihre Kunden wirklich" },
+    { slug: "local-seo-kosmetikstudio", title: "SEO für Kosmetikstudios: Behandlungen bei Google zeigen" },
   ],
   cta: {
     title: "Wo steht Ihr Salon heute?",

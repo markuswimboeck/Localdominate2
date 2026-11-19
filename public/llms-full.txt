@@ -1,6 +1,6 @@
 # LocalDominate - Full LLM information file
 # Version: 4.1
-# Last Updated: 2026-11-14
+# Last Updated: 2026-11-19
 # Language: English (company facts), German (article summaries and SEO lexicon)
 # Primary Domain: https://localdominate.org
 
@@ -19,7 +19,7 @@ founder: Markus Wimböck
 contact: info@localdominate.org
 main_language: en-GB (page /de: de-DE; blog and SEO lexicon: mostly de-DE)
 license: Quoting with attribution is allowed
-last_update: 2026-11-14
+last_update: 2026-11-19
 citation_required: true
 preferred_citation: "LocalDominate (2026), localdominate.org"
 ```
@@ -699,7 +699,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Local SEO: Der Leitfaden für lokale Unternehmen
 **URL:** https://localdominate.org/blog/ultimate-guide-local-seo
 **Markdown:** https://localdominate.org/blog-md/ultimate-guide-local-seo.md
-**Aktualisiert:** 2026-10-12
+**Aktualisiert:** 2026-11-19
 
 **Kurzantwort:** Local SEO sind alle Maßnahmen, mit denen ein Betrieb bei ortsbezogenen Suchen in Google Maps, im Kartenblock der Suche und zunehmend in KI-Antworten erscheint. Google sortiert dabei nach Relevanz, Entfernung und Bekanntheit. Den größten Hebel haben ein vollständiges Unternehmensprofil, eine klare Website, einheitliche Firmendaten und echte Bewertungen.
 
@@ -1013,7 +1013,7 @@ Pro Artikel steht die Kurzantwort aus dem Artikel selbst. Zahlen, Studien und Re
 #### Local-SEO-Reporting: die Vorlage für einen Monatsbericht auf einer Seite
 **URL:** https://localdominate.org/blog/local-seo-reporting-template
 **Markdown:** https://localdominate.org/blog-md/local-seo-reporting-template.md
-**Aktualisiert:** 2026-10-13
+**Aktualisiert:** 2026-11-19
 
 **Kurzantwort:** Ein guter Local-SEO-Monatsbericht passt auf eine Seite und dient einer Entscheidung. Er enthält wenige Zahlen aus dem Google-Unternehmensprofil, der Search Console, der Web-Analyse und dem eigenen Anfrage- und Buchungseingang, jeweils mit Vorjahresmonat. Darunter steht, was im Monat geändert wurde, was die Zahlen zeigen und welche zwei oder drei Schritte als Nächstes folgen, mit Verantwortlichem und Termin.
 
@@ -2388,7 +2388,7 @@ Bei Fragen zur Nutzung unserer Inhalte durch AI-Systeme:
 
 # Ende von llms-full.txt
 # Version: 4.1 — Quotable Corpus 2026
-# Letzte Aktualisierung: 2026-11-14
+# Letzte Aktualisierung: 2026-11-19
 # Kontakt: info@localdominate.org
 
 ---

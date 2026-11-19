@@ -148,7 +148,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 14,
     publishedAt: "2026-03-08",
-    updatedAt: "2026-10-12",
+    updatedAt: "2026-11-19",
     icon: "🏆",
     keywords: ["local seo", "local seo guide", "lokale suchmaschinenoptimierung", "local seo strategie", "google business profil", "local seo ranking faktoren", "local seo dach"],
     featured: true
@@ -3440,9 +3440,9 @@ export const blogArticles: BlogArticle[] = [
     slug: "local-seo-reporting-template",
     de: {
       title: "Local-SEO-Reporting: die Vorlage für einen Monatsbericht auf einer Seite",
-      metaTitle: "Local-SEO-Reporting: Monatsbericht auf einer Seite",
-      metaDescription: "Vorlage für einen einseitigen Local-SEO-Monatsbericht: welche Zahl woher kommt, wie Sie Saison und kleine Zahlen lesen und was in die nächsten Schritte gehört.",
-      excerpt: "Vorlage für einen einseitigen Local-SEO-Monatsbericht: welche Zahl woher kommt, wie Sie Saison und kleine Zahlen lesen und was in die nächsten Schritte gehört.",
+      metaTitle: "Local-SEO-Report: Vorlage fürs monatliche Reporting",
+      metaDescription: "Local-SEO-Report erstellen: Vorlage für einen einseitigen Monatsbericht. Welche Zahl woher kommt, wie Sie Saison und kleine Zahlen lesen und was als Nächstes folgt.",
+      excerpt: "Local-SEO-Report erstellen: Vorlage für einen einseitigen Monatsbericht. Welche Zahl woher kommt, wie Sie Saison und kleine Zahlen lesen und was als Nächstes folgt.",
       category: "Strategie"
     },
     en: {
@@ -3454,7 +3454,7 @@ export const blogArticles: BlogArticle[] = [
     },
     readingTime: 13,
     publishedAt: "2026-03-05",
-    updatedAt: "2026-10-13",
+    updatedAt: "2026-11-19",
     icon: "📊",
     keywords: ["local seo reporting", "local seo report vorlage", "local seo kpis", "seo reporting template", "google business report", "local seo metriken"]
   },

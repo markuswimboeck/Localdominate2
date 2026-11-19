@@ -249,6 +249,7 @@ const article: V4Article = {
     { slug: "google-bewertungen-bekommen", title: "Google-Bewertungen bekommen: So fragen Sie richtig" },
     { slug: "local-seo-friseursalon-beauty", title: "Local SEO für Friseursalons & Beauty-Studios: Der ultimative Guide mit Buchungsintegration 2026" },
     { slug: "local-seo-keywords-finden", title: "Local SEO Keywords finden: So suchen Ihre Kunden wirklich" },
+    { slug: "local-seo-kosmetikstudio", title: "SEO für Kosmetikstudios: Behandlungen bei Google zeigen" },
   ],
   cta: {
     title: "Wo steht Ihr Studio heute?",
