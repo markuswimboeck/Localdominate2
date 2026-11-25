@@ -3,9 +3,9 @@ import type { V4Article } from "../types";
 const article: V4Article = {
   slug: "local-seo-reporting-template",
   lang: "de",
-  seoTitle: "Local-SEO-Reporting: Monatsbericht auf einer Seite",
+  seoTitle: "Local-SEO-Report: Vorlage fürs monatliche Reporting",
   seoDescription:
-    "Vorlage für einen einseitigen Local-SEO-Monatsbericht: welche Zahl woher kommt, wie Sie Saison und kleine Zahlen lesen und was in die nächsten Schritte gehört.",
+    "Local-SEO-Report erstellen: Vorlage für einen einseitigen Monatsbericht. Welche Zahl woher kommt, wie Sie Saison und kleine Zahlen lesen und was als Nächstes folgt.",
   h1: "Local-SEO-Reporting: die Vorlage für einen Monatsbericht auf einer Seite",
   kicker: "Messen",
   lead:
@@ -20,7 +20,7 @@ const article: V4Article = {
     "Der wichtigste Teil steht unten: was geändert wurde, was die Zahlen zeigen und was als Nächstes kommt, mit Namen und Datum.",
   ],
   publishedAt: "2026-03-05",
-  updatedAt: "2026-10-13",
+  updatedAt: "2026-11-19",
   readingTime: 13,
   sections: [
     {

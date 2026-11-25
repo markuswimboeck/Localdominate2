@@ -327,6 +327,7 @@ const article: V4Article = {
     { slug: "gbp-fotos-optimieren", title: "Fotos im Unternehmensprofil" },
     { slug: "google-bewertungen-bekommen", title: "Google-Bewertungen bekommen" },
     { slug: "google-business-kategorien-guide", title: "Die richtige Google-Kategorie wählen" },
+    { slug: "local-seo-garten-landschaftsbau", title: "Local SEO für Garten- und Landschaftsbau: das Gartenjahr" },
   ],
   cta: {
     title: "Wie gut finden Kunden Ihren Malerbetrieb?",

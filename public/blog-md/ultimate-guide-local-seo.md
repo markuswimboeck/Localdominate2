@@ -6,7 +6,7 @@ canonical: https://localdominate.org/blog/ultimate-guide-local-seo
 markdown_url: https://localdominate.org/blog-md/ultimate-guide-local-seo.md
 language: de-DE
 published: 2026-03-08
-updated: 2026-10-12
+updated: 2026-11-19
 reading_time_minutes: 14
 category: "Grundlagen"
 author: LocalDominate Redaktion
@@ -195,6 +195,8 @@ Messen Sie Anrufe, Routenanfragen, Website-Klicks und Anfragen, nicht nur Positi
 | Web-Analyse mit markiertem Profil-Link | Was Besucher aus dem Profil auf der Website tun, wenn der Website-Link im Profil einen UTM-Parameter trägt |
 | Ihr Anfrage- und Buchungseingang | Ob aus Sichtbarkeit tatsächlich Umsatz wird |
 
+Wie Sie diese Zahlen jeden Monat auf einer Seite zusammenfassen, zeigt die [Vorlage für den Local-SEO-Report](https://localdominate.org/blog/local-seo-reporting-template).
+
 Rechnen Sie mit Wochen bis Monaten, bis sich Änderungen stabil zeigen. Eine seriöse Zeitangabe für Ihren Fall hängt vom Wettbewerb im Ort ab, nicht von einer Faustregel.
 
 ## Häufige Fragen
@@ -240,4 +242,4 @@ Jeder Standort mit Kundenverkehr bekommt ein eigenes Profil und eine eigene Stan
 
 ---
 
-LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-10-12. Fehler gefunden? info@localdominate.org
+LocalDominate Redaktion, fachlich verantwortet von Markus Wimböck. Stand: 2026-11-19. Fehler gefunden? info@localdominate.org

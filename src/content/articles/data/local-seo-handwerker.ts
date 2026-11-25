@@ -346,6 +346,7 @@ const article: V4Article = {
     { slug: "google-bewertungen-bekommen", title: "Mehr Google-Bewertungen bekommen" },
     { slug: "google-maps-ranking-verbessern", title: "Google-Maps-Ranking verbessern" },
     { slug: "local-seo-keywords-finden", title: "Local SEO Keywords finden" },
+    { slug: "local-seo-garten-landschaftsbau", title: "Local SEO für Garten- und Landschaftsbau: das Gartenjahr" },
   ],
   cta: {
     title: "Wie gut finden Kunden Ihren Betrieb?",

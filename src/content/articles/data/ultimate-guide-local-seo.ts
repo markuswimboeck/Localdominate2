@@ -20,7 +20,7 @@ const article: V4Article = {
     "Messen Sie mit den Leistungsdaten des Profils, der Search Console und markierten Links, nicht mit dem Gefühl, „oben“ zu stehen.",
   ],
   publishedAt: "2026-03-08",
-  updatedAt: "2026-10-12",
+  updatedAt: "2026-11-19",
   readingTime: 14,
   sections: [
     {
@@ -315,6 +315,10 @@ const article: V4Article = {
         },
         {
           t: "p",
+          text: "Wie Sie diese Zahlen jeden Monat auf einer Seite zusammenfassen, zeigt die [Vorlage für den Local-SEO-Report](/blog/local-seo-reporting-template).",
+        },
+        {
+          t: "p",
           text: "Rechnen Sie mit Wochen bis Monaten, bis sich Änderungen stabil zeigen. Eine seriöse Zeitangabe für Ihren Fall hängt vom Wettbewerb im Ort ab, nicht von einer Faustregel.",
         },
       ],
@@ -365,6 +369,7 @@ const article: V4Article = {
     { slug: "google-maps-ranking-verbessern", title: "Google-Maps-Ranking verbessern" },
     { slug: "google-bewertungen-bekommen", title: "Mehr Google-Bewertungen bekommen" },
     { slug: "nap-konsistenz-local-seo", title: "NAP-Konsistenz: einheitliche Firmendaten" },
+    { slug: "google-unternehmensprofil-erstellen", title: "Google Unternehmensprofil erstellen: kostenlose Anleitung" },
   ],
   cta: {
     title: "Wo steht Ihr Betrieb heute?",
