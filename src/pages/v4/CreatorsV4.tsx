@@ -49,6 +49,7 @@ export default function CreatorsV4() {
         title={CREATORS_SEO.title}
         description={CREATORS_SEO.description}
         canonicalUrl={CREATORS_URL}
+        alternateUrls={{ en: CREATORS_URL, ar: CREATORS_URL.replace("localdominate.org/", "localdominate.org/ar/") }}
         lang="en"
         jsonLd={CREATORS_JSON_LD}
         ogImage="https://localdominate.org/images/v4/social/ld-social-creators-1200x630.jpg"

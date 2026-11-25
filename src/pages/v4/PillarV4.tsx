@@ -505,6 +505,7 @@ export default function PillarV4() {
         title={copy.seoTitle}
         description={copy.seoDescription}
         canonicalUrl={`${SITE}${pillarPath(p.id)}`}
+        alternateUrls={{ en: `${SITE}${pillarPath(p.id)}`, ar: `${SITE}/ar${pillarPath(p.id)}` }}
         lang="en"
         jsonLd={jsonLdFor(p)}
       />

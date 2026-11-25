@@ -148,6 +148,7 @@ export default function ApproachV4() {
         title={TITLE}
         description="Seven steps from diagnosis to scale: Diagnose, Position, Create, Build, Launch, Grow, Scale. Each step with its outputs, offers and the projects that show it."
         canonicalUrl={PAGE_URL}
+        alternateUrls={{ en: PAGE_URL, ar: PAGE_URL.replace("localdominate.org/", "localdominate.org/ar/") }}
         lang="en"
         jsonLd={JSON_LD}
         ogImage="https://localdominate.org/images/v4/social/ld-social-approach-1200x630.jpg"
